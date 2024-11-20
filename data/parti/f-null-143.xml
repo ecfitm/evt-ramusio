@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-143</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-143">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXLIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-143_1_1" n="1"> Ci devise de la cité de <term ref="#saianfu">Yangiu</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-143_2_1" n="1"> Quant l’en se parte de <term ref="#tingui">Tigiu</term>, il ala por yseloc une jornee por mout belle contree, la ou il a chastiaus et casaus
+         aseç, et adonc treuve une noble cité et grant qe est apellés <term ref="#saianfu">Yangiu</term>. Et sachiés q’ele est si grant et si poisant qe bien a sout sa seingnorie .XXVII.
+         cités grant et boines et de grant mercandies. En ceste cité siet un des .XII. baronz
+         dou <term ref="#gran-can">Grant Kaan</term>, car elle est esleue por un des .XII. sejes. Il sunt <term ref="#idolatri">ydres</term>; lor monoie ont de carte et sunt au Grant Chan. </seg>
+      <seg xml:id="f-null-143_2_2" n="2"> Et meser Marc Pol meisme, celui de cui trate ceste livre, seingneurie ceste
+         cité por trois anz. </seg>
+      <seg xml:id="f-null-143_2_3" n="3"> Il vivent de mercandies et d’ars, car il i se font arnois
+         |63c| de chevalers et d’omes d’armes en grandisime quantité, car je voç di tout voirmant
+         qe en ceste cité et environ por sa pertinence demorent maintes homes d’armes. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-143_3_1" n="1"> Il ne a autre couse qe a mentovoir face. Nos partiron de ci et vos conteron des
+         deus grant provence qe do <term ref="#cataio">Catai</term> meisme sunt. Elle sunt ver ponent; et por ce qe il hi a bien couse da conter, voç
+         en conteron de elles tous lor costumes et lor usance, et conteron de le une avant,
+         qe est apellé <term ref="#nanghin">Nanghin</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

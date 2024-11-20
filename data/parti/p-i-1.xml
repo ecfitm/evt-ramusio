@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-1">
+    <head>
+      <hi rend="bold">P, I 1</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-1_2_1" n="1"> Tempore quo <term ref="#balduino">Balduinus</term> princeps sceptrum Constantinopolitani imperii gubernabat, anno scilicet ab incarnacione
+         Domini .MCCL., duo nobiles ac honorabiles prudentesque germani, inclite civitatis
+         Veneciarum incole, navem propriam diversis opibus et mercimoniis oneratam, communi
+         concordia in portu Ve|3c|netorum conscendentes, prospero vento flante, duce Deo, <term ref="#constantinopoli">Constantinopolim</term> perexerunt. </seg>
+      <seg xml:id="p-i-1_2_2" n="2"> Horum maior natu Nicolaus dicebatur, alter vero Matheus, quorum progenies
+         domus Pauli vocabatur. </seg>
+      <seg xml:id="p-i-1_2_3" n="3"> Cumque in Constantinopolitana urbe brevi in tempore fuissent,
+         breviter et feliciter expediti navigantes inde profecti amplioris gracia, pervenerunt
+         ad portum civitatis <term ref="#armenia">Armenie</term> que dicitur <term ref="#soldadia">Soldadia</term>, ubi, preciosa iocalia preparantes secundum sibi data consilia, unius magni regis
+         <term ref="#tartari">Tartarorum</term> curiam adierunt qui dicitur <term ref="#barcha">Barcha</term>, cui cuncta que secum detulerant munera offerentes benigne ab ipso suscepti sunt,
+         a quo versa vice maxima et ampliora donaria perceperunt. </seg>
+      <seg xml:id="p-i-1_2_4" n="4"> Et cum in regno illius
+         per annum fuissent |3d| vellentque redire Venetias, subito inter prenominatum regem
+         Barka et regem alium <term ref="#tartari">Tartarorum</term>, nomine <term ref="#ulau">Alau</term>, nova grandisque discordia est exorta; et cum contra se invicem amborum exercitus
+         concertassent, <term ref="#ulau">Alau</term> victor extitit. </seg>
+      <seg xml:id="p-i-1_2_5" n="5"> Regis autem Barka exercitus ruinam non modice patuit, ob quam causam viis discriminibus circumspectis
+         remeandi eis ad propria per viam pristinam aditus regressusque preclusus est. </seg>
+      <seg xml:id="p-i-1_2_6" n="6">
+         Consilio autem inito qualiter possent <term ref="#constantinopoli">Constantinopolim</term> remeare, oportuit ipsos per regnum Barka per vias oppositas circuire, sicque pervenerunt ad civitatem que dicitur <term ref="#ouchacha">Onchacha</term>; inde progredientes transierunt fluvium Tygridis, qui unus est de quattuor fluminibus Paradisi, pertransieruntque desertum per dietas
+         .XVII., necque civitatem necque oppida repe|4a|rientes omnino donec pervenirent ad
+         civitatem optimam que dicitur <term ref="#bocara">Bochara</term> in regione Persidis, cui rex quidam nomine <term ref="#barach">Barach</term> presidebat, ubi annis tribus immorati sunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

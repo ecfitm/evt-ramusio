@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-14-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-14">
+      <note>
+	<p>La fonte di Ramusio è sempre Z, come si evince dal confronto con la lezione toledana,
+         mancante però della tessera conclusiva: cfr. Z 14 26 «Sunt etiam ibi arietes magnitudinis asinorum, qui sunt grosi et largi caudas ita
+         quod una est bene ponderis .XXX. librarum et plurium». Letterale è la resa dei sintagmi
+         latini: ad es. <hi rend="italics">.XXX. librarum et plurium</hi> Z &gt;<hi rend="italics"> libbre trenta e più</hi> R, <hi rend="italics">ita quod</hi> Z &gt; <hi rend="italics">di sorte che</hi> R.</p>
+	<p>Z è fedelmente modellato su un testo francoit. vicino a <ref type="witlink" target="#f-null-35">F XXXV 9</ref> («Il ha mouton grant com asne; et ont la coe si grosse et si large que bien poisse
+         trente livres; il sunt mout biaus et gras et sunt buen a manger»); non distante da
+         F è anche <ref type="witlink" target="#l-null-29">L 29 7</ref> «Et habent arietes magnitudinis asinorum, et habent caudam tante grossitudinis et
+         latitudinis quod sunt ponderis librarum circa .XXX. Sunt enim grossi ‹valde› et pulchri,
+         et pingues et boni ad commedendum»; tendono a maggiore sintesi <ref type="witlink" target="#v-null-20">V 20 11</ref> («Anchora se trova chastroni grandi chomo axeni, li quali àno la choda tanto grasa
+         che pexa più de trenta livre grosse, ed è molti boni da manzar») e, come di consueto,
+         <ref type="witlink" target="#p-i-22">P I 22 6</ref> («Arietes ibi sunt grandes ut asini qui caudam habent permaxime longam et latam,
+         ponderis ut plurimum librarum .XXX.; pingues et pulcri sunt valde, et ad esum optimi»).
+         Dipenderà più facilmente dai limiti del traduttore che da un esemplare corrotto la
+         lezione aberrante di <ref type="witlink" target="#vb-null-22">VB XXII 12</ref> «Ànno la choda grossisima – chome ànno i chastroni di Tartaria – et, al mio iudicio,
+         di pexo de libre .XXX., ‹et› è bonissima da mangiare»).</p>
+	<p>Si noti, infine, come R, V e VB concordino nel tradurre il generico <hi rend="italics">aries</hi> / <hi rend="italics">mouton</hi> (o sim.) con <hi rend="italics">chastron</hi>(<hi rend="italics">e</hi>), voce di largo impiego a Venezia, designante propriamente il “maschio castrato”
+         (cfr. <hi rend="italics">DEI</hi>, s.v. «castrone»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

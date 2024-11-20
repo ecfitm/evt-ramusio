@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-68" n="1">
+    <head>
+      <hi rend="bold">R, II 68</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="r-ii-68_2_1" n="1"> Partendosi da <term ref="#vagiu">Vagiu</term>, si cavalca tre giornate, di continuo trovando città, castelli et villaggi, tutti
+         habitati et ricchi. </seg>
+      <seg xml:id="r-ii-68_2_2" n="2"> Le genti sono <term ref="#idolatri">idolatre</term> et sotto la signoria del <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-ii-68_2_3" n="3"> Doppo tre giornate si trova la nobile et magnifica città di <term ref="#quinsai">Quinsai</term>, che per la eccellenza, nobiltà et bellezza è stà chiamata con questo nome, che vuol
+         dire “città del cielo”, perché al mondo non vi è una simile, né dove si trovino tanti
+         piaceri, et che l’huomo si reputi essere in paradiso. </seg>
+      <seg xml:id="r-ii-68_2_4" n="4"> In questa città messer Marco Polo vi fu assai volte et volse con gran diligentia
+         considerare et intender tutte le condition di quella, descrivendola sopra i suoi memoriali,
+         come qui di sotto si dirà con brevità. </seg>
+      <seg xml:id="r-ii-68_2_5" n="5"> Questa città, per commune opinione, ha di circuito cento miglia, perché le strade
+         et canali di quella sono molto larghi et ampli; poi vi sono piazze dove fanno mercato,
+         che per la grandissima moltitudine che vi concorre è necessario che siano grandissime
+         et amplissime. </seg>
+      <seg xml:id="r-ii-68_2_6" n="6"> Et è situata in questo modo, che ha da una banda un lago di acqua dolce, qual è chiarissimo,
+         et dall’altra vi è un fiume grossissimo, qual, entrando per molti canali grandi et
+         piccioli che discorrono in cadauna parte della città, et leva via tutte le immonditie
+         et poi entra in detto lago et da quello scorre fino all’<term ref="#mare-oceano">Oceano</term>, il che causa bonissimo aere: et per tutta la città si puol andar per terra et per
+         questi rivi. </seg>
+      <seg xml:id="r-ii-68_2_7" n="7"> Et le strade et canali sono larghi et grandi, che commodamente vi possono passar
+         barche et carri a portar le cose |45v| necessarie agli habitanti. </seg>
+      <seg xml:id="r-ii-68_2_8" n="8"> Et è fama che vi siano dodicimila ponti, fra grandi et piccioli: ma quelli che sono
+         fatti sopra i canali maestri et la strada principale sono stà voltati tanto alti et
+         con tanto magisterio che una nave vi puol passare di sotto senza albero; et nondimeno
+         vi passano sopra carrette et cavalli, talmente sono accommodate piane le strade con
+         l’altezza. [9] Et se non vi fussero in tanto numero non si potria andar da un luogo all’altro. [10] Dall’altro canto della città vi è una fossa, lunga forse quaranta miglia, che la
+         serra da quella banda, et è molto larga et piena d’acqua, che viene dal detto fiume;
+         la qual fu fatta far per quelli re antichi di quella provincia, per potere derivar
+         il fiume in quella ogni fiata che ’l cresce sopra le rive, et serve ancho per fortezza
+         della città; et la terra cavata fu posta dentro, che fa la similitudine di picciol
+         colle che la circonda. [11] Ivi sono dieci piazze principali, oltra infinite altre
+         per le contrade, che sono quadre, cioè mezzo miglio per lato. [12] Et dalla parte
+         davanti di quelle vi è una strada principale, larga 40 passa, che corre dritta da
+         un capo all’altro della città, con molti ponti che la traversano, piani et commodi;
+         et ogni 4 miglia si trova una di queste tal piazze, che hanno di circuito (come è
+         detto) due miglia. [13] Vi è similmente un canale larghissimo, che corre all’incontro
+         di detta strada dalla parte di drieto delle dette piazze, sopra la riva vicina del
+         quale vi sono fabricate case grandi di pietra, dove ripongono tutti i mercatanti che
+         vengono d’<term ref="#india">India</term> et d’altre parti le sue robe et mercantie, acciò che le siano vicine et commode alle
+         piazze. [14] Et in cadauna di dette piazze, tre giorni alla settimana, vi è concorso di quaranta
+         in cinquantamila persone, che vengono al mercato et portano tutto ciò che si possi
+         desiderare al vivere, perché sempre vi è copia grande di ogni sorte di vittuarie,
+         di salvaticine, cioè caprioli, cervi, daini, lepori, conigli, et d’uccelli, pernici,
+         fagiani, <term ref="#francholini">francollini</term>, <term ref="#coturnice">coturnici</term>, galline, capponi, et tante anitre et oche che non si potriano dir piú, perché se
+         ne allevano tante in quel lago che per un <term ref="#grosso">grosso</term> di argento venetiano se ha un paro di oche et duoi para di anitre. [15] Vi sono poi le beccarie, dove ammazzano gli animali grossi, come vitelli, buoi, capretti
+         et agnelli, le qual carni mangiano gli huomini ricchi et gran maestri; ma gli altri
+         che sono di bassa conditione non si astengono da tutte l’altre sorti di carni immonde,
+         senza havervi alcun rispetto. [16] Vi sono di continuo sopra le dette piazze tutte le sorti di herbe et frutti, et sopra
+         tutti gli altri peri grandissimi, che pesano dieci libre l’uno, quali sono di dentro
+         bianchi come una pasta et odoratissimi; persiche alli suoi tempi gialle et bianche,
+         molto delicate. [17] Uva né vino non vi nasce, ma ne viene condotta d’altrove di secca,
+         molto buona, et similmente del vino, del quale gli habitanti non si fanno troppo conto,
+         essendo avezzi a quel di riso et di specie. [18] Vien condotto poi dal <term ref="#mare-oceano">mare Oceano</term> ogni giorno gran quantità di pesce all’incontro del fiume per il spatio di venticinque
+         miglia, et vi è copia ancho di quel del lago, che tutt’hora vi sono pescatori che
+         non fanno altro, qual è di diverse sorti, secondo le stagioni dell’anno, et per le
+         immondicie che vengono dalla città è grasso et saporito, che chi vede la quantità
+         del detto pesce non penseria mai che ’l si dovesse vendere; et nondimeno in poche
+         hore vien tutto levato via, tanta è la moltitudine degli habitanti avezzi a vivere
+         delicatamente, perché mangiano et pesce et carne in un medemo convito. [19] Tutte
+         le dette dieci piazze sono circondate di case alte, et di sotto vi sono botteghe dove
+         si lavorano ogni sorte di arti et si vende ogni sorte di mercantie et speciarie, gioie,
+         perle; et in alcune botteghe non si vende altro che vino fatto di risi con speciarie,
+         perché di continuo lo vanno faccendo di fresco in fresco, et è buon mercato. [20] Vi sono molte strade che rispondono sopra dette piazze, in alcune delle quali vi
+         sono molti bagni di acqua fredda, accommodati con molti servitori et servitrici, che
+         attendono a lavare et huomini et donne che vi vanno, percioché da piccioli sono usati
+         a lavarsi in acqua fredda d’ogni tempo, la qual cosa dicono essere molto a proposito
+         della sanità. [21] Tengono anchora in detti bagni alcune camere con l’acqua calda
+         per forestieri, che non potriano patire la fredda, non essendovi avezzi. [22] Ogni
+         giorno hanno usanza di lavarsi, et non mangieriano se non fossero lavati. [23] In altre strade stantiano le donne da partido, che sono in tanto numero che non ardisco
+         a dirlo, et non solamente appresso le piazze, dove sono ordinariamente i luoghi loro
+         deputati, ma per tutta la città; le qual stanno molto pomposamente, con grandi odori
+         et con molte serve et le case tutte adornate. [24] Queste donne sono molto valenti
+         et prattiche in sapere far lusinghe et carezze, con parole pronte et accommodate a
+         cadauna sorte di persone, di maniera che i forestieri che le gustano una volta rimangono
+         come fuor di sé, et tanto sono |46r| presi dalla dolcezza et piacevolezza sua che
+         mai se le possono domenticare: et da qui adviene che, come ritornano a casa, dicono
+         esser stati in <term ref="#quinsai">Quinsai</term>, cioè in la città del cielo, et non veggono mai l’hora che di nuovo possino ritornarvi.
+         [25] In altre strade stantiano tutti li medici, astrologhi, quali ancho insegnano
+         a leggere et scrivere et infiniti altri mestieri. [26] Hanno li suoi luoghi a torno
+         a torno dette piazze, sopra cadauna delle quali vi sono duoi palazzi grandi, un da
+         un capo et l’altro dall’altro, dove stantiano i signori deputati per il re, che fanno
+         rason immediate se accade alcuna differentia fra li mercatanti, et similmente fra
+         alcuni degli habitanti in quelli contorni. [27] Detti signori hanno carico d’intendere
+         ogni giorno se le guardie che si fanno nelli ponti vicini (come di sotto si dirà)
+         vi siano state o vero habbino mancato, et le puniscono come a loro pare. [28] Al lungo la strada principale, che habbiamo detto che corre da un capo all’altro
+         della città, vi sono da una banda et dall’altra case et palazzi grandissimi con li
+         suoi giardini, et appresso case de artefici che lavorano in le sue botteghe. [29] Et a tutt’hore se incontrano genti che vanno su et giú per le sue faccende, che li
+         accade che a vedere tanta moltitudine ognun crederia che non fusse possibile che si
+         trovasse vittuarie a bastanza di poterla pascere: et nondimeno in ogni giorno di mercato
+         tutte le dette piazze sono coperte et ripiene di genti et mercatanti, che le portano
+         et sopra carri et sopra navi, et tutta si spaccia. [30] Et per dire una similitudine del pevere che si consuma in questa città, accioché
+         da questa si possi considerare la quantità delle vittuarie, carni, vini, speciarie,
+         che alle spese universale che si fanno si ricerchino, messer Marco sentite far il
+         conto, da un di quelli che attendono alle dovane del <term ref="#gran-can">Gran Can</term>, che in la città di <term ref="#quinsai">Quinsai</term>, per uso di quella, si consumava ogni giorno quarantatré some di pevere: et cadauna
+         soma è libre dugento et ventitre. [31] Gli habitatori di questa città sono <term ref="#idolatri">idolatri</term>, et spendono moneta di carta; et cosí gli huomini come le donne sono bianchi et belli,
+         et vestono di continuo la maggior parte di seda, per la grande abondanza che hanno
+         di quella, che nasce in tutto il territorio di <term ref="#quinsai">Quinsai</term>, oltra la gran quantità che di continuo per mercatanti vien portata di altre provincie.
+         [32] Vi sono dodici arti che sono riputate le principali che habbino maggior corso dell’altre,
+         cadauna delle quali ha mille botteghe, et in cadauna bottega o vero stantia vi dimorano
+         dieci, quindici et venti lavoranti, et in alcune fino a quaranta, sotto il suo patrone
+         o vero maestro. [33] Li ricchi et principal capi di dette botteghe non fanno opera alcuna con le loro
+         mani, ma stanno civilmente et con gran pompa. [34] Il medemo fanno le loro donne et mogli, che sono bellissime, com’è detto, et allevate
+         morbidamente et con gran delicatezze, et vestono con tanti adornamenti di seda et
+         di gioie che non si potria stimare la valuta di quelli. [35] Et anchor che per li re antichi fosse ordinato per legge che cadauno habitante fosse
+         obligato ad essercitare l’arte del padre, nondimeno, come diventano ricchi, li era
+         permesso di non lavorar piú con le proprie mani, ma ben erano obligati di tenire la
+         bottega, et huomini che vi essercitassino l’arte paterna. [36] Hanno le loro case molto ben composte et riccamente lavorate, et tanto si dilettano
+         negli ornamenti, pitture et fabriche, che è cosa stupenda la gran spesa che vi fanno.
+         [37] Gli habitanti naturali della città di <term ref="#quinsai">Quinsai</term> sono huomini pacifici, per esser stà cosí allevati et avezzi dalli loro re, ch’erano
+         della medema natura. [38] Non sanno maneggiar armi, né quelle tengono in casa; mai
+         fra loro si ode o sente lite o vero differentia alcuna. [39] Fanno le loro mercantie
+         et arti con gran realtà et verità; si amano l’un l’altro, di sorte che una contrada,
+         per l’amorevolezza che è fra gli huomini et le donne per causa della vicinanza, si
+         puol riputare una casa sola, tanta è la domestichezza ch’è fra loro, senza alcuna
+         gelosia o sospetto delle lor donne, alle quali hanno grandissimo rispetto: et saria
+         reputato molto infame uno che osasse dir parole inhoneste ad alcuna maritata. [40]
+         Amano similmente i forestieri che vengono a loro per causa di mercantie et gli accettano
+         volentieri in casa, faccendoli carezze, et li danno ogni aiuto et consiglio nelle
+         faccende che fanno. [41] All’incontro non vogliono veder soldati né quelli delle guardie
+         del <term ref="#gran-can">Gran Can</term>, parendoli che per causa sua siano stà privati delli loro naturali re et signori.
+         [42] D’intorno di questo lago vi sono fabricati bellissimi edificii et gran palazzi, dentro
+         et di fuori mirabilmente adorni, che sono di gentilhuomini et gran maestri; vi sono
+         ancho molti tempii degl’idoli con li suoi monasterii, dove stanno gran numero di monachi
+         che li servono. [43] Sono anchora in mezzo di questo lago due isole, sopra cadauna delle quali vi è fa|bricato
+         |46v| un palazzo, con tante camere et loggie che non si potria credere: et quando
+         alcuno vuol celebrar nozze, o vero far qualche solenne convito, va ad uno di questi
+         palazzi, dove gli vien dato tutto quello che per questo effetto gli è necessario,
+         cioè vasellami, tovaglie, mantili et cadauna altra cosa, le qual sono tenute tutte
+         in detti palazzi per il commune di detta città a questo effetto, perché furono fabricati
+         da quello. [44] Et alle volte vi saranno cento, et alcuni vorranno far conviti et altri nozze: et
+         nondimeno tutti saranno accommodati in diverse camere et loggie, con tanto ordine
+         che uno non dà impedimento agli altri. [45] Oltra di questo si ritrovano in detto
+         lago legni o vero barche in gran numero grandi et picciole per andar a sollazzo et
+         darsi piacere, et in queste vi ponno stare dieci, quindeci et venti et piú persone,
+         perché sono lunghe quindeci fino a venti passa, con fondo largo et piano, che navigano
+         senza declinare ad alcuna banda; et cadauno che si diletta di sollazzarsi con donne
+         o vero con suoi compagni piglia una di queste tal barche, le qual di continuo sono
+         tenute adorne con belle sedie et tavole et con tutti gli altri paramenti necessarii
+         a far un convito; di sopra sono coperte et piane, dove stanno huomini con stanghe
+         qual ficchano in terra (perché detto lago non è alto piú di due passa), et conducono
+         dette barche dove gli vien comandato. [46] La coperta della parte di dentro è dipinta
+         di varii colori et figure, et similmente tutta la barca, et vi sono a torno a torno
+         finestre che si possono serrare et aprire, accioché quelli che stanno a mangiar sentati
+         dalle bande possino riguardare di qua et di là, et dare delettatione agli occhi per
+         la varietà et bellezza d’i luoghi dove vengono condotti. [47] Et veramente l’andare per questo lago dà maggior consolatione et sollazzo che alcuna
+         altra cosa che haver si possa in terra, perché ’l giace da un lato a lungo della città,
+         di modo che di lontano, stando in dette barche, si vede tutta la grandezza et bellezza
+         di quella, tanti sono i palazzi, tempii, monasterii, giardini con alberi altissimi
+         posti sopra l’acqua. [48] Et si trovano di continuo in detto lago simil barche con
+         genti che vanno a sollazzo, perché gli habitatori di questa città non pensano mai
+         ad altro se non che, fatti che hanno i suoi mestieri o vero mercantie, con le sue
+         donne o vero con quelle da partito dispensano una parte del giorno in darsi piacere,
+         o in dette barche o vero in carrette per la città, delle qual è necessario che ne
+         parliamo alquanto, per esser un d’i piaceri che gli habitanti pigliano per la città,
+         al medemo modo che fanno con le barche per il lago. [49]  Et prima è da sapere che tutte le strade di <term ref="#quinsai">Quinsai</term> sono <term ref="#saleggiato">saleggiate</term> di pietre et di mattoni, et similmente sono <term ref="#saleggiato">saleggiate</term> tutte le vie et strade che corrono per ogni canto della provincia di <term ref="#mangi">Mangi</term>, sí che si puol andare per tutti i paesi di quella senza imbrattarsi i piedi. [50] Ma perché i corrieri del <term ref="#gran-can">Gran Can</term> con prestezza non potriano con cavalli correre sopra le strade <term ref="#saleggiato">saleggiate</term>, però è lasciata una parte di strada dalla banda senza <term ref="#saleggiato">saleggiare</term>, per causa di detti corrieri. [51] La strada veramente principale, che habbiamo detto
+         di sopra che corre da un capo all’altro della città, è saleggiata similmente di pietre et di mattoni dieci passa per cadauna banda, ma nel mezzo è
+         tutta ripiena di una giara picciola et minuta, con li suoi condutti in volto che conducono
+         le acque che piovono nelli canali vicini, di sorte che di continuo sta asciutta. [52]
+         Hor sopra questa strada di continuo si veggono andar su et giú alcune carrette lunghe,
+         coperte et acconcie con panni et cussini di seda, sopra le quali vi possono stare
+         sei persone, et vengono tolte ogni giorno da huomini et donne che vogliono andare
+         a solazzo: et si veggono tutt’hora infinite di queste carrette andar a lungo di detta
+         strada per il mezzo di quella, et se ne vanno a’ giardini, dove vengono accettati
+         dagli hortolani sotto alcune ombre fatte per questo effetto, et qui stanno a darsi
+         buon tempo tutto il giorno con le lor donne, et poi la sera se ne ritornano a casa
+         sopra dette carrette. [53] Hanno un costume gli habitatori di <term ref="#quinsai">Quinsai</term>, che come nasce un fanciullo il padre o la madre fa subito scriver il giorno et l’hora
+         et il punto del suo nascere, et si fanno dire agli astrologhi sotto qual segno l’è
+         nato, et il tutto scrivono: et come egli è venuto grande volendo far mercantia, viaggio
+         o nozze, se ne va all’astrologo con la nota sopradetta, qual, veduto et considerato
+         il tutto, dice alcune volte cose che, trovate esser vere, le genti li danno grandissima
+         fede. [54] Et di questi tal astrologhi o vero maghi ve n’è grandissimo numero sopra
+         cadauna piazza; non si celebraria sponsalitio se l’astrologo non li dicesse il parer
+         suo. [55] Hanno similmente per usanza che, quando alcun gran maestro riccho muore, tutti i
+         suoi parenti si vestono di canevazzo, sí huomini come donne, andandolo accompagnare
+         fino al |47r| luogo dove lo vogliono abbrucciare, et portano seco diverse sorti d’instrumenti,
+         con li quali vanno sonando et cantando in alta voce orationi agl’idoli; et giunti
+         al detto luogo buttano sopra il fuogo molte <term ref="#bambagio">carte bombasine</term>, dove hanno depinti schiavi, schiave, cavalli, camelli, drappi d’oro et di seda et
+         monete d’oro et d’argento, perché dicono che ’l morto possederà nell’altro mondo tutte
+         queste cose vive di carne et d’ossa, et haverà denari, drappi d’oro et di seda. [56] Et compiuto di abbrucciare suonano ad un tratto con grande allegrezza tutti li stormenti
+         di continuo cantando, perché dicono che con tal honore li suoi idoli ricevono l’anima
+         di quello che si è abbrucciato, et che l’è rinasciuto nell’altro mondo, comincia una
+         vita di nuovo. [57] In questa città in cadauna contrada vi sono fabricate torri di pietra, nelle qual,
+         in caso che si apizzi fuogo in qualche casa (il che spesso suol accadere, per esservene
+         molte di legno), le genti scampano le loro robe in quelle. [58] Et anchor è ordinato per il <term ref="#gran-can">Gran Can</term> che sopra la maggior parte d’i ponti vi stiano notte et giorno sott’un coperto dieci
+         guardiani, cioè cinque la notte et cinque il giorno, et in cadauna guardia vi è un
+         tabernacolo grande di legno con un bacino grande et un horiuolo, con il quale cognoscono
+         l’hore della notte et cosí quelle del giorno. [59] Et sempre al principio della notte, com’è passata un’hora, un d’i detti guardiani
+         percuote una volta nel tabernacolo et nel bacino, et la contrada sente che l’è un’hora;
+         alla seconda danno due botte, et il simil fanno in cadauna hora multiplicando i colpi,
+         et non dormono mai, ma stanno sempre vigilanti. [60] La mattina poi al spontare del
+         sole cominciano a battere un’hora come hanno fatto la sera, et cosí di hora in hora.
+         [61] Vanno parte di loro per la contrada vedendo se alcuno tiene lume acceso o fuogo
+         oltra le hore deputate, et vedendolo segnano la porta, et fanno che la mattina il
+         patrone compare avanti i signori, qual, non trovando scusa legitima, viene condannato.
+         [62] Se trovano alcuno che vadi di notte oltra l’hore limitate, lo ritengono et la
+         mattina lo appresentano alli signori; item, se ’l giorno veggono alcun povero, qual
+         per esser storpiato non possa lavorare, lo fanno andare a star negli hospitali, che
+         infiniti ve ne sono per tutta la città fatti per li re antichi, che hanno grande entrate;
+         et essendo sano lo constringono a fare alcun mestiero. [63] Immediate che veggono il fuogo acceso in alcuna casa, con il battere nel tabernacolo
+         lo fanno asapere, et vi concorrono li guardiani di altri ponti a estinguerlo et salvare
+         le robe d’i mercatanti o d’altri in dette torri, et anche le mettono in barche et
+         portano all’isole che sono nel lago, perché niuno habitante della città in tempo di
+         notte haveria ardimento di uscir di casa né andare al fuogo, ma solamente vi vanno
+         quelli di chi sono le robe et queste guardie che vanno ad aiutare, le qual non sono
+         mai manco di mille o duoimila. [64] Fanno ancho guardia in caso di alcuna ribellione o sollevatione che facessero gli
+         habitanti della città, et sempre il <term ref="#gran-can">Gran Can</term> tien infiniti soldati da piè et da cavallo nella città et ne’ contorni di quella,
+         et massime di maggior suoi baroni et suoi fideli ch’egl’habbi, per esserli questa
+         provincia la piú cara, et sopra tutto questa nobilissima città, ch’è il capo et piú
+         ricca di alcun’altra che sia al mondo. [65] Vi sono similmente fatti in molti luoghi monti di terra, lontani un miglio l’un dall’altro,
+         sopra i quali vi è una baltresca di legname dove è appiccata una tavola grande di
+         legno, la qual, tenendola un huomo con la mano, la percuote con l’altra con un martello,
+         sí che si ode molto di lontano: et vi stanno delle dette guardie di continuo per far
+         segno in caso di fuogo, perché, non li faccendo presta provisione, anderia pericolo
+         di ardere mezza la città; o vero, come è detto, in caso di rebellione, che udito il
+         segno tutti i guardiani d’i ponti vicini pigliano l’armi et corrono dove è il bisogno.
+         [66] Il <term ref="#gran-can">Gran Can</term>, dapoi c’hebbe redutta a sua obedientia tutta la provincia di <term ref="#mangi">Mangi</term>, qual era un regno solo, lo volse dividere in nove parti, constituendo sopra cadauna
+         un re, li quali vi vanno a star per governare et administrare giustitia alli popoli.
+         [67] Ogn’anno rendono conto alli fattori di esso <term ref="#gran-can">Gran Can</term> di tutte l’entrate et di cadauna altra cosa pertinente al suo regno, et si cambiano
+         ogni tre anni, come fanno tutti gli altri officiali. [68] In questa città di <term ref="#quinsai">Quinsai</term> tiene la sua corte et fa residentia un d’i questi nove re, qual domina piú di cento
+         et quaranta città, tutte ricche et grandi. [69] Né alcuno si maravigli, perché nella provincia di <term ref="#mangi">Mangi</term> vi sono 1200 città, tutte habitate da gran moltitudine di genti ricche et industriose;
+         in cadauna delle quali, secondo la grandezza et bisogno, tiene la custodia il <term ref="#gran-can">Gran Can</term>, perché in alcune vi saranno mille huomini, in altre diecimila o vero ventimila,
+         secondo che ’l giudicherà |47v| che quella città sia piú et manco potente. [70] Né pensiate che tutti siano <term ref="#tartari">Tartari</term>, ma della provincia del <term ref="#cataio">Cataio</term>, perché li <term ref="#tartari">Tartari</term> sono huomini a cavallo, et non stanno se non appresso le città che non siano in luoghi
+         humidi, ma in le situate in luoghi sodi et secchi, dove possino essercitarsi a cavallo.
+         [71] In queste città di luoghi humidi vi manda Cataini et di quelli di <term ref="#mangi">Mangi</term> che siano huomini armigeri, perché di tutti li suoi sudditi ogn’anno ne fa eleggere
+         quelli che parono atti alle armi et scriver nel suo essercito, sì che tutti si chiamano
+         esserciti; et gli huomini che si cavano della provincia di <term ref="#mangi">Mangi</term> non si mettono alla custodia delle lor proprie città, ma si mandano ad altre che
+         siano discoste venti giornate di cammino, dove dimorano da quattro in cinque anni
+         et poi ritornano a casa, et se li manda degli altri in suo luogo. [72] Et questo ordine
+         osservano i Cataini et quelli della provincia di <term ref="#mangi">Mangi</term>, et la maggior parte dell’entrate delle città che si riscuotono nella camera del
+         <term ref="#gran-can">Gran Can</term> è deputata al mantenere di queste custodie de’ soldati. [73] Et se l’avviene che
+         qualche città ribelli (perché spesse fiate gli huomini, soprapresi da qualche furore
+         o ebrietà, ammazzano i suoi rettori), subito come s’intende il caso, le città propinque
+         mandano tanta gente di questi esserciti che distruggono quelle città che hanno commesso
+         l’errore, perché saria cosa lunga il voler far venire un essercito d’altra provincia
+         del <term ref="#cataio">Cataio</term>, che importaria il tempo di duoi mesi. [74] Et di certo la città di <term ref="#quinsai">Quinsai</term> ha di continua guardia trentamila soldati, et quella che ne ha meno ha mille fra
+         da piedi et da cavallo. [75] Hor parleremo d’un bellissimo palazzo dove habitava il re <term ref="#fanfur">Fanfur</term>, li precessori del qual fecero serrare un spatio di paese che circondava da dieci
+         miglia con muri altissimi, et lo divisero in tre parti. [76] In quella di mezzo s’entrava per una grandissima porta, dove trovavansi da un canto
+         et dall’altro loggie a piè piano grandissime et larghissime, col coperchio sostentato
+         da colonne, le quali erano depinte et lavorate con oro et azzurri finissimi; in testa
+         poi si vedeva la principale et maggior di tutte l’altre, similmente dipinta con le
+         colonne dorate, et il solaro con bellissimi ornamenti d’oro, et d’intorno alle parieti
+         erano dipinte l’historie di re passati, con grande artificio. [77] Quivi ogni anno,
+         in alcuni giorni dedicati alli suoi idoli, il re <term ref="#fanfur">Fanfur</term> soleva tenir corte et dar da mangiare alli principali signori, gran maestri et ricchi
+         artefici della città di <term ref="#quinsai">Quinsai</term>: et ad un tratto vi sentavano a tavola commodamente sotto tutte dette loggie diecimila
+         persone. [78] Et questa corte durava dieci o dodici giorni, et era cosa stupenda et fuor d’ogni
+         credenza il vedere la magnificenza delli convitati, vistiti di seda et d’oro, con
+         tante pietre pretiose adosso, perché ognun si sforzava di andare con maggior pompa
+         et ricchezza che li fosse possibile. [79] Drieto di questa loggia c’habbiamo detto,
+         ch’era per mezzo la porta grande, vi era un muro con un uscio che divideva l’altra
+         parte del palazzo, dove entrati si trovava un altro gran luogo, fatto a modo di claustro,
+         con le sue colonne che sostentavano il portico ch’andava a torno detto claustro: et
+         quivi erano diverse camere per il re et la reina, le quali erano similmente lavorate
+         con diversi lavori, et cosí tutti i parieti. [80] Da questo claustro s’entrava poi
+         in un andito largo passa sei, tutto coperto, ma era tanto lungo che arrivava fino
+         sopra il lago. [81] Rispondevano in questo andito dieci corti da una banda et dieci
+         dall’altra, fabricate a modo di claustri lunghi, con li suoi portichi intorno, et
+         cadauno claustro o vero corte havea cinquanta camere con li suoi giardini, et in tutte
+         queste camere vi stantiavano mille donzelle che ’l re teniva alli suoi servitii; qual
+         andava alcune fiate, con la regina et con alcune delle dette, a sollazzo per il lago,
+         sopra barche tutte coperte di seda, et ancho a visitar li tempii degl’idoli. [82] Le altre due parti del detto serraglio erano partite in boschi, laghi et giardini
+         bellissimi, piantati di arbori fruttiferi, dove erano serrati ogni sorte di animali,
+         cioè caprioli, daini, cervi, lepori, conigli: et quivi il re andava a piacere con
+         le sue damigelle, parte in carretta et parte a cavallo, et non vi entrava huomo alcuno,
+         et faceva che le dette correvano con cani et davano la caccia a questi tal animali;
+         et dapoi che l’erano stracche andavano in quei boschi che rispondevano sopra detti
+         laghi, et qui lasciate le vesti, se ne uscivano nude fuori et entravano nell’acqua
+         et mettevansi a notare, chi da una banda et chi dall’altra, et il re con grandissimo
+         piacere le stava a vedere, et poi se ne ritornava a casa. [83] Alcune fiate si faceva portare da mangiare in quei boschi, ch’erano folti et spessi
+         di alberi altissimi, servito dalle dette damigelle. [84] Et con questo continuo trastullo
+         di donne si allevò senza saper ciò che si fussero armi, la qual cosa alla fine li
+         partorí che, per la viltà et dappocagine sua, il <term ref="#gran-can">Gran Can</term> li tolse tutto il stado, con grandissi|ma |48r| sua vergogna et vituperio, come di
+         sopra si ha inteso. [85] Tutta questa narratione mi fu detta da un ricchissimo mercatante
+         di <term ref="#quinsai">Quinsai</term>, trovandomi in quella città, qual era molto vecchio et stato intrinseco familiar
+         del re <term ref="#fanfur">Fanfur</term>, et sapeva tutta la vita sua et havea veduto detto palazzo in essere, nel qual volse
+         lui condurmi. [86] Et perché vi stantia il re deputato per il <term ref="#gran-can">Gran Can</term>, le loggie prime sono pure come solevano essere, ma le camere delle donzelle sono
+         andate tutte in ruina, et non si vede altro che vestigii; similmente il muro che circondava
+         li boschi et giardini è andato a terra, et non vi sono piú né animali né arbori. [87] Discosto da questa città circa venticinque miglia vi è il <term ref="#mare-oceano">mare Oceano</term>, fra <term ref="#greco">greco</term> et levante, appresso il quale vi è una città detta <term ref="#gampu">Gampu</term>, dove è un bellissimo porto, al quale arrivano tutte le navi che vengono d’<term ref="#india">India</term> con mercantie. [88] Et il fiume che viene dalla città di <term ref="#quinsai">Quinsai</term> entrando in mare fa questo porto, et tutt’il giorno le navi di <term ref="#quinsai">Quinsai</term> vanno su et giú con mercantie, et ivi caricano sopra altre navi, che vanno per diverse
+         parti dell’<term ref="#india">India</term> et del <term ref="#cataio">Cataio</term>. [89] Havendosi trovato messer Marco in questa città di <term ref="#quinsai">Quinsai</term> quando si rendé conto alli fattori del <term ref="#gran-can">Gran Can</term> dell’entrade et numero degli habitanti, ha veduto che sono stà descritti 160 “<term ref="#toman">toman</term>” di fuochi, computando per un fuogo la famiglia che habita in una casa (e cadauno
+         <term ref="#toman">toman</term> contiene diecimila), sí che in tutta la detta città sariano famiglie un millione
+         et seicentomila: et in tanto numero di genti non vi è altra che una chiesa di christiani
+         nestorini. [90] Sono obligati tutti i padri di famiglia di tener scritto sopra la porta della sua
+         casa il nome di tutta la famiglia, cosí de maschi come di femmine; item il numero
+         de’ cavalli: et quando alcuno manca si cancella il nome, et se nasce o si toglie di
+         nuovo si aggiugne il nome, et a questo modo i signori et rettori delle città sanno
+         di continuo il numero delle genti. [91] Et questo si osserva in le provincie del <term ref="#mangi">Mangi</term> et del <term ref="#cataio">Cataio</term>; et similmente tutti quelli che tengono hostarie scrivono sopra un libro il nome
+         di quelli che vengono ad alloggiare, con il giorno et l’hora che partono, et mandano
+         di giorno in giorno detti nomi alli signori che stanno sopra le piazze. [92] Item nella provincia di <term ref="#mangi">Mangi</term> la maggior parte d’i poveri bisognosi, che non possono allevare i suoi figliuoli,
+         li vendono alli ricchi, acciò che meglio siano allevati et piú abondantemente possino
+         vivere.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-44-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-44">
+      <note>
+	<p>La lunga descrizione di Ramusio si basa su <ref type="witlink" target="#p-iii-48">P III 48 2-4</ref> «[…] regio illa habet in planicie lacunas et fontes, et propter frigiditatem nimiam
+         regionis illius omni tempore in lacunis est glacies, ita ut naves inde transitum facere
+         non possint; nec est tanta soliditas glaciei ut currus graves aut animalia gravia
+         sustinere valeat: tota etiam alia planicies extra lacunas propter aquas que ex multitudine
+         fontium diffunduntur sic lutosa est ut transitus ibi non pateat currubus et animalibus
+         ponderosis. Protenditur autem regio hec per dietas .XIII. Quia ergo tanta est ibi
+         predictarum preciosarum pellium copia de quibus lucra maxima fiunt, homines regionis
+         tale adinvenerunt remedium ut negotiatores aliarum partium ad ipsos accessum possint
+         habere: in capite diete cuiuslibet illarum .XIII. dietarum quibus, ut dictum est,
+         protenditur regio, est viculus unus plures continens domos in quibus habitant viri
+         qui deducunt et recipiunt mercatores […]» (le sole innovazioni rilevanti riguardano
+         le dimensioni della regione e il riferimento alle case di legno. Si noti anche che
+         Ramusio sopprime tutta la parte iniziale del capitolo, il cui contenuto è sovrapponibile
+         per informazioni a <ref type="witlink" target="#r-iii-44">R III 44 10-11</ref> – vd. <ref type="witlink" target="#p-iii-48">P III 48 1-2</ref> «In regionibus affinibus terre prefate sub dominio memorati regis est regio alia
+         montuosa, in qua habitant homines qui capiunt animalia parvula que pelles habent delicatas
+         valde et sunt <term ref="#rondes">rondes</term>, de quibus dictum est supra; almelini, herculini et varii, vulpes nigre et alia huiusmodi
+         de quibus omnibus dictum est supra ibi sunt in multitudine innumera; homines autem
+         qui in montibus habitant supradictis ita ingeniose et artificiose capere sciunt, ut
+         pauca sint que evadere possint manus eorum. Equi autem, boves et asini et cameli seu
+         quecumque animalia ponderosa ad loca illa accedere nequeunt […]»).</p>
+	<p>I parr. 1-4 di P sono il frutto della versione di VA CLIII 13-19 «Soto la segnioria de questo re è una contrà che nesuno non può andar a chavallo
+         né nesuna grieve bestia, perché dentro la chontrà del re è molti passi e molti lagi
+         e molte fontane, et è-ne sì gran fredura in quella contrà ch’el g’è molte giaze senpre
+         per la via e fangi, sì che per le giaze non ’de può andar nave nì per el fango bestie
+         grave. E dura questa contrà cusì fata ben tredexe zornade, et è-ge montagnie e valle
+         in mezo de quelle montagnie. In quelle montagnie se prende molte bestiolle ch’àno
+         molta charne e dellichata pelle. La zente de quella contrà è inzegniate ch’el se possano
+         quelle pelle trar fuora de quella contrà ch’è chusì fangoxa e agiazata, et de quelle
+         pelle fano gran guadagnio. Quelli che prendeno quelle bestie, come è vari, zebelini,
+         armelini, arcolini, volpe negre e altre bestie, sono queli che abitano in quelle montagnie:
+         sano far tanti inzegni ch’el non ne chanpa quaxi niuna. Hor ve dirò chome se va a
+         quelle montagnie per chonprar quelle pelle. In cavo de zaschuna zornata de quelle
+         tredexe è una abitazion, e sono chaxe in le qual abitano homeni i quali aduxeno quelli
+         che va et queli che vien». La redazione VA fonde qui informazioni che negli altri
+         relatori si trovano separate; si veda per tutti F CCXVI 7-8 e F CCXVI 12 «Et encore sachiés tout voiremant que cest roi ha de tel contree qe nul chevaus hi
+         puet aler, por ce qui est païs la ou il a maint lac e maintes fontaines, et hi est
+         si grant la glace et le fanc et la bue qe cheval ne i puet aler. Et ceste contree
+         si mauveise dure .XIII. jornee, et a chascune jornee a une poste la ou les mesajes
+         qe vont por la contree herbergent. […] Et si voç di tout voiremant que les homes qe
+         demorent en celles valés et en celes montaignes, des celz .XIII. jornee, sunt grant
+         chaceors, car il prenent maintes chieres bestioles de grant vailant de coi il ont
+         grant profit e grant bien: ce sunt gibeline et ermin et vair et ercolin et volpes
+         noires e mantes autres chieres bestes de coi il se font les chieres pelles e de grant
+         vaillance. Il ont lor engingn, qe ne escape elz nulle devant» (e gli altri relatori:
+         Z 150 17-19 / Z 150 33-35; L 197 5 / L 197 7; V 118 9-10 / V 118 14; VB CLXXII 12-13 / VB CLXXII 18).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

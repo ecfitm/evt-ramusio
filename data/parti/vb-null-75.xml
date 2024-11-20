@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-75</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-75">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXV </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-75_1_1" n="1"> ‹D›a <term ref="#cingui">Cingui</term> partendosi et chavalchando per .X. giornate, trovasi uno reame el qualle se chiama
+         <term ref="#tainfu">Tanafu</term>. </seg>
+      <seg xml:id="vb-null-75_1_2" n="2"> E nel capo del reame è una citade chiamata ecian <term ref="#tainfu">Tanafu</term> chome la provincia, over reame, la qual citade è bella e molto grande. </seg>
+      <seg xml:id="vb-null-75_1_3" n="3"> È tera
+         de gran marchadantie; e qui è gran mestiero de armadure e fasene assai per la chorte
+         del <term ref="#gran-can">Gran Chan</term>. </seg>
+      <seg xml:id="vb-null-75_1_4" n="4"> À molte e belle vigne e fase vino in gran quantitade; né in alltra provincia
+         sotoposta al <term ref="#gran-can">Gran Chane</term> non nase vino ‹se non› in questa et de questa se ne porta nelle alltre provincie.
+         </seg>
+      <seg xml:id="vb-null-75_1_5" n="5"> Fano grandissima quantitade de seta et ànno albori su per quelle montagne che
+         naschono i vermi che fano seta in tanta quantità ch’è una meraveglia. </seg>
+      <seg xml:id="vb-null-75_1_6" n="6"> E per .VII.
+         giornate, partendosi da <term ref="#tainfu">Tanafu</term>, se trova de belle citade et chastelli e paexi ben choltivadi e tute tere de gran
+         marchadantia et mestieri. </seg>
+      <seg xml:id="vb-null-75_1_7" n="7"> Et a chapo de dite .VII. giornate se trova una citade
+         chiamata <term ref="#pianfu">Pianfu</term> che è bella e gran citade e vive de marchadantie et de arte, e fasse gran quantità
+         de seta</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

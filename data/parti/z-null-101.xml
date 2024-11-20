@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-101</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-101">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 101</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="z-null-101_2_1" n="1"> <term ref="#dragoian">Dagroyan</term> regnum est per se, regem et loquelam habens. </seg>
+      <seg xml:id="z-null-101_2_2" n="2"> Gentes ipsius silvestres sunt, <term ref="#idolatri">adorant ydola</term> et appelantur per <term ref="#gran-can">Magnum Can</term>. </seg>
+      <seg xml:id="z-null-101_2_3" n="3"> Et narabimus vobis horendam consuetudinem quam observant. </seg>
+      <seg xml:id="z-null-101_2_4" n="4"> Cum enim eorum
+         aliquis in aliquam egritudinem incidat, mititur per consanguineis et magis; quos magos
+         perscrutari et videre faciunt utrum eger debeat liberari. </seg>
+      <seg xml:id="z-null-101_2_5" n="5"> Et isti magi, propter
+         eorum veneficia, artem dyabolicam et ydola, dicunt se scire et cognoscere utrum liberari
+         debeat eger vel mori. </seg>
+      <seg xml:id="z-null-101_2_6" n="6"> Et non credatis quod, quia dicitur «per artem diabolicam»,
+         sic esse demonstrent. </seg>
+      <seg xml:id="z-null-101_2_7" n="7"> Ymo dicunt quod virtute deorum, mediante arte sua. </seg>
+      <seg xml:id="z-null-101_2_8" n="8"> Et
+         si dicant ipsum egrum debere mori, consanguinei infirmi tunc mitunt pro quibusdam
+         hominibus, ad hoc specialiter deputatis, qui obturantes os infirmi qui moriturus est,
+         ipsum sufocant et occidunt. [9] Et cum mortuus est, faciunt ipsum coqui; et eius consanguinei
+         simul in caritate epulantur, ipsum coctum integraliter comedentes, videlicet et medulas
+         in ossibus existentes, ita quod substantia aliqua in ipso non resideat. [10] Na‹m›
+         si substantia aliqua remaneret, illa procrearet vermes; et vermes deficiente esca
+         morirentur; et de obitu istorum vermium dicunt ipsi quod anima defuncti pecatum magnum
+         haberet, videlicet quod tot anime ex substantia sua orte perirent. [11] Et ideo ipsum
+         totum comedunt. [12] Et cum |64v| ipsum comederint in toto, accipientes ossa, in quamdam
+         pulcram archam parvam ipsa reponunt; quam archam taliter, in montium cavernis, appendunt
+         ad saxa quod aliqua mala res illuc non valet attingere. [13] Et etiam si possunt aliquem
+         hominem capere qui de eorum patria non sit et se redimere non possit, ipsum occidunt
+         et comedunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

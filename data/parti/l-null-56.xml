@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-56</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-56">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 56</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-56_2_1" n="1"> <term ref="#campion">Campicion</term> est maxima civitas et nobilis, et est principalior et caput provincie de <term ref="#tanguth">Tangut</term>. </seg>
+      <seg xml:id="l-null-56_2_2" n="2"> Hee gentes sunt <term ref="#idolatri">ydolatre</term>, et aliqui adorant <term ref="#macometto">Machoment</term>; sunt eciam aliqui christiani. </seg>
+      <seg xml:id="l-null-56_2_3" n="3"> Sed <term ref="#idolatri">ydolatre</term> habent maximam quantitatem ydolorum, ex quibus aliqua sunt longa .X. passibus, et
+         aliqua sunt ex ligno, aliqua ex terra, aliqua sunt ex lapide; et sunt totaliter auro
+         cohoperta et subtiliter laborata. Et circa hec ydola magna sunt quam plura parva que
+         videntur ‹multum› hiis magnis ydolis obedire. </seg>
+      <seg xml:id="l-null-56_2_4" n="4"> Et faciunt festivitates de eorum
+         ydolis diversis temporibus, quemadmodum nos de nostris sanctis; habent eciam in modum
+         kalendarii, ubi ydolorum suorum festa certis ordinantur diebus. </seg>
+      <seg xml:id="l-null-56_2_5" n="5"> Et hee gentes
+         accipiunt usque ad .30. uxores, et plures et pauciores secundum eorum possibilitatem,
+         ‹donantque homines mulieribus pro doctibus bestias, servos et monetas secundum eorum
+         posse›; verumtamen primam uxorem semper pro maiori et nobiliori retinent: quod si
+         aliqua de hiis uxoribus causa aliqua displiceat potest eam licite a matrimonio separare.
+         Consanguineas eciam et uxores patris licite in uxores accipiunt. Et multa alia faciunt
+         que nobis valde vetita sunt: ‹vivunt enim bestiarum more›.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

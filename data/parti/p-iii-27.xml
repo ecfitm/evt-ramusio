@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-III-27</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-iii-27">
+    <head>
+      <hi rend="bold">P, III 27</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-iii-27_2_1" n="1"> In provincia <term ref="#malabar">Maabar</term> in <term ref="#india">Maiori India</term> est corpus |80a| <term ref="#san-tommaso">beati Thome</term> apostoli, qui in ipsa provincia martirium pro Christo suscepit. Est autem corpus
+         illud infra terram in civitate parva ad quam pauci conveniunt mercatores, pro eo quod
+         non est in loco pro navigatoribus apto. </seg>
+      <seg xml:id="p-iii-27_2_2" n="2"> Ibi sunt multi christiani, multi etiam
+         Saraceni de regionibus illis frequentant apostoli limina et valde ipsum apostolum
+         reverentur dicuntque eum magnum fuisse prophetam et vocant eum “<term ref="#anania">amariiam</term>”, id est “hominem sanctum”. </seg>
+      <seg xml:id="p-iii-27_2_3" n="3"> Christiani autem qui apostoli corpus visitant accipiunt
+         de terra ubi apostolus fuit occisus, que rubra est, et secum deferunt reverenter;
+         sepe autem cum ipsa miracula multa fiunt: ipsamque distemperatam in aqua aut alio
+         liquore quocumque infirmi bibunt et ex hoc multi a diversis et magnis infirmitatibus
+         liberantur. </seg>
+      <seg xml:id="p-iii-27_2_4" n="4"> Anno Domini .MCCLXXXVIII. princeps quidam magnus terre illius collegit
+         messis tempore de riso copiam magnam; |80b| cum domos ad reponendum ipsum non haberet,
+         ad suum beneplacitum aptas omnes domos ecclesie <term ref="#san-tommaso">beati Thome</term> apostoli occupavit, ibi suum risum recondens invitis custodibus loci, qui eum humiliter
+         precabantur ne peregrinorum receptacula occuparet qui <term ref="#san-tommaso">beati Thome</term> apostoli limina visitabant. </seg>
+      <seg xml:id="p-iii-27_2_5" n="5"> Nocte autem ei <term ref="#san-tommaso">beatus Thomas</term> apostulus apparuit tenens in manu sua stipulam ferream, quem super guttur dormientis
+         apponens ait: «Nisi domos meas quas iniuriose tua temeritas occupavit statim evacues,
+         oportet te mala morte perire». Evigilans, ille statim quod ei apostolus in visu iusserat
+         ademplevit. Christiani autem Deo et beato apostolo gratias egerunt de vissione apostolica
+         confortati; ille publice retulit omnibus visionem. </seg>
+      <seg xml:id="p-iii-27_2_6" n="6"> Multa alia miracula fiunt ibi
+         creberrime ad invocacionem beati apostoli in honorem fidei christiane.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

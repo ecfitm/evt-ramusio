@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-17">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 17</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-17_1_1" n="1"> <term ref="#mulehet">Mulhee</term> est quedam patria in qua <term ref="#vecchio-della-montagna">Veglus de Montanea</term> manere consuevit antiquitus; in qua patria habitabant heretici secundum legem sarracenam.
+         </seg>
+      <seg xml:id="z-null-17_1_2" n="2"> In quo loco <term ref="#vecchio-della-montagna">Veglus</term> fieri fecit inter duos montes quoddam viridarium pulcrius et delectabilius quam unquam
+         in hoc mundo fuerit, et construi fecit palacia deaurata. </seg>
+      <seg xml:id="z-null-17_1_3" n="3"> Item fieri fecerat conductus:
+         per aliquos vinum, per aliquos mel et lac decurebat. </seg>
+      <seg xml:id="z-null-17_1_4" n="4"> Erant ibi |11v| domine et
+         domicele formosissime ultra modum, que cuiuslibet genus instrumenti egregie sciebant
+         pulsare, melodiate canebant ac suavius coreçabant ceteris mulieribus de hoc mundo.
+         </seg>
+      <seg xml:id="z-null-17_1_5" n="5"> Et ideo iste <term ref="#vecchio-della-montagna">Veglus</term> hoc viridarium in hunc modum construxit. </seg>
+      <seg xml:id="z-null-17_1_6" n="6"> Nam, cum <term ref="#macometto">Machometus</term> tempore suo dixerit saracenis quod paradisum intrantes mulieres pulcerimas invenirent
+         ad eorum libitum quotquot volent, ac invenirent flumina que in vino, lacte, melle
+         et aqua divisim in ubertate discurerent, dabat intelligere saracenis quod paradisus
+         esset ille; quod credebant firmiter. </seg>
+      <seg xml:id="z-null-17_1_7" n="7"> In quo‹d› viridarium nullus intrabat, nisi
+         quem <term ref="#vecchio-della-montagna">Veglus</term> volebat fieri satelitem et <term ref="#assassini">‹a›sassinum</term>. </seg>
+      <seg xml:id="z-null-17_1_8" n="8"> In introitu erat quidem quoddam castrum fortissimum. [9] Qui <term ref="#vecchio-della-montagna">Veglus</term> mitebat istos satellites ad multa mala commitendo; qui faciebat gentes simplices
+         credere quod esset propheta, et vere credeba‹n›t; et sic promitebat eis paradisum
+         si velent occidere aliquos magnates, et sic multos fecit occidi. [10] Quare quam plures
+         reges ei redebant tributum; et hoc erat quia gentes tunc non erant in unitate dominii,
+         sed divise cordibus et voluntatibus. [11] Sed cum <term ref="#ulau">Ulau</term>, frater <term ref="#gran-can">Magni Canis</term>, sibi totum orientalem dominium subiugavit, dictus <term ref="#ulau">Ulau</term>, inteligens execrabilia selera que iste <term ref="#vecchio-della-montagna">Veglus</term> tam nequiter comitebat, proposuit ipsum destruere et congregavit gentem magnam et
+         transmisit ad istud castrum <term ref="#vecchio-della-montagna">Vegli</term>, et obsessum fuit bene .III. anis priusquam captum fuisset. [12] Sed finaliter, victus,
+         defecit; et sic captus <term ref="#vecchio-della-montagna">Veglus</term> fuit et interfectus con gente sua.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

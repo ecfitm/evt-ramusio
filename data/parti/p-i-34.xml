@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-34</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-34">
+    <head>
+      <hi rend="bold">P, I 34</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-34_2_1" n="1"> <term ref="#balaxiam">Balascia</term> magna provincia est que linguam propriam habet. </seg>
+      <seg xml:id="p-i-34_2_2" n="2"> Reges habet ex una prosapia sibi
+         iure hereditario succedentes: fertur autem eos ortum duxisse ex progenie <term ref="#alessandro">Allexandri</term>. </seg>
+      <seg xml:id="p-i-34_2_3" n="3"> Ibi adoratur <term ref="#macometto">Machometus</term>. </seg>
+      <seg xml:id="p-i-34_2_4" n="4"> In montibus huius provincie inveniuntur lapides preciosi, pulcri magnique valoris
+         qui dicuntur “<term ref="#balassi">balasci</term>” a nomine regionis; si quis huiusmodi lapides sine regis licencia foderet, statim
+         occideretur, et siquis sine eius licencia asportaret aliquem extra regnum, vitam similiter
+         perderet et confiscarentur omnia bona eius: omnes enim huius lapides regis sunt. Rex
+         autem mittit lapides quos vult ad reges et principes dono aut pro solucione tributi;
+         multos etiam pro auro et argento commutat; tanta |16b| enim ibi est ipsorum lapidum
+         copia quod si eos rex libere fodi et asportari permitteret, ita vilescerent, quod
+         ipse nichil vel modicum ‹lucraretur›. </seg>
+      <seg xml:id="p-i-34_2_5" n="5"> In hac provincia in monte alio invenitur
+         lapis lazuli de quo fit azurum melius quod reperiatur in mundo, habetur autem in mineris
+         sicut ferrum; ibi etiam in mineris invenitur argentum. </seg>
+      <seg xml:id="p-i-34_2_6" n="6"> Regio valde frigida est.
+         </seg>
+      <seg xml:id="p-i-34_2_7" n="7"> Equi ibi multi sunt, optimi, veloces et magni, qui ita fortes duros et solidos
+         pedes habent ut non indigeant subferrari: vadunt enim et currunt per montes et saxa,
+         nec leduntur pedes eorum. </seg>
+      <seg xml:id="p-i-34_2_8" n="8"> Ibi enim herodii seu falcones optimi sunt, qui apud
+         nos vocantur “sagri”, et etiam lannerii; venaciones bestiarum et avium ibi sunt plurime.
+         [9] Habet etiam provincia <term ref="#balaxiam">Balascie</term> triticum optimum in copia valde magna, ordeo habundat, |16c| similiter habundanciam
+         habet milii et panici; olivis carent, sed de nucibus et sosiman oleum faciunt. [10]
+         Aliorum regnorum et suorum affinium gentes non metuunt: introitus enim in provinciam
+         arti et ardui sunt, qui ab hostibus invadi neque transiri queunt; civitates eorum
+         et castra in montibus fortissimis sunt; sagittarii strenui sunt et optimi venatores.
+         [11] Corio vestiuntur ut plurimum: nam vestes lanee aut ibi haberi non possunt, aut
+         nimium care sunt; mulieres nobiles regionis illius bracis lineis aut <term ref="#bambagio">bombicinis</term> utuntur, unaqueque enim habet in suis femoralibus panni brachia centum aut .LXXXa. aut .LXa.; inter alias autem gloriosior reputatur, que a cingulo infra se ostenderit habere
+         grossiciem ampliorem.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-62-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-62">
+      <note>
+	<p>Nella prima parte («Et subito […] terra»), R traduce abbastanza fedelmente <ref type="witlink" target="#p-ii-58">P II 58 5-7</ref> «[…] quas navibus impositas misit rex ad exercitum suum [R «Et subito, posti in nave,
+         furono mandati all’essercito»]. Cum autem ante civitatem <term ref="#saianfu">Siansu</term> erecte essent [R «drizzati dinanzi la città di <term ref="#saianfu">Saianfu</term>»], lapis primus quem machina ad civitatem emisit super domum unam cecidit [R «la
+         prima pietra che tirò il mangano cadde […] sopra una casa»] civitatis magnaque domus
+         pars confracta est [R «gran parte di quella si ruppe et cadette a terra»]. Quod videntes
+         <term ref="#tartari">Tartari</term> qui in exercitu erant obstupuerunt valde; hii vero qui in civitate erant nimio terrore
+         concussi, metuentes ne tota civitas destrueretur a machinis et ipsi omnes occiderentur
+         a <term ref="#tartari">Tartaris</term> aut sub domorum ruina perirent, statim ad <term ref="#gran-can">Magni Kaam</term> mandata venerunt». Nella parte finale («che deliberorono […] <term ref="#mangi">Mangi</term>») si notano varie coincidenze con <ref type="witlink" target="#vb-null-108">VB CVIII 12-13</ref> «[…] e fatone molti e butando ogni çorno grandissima quantità de pietre con le qual
+         molti de quei dentro i amaçavano, né sapiendo resister quei dela tera a questo nuovo
+         modo di conbatere, vedendose ogni dì dale pietre eser morti, né vedendone riparo,
+         se dispose renderssi [R «deliberorono di rendersi»]. E mandato suo’ messi [R «cosí,
+         mandati ambasciadori»] nel’oste se rexe con quelli pati e condicion [R «si dettono
+         con li medemi patti et conditioni»] avea fatto tuto el resto dela provincia [R «tutta
+         la provincia»], per che, intexo el <term ref="#gran-can">Gran Can</term> el prender dela cità, ne ebe quel piacere meritava la cossa». A parte l’uso della
+         forma «ambasciadori», non si notano altre affinità con V, che coincide nella sostanza
+         con F:<ref type="witlink" target="#v-null-78"> V 78 10-13</ref> «[…] et quando le fo fate el <term ref="#gran-can">Gran Signor</term> le fexe portar fina alo exerzito, el qualle iera atorno la zitade; et quando queste
+         bonbarde fono portate alo exerzito i le feze drezar, le qual parea una chossa meraveioxa
+         ai <term ref="#tartari">Tartari</term>. Or quando queli dela zitade veteno queste, le qualle nonn avea mai vezudo, fono
+         molto spaventadi; et non sapea quello i dovesse far, et prexe chonseio fra lor dizendo:
+         “Domentre sono queste bonbarde nui saremo tuti morti se nui non se rendemo”; onde
+         ognuno diterminò chonchordevelmente de renderse. Onde inchontinente quelli mandò anbasadori
+         al signor delo exerzito, dizendo chomo li se volea render per quel muodo che le altre
+         zitade s’avea rendude, e che i volea esser soto la signoria del <term ref="#gran-can">Gran Chan</term>; el qual signor rispoxe ch’el era chontento; et quelli dela zitade se rexeno»;<ref type="witlink" target="#f-null-145"> F CXLV 10-13</ref> «Et quant les trabuc furent venus a l’ost, il les font driçer: et as <term ref="#tartari">Tartarç</term> senbloie la greingnor mervoille dou monde. E qe voç en diroie? Quant les trabuc furent
+         drecés e tandu, adonc jete le un une pieres dedenz la ville: la pieres feri es maisonz
+         e ronpi e gasté toutes couses, e fist grant remor et grant temoute. Et quant les homes
+         de la cité virent ceste male aventure qe jamés ne l’avoient veüe, il en furent si
+         esbaïs et si espuentés qe il ne sevent qe il deusent dir ne fer. Il furent a consoil
+         ensenble e ne sevent prendre consoil comant il de ceste tr‹a›buc poisent escanper.
+         Il distrent qu’il sunt touit mors se il ne se rendent: et adonc pristent consoil qu’il
+         se renderont en toites mainieres. Et atant mandent au seingnor de l’oste qu’il se
+         volent rendre en la maineres qe avoient faiti les autres cités de la provence, e qu’il
+         voloient estre sout la seingnorie dou <term ref="#gran-can">Grant Kan</term>. Et le sire de l’oste dist qe ce voloit il bien». Estremamente ridotta la versione
+         in <ref type="witlink" target="#z-null-79">Z 79 9</ref> «Postea ultimate habuerunt ipsam ut alias civitates, etcetera». In L questa parte
+         del testo manca del tutto.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

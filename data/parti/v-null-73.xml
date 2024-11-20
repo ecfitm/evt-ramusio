@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-73</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-73">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 73</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-73_2_1" n="1"> <term ref="#cayngui">‹C›aichui</term> sono una pizolla zitade, ed è inverso sirocho; la zente dela qualle <term ref="#idolatri">adora le idolle</term>; et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>; e spendeno monede de charta. </seg>
+      <seg xml:id="v-null-73_2_2" n="2"> Et sono sopra uno fiume, et in questa zitade sono
+         una gran quantità de biave; e da questa zitade le se porta fina ala zità de <term ref="#tartari">Tartari</term> chiamata <term ref="#cambalu">Chanbalun</term>, ala chorte del <term ref="#gran-can">Gran Chan</term>, per aqua: e non chredé per mar, ma per flumi. </seg>
+      <seg xml:id="v-null-73_2_3" n="3"> Onde el <term ref="#gran-can">Gran Chan</term> fa tuor queste biave che vien da questa zitade, e fale meter in <term ref="#cambalu">Chanbalun</term> per fossadi grandi e largi che par uno flume; e per quello vano le nave chon le dite
+         blave dal <term ref="#mangi">Mangin</term> infina ala zità de <term ref="#cambalu">Chanbalun</term>. </seg>
+      <seg xml:id="v-null-73_2_4" n="4"> E per mezo de questo flume ch’è inverso la zità predita sono una ixola diputada,
+         in la qual sono uno monestier de idolle che àno gran quantitade de frati; et questo
+         monestier àno de molti altri monestieri de idole; et in questo sono chomo uno arziveschovado.
+         </seg>
+      <seg xml:id="v-null-73_2_5" n="5"> Or partendosse da questa zitade se trova un’altra zitade chiamata <term ref="#cinghianfu">Giginafu</term>; la zente dela qualle <term ref="#idolatri">adora le idolle</term>; et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>; e spendeno moneda de charta; e viveno de marchadantie e d’arte; et fano drapi d’oro
+         e de seda de molte maniere; et sono molte chazaxon |86r| de bestie volative; et àno
+         biave in gran abondanzia. </seg>
+      <seg xml:id="v-null-73_2_6" n="6"> Et in questa zitade sono do giexie de christiani nostarini,
+         et questo adevene in l’ano del nostro signor mille e duxento e sesantanuove; et dichove
+         che avanti i non ave mai monestieri de christiani, salvo in quella volta, perché el
+         <term ref="#gran-can">Gran Chan</term>, el qual fo signor de quel luogo per tre ani, chiamato <term ref="#marsachis">Marchachi</term>, che iera christian nosterin, et questo feze far in quel tempo quelle giexie, perché
+         inprima non iera christiani. </seg>
+      <seg xml:id="v-null-73_2_7" n="7"> Or lasseremo questo e diremo de un’altra zitade.
+         </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

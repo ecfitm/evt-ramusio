@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-43-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-43">
+      <note>
+	<p>Le informazioni di <ref type="witlink" target="#z-null-130">Z 130 17-18</ref> (resa di F CXCVI 8 «Et encore sachiés tout voiremant que cestes jens de ceste contré vivent de datres
+         e de peisonç salee, car il en ont a grant planté. Mes bien il ‹est› voir que il hi
+         ni a plosors jentilz homes e riches que bien menjuent des autres meior viandes e meior
+         couses») sono drasticamente abbreviate in L 186 5 «Et vivunt hee gentes ex dactilis et piscibus sallitis, quia hiis habundant valde
+         nimis» e in VB CLXVIII 6 «Viveno per la maor parte de datali e pesse salado»; più preciso (nel dettaglio e
+         nell’ordine del contenuto) V 112 8 «E la zente de quella chontrada vive de datalli e de pessi saladi, perché i ne à
+         gran quantitade; vero è che là sono pixor nobelli homeni e chonti, i qual uxano mior
+         zibi».</p>
+	<p>In un contesto sostanzialmente fedele al suo modello latino, Ramusio specifica in
+         <hi rend="italics">biade</hi> i «cibi migliori» del suo modello.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

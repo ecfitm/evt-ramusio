@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-93</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-93">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XCIII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-93_2_1" n="1"> Quando l’omo è andado quelle zinque zornade, el trova una provinzia ch’è molto
+         guasta, la qual à nome <term ref="#thebeth">Teber</term>. </seg>
+      <seg xml:id="va-null-93_2_2" n="2"> E dura ben vinti zornade, in le qual non se truova abitaxion nesuna, ma chonvien-se
+         che i viandanti portano siego la vituaria per tute quele vinti zornade. </seg>
+      <seg xml:id="va-null-93_2_3" n="3"> Quella
+         provinzia fo destruta per <term ref="#mongu-can">Mongu Chan</term> per guera, e’l ge n’è molte zitade e chastelle guaste.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-93_3_1" n="1"> El ge n’è chane molto meraveglio|44r|xe, e grosse atorno ben tre spane, et da
+         uno nodo al’altro altratanto, et sono longe quindexe a passa. </seg>
+      <seg xml:id="va-null-93_3_2" n="2"> Li viandanti e li
+         merchadanti che pasano de note per quella chontrà fano grandi fuogi de legnie, e puo’
+         tuoleno de quelle chane verde in gran quantità e sì le meteno suxo el fuogo. </seg>
+      <seg xml:id="va-null-93_3_3" n="3"> E
+         quando ele ‹è› stade uno puocho, elle se torzeno e se de‹s›fendeno, e sclopano sì
+         forte ch’el se può aldir piuxor meglia. </seg>
+      <seg xml:id="va-null-93_3_4" n="4"> E questo rumor fa li merchadanti e lli
+         viandanti a chaxion ch’è le bestie salvadege, delle qual è sì gran moltitudine in
+         quelle chontrà che de note non porave schanpar la zente chon le suo’ bestie da quelle
+         bestie salvadege. </seg>
+      <seg xml:id="va-null-93_3_5" n="5"> E quando le chane fano quel rumor chusì smexurato, tuti li lioni,
+         orsi e altre bestie fere àno gran smarimento, e ’le fuzeno e non se tentano de vixinare
+         a quel fuogo. [9] E a questo modo schanpa de note li viandanti chon le suo’ biestie
+         dalle bestie salvadege. [10] Quelli che non èno uxi d’aldir quello rumor n’àno gran
+         paura. [11] E li chavali che non èno uxi d’aldir, àno sì gran paura che i ronpeno
+         i chavestri e fuzeno, e per questo modo n’è zià persi asai; ma l’omo, quando è ’l
+         chavalo che non sia uxo a questo rumor, i abinda i ochi e l’inchavestra da tuti i
+         pie’, sì ch’el non pò fuzir. [12] Et è grando perìchollo a pasar per quelle parte
+         per chaxion de quelle bestie salvadege.</seg>
+    </p>
+    <p n="4"/>
+    <p n="5"/>
+    <p n="6"/>
+    <p n="7"/>
+  </div>
+</body>
+</text>
+     </TEI>

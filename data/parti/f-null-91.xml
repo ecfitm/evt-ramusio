@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-91</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-91">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XCI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-91_1_1" n="1"> Ci devise des lionç et des liopars et de leus cervier qui sunt afaités a prendre
+         bestes. Et encore dit de gerfaus et de fauconç et d’autres oisiaus.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-91_2_1" n="1"> Enchore sachiés qe le <term ref="#gran-can">Grant Sire</term> a bien leopars aseç, qe tuit sunt bon da chacer et da prendre bestes. </seg>
+      <seg xml:id="f-null-91_2_2" n="2"> Il ha encore
+         bien grant quantité de leus cerver que tuit sunt afaités a beste prandre et mout sunt
+         bien a chacher. </seg>
+      <seg xml:id="f-null-91_2_3" n="3"> Il ha plosors lyons grandisme, greingnors aseç qe celz de <term ref="#babilonia">Babilonie</term>: il sunt de mout biaus poil et de mout biaus coleor, car il sunt tout vergés por
+         lonc noir et vermoil et blance; il sunt afaités a prandre sengler sauvajes et les
+         buef sauvajes et orses et <term ref="#asini-salvatichi">asnes sauvajes</term> et cerf et cavriolz et autres bestes. </seg>
+      <seg xml:id="f-null-91_2_4" n="4"> Et si voç di qu’il est mout bielle chouse
+         a regarder les feres bestes qe les lions …†… qu’il les portent sus le charethe en
+         une cuble et ho lui a un chien petit. </seg>
+      <seg xml:id="f-null-91_2_5" n="5"> Il a encore grant moutitude ‹de› aiglies
+         qe sunt afaités a prandre |41c| leus et voupes et dain et chavriou, et en prennent
+         asseç. </seg>
+      <seg xml:id="f-null-91_2_6" n="6"> Mes celles que sunt afaités a prendre leus, sunt mout grandiss‹i›mes et
+         de grant poisance, car sachiés qu’il ne est si grant leus qe escanpe devant celle
+         aigle qu’il ne soit pris. </seg>
+      <seg xml:id="f-null-91_2_7" n="7"> Or voç ai devisé de ce que voç aveç oï. Or voç vueil
+         deviser comant le <term ref="#gran-can">Grant Sire</term> fait tenir grandissime quantité des buen chienz.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

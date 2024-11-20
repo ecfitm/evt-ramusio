@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-51-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-51">
+      <note>
+	<p>In R il brano di transizione – mancante in L, P, VB e Z toledano – corrisponde pressoché
+         alla lettera a <ref type="witlink" target="#v-null-38">V 38 6</ref> «Or lasseremo questa provinzia e diremo de un’altra deverso levante, chiamata <term ref="#tanguth">Trangut</term>, et intreremo in le tere del <term ref="#prete-gianni">Prete Zane</term>», a sua volta coerente con <ref type="witlink" target="#f-null-72">F LXXII 7</ref> «Or isiron de ceste provence ‹et vos conteron d’une [e. v. diron de u. <hi rend="italics">ed</hi>. <hi rend="italics">Benedetto 1928 e</hi> <hi rend="italics">Ronchi 1982</hi>] autre provence› ver levant que l’en apelle <term ref="#tenduch">Tenduc</term> et {et} enterromes e‹n› les terres dou <term ref="#prete-gianni">Prestre Johan</term>»: la lacuna per <hi rend="italics">saut du même au même</hi>, sanabile anche <hi rend="italics">ope ingenii</hi> stante la formularità dello sviluppo, è emendata dagli editori sulla base di V, R
+         (e Fr: «et vous conterons d’une autre province»: Ménard 2001-2009, II, p. 41).</p>
+	<p>Può darsi che Ramusio, a fronte del silenzio delle altre fonti, abbia effettivamente
+         mutuato la transizione da V; oppure che l’abbia tratta da Z1, di solito più completo del toledano (nel quale invece non è infrequente la soppressione
+         dei segmenti di raccordo come questo).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

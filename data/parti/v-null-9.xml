@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-9">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 9</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="v-null-9_1_1" n="1"> ‹E›l è vero ch’el sono duo <term ref="#armenia">Ermenie</term>, una <term ref="#armenia">Ermenia Pizola</term> e l’altra Granda, et uno signore signoriza la Pizola et tien tute le tere e mantienle
+         chon grandissima iustizia, ed è sudito alo re de <term ref="#tartari">Tartari</term>. </seg>
+      <seg xml:id="v-null-9_1_2" n="2"> E in quela sì è molte zitade e chasteli, ed è abondante de tute chosse, ed è
+         tere d’aver solazo de chazason de anemali e de oxelazione, ma nonn è sana provinzia.
+         </seg>
+      <seg xml:id="v-null-9_1_3" n="3"> Et antigamente li nobeli omeni valeano per duo chadaun di loro in fati d’arme,
+         ed ora sono tristi, senza alguna bontade, solamente |11r<hi rend="italics">|</hi> li sono boni bevadori. </seg>
+      <seg xml:id="v-null-9_1_4" n="4"> Et anchora sono nel mare dela dita provinzia una zitade
+         la quale sono chiamada <term ref="#giazza">Laiaza</term>, la qual tera sono de gran marchadantia perché tute spezie e drapi e molte altre
+         chosse se porta de lì, de dita zitade; molti marchadanti veniziani, zenovexi e d’altre
+         zenerazione àno a chapitare in dito luogo. </seg>
+      <seg xml:id="v-null-9_1_5" n="5"> E li chonfini de dita tera da uno ladi
+         sono le Tere de Promisione le quale tien Saraini, da ladi de tramontana sono zente
+         che à nome Turchimani, da levante e griego sono la <term ref="#gran-turchia">Turchia</term>, <term ref="#cayssaria">Chasana</term> e <term ref="#sevasta">Stavosto</term>, le quale sono sudite a <term ref="#tartari">Tartari</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

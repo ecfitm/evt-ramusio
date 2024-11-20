@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-34</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-34">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XXXIV </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-34_1_1" n="1"> <term ref="#samarchan">‹S›amarchan</term> è una nobellisima e gran citade e lla giente in quella abitano sono cristiani et
+         saracini. </seg>
+      <seg xml:id="vb-null-34_1_2" n="2"> El segnor suo è nevodo del <term ref="#gran-can">Gran Chane</term> ma non è però suo amicho, anci continue sono nemici e fra loro v’è stato gran guere.
+         </seg>
+      <seg xml:id="vb-null-34_1_3" n="3"> Et è questa citade verso maistro. </seg>
+      <seg xml:id="vb-null-34_1_4" n="4"> Non mi par el sia da tacere un miracholo
+         avene in questa cità. </seg>
+      <seg xml:id="vb-null-34_1_5" n="5"> <term ref="#zagathai">Gigatai</term>, fratello charnal del <term ref="#gran-can">Gran Chane</term>, era segnor di <term ref="#samarchan">Sanmarchan</term> et fecese cristiano con grandissimo gaudio et leticia de tuti cristiani in quella
+         cità et provincia abitano. </seg>
+      <seg xml:id="vb-null-34_1_6" n="6"> El segnore a suo devocione fece edificare una nobelle
+         e grande chiexia ad onore de santo Iohanne Batista (la qual fin a ora fi chiamata San Iohanne dala colona), per sostignimento dila qualle
+         ge fece metere una cholona de pietra molto grande e bella, la qualle sostenia tuto
+         el teto dela giexia; la qual chollona el segnor la fece tuor de alchun edeficio de
+         saracini con grandisimo despiacere de diti saracini. </seg>
+      <seg xml:id="vb-null-34_1_7" n="7"> I quali conveneno star taciti
+         et quieti per paura del re ma con grandissimo hodio et mallavolencia verso crestiani
+         ‹et› chome naturalmente insieme se aveano, ma molto più multiplicato per la nobelle
+         colona trata del suo hedifi‹ci›o e mesa nela chiexia cristiana tegnendo questo esser
+         fato per el segnor cristiano a despriexio loro. </seg>
+      <seg xml:id="vb-null-34_1_8" n="8"> Dapoi fata et nobelmente adornatta
+         la chiexia, el segnor se morì; e socesse per segnore el fiollo de <term ref="#zagathai">Gigatai</term>, de picolla etade, la tutella dil qualle fu data al nepote dil <term ref="#gran-can">Gran Chane</term>, che era saracino. [9] Morto <term ref="#zagathai">Gigatai</term> segnore cristiano, i saracini se levorno versso cristiani dicendo i volevano la suo
+         colona trata del suo hedeficio. [10] I cristiani ch’erano meno di loro, con umane
+         e bone parolle, volea cerchare de farlli remanere contenti per precio; ma i saracini,
+         pieni de odio, per precio de oro non volea aquetarsi, anci con grandissimo furore
+         andòno al segnore saracino protetore de quella cità narandoge quel avea fato <term ref="#zagathai">Gigatai</term> in desprecio della fede di <term ref="#macometto">Machometo</term>. [11] Mosso el segnore con quel medemo hodio avea el popollo saracino, sperendo quella
+         nobelle chiexia dovesse al tuto ruinare per el mover dila colona, comandò a cristiani
+         che fra tre dì loro avesse dato la soa collona a saracini. [12] I cristiani, dolenti
+         di tal comandamento, non vedendo potere vencer saracini né con force né con suma d’oro,
+         né vedendo modo poter trare la cholona sença ruina dela nobelle chiexia, non avendo
+         altro remedio, se tornoro con grandissime lacrime alla fonte de misericordia, pregando
+         lui che la chiexia soa i fosse richomandata, Idio graciosso per le pregiere de miser
+         San Iohanne, al nome dil quale la chiexia era dedicata. [13] Venuto el terço çor‹n›o a cristiani
+         inposto, |236v| trovorno la colona spicata dal teto, per modo che quella facillissimamente
+         fu mossa; e ssença lesione alchuna dela chiexia fu trata e data a saracini, non sença
+         suo grande amiracione et despiacere, sperendo che per el movere dela cholona la chiexia
+         dovese ruinare. [14] La chiexia rimaxe inlexa e ssença sostegno alchuno de sì gran
+         teto sta chome chossa miracholoxa sostenuta dalla voluntà del nostro Segnor Idio,
+         per l’interçesiun del preciosso Santo. [15] Et fino a questo çorno quella chiexia
+         se vede mirabellissima a tuti: et da molte parte vi conchorse giente et tutto el giorno
+         conchoreno per vedere l’ecelentissimo mirachollo.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

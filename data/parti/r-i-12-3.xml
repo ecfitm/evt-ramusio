@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-12-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-12">
+      <note>
+	<p>Nella porzione di testo confrontabile con il toledano, qui manifestamente ridotto,
+         R risulta traduzione pedissequa di <ref type="witlink" target="#z-null-11">Z 11 3-5</ref> «Sunt etiam in ea multi luci dactulos producentes, per quos equitari potest. Sunt
+         etiam ibi multe venationes silvestrium. Ibi sunt perdices et corturnices habundanter,
+         et qui de hiis delectantur inde multo solatio recreantur». Da Z Ramusio mutua due
+         minimi <hi rend="italics">ajout</hi> – l’informazione sui datteri e l’espansione «et altri che si dilettano di cacciagioni
+         di bestie e d’uccelli» (&lt; «qui de hiis delectantur» Z) – privi di riscontro nella
+         restante tradizione. </p>
+	<p>Del tutto prossimo a R/Z, al netto degli <hi rend="italics">ajouts</hi>, è <ref type="witlink" target="#f-null-33">F XXXIII 5-7</ref> «Et quant l’en s’en part de ceste tiere por aler avant, il chevache .VII. jornee
+         toute plaine, et n’i a for que {que} en trois leus habitasion la ou l’en peust herbergier.
+         Il hi a maint biaus boscet que se puent bien chavacher. Il hi a maintes chachajon
+         de bosces. Il ha pernis et quatornis aseç, et les merchant que por iluec chevauchent
+         en prenent grant seulas» – del quale la lezione toledana consente di emendare una
+         minima <hi rend="italics">faute</hi> paleografica: il sintagma «venationes silvestrium» di Z (&gt; «cacciagioni d’animali
+         salvatichi» R) rivela infatti, dietro all’improprio <hi rend="italics">de</hi> <hi rend="italics">bosces</hi> di F, una cattiva lettura di *‹<hi rend="italics">de</hi> <hi rend="italics">bestes</hi>›.</p>
+	<p>Gli altri relatori. Produce un’ampia sintesi del passo <ref type="witlink" target="#p-i-20">P I 20 3</ref> «Ultra <term ref="#iasdi">Iasdi</term>, ad dietas .VII. versus <term ref="#chermain">Crerman</term>, non est habitacio; sunt ibi in campestribus nemora per que libere equitari potest,
+         ubi venaciones multe sunt»; ribadiscono approssimativamente, con qualche minima riduzione,
+         le linee di F, <ref type="witlink" target="#l-null-27">L 27 3</ref> «Et ab hac civitate in anterius procedendo ‹itur› .VII. dietis continuis, ubi nusquam
+         inveniuntur habitationes nisi forte in tribus locis. Sunt tamen quam plura parva nemora
+         et pulchra, venationibus apta; et habentur perdices et coturnices multe […]», <ref type="witlink" target="#v-null-19">V 19 3</ref> «Et partendosse de questa zitade per andar più avanti, el se chavalcha per una pianura
+         ben oto zornade ch’el non se trova se no tre lozamenti che se possa albergar; et trovasse
+         de molte pernixe e tordi in gran quantitade, e li marchadanti che chavalcha per quela
+         pianura ne à gran piaxer e ssollazo; et simelmente de molte altre chazaxon», e <ref type="witlink" target="#vb-null-21">VB XXI 11-12</ref> «Partendose da <term ref="#iasdi">Çanfoi</term> per çornade .VIII., non si trova che .III. albergi; trovasse de bellisimi boscheti
+         che molto bene si chavalchano. È paixe de deletevelle chaçaxon, de contornice et de
+         ogni altre salvadasine […]». Non è chiara, infine, l’eziologia della variante <hi rend="italics">tordi</hi>, che in V sostituisce le <hi rend="italics">coturnici</hi> della restante tradizione (<hi rend="italics">quatornis</hi> F, <hi rend="italics">coturnices</hi> L, <hi rend="italics">corturnices</hi> Z etc.): può trattarsi di <hi rend="italics">lectio</hi> <hi rend="italics">facilior </hi>originatasi da una cattiva lettura della stringa ‹torn›.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

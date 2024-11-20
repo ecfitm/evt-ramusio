@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-52</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-52">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 52</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-52_2_1" n="1"> Transactis hiis .30. dietis per desertum pervenitur ad civitatem quandam dictam
+         <term ref="#sachion">Saccion</term>, et est in provincia dicta <term ref="#tanguth">Tangut</term>. </seg>
+      <seg xml:id="l-null-52_2_2" n="2"> Et sunt gentes <term ref="#idolatri">ydolatre</term>; sunt tamen aliqui Turchi, christiani nestorini et eciam aliqui Sarraceni. <term ref="#idolatri">Ydolatre</term> vero habent proprium ydeoma. </seg>
+      <seg xml:id="l-null-52_2_3" n="3"> Et est civitas hec inter oriens et grecum. </seg>
+      <seg xml:id="l-null-52_2_4" n="4"> Non
+         sunt homines mercatores sed vivunt ex fructibus terre. </seg>
+      <seg xml:id="l-null-52_2_5" n="5"> Habent sua monasteria et
+         ecclesias omnia plena ydolis diversarum manerierum, quibus faciunt sacrificia multa
+         et eis maxime reverentur. </seg>
+      <seg xml:id="l-null-52_2_6" n="6"> Cum nascitur infans, statim faciunt nutrire arietem
+         unum in honorem ydoli; et, completo anno, |8| in die festivitatis ydoli arietem illum
+         cum infante coram ydolo portant eique maxime reverentur; deinde hunc arietem coctum
+         coram ydolo reverenter portant, eumque ibi stare permittunt quousque officium ydolo
+         fecerint, orationesque pro eorum infante porrexerint. Et tunc dicunt ydolum commedisse
+         substantiam talium carnium, et ideo eas auferunt domumque reportant; et invitatis
+         parentibus et amicis ipsas festive commedunt reverenter. </seg>
+      <seg xml:id="l-null-52_2_7" n="7"> Verum de hoc tali ariete
+         habet sacerdos caput, pedes, interiora et pelles, et aliquod de carnibus. Comestis
+         vero carnibus recolligunt universa ossa easque sollempniter reservant. </seg>
+      <seg xml:id="l-null-52_2_8" n="8"> Omnium
+         colentium ydola moris est comburere corpora mortuorum: quod hoc modo faciunt. In via
+         per quam portari debet funus, in aliquibus locis, faciunt domunculas ornatas pannis
+         aureis et sericeis secundum eorum posse; ad has perveniunt ferendo corpus, et ipsum
+         deponunt; et ante ipsum prosternunt vinum et victualia multa, dicentes quod tali honore
+         recipietur in alio mundo. [9] Et dum pervenerint ad locum combustionis, tunc eorum
+         parentes faciunt de cartis bombacinis fieri incidendo ymagines hominum, equorum, arietum
+         et aliorum animalium; et cartas similiter ad modum monete faciunt, et habent ‹eciam›
+         çendatum ex diversis coloribus, et de pannis diversarum manerierum. Et hec ‹omnia›
+         una cum corpore mortuo in ignem ponunt, dicentes hunc mortuum in alio mundo habere
+         tanta, scilicet tot servos, tot equos et similia. [10] Dum eciam corpus ad rogum ferunt,
+         illud antecedunt omnia instrumenta civitatis sonando, quia dicunt ipsum in alio mundo
+         tali honore recipi deberi. [11] Est eciam aliud quod in eorum mortuis observant. Statim
+         enim, mortuo corpore, ad eorum astrologos vadunt ut sibi diem statuat comburendi.
+         Numquam enim eum comburerent nisi die debite ordinata; propter quod, advenit aliquando
+         quod per sepulturam aliquando per mensem, aliquando per .6. menses, corpora in eorum
+         domibus coguntur conservare. Tunc ergo ipsa in grossis capsis ligneis bene concludunt,
+         capsasque depingunt et circumdant pannis cum multis speciebus et camfora, taliterque
+         quod eius fetor sentiri non potest, et continue ‹ei› omni die preparant mensam cum
+         cibo et potu ac si viveret; et tam diu ipsam sic relinquunt quousque quis commode
+         commedere potuisset, dicentes animam mortui hiis frui cibariis. [12] Et multociens
+         astrologi dicunt non debere trahi corpus per principalem portam domus, sed per aliquam
+         aliam; et multociens faciunt rumpi domus et inde corpus trahere. Causam vero quare
+         eorum astrologi dicunt non debere trahi corpus ex domo quacumque die assignant, quia
+         non deberet, ut dicunt, trahi nisi sub tali planeta sub quo natus fuerit vel, ad minus,
+         in non sibi contrario: quod si aliter fiat, dicunt mortuos multa nocumenta in domo
+         facere; et multociens accidit quod demones aliquos ex familia ledunt vel occidunt,
+         quod hac de causa pervenire fatentur. [13] Que autem dicta sunt observant quicumque
+         <term ref="#idolatri">ydolatre</term> et ubique. [14] Dicemus amodo de aliis civitatibus que sunt versus maistrum, prope
+         caput huius deserti.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

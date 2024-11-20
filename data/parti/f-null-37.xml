@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-37</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-37">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XXXVII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-37_1_1" n="1"> Comant l’en ala par{t} sauvaje contree et povre.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-37_2_1" n="1"> Quant l’en s’en part de <term ref="#chermain">Crerman</term>, il cheuvauche bien .VII. jornee de mout aneiuse vie, et voç dirai comant. </seg>
+      <seg xml:id="f-null-37_2_2" n="2"> Il
+         hi a trois jornee que l’en ne treuve river se pou non; et celle que l’en trouve est
+         sause et verde come herbe de pre, et est si amer qe nulç se poroit sofrir a boir et,
+         se l’en en beust une gouse, il le firoit aler desout plus de .X. fois; et encore dou
+         sal que celle eive fait, celui que en men‹j›uast un petit graneus, il le firoit ausi
+         mout descorer desout; et por ce, les homes qui por illuec vont, portent com elz eive
+         por boir. </seg>
+      <seg xml:id="f-null-37_2_3" n="3"> Les bestes en boivent a grant force et por grant soif, et si vos di
+         qe l’eive les font descorer outre mesure. </seg>
+      <seg xml:id="f-null-37_2_4" n="4"> Et en cest toute trois jornee ne a nulle
+         habitasion, mes est tout deçert et grant seccetee. </seg>
+      <seg xml:id="f-null-37_2_5" n="5"> Bestes ne i ont, por ce que
+         il ne i troveront a manger. </seg>
+      <seg xml:id="f-null-37_2_6" n="6"> A chief de trois jornee, trovon un autre leu |17d|
+         que dure quatro jornee, que ausint est deçert toute seche et l’eive est ausi amer;
+         et ne est arbres ne bestes, for che asne solemant. </seg>
+      <seg xml:id="f-null-37_2_7" n="7"> Et a chief de cest .IIII. jornee,
+         fine le reingne de <term ref="#chermain">Crerman</term> et trovon la cité de <term ref="#cobinam">Cobinan</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

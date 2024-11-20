@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-5">
+    <head>
+      <hi rend="bold">P, I 5</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-5_2_1" n="1"> Cum igitur ingressi fuissent <term ref="#acre">Accon</term>, audiverunt dominum Clementem papam quartum nuper fuisse defunctum, super quo fuerunt vehementissime contristati.
+         </seg>
+      <seg xml:id="p-i-5_2_2" n="2"> Erat autem in <term ref="#acre">Accon</term> legatus quidem apostolice |5c| sedis, dominus scilicet Tebaldus de vicecomitibus de Placencia, cui cuncta propter que missi a <term ref="#gran-can">Kaam</term> fuerunt narraverunt; eius vero consilium fuit ut omnino creacionem summi pontificis
+         expectarent. </seg>
+      <seg xml:id="p-i-5_2_3" n="3"> Iverunt igitur Venetias videre suos mansuri ibi quousque summus pontifex
+         crearetur, et quando Venetias pervenerunt invenit dominus Nicolaus uxorem suam esse
+         defunctam, que in recessu suo pregnans erat, invenitque filium, Marchum nomine, qui
+         iam annos quindecim habebat etatis, qui post discessum ipsius de Venetiis natus fuerat
+         de uxore prefata. </seg>
+      <seg xml:id="p-i-5_2_4" n="4"> Hic est Marchus ille qui composuit istum librum, cui qualiter
+         hec nota fuerint infra patebit. </seg>
+      <seg xml:id="p-i-5_2_5" n="5"> Interim autem electio summi pontificis adeo dilata
+         est quod duobus annis manserunt Venetiis ipsam quottidie prestolantes.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

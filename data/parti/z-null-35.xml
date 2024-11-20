@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-35</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-35">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 35</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-35_1_1" n="1"> Quando vero disceditur a provincia supradicta, itur per .X. dietas inter levantem
+         et grecum, et in toto itinere pauce sunt habitationes, nec sunt aliqua que sint digna
+         relatu. </seg>
+      <seg xml:id="z-null-35_1_2" n="2"> In capite vero .X. dietarum invenitur quedam provintia nomine <term ref="#succuir">Sucçio</term>, in qua sunt multe civitates et castra; cuius gentes <term ref="#idolatri">ydola collunt</term>. </seg>
+      <seg xml:id="z-null-35_1_3" n="3"> Sunt in ea aliqui christiani. </seg>
+      <seg xml:id="z-null-35_1_4" n="4"> Subduntur dominio <term ref="#gran-can">Magni Canis</term>. </seg>
+      <seg xml:id="z-null-35_1_5" n="5"> Invenitur in hiis provinciis <term ref="#rheubarbaro">reobarbaro</term> in maxima quantitate, et mercatores per universum mondum ipsum portant. </seg>
+      <seg xml:id="z-null-35_1_6" n="6"> Nam in
+         eis quedam herba nascitur venenosa; quam si bestie comedant, ungues amittunt. </seg>
+      <seg xml:id="z-null-35_1_7" n="7">
+         Sed bestie nate in illa contrata herbam illam agnoscunt: quare eam evitant ab esu.
+         </seg>
+      <seg xml:id="z-null-35_1_8" n="8"> Homines de fructibus terre et eorum bestiis vitam ducunt, et mercimoniis non utuntur.
+         [9] Provintia tota sana est, et gentes sunt brune.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

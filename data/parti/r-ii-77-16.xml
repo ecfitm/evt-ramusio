@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-77-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-77">
+      <note>
+	<p>Ramusio combina qui e rielabora con una certa libertà informazioni provenienti da
+         diverse fonti. Praticamente nullo risulta l’apporto di L e P, che si dimostrano estremamente
+         sintetici: <ref type="witlink" target="#l-null-141">L 141 5</ref> «Hiis relictis ad <term ref="#india">Indica</term> transeamus»; <ref type="witlink" target="#p-ii-70">P II 70 8</ref> «[…] oportet autem me transire ad <term ref="#india">Indiam</term> ubi ego Marchus fui diutius inmoratus, de qua sunt magna et mirabilia describenda».
+         Più evidente è invece l’apporto di VB e Z: <ref type="witlink" target="#vb-null-125">VB CXXV 2-5</ref> «Narerò adoncha dele Indie Maçor e Menor e Meçana, le qual parte al iudicio mio nonn è da tacere, però che in quelle sono meraveioxe
+         et belle chose et degne da farne memoria. E perché in quelle io, Marcho, son statto
+         e vist’òne tanto quanto mai homo latino vedesse, desidero vegnir a quelle. E benché
+         io non dubita che ai auditori molte chosse parerano incredibelle e forsi fuora de
+         verità per la gran deverssità de chostumi e ssiti de’ luogi da questi nostri, tamen
+         io testemonio et affermovi tuto esser veritevelle, né crediate esserne mençogna alchuna,
+         le qual cognoscho e çudego seria dite con mio inchargo et non con alchuna mia laude.
+         E però con paura io vignerò a naracion de quelle, cognossendo che, per la gran deversità
+         delle cosse e meraveiose ò a dire, apena le firà crete et da molti io firò chanoniado
+         de me‹n›çogne; le qual io ve affermo per la maor parte con i proprii ochi aver viste,
+         el resto da omeni de reputacion et per la soa vita veritevelli aver intexo: e però
+         vegnirò a naracion di quelle in questa segonda parte de questo libro»; <ref type="witlink" target="#z-null-90">Z 90 36-39</ref> «Sed tamen, quia liber noster non est expletus de hiis que in eo scribere volumus,
+         quoniam adhuc omnia facta Indorum desunt, que bene notificanda sunt hiis qui ea nesciunt
+         et ignorant, quia ibi sunt multa diversa et extranea que in alio mundo alicubi non
+         aparrent, et ideo bene dicendum est et est utile in nostro libro per ordinem declarare;
+         et aperte dicetur, prout dominus Marcus Paulo vidit et dixit per ordinem. Et noveritis
+         quod dominus Marcus Paulo fuit in partibus <term ref="#india">Yndie</term> tanto tempore conversatus, quod tam ex auditu quam ex visu, satis potuit de Indorum moribus et esse ad plenum cognoscere et videre. Verumtamen ibi sunt tam mirabilia
+         quod multum mirabuntur auditores. Tamen ipsa ponemus in scriptis per ordinem, secundum
+         quod sepedictus dominus Marcus Paulo ea retulit esse vera, incipientes secundum quod
+         per vos poterit comprehendi». Non ci sono indizi certi che provino il ricorso da parte
+         di Ramusio anche alla testimonianza di <ref type="witlink" target="#v-null-79">V 79 13-14</ref> «E perché el nostro libro nonn è chonpido de quelle chosse le qualle nui voremo schriver,
+         de tuti i fati de Zudei, non sono anchora dite, et sono ben chosse da notare a quelli
+         che non le sa, perché sono molte meraveioxe chosse et sono chosse da meter per schrito
+         nel nostro libro, e da parte se dirà chomo misier Marcho Pollo vete et disse per hordene.
+         Et sapié che ’l dito misier Marcho Pollo stete tanto in <term ref="#india">India</term> ch’el sape tuto l’esser de quelli e dei lor chostumi e marchadantie, che quaxi el
+         non fo mai persona che savesse dir meio la veritade. Veramente le sono tante meraveie
+         che molto se meraveierà i auditori; niente di meno meteremo quelle per schrito segondo
+         chomo misier Marcho Pollo fermava quelle esser vere, chomo porete aldir» (per F, vd.
+         <ref type="witlink" target="#f-null-156">F CLVI 17-20</ref>).</p>
+	<p>Nella prima parte della pericope R segue abbastanza da vicino il dettato di Z (Z «Sed
+         tamen, quia liber noster non est expletus de hiis que in eo scribere volumus», R «Ma,
+         perché anchor non è compiuto quanto messer Marco ha deliberato di scrivere»), per
+         poi allontanarsene nelle righe successive, in cui si riscontra qualche isolata lezione
+         di VB (VB «Indie Maçor e Menor e Meçana» ~ R «Maggior, Menor et Mezzana»; VB «delle cosse e meraveiose» ~ R «delle cose maravigliose»; VB «da omeni de reputacion»
+         ~ R «da persone di riputatione»). Le informazioni contenute nella parte centrale («nelle
+         parti delle qual […] patria») e finale del passo («et anche […] <term ref="#india">Indie</term>» ) non trovano riscontro in nessuna delle fonti ramusiane e sono con ogni probabilità
+         dovute all’intervento dell’editore.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

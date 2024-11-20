@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-29</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-29">
+    <head>
+      <hi rend="bold">P, II 29</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-29_2_1" n="1"> Post dietas .X. a civitatate <term ref="#gouza">Gigyn</term> invenitur regnum <term ref="#tainfu">Tanfu</term> magnum et pulchrum, ubi vinee multe sunt; in tota enim provincia <term ref="#cataio">Cathay</term> vinum non crescit, sed de hac regione defertur illuc. </seg>
+      <seg xml:id="p-ii-29_2_2" n="2"> Ibi sunt mora multa propter
+         sericum, de quo copia ibi maxima est. </seg>
+      <seg xml:id="p-ii-29_2_3" n="3"> Ibi mercaciones magne |49a| fiunt multique
+         artifices ibi sunt, fiuntque ibi arma multa pro exercitibus <term ref="#gran-can">Magni Kaam</term>. </seg>
+      <seg xml:id="p-ii-29_2_4" n="4"> Inde vero progredientes per dietas .VII. ad occidentalem plagam inveniunt continue
+         regionem pulcherrimam, castra multa et plurimas civitates ubi negotiaciones sunt maxime.
+         </seg>
+      <seg xml:id="p-ii-29_2_5" n="5"> Ultra .VII. dietas predictas invenitur civitas <term ref="#pianfu">Pianfu</term> grandis valde et magna opum, ubi est serici copia maxima.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

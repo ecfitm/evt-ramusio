@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>R ha avuto sicuramente contatti con <ref type="witlink" target="#p-ii-41">P II 41 12</ref> «[…] sed contractus suos et obligationes [R «le sue obligationi»] ad invicem in tesseris
+         faciunt, quarum medietatem servat unus, aliam alius, que postmodum composite in minutis
+         signis conveniunt», e con<ref type="witlink" target="#vb-null-85"> VB LXXXV 10</ref> «La scritura soa è che i fendeno 1° bastone e ssegna su quello quel insieme i àno
+         a ffar [R «et segnano sopra quello quanto hanno da fare insieme»]; e chadaun tien
+         una delle parte del bastone chome nui de qui femo a nostro modo in texera [R «et cadaun
+         tiene una delle parti del bastone, come facciamo noi a modo nostro in tessera»]».
+         In R compaiono, però, anche informazioni che sono omesse in P e in VB. Si deve ammettere,
+         dunque, che Ramusio abbia fatto uso anche di una terza fonte. A tal proposito, giova
+         rilevare che la pericope segue, nell’articolazione generale delle informazioni, <ref type="witlink" target="#v-null-57">V 57 10</ref> «Et quando uno à da far chon l’altro i tien uno puocho de legno quadro e tondo, e
+         tien la mità per lui, l’altra mità dano a cholui chon chi l’à da far; et fano alguni
+         do tochi, o tre, over quatro; et quando algun die’ pagar i dà la mitade, et l’altra
+         mità i salva loro, et puo’ quando i àno pagado i se la fa dar indriedo», e soprattutto
+         <ref type="witlink" target="#f-null-119">F CXIX 15-16</ref> «Mes je voç di qe, quant il ont a fer le un con le autre, il prenent un pou de leingne,
+         ou quaré ou reont, et le fendent por mi, et tient le un l’une moitié, et l’autre l’autre
+         moitié; mes bien est il voir qe il hi font avant deus tacqe ou trois ou tantes com
+         il vuelent. Et quant il vient a paier le un le autre, adonc celui ‹qe› doit doner
+         la monoie ou autre chouse, se fait doner la moitié dou leign qe celui avoit». Qui
+         e nella parte restante del capitolo manca la testimonianza di Z; tuttavia, sembra
+         ragionevole ritenere che, in questo punto come nelle pericopi iniziali, Ramusio abbia
+         tenuto conto della versione di Z1, che doveva recare una lezione molto vicina a quella di F. Anche L omette questa
+         sezione.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-25-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-25">
+      <note>
+	<p>Il modello di Ramusio è sicuramente <ref type="witlink" target="#z-null-113">Z 113 21-24</ref> «Habent et pavones multo pulcriores et maiores nostratibus, et alt‹er›ius forme et
+         stature. Habent galinas diversas a nostris. Habent omnia diversa a nostris, et pulcriora
+         et meliora, quoniam nullum fructum habent similem nostris, nec bestiam, neque avem.
+         Et hoc accidit propter intensum calorem qui ibi regnat». L’“errore” iniziale di P III 31 8 «[…] sunt etiam ibi papagalli diversarum manerierum pulcriores illis qui citra mare
+         deferuntur ad nos; ibi sunt galline nostris omnino dissimiles. Omnia habet illa regio
+         dissimilia regionibus aliis: aves, bestias et aromata, et hoc est quia calida est
+         supra modum» dipende da VA CXLI 13-14 «[…] anchora ge n’è papagalli de diversse guixe, miori e plui belli de quelli che
+         l’omo aduxe in nostre parte, el ge n’è galine devixade dalle nostre. Et àno tute cosse
+         devixade dalle nostre, e fruti, bestie, oxelli; e questo è per el gran chalor»: non
+         di <hi rend="italics">papagalli</hi> ma di <hi rend="italics">paonç</hi> parla il modello, F CLXXIX 6-7 «Il hi a encore paonç mout plus biaus et greingnors et d’aut‹r›e faison qe ne sunt
+         les nostres. Il ont gelines devisee a les nostres. Et qe voç en diroie? Il ont toutes
+         couses devisee a{s} les nostres et sunt plus belles et melliors, car il ne ont nul
+         frut senblable as nostres, ne nulle bestes ne nul oisiaus, et ce avint por le grant
+         calor que la ha». Sopprime la spiegazione eziologica VB CXLIX 15-16 «Àno pavoni de alltra façon che non sono questi nostri e per simelle galline de molto
+         belle pene e molti altri animalli molto belli. Àno molti fruti ma niuno che someia
+         ai nostri»; in modo non diverso, L 166 9-11: «‹Sunt eciam pavones pulcriores et maiores nostris alteriusque fature›. Sunt eciam
+         galline diverse a nostris valde. Et breviter omnia habent diversa et meliora et pulcriora
+         nostris: nullas enim bestias nullasque aves, nullas eciam arbores similes nostris
+         habent.». Guasto V 97 8 «[…] et sono anchora galine diverse dele nostre et mior dele nostre; et àno alguni
+         fruti simeli ali nostri; ma in questo paexe non sono algun oxelo ‹…›, et questo per
+         el gran chalor che sono».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

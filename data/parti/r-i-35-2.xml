@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-35-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-35">
+      <note>
+	<p>Ramusio sfrutta qui una lunga digressione del testo di Pipino, ignota a tutta la tradizione
+         (compreso VA, modello di P) e quindi di origine incerta, sull’utilizzo di asini e
+         cammelli come animali da soma nell’attraversamento del deserto di <term ref="#lop">Lop</term>: vd. <ref type="witlink" target="#p-i-44">P I 44 3</ref> «In hac civitate pro mercatoribus volentibus transire desertum cuncta necessaria
+         preparantur, ubi mercatores, priusquam iter arripiant, diebus pluribus requiescunt,
+         ibique asinos fortes et camelos mercatoribus et victualibus onerant et sic iter arripiunt
+         per desertum; quando autem asinos vel camelos exoneraverunt victualibus, occidunt
+         eos vel in deserto dimittunt, quia non possent eis usque ad terminum de victualibus
+         providere. Camelos tamen servant libencius, quia et pauci cibi sunt et onera magna
+         portant». </p>
+	<p>La traduzione dell’<hi rend="italics">ajout</hi> di P è “montata” in coda a un segmento testuale («Et quelli […] molti giorni») desunto
+         probabilmente da Z, come suggerisce la sua perfetta rispondenza con il dettato di
+         <ref type="witlink" target="#f-null-56">F LVI 5</ref> «Et voç di que cel que vuelent pasere le desert se repousent en ceste ville une semaine»
+         – tranne che nel sintagma «per molti giorni», che invece rimanda nuovamente a P («diebus
+         pluribus»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

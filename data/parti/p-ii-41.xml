@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-41</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-41">
+    <head>
+      <hi rend="bold">P, II 41</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-41_2_1" n="1"> Cum vero receditur a provincia <term ref="#carazan">Carayam</term> ad dietas ‹.V.› invenitur provincia <term ref="#cardandan">Ardandam</term> que subiecta est <term ref="#gran-can">Magno Kaam</term>, cuius principalior ac nobilior urbs dicitur <term ref="#vociam">Unciam</term>. </seg>
+      <seg xml:id="p-ii-41_2_2" n="2"> In hac provincia datur pro moneta aurum ad pondus; unciam enim seu sagium auri
+         commutant pro quinque unciis seu sagiis argenti: non enim invenitur in regionibus
+         illis usque ad dietas multas argentum, ideoque conveniunt illuc negotiatores qui cum
+         eis aurum pro argento commutant multumque lucrantur; porcellanas etiam expendunt que
+         de India deferuntur. </seg>
+      <seg xml:id="p-ii-41_2_3" n="3"> Riso et carnibus vescuntur plurimum, potionem optimam faciunt
+         de riso et aromatibus delicatis. </seg>
+      <seg xml:id="p-ii-41_2_4" n="4"> Viri et mulieres regionis huius dentes coopertos
+         deferunt subtilibus laminibus aureis, que sic disposite sunt ut dentibus optime coaptentur.
+         </seg>
+      <seg xml:id="p-ii-41_2_5" n="5"> Viri omnes militares |55d| sunt, armis tantummodo et militie vacantes et venationi
+         bestiarum et volucrum; mulieres autem curam rei familiaris in omnibus gerunt, habentque
+         servos emptitios qui eorum obsequiis mancipantur. </seg>
+      <seg xml:id="p-ii-41_2_6" n="6"> In hac provincia consuetudo
+         est ut quando peperit mulier, locum quam cito potest dimittit, et surgens gubernacioni
+         domus intendit, vir autem eius .XL. diebus in lecto decumbit et nati sibi filii curam
+         gerit; mater autem pueri nulla de illo sollicitudinem habet, nisi quia lac illi prebet;
+         interim vero amici et consanguinei virum visitant decumbantem. Aiunt quod hoc ideo
+         faciunt quia mulier filium portans et pariens longo tempore et graviter laboravit,
+         propter quod conveniens iudicant ut diebus .XL. a fili cura quiescat, ipsa tamen viro
+         cibum defert ad lectum. </seg>
+      <seg xml:id="p-ii-41_2_7" n="7"> In hac provincia non sunt alia ydola nisi quod quelibet
+         familia suum progenitorem adorat, eum scilicet a quo alii de familia nati sunt. </seg>
+      <seg xml:id="p-ii-41_2_8" n="8">
+         In locis valde sil|vestribus |56a| habitant ubi montes sunt maximi et nemora magna
+         valde; ad montes illos non accedunt alii de regionibus aliis, quia vivere ibi non
+         possent extranei propter corruptionem nimiam aeris. [9] Litteris carent, sed contractus
+         suos et obligationes ad invicem in tesseris faciunt, quarum medietatem servat unus,
+         aliam alius, que postmodum composite in minutis signis conveniunt. [10] In hac provincia
+         et in duabus aliis prenominatis, scilicet <term ref="#caidu">*Caydu</term> et <term ref="#carazan">Carayam</term>, medici non sunt, sed quando quis infirmatur convocant sui magos qui <term ref="#idolatri">ydola colunt</term>, quibus infirmus suam infirmitatem exponit; tunc magi coream ordinant et instrumenta
+         pulsant et ad ydolorum suorum honorem magnas faciunt cantilenas: hoc tamen tam diu
+         faciunt donec arripiatur a demone unus ex ludentibus in correa. [11] Tunc correa dimissa
+         iacentem arrep|titium |56b| consulunt qua de causa hec ille patiatur, et quid de ipsius
+         liberacione agendum sit; demon autem per arrepticium responsum dat, dicens illum infirmatum
+         quia illum aut illum deum offendit; magi autem orant ut deus ille culpam remittat
+         suam, permittens quod ipse de sanguine suo proprio sacrificium offerret. Si iudicat
+         demonum ex signis egritudinis ut ille liberari non possit ait: «Iste tam graviter
+         deum illum offendit quod per nulla sacrificia placari potest»; si autem iudicat ut
+         possit evadere dicit: «Oportet ut tot arietes nigra capita habentes illi offerat et
+         tot et tales faciat potiones, et convocet ad se tot magos et magas totidem, per quorum
+         manus sacrificium offerat et sic placabitur ei deus». [12] Tunc consanguinei egroti
+         illi omnia faciunt que demon iussit, occiduntque |56c| arietes et sanguinem ipsorum
+         in celum iactant; convenientes vero magi cum mulieribus suis faciunt luminaria magna
+         et domum totam thurificant et fumum de lignis aloe faciunt et aquam decoctam carnium
+         in aera fundunt et partem etiam potionum que de aromatibus sunt confecte, et in corea
+         iterum saltant et cantant ad illius reverentiam ydoli. [13] Post hec inquirunt rursus
+         ab arreptio an per hoc sit ydolo satisfactum: si iubet demon ut aliud fiat, confestim
+         mandatum eius impletur; cum autem dicit sibi satisfactum esse, phanatici et incantatores
+         illi sedent ad mensam, carnesque comedunt immolatas cum leticia magna et bibunt potiones
+         que ydolo sunt in sacrificio oblate; terminato prandio ad propria remeant. [14] Si
+         contingant autem divina providentia ut curetur eger, curationem ipsius attribuunt
+         de|moni |56d| cui sacrificia sunt oblata; hac arte per demones illorum illuditur cecitati.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

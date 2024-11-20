@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-1-20</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>Nell’ordine delle informazioni Ramusio si attiene probabilmente alla struttura di
+         <ref type="witlink" target="#p-ii-4">P II 4 5-6</ref> «[…] terminatis utriusque exercitus cantilenis, regis <term ref="#cublai-can">Cublay</term> nachare sonuerunt et tunc partes, contra se invicem irruentes, prelium commiserant.
+         Erat autem in aere sagittarum tam inextimabilis multitudo ut imbres potius quam sagitte
+         descendere viderentur […]». Il contenuto del testo, tuttavia, riflette perlopiù quello
+         di <ref type="witlink" target="#f-null-78">F LXXVIII 11-12</ref> «Et quant toutes les jens furent bien aparoilliés d’andeus pars, atant comencent
+         a soner [R «cominciar a sonar»] les grant nacar dou Grant Chan. Et tantost que les nachar conmancent a soner, atant ne font deleament, mes laisse
+         corre les une jens vers le autre […]» / <ref type="witlink" target="#f-null-78">F LXXVIII 13</ref> «Et qe voç en diroie? Il conmancent la meslee mout cruele et felonese [R «sì cominciò
+         una crudel et aspra battaglia»]: or poit l’en veoir voler sagites, car toit l’air
+         n’estoit plein [R «l’aere fu immediate tutto pieno»] come ce il fuist pluie; or poit
+         bien veoir chevalers et chevaus mort caoir a la tere [R «vedevansi huomini et cavalli
+         in terra cader morti»]; il hi estoit si grant la grïé et remoute [R «et tanto era
+         horribil il grido […] et strepito»] que l’en ne oïst le dieu tonant»; La variante
+         «dalle parti destra et sinistra» potrebbe essere stata suggerita a Ramusio da <ref type="witlink" target="#vb-null-67">VB LXVII 17-18</ref> «E cesado i strumenti et chanti, le nachere da una parte et dal’altra come‹n›çò a
+         tochare: alora la bataglia principiò saetandosi con le saete […] Principiata la bataia,
+         con grandissimo vigore per entranbe le parte, con tanto strepito e rumore, con tanta
+         moltitudene de saete […]». Non si notano particolari affinità di R con la versione
+         rimaneggiata di <ref type="witlink" target="#v-null-40">V 40 11-12</ref> «[…] et quando le parte fono aparechiade per chomenzar la bataia, le nachare del
+         <term ref="#gran-can">Gran Chan</term> chomenzò a ssonare; e de prexente senza alguna dimora una zente chon l’altra forono
+         ale mani […]. Et la bataia fono molto chrudelissima, per tal muodo che iera sì gran
+         oschuritade per la gran abondanzia de freze et saitamenti de tranbe do le parte, ch’el
+         non se podea veder l’aiere […]». L omette questo passo. </p>
+	<p>Z omette l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

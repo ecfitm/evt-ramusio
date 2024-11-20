@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Ramusio si attiene fedelmente alla lezione di Z, che rispecchia nella sostanza il
+         dettato di F: Z 53 36 «Et ex tunc non est aliquis qui ausus sit alterius tangere uxorem, et valde sibi
+         cavent» (<ref type="witlink" target="#f-null-114">F CXIV 20</ref> «[…] et ont por trop grant maus se le un tochast la feme a l’autre, et se gardent
+         tuit de ceste couse mout»). A parte V 55 22 (che si mostra affine a F: «[…] et àno molto per mal uno che tochasse so moier, onde
+         de questo molto se schivano»), gli altri relatori presentano versioni abbastanza diverse
+         da quella di R: <ref type="witlink" target="#l-null-94">L 94 5</ref> «[…] quare de musco adest in maxima quantitate»;<ref type="witlink" target="#p-ii-37"> P II 37 4</ref> «[…] nec permittunt ulterius viris aliis forensibus seu domestibus adherere: multumque
+         cavent viri regionis illius ne in hac re alterutrum se offendant»; <ref type="witlink" target="#vb-null-81">VB LXXXI 7</ref> «[…] et dapoi maritatte, i mariti ne sono de quelle molto giloxi né potria patire
+         che alltro homo i tochase la moglie».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

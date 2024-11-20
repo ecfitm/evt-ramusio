@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-76</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-76">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LXXVI </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-76_1_1" n="1"> Ci devise de la grant bataille ke fu entre le <term ref="#gran-can">Grant Kaan</term> et le roi <term ref="#naiam">Nayan</term> son uncle.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-76_2_1" n="1"> Or sachiés tout{i} voirmant qu’il est de la dreite ligne enperiaus de <term ref="#cingis-can">Cinchins Kan</term> que droitemant de cel lengnajes doit estre le sire de tous le <term ref="#tartari">Tartars</term>. </seg>
+      <seg xml:id="f-null-76_2_2" n="2"> Et cestui <term ref="#cublai-can">Cublai Kan</term> est le seisme <term ref="#gran-can">Grant Kan</term>, ce vaut a dire qu’il est sesme grant seingnor des tous les <term ref="#tartari">Tartars</term>. </seg>
+      <seg xml:id="f-null-76_2_3" n="3"> Et sachiés qu’il ot la segnorie as .M.CC.LVI. anz que avoit qe Crist avoit nasqu,
+         et en celui an comancé a reingner. </seg>
+      <seg xml:id="f-null-76_2_4" n="4"> Et sachiés q’il ot la segnorie por son valor
+         et por sa proece et por son grant senz, car sez parenz et seç freres la le defendoient.
+         </seg>
+      <seg xml:id="f-null-76_2_5" n="5"> Mes il, por grant proesse, l’ot, et sachiés qe droitemant venoit a lui por raisonz
+         la seingnorie. </seg>
+      <seg xml:id="f-null-76_2_6" n="6"> Il a, qu’il comance a regner, .XLII. anç jusque a cestui point
+         qe core .M.CC.LXXXXVIII. </seg>
+      <seg xml:id="f-null-76_2_7" n="7"> Il puet bien avoir d’aajes quatrevins |34b| et cinq anz.
+         [9] Et avant q’el fust seingnor, il aloit en ost tout la plosors foies; il estoit
+         prodomes des armes et buen chaveitains. [10] Mes, puis qu’il fu seingnor, ne ala en
+         ost for che une foies, et ce fu a les .M.CC.LXXXVI. anz, et voç dirai por coi. </seg>
+    </p>
+    <p n="3"/>
+  </div>
+</body>
+</text>
+     </TEI>

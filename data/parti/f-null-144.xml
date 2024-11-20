@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-144</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-144">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXLIV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-144_1_1" n="1"> Ci devise de la provence de <term ref="#nanghin">Nanghin</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-144_2_1" n="1"> <term ref="#nanghin">Nanghin</term> est une provence ver ponent, et est dou <term ref="#mangi">Mangi</term> meisme, que mout est noble provence et riches. </seg>
+      <seg xml:id="f-null-144_2_2" n="2"> Il sunt <term ref="#idolatri">ydres</term> et ont monoie de carte, et sunt au <term ref="#gran-can">Grant Kan</term>. Il vivent de mercandies et d’ars. </seg>
+      <seg xml:id="f-null-144_2_3" n="3"> Il ont soie en abundance; il font dras dorés
+         et de soie de toutes faisonz. Il ont grant plantee de toutes bles et de{s} toutes
+         couses de vivre, car mout est planteuse provence; il ont venesionz et chaceisson asseç.
+         Il font ardoir lor cors mors. Il ont lionz aseç. Il hi a maintes riches mercant, qe
+         mout en a grant trëu et grant rende le <term ref="#gran-can">Gran Sire</term>. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-144_3_1" n="1"> Or nos partiron de ci, car ne a autre chouse qe a mentovoir face. Et adonc voç
+         conteron de la tres noble cité de <term ref="#saianfu">Saianfu</term>, que bien fait a conter en nostre livre por ce que trop est grant fait son afer.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-57</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-57">
+    <head>
+      <hi rend="bold">P, II 57</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-57_2_1" n="1"> Post hec itur per dietam unam et per viam inveniuntur ville et optima cultura
+         terrarum. </seg>
+      <seg xml:id="p-ii-57_2_2" n="2"> In fine vero diete habetur civitas <term ref="#tingui">*Tinguy</term> que grandis quidem non est, sed victualium habet copiam maximam. |62d| </seg>
+      <seg xml:id="p-ii-57_2_3" n="3"> Habet
+         etiam naves multas valde, est enim iuxta <term ref="#mare-oceano">Occeanum</term> ad dietas tres, et in toto illo spacio saline sunt multe. </seg>
+      <seg xml:id="p-ii-57_2_4" n="4"> In ipso salinarum spacio
+         est civitas una magna que dicitur <term ref="#tingui">*Tinguy</term>. </seg>
+      <seg xml:id="p-ii-57_2_5" n="5"> Post recessum a civitate <term ref="#tingui">*Tinguy</term> ad plagam circii, itur per dietam unam per pulcherrimam regionem et terminata dieta
+         invenitur civitas nobilis <term ref="#iangui">Yanguy</term>, sub cuius iurisdictione sunt civitates numero .XXVII. magnarum mercacionum. </seg>
+      <seg xml:id="p-ii-57_2_6" n="6">
+         Ego autem Marchus annis tribus ex commissione <term ref="#gran-can">Magni Kaam</term> habui in civitate illa officium prefecture.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

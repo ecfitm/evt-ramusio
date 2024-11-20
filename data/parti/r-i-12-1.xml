@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-12-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-12">
+      <note>
+	<p>L’esordio traduce letteralmente <ref type="witlink" target="#z-null-11">Z 11 1</ref>: «<term ref="#iasdi">Iasd</term> est in confinibus Persye, civitas multum nobilis et magne mercationis, in qua laborantur multi drapi de syrico».
+         Le informazioni immediatamente successive sul commercio dei panni di seta, mancanti
+         nel toledano, seguono da vicino <ref type="witlink" target="#f-null-33">F XXXIII 3</ref>, ricalcandolo quasi <hi rend="italics">in</hi> <hi rend="italics">toto</hi> («Il se laborent maint dras de soie que s’apele{s} <term ref="#iasdi">iasdi</term>, que les merchant les portent en maintes pars por fer lor profit»): andranno anch’esse
+         ricondotte allo Z completo di Ramusio.</p>
+	<p>Prossima a F è V, al netto della consueta <hi rend="italics">faute </hi>toponomastica e dell’autonomo riferimento al <hi rend="italics">levante</hi> come luogo di smercio dei tessuti (<ref type="witlink" target="#v-null-19">V 19 1</ref> «‹L›a zitade de <term ref="#iasdi">Adin</term>, la qual sono in la provinzia de <term ref="#persia">Persia</term>, sì è molto nobele e granda e de gran marchadantia, et lì se fano molti drapi de
+         seda i qualli sono chiamadi “<term ref="#iasdi">iasdi</term>”, et li marchadanti li porta in levante e guadagnane molto»). Si osserva una riduzione
+         del bagaglio informativo in L <ref type="witlink" target="#l-null-27">L 27 1</ref> «<term ref="#iasdi">Iasdi</term> est in <term ref="#persia">Persia</term> maxima civitas et nobilis et multarum mercationum, in qua laborantur panni de seta
+         dicti “<term ref="#iasdi">iasdi</term>”», e in <ref type="witlink" target="#p-i-20">P I 20</ref> «<term ref="#iasdi">Iasdi</term> est civitas grandis in eadem regione magnarum mercacionum ubi artifices pulcherrime
+         operantur», mentre <ref type="witlink" target="#vb-null-21">VB XXI 9</ref>, sensibilmente espanso rispetto a F («In questa provincia di <term ref="#persia">Persia</term> v’è una gran citade nobelle et magna degna di partichular naracione chiamata <term ref="#iasdi">Çanfoy</term>, nela qualle se fano gran marchadantie e llavorassi belisimi drapi d’oro et de seta,
+         i qualli drapi son chiamati <term ref="#iasdi">çanfoini</term> e fino portatti da marchadanti in molte parte»), si caratterizza per la veste particolarmente
+         traviata – per cattiva lettura del traduttore? – del toponimo (vd. Gennari 2009, p.
+         LXVII).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

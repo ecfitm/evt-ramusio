@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>La fonte principale è <ref type="witlink" target="#z-null-58">Z 58 14-15</ref>, che fornisce il testo per il corpo centrale («idoli […] costui»): «Noveritis itaque
+         quod gentes ipsius non habent ydola neque templa, sed maiorem adorant de domo. Dicunt
+         enim: “De isto exivimus”» (vd. <ref type="witlink" target="#f-null-119">F CXIX 13</ref> «Cest gens ne ont idres ne eglise, mes orent le greingnor de la maison et dient:
+         “De cestui somes nos oïssi”»). L’attacco è probabilmente ripreso da <ref type="witlink" target="#p-ii-41">P II 41 7</ref> «In hac provincia non sunt alia ydola nisi quod quelibet familia suum progenitorem
+         adorat, eum scilicet a quo alii de familia nati sunt». L’ultima parte del passo («et
+         tutto il bene […] lui») è con ogni evidenza ricavata da <ref type="witlink" target="#vb-null-85">VB LXXXV 8</ref> «Questa giente non àno ydolli né chiexie, ma adorano el maor e principal della chaxa
+         però che dicono el bene i àno procieder et aver per el suo maçor».  Non si danno indizi
+         di contatti di R con <ref type="witlink" target="#l-null-98">L 98 8</ref> «Non sunt hiis ydola neque ecclesie, sed adorant maiorem domus, dicentes: «Ex hoc
+         egressi sumus»», e con <ref type="witlink" target="#v-null-57">V 57 8</ref> «Et queste zente ‹non› àno i suo’ tenpli et adorano el mazor de chaxa […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

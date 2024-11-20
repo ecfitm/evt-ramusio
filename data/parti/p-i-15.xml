@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-15">
+    <head>
+      <hi rend="bold">P, I 15</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-15_2_1" n="1"> <term ref="#moxul">Mosul</term> regnum est ad orientalem plagam in confino Maioris Armenie, ubi habitant Arabes qui <term ref="#macometto">Machometum</term> adorant; sunt tamen ibi christiani multi nestorini et iacobini, quibus preest patriarcha
+         magnus quem “<term ref="#iacolit">iaholith</term>” vocant. </seg>
+      <seg xml:id="p-i-15_2_2" n="2"> Ibi fiunt |9b| panni pulcherimi de auro et serico. </seg>
+      <seg xml:id="p-i-15_2_3" n="3"> In montibus huius
+         regni habitant homines qui dicuntur <term ref="#curdi">Cardi</term>, quorum quidam nestorini, quidam iacobini, alii autem <term ref="#macometto">Machometi</term> sectatores sunt. </seg>
+      <seg xml:id="p-i-15_2_4" n="4"> Hii predones maximi sunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

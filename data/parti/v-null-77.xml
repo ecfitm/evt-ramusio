@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-77</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-77">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 77</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-77_2_1" n="1"> ‹P›artendosse dala zità sopradita el se vano una zornada verso sirocho, trovando
+         chontinuamente chaxe e zardini molto deletevelle; e trovasse abondanzia de tute vituarie.
+         </seg>
+      <seg xml:id="v-null-77_2_2" n="2"> Et in chavo de queste do zornade trovasse una zitade chiamata <term ref="#tapinzu">Chanpigui</term>, ed è molto granda e bella, la zente dela qualle sono sotoposta ala signoria del
+         <term ref="#gran-can">Gran Chan</term>; e spendeno moneda de charta; et fano bruxar i chorpi morti per el muodo ve ò dito
+         di sopra; et viveno de marchadantie et arte; et àno abondanzia de tute vituarie. </seg>
+      <seg xml:id="v-null-77_2_3" n="3">
+         Et in questa non sono alguna chossa da dire, e però de qui se partiremo et anderemo
+         più avanti. </seg>
+      <seg xml:id="v-null-77_2_4" n="4"> Partendosse da questa zitade el se vano tre zornade verso sirocho,
+         trovando chontinuamente molte zitade e chastelli belle e grande, nele qualle sono
+         abondanzia de tute chosse; la zente dele qualle sono soto la signoria del <term ref="#gran-can">Gran Chan</term>. </seg>
+      <seg xml:id="v-null-77_2_5" n="5"> Et in queste non sono alguna chossa da dire. </seg>
+      <seg xml:id="v-null-77_2_6" n="6"> Et in chavo de queste tre zornade
+         el se trova una zitade chiamata <term ref="#uguiu">Vigoin</term>, la qual sono molto granda; la zente dela qualle <term ref="#idolatri">adora l’idolle</term>; et sono soto la signoria del Gran <term ref="#gran-can">Chan</term>; e viveno |90r| de marchadantie et arte; ma in questa non sono alguna chossa da dire,
+         e però anderemo più avanti. </seg>
+      <seg xml:id="v-null-77_2_7" n="7"> Partendosse da questa, el se vano do zornade per sirocho,
+         trovando molte zitade e chastelli, ale qual el se trova molte strade † che vano a
+         molte zitade e chastelli, † e molte sono abitade et molte abandonade. </seg>
+      <seg xml:id="v-null-77_2_8" n="8"> Or torniamo
+         ala mazore strada che sono a chavo de do zornade, e trovasse una zitade la qual sono
+         chiamata <term ref="#gengui">Zingru</term>, et sono molto bela e granda; la zente dela qualle <term ref="#idolatri">adora l’idolle</term>; et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>; ed è abondanzia de vituaria. [9] Et in quella nonn è alguna chossa da dire, però
+         anderemo più avanti. [10] Quando el se parte da questa zitade el se va quatro zornade
+         verso sirocho, chontinuamente trovando zitade e chastelli; e àno abondanzia de tute
+         vituarie; et sono soto la signoria del Gran <term ref="#gran-can">Chan</term>; et sono molte marchadantie et arte; et àno molte chazaxon de bestie e de oxelli;
+         et in quel luogo sono de molti lionfanti, e sono molto grandi; et in tuta la provinzia
+         del <term ref="#mangi">Mongin</term> i non àno moltoni, ma àno buò, vache e bufali, bechi, chavre e porzi in gran quantitade.
+         [11] In quel luogo nonn è altro da dire, e però anderemo più avanti e diremo de altre
+         chosse. [12] Partendosse da questa el se vano quatro zornade e trovasse la zità de
+         <term ref="#zengian">Zansian</term>, la qualle sono granda e bella, ed è fondada sopra uno fiume; et sì divide el fiume,
+         che una parte va de soto e l’altra di sopra. [13] Et sono soto la signoria de <term ref="#quinsai">Quisangi</term> et soto quella del Gran <term ref="#gran-can">Chan</term>; la zente dela qualle <term ref="#idolatri">adora l’idolle</term> e vive de marchadantie et |90v| arte; mo qua non sono alguna chossa da dire, e però
+         de qui se partiremo et anderemo più avanti. [14] Sapiate che partendosse da Zansui el se trova una bela chontrada, et vasse per quela tre zornade in le qual se trova
+         molte zitade e chastelli, in le qual abita molti marchadanti e artexani; le zente
+         dele qual <term ref="#idolatri">adora l’idolle</term>; et sono soto la signoria del Gran <term ref="#gran-can">Chan</term>; et àno vituarie in gran abondanzia; e chazaxon e bestie in gran quantitade. [15]
+         Or in queste non sono alguna chossa da dire; in chavo de queste tre zornade el se
+         trova la zità de Guguin, la qual sono molto bella; la zente dela qualle <term ref="#idolatri">adora l’idolle</term> et sono soto la signoria del Gran Chan. [16] Et questa sono l’ultima zitade dela
+         signoria de <term ref="#quinsai">Quisangi</term>, ma hora chomenzeremo un altro reame che sono una dele nove parte del reame del <term ref="#mangi">Mongin</term>, chiamato <term ref="#fugiu">Fugui</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

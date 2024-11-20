@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-21-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-21">
+      <note>
+	<p>Il testo dei parr. 8-9 in R ribadisce, nella sostanza, il dettato della tradizione
+         per come esso si sviluppa in F a cavallo dei capp. XL e XLI (<ref type="witlink" target="#f-null-40">F XL 12-13</ref> «Le{s} <term ref="#vecchio-della-montagna">Vielz</term> tenoit o lui en sa cort tuit les jouenes, de doç’ anç en vint, de la contree, ce
+         estoient celz que senbleient estre homes d’armes, les quelz savoient bien por oïr
+         dir, solonc que <term ref="#macometto">Maomet</term> lor profete dist elç, que le paraïs estoit fait en tel maner‹e› com je vos ai contés,
+         et ensi croient il voiramant. E que vos en diroie? Li <term ref="#vecchio-della-montagna">Vielz</term> en fasoit metre de cesti jeune en cel paraïs a quatre et a .X. et a .XX., selonc
+         qe il voloit, en cest mainere, car il faisoit elz doner bevrajes por lo quel il s’adormoit
+         mantinant, puis les faisoit prendre et metre en cel jardin et les faisoit desveiller»
+         + <ref type="witlink" target="#f-null-41">F XLI 2-3</ref> «Et quant les jeunes estoient desvoillés et il se trovent laiens et il voient toutes
+         cestes couses qe je voç ai dit, il croient estre en paraïs voiremant. Et les dames
+         et les dameseles demoroient tout jor con elz sonant et cantant et faisant grant soulas:
+         et en fasoient a lor volu{o}ntés, si que cisti jeune avoient tout ce que il voloient,
+         et jamés por lor voluntés ne istront de laiens»), in <ref type="witlink" target="#p-i-28">P I 28 6</ref> («Tenebat autem <term ref="#vecchio-della-montagna">Senex</term> ille – sic enim in lingua nostra vocabatur, sed eius nomen erat <term ref="#aloadin">Alaodim</term> – in suo palacio extra locum illum iuvenculos multos, quos aptos videbat et fortes,
+         et eos faciebat in <term ref="#macometto">Machometi</term> lege nefaria informari: promittit enim infelicissimus <term ref="#macometto">Machometus</term> sectatoribus sue legis quod in vita alia huiusmodi, ut dictum est, delectaciones
+         habebunt. Cum autem volebat aliquos ex iuvenibus facere audacissimos <term ref="#assassini">assessinos</term>, faciebat eis potacionem dari, qua sumpta, statim comprimebantur gravi sopore; tunc
+         deferebantur in viridarium, et post horam modicam, sopore soluto, videntes se tantis
+         interesse deliciis, putabant se gaudiis paradisi perfrui iuxta promissionem abhominabilis
+         <term ref="#macometto">Machometi</term>»), in <ref type="witlink" target="#v-null-21">V 21 6-7</ref> («Et questo <term ref="#vecchio-della-montagna">Vechio</term> tegnia in la so chorte molti zoveni da dodexe ani fina vinti, li quali era dela patria,
+         de queli che li parea ‹…› et algune fiade questo <term ref="#vecchio-della-montagna">Vechio</term> meteano de questi zoveni in quelo zardin in questo muodo: quelo li deva una zerta
+         bevanda a bere, e bevuta che li l’avea, subito i se indormenzava, et chussì indormenzadi
+         elo li feva portar in quel zardin, et siando lì li feva desmesedar. Et quando questi
+         zoveni erano desmesedadi, li se vedea in questo zardino e vedeano molte done e damixele
+         le qualle li steva balando davanti, e queli fazea la lor volontade et poi andava a
+         quele fontane de late e de vin e mel, e pensavasse veramente esser in paradixo, et
+         de qui i non se averave voiusto mai partire»). Più distante da R è VB, che sunteggia
+         corposamente (<ref type="witlink" target="#vb-null-26">VB XXVI 7</ref> «Et quando el vollea far morir algun segnor, i ffese guera o fosse suo inimicho,
+         l’oserva‹va› questa maniera: che l’avea ussato tuor alla fiada di çoveni, et a quelli
+         faxea darge bevande a bere che i sse adormentavano, et adormentati lo i faxea meter
+         nel sopra dito çardino; e svegliati trovasse eser apresso queste belliseme çovene
+         in çoia et chanti; bevevano vino quanto i volevano e llate e melle, pareva a questi
+         esser nel paradiso e con grandissimo piacere i ve stevano»), mentre L e Z toledano
+         sopprimono il passo.</p>
+	<p>Alcune tangenze formali esclusive con F (ad es. R «che li <hi rend="italics">pareva essere</hi> disposti alle armi» / F «que <hi rend="italics">senbleient</hi> <hi rend="italics">estre</hi> homes d’armes»; «vedevan tutte <hi rend="italics">le sopradette cose</hi>» / « il voient toutes <hi rend="italics">cestes couses qe je voç ai dit</hi>») lasciano supporre che il grosso del brano sia desunto da Z. In un paio di luoghi,
+         R sembra tuttavia debitore di V: cfr. R «e come mezzi morti» / V «et chussì indormenzadi»;
+         «pensavano certissimamente essere in paradiso et non si haverian mai voluto partire»
+         / «e pensavasse veramente esser in paradixo, et de qui i non se averave voiusto mai
+         partire». Sarà forse un’eco di P l’endiadi «audaci et valenti» (&lt;  «aptos videbat
+         et fortes»).</p>
+	<p>Le vere e proprie innovazioni – ad es. il riferimento alle «diverse camere d’i detti
+         palazzi» dove vengono condotti i giovani addormentati (altrove si parla unicamente
+         del <hi rend="italics">giardino</hi>); o la ridondante fioritura narrativa «imbriacati da tanti piaceri et dalli fiumicelli
+         di latte et vino che vedevano» – sono probabilmente invenzioni ramusiane promosse
+         dal contesto narrativo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

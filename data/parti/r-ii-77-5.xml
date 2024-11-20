@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-77-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-77">
+      <note>
+	<p>Nella prima parte R si attiene a <ref type="witlink" target="#vb-null-123">VB CXXIII 3-4</ref> «[…] della qual citade el segnor <term ref="#gran-can">Gran Can</term> ne à grandissima utillitade per le gran gabelle in quella se paga. Le marchadantie
+         vengono de India pagano .X. per .C. […]». Nella seconda parte del periodo, invece,
+         la versione ramusiana presenta affinità con V e Z (V «tuti i marchadanti», Z «omnes
+         mercatores» ~ R «cadauno mercatante») e soprattutto con P, di cui condivide, oltre
+         ad alcune lezioni tipiche (P «solvit» ~ R «paga»; P «de mercacionibus suis omnibus»
+         ~ R «per cadauna sua mercantia»), anche la concisione: vd. <ref type="witlink" target="#p-ii-70">P II 70 3</ref> «Habet autem <term ref="#gran-can">Magnus Kaam</term> de portu illo proventus maximos: quelibet enim navis solvit de mercacionibus suis
+         omnibus de centenario quolibet mensuras .X. […]»; <ref type="witlink" target="#v-null-79">V 79 5</ref> «Onde el <term ref="#gran-can">Gran Chan</term> àno da questa zitade gran rendedo, perché tuti i marchadanti che vien d’<term ref="#india">India</term> dano dele marchadantie e piere e perle diexe per zento, zoè el dezimo de tute chosse»;
+         <ref type="witlink" target="#z-null-90">Z 90 5</ref> «Et <term ref="#gran-can">Magnus Can</term> in hac civitate et portu rectitudinem magnam percipit, quoniam omnes mercatores qui
+         de India veniunt dant de omnibus mercimoniis, lapidibus et perulis, decem de centum,
+         videlicet decimum omnium rerum» (che risulta molto vicino a <ref type="witlink" target="#f-null-156">F CLVI 8</ref> «Et si voç di qe le <term ref="#gran-can">Grant Kan</term> reçoit en cest port et en ceste ville grandisme droit, por ce qe vos fais savoir
+         que toutes les nes qe vienent de <term ref="#india">Inde</term>, de tutes mercandies e de toutes pieres et perles, donent .X. por cent, ce est la
+         desme part de toutes chouses»). È invece escluso che Ramusio abbia tenuto conto in
+         questo punto anche di <ref type="witlink" target="#l-null-140">L 140 5</ref> «Ex hac civitate vel portu habet maximos redditus <term ref="#gran-can">Magnus Canis</term>. Habet enim ex mercimoniis que ex <term ref="#india">India</term> apportantur .X. pro centenario, id est .Xm. valoris rei».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

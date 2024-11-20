@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-10-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-10">
+      <note>
+	<p><ref type="witlink" target="#f-null-85">F LXXXV 5-20</ref> (Comant le <term ref="#gran-can">Grant Kaan</term> se fait garder a .XIIm. homes a chevalç); <ref type="witlink" target="#l-null-71">L 71</ref> (Quomodo statur in mensa in curia <term ref="#gran-can">Magni Canis</term>); <ref type="witlink" target="#p-ii-13">P II 13</ref> (Qualiter et de magnificentia conviviorum eius. Capitulum XIII), <ref type="witlink" target="#va-null-68">VA LXVIII 4-23</ref> (Della corte del <term ref="#gran-can">Gran Chan</term> et dela zente che ne manzia); <ref type="witlink" target="#v-null-42-1-3">V 42 4-13</ref> (Chomo el <term ref="#gran-can">Gran Chan</term> mantien la so chorte). </p>
+	<p>L’esemplare che ha fornito a Ramusio il testo-base doveva recare una lezione molto
+         prossima sia a quella di V (vd. i parr. 4, 8, 13, 14, 16), sia a quella di F (vd.
+         parr. 1, 3-7, 13-17). Pur in assenza della testimonianza di Z toledano, è ragionevole
+         ritenere che tale fonte perduta vada identificata con l’<hi rend="italics">interpositus </hi>Z1. In vari punti del capitolo Ramusio ha contaminato il testo del suo modello principale
+         con quello di P (parr. 1, 3, 4, 5). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

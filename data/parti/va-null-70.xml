@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-70</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-70">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, LXX</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-70_2_1" n="1"> El dì della natività del re, tuti li <term ref="#tartari">Tartari</term> del mondo e tuti quelli che da lui à signioria fano gran prexenti, e zaschaduno manda
+         done alla corte segondo che è ordinato. </seg>
+      <seg xml:id="va-null-70_2_2" n="2"> E ancora quelli che vuoleno domandar dal
+         signior alchuna grazia o alchuna signioria sì li porterà grandi prexenti: in quel
+         dì el re à dodexe baroni che risponde a quelle petizion. </seg>
+      <seg xml:id="va-null-70_2_3" n="3"> E in quela festa tute
+         le zente che sono sotoposti ala segnioria del <term ref="#gran-can">Gran Chaan</term> chovien far grande honore ai soi dii – zioè cristiani, tartari, zudei, saraxini e
+         tuta zente – ché dio dia vita e alegreza e sanità chonplitamente al <term ref="#gran-can">Grande Chaan</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

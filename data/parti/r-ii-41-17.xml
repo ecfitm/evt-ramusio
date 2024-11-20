@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>A parte l’omissione di un breve passaggio («et tot et tales faciat potiones»), R traduce
+         fedelmente <ref type="witlink" target="#p-ii-41">P II 41 11</ref> «[…] magi autem orant ut deus ille culpam remittat suam, permittens quod ipse de
+         sanguine suo proprio sacrificium offerret. Si iudicat demonum ex signis egritudinis
+         ut ille liberari non possit ait: «Iste tam graviter deum illum offendit quod per nulla
+         sacrificia placari potest»; si autem iudicat ut possit evadere dicit: “Oportet ut
+         tot arietes nigra capita habentes illi offerat et tot et tales faciat potiones, et
+         convocet ad se tot magos et magas totidem, per quorum manus sacrificium offerat et
+         sic placabitur ei deus”» (P si allontana sensibilmente da <ref type="witlink" target="#f-null-119">F CXIX 22-25</ref> «E les magis li dient: “Nos te{s} prion qe tu li perdoni et qe tu en prenne por restorament
+         de son sanc celes couses ke tu vuois”. Et quant cesti magis ont dites maintes paroilles
+         et ont mult priés, les spiriti qui est dedens le{s} cors au magi qui est cheü, respont,
+         et, se le malaide doit morir, si respont en tel mainere et dit: “Cest amalaide a tant
+         mesfait a tel espiriti et est si mauveis homes qe les spiriti ne le vuele pardoner
+         pour couse dou monde”. Ceste respond ont celç que doient mourir. Et se le malaide
+         doit garir, adonc respont le spiriti qui est eu cors dou magis et dit: ce le malaide
+         vuelt garir, si prennent .II. mouton ou trois; et encore: qe il fasoient .X. bevragies
+         ou plus, mult chier et buen; et dient qe les munton aient le chief noir, ou les divisent
+         in autre mainere; et dit qu’il en face sacrefice a tiel ydre et a tel espiriti, et
+         qe ensi vent tant magis e tantes dames, de celz qe ont les espiriti et que ont les
+         ydres, et qu’il faicent grant laudes et grant feste a la tiel ydre et a tiel espiriti»).
+         Non emergono indizi di contatti di R con altre redazioni: <ref type="witlink" target="#l-null-98">L 98 11-12</ref> «Tunc deprecantur magi quod ei parcat spiritus ille, et in restaurationem offense
+         accipiat et precipiat quidquid placet; et super hoc multis orationibus factis, tandem
+         de morituro taliter respondetur: “Tantum offendit, tanteque est malicie, quod ei nullatenus
+         parci potest: infra talem dierum numerum morietur”. Quod si salvari debet infirmus,
+         respondetur: “Multum offendit, tamen parcetur ei. Sumat enim tot arietes, .II. videlicet
+         vel .III., habentes capita nigra vel aliter signatos (secundum quod eis dicere placet);
+         faciant eciam facere optimas potiones faciantque sacrificia tali ydolo (quod nominare
+         placuerit); adsintque ibi tot magi totque magice mulieres, qui ydolo faciant magnas
+         laudes”»; <ref type="witlink" target="#v-null-57">V 57 14-17</ref> «I medegi dixe: “Nui te pregamo che tu i perdoni, che tuto el sangue restorerà zo
+         e dè la vendeta de altre chose le qual tu vole”. Et quando questi medegi àno dito
+         molte chosse pregando el spirito el qualle sono nel chorpo di quelo che sono chaschado,
+         che li diga se l’amalado die’ morire in quela suo’ malatia, responde questo amalado:
+         “Ò tanto ofexo questo spirito, che ’l spirito non vuol perdonar per alguna chaxon
+         del mondo”. Et questa risposta àno queli che sono per morir. Et se l’infermo sono
+         per schanpar, el spirito responde che sono innel chapo del’amalado, et dixeno se l’infermo
+         se vole liberar toia do moltoni hover tre, ‹…› molto chare e bone; et dixeno che i
+         moltoni dieno aver i chavi intriegi, over altramente ordenano; et dixe che i faza
+         sachrifizio a tal idolo e a tal spirito, che là sono tanti magi, et sono quelli che
+         àno i spiriti e idole; et fano gran laude e festa a tal idolo»; <ref type="witlink" target="#vb-null-85">VB LXXXV 13-15</ref> «[…] e lli altri dicono: “Nui te pregemo che tu li perdoni e prendi merito del suo
+         sangue quello che tu vole”. Et quando questi incantadori àno ditto queste parolle
+         e molte altre simelle e priega el spirito è nel corpo del caçudo, allora quel spirito
+         parlla e disse: “Lo amallado à fato tanto malle a’ spiriti che loro non ge vol perdonare”;
+         e queli respondeno “À llo fato tanto male che morire el debia?”. Se el spirito responde
+         sí l’amalado morirà, se el spirito dise non ma guarirà». In Z questa parte viene omessa
+         completamente.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

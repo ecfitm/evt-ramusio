@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-35-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-35">
+      <note>
+	<p>La pericope si trova in F, Z, V e VB nella stessa posizione assegnata da Ramusio (cioè
+         dopo la descrizione dello stato religioso dell’isola: per F Z V si deve ovviamente
+         non tener conto della pericope relativa alla morte del prelato – vedi la nota a <ref type="witlink" target="#r-iii-35">R III 35 4</ref>). VB CLIX 9 è, per l’evidenza empirica della forma, la fonte di Ramusio. «Chapitano a questa
+         isolla i corssari con la roba i àno guadagnata e vendella bene; i qual cristiani dicono
+         quella roba esser stata tolta a <term ref="#idolatri">idolatri</term> et saracini, però quella tengono licitamente poterla conprare».</p>
+	<p>A VB si può accostare P III 38 7 «Ad hanc insulam multi pirrate deferunt ea que predantur in mari et ibi omnia vendunt;
+         ibi autem libenter ea emunt quia sunt <term ref="#idolatri">ydolatris</term> et Saracenis et non christianis ablata […]» (versione di VA CXLVIII 6 «A questa ixolla vano molti corsari a vender le chosse i àno robade in mar, e questi
+         cristiani le conprano volentiera perché i sano che quelle cosse sono tolte a’ pagani
+         e i xaraxini, e non ali cristiani »). Z 123 39-40 ha un resoconto che contiene qualche dettaglio assente in VB (e R): «Ad hanc insulam
+         veniunt multi pyrate cum eorum navibus, et cum fecerint cursum, statuunt campum et
+         vendunt omnia que depredati fuerunt. Et optime vendunt ea, quia christiani qui ibi
+         sunt sciunt quod omnia fuerunt ablata adorantibus ydola et saracenis, et non christianis, et ob hanc causam emunt omnia»; il passo – che
+         è attestato pure in V 105 7 «Et a questa ixolla vieno molti robadori chon le lor nave, et quando i vano schorxizando
+         i fano uno chanpo, et vendeno tute le chosse le qualle i àno robade: et molto le vendeno,
+         perché i christiani i qualli sano che tute quele chosse sì à tolto da homeni i qualli
+         adorano le idole e de Saraini, et per questa chaxon i christiani le chonpra» – dipende direttamente
+         da F CLXXXIX 6 «Et encore voç di que a ceste isle vienent maint corsaus con lor nes, puis qu’il
+         ont fait lor cors, et iluec font canp et vendent toutes les cousses qu’il ont robbés.
+         Et si voç di qu’il hi le vendent mult bien, por ce qe les cristienz qe hi sunt sevent
+         que toutes celes couses sunt robés a <term ref="#idolatri">ydres</term> et a saracinz e ne pas a cristienz, e por ceste achaison le achatent les cristienz».</p>
+	<p>La pericope manca in L 176.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

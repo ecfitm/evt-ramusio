@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-53</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Nei parr. 53-54 Ramusio combina la testimonianza di almeno tre esemplari. Alcune corrispondenze
+         formali dimostrano che una delle fonti del par. 53 va identificata con <ref type="witlink" target="#vb-null-114">VB CXIV 28-29</ref>: «Àno questa gente per costuma che [R «Hanno un costume […]  che»] quando naqueno
+         figiuolli ad alchun el padre scrive l’ano, el dì e ll’ora i ssono nasudi e quando
+         questi vol andar in viaço o far alltra suo bisogna subito vano all’astrolego [R «se
+         ne va all’astrologo»] e dicono la soa nativitade e domandano se i deno andar al viaço
+         o principiar o far alltra suo cossa. E quelli ge respondeno el sì o non e quei per
+         cossa del mondo non faria alltramente de quello che dice l’astrolago, i qual sono
+         molto di astrologia inteligenti; per certo sano dir meravegiose cosse e però tuta
+         quella giente i dano grandissima fede e creditto» [R «le genti li danno grandissima
+         fede»]. Il dettaglio «sotto qual segno l’è nato», che manca in VB, è stato quasi sicuramente
+         attinto da <ref type="witlink" target="#p-ii-64">P II 64 23</ref> «In hac civitate <term ref="#quinsai">Quinsay</term> et in tota provincia <term ref="#mangi">Mangy</term> consuetudo est ut statim cum puer nascitur parentes eius scribi faciunt diem et horam
+         nativitatis eius et sub quo planeta natus est: in cunctis itineribus suis et factis
+         astrologorum reguntur iudiciis, ideoque scire volunt sui ortum diem et horam». Non
+         si danno invece particolari affinità con <ref type="witlink" target="#l-null-129">L 129 3</ref> «Et cum aliquis nascitur, diem et horam nativitatis scribunt; cum ergo iter vel aliud
+         de novo facere volunt, nativitatibus suis ostensis astrologos consulunt, qui laudant
+         vel dissuadent aliquando; et ipsi eorum responsa optime observant (habent enim peroptimos
+         in hac arte)». In V tale parte viene del tutto omessa. </p>
+	<p>Il par. 53 e soprattutto il 54 presentano, poi, evidenti somiglianze con <ref type="witlink" target="#z-null-85">Z 85 47</ref>, che in questo punto non riporta le informazioni che si leggono negli altri testimoni,
+         ma tramanda un dettaglio assente in tutta la tradizione: «Item si debeant inter aliquos
+         sponsalia celebrari [par. 53 «o nozze»], examinatur per eorum astrologos si futuri
+         sponsus et sponsa sint sub concordibus nati planetis nec ne. Si sub concordibus, matrimonium
+         consumatur; si sub con‹tra›riis, conturbatur» [par. 54 «[…] non si celebraria sponsalitio
+         se l’astrologo non li dicesse il parer suo»]. È d’obbligo rilevare, d’altro canto,
+         che R reca anche una lezione che lo accomuna al solo <ref type="witlink" target="#f-null-151">F CLI 25</ref> «Or sachiés qe toutes les jens dou <term ref="#mangi">Mangi</term> ont tel uxance com je voç dirai. Il est voir qe, tantost qe l’enfant est nes, le
+         pere ou la mere font scrivre le jor et le point [R «et il punto»] e l’ore qu’il fo
+         nes et en quel seingne et en quel planet, si qe chascun set sa nativité. Et quant
+         aucun velt aler en autre part por fer son viages, el s’en vait a les astroniqe e li
+         dit sa nativité, e cel lor dit se il est bouen l’aler en cel viages ou non, e maintes
+         foies li destorbent de lor viajes: car sachiés qe lor astroniqe sunt sajes de lor
+         ars e de encantemant diabolice, si qe bien dient a les homes maintes couses as quelz
+         il donent mout foies». Considerata la frequente conformità tra il testo del manoscritto
+         Zelada e quello tràdito da F, appare ragionevole ritenere che in origine l’affine
+         di Z utilizzato da Ramusio presentasse, oltre all’informazione relativa alle nozze
+         citata sopra (<ref type="witlink" target="#z-null-85">Z 85 47</ref>), anche la parte di testo corrispondente a <ref type="witlink" target="#f-null-151">F CLI 25</ref>, e che l’editore abbia ricavato da questa sua fonte la lezione «et il punto».</p>
+	<p>La frase con cui si apre il par. 54 («Et di questi […] piazza») compare soltanto nella
+         versione ramusiana. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Introdotta da un’osservazione sul succinto abbigliamento degli indigeni, la sezione
+         (3) della scheda sul <term ref="#malabar">Malabar</term> dedica nove pericopi (parr. 11-19) alla descrizione degli usi che circondano il corpo
+         del re della regione. L’intera sezione segue di fatto la lezione di Z.</p>
+	<p>La prima pericope descrive i gioelli che adornano il corpo nudo del sovrano. Essa
+         ripete (una volta soppressa l’allusione iniziale alla inutilità dei sarti in quella
+         regione) <ref type="witlink" target="#z-null-107">Z 107 29-33</ref>: «In toto regno sive provincia <term ref="#malabar">Maabar</term> vacant lucra sartorum: nam necessarii non sunt ibi, quoniam gentes toto tempore vadunt
+         nude, excepto quod naturam coperiunt cum uno pano. Et similiter vadit rex nudus, et
+         solummodo coperit naturam suam. Verum est quod alias res fert, quas vobis dicemus,
+         ex honore regio. Circa collum habet armillam unam totam plenam perulis magnis et lapidibus
+         preciosis, videlicet zafiris, et rubinis et aliis lapidibus pulcris, ita quod valet
+         magno thesauro. Pendet etiam ad collum regis quedam corda subtillis de syrico, descendens
+         per ante pectus; et in ista corda sunt centum et quatuor inter perulas magnas, grossas
+         et pulcras et rubinos, qui sunt magni valoris» (il passo è traduzione fedele – al
+         netto della soppressione della natura del clima – di F CLXXIII 12-14 «E si vos di qe en toute ceste provence de <term ref="#malabar">Mabar</term> ne a mester por taillier ne cuire dras por ce qe il ‹v›ont tuit nus de tous les tens
+         de l’an, car je vos di qu’il ont tout tens tenpree, ce est qu’il ne ont ne frois ne
+         chaut, e por ce vont toutes foies nus, for qe il se cuvrent lor nature do u‹n› pou
+         de drap tant solamant. Et ausi vaut le roi come les autres, for qu’il a autres couses,
+         tel com je vos devisarai. Or sachiés por verité qe le roi vaut tout nu, sauve qe il
+         covre sa nature do u‹n› biaus dras et au cuel a tout environ un frejel les quel est
+         tout plen de pieres presioses, ce sunt robin e çafin et esmaraut et autres qieres
+         pieres, si qe ceste coler vaut bien un grandisme treçor.Et encore li pent au col dou
+         roi une corde de soie sotil que il dure tout devant un pas, et en ceste cordon a .CIIII.
+         entre grosisme perles e belles e de rubinz qe mout sunt de grant vaillance»). </p>
+	<p>Il taglio iniziale e l’<hi rend="italics">incipit</hi> della pericope possono essere stati suggeriti a Ramusio dal testo (abbreviato rispetto
+         a F-Z) di P III 23 10 «Totus huius provincie populus omni tempore nudus incedit, panno tamen uno verenda
+         operiunt; rex etiam regni huius nudus vadit ut alii, sed ad collum defert torquem
+         auream saphiris, smaragdis et robinis aliisque pretiosissimis lapidibus undique coopertum,
+         que torques est pretii maximi supramodum; similiter etiam ad collum eius corda de
+         serico pendet, in qua sunt lapides centum pretiosi margarite grossissime videlicet
+         etiam robini» (la fisionomia del passo riproduce VA CXXXVII 17-19 «Tuta la zente de <term ref="#malabar">Maabar</term>, ch’è dito <term ref="#india">India Maior</term>, va nuda da ogni tenpo, ma portano dananzi uno drapo per chovrir-se. El re se ne
+         va nudo chomo i altri e à al collo uno frixo pieno de zafiri et de smeraldi et de
+         rubini et de molte altre rare piere; e a zaschadun brazo e a zaschaduna ganba sì à
+         tre frixi choverti de piere prezioxe; e a’ pie’ e ai dedi del pe’ porta  piere prezioxe,
+         e ll’è una meraveglia a veder-llo. Al collo i pende una cordella de seda, in la quale
+         è zento e quatordexe rubini, entro grandi e pizolli […]»).</p>
+	<p>Gli altri relatori. V 91 14-15 offre un testo che aderisce alla lezione di F: «In tuta la provinzia de <term ref="#malabar">Nalabat</term>  nonn è de bexogno algun sartor che taia over chuxa pani, perché tuto el tempo del’ano
+         vano nudi, perché i àno i tempi sì temperadi ch’el non sono fredo ní chaldo; et inperò
+         i vano chontinuamente nudi, fuor che i se choverze la lor natura chon uno pano. E
+         chussì fano lo re chomo li altri, chomo ve ò dito: el re vano tuto nudo, salvo ch’el
+         se choverze la natura chon uno bel pano intorno; et al cholo àno uno zerchio tuto
+         pien de perle grosse e belle, che val uno gran texoro; ed àno molte piere prezioxe,
+         zoè safili, rubini, e smeraldi ed altre piere grosse e belle, le qual pende dal cholo
+         del re chon una chorda sotil de seda davanti el peto; et in questa chorda sono zento
+         e quatro pezi tra perle e piere». Hanno una struttura affine a VA-P: L 161 10-11 «Gentes huius regionis totaliter incedunt nude, exceptis verendis, que modico aliquo
+         panno tegunt. Tempus enim habent totaliter temperatum, neque calore neque frigore
+         habundant‹em›. Rex eciam similiter incedit nudus, verenda tamen et ipse cooperit aliquo
+         parvo et nobili et pulcro panno. Et circha collum friçum habet quendam, per totum
+         plenum lapidibus nobilibus preciosis et margaritis maximi valoris. Pendet eciam a
+         collo eius cordula subtilis ex serico a parte anteriori circha passum unum, in qua
+         sunt margarite grosse et optimi rubini numero .C.IIII., que sunt maximi valoris valde
+         […]»; VB CXLIII 14-17 «In questa provincia tuti vano nudi, sì maschi chome femene, e sollo un pocho davanti
+         se copre. In questo paexe nonn è soperchio chalda né gran fredo. El re, come tuti
+         altri, vano nudo coperto la parte vergognossa davanti. Al colo porta uno fuso d’oro
+         largo, adornato de molto riche çoie de più raxone e de nobelle perle, le qual èno
+         de gran valuta; ancho porta al colo una corda nella qual è infilçato .CIIII°. peci
+         de rubini et altre nobelle çoie, al modo portano le done nostre i paternostri […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

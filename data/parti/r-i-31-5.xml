@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-31-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-31">
+      <note>
+	<p>Anche la chiosa è ripresa da <ref type="witlink" target="#z-null-26-2-7">Z 26 7</ref> «Hic non sunt aliqua digna relatu».</p>
+	<p>Sulla scorta di Z, R non anticipa l’argomento del capitolo successivo, annunciato
+         invece negli altri relatori che conservano il passo: <ref type="witlink" target="#v-null-28">V 28 2</ref> «[…] ma in questa non sono alguna chossa da dire et inperzò laseremo e diremo di
+         <term ref="#cotam">Chotan</term> […]» e <ref type="witlink" target="#vb-null-35">VB XXXV 3</ref> «[…] nella qual non v’è chossa degna de memoracione e però de qui me partirò et procederò
+         alla provincia de <term ref="#cotam">Chotan</term>», pedissequi al dettato di <ref type="witlink" target="#f-null-52">F LII 5</ref> «mes {por ce que} ne i a chouses que face a mentovoir en nostre livre; et por ce
+         laison de ce et voç conteron de <term ref="#cotam">Cotan</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

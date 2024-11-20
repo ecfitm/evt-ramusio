@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-48-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-48">
+      <note>
+	<p>La totale coerenza con <ref type="witlink" target="#f-null-69">F LXIX 28</ref> «Et cascun seingnor, ou les autres homes qe ont bestes asseç, il font boller de son
+         seingne, ce sunt les chevaus et les jumentes et camiaus et bof et vaches et autres
+         bestes groses, puis le laise aler paistre por les plaines et por les mons sanz garde
+         d’ome, et s’ele se meslent le une con le autre, cascun rende la soe a celui de cui
+         le segne est treuvé» rivela anche qui la dipendenza di R da Z1. </p>
+	<p>Molto vicino a F (e R), ma con qualche scarto significativo, è, come al solito, il
+         dettato di <ref type="witlink" target="#v-null-36">V 36 29</ref> «Et zaschun signor hover omeni che abia assai anemali li fa bolar de so segno, chomo
+         sono i chavali, chavale e ganbeli e buò e vache et altre bestie grosse, e lassalle
+         andar pascholando per le pianure e per li monti senza alguna varda; et quando le se
+         meseda zaschadun varda li segni et a questo muodo li trova zaschun li lor anemali».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-2-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-2">
+      <note>
+	<p>L’utilizzo rituale delle perle nel cerimoniale funebre giapponese è attestato solo
+         da Z 92 13 «Et in ista insula aliqui sepeliuntur cum mortui sunt, aliqui comburuntur, sed cuilibet
+         qui sepelitur ponitur una ex perulis istis in ore; et talis consuetudo apud eos servatur»
+         (vedi <hi rend="italics">contra</hi> F CLVIII 9-10, P III 2 6-7, VA CXXII 6, L 143 5-6, V 81 5-6, VB CXXVII 5-6).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

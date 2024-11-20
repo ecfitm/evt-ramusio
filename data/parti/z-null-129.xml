@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-129</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-129">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 129</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="z-null-129_2_1" n="1"> <term ref="#dulfar">Duffar</term> est quedam civitas nobilis et magna, |105v| que distat a civitate <term ref="#erginul">Scier</term> circa ducenta miliaria versus magistrum. </seg>
+      <seg xml:id="z-null-129_2_2" n="2"> Ipsius gentes <term ref="#macometto">Machometi</term> legem observant. </seg>
+      <seg xml:id="z-null-129_2_3" n="3"> Et pro domino quemdam habent comitem et sunt sub dominio <term ref="#soldan">soldani</term> <term ref="#adem">Aden</term>. </seg>
+      <seg xml:id="z-null-129_2_4" n="4"> Ista civitas sita est in provincia <term ref="#adem">Aden</term>. </seg>
+      <seg xml:id="z-null-129_2_5" n="5"> Et est sita supra mare et habet bonum portum, quo multe naves cum multis mercatoribus
+         veniunt cum magna quantitate mercimoniorum. </seg>
+      <seg xml:id="z-null-129_2_6" n="6"> Et illuc portant multos bonos equos
+         arabes et de alia contrata, de quibus mercatores magnum consequuntur profectum et
+         lucrum. </seg>
+      <seg xml:id="z-null-129_2_7" n="7"> Ista civitas habet sub suo dominio multas civitates et castra. </seg>
+      <seg xml:id="z-null-129_2_8" n="8"> Et
+         nascitur ibi thus multum et bonum, et dicemus qualiter. [9] Sunt enim arbores ibi
+         non nimis magne, sed sunt tamquam çapini. [10] Faciunt eis taccas cum cultellis in
+         pluribus locis et partibus, et per illas taccas thus exit. [11] Et etiam exit per
+         eamdem arborem etiam sine tacchis, et hoc propter intensum calorem contingit qui ibi
+         est. [12] In istam quidem civitatem multi equi veniunt quos postmodum mercatores cum
+         suis navibus portant in Indyam, et de ipsis faciunt magnum profectum et lucrum. [13] Alia ibi non sunt dicenda.
+         [14] Quare, ulterius procedentes, tractabimus de gulfo <term ref="#calaiati">Calatu</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

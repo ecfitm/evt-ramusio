@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-22-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-22">
+      <note>
+	<p>Il passo manca in F CLXXVI 26, P III 30 8, VA CXL 19, L 164 16-17, V 94 27 e in VB CXLVI 35. Ramusio rielabora la lunga pericope di <ref type="witlink" target="#z-null-110">Z 110 59-63 </ref>«Isti quidem, cum egere volunt, pergunt ad splaçias sive litus maris, et ibi, iuxta
+         aquam, egerunt in arena, postmodum se in aqua optime emundantes. Quibus lavatis, accipientes
+         unum baculum sive virgam, stercus cum ipso taliter sternunt illuc et huc et dividunt
+         per arenam, quod nichil ex eo videtur. ‹Si› queruntur quare hoc faciunt, respondent:
+         “In ipso cum crearentur vermes; et vermes concreati, cum esca consumpta foret per
+         solem, dificienti eis cibo perirent. Et cum substancia illa egrediatur de corpore
+         nostro – quia absque cibo etiam vivere non valemus –, de morte tot animarum maximum
+         haberemus peccatum que foret de nostra substancia concreate. Et idio sic illam substanciam
+         nichilamus, ut ex ipsa non valeant vermes aliquid concreari, ad hoc ut, deficiente
+         cibo, ad culpam et defectum nostri postmodum moriantur”». Due le differenze importanti:
+         Z (par. 60) descrive l’uso di una bacchetta per disperdere gli escrementi sulla sabbia,
+         e (parr. 61-63) ricorre al discorso diretto per dare giustificazione di tali pratiche.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

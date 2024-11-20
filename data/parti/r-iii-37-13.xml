@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-37-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>La pericope sulle tecniche di guerra degli indigeni nasce dalla rielaborazione (traduzione
+         letterale + soppressione/riassunto di frasi) di <ref type="witlink" target="#z-null-125-1-33">Z 125 28-32</ref> «Ipsi non habent equos, sed super camelos bellant et elephantes. Nam super elephantes
+         pergama construunt, et ipsos optime coperiunt, et postmodum super ascendunt .XVI.
+         vel .XX. homines cum lanceis, ensibus et lapidibus. Et sunt fortia illa bella que
+         cum elephantibus fiunt. Et non habent arma nisi clipeos de corio, enses et lanceas;
+         et se invicem occidunt. Quando volunt ducere elephantes ad belum, dant eis vinum ad
+         bibendum; et hoc faciunt quia, quando elephantes de hoc vinum potaverint, effitiuntur
+         magis superbi et feroces, et melius valent in prelio». (Il passo traduce F CXCI 11-12 «Il ne ont chevalz mes il conbatent sus les gamiaus e sus le leofanz; car je voç
+         di qu’il font sus le leofant castiaus e le covrent molt bien; e puis hi montent sus
+         da .XVI. homes jusque a .XX. con lances et con spee e con pieres: et est molt fort
+         bataille celle de sus le leofans. Il ne ont armes for que escu de cuir e lances e
+         spee, e se ocient ben ensenble. Et encore vos di un autre cousse: car sachiés que
+         quant il velent mener les leofanç a la meslee, il li donent a boir de lor vin aseç,
+         ço est lor poisonz, e ce font il por ce que, quant le leofant a bevou de cel poisonz,
+         il en divient plus fieres e plus ergoios et en vaut asseç de miaus en la bataille».
+         Fedele a F è pure V 107 11-13 «[…] et non àno chavalli, ma chonbateno sopra i ganbelli e i lionfanti. Or questi
+         orde i suo’ chastelli sopra i lionfanti, e dapuo’ monta sedexe over vinti omeni de
+         lor chon arme e spade e piere, et sono forte bataie quelle de lionfante; et non àno
+         se no schudi de chuoro, spade e lanze; e sì se olzideno insieme. E quando i vol menar
+         i lionfanti ala bataia i dona a quelli vin a bever, e deventa molto ferozi; et sono
+         forti in bataia»). </p>
+	<p>P III 41 9 («Equos non habent, sed cum elephantis et camelis ad bella procedunt; faciunt autem
+         super elephantes lignea castra tante magnitudinis ut super unum ex castris stent viri
+         muniti ad prelium .XVI. vel .XX.; cum lanceis, gladiis et lapidibus pugnant qui in
+         huius castris sunt. Castra autem illa sunt asseribus cooperta. Cum igitur debent ad
+         bella procedere, primo elephantes potant illa optima potione quam pro se populus terre
+         bibit ut audaciores fiant ex huiusmodi potione») presenta un dettaglio – «lignea castra»
+         – che ripete un’informazione («Castra autem illa sunt asseribus cooperta») che rappresenta
+         un’innovazione dell’antigrafo, VA CL 11-13 «I non àno chavali ma i chonbateno sui elifanti e sui ganbelli, e fano sì grandi
+         chastelli suli ellifanti ch’el sta suxo da sedexe in vinti omeni; e chonbateno chon
+         lanze e spade e chon piere suli elifanti. I chastelli èno choverti de llegniame. E
+         quando i dieno andar ala bataia, i dàno da ber alli ellifanti de quel poson de spezie
+         che i fano per si, e li ellifanti deventano plui fieri e plui regoglioxi» </p>
+	<p>Un resoconto abbreviato è fornito da VB CLXI 20-21 «Non àno chavalli ma conbateno su ganbelli o su leofanti, sopra i quali fano chastelli
+         e ne’ quelli [<hi rend="italics">sic</hi>] conbateno. Àno spade e lançe sopra i chastelli con le qualle i conbateno e quando
+         sono per intrar alla bataia i dano a bere ai ellefanti del suo vino, però i dicono
+         quelli, per el vino, esser più vigorosi e più potenti nella bataia». L’ordine dei
+         componenti di F è modificato (lievemente) in L 178 13: «[…] sed quia carent equis cum camellis faciunt bella sua, similiter et cum elefantibus.
+         Super ipsos enim lignea castra condunt, in quibus stant .XVI. vel .XX. homines bellatores
+         cum lanceis, ensibus et lapidibus. Et est fortissimum tale bellum: cum vero elefantes
+         ad bellum ducere volunt, ipsos vino sive potionibus suis potant, quia ex hoc ferociores
+         audacioresque fiunt».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

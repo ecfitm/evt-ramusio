@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-54-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-54">
+      <note>
+	<p>Come nella pericope precedente, Ramusio combina la testimonianza di Z (che rispecchia
+         la lezione di F) con quella di P:<ref type="witlink" target="#z-null-72"> Z 72 11</ref> «In eo inveniuntur multi pisces et magni» (<ref type="witlink" target="#f-null-137">F CXXXVII 6</ref> «[…] il hi a peisonz aseç et grant […]»);<ref type="witlink" target="#p-ii-52"> P II 52 2</ref> «Pisces vero in eo in copia maxima capiuntur.». Le altre fonti ramusiane recano un
+         testo ora prossimo a quello di Z (V), ora a quello di P (VB): <ref type="witlink" target="#v-null-66">V 66 6</ref> «[…] et in quello sono de molti gran pessi […]», <ref type="witlink" target="#vb-null-100">VB C 5</ref> «[…] nel qual fiume è grandissima abondancia de tuti pesi». L omette l’informazione.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

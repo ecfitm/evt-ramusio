@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-54-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-54">
+      <note>
+	<p>Per la digressione sulle cinque diverse tipologie di gru (esaminate in Yule, Cordier
+         1929, I, p. 297) Ramusio intreccia Z e P, attingendo dall’uno informazioni non reperite
+         nell’altro, con l’obiettivo dell’esaustività.</p>
+	<p>L’ossatura della pericope è fornita probabilmente da Z1, come sembra indicare, in assenza della testimonianza toledana, la sostanziale coerenza
+         di R con lo svolgimento di <ref type="witlink" target="#f-null-73">F LXXIII 26-31</ref> «Il hi a cinq mainere de grues, les quelz voç diviserai. L’une mainere est toutes
+         noire come corbiaus et sunt mout grant. Le autre mainere sunt toute blance; les eles
+         ont mout belles, car por toutes les pennes ont plein des iaux reont con celz dou paon,
+         mes sunt de color d’or mout resprendisant; le chief o‹n›t vermoil et noir, et blançe
+         au cou, et sunt greingnor que nulle de l’autres assez. La tie‹r›çe mainere sunt de
+         la fasionç des nostre. Et la quarte mainere sunt peitete; el ont ‹a› les oreilles
+         pennes lonc, vermoilles et noire mout belles. La quinte maineres sunt toutes griges;
+         les chief ont vermoiles et noires mout bien faites, et sunt grandismes». A Z1 vanno ricondotti anche un paio di <hi rend="italics">minima</hi> – «il capo rosso e nero <hi rend="italics">molto ben fatto</hi>, il collo nero et bianco, <hi rend="italics">et sono bellissime da vedere</hi>» – mancanti in F ma attestati in <ref type="witlink" target="#v-null-38">V 38 23</ref> «à el chavo negro e <hi rend="italics">molto ben fato</hi>, et sono <hi rend="italics">molto beli a vedere</hi>».</p>
+	<p>Sono invece elementi di P: (a) una parte consistente della descrizione delle prime
+         due tipologie di gru («con le ali grandi […] de occhi rotondi» &lt; <ref type="witlink" target="#p-i-65">P I 65 9</ref> «[…] prima maneries grues habet ‹alas› magnas nigras totaliter ut corni; secunda
+         grues habet maiores ceteris albas el pulcras, penne alarum ipsarum plene sunt oculis
+         rotondi […]»); (b) il riferimento alle gru «nostre <hi rend="italics">de Italia</hi>» (&lt; <ref type="witlink" target="#p-i-65">P I 65 9</ref> «[…] grues nostris de Ytalia similes […]»); (c) la descrizione del piumaggio delle
+         «grue picciole» («<hi rend="italics">che hanno le penne</hi> rosse et azzurre <hi rend="italics">divisate</hi>» &lt; <ref type="witlink" target="#p-i-65">P I 65 9</ref> «habentes pennas […] rubro colore nigroque permixtas»: le penne azzurre, assenti
+         nella tradizione, potrebbero essere trascinamento di quanto dice Pipino poco sopra
+         a proposito degli «oculos […] coloris varii, albi scilicet nigri et <hi rend="italics">açuri</hi>»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

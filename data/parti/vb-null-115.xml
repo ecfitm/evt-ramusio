@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-115</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-115">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, CXV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-115_1_1" n="1"> ‹P›artendosi da <term ref="#quinsai">Quinsai</term>, çoè dal çielo in nostra lingua, caminando giornate do per sirocho, senpre se trova
+         chaxe, çardini e paexe de gran dileto e piacere et abondantisimamente de tute chose
+         da vivere. </seg>
+      <seg xml:id="vb-null-115_1_2" n="2"> Et a capo dele .II. giornate se trova la citade chiamata <term ref="#tapinzu">Tanpigui</term> la qualle è grande e bela e dele iurisdiciun de <term ref="#quinsai">Quinsai</term>. </seg>
+      <seg xml:id="vb-null-115_1_3" n="3"> Sono <term ref="#idolatri">idolatri</term> e spendeno moneta di carta et ardeno i corpi de’ lor morti. </seg>
+      <seg xml:id="vb-null-115_1_4" n="4"> Àno abondancia de
+         tute chose da vivere et sono homeni de mestieri et ancho di merchadantia. </seg>
+      <seg xml:id="vb-null-115_1_5" n="5"> E chavalchando
+         da questa citade, per sirocho senpre, se trova per .III. giornate e chastelli e vilaçi
+         belissimi abondantisimi de tute vituallie.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

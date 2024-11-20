@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-41-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>La pericope manca in VA CLII 25 (e nel suo apografo <ref type="witlink" target="#p-iii-46-1-6">P III 46 16</ref>), in L 184 10 e in VB CLXVI 12. Ramusio scrive partendo da <ref type="witlink" target="#z-null-110">Z 110 27-28</ref> «Alia non sunt in civitate ista dicenda. Et ideo, ulterius procedentes, de quadam
+         alia civitate narabimus nomine <term ref="#dulfar">Duffar</term>» (versione di F CXCIV 8 «Autres causses ne i ha en ceste cité qe a mentovoir face, e por ce noç nos en partiron
+         et voç conteron do une autre cité que est appellés <term ref="#dulfar">Dufar</term>»). La transizione è attestata, omettendo il toponimo, anche da V 110 11 «Or altro nonn è da dir de questa zitade, ma diremo de un’altra zitade».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

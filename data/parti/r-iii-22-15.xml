@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-22-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-22">
+      <note>
+	<p>Ramusio adatta il testo di <ref type="witlink" target="#z-null-110">Z 110 58</ref> «Non comederent etiam aliquam rem viridem, erbas neque radices, donec viridis essent,
+         nisi dum essent sicce, quoniam dicunt quod omnes res virides animam habent» (traduzione
+         letterale di F CLXXVI 26 «Et encore vos di qe il ne menjuerént nule cousse vers, ne erbes ne raïs jusque a
+         tant q’eles ne fuissent seches, por ce qe il dient qe les couses vert ont arme»).</p>
+	<p>Gli altri relatori si mantengono sullo stesso tenore informativo: L 164 13 «Nullum viride commedunt, neque herbas neque radices: viridia enim animata credunt»;
+         V 94 26 «[…] ed ezian non manzerave erbe de nesuna raxon, se le non fosse seche, per la chaxon
+         soradita»;  VB CXLVI 33 «Né de alchun animal mangeria né de alchuna erba, né radice frescha però che dicono
+         la foia et erba verde avere anima; ma quelle lasa sechare e poi le mangia ». </p>
+	<p>Sul comportamento di VA CXL 16-17 e P III 30 6 vedi la nota a <ref type="witlink" target="#r-iii-22">R III 22 14</ref>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

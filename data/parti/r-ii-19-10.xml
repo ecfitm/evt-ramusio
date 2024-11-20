@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-19-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-19">
+      <note>
+	<p>Come nelle pericopi precedenti, la lezione di R appare profondamente diversa da quella
+         del resto della tradizione: <ref type="witlink" target="#v-null-46">V 46 5</ref> «El palazo vien chiamado “stin”, et zaschaduno de quelli dodexe puol far gran mal a chi li piaxe per la gran signoria
+         che i àno dele provinzie»; <ref type="witlink" target="#vb-null-68">VB LXVIII 19</ref> «[…] el pallaço dove i abitano fi chiamato Stieng» (cfr. <ref type="witlink" target="#f-null-96">F XCVI 10</ref> «Le palais ou el demorent est ausi apellés scien, et ce est bien la greingnor seingneurie que soit en toute la cort dou <term ref="#gran-can">Grant Sire</term>, car il ont bien le pooir de fair grant bien a cui·l vuelent»). P e L tralasciano
+         tale dettaglio.</p>
+	<p>Z omette l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

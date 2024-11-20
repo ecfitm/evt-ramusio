@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-15-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-15">
+      <note>
+	<p>Ramusio traduce <ref type="witlink" target="#z-null-102">Z 102 12-13</ref> «Unicornua habent etiam in magna quantitate. Habent et venationes et aucupationes
+         multas» (a sua volta resa di F CLXVIII 7 «Il ont unicornes aseç. Il ont venesionz et chacejonz d’ousiaus e de bestes aseç»;
+         una lezione sostanzialmente affine anche in L 155 6 «Adsunt eciam hinc unicorni multi; venationes eciam tam bestiarum quam avium habent
+         multas» e in V 87 33 «Et sono ‹unichorni› in gran quantitade; et in questo sono molte chazaxon et oxelaxon
+         de molte maniere»). P III 8 5 semplifica: «Ibi etiam sunt unicornes multi et alia animalia multa valde» (sulla
+         scorta di VA CXXXII 6 «In questa contrà è alichorni e altre bestie assai»), VB CXXXVIII 8 amplifica lievemente: «Questi àno unicorni assai et altri animalli salvatichi e caçason
+         asai et osellan».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-12-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>Ramusio traduce alla lettera Z 99 22-24 «[…] et permanent libenter in luto et ceno. Et sunt turpissime bestie, et non tales
+         quales apud partes nostras esse dicuntur; quia dicitur apud nos quod se capere dimitant
+         ‹ab› domicelis. Sed totum est contrarium» (la redazione latina è versione di F CLXV 11-12 «[…] e demore mout voluntieres entre le bue et entre le fang: elle est mout laide
+         beste a veoir. Il ne sunt pas ensi come nos de ça dion et deviçon, qe dient q’ele
+         se laise prendre a la poucelle; mes vos di qu’il est tout le contraire de celz qe
+         nos qui dion qe il fust»)</p>
+	<p>P III 15 3 / VA CXXIX 3 (vd. la nota a <ref type="witlink" target="#r-iii-12">R III 12 3</ref>) e L 152 2 («In luto autem et piscinis more porcorum maxime delectantur, et est turpis bestia
+         visui et immunda») omettono il polemico riferimento poliano alla leggenda del <hi rend="italics">Fisiologo </hi>sulle virtù delle vergini nella cattura degli “unicorni” (su cui vedi Cardona 1975,
+         pp. 750-751). L’equivoco di V 87 12 sull’azione delle <hi rend="italics">damixelle </hi>– «[…] e stano volentiera in paltan e in fango; et sono brutissime bestie, chomo nui
+         avemo dito; et questi se lassano volentiera branchar ale damixelle» – dipende forse
+         da un guasto ai piani più alti della sua tradizione; pare invece oscillare verso una
+         parziale adesione al contenuto leggendario (prevedendo l’esistenza di due “tipi” di
+         “unicorni”) VB CXXXV 4-5 «[…] et è soço animalle a vedere, pelloso chome bufallo. Questi unicorni non sono
+         de queli se llasa piare alle verçene ma de contraria natura».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

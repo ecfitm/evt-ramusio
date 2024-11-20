@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-27-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-27">
+      <note>
+	<p>R segue praticamente alla lettera Z, tranne che nell’omissione del numero dei cavalieri
+         che possono cavalcare affiancati sul ponte (che va con ogni verosimiglianza ascritta
+         al copista di Z toledano):<ref type="witlink" target="#z-null-46"> Z 46 3</ref> «Longitudo eius est trecentorum passuum, latitudo vero .VIII., ita quod large posent
+         per eum homines unus a latere alterius equitare, etcetera» (vd. <ref type="witlink" target="#f-null-104">F CIV 4</ref> «[…] Je voç di qu’il est lonc bien .CCC. pas et large .VIII., car bien hi puet aler
+         .X. chevalers le un juste l’autre […]»). La  forma «etcetera» di Z fa pensare che
+         il suo scriba abbia tralasciato di copiare una parte che leggeva nel suo antigrafo.
+         A parte L, che abbrevia il testo, le altre fonti ramusiane tramandano un testo sostanzialmente
+         equivalente a quello di F: <ref type="witlink" target="#l-null-84">L 84 2</ref> «Est enim longus .CCC. passibus et latus .VIII. […]»; <ref type="witlink" target="#p-ii-27">P II 27 4</ref> «[…] habens longitudinis passus trecentos et latitudinis octo, per quem milites decem
+         collaterales in simul ire possunt per latum ipsius […]»; <ref type="witlink" target="#v-null-50">V 50 3</ref> «[…] la longeza de quello sono trexento passa, e la largeza nuove pasa; et pu‹o›no
+         andar per quello diexe chavalieri l’uno apresso l’altro […]»; <ref type="witlink" target="#vb-null-73">VB LXXIII 3</ref> «Questo ponte è longo .CCC. passa e largo pasa .VIII. per modo .X. chavali pono chavalchare
+         per questo ponte l’uno lato all’altro».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

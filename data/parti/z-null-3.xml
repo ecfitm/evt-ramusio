@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-3">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 3</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="z-null-3_2_1" n="1"> <term ref="#armenia">Armenia Maior</term> est quedam magna provincia, que incipit a quadam civitate nomine <term ref="#arcingan">Arcinga</term>, in qua laborantur meliores <term ref="#bochassini">bucherani</term> de mundo; et multe alie artes fiunt ibi, que narari non posunt; et habent pulcriores
+         et meliores balneas aquarum scaturientium que in mundo reperiantur. </seg>
+      <seg xml:id="z-null-3_2_2" n="2"> In ea sunt
+         multe civitates et castra, et nobilior civitas est <term ref="#arcingan">Arcinga</term>, que habet archiepiscopum. </seg>
+      <seg xml:id="z-null-3_2_3" n="3"> Et hic bestie male permanent propter inmensum frigus
+         et nivem, quam ultra modum ningit Deus. </seg>
+      <seg xml:id="z-null-3_2_4" n="4"> Et in quodam castro, |3v| quod vocatur
+         <term ref="#paipurth">Paperth</term>, est maxima argentera, et invenitur hoc castrum eundo de <term ref="#toscaol">Trapesunda</term> in <term ref="#thauris">Thauris</term>. </seg>
+      <seg xml:id="z-null-3_2_5" n="5"> Et in medio Armenie Maioris, est quidam maximus et altissimus mons, ad modum unius cube, super quem arca Noe
+         dicitur astitisse: et ex hoc mons ille appelatur Mons Arche Noe; et est tam latus
+         et longus quod in duobus diebus circui non posset; et in sumitate montis continue
+         tanta multitudo nivis habundat quod nullus potest ascendere sumitatem, quia nix nunquam
+         in totum liquescit. </seg>
+      <seg xml:id="z-null-3_2_6" n="6"> In confinibus vero <term ref="#armenia">Armenie</term> versus meridie‹m› sunt iste provincie: <term ref="#moxul">Musul</term>, Mus et Meridim, de quibus infra dicetur, et multe alie sunt, quas longum esset narare. </seg>
+      <seg xml:id="z-null-3_2_7" n="7"> Versus
+         vero tramontanam est <term ref="#zorzania">Iorgia</term>, de qua  infra dicemus. </seg>
+      <seg xml:id="z-null-3_2_8" n="8"> Et in confinibus <term ref="#zorzania">Iorgie</term>, quidam fons est de quo scaturit oleum in tanta quantitate quod mile cameli simul
+         et semel ibi posunt honerari, et honerantur; sed nichil in comestione valet. [9] Sed
+         bonum est ad ungendum homines et quelibet animalia propter scabiem. [10] Et homines
+         de longi‹n›quis partibus venuunt pro oleo isto, et omnes contracte circumstantes non
+         comburunt aliud oleum quam istud. [11] Et valet ad multos langores.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

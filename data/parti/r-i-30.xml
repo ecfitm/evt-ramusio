@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-30</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-30" n="1">
+    <head>
+      <hi rend="bold">R, I 30</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-30_1_1" n="1"> Della città di <term ref="#samarchan">Samarchan</term>, et del miracolo della colonna nella chiesa di San Giovambattista. Cap. 30.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-30_2_1" n="1"> <term ref="#samarchan">Samarchan</term> è una città nobile, dove sono bellissimi giardini et una pianura piena di tutti i
+         frutti che l’huomo può desiderare. </seg>
+      <seg xml:id="r-i-30_2_2" n="2"> Gli habitanti parte sono christiani, parte Saraceni, et sono sottoposti al dominio
+         d’un nepote del <term ref="#gran-can">Gran Can</term>, del qual non è però amico, anzi è di continuo fra loro inimicitia et guerra. </seg>
+      <seg xml:id="r-i-30_2_3" n="3"> Et è posta la detta città verso il vento <term ref="#maestro">maestro</term>. </seg>
+      <seg xml:id="r-i-30_2_4" n="4"> Et in questa città gli fu detto esser accaduto un miracolo, in questo modo: che già
+         anni cento et venticinque uno nominato <term ref="#zagathai">Zagathai</term>, fratello germano del <term ref="#gran-can">Gran Can</term>, si fece christiano, con grande allegrezza dei christiani habitanti, quali col favore
+         del signore fecero fabricar una chiesa in nome di San Giovambattista: et fu fatta con tal artificio che tutto il tetto di quella (che era ritonda) si
+         fermava sopra una colonna che era in mezzo, et di sotto di quella vi metterono una
+         pietra quadra, la qual tolsero con il favor del signor di uno edificio de’ Saraceni,
+         li quali non hebbero ardimento di contradirgli per paura. </seg>
+      <seg xml:id="r-i-30_2_5" n="5"> Ma, venuto a morte <term ref="#zagathai">Zagathai</term>, gli successe un suo figliuolo qual non volse essere christiano, et allhora i Saraceni
+         impetrorno da lui che li christiani li restituissero la sua pietra; la qual anchor
+         che i christiani si offerissero di pagarla, non volsero, percioché pensavano che,
+         levandola via, la chiesa dovessi rovinare: per la qual cosa li christiani dolenti
+         ricorsero a ricomandarsi al glorioso <term ref="#giovambattista">San Giovanni</term>, con grande lachrime et humiltà. </seg>
+      <seg xml:id="r-i-30_2_6" n="6"> Et venuto il giorno nel qual doveano restituire la detta pietra, per intercession
+         del santo, la colonna si levò alta dalla base della detta pietra per palmi tre in
+         aere, che facilmente si poteva levar via la pietra de’ Saraceni senza che li fosse
+         posto sostentamento alcuno, et cosí fino al presente si vede detta colonna senza alcuna
+         cosa sotto. </seg>
+      <seg xml:id="r-i-30_2_7" n="7"> Si è detto a bastanza di questo, dirassi della provincia de <term ref="#carchan">Carchan</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

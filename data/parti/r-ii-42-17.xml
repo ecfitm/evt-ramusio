@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-42-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-42">
+      <note>
+	<p>La fonte principale è <ref type="witlink" target="#vb-null-86">VB LXXXVI 10</ref> «La giente tartara, visto el desordene era nel’oste del re, cresutoge l’animo […]»
+         [R «crebbe l’animo»] / <ref type="witlink" target="#vb-null-86">VB LXXXVI 13</ref> «La giente tartara, visto la fuga de quelli animalli [R «veduta la fuga di questi
+         animali»], montendo a parte a parte a chavallo con grande ordene e maisterio [R «a
+         parte a parte con grande ordine et magisterio andavano montando a cavallo»] e non
+         con minore vigore entròno fra nemici […]». Ramusio deve aver seguito però anche un
+         altro modello: probabilmente il perduto Z1, viste  affinità con <ref type="witlink" target="#v-null-58">V 58 15</ref> «Et quando i <term ref="#tartari">Tartari</term> veteno veramente che i lionfanti ierano messi in fuga, senza induxio [R «senza dimorar»]
+         montò a chavalo et andò chontra i suo’ nemixi, et chominzorono una chrudel bataia
+         [R «cominciorono una crudele et horrenda battaglia»] chon le lor sagite […]» (&lt; <ref type="witlink" target="#f-null-122">F CXXII 7</ref> «Et quant les <term ref="#tartari">Tartarç</term> ont veu qe les leofans s’estoient torné en fuie en tel mainere com vos avés oï, il
+         ne font demorance [R «senza dimorar»], mes tout mantinant montent a chevalz et alent
+         sor le roi et sus sa jens; il conme‹n›çent la bataille a sajectes mult cruele et pesmes
+         […]» [R «cominciorono una crudele et horrenda battaglia»]. Non si danno indizi di
+         contatti di R con <ref type="witlink" target="#p-ii-42">P II 42 6-7</ref> «Videntes hoc <term ref="#tartari">Tartari</term> cucurrerunt ad equos, quibus ascensis divisisque elephantibus in regis acies irruerunt,
+         quas non modicum invaserat timor eo quod videbant elephantum aciem dissipatam. Fuit
+         autem prelium durum valde […]». </p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

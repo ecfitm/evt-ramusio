@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-51</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-51">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-51_1_1" n="1"> Ci devise de la grant cité de <term ref="#samarchan">Sanmarcan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-51_2_1" n="1"> <term ref="#samarchan">Sanmarcan</term> est une grandisme cité et noble. </seg>
+      <seg xml:id="f-null-51_2_2" n="2"> Les jens sunt cristiens et saraçins; il sunt
+         au neveu dou <term ref="#gran-can">Grant Can</term>, et ne est pas son ami mes plusors foies a nimisté cun lui. </seg>
+      <seg xml:id="f-null-51_2_3" n="3"> Ele est ver maistre.
+         </seg>
+      <seg xml:id="f-null-51_2_4" n="4"> Et voç dirai une grant mervoie que avint en ceste cité. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-51_3_1" n="1"> Il fu voir qu’il ne a encore grament de tens que <term ref="#zagathai">Cigatai</term>, le frere charnaus au Grant |Chan<hi rend="italics"> |</hi>22b<hi rend="italics">|</hi>, se fist cristiens, et estoit seingnors de ceste contree et de maintes autres. </seg>
+      <seg xml:id="f-null-51_3_2" n="2">
+         Et les cristiens de le cité de <term ref="#samarchan">Sanmarcan</term>, quant il virent qe le seingnor estoit cristiens, il enn’ont grant leese et adonc
+         firent en celle cité une grant gliese a le onor de saint Johan Batiste, et ansi s’apelloit celle yglise. Il pristrent une mout belle pieres, qe de saraisinz
+         estoit, et la mistrent por pilier d’une colone que en mileu de le yglise estoit et
+         sostenoit la covreure. </seg>
+      <seg xml:id="f-null-51_3_3" n="3"> Or avint que <term ref="#zagathai">Cigatai</term> murut, et quant les saraçins virent qe celui estoit mort, et por ce qe il avoient
+         eu, et avoient toutes foies, grant ire de celle pieres qe estoit en l’eglise des cristiens,
+         il distrent entr’aus qu’il vu‹i›lent celle pieres por force: et ce pooient il bien
+         fair car il estoi‹e›nt .X. tant que les cristiens. [9] Et adonc auquans des meiors
+         saracin alent a le ygli{e}se de sant Johan et distrent a cristiens qu’i estoient qu’il
+         voloient celle pieres qe lor avoit esté. [10] Les cristiens distrent qu’il les en
+         volent ‹doner› tout ce qu’il vodront, et laissast la piere por ce qe trop seroit grant
+         domajes de le yglise se celle pieres s’en traïst{i} hors. [11] Les saraçin distrent
+         qu’il n’en voloient or ne teçor mes voloient lor pieres en toutes mai|22c|neres. [12]
+         Et qe voç en diroie? La sengnorie estoit a cel neveu dou Grant Chan. [13] Il font faire conmandamant as cristiens que de celui jor a deus jors deussent
+         rendre celle pieres as saraçinz. [14] Et quant les cristien ont eu cel conmandement,
+         il unt grant ire et ne sevent qu’il deussent faire. [15] Or en avint tel miracle com
+         je vos conterai. [16] Sachiés que quant le maitin dou jor que la pieres se dovoit
+         rendre fu venu, la colonne qe estoit sor la pieres, por la voluntés dou nostre seingnor
+         Jeçucrit, se hoste de la pieres et se fait en aut bien trois paumes et se sostenoit
+         ausi bien con ce la pieres hi fust sout. [17] Et toutes foies de celui jor avant est
+         ausi demoré celle collune et encore est elle ensint; et ce fu tenu et encore est tenue
+         un des grant miracle que avenisse au monde. </seg>
+    </p>
+    <p n="4"/>
+  </div>
+</body>
+</text>
+     </TEI>

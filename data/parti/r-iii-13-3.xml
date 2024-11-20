@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-13-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-13">
+      <note>
+	<p>Ramusio traduce un testo che, per economia di ipotesi, possiamo ricondurre a <ref type="witlink" target="#z-null-100">Z 100 3</ref> «Gentes <term ref="#idolatri">adorant ydola</term>, regem habent grandem et potentem, et appelantur per <term ref="#gran-can">Magnum Can</term>» (che traduce, con lieve semplificazione, F CLXVI 4 «Il sunt <term ref="#idolatri">ydres</term> sauvajes et ont roi riches et grant. Il s’apellent encore por le <term ref="#gran-can">Grant Kan</term>. Gli altri relatori, grosso modo, seguono F: L 153 3 «Adest hic rex magnus et dives, gentesque sunt <term ref="#idolatri">ydolatre</term> et silvestres»; V 87 17 «[…] le zente del qual reame <term ref="#idolatri">adorano l’idolle</term>; et àno uno re de gran possanza; e tiense per el <term ref="#gran-can">Gran Chan</term>»; VB CXXXVI 4 «La giente sono tuti <term ref="#idolatri">idolatri</term> et àno suo re molto possente e richo e chiamase per el <term ref="#gran-can">Gran Cane</term>»). P III 16 3 è l’esito della ristrutturazione avvenuta in P III 16 1 (vd. <ref type="witlink" target="#r-iii-13">R III 13 1 </ref>e <ref type="witlink" target="#r-iii-13">R III 13 4</ref>) «Habitatores regni illius <term ref="#idolatri">ydolatre</term> sunt et valde in suis moribus bestiales et valde silvestres», secondo una dinamica
+         attivata dall’antigrafo: vd. VA CXXX 3 «La zente è <term ref="#idolatri">idolatra</term> et è molto salvadega e manzia d’ogni charne».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

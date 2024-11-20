@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La pericope pare rielaborazione di P III 23 9 «[…] et tunc de margaritis illis habetur innumera multitudo quas negotiatores postmodum
+         diffundunt per orbem […]» (versione di VA CXXXVII 16 «De queste perlle se truova in quel colfo sì grandenisima quantità ch’ell è una grandenisima
+         meraveia, e queste se sparze per tuto el mondo»). Il passo di VA trova corrispondenza
+         in F CLXXIII 10 «Et en ceste mainere se pescent les perles, et ce sunt si grandismes quantités qe
+         ce ne fait a conter, car sachiés qe de les perles che en ceste mer se treuvent s’espandent
+         por tute lo monde […]»; manca in <ref type="witlink" target="#z-null-107">Z 107 6-28</ref>. Si allineano al tenore informativo di F L 161 6 «[…] ex ipsis margaritis tam parvis quam magnis tanta recipitur multitudo quod, ut
+         apparet, totus habundat mundus […]»; V 91 11 «[…] a questo modo se peschano le perle in tanta quantità che l’è senza numero; e
+         de queste perle se spande per tuto el mondo»; VB CXLIII 12 «[…]e prendesene in gran quantità delle qualle quasi tuto el mondo se ne fornise».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

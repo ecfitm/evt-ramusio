@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-58</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>La pericope pare derivare dalla combinazione di P con Z: <ref type="witlink" target="#p-ii-64">P II 64 16</ref> «In quolibet enim ponte civitatis de die et nocte .X. custodes sunt» (corrispondente
+         in sostanza a <ref type="witlink" target="#f-null-151">F CLI 15</ref> «Et encore voç di qe en chascune des .XIIm. pont gardent .X. homes por cascune nuit et cascun jors […]»); <ref type="witlink" target="#z-null-85">Z 85 30</ref> «Et sunt sexaginta mille custodes qui custodiunt civitatem ab igne, quia habent quam
+         plures domus de lignio» (L om.). Dal confronto tra R e le sue fonti, si potrebbe concludere
+         che Ramusio si sia attenuto a P nella prima parte della passo («Et anchor […] guardiani»),
+         e a Z nella seconda («et in cadauna […] legno»). Non si può escludere, tuttavia, che
+         nell’affine di Z posseduto dall’editore il segmento iniziale si presentasse in una
+         forma analoga a quella che si legge in F e in P. Un influsso sporadico di <ref type="witlink" target="#v-null-76">V 76 12</ref> è riscontrabile nella lezione «sopra la maggior parte d’i ponti»:  «E sapiate che
+         per chadaun luogo over per la mazor parte dî ponti sono la note guardadi da diexemilia
+         homeni […]». Non sono documentati invece contatti con <ref type="witlink" target="#vb-null-114">VB CXIV 18</ref>, che sposta tale dettaglio più avanti nel testo: «[…] continuamente el çorno e lla
+         note, sopra el ponte avanti nominato se fa le guardia et non sollo per el focho […]».
+         </p>
+	<p>La parte conclusiva («con un bacino […] del giorno») non trova riscontro in nessun
+         altro testimone della tradizione. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-16">
+    <head>
+      <hi rend="bold">P, II 16</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-16_2_1" n="1"> Mensibus tribus quibus <term ref="#gran-can">Magnus Kaam</term> moratur in <term ref="#cambalu">Cambalu</term>, scilicet decembri, ianuario et februario, ex statuto regis per sexaginta dietas
+         undique iuxta provinciam <term ref="#cataio">Cathay</term> debent venatores provinciarum venacioni intendere, et omnes bestias grandes, scilicet
+         cervos, ursos, capreas, apros et damulas et cetera |42d| huiusmodi, debent suis dominis
+         presentare: qui tenentur, si a curia regis .XXX. dietis distant aut infra, abstractis
+         interioribus bestiarum mittere <term ref="#gran-can">Magno Kaam</term> in caruca vel navi; qui vero ultra .XXX. dietas remoti sunt a curia, solummodo mittunt
+         corria preparata que pro armis necessaria sunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

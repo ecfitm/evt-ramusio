@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-31-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-31">
+      <note>
+	<p>Ramusio manipola, abbreviandolo, un testo affine a <ref type="witlink" target="#z-null-119">Z 119 7-11</ref> quanto a forma dell’espressione e informazioni fornite (segnalo in corsivo le parti
+         soppresse): «Fiunt etiam ibi multa merçimonia de coriis; nam ibi laboratur tam bene
+         quemadmodum in aliis partibus. <hi rend="italics">Sunt etiam ibi multa alia mercimonia de quibus noster liber non faciet mencionem,
+            quoniam nimis esset longa materia</hi>. Et illuc mercatores cum multis mercimoniis veniunt, sed magis aportant aurum, argentum,
+         ramum et tuçiam de patria sua quam aliquid aliud. <hi rend="italics">Et secum reportant de mercimoniis huius regni, videlicet de illis de quibus credunt
+            maiorem facere profectum. Et in isto regno non sunt pyrate, sed de mercimoniis vivunt
+            et artibus et sunt bone gentes</hi>» (Z traduce F CLXXXV 3-6 «Et encore hi se fait grant mercandies de curiames afaités et adobés, e ce est en
+         grant quantité por ce qe il le laborent ausi bien come en autre païs. Et encore vos
+         di qe il hi a encore maintes autres mercandies, des quelz ne firai memorie ‹en› nostre
+         livre por ce qe trop seroit longaine matiere a mentovoir. E les mercant hi vienent
+         con mai‹n›tes nes con lor mercandies, mes plus hi aportent or e arjent et rame; il
+         hi aportent des couses de lor païs et n’aportent de celz de cest reingne, ce est de
+         celles qe hi cuident faire greingnor profit e greingnor gaagne. E saquiés que en cest
+         roiame ne a corsaus, mes voç di qe il vivent de mercandies e d’ars, e sunt bones jens»).
+         Gli altri relatori si dispongono lungo una linea di progressivo distanziamento dal
+         contenuto originale: V 102 4-5 «Et fano gran marchadantie de chuori, perché i se lavora sì ben chomo in altre parte.
+         Et sono molte marchadantie; et marchadanti vien chon molte nave chon le so marchadantie,
+         ma la mazor parte porta oro et arzento e altre chosse de la sso patria; et fano gran
+         utilitade, perché in questo reame non sono robadori, ma tuti viveno de marchadantie
+         et arte; et sono bona zente»; L 172 4-5: «[…] et coria preparata in quantitate multa. Et in hoc regno sunt boni homines mercatores
+         et artiste»; VB CLV 4-5 si limita a dichiarare: «Son homeni de mestier e boni marchadanti e bona gente. Àno
+         churami assai conço e molto bello e ben lavorato».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

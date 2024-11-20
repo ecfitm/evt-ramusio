@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-25-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-25">
+      <note>
+	<p>Il passo sui forti cavalli, che una leggenda ancora viva ai tempi di Marco Polo considerava
+         discendenti di <term ref="#bucefalo">Bucefalo</term> (la credenza è citata in par. 10, che recepisce un <hi rend="italics">addendum</hi> di Z), corrisponde nei contenuti a <ref type="witlink" target="#f-null-46">F XLVI 13</ref> «Et encore sachiés qu’il hi naisent mout buen chavalz: et sunt grant coreor et ne
+         portent fer en lor piés et si vont por montagnes toç jors» (tace qui Z toledano).</p>
+	<p>La parte centrale della pericope – «et hanno […] de’ monti» – sembra seguire le fioriture
+         di <ref type="witlink" target="#p-i-34">P I 34 7</ref> «[…] ita fortes duros et solidos pedes habent ut non indigeant subferrari: vadunt
+         enim et currunt per montes et saxa […]». Il segmento finale («dove altre bestie […]
+         corrervi») può essere espansione ramusiana.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

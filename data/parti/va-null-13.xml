@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-13">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XIII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-13_2_1" n="1"> In <term ref="#zorzania">Zorzania</term> è uno re ch’è apellato senpre <term ref="#david">Mandemilich</term>, che è a dire in nostra lengua <term ref="#david">Davit re</term>, ed è sotoposto al Tartaro. </seg>
+      <seg xml:id="va-null-13_2_2" n="2"> In antico tenpo, sechondo che se dixe, naseva tuti
+         li re de quella provinzia chon uno segnio d’agugla sula spalla drita. </seg>
+      <seg xml:id="va-null-13_2_3" n="3"> Eli sono
+         bella zente, e valenti per arme e boni archatori e boni chonbatitori in bataglia,
+         ed èno cristiani e tien el modo de’ <term ref="#greci">Grezi</term>, e portano li chavelli churti a modo de’ chierexi.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-13_3_1" n="1"> Questa è la provinzia che non poté passar Allesandro quando el volsse andar al Ponente, perché la via si è streta e molto dubioxa. </seg>
+      <seg xml:id="va-null-13_3_2" n="2">
+         Dal’uno lato si è el mar, dal’altro si è gran montagnie che non se posono chavalchare.
+         </seg>
+      <seg xml:id="va-null-13_3_3" n="3"> La via è molto streta entro la montagnia e ’l mare, e dura questa via chusì streta
+         plui de quatro ligne, sì che pochi omeni defenderaveno quel luogo da tuto el mondo.
+         </seg>
+      <seg xml:id="va-null-13_3_4" n="4"> E questa è la chaxion per che <term ref="#alessandro">Alesandro</term> non ne poté passar. </seg>
+      <seg xml:id="va-null-13_3_5" n="5"> E vedando ch’el non podeva passar sora quella zente, volse
+         vedar a loro che i non podeseno vegnir a llui né a sua zente, e si fè’ far una tore
+         e una gran forteza alla bocha de quel passo, e messe nome a quela |10v| tore la <term ref="#porta-di-ferro">Tore del Fero</term>. [9] In la provinzia de <term ref="#zorzania">Zorzania</term> si è zitade e chasteli asai. [10] È-ne seda in grande abondanzia, là se lavora draparia
+         belletisima de seda e d’oro, e là è i mior astori del mondo. [11] Lì è abondanzia
+         de tute cosse da viver. [12] La zente viveno de lavor de tera e de merchadantie. [13]
+         La provinzia è tuta piena de montagnie e de streti passi e forti sì che <term ref="#tartari">Tartari</term> non àno posuto aver intriegamente la segnioria de quella provinzia.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

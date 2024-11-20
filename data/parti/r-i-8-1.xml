@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-8-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-8">
+      <note>
+	<p>Nel contesto della lunga monografia su <term ref="#baldach">Baghdād</term>, l’esordio del capitolo di R è il <hi rend="italics">trait d’union</hi> tra la sezione descrittiva (cfr. R I 7) e quella narrativa. Il passo coincide quasi
+         alla lettera con le linee di <ref type="witlink" target="#f-null-24">F XXIV 7</ref> «Et si sachiés voiramant qe au <term ref="#califa">calif</term> de <term ref="#baldach">Baudac</term> se treuve le greingnor treçor d’or et d’argent et de peres presioses qe jamés se
+         trevast, et vos dirai comant», e pertanto si può supporre che dipenda da Z1. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

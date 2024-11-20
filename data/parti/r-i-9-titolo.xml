@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-9-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-9">
+      <note>
+	<p><ref type="witlink" target="#f-null-29">F XXIX</ref> (Ci devise de la noble cite de <term ref="#thauris">Toris</term>); <ref type="witlink" target="#z-null-8">Z 8</ref> (Hic naratur de esse nobilis civitatis <term ref="#thauris">Thoris</term>); <ref type="witlink" target="#l-null-24">L 24</ref> (De nobili civitate <term ref="#thauris">Toris</term>); <ref type="witlink" target="#p-i-17">P I 17</ref> (De civitate Thaurisii), <ref type="witlink" target="#va-null-17">VA XVII</ref> (De <term ref="#thauris">Turis</term>, là dove abita diverse zenerazion de zente);  <ref type="witlink" target="#v-null-16">V 16</ref> (Dela nobele zitade de <term ref="#thauris">Toris</term>); <ref type="witlink" target="#vb-null-18">VB XVIII</ref>.</p>
+	<p>Ad eccezione di una minima tessera testuale avvicinabile in linea di massima a P,
+         il capitolo ramusiano – per quanto non sempre confrontabile con la lezione toledana
+         – è sostanzialmente desunto da Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

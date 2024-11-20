@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-41-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>Nella sua <hi rend="italics">brevitas </hi><ref type="witlink" target="#p-iii-46-1-6">P III 46 7-9</ref> può aver fornito un modello a R: «[…] multas sub se civitates habens et castra multa
+         et est subiecta dominio regis <term ref="#adem">Aden</term>; iuxta hanc civitatem portus optimus est. Omnes huius patrie incole sunt Saraceni.
+         De hoc portu tam innumera multitudo equorum a negotiatoribus defertur in <term ref="#india">Yndiam</term>, ut de multitudine ipsa vix narrantibus credi posset» (versione di VA CLII 13 «E questa zità à uno porto molto bon, del qual se porta molti cavali a vender in
+         India ch’el nnon è homo al mondo che podesse saver el numero»). Il testo della linea
+         VA-P-(R) è comunque piuttosto rimaneggiato, specialmente nella parte relativa al commercio
+         equino: vedi F CXCIV 2 «E cest cité a port mout buens, car je voç di tout voiremant qe maintes nes e mant
+         mercant hi vienent de <term ref="#india">Yndie</term> con mantes mercandies, e de ceste cité vont encore les nes e les mercant con mantes
+         mercandies en <term ref="#india">Yndie</term>. Et encore voç ‹di› voiremant que de ceste cité portent les mercant mant buens de‹s›trier
+         et mant{i} buens chavalz de .II. selles en <term ref="#india">Endie</term>, que molt sunt chier e de grant vailance, e molt en font grant profit e grant gaagne
+         les mercant»; Z 128 5-7 «Ista quidem civitas habet bonum portum: nam illuc multi mercatores et naves de <term ref="#india">India</term> cum multis mercimoniis veniunt. Et ab ista civitate vadunt mercatores cum multis
+         navibus et mercimoniis in Indyam. Portant etiam mercatores ab ista civitate multos pulcros sonipedes de duabus sellis
+         in Indyam, qui sunt magni valoris; et mercatores de ipsis multum consecuntur lucrum et profectum»;
+         VB CLXVI 3-4 «Questa citade à bon porto e lì chapitano molte nave che vien de India con assai
+         merchadantie. E de questa citade vano in <term ref="#india">India</term> e portano asai chavalli e boni destrieri da do selle, di qualli i ne fano gran guadagni».
+         A parte stanno V 110 3 – che omette la descrizione del commercio equino: «Et questa zitade àno uno buon
+         porto, et là vano molti marchadanti et nave de <term ref="#india">India</term> chon molte marchadantie» –, e L 183 3, che tace del tutto le informazioni sulle attività commerciali: «[…] et sub ipsius
+         dominio sunt quam plures civitates et castra, et ipsa habet optimum portum navigantibus
+         ab <term ref="#india">India</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

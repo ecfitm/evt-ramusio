@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>A parte una piccola aggiunta che non trova riscontro in nessun’altra testimonianza
+         («o vero perché quello che l’ha preso non lo conosce personalmente, anchor che sappia
+         il nome»), R riflette abbastanza fedelmente il dettato di <ref type="witlink" target="#f-null-93">F XCIII 7-8</ref> «Et tous les osiaus dou <term ref="#gran-can">Grant Sire</term>, et encore celz des autres baronç, ont une petite table d’arjent as piés en la quel
+         est ecrit les nom de cui il est et qui lle tient, e por ceste mainere est le osiaus
+         coneu tant tost qu’il est pris, et est rendu a celui de cui il est. Et se l’en ne
+         set de cui il est, ‹est› aporté a un baron qe est apellés <term ref="#bulangazi">bularguci</term>, qe vaut a dir le gardiens des couses qe ne treuvent seingnor […]». Oltre a un esemplare
+         molto vicino nella lezione a F, non sembra che Ramusio abbia fatto ricorso anche a
+         <ref type="witlink" target="#p-ii-19">P II 19 5</ref> «[…] quelibet autem avis huiusmodi cuiuscumque fuerit tabulam parvulam argenteam
+         habet ad pedem cum signo domini sui aut falconerii, ut si dimissa fuerit, domino suo
+         restitui valeat; cum autem signum non fuerit cognitum, defertur ad baronem quemdam
+         ad hoc officium constitutum, qui dicitur “bularguci”, id est “custodum rerum perditarum”
+         […]», o a <ref type="witlink" target="#v-null-44">V 44 3-4</ref> «[…] zamai nessun oxello se puol prender, zoè ch’el se perda, perché zaschuno àno
+         una schrita al pè de chi lo sono e de chi lo tien: e per questo muodo li vien chognossudi,
+         et al <term ref="#gran-can">Gran Signor</term> de prexente li vien restituide. Et questo sono perché quelli homeni àno a vardar
+         questo, e se per aventura non se trovasse el paron delo oxello, el vien deputado a
+         uno baron che vien chiamado “<term ref="#bulangazi">burlaguzi</term>”, et in la nostra lengua “el vardador dele chose che non trova signor” […]». L omette
+         il passo. </p>
+	<p>In VB e Z manca tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

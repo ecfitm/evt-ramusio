@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>fonte-R-II-76</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="fonte-r-ii-76">
+    <head>
+      <hi rend="bold">P, II 69 1-5</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="fonte-r-ii-76_2_1" n="1"> Progrediendo vero ulterius ad miliaria .XV., invenitur civitas <term ref="#fugiu">Fugui</term> que caput est in regno <term ref="#concha">Concha</term> quod est de novem regnis <term ref="#mangi">Mangy</term>. </seg>
+      <seg xml:id="fonte-r-ii-76_2_2" n="2"> In hac urbe moratur exercitus <term ref="#gran-can">Magni Kaam</term> pro custodia patrie ut statim curere sit paratus si civitas aliqua presumeret rebellare.
+         </seg>
+      <seg xml:id="fonte-r-ii-76_2_3" n="3"> Per huius civitatis medium transit fluvius qui miliare unum in latitudine habet.
+         </seg>
+      <seg xml:id="fonte-r-ii-76_2_4" n="4"> In civitate naves multe fiunt que per hunc fluvium navigant. </seg>
+      <seg xml:id="fonte-r-ii-76_2_5" n="5"> Ibi etiam çinçimber
+         in copia maxima preparatur. </seg>
+    </p>
+    <p n="3"/>
+    <p n="4">
+      <seg xml:id="fonte-r-ii-76_4_1" n="1"> Nel qual fiume naviga di grosse nave e choreno molte marchadantie, et ecian a
+         questa cità chapitano nave de <term ref="#india">India</term> con marchadantie; e da questa citade con le llor nave vano in <term ref="#india">India</term> et portano gran quantità de çuchari che naschono in questo paexe e fasse nella citade.
+         </seg>
+      <seg xml:id="fonte-r-ii-76_4_2" n="2"> Questo fiume mete capo apresso al porto chiamato <term ref="#zaitum">Charon</term> del <term ref="#mare-oceano">mar Oceano</term> et entrono per el fiume e veneno fino alla citade la qual è abondantissima de tute
+         vituallie; à deletevelli giardini e prefetissimi fruti.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-11">
+    <head>
+      <hi rend="bold">P, II 11</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-11_2_1" n="1"> Extra civitatem <term ref="#cambalu">Cambalu</term> sunt suburbia .XII. magna valde ante singulas portas in quibus mercatores quique
+         et viatores recipiuntur: multus enim populus continue ad civitatem confluit propter
+         curiam regis et mercaciones innumeras que deferuntur illuc; in suburbiis illis habitat
+         multitudo maxima populorum, suntque ibi palatia tam pulcra et magna ut interiora sunt,
+         excepto regali palatio. </seg>
+      <seg xml:id="p-ii-11_2_2" n="2"> In hac civitate nullus mortuus sepelitur: omnes enim <term ref="#idolatri">ydolatre</term> extra suburbia comburuntur; horum autem corpora que comburi non debent sepeliuntur
+         extra suburbia. </seg>
+      <seg xml:id="p-ii-11_2_3" n="3"> Propter multitudinem autem extraneorum qui ad civitatem conveniunt
+         sunt ibi meretricum circiter |39d| .XX. milia que in suburbiis commorantur; nam intra
+         muros civitatis nulla earum habitare permittitur. </seg>
+      <seg xml:id="p-ii-11_2_4" n="4"> Ad hanc urbem mercaciones tam
+         multe et tam maxime deferuntur ut quamlibet tocius orbis civitas in quantitate negotiacionum
+         excedat; deferuntur autem illuc preciosi lapides et margarite et sericum et aromata
+         in copia maxima de <term ref="#india">India</term>, <term ref="#mangi">Mangy</term> et <term ref="#cataio">Cathay</term> et aliis regionibus infinitis: est enim civitas in situ optimo posita et ad ipsam
+         de facili concursum habent finitime regiones. </seg>
+      <seg xml:id="p-ii-11_2_5" n="5"> Est enim in meditullio provinciarum
+         multarum diligenti habita extimatione per negotiatores terre; non enim est in anno
+         dies in qua ultra mille carucas de serico negotiatores extranei illuc non deferant;
+         fiunt enim ibi de auro et serico opera infinita.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

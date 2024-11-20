@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-17-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-17">
+      <note>
+	<p>Le informazioni contenute nella prima metà della pericope («Et […] tutti i borghi»)
+         trovano riscontro in P, V e – solo in parte – in VB:<ref type="witlink" target="#p-ii-11"> P II 11 2</ref> «In hac civitate nullus mortuus sepelitur: omnes enim <term ref="#idolatri">ydolatre</term> extra suburbia comburuntur; horum autem corpora que comburi non debent sepeliuntur
+         extra suburbia»;<ref type="witlink" target="#v-null-45"> V 45 3</ref> «Et se algun mor in la zitade, el non vien sopelido lì dentro, ma el vien portado
+         de fuora a uno luogo deputado; et per el simele, s’el è alguno de quelli che <term ref="#idolatri">adora le idole</term>, li vien portadi de fuora, ad uno luogo che sono de fuora dai borgi deputado a questo
+         fato»; <ref type="witlink" target="#vb-null-68">VB LXVIII 6</ref> «[…] e tuti loro morti per chossa del mondo non premeteria fir sepelidi nela tera
+         ma sí tuti de fuori o nei borgi». Ma la fonte di Ramusio non può essere identificata
+         né con P, né con V (né tantomeno con VB), ma con un esemplare che, rispetto a queste
+         redazioni, si mostrava più prossimo a <ref type="witlink" target="#f-null-94">F XCIV 7</ref> «Et sachiés qe en la ville no sevoillent nulz homes que se more [R «che muore»],
+         mes, se el est <term ref="#idolatri">ydres</term> [R «ma s’egli è <term ref="#idolatri">idolatra</term>»], si se porte au leu ou doit estre ars [R «al luogo dove si dee brusciare»] le cors,
+         qui est dehors tous les burs [R «il qual è fuor di tutti i borghi»]; et ausi avint
+         des autres mors qe se sevoillent encore dehors tous les bu{e}rç». La seconda parte
+         della pericope [«et parimente […] delli borghi»), che non ha un corrispettivo in nessun’altra
+         testimonianza poliana, sembrerebbe derivare da una cattiva interpretazione del testo
+         originale.</p>
+	<p>L omette il passo, mentre Z omette l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

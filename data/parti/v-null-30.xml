@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-30</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-30">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 30</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-30_2_1" n="1"> <term ref="#lop">‹L›op</term> sono una zitade la qual sono in chavo de uno deserto, ed è tra griego e levante,
+         et questa zitade sono del <term ref="#gran-can">Gran Chan</term>, e la zente de questa adora <term ref="#macometto">Machometo</term>. </seg>
+      <seg xml:id="v-null-30_2_2" n="2"> Et queli che vol pasar per ’sto dexerto per el mancho chonviense possar in questa
+         zitade sie zornade, e puo’ se chonvien fornir per uno mexe de vituaria. </seg>
+      <seg xml:id="v-null-30_2_3" n="3"> E partendose
+         da questa zitade se entra per uno dexerto e stase uno mexe a pasar quelo, el qual
+         sono tuto in monti e vale e rena, e non se trova niente da manzar; et quando se sono
+         andado uno dì e una note el se trova de bone aque, ma non in quantità che gran zente
+         se ne possa saziar, salvo per zinquanta over zento persone chon li suo’ anemali ne
+         troveria al suo’ piaxer; e passado tre dì e tre note se trova aqua salada e amara,
+         et non se trova bestie ní oxeli, perché in ’sto dexerto i non trova che manzar. |29v|
+         </seg>
+      <seg xml:id="v-null-30_2_4" n="4"> Et in questo dexerto sono una chossa: che chavalchando de note per questo luogo,
+         e che avegna che algun romagna over se smarisa dali chonpagni per far i suo’ fati,
+         li olde molti spiriti parlar; e per el simel se li suo’ chonpagni li chiama, queli
+         oldeno ogni chossa et sente da queli spiriti chiamar el suo propio nome; e queli,
+         chredendo che i sia i suo’ chonpagni, seguita quele voxe, onde molti se ne perde;
+         et anchora in quel dexerto se sente molti soni e stromenti e par propiamente chanpanele;
+         e perzò queli che vol passar questo dexerto l’è de mestier de meter chanpanele al
+         cholo ali suo’ chavali e anemali per aldir de chontinuo, adziò che i non dorma; et
+         pàssasse chon gran fastidio.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

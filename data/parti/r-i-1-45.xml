@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-1-45</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-1">
+      <note>
+	<p>Per narrare le variegate vicende che corredano il ritorno in Occidente dei Polo (parr.
+         45-57) Ramusio sembra servirsi specialmente di Z, preferito agli altri modelli in
+         quanto latore di numerosi <hi rend="italics">addenda</hi>, tra i quali l’episodio del mancato rimpatrio degli ambasciatori di Arγun («Et essendo stà preparate […] ciò che gli era intravenuto») e quello del loro incontro
+         con i tre Polo («Le qual parole […] in quelli paesi»), ben più articolato di quanto
+         testimoni la tradizione.</p>
+	<p>Vd. p. es. <ref type="witlink" target="#f-null-17">F XVII 4-10 </ref>«Or avint que la raine <term ref="#bolgara">Bolgara</term>, que fame <term ref="#argon">Argon</term> estoit le sire dou Levant, se morut, et cele roine laisse por sien testamente ke
+         nule dame ne peuse seoir en sa chaire ne estre fame d’<term ref="#argon">Argon</term> se ne fust de son legnas. Adonc <term ref="#argon">Argon</term> prist trois sez baronç, li quelç avoient a non ensint: le primer Oulatai, le segont <term ref="#apusca">Apusca</term>, le tierçe <term ref="#coza">Coia</term>. Il les envoie au <term ref="#gran-can">Grant Kan</term> con mout bielle conpagnie, por coi il devest envoiere une dame que fust dou lingnas
+         de la |8c| roine <term ref="#bolgana">Balgana</term> sa fame que mort estoit. Et quant les trois baronç furent venu au <term ref="#gran-can">Grant Kan</term>, si li distrent lo por coi il estoient venu. Le <term ref="#gran-can">Grant Kan</term> les recevi honorablemant: elç fist joie et fest. Puis mande por une dame ke avoit
+         a non <term ref="#cogatin">*Cogatin</term>, qe estoit dou legnaçe a celle roine <term ref="#bolgana">Balgana</term>, qui estoit geune de{i} .XVII. anç, mout bien et avenant. Il dist as trois baronç
+         ke ceste dame estoit celle qu’il vont querant. Celç distrent que ce plet lor bien.
+         Et atant meser Marc torne de <term ref="#india">Ynde</term> por mout deverses mer et conte maintes noveles de celle contree. Et les trois baronç,
+         que unt veu meser Nicolau et mesere Mafeu et mesere Marc qui estoient latin et sajes,
+         adonc distrent entr’aus qu’il vuelent k’il ailent con elz por mer. Il alent au <term ref="#gran-can">Grant Kaan</term> et li demandent en grace que il li deust envoier por mer et qu’il mandest avec elç
+         les trois latin. Le <term ref="#gran-can">Grant Kan</term>, que tant amoit cesti trois come voç ai contés, a grant enuie fait elz celle grace
+         et done conjé as trois latin qu’il alaisent avuech celç trois baronç avec cele dame»;
+         <ref type="witlink" target="#p-i-9">P I 9 2-3</ref> «Interea barones tres unius regis Indorum nomine <term ref="#argon">Argon</term> ad magni regis <term ref="#cublai-can">Cublay</term> curiam pervenerunt, quorum unus vocabatur <term ref="#ulatay">Oulatay</term>, alter <term ref="#apusca">Alpusca</term>, tercius vero <term ref="#coza">Coyla</term>, ex parte sui domini postulantes ut ei uxorem traderet de sua progenie, quoniam mortua
+         fuerat nuper coniunx eius regina <term ref="#bolgana">Balgana</term>. Rex autem <term ref="#cublai-can">Cublay</term> eos cum summo suscepit honore et puellam unam de sua progenie illis obtulit annorum
+         .XVII., nomine <term ref="#cogatin">Cogatim</term>; qui nomine domini sui gratanter ipsam suscipientes cognoscentesque quod domini Nicolaus,
+         Matheus et Marchus desiderabant ad propria remeare pro gratia a rege suppliciter postularunt
+         ut, pro honore regis <term ref="#argon">Argon</term>, ipsos tres ad eum transmitteret cum regina, quibus inde, si vellent, redire liceret
+         ad propria. Qui procerum instanti peticione devictus eorum preces nequivit abnuere,
+         tristem tamen prebuit postulacioni consensum»; <ref type="witlink" target="#v-null-7">V 7 6-13</ref> «Et essendo passado zerto tempo, vene che la reina <term ref="#bolgara">Burgara</term>, moier de <term ref="#argon">Argon</term>, Signor de Levante, vene a morte, et quela per so testamento ordenò che alguna femena
+         non podesse sentar nela soa sedia che fosse moier de <term ref="#argon">Argon</term>, se la non fosse dela soa provinzia de <term ref="#argon">Argon</term>. Onde questo re, vedendo ziò, elesse tre nobeli chavalieri, el nome deli qual primo
+         era chiamado <term ref="#ulatay">Ulatai</term>, lo segondo <term ref="#apusca">Hapuoscha</term>, lo terzo <term ref="#coza">Chorza</term>, et chon questi mandò de molti altri nobeli baroni per anbasadori al <term ref="#gran-can">Gran Chan</term>, pregando quelo i dovesse mandar moglie la qual fosse dela provinzia dela regina
+         <term ref="#bolgana">Bulgera</term> che fo suo’ moier. Onde inchontinente i diti anbasadori furono partidi et andorono
+         al <term ref="#gran-can">Gran Chan</term> et disseli la chaxon perché i era vegnudi. Onde quelo li rezevé honorevelmente fazendoli
+         gran festa; et possa mandò per una dona la qual nomeva <term ref="#cogatin">Chogazin</term>, la qual era dela provinzia dela raina <term ref="#bolgara">Burgara</term> et iera de ani vintisete, ed era molto bela. Alora el Signor disse ali anbasadori:
+         «Questa è quela femena che vui domandade», et quelli respoxe che molto li piaxeva.
+         Or in questo tempo che i diti anbasadori erano venuti per quela dona, missier Nicholò
+         e misier Mafio iera vegnudi in quel’ora d’<term ref="#india">India</term> per diversi mari, et de quelle parte disse de molte chosse al Signor. Di che vedendo
+         i prediti baroni questi do fradeli e misier Marcho, li quali ierano omeni latini,
+         disse infra lor che volentiera i voria che li andasse chon loro. Et inchontinente
+         andò dal <term ref="#gran-can">Gran Chan</term>, dimandando di grazia che queli tre omeni latini lassasse andar chon loro dal suo’
+         Signor; onde el Signor li chonzesse quello li domandòe, ma non volentiera, perché
+         lo i amava molto, chomo ve ò dito di sopra» etc.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

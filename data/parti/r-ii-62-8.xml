@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-62-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-62">
+      <note>
+	<p>Nelle parti iniziale e finale («Costoro […] mangani», «tirare […] una») Ramusio deve
+         avere tenuto conto di P o, in alternativa, di un testimone che presentava una lezione
+         vicina quella di F – cioè Z1: <ref type="witlink" target="#p-ii-58">P II 58 5</ref> «[…] qui fecerunt tres machinas optimas, quarum quelibet trecentarum librarum lapidem
+         iacebat […]»; <ref type="witlink" target="#f-null-145">F CXLV 8-9</ref> «[…] lor distrent qe il feissent .II. mangan ou trois qe gitassent pieres de .CCC.
+         livres. E cesti .II. en firent .III. biaus mangan. Et quant il furent fait, le <term ref="#gran-can">Grant Sire</term> les fait aporter dusqe a seç host qe a l’asié de la cité de <term ref="#saianfu">Saianfu</term> estoient e que ne la poient avoir». La parte centrale («quali furono […] videro»)
+         sembrerebbe essere una rielaborazione di <ref type="witlink" target="#vb-null-108">VB CVIII 12</ref> «[…] se ne andò al canpo et auto e’ legname feçe far mangani mirabilissimi a tuti
+         a vedere et molto più quando i videno le pietre con quei fia butà nela tera […]».
+         Notevolmente compendiato appare <ref type="witlink" target="#v-null-78">V 78 10</ref> «Allora quello feze far tre grande bonbarde molto belle […]», mentre L e Z omettono
+         del tutto il passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

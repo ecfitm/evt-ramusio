@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-8-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-8">
+      <note>
+	<p>F CLXIII (Ci devise de l’isle de <term ref="#sondur-et-condur">Sondur</term> et de celle de <term ref="#sondur-et-condur">Condur</term>); P III 11 (De provincia <term ref="#locach">Loath</term>. Capitulum XI), VA CXXV (Del’ixolla de <term ref="#sondur-et-condur">Sudar</term> et de <term ref="#sondur-et-condur">Chondur</term>); <ref type="witlink" target="#z-null-97">Z 97</ref> (De insulis <term ref="#sondur-et-condur">Sondur</term> et <term ref="#sondur-et-condur">Condur</term>); L 147 (De duabus insulis <term ref="#sondur-et-condur">Condur</term> et <term ref="#sondur-et-condur">Sondur</term>) / L 148 (De provincia <term ref="#locach">Locach</term>); V 85 (Del’ixolla di <term ref="#sondur-et-condur">Sardan</term>); VB CXXXII.</p>
+	<p>Ancora una volta Ramusio ricorre al testo di Z, ma intarsiando la superficie con un
+         paio di tessere prelevate da P (vd. le note ai parr. 4 e 5).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

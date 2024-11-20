@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-23-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-23">
+      <note>
+	<p>Ramusio riprende dalla formula transizionale di <ref type="witlink" target="#z-null-111">Z 111 63-64</ref> («Nunc diximus hanc ystoriam totam per ordinem. Admodo dicemus de aliis rebus, et
+         primo de nobili civitate <term ref="#cael">Cail</term>»: coincidente con F CLXXVII 26 «Or voç avon conté toute ceste ystoire por ordre tout la verité, et desormés nos
+         en partiron e vos conteron avant des autres cousses e vos diron tout avant de la cité
+         de <term ref="#cael">Cail</term>») la citazione della «città di <term ref="#cael">Cael</term>», scomparsa nella più generica chiusa di V 95 29 «Or altro nonn è da dire, però anderemo più oltra e trateremo de altre nobel chose».
+         Omettono l’<hi rend="italics">explicit</hi> L 160 e VB CXLVII.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

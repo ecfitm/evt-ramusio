@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-46-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-46">
+      <note>
+	<p>La versione di Z appare più ricca di dettagli di quella tràdita dalle altre fonti
+         (e da F): <ref type="witlink" target="#l-null-101">L 101 5</ref> «Gentes hee, comiter masculi et femine, carnes suas depingunt, pertrahendo diversas
+         ymaginum formas, avium videlicet, serpentum vel animalium aliorum, et in facie, manibus
+         et breviter in qualibet parte corporis. Hoc vero faciunt cum acubus et ferro, per
+         modum talem quod numquam modo aliquo evanescunt; et quicumque taliter modis pluribus
+         est meliusque depictus, nobilior et pulcrior reputatur»; <ref type="witlink" target="#p-ii-46">P II 46 7</ref> «Viri et mulieres huius provincie cum accubus pingunt facies suas, colla, manus et
+         ventrem ac crura, faciuntque ibi ymagines leonum, draconum, et avium subtiliter valde,
+         que etiam sic firmantur in pelle ut numquam discedant; qui autem plures de huiusmodi
+         ymaginibus habet pulcrior reputatur»; <ref type="witlink" target="#v-null-60">V 60 15</ref> «Le charne de quella zente, sì de mascholli chomo de femene, sono depente d’uno cholor
+         di sangue, de grue e lioni, per tal modo che mai non va via; et questo sono per tuto
+         el chorpo, et questo fano per gran nobelitade; et quelli che àno più pentura sono
+         tegnudi mazor e plu belli»; <ref type="witlink" target="#vb-null-89">VB LXXXIX 6</ref> «Tuta questa giente, sì mascholli come femine, àno tuta la persona su per la carne
+         depinte e per modo per lavare né per alltro non vano via; sono depinti ad algune soe
+         opere con oselli et alltre bestie e quanto sono più gentilli tanto sono meio depinti
+         e tengono quele deponture per gentille e bella cossa» (<ref type="witlink" target="#f-null-126">F CXXVI 7-9</ref> «Les jens toutes comunemant, masles et femes, {s}unt toutes lor charç pintes en tel
+         mainere con je voç dirai: car il se font por toutes lor chars pintures con aguiles,
+         a lions et a drag et ausiaus et a maintes ymajes, et sunt fait con les a{n}guiles
+         en tiel mainere qe jamés ne s’en vont. Ce ausi le font au vix et ‹a›u cuel et au ventre
+         et a les manz et a les janbes et por tout les cors. Et ce funt por grant gentilise;
+         e celui qui plus n’ot de ceste poi‹n›ture s’en ti{n}ent a graingnor et a plus biaus»);
+         <ref type="witlink" target="#z-null-61">Z 61 11-18</ref> «Caro autem omnium illarum gentium, tam marium quam feminarum, taliter est depicta
+         sive sculpta: nam quilibet designare facit per totam eius carnem, videlicet in vultu,
+         collo, manibus, ventre, pedibus, cruribus et in toto corpore, ita quod nichil aparet
+         indesignatum et insculptum aquilas, leones, dracones et aves, et alias ymagines varias
+         et diversas in hunc ‹modum›. Primo quidem faciet homo per corpus totum designari cum
+         nigro formas ymaginum, tot et quales sibi placebit. Quo facto, ligabitur pedes et
+         manus, et duo vel plures eum tenebunt. Et tunc magister habebit .V. acus, .IIII. ex
+         ipsis simul ligatas ut quadras et quintam in medio positam; et cum istis acubus, secundum
+         designationem ymaginum, ipsum pungendo vadit ubique. Et statim, factis poncturis,
+         super ducitur adtramentum, et tunc in punctis illis designata aparet figura. Sed homines
+         in hoc tantam penam suferunt quod illis de purgatorio posset suficiens reputari. Hoc
+         quidem ex nobilitate faciunt: nam qui pluras habent picturas, pulcriores et maiores
+         putantur. Et quam plures moriuntur ex eis, dum sic depinguntur: nam sanguine‹m› multum
+         perdunt».</p>
+	<p>Ramusio ha contaminato in questo punto diverse fonti. I debiti maggiori sono nei confronti
+         di Z (R «o sopra il volto, mani, gambe et ventre», Z «in vultu, collo, manibus, ventre,
+         pedibus, cruribus»; R «maestri […] con una agucchia», Z «Et tunc magister habebit
+         .V. acus»; R «et vi mettono color negro», Z «designari cum nigro») e di VB (R «Quelle
+         genti, cosí huomini come donne, hanno tutto il corpo dipinto», VB «Tuta questa giente,
+         sì mascholli come femine, àno tuta la persona […] depinte»; R «di diverse sorti d’animali
+         et uccelli», VB «con oselli et alltre bestie»; R «che mai per acqua o vero altro puol
+         levarsi via», VB «e per modo per lavare né per alltro non vano via»). È possibile,
+         infine, che la frase finale (R «et quella femmina o vero huomo che ne ha piú di dette
+         figure è riputato piú bello») sia stata ricavata da P («qui autem plures de huiusmodi
+         ymaginibus habet pulcrior reputatur»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

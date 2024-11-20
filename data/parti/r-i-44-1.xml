@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-44-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-44">
+      <note>
+	<p>In R l’elenco poliano dei successori di Chinggis Khan si allinea, nella sintassi e nel lessico, al dettato di <ref type="witlink" target="#f-null-68">F LXVIII 2-3</ref> «Sachié tuit voiramant qe aprés <term ref="#cingis-can">Cinchins Can</term> fui seingnor <term ref="#cyn-can">Cui Can</term>, le tierçe Bacui Chan, le quart <term ref="#ulau">Alton Can</term>, le quint <term ref="#mongu-can">Mongu Chaan</term>, le sexme <term ref="#cublai-can">Cublai Can</term>, qui est le greingnor e le plus poisant que ne i fu nul des autres […]»): le coincidenze
+         pressoché letterali – «aprés <term ref="#cingis-can">Cinchins Can</term> […] <term ref="#cyn-can">Cui Can</term>» F / «Doppo <term ref="#cingis-can">Cingis Can</term> […] <term ref="#cyn-can">Cyn Can</term>» R, «le greingnor […] autres» F / «più grande […] gli altri» – sono spiegabili con
+         la dipendenza di R da Z1, che doveva essere, qui come altrove, del tutto prossimo a F.</p>
+	<p>In un contesto probabilmente debitore di Z Ramusio innesta una tessera <hi rend="italics">singularis</hi> di P: si tratta del nome attribuito al quarto discendente di Chinggis, <term ref="#ulau">Esu Can</term>, laddove l’intera tradizione ha <hi rend="italics">Alton </hi>/ <hi rend="italics">Alcon</hi> (&lt; (<hi rend="italics">H</hi>)<hi rend="italics">aloon</hi> = <term ref="#ulau">Hülegü</term>) oppure <hi rend="italics">Alau</hi>. <hi rend="italics">Esu</hi>, di eziologia incerta ma certamente erronea, è variante attestata in alcune copie
+         di P (vd. Prašek 1902, p. 54 in apparato), ma non nel cod. riccardiano, che presenta
+         la forma corretta: vd. <ref type="witlink" target="#p-i-54">P I 54 1</ref> «Primus igitur rex <term ref="#tartari">Tartarorum</term> fuit <term ref="#cingis-can">Chinchis</term>, secundus <term ref="#cyn-can">Cui</term>, tercius <term ref="#bathyn-can">Bacui</term>, quartus <term ref="#ulau">Alau</term>, quintus <term ref="#mongu-can">Manguth</term>, sextus <term ref="#cublai-can">Cublay</term> qui modo regnat […]».</p>
+	<p>La seconda parte – «perché egli ereditò […] reggimento» – non trova riscontro letterale
+         in nessuna delle fonti di R, almeno negli esemplari superstiti, ma nella sostanza
+         informativa è tutto sommato coerente con il testo di tradizione. Non è da escludere
+         che Ramusio abbia qui rivisitato in autonomia, senza privarsi di qualche didascalismo
+         (vd. part. <ref type="witlink" target="#r-i-44">R I 44 2</ref>), il dettato dei suoi modelli: vd. <ref type="witlink" target="#l-null-59">L 59 2</ref> «[…] <term ref="#cublai-can">Cublai Kan</term> qui ad presens regnat, et est potentior omnium predecessorum suorum – ymo, quod plus
+         est, si omnes reges et imperatores mundi tam christianorum quam Sarracenorum essent
+         simul, non equarentur potentie istius»; <ref type="witlink" target="#p-i-54">P I 54 1</ref> «[…] <term ref="#cublai-can">Cublay</term> qui modo regnat, cuius potencia maior est quam fuerit omnium prenominatorum .V. predecessorum
+         eius: maius est etiam solius ipsius dominium quam sint simul in unum cuncta regna
+         et dominia christianorum regum et omnium saracenorum, sicut in libro hoc suo loco
+         patebit manifeste»; <ref type="witlink" target="#v-null-36">V 36 1</ref> «[…] Tubeli Chan [<hi rend="italics">sic</hi>], el qual fo el mazor et più possente signor che se trovasse al mondo, chomo per
+         questo nostro libro apertamente mostreremo»; <ref type="witlink" target="#vb-null-55">VB LV 3</ref> «Dapoi <term ref="#cublai-can">Clubai Chan</term>, el qual nel presente tenpo regna, et quella medema possança e ssegnoria èt magiore
+         qualle sia stata chadauno di suo’ antecessori […]» – tutti nel complesso allineati
+         a <ref type="witlink" target="#f-null-68">F LXVIII 2-3</ref> «[…] car, tuit les autres cinq fuissent ensemble, ne auront tant de poïr cum cestui
+         <term ref="#cublai-can">Cublai</term>.  Et encore voç di greingnor couse: que le je voç di que tuit les enperaor dou monde
+         et tous les rois de cristiens et de saraçin ne ont tant poïr ne poroient il fair tant
+         come cestui <term ref="#cublai-can">Cublai</term> Grant Chan poroit il fair, et ce vos mostrerai en nostre livre tout apertemant».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

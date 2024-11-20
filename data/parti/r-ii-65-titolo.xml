@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-65-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-65">
+      <note>
+	<p><ref type="witlink" target="#f-null-148">F CXLVIII</ref> (Ci devise de la cité de <term ref="#cinghianfu">Cinghianfu</term>); <ref type="witlink" target="#l-null-123">L 123</ref> (De civitate <term ref="#cinghianfu">Cinghianfu</term>); <ref type="witlink" target="#p-ii-61">P II 61</ref> (De civitate <term ref="#cinghianfu">Cygianfu</term>), <ref type="witlink" target="#va-null-115">VA CXV 1-2</ref> (De <term ref="#cinghianfu">Cingianfu</term>, ove è doe giexie de cristiani; della zità de <term ref="#tinguigui">Tangigui</term>, dove queli che la prexeno fono tuti morti; et altre cosse); <ref type="witlink" target="#v-null-73">V 73 5-7</ref> (Dela zità de <term ref="#cayngui">Chaichui</term> et di quela de <term ref="#cinghianfu">Giginafu</term>); <ref type="witlink" target="#vb-null-111">VB CXI</ref>; <ref type="witlink" target="#z-null-82">Z 82</ref>.</p>
+	<p>Ramusio costruisce il capitolo ricorrendo a VB e Z. VB rappresenta la fonte principale
+         delle prime tre pericopi, anche se viene abbondantemente collazionato con Z in diversi
+         punti. La combinazione del testo delle due redazioni è particolarmente marcata in
+         par. 4, ma in questo caso il debito più consistente è nei confronti di Z, che viene
+         poi adottato come testo base nell’ultima pericope.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

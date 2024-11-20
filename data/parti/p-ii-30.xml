@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-30</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-30">
+    <head>
+      <hi rend="bold">P, II 30</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-30_2_1" n="1"> Ultra vero civitatem <term ref="#pianfu">Pianfu</term> ad dietas duas est castrum pulcherrimum <term ref="#thaigin">Caycuy</term>, quod edificavit rex quidam Darius nomine, qui hostis fuit regis magni qui Presbiter Iohannes dicebatur; propter loci enim fortitudinem a rege illo parum dampnificari poterat
+         Darius rex ille – super quo Presbiter Iohannes vehementissime tristabatur quod per vim illum regem superare |49b| non poterat. </seg>
+      <seg xml:id="p-ii-30_2_2" n="2">
+         In curia autem ipsius inventi sunt iuvenes septem qui ex condicto promiserunt ei ducturos
+         se ad eum captivum regem <term ref="#dario">Darium</term> supra dictum, quibus ipse magna promisit si premissa ducerent ad effectum. </seg>
+      <seg xml:id="p-ii-30_2_3" n="3"> Qui,
+         simulata causa, discedentes ab eo ad <term ref="#dario">Darii</term> curiam accesserunt, eius se obsequiis offerentes; qui eorum caliditatem advertere
+         nesciens in sui, eos suscepit obsequium. </seg>
+      <seg xml:id="p-ii-30_2_4" n="4"> Per duos annos cordis maliciam perficere
+         nequiverunt; cum igitur rex de ipsis confideret, quadam die illis assumptis cum paucis
+         aliis extra castrum per miliare unum solatii gratia equitavit; tunc proditores illi
+         horam advenisse cernentes excogitate malicie, evaginatis supra eum gladiis, ipsum
+         ceperunt et captivum duxerunt ad Presbiterum Iohannem ut ei fraudolenta fide promiserant. </seg>
+      <seg xml:id="p-ii-30_2_5" n="5"> Qui letatus est valde et in sue magnificencie
+         |49c| signum fecit eum ad animalium custodiam deputari et optime custodiri. </seg>
+      <seg xml:id="p-ii-30_2_6" n="6"> Post
+         duos annos autem, quibus cum pastoribus fuerat, iussit eum rex coram se adduci in
+         regio apparatu, dixitque illi: «Nunc experimento cognoscere potuisti quod tua potentia
+         nichil est quando te in tuo regno capi feci et per duos annos cum peccoribus deputavi,
+         possemque te si vellem occidere nullusque mortalium de manu mea te posset eruere».
+         Ille autem hec omnia humiliter est confessus. Tunc rex <term ref="#prete-gianni">Iohannes</term> ait: «Ex quo respectu mei te nihil esse ore proprio confiteris, ex nunc volo te amicum
+         habere et pro victoria michi sufficit quod te occidere potuissem». </seg>
+      <seg xml:id="p-ii-30_2_7" n="7"> Tradiditque
+         illi equos ac socios qui eum ad suum castruum cum honore duxerunt. </seg>
+      <seg xml:id="p-ii-30_2_8" n="8"> Ille autem
+         quamdiu vixit Presbitero Iohanni honorem exhibuit et in quibuscumque voluit obedivit.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

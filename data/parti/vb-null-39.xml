@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-39</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-39">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XXXIX</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-39_1_1" n="1"> <term ref="#lop">‹L›ope</term> si è una gran citade la qual è nel principio del gran deserto chiamato <term ref="#lop">Lopo</term>, el quale è fra grego e levante; et ancho di questa el <term ref="#gran-can">Gran Chan</term> v’è segnore, et adorano Macometo. </seg>
+      <seg xml:id="vb-null-39_1_2" n="2"> Quelli deno passar el diserto se ripossa |237r| per una setemana e fornise de
+         tute vituallie i è bisogno per giornate .XXX. però ch’è tanto stano a passar quel
+         gran deserto per el traversso, ma alla longa non se pò passare per la gran longeça
+         di quello, però che inpossibelle seria portar vituallia suficiente al traverso. </seg>
+      <seg xml:id="vb-null-39_1_3" n="3">
+         Chome ò dito, se chamina per 1o messe de giornate che mai non se trova abitaciun alchuna e senpre per arena e per
+         montagne sterille; et pocha aqua ve se trova: e però conven passar pocha conpagnia,
+         né più de 50 persone all trato, però che non averia aqua a suficiencia. </seg>
+      <seg xml:id="vb-null-39_1_4" n="4"> Non se
+         trova alchuna sorta de animalli per che non àno cho mangiare. </seg>
+      <seg xml:id="vb-null-39_1_5" n="5"> Dicono in questo
+         diserto ve abita molti spiriti i qualli, quando i viandanti passano di note, speso
+         se aldono chiamare per nome; e fano molte fiade deviar viandanti e perischono de fame.
+         </seg>
+      <seg xml:id="vb-null-39_1_6" n="6"> Però che chaminandose la note, chome fano alchuna fiata, qualche uno riman de
+         drieto per qualche suo bisogno, e quel tal se aldirà chiamare per nome vien de qui,
+         e lui, credendo sia i conpagni, vano alla via dela voce e trovassi abandonato dala
+         conpagnia: e sollo nel deserto, non sapendo andar a trovar la conpagnia, perise da
+         fame. </seg>
+      <seg xml:id="vb-null-39_1_7" n="7"> Alchuna fiada, i sentirano a modo de inpeto de giente in alltra parte e
+         quei, credendo el sia la conpagnia soa, se ne vano verso dove senteno l’inpeto dela
+         chavalchata: et fatto el giorno, se trovano da questi spiriti per simel et altri modi
+         gabati, et molti insienti di questi spiriti ne fono mal chapitati. </seg>
+      <seg xml:id="vb-null-39_1_8" n="8"> Alchuna volta
+         s’è trovatto de giorno qualche uno drieto i conpagni rimasto, buteràsse i spiriti
+         in forma di conpagni e, credendo essere quelli con i conpagni, i deviano del chamino
+         e possa i llasa solli nel deserto e perischono. [9] È meravegiosa cossa ad udire quelle
+         chosse fano questi spiriti, che sono dificille a credere, ma pure è chome ò dito,
+         e molto più mirabelle. [10] E n’è stati ancho de quelli che chaminando questi spiriti
+         se àno meso in forma de oste e con inpeto sono venuti versso i caminanti i qualli,
+         credendo siano giente robatori, se àno meso a fugire: e deviati dai ssentieri, non
+         àno poi saputo ritrovar la via, per esser el diserto anplissimo, e ssono di fame periti.
+         [11] E però chi non sono ben aveduti de questi ingani, chapitano malle e per questo
+         con gran pericollo ve se chamina.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-39-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>La brevità del resoconto e la parziale sovrapponibilità di certe espressioni («stando
+         constante e ostinato di non voler lasciar la fede cristiana» / «constanti animo in
+         fide Domini perseverans»; «fece circuncidere» / «circumcidi mandavit»; «in dispregio
+         del re d’Abiscini» / «in despectum fidei christiane et sui regis <term ref="#abascia">Abascie</term>») rendono plausibile che in questa pericope Ramusio sia tornato su P III 44 3 «Episcopus vero constanti animo in fide Domini perseverans voce sponte se obtulit
+         moriturus ante quam a fide Christi et caritate deficeret: tunc <term ref="#soldan">soldanus</term> <term ref="#adem">Aden</term> ipsum circumcidi mandavit in despectum fidei christiane et sui regis <term ref="#abascia">Abascie</term> qui christianus erat» (adattamento di VA CLI 12-13 «El veschovo respoxe ch’el se laserìa avanti alzider che el negasse la fede de Cristo.
+         El <term ref="#soldan">soldan</term>, aldando le parolle del veschovo, fo molto turbato e chomandò che ’l veschovo fosse
+         zirconzixo in despeto de la fe’ cristiana e del suo signior, che era cristian, e poi
+         lo lassò andar cusì zircozixo»). Anche la narrazione di VB CLXIII 13-14 è caratterizzata dalla <hi rend="italics">brevitas</hi>, ma la sua forma discorsiva è meno soddisfacente: «[…] el veschovo, non temendo di
+         manaçe né ancho de morte, desponendosi piutosto morir che renegar la fede cristiana
+         e farse saracino, stete nella fede costantissimo. El segnor de <term ref="#adem">Aden</term>, vedendo la constancia del santo veschovo, che le manaçe dila morte non el moveva,
+         fece quello per força retaiar, çoè circoncider, et dapoi quello lasò». </p>
+	<p>F CXCII 9-11 si caratterizza per una narrazione più distesa («Celui li dit que il se laierait
+         avant occire que il ce feisse. Quant le <term ref="#soldan">soudam</term> oï la respo‹n›se a celui evesqeve, il le tient a despit e comande que il soit retailés.
+         Adonc fu pris l’evesque por ce por maint omes, e le retailent a la mainere des saraçinz.
+         Et quant il li ont ce fait, le <term ref="#soldan">soudan</term> li dit que celle vergo‹g›ne le avoit fait fare por despit e por onte del roi son
+         sengnor. Et aprés ceste paroille, il le laisse alere. Et quant l’evesque ot receu
+         celle vergongne, il a grant dol{o}; mes d’une cousse se conforte il, car il dit que
+         ce avoit il receu por la cristiene loy, e dit que por ce le Seignor Deu li rendera
+         bon merite a sa arme en l’altre secle»), che è fedelmente ripresa da Z 126 25-30 («Qui respondit quod potius mori volebat quam eius fidem presumeret denegare. Cum
+         vero <term ref="#soldan">soldanus</term> eius responsum audivit, in magnum habuit despectum et precepit quod esset circumcisus.
+         Fuit captus episcopus a multis hominibus qui ipsum circumciserunt, ad modum sarracenorum.
+         Et cum hoc egissent, tunc <term ref="#soldan">soldanus</term> dixit quod illam verecundiam ei fieri fecerat in dedecus et despectum regis sui domini.
+         Et post hec verba, ipsum dimisit discedere. Et cum episcopus hoc dedecus recepisset,
+         doluit ultra modum, sed tamen ortabatur in hoc, quia dicebat quod hoc pro lege christiana
+         receperat et ob hoc Deus meritum bonum anime sue tribuet in alio seculo»), e da V 108 15-17 («Et quando el <term ref="#soldan">Soldan</term> de <term ref="#india">*India</term> [<hi rend="italics">sic</hi>] sape che questo veschovo iera christian et messo del gran re de <term ref="#abascia">Abasa</term>, subito lo ’l fe’ prendere, et domandò s’el era christian; el qual veschovo disse
+         de sì; allora el <term ref="#soldan">Soldan</term> disse s’el non chrederà alla leze de <term ref="#macometto">Machometo</term> lo i farà dano e vergogna; el qual respoxe ch’el era chontento de morir cha far questo.
+         Et quando el <term ref="#soldan">Soldan</term> aldì questa resposta de questo veschovo l’ave molto in despeto, et chomandò ch’el
+         fosse prexo e ligado al muodo de Saraxin; et chomandò che li fosse fato quella vergogna
+         che far se podesse. Et fato che i ebe questo i lo lasò andar; et quando el veschovo
+         ave rezevudo questo se turbò molto, e d’una chossa el se chonfortava: ch’el avea rezevudo
+         questo per la fede christiana, e che per questo Dio i renderà merito al’anema soa
+         in l’altra vita»). Quanto a L 181 2 vedi la nota a <ref type="witlink" target="#r-iii-39">R III 39 10</ref>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-14-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-14">
+      <note>
+	<p>F CLXVII (Ci devise dou roiame de <term ref="#dragoian">Dagroyan</term>); P III 17 (De regno <term ref="#dragoian">Dragoiam</term>. Capitulum XVII), VA CXXXI (Del regniame de <term ref="#dragoian">‹Da›groian</term>, ove s’alzide l’infermi); <ref type="witlink" target="#z-null-101">Z 101</ref> (Hic naratur de regno <term ref="#dragoian">Dagroyan</term>);  L 154 (De regione <term ref="#dragoian">Dagroyan</term>); V 87 23-28 (Del’ixola de <term ref="#giava">Iana Menor</term>); VB CXXXVII.</p>
+	<p>La forma dell’espressione indica in Z il modello verosimilmente utilizzato da Ramusio
+         nella stesura del capitolo. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

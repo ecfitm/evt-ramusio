@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-24</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-24">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 24</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-24_2_1" n="1"> <term ref="#balaxiam">‹B›alesian</term> è una provinzia; e la zente dela dita adora <term ref="#macometto">Machometo</term>; et sono uno grandissimo regno, e vano de riedo in riedo, zoè che tuti li re desendudi
+         de re <term ref="#alessandro">Alesandro</term> e de so moier, che fo fia de re <term ref="#dario">Dario</term> re de <term ref="#persia">Persia</term>, et tuti queli che sono re dela dita, in la lor lengua sono chiamadi “<term ref="#zulcarnen">Churzanen</term>”, che vien a dir “re <term ref="#alessandro">Alesandro</term>”. </seg>
+      <seg xml:id="v-null-24_2_2" n="2"> Et in questa provinzia nasse pietre prezioxe che nome <term ref="#balassi">balasi</term>, ed è molto beli e de gran valor, et nasse in su gran monti, et quando queli li vol
+         chavar, lor fano gran chave, al modo che se chava l’oro e l’arzento; e questo se fano
+         in su uno gran monte che à nome <term ref="#sicinan">Sulivera</term>. </seg>
+      <seg xml:id="v-null-24_2_3" n="3"> E lo re dela dita provinzia li fa chavar per lui, et nesun altro non hossa là
+         andar a chavar, soto pena dela testa. </seg>
+      <seg xml:id="v-null-24_2_4" n="4"> Et questo re manda ’sti <term ref="#balassi">balasi</term> a re e a prinzipi e gran signori per trabuto, e ad alguni in chanbio de oro e de
+         arzento, e però lo re non vol che nesun ne chava, azò lo li possa vender gran priexio;
+         che se altri ne chavasse e portasse per el mondo li non saria di tanto priexio. </seg>
+      <seg xml:id="v-null-24_2_5" n="5">
+         Et anchora in questa provinzia nasse in uno altro monte i safili, e chàvasse al modo
+         se fano li <term ref="#balassi">balassi</term>; et anchora in questa nase l’azuro, e chavase deli monti |25v<hi rend="italics">|</hi> chomo se fano l’oro e l’arzento, ed è lo mior azuro che sia al mondo; et sono anchora
+         in ’sta provinzia monti deli qual se traze arzento in quantitade. </seg>
+      <seg xml:id="v-null-24_2_6" n="6"> Ed ezian nasse
+         in la dita boni chavali che sono boni choridori e non porta li piedi feradi, ma chontinuamente
+         sta per monti. </seg>
+      <seg xml:id="v-null-24_2_7" n="7"> Et anchora in queli monti nasse falchoni molto boni, e trovasse
+         de molti oxeli volativi et anemali in gran quantitade. </seg>
+      <seg xml:id="v-null-24_2_8" n="8"> Et trovasse molto formento
+         e orzo. [9] Et in questo reame sono molto streti passi e forte luogi, sì che nesun
+         non li puol far dano. [10] E le vestimente de questi, el forzo sono de chuoro de anemali,
+         et le done de ’sto paixe porta mudande chomo i omeni, et in queste mudande vano per
+         una ben quaranta braza di pano de <term ref="#bambagio">banbaxo</term>, e fale chrespade intorno, e questo fa per mostrar grosse nadege, perché li lor homeni
+         se deleta aver femene che abia gran nadege. [11] Or lasseremo questo e diremo de una
+         zitade la qual sono inverso mezodì, ed è lonzi da questa provinzia diexe zornade.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-20</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-20" n="1">
+    <head>
+      <hi rend="bold">R, I 20</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-20_1_1" n="1"> Come da <term ref="#cobinam">Cobinam</term> si va per un deserto de otto giornate alla provincia di Timochaim nelle confine della <term ref="#persia">Persia</term> verso tramontana, et dell’Alboro del Sole, che si chiama l’Alboro Secco<hi rend="italics">, </hi>et della forma de’ frutti di quello. Cap. 20.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-20_2_1" n="1"> Partendosi da <term ref="#cobinam">Cobinam</term> si va per un deserto di otto giornate, nel qual è gran siccità, né vi sono frutti
+         né arbori, et l’acqua è ancho amara, onde i viandanti portano seco le cose al vivere
+         necessarie; nondimeno le bestie loro per la gran sete le fanno per forza bere di quell’acqua,
+         imperoché meschiano farina con quell’acqua et bellamente le inducono a bere. </seg>
+      <seg xml:id="r-i-20_2_2" n="2"> Et in capo delle otto giornate si trova una provincia nominata Timochaim, la quale è posta verso tramontana ne’ confini della <term ref="#persia">Persia</term>, nella quale sono molte città et castelli. </seg>
+      <seg xml:id="r-i-20_2_3" n="3"> Vi è anchora una gran pianura nella qual vi è l’Albero del Sole, che si chiama per i christiani l’Albor Secco, la qualità et conditione del quale è questa: è uno arbore grande et grosso, le cui
+         foglie da una parte son verdi, dall’altra bianche, il quale produce ricci simili a
+         quelli delle castagne, ma niente è in quelli, et il suo legno è saldo et forte, di
+         color giallo a modo di busso; et non vi è appresso arbore alcuno per spatio di cento
+         miglia se non da una banda, dalla qual vi sono arbori quasi per dieci miglia, et dicono
+         gli habitanti in quelle parti che quivi fu la battaglia tra <term ref="#alessandro">Alessandro</term> et <term ref="#dario">Dario</term>. </seg>
+      <seg xml:id="r-i-20_2_4" n="4"> Le città et castelli abondano di tutte le belle et buone cose, perché quel paese è
+         di aere non molto caldo né molto freddo, ma temperato. </seg>
+      <seg xml:id="r-i-20_2_5" n="5"> La gente osserva la legge di <term ref="#macometto">Macometto</term>; sono in quelle belle genti, et specialmente donne, le qual a mio giudicio sono le
+         piú belle del mondo.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

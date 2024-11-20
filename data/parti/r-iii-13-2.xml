@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-13-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-13">
+      <note>
+	<p>La soluzione di Ramusio pare l’esito di una crasi tra <ref type="witlink" target="#z-null-100">Z 100 2</ref> «Tramontana hic etiam non videtur, et stelle que sunt in magistro non videntur» (resa
+         di F CLXVI 3 «Et encore vos di qe la tramontaine ne pert. Et encore vos di qe le stoilles dou
+         meistre ne aparent ne pou ne grant») e P III 16 2 «In hoc regno non apparet polus articus qui vulgariter dicitur tramontana, nec etiam
+         ibi apparent stelle Urse Maioris quas vulgariter nominant Currum Magnum» (l’antigrafo
+         – VA CXXX 2 «In questa contrà non par la stella tramontana nì stelle de maistro» – segue F).
+         Gli altri relatori – tranne V 87 17 «[…] zoè la tramontana […]», esito visibile di un testo maltrattato – seguono F:
+         L 153 2 «Et hic similiter Polus Articus non apparet, stelle eciam de magistro nullatenus
+         videri possunt» e VB CXXXVI 3 «In questa contrada la stella del vento a maistro non par niente».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

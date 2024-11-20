@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-36</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-36" n="1">
+    <head>
+      <hi rend="bold">R, I 36</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-36_1_1" n="1"> Della provincia di <term ref="#tanguth">Tanguth</term> et della città di <term ref="#sachion">Sachion</term>, et dei costumi quando nasce loro un figliuolo, et del modo come abbrucciano li corpi
+         d’i morti. Cap. 36.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-36_2_1" n="1"> Quando s’è cavalcato queste trenta giornate pel deserto, si trova una città detta
+         <term ref="#sachion">Sachion</term>, la quale è del <term ref="#gran-can">Gran Can</term>, et la provincia si chiama <term ref="#tanguth">Tanguth</term>. </seg>
+      <seg xml:id="r-i-36_2_2" n="2"> Et <term ref="#idolatri">adorano gl’idoli</term>, et vi sono Turchi et alcuni pochi christiani nestorini et ancho Saraceni, ma quelli
+         che <term ref="#idolatri">adorano gli idoli</term> hanno linguaggio da per sé. </seg>
+      <seg xml:id="r-i-36_2_3" n="3"> La città è tra levante et greco. </seg>
+      <seg xml:id="r-i-36_2_4" n="4"> Non sono genti che vivano di mercantie, ma delle biade et frutti che raccogliono
+         delle lor terre. </seg>
+      <seg xml:id="r-i-36_2_5" n="5"> Oltre di ciò hanno molti monasterii et abbatie, che sono piene de idoli di diverse
+         maniere, alli quali sacrificano et honorano con grandissima riverenza. </seg>
+      <seg xml:id="r-i-36_2_6" n="6"> Et come nasce loro un figliuolo maschio, lo raccomandano ad alcun di detti idoli,
+         ad honor del qual nutriscono un montone in casa quell’anno, in capo del quale, quando
+         vien la festa del detto idolo, lo conducono avanti di quello insieme con il figliuolo:
+         dove sacrificano il montone, et cotte le carni gliele lassano per tanto spatio fino
+         che compino le sue orationi, nelle quali pregano gli idoli che conservino il suo figliuolo
+         in sanità, et dicono che essi idoli fra questo spatio hanno succiato tutta la sustantia
+         o vero sapore delle carni. </seg>
+      <seg xml:id="r-i-36_2_7" n="7"> Fatto questo portano quelle carni a casa, et congregati i parenti et amici con grande
+         allegrezza et riverenza le mangiano, et salvano tutte le ossa in alcuni belli vasi;
+         et li sacerdoti degl’idoli hanno il capo, li piedi, l’interiori et la pelle et qualche
+         parte della lor carne. [8] Similmente questi <term ref="#idolatri">idolatri</term> nella lor morte osservano questo costume, che quando manca alcun di loro che sia
+         di condition che gli vogliono abbrucciar il corpo, li parenti mandano a chiamare gli
+         astrologhi et li dicono l’anno, il giorno et l’hora che ’l morto nacque; quali, poi
+         che hanno veduto sotto che constellation, pianeta et segno l’era nato, dicono in tal
+         giorno el die’ esser abbrucciato. [9] Et se allhora quel pianeta non regna, fanno retener il corpo tal volta una settimana
+         morto et ancho sei mesi avanti che l’abbruccino, aspettando che ’l pianeta gli sia
+         propitio et non contrario, né mai gli abbrucciarebbono fino che gli astrologhi non
+         dicono: «Hora è il tempo». [10] Di sorte che, bisognando tenerlo in casa longamente, per schiffar la puzza fanno
+         far una cassa di tavole grosse un palmo, molto ben congionte et depinte, dove posto
+         il corpo con molte gomme odorifere, <term ref="#canfora">canfora</term> et altre speciarie, gli stroppano le congiunture con pezze et calcina, coprendola
+         di panni di seta. [11] Et in questo tempo che la tengono in casa, ogni giorno gli fanno preparar la tavola
+         con pan, vino et altre vivande, lassandogliela per tanto spatio quanto uno potria
+         mangiare commodamente, perché dicono che ’l spirito, che è ivi presente, si satia
+         dell’odore di quelle vivande. [12] Alcune fiate detti astrologhi dicon alli parenti che ’l non è buon che ’l corpo sia
+         portato per |11v| la porta maestra, perché trovano cause delle stelle o altra cosa
+         che gli è in opposito alla detta porta, et lo fanno portar fuori per un’altra parte
+         della casa, et alle volte fanno rompere i muri li quali guardano a dirittura verso
+         il pianeta che gli è secondo et prospero, et per quella apritura fanno portar fuori
+         il corpo: et se fosse fatto altramente, dicono che gli spirti d’i morti offenderebbono
+         quelli di casa et gli farian danno. [13] Et se accade che ad alcuno di casa gli intravengha qualche male o disgratia o vero
+         muora, subito gli astrologhi dicono che ’l spirito del morto ha fatto questo per non
+         esser stà portato fuori essendo in essaltation il pianeta sotto il qual nacque, o
+         vero che gli era contrario, o vero che non è stà per quella debita parte della casa
+         che si dovea. [14] Et dovendosi abbrucciar fuori della città, li fanno fare per le strade dove l’ha
+         da passar alcune casette de legname con il suo portico, coperte di seta; et quando
+         vi gionge il corpo lo mettono in quelle, ponendoli avanti pan, vino, carne et altre
+         vivande, et cosí fanno fin che giongono al luogo determinato, havendo per opinione
+         che ’l spirito del morto si restauri alquanto et pigli vigore, dovendo esser presente
+         a veder abbrucciare il corpo. [15] Usano ancho un’altra cerimonia, che pigliano molte carte fatte di scorzi de arbori,
+         et sopra quelle dipingono huomini, donne, cavalli, camelli, danari et veste, et quelle
+         abbrucciano insieme col corpo, perché dicono che nell’altro mondo l’haverà servitori,
+         cavalli et tutte le altre cose che son state depinte sopra le carte. [16] Et a tutto questo officio vi sono presenti tutti li stormenti della città, di continuo
+         sonando. [17] Havendo detto di questa, dicasi delle altre città che sono verso <term ref="#maestro">maestro</term>, presso al capo del deserto.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

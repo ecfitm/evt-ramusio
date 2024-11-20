@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-18-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-18">
+      <note>
+	<p>Nella prima parte della pericope («Essi […] pagamento»), R si attiene, seppur con
+         una certa libertà, alla versione del testo di V e di F:<ref type="witlink" target="#v-null-45"> V 45 14</ref> «Et quelli, chomo savi et achorti, li fano pagar de quele tal charte chomo a lor
+         par; et quelli marchadanti tuono volentiera quelle tal monede de charta et quelle
+         dano in pagamento in tute chosse che lor chonpra in li luogi suditi del <term ref="#gran-can">Gran Chan</term>» (<ref type="witlink" target="#f-null-95">F XCV 11</ref> «Et celz doçe sajes homes regardent celes chouses, et ce qe lor semble qu’ele vailent
+         les font paier de celes charte qe je voç ai contés, et les merchaant le prennent mout
+         voluntieres, por ce qe il le metent puis en toutes les chouses qu’il achatent por
+         toutes les teres do <term ref="#gran-can">Grant Sire</term>»). La lezione «pagamento» potrebbe far pensare che R derivi direttamente da V, ma
+         alcune coincidenze con F (R «le tolgono volentieri, perché», F «le prennent mout voluntieres,
+         por ce») suggeriscono che la fonte di R fosse più vicina alla versione francoit. di
+         V. Nella seconda parte del passo («et se sono […] terre»), Ramusio segue la versione
+         di <ref type="witlink" target="#p-ii-21">P II 21 4</ref>, compendiandola nella sezione finale: «[…] que omnia rex per suos officiales emi
+         facit, et de moneta sua solucio fit; si negotiatores sunt de extraneis nacionibus
+         ubi hec moneta non currit, quandoque commutant in alias mercaciones et ad suas deferunt
+         naciones et regiones, propter quod ipsa moneta a nullis negotiatoribus recusatur».
+         Non si danno indizi di contatti di R con la versione, fortemente rimaneggiata, di
+         <ref type="witlink" target="#vb-null-68">VB LXVIII 12-13</ref> «[…] e quelle i stimano e tolle per el segnore e fino pagati chortixe della moneta
+         di carta sença la qual moneta di carta quei marchadanti non potria conprare dele marchadantie
+         del paexe. Et a questo modo chadaun marchadante porta volentieri però che bene i ssono
+         pagati, et di quella moneta i trovano a conprare quello a lloro piaçe et àno subito
+         spacamento e con bon precio e guadagno: e questo è fato anchor per utelle et destro
+         di merchadanti». L omette il passo, mentre Z omette l’intero capitolo.</p>
+	<p>Andrà rilevato che, dopo la parte corrispondente al par. 6, le  altre redazioni recano
+         alcuni paragrafi in cui si parla dei vantaggi derivanti al Gran Can dall’uso della
+         moneta cartacea: <ref type="witlink" target="#l-null-78">L 78 5</ref> «Hac ergo de causa congregat <term ref="#gran-can">Magnus Canis</term> omnem thesaurum: conservat enim aurum, argentum, lapides, margaritas ‹et reliqua
+         cara›, pro eis ‹pre›dictam exhibendo monet‹am»;<ref type="witlink" target="#p-ii-21"> P II 21 5</ref> «Insuper etiam sepe mandat rex in civitate <term ref="#cambalu">Cambalu </term>ut quicumque aurum ‹vel› argentum habent aut lapides pretiosos suis officialibus quam
+         citius exhibere studeant, et eis de moneta illa secundum extimationem debitam providetur
+         quod absque dilatione fit et sine eorum detrimento; sicque eorum indempnitati cavetur
+         et rex potest per hunc modum thesauros infinitos et admirabiles congregare»; <ref type="witlink" target="#v-null-45">V 45 15</ref> «Et li marchadanti li qualli vien in quel luogo duxeno per lo mar domilia miera de
+         bexanti, li qualli vieno tuti pagadi de quelle monede de charta, sì che per questo
+         lo <term ref="#gran-can">Gran Chan</term> àno molto et infinito aver»; <ref type="witlink" target="#vb-null-68">VB LXVIII 14-18</ref> «E sposse fiate fa bandire per tuti suo’ luogi che chadaun che à oro argento pietre
+         preciosse, perle le debia portare alla cecha soa che ben le i serà pagate. E subito,
+         chadauno che se trova avere oro argiento et çoie conprate in alchuna parte o per qual
+         altro modo, subito le porta alla cecha e fige pagate bene et boni precii, né per chosa
+         dil mondo alchuno ardiria star di portare. E per tal modo tutto l’oro et argiento
+         e tute çoie chapitano nele man del segnore pagate di moneda di charte che pocho o
+         nulla a quello costa: e però se ’l dito segnore <term ref="#gran-can">Gran Chan</term> à più horo, argento, çoie che tutto el resto del mondo, niuno se ne meraveia. È segnore
+         de xxxiiii provincie et olltra molte tere et chastelle che niuno e abia alchuna moneta
+         de oro, argiento o çoia alchuna la qual non chapitano in man del segnore e tuto fi
+         pagato di moneta di charta che nulla a lui costa; né mai horo né argento spende in
+         soldo di gente né in alchuna alltra soa spexa ma sollo moneta di charte dela qual
+         ne fa fare quanto a lui piace» (vd. <ref type="witlink" target="#f-null-95">F XCV 12-14</ref> «Et si voç di sanç nulle faile qe, plosors foies l’an, les merchaant aportent tantes
+         chouses que bien vaillent quatre çent miles biçant, et le <term ref="#gran-can">Grant Sire</term> les fait toutes paier de celes charte. Et encore voç di que, plusors foies l’an,
+         vait ‹son› conmandemant por le vile qe tuit celz qe ont pieres et perles et or et
+         argent le doient porter a la secqe dou <term ref="#gran-can">Grant Sire</term>. Et il le font et hi n’aportent ensi grant habundance qe ce est sanç nonbre; et tuit
+         sunt paiés de charte: et en ceste mainere a le <term ref="#gran-can">Grant Sire</term> tout l’or et l’arjent et les perles et les pieres presieuses de toutes sez teres»).
+         Tale parte manca completamente in R.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

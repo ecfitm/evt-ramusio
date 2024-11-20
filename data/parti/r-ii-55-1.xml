@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-55-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-55">
+      <note>
+	<p>Ramusio segue <ref type="witlink" target="#vb-null-101">VB CI 1</ref> «‹L›a provincia del <term ref="#mangi">Manci</term> è lla più nobelle provincia e lla più richa abia tuto el Levante […]». In <ref type="witlink" target="#v-null-67">V 67 14</ref> / <ref type="witlink" target="#v-null-67">V 67 21</ref>, che rispecchia in sostanza il dettato di F, tali informazioni non si leggono all’inizio
+         del capitolo, ma sono riportate nella parte centrale e finale: «[…] et questo fo grando
+         aquistamento, perché in tuto el mondo non iera algun reame che avesse per la mità
+         de questo, perché lo re aveva tanto da spender ch’el iera chossa oltra muodo» / «Or
+         non se poria dir la gran richeza che iera in quel reame» (vd. <ref type="witlink" target="#f-null-138">F CXXXVIII 13</ref> / <ref type="witlink" target="#f-null-138">F CXXXVIII 19</ref> «Et ce fu bien grant conquest, qe en toute le monde ne avoit nul roiame qe la moitié
+         n’ausist de cest, car le roi avoit tant a despendre qe ce estoit merveliosse couse;
+         et si voç dirai aucune des noblité qu’il fasoit» / «Il ne se poroit dir la grant riqesse
+         qe en ceste reingne est»). In P tale passaggio viene omesso. </p>
+	<p>L e Z tralasciano l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

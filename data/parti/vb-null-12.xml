@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-12">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XII </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-12_1_1" n="1"> ‹L›’<term ref="#armenia">Armenia Grande </term>è gran provincia, e principia a una citade che se chiama <term ref="#arcingan">Arcinga</term>: fase lì finissimi <term ref="#bochassini">bocharani</term> et àno finissimi bagni de aqua sorçente. </seg>
+      <seg xml:id="vb-null-12_1_2" n="2"> Sono per la maor parte tuti Armini,
+         sotoposti però ai <term ref="#tartari">Tartari</term>. </seg>
+      <seg xml:id="vb-null-12_1_3" n="3"> Et àno molte bone citade e chastelli ma la mior è <term ref="#arcingan">Arcinga</term>: ène arciveschovi e †solanti† e <term ref="#argiron">Argiron</term> e <term ref="#darzizi">Argici</term>. </seg>
+      <seg xml:id="vb-null-12_1_4" n="4"> Et è molto grande provincia, nela qual per la più parte vi dimora l’oste del
+         <term ref="#tartari">Tartaro</term> nel’instade (per i boni pascholi ve sono) ma l’inverno non per le gran fredure. </seg>
+      <seg xml:id="vb-null-12_1_5" n="5">
+         In questa provincia è l’archa di Noè, chome fi dito, sopra una montagna la qualle
+         confina inver meçodì. </seg>
+      <seg xml:id="vb-null-12_1_6" n="6"> Inver levante è una citade e reame chiamato <term ref="#moxul">Monsul</term>, nela qual abita cristiani, dela qualle più avanti ve se dirà, dela qual qui solo
+         tocheremo. </seg>
+      <seg xml:id="vb-null-12_1_7" n="7"> Ai confini de <term ref="#zorzania">Çorçens</term> è una fontana la qual buta un licor a modo de ollio, non però bon da mançar, ma è
+         bon da ardere; et ène in tanta quantità che tute quelle contrade circhuncircha non
+         ardeno altro che de licor over ollio de quella fontana.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

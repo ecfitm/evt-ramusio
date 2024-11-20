@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-15-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-15">
+      <note>
+	<p>Nonostante la lezione toledana non corrisponda <hi rend="italics">verbatim</hi> al testo di R (vd. Z 14 4 «Si vero aliquem mercatorem alienigenam ibi mori contingat, dominus terre totum eius
+         thesaurum sibi accipit et reponit»), alcune strette coincidenze lessicali certificano
+         la dipendenza di R da Z: <hi rend="italics">dominus terre</hi> &gt; <hi rend="italics">signor della terra</hi>, <hi rend="italics">reponit</hi> &gt; <hi rend="italics">riponlo</hi>, <hi rend="italics">thesaurum</hi> &gt; <hi rend="italics">tesoro</hi>.</p>
+	<p>L’intera tradizione è qui sostanzialmente conforme al dettato di <ref type="witlink" target="#f-null-36">F XXXVI 9</ref> («Et se aucun mercaant d’autre païs hi morent, le roi prent tout son avoir»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

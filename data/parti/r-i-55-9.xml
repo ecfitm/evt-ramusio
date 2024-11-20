@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-55-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-55">
+      <note>
+	<p>Nella descrizione della mandria di cavalli e della libagione celebrata con il loro
+         latte, che costituisce il contenuto dei 9-12, R pare dipendere ancora un volta da
+         Z, giacché rispecchia grosso modo le linee di <ref type="witlink" target="#f-null-74">F LXXIV 19-23</ref> «[…] il est voir que il a un ‹a›raz de chevaus blance et de jumentes blances come
+         noif, sanç nulz autres coleur, et sunt grandissmes quantité, ce est qu’il hi a plus
+         de .Xm. jomentes et le la‹i›t de ceste jumente blance n’en oç boire nulz se ne celz que
+         sunt dou lengnages de l’enperio, ce est de legnages de <term ref="#gran-can">Grant Kaan.</term> Bien est il voir que un autre jenerasion de jens en puet bien boir, ce su‹n›t appellés
+         <term ref="#boriat">Horiat</term>, et cest honor done elez <term ref="#cingis-can">Cinchins Can</term> por une vitorie qu’il firent con lui jadis. Et si voç di que quant ceste bestes blances
+         vont pasant, l’en fait elz si grant reverence que, se un grant seingnor hi passast,
+         ne paseroit por mi ceste beste, mes atendroit tant qu’eles fuissent passé ou il aleroit
+         tant avant qu’il l’aroit passee. Et les astronique et les <term ref="#idolatri">ydres</term> ont dit au Grant Chan que de ceste lait doie espandre chascun an a{s} les .XXVIII. jors d’aost por l’air
+         et por les terres, por coi les espirt en aient a boir: e les ydres espirt, por ce,
+         que il li sa‹u›vent toutes sez couses, homes et femes, bestes, osiaus, bles, et toutes
+         autres chouses. Et d’iluec se part le <term ref="#gran-can">Gran Can</term> e vait a un autre leu».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

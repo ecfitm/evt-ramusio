@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-22-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-22">
+      <note>
+	<p>In testa e in coda, la pericope rispecchia <hi rend="italics">verbatim</hi> il dettato di <ref type="witlink" target="#z-null-18">Z 18 1</ref> «Cum ab isto castro disceditur, equitatur per pulcram planiciem et vales et colles;
+         et durat ista contrata bene circa .VI. dietas».</p>
+	<p>La sezione centrale segue da vicino <ref type="witlink" target="#v-null-22">V 22 1</ref> «[…] molte choste de montagne in le qual sono erbazi, pascholi e molti fruti in gran
+         abondanzia, e per questa abondanzia lo exerzito de <term ref="#ulau">Lau</term> Signor stano in quel luogo volentiera», che offre un’informazione originale a proposito
+         dell’esercito di <term ref="#ulau">Hülegü</term>, dettagliando un più generico spunto di  <ref type="witlink" target="#f-null-43">F XLIII 2</ref> «[…] la ou il a biaus herbajes e bon pascor et fruit aseç, et de toutes coses en
+         grant abundance; et les ost hi demorent voluntieres por le grant plantee qui hi estoient».
+         Si tratterebbe di una delle rare presenze di V nella filigrana di R, anche se non
+         si può escludere che questa porzione testuale, assente nel toledano, non mancasse
+         a Z1, e che V riproduca la situazione di un modello (latino?) non dissimile.</p>
+	<p>Gli altri relatori. Concordano nel tacere il dettaglio sugli eserciti <ref type="witlink" target="#l-null-36">L 36 1</ref> «Recedendo ab hoc supradicto castro itur per pulcras planicies et valles et colles,
+         ubi optima sunt pascua et fructus in maxima habundantia, et reliqua necessaria; et
+         durat hec contrata bene sex dietis […]», e <ref type="witlink" target="#p-i-30">P I 30 1-2</ref> «Post di‹s›cessum de loco prefato, invenitur regio pulcra, colles habens et planicies
+         et pascua optima multosque fructus, que et in omnibus victualibus fertilis est [...]
+         Longitudo vero regionis illius protenditur ad dietas sex» (sostituito, in P, dall’anticipo
+         della pericope sull’attraversamento del deserto di cinquanta miglia, che negli altri
+         relatori poco oltre: vd. <ref type="witlink" target="#r-i-22">R I 22 3</ref>). VB elimina l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

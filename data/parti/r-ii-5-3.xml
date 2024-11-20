@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-5-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-5">
+      <note>
+	<p>La fonte di R doveva seguire piuttosto fedelmente il dettato di <ref type="witlink" target="#f-null-82">F LXXXII 6</ref> «Et sachiés qe le <term ref="#gran-can">Grant Kan</term> a encore bien .XXV. autres filz de ses amies que sunt bones et vailanz d’armes et
+         chascun est grant baron». Si noti che la frase «perché [...] guerra» non figura in
+         nessun’altra testimonianza poliana. Le fonti ramusiane che trasmettono il capitolo,
+         recano un testo accorciato (L P) o rimaneggiato (V): <ref type="witlink" target="#l-null-67">L 67 5</ref> «[…] et .XXV. ex concubinis […]»; <ref type="witlink" target="#p-ii-8">P II 8 6</ref> «De ancillis habet <term ref="#cublai-can">Cublay</term> rex .XXV. probos filios valde, qui omnes magni barones sunt»; <ref type="witlink" target="#v-null-41">V 41 16</ref> «Et el <term ref="#gran-can">Gran Chan</term> quando el vien a morte dano dele suo’ chonchubine a suoi fioli mascholi, i qual erano
+         homeni savi e valenti nel’arme, et zaschadun de loro erano gran baron […]». </p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

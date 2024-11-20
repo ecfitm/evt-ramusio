@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>Sul modello di P, R anticipa qui un passaggio che nelle altre redazioni si trova molto
+         più avanti nel capitolo. Per quanto concerne la sostanza testuale, Ramusio si attiene,
+         oltre che a P, a una fonte che doveva essere affine a F:<ref type="witlink" target="#p-ii-41"> P II 41 2</ref> «In hac provincia datur pro moneta aurum ad pondus [R «oro a peso»]; unciam enim
+         seu sagium auri commutant pro quinque unciis seu sagiis argenti [R «un’onza d’oro
+         per cinque onze d’argento, et un sazzo d’oro per cinque sazzi d’argento»]: non enim
+         invenitur in regionibus illis usque ad dietas multas argentum, ideoque conveniunt
+         illuc negotiatores qui cum eis aurum pro argento commutant multumque lucrantur; porcellanas
+         etiam expendunt que de <term ref="#india">India</term> deferuntur»; <ref type="witlink" target="#f-null-119">F CXIX 2-3</ref> «Lor monoie est or, et encore hi se espenent les porcelaines [R «et ancho porcellane»];
+         et si voç di por verité qe il donent [R «et danno»] un saje d’or por .V. d’arjent;
+         et ce avint por ce qe il ne ont argentier [R «non si trova minera alcuna d’argento»]
+         propes a .V. mois de jornee, et por ce hi vienent les mercaant con mult arjent et
+         le cangient con celles jens et en donent .V. sajes d’arjent por un d’or, et de ce
+         font les mercaant grant profit et grant gaangne» [R «et ne fanno gran guadagni»].
+         In questo punto Z toledano appare abbreviato (<ref type="witlink" target="#z-null-58">Z 58 12</ref> «Moneta eorum est aurum, sed expendunt etiam porcelanas»), ma tutto lascia supporre
+         che le lezioni che R condivide con F e non con P risalgano a Z1. </p>
+	<p>Vari dettagli di F condivisi da R si leggono anche in L e in V, ma non ci sono indizi
+         sicuri che Ramusio abbia fatto ricorso anche a questi testimoni:<ref type="witlink" target="#l-null-98"> L 98 7</ref> «Est aurum sua moneta, et porcellane similiter [R «et ancho porcellane»]; dant enim
+         unum exagium auri pro quinque argenti; modicum enim argentum habent, quia non foditur
+         [R «non si trova minera alcuna d’argento»] in partibus istis nisi longe per dietas
+         .V. mensium»;<ref type="witlink" target="#v-null-57"> V 57 7</ref> «La moneda de quelli sono horo, et spendesse porzelane [R «et ancho porcellane»];
+         et dano [R «et danno»] uno sazo d’oro per zinque d’arzento: et questo adevien perché
+         i nonn à arzenti; et zinque mexi de zornade i marchadanti vano lì chon molto arzento,
+         et sì barata chon quelle zente, et dano zinque sazi d’arzento per uno d’oro: et questi
+         marchadanti fano gran guadagno» [R «et ne fanno gran guadagni»]. Sembra, invece, molto
+         improbabile che su R abbia influito <ref type="witlink" target="#vb-null-85">VB LXXXV 6-7</ref> «Àno oro assai; non àno argiento ma marchadanti portano dell’arcento e vende quello
+         saçi vi d’argiento per saço 1° oro e molto meno: per che marchadanti ne fano gran
+         guadagno. Spendeno porçellane per la soa picolla moneda».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

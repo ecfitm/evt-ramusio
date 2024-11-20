@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-32</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-32" n="1">
+    <head>
+      <hi rend="bold">R, I 32</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-32_1_1" n="1"> Della città di <term ref="#cotam">Cotam</term>, et abondanza di ogni cosa necessaria al viver. Cap. 32.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-32_2_1" n="1"> Dapoi si perviene alla provincia di <term ref="#cotam">Cotam</term>, fra <term ref="#greco">greco</term> et levante, la cui lunghezza è otto giornate, et è subdita al <term ref="#gran-can">Gran Can</term>, et quelle genti osservano la legge di <term ref="#macometto">Macometto</term>. </seg>
+      <seg xml:id="r-i-32_2_2" n="2"> Sono in essa molte città et castelli, et la piú nobil città, et dalla quale il regno
+         ha tolto il nome, è <term ref="#cotam">Cotam</term>, la quale è abondantissima di tutte le cose necessarie al viver humano. </seg>
+      <seg xml:id="r-i-32_2_3" n="3"> Vi nasce <term ref="#bambagio">bambagio</term>, lino et <term ref="#canevo">canevo</term>, biada et vino et altro. </seg>
+      <seg xml:id="r-i-32_2_4" n="4"> Gli habitanti hanno vigne, possessioni et molti giardini; vivono di mercantie et
+         di arti, et non sono huomini da guerra. </seg>
+      <seg xml:id="r-i-32_2_5" n="5"> Si è detto di questa provincia, dicasi d’un’altra detta <term ref="#peym">Peym</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

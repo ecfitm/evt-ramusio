@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-118</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-118">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 118</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="z-null-118_2_1" n="1"> <term ref="#canam">Tana</term> est quoddam magnum regnum et bonum versus ponentem. </seg>
+      <seg xml:id="z-null-118_2_2" n="2"> Et inteligatur «versus ponentem»
+         quia tunc dominus Marcus Paulo de versus levantem veniebat, et secundum eius gresus
+         et transitus pertractatur. </seg>
+      <seg xml:id="z-null-118_2_3" n="3"> Illud regnum regem habet et nuli redit tributum. </seg>
+      <seg xml:id="z-null-118_2_4" n="4">
+         Ipsius gentes adorant ydola et loquelam per se habent. </seg>
+      <seg xml:id="z-null-118_2_5" n="5"> Ibi non nascitur piper
+         in magna habundantia, neque alie species prout in aliis provinciis de quibus naravimus
+         supra. </seg>
+      <seg xml:id="z-null-118_2_6" n="6"> Thus ibi nascitur in magna quantitate, et non est album, sed nigrum. </seg>
+      <seg xml:id="z-null-118_2_7" n="7">
+         Ibi quidem fiunt multa mercimonia, et vadunt illuc multe naves et mercatores, |92v|
+         quoniam illinc extrahuntur coria de multis maneriebus, et <term ref="#bochassini">bucherani</term> et <term ref="#bambagio">bombix</term>. </seg>
+      <seg xml:id="z-null-118_2_8" n="8"> Et mercatores qui illuc veniunt portant secum multas res – videlicet aurum,
+         argentum, et ramum et alia mercimonia multa –, et ferunt de mercimoniis illius regni
+         de quibus credunt facere profectum. [9] Exeunt etiam de hoc regno quam plures pyrate
+         qui magnum dapnum mercatoribus inferunt. [10] Et hoc de voluntate regis procedit,
+         quoniam hanc conventionem cum pyratis fecit, videlicet quod pyrate ei debent impendere
+         omnes equos quos capiunt: nam multotiens capiunt ex ipsis. [11] Nam, prout vobis supra
+         retulimus, de equis fiunt multa mercimonia per totam provinciam <term ref="#india">Yndie</term>. [12] Nam mercatores illuc magnam quantitatem ad vendendum portant, et sic pauce
+         naves yn <term ref="#india">Indiam</term> veniunt que equos non portent. [13] Et ob istam causam rex hanc conventionem cum
+         pyratis fecit, ut dent ei omnes equos quos capiunt; et omnia alia mercimonia – videlicet
+         aurum, argentum et lapides pretiosi – sunt pyratarum.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

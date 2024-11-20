@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-33-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-33">
+      <note>
+	<p>L’unica delle fonti di Ramusio che contiene questo passaggio è <ref type="witlink" target="#v-null-52">V 52 6</ref> «In quella nonn è altro da dire, et però se partiremo da questa et anderemo più oltra
+         ad una nobel zitade». Il testo di R presenta però maggiori affinità con la versione
+         che si legge in <ref type="witlink" target="#f-null-109-1-5">F CIX 12</ref> «Et por ce nos partiron de ci et aleron avant et voç conteron d’une noble cité, que
+         est chief de reingne, que est appellés <term ref="#quenzanfu">Quengianfu</term>». Tutto lascia supporre, dunque, che l’editore abbia ricavato questa pericope dalla
+         sua fonte Z1, che risultava più completa di Z toledano e prossima in lezione a F.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

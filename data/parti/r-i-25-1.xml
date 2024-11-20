@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-25-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-25">
+      <note>
+	<p>Ai parr. 1-2 R è del tutto coerente con quanto si legge in <ref type="witlink" target="#f-null-46">F XLVI 2-3</ref> «<term ref="#balaxiam">Balascian</term> est une provence que les gens aorent <term ref="#macometto">Maomet</term> et ont langajes por elz. Il est grant roiames et seroit [<hi rend="italics">da correggere in</hi> *se reit “<hi rend="italics">si regge”? Cfr. Z</hi>] por hereditajes, ce est que de un lingnajes sunt desendu dou roi <term ref="#alessandro">Alexandre</term> et de la file del roi <term ref="#dario">Dayre</term> le grant, sire de <term ref="#persia">Persie</term>, et encore s’apelent tuit celz rois <term ref="#zulcarnen">Çulcarnein</term>, en saraisin lor langajes, que vaut a dire en fransois <term ref="#alessandro">Alixandre</term>, por le amor dou grant <term ref="#alessandro">Alixandre</term>»). </p>
+	<p>La sostanziale sovrapponibilità a F e la corrispondenza letterale con quanto rimane
+         del testo in <ref type="witlink" target="#z-null-21">Z 21 1-3</ref> («<term ref="#balaxiam">Balaxian</term> est provincia quedam, gentes cuius <term ref="#macometto">Macometi</term> legem observant et per se loquelam habent. Magnum quidem regnum est. Per succesionem
+         hereditariam regitur; que progenies a rege <term ref="#alessandro">Alexandro</term> desendit et a filia regis <term ref="#dario">Darii</term> Magni Persarum») certifica che R dipende da uno Z completo (cioè Z1).</p>
+	<p>Soltanto R (sulla scorta di Z1?) informa che la provincia si può attraversare in 12 giornate di cammino. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

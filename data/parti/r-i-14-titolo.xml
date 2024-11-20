@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-14-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-14">
+      <note>
+	<p><ref type="witlink" target="#f-null-35">F XXXV</ref> (Ci devise de la cité de <term ref="#camandu">Comadi</term>); <ref type="witlink" target="#z-null-13">Z 13</ref> / Z 14 22-30; <ref type="witlink" target="#l-null-29">L 29</ref> (De civitate <term ref="#camandu">Camandi</term>); <ref type="witlink" target="#p-i-22">P I 22</ref> (De civitate <term ref="#camandu">Camandu</term> et regione <term ref="#reobarle">Reobarle</term>), <ref type="witlink" target="#va-null-22">VA XXII 5-27</ref> (Della grande desexa et del pian dove è grandisimi boi e moltoni); <ref type="witlink" target="#v-null-20">V 20 7-18</ref> (Del reame de <term ref="#chermain">Ereimain</term>); <ref type="witlink" target="#vb-null-22">VB XXII 10-21</ref>.</p>
+	<p>Ad eccezione di due tessere forse desunte da V e VB (quest’ultima, minima), il capitolo
+         ramusiano pare largamente debitore della lezione di Z, il cui apporto è facilmente
+         inferibile anche <hi rend="italics">in absentia</hi>, laddove il testo di Ramusio, non riconducibile a nessuno degli altri modelli, segua
+         pedissequamente le linee di F.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-46</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-46" n="1">
+    <head>
+      <hi rend="bold">R, I 46</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-46_1_1" n="1"> Del Dio d’i <term ref="#tartari">Tartari</term> celeste et sublime, et d’un altro detto <term ref="#natigay">Natigay</term>, et come l’adorano; et della sorte delli loro vestimenti et armi, et della ferocità
+         loro nel combattere; et come sono patientissimi in ogni disagio et bisogno, et obedientissimi
+         al loro signore. Cap. 46.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-46_2_1" n="1"> La legge et fede de’ <term ref="#tartari">Tartari</term> è tale: dicono esservi il Dio alto, sublime et celeste, al qual ogni giorno col torribolo
+         et incenso non dimandano altro se non buon intelletto et sanità; ne hanno poi un altro
+         che chiamano <term ref="#natigay">Natigay</term>, ch’è a modo di una statua coperta di <term ref="#feltro">feltre</term> o vero di altro, et ciascheduno ne tiene uno in casa sua. </seg>
+      <seg xml:id="r-i-46_2_2" n="2"> Fanno a questo dio la moglie et figliuoli, et pongongli la moglie dalla parte sinistra
+         et li figliuoli avanti di lui, quali pare che li facciano riverenza. </seg>
+      <seg xml:id="r-i-46_2_3" n="3"> Questo dio lo chiamano dio delle cose terrene, il quale custodisce et guarda i loro
+         figliuoli et conserva le bestie et le biade, al quale fanno grande riverenza et honore;
+         et sempre quando mangiano toglieno della parte delle carni grasse, et con quelle ungono
+         la bocca del dio, della moglie et de’ figliuoli; dapoi gettano del brodo delle carni
+         fuor della porta agli altri spiriti. </seg>
+      <seg xml:id="r-i-46_2_4" n="4"> Fatto questo, dicono che ’l loro dio con la sua famiglia ha havuto la parte sua,
+         et poscia mangiano et bevono a lor piacere. </seg>
+      <seg xml:id="r-i-46_2_5" n="5"> I ricchi si vestono di drappi d’oro et di seda et di pelle di <term ref="#zibellino">zibellini</term>, <term ref="#armellino">armellini</term> et <term ref="#varo">vari</term>, et tutti i loro fornimenti sono di gran prezzo et valore. </seg>
+      <seg xml:id="r-i-46_2_6" n="6"> L’arme sue sono archi, spade et mazze ferrate, et alcune lancette, ma con gli archi
+         meglio si essercitano che con l’altre arme, perché sono ottimi arcieri et essercitati
+         da piccolini; et indosso portan arme de cuori de buffali et altri animali, molto grossi,
+         cotti, et per questo sono molto duri et forti. </seg>
+      <seg xml:id="r-i-46_2_7" n="7"> Sono huomini fortissimi in battaglia et quasi furibondi et che poco stimano la lor
+         vita, la qual mettono ad ogni pericolo senza alcun rispetto. [8] Sono crudelissimi et sofferenti di ogni disagio, et bisognando viveranno un mese
+         solamente con latte di cavalle et de animali che pigliano. [9] Li lor cavalli si pascono di herbe, né hanno bisogno di orzo né di altra biada; et
+         stanno armati a cavallo duoi giorni et duoi notte che mai smontano, et similmente
+         vi dormono, et i loro cavalli intanto vanno pascendo. [10] Non è gente al mondo che piú di loro duri affanno et piú pacienti in ogni necessità,
+         obedientissimi alli lor signori et di poca spesa: et per queste parti cosí eccellenti
+         nell’essercitio delle armi, sono atti a soggiogare il mondo, come hanno fatto di una
+         gran parte.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

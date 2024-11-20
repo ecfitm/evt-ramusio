@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-41-13-22</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-41-13-22">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 41 13-22</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-41-13-22_1_1" n="1"> In ista provincia erat principalis sedes <term ref="#prete-gianni">Presbiteri Iohanis</term> quando dominabatur <term ref="#tartari">Tartaris</term> et omnibus aliis circumstantibus provinciis et regnis; et adhuc ibi sedem sui retinent
+         |19v| succesores. </seg>
+      <seg xml:id="z-null-41-13-22_1_2" n="2"> Et iste <term ref="#georgio">Georgi</term> supradictus, post <term ref="#prete-gianni">Presbiterum Iohanem</term> quartum de progenie illa, dominus maior tenetur. </seg>
+      <seg xml:id="z-null-41-13-22_1_3" n="3"> Et locus ubi regnat iste est
+         ille locus quem in patria nostra <term ref="#og-et-magog">Og</term> et <term ref="#og-et-magog">Magog</term> nuncupamus, sed ibidem habitantes appelant <term ref="#ung">Ung</term> et <term ref="#mongul">Mongul</term>. </seg>
+      <seg xml:id="z-null-41-13-22_1_4" n="4"> Et in qualibet istarum provinciarum est una generatio gentis. </seg>
+      <seg xml:id="z-null-41-13-22_1_5" n="5"> In <term ref="#ung">Ung</term> sunt <term ref="#og-et-magog">Gog</term> et in <term ref="#mongul">Mongul</term> manent <term ref="#tartari">Tartari</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="z-null-41-13-22_2_1" n="1"> Cum vero equitatur per istam provintiam .VII. dietis eundo per levantem versus
+         <term ref="#cataio">Cathay</term>, inveniuntur multe civitates et castra, in quibus gentes <term ref="#idolatri">adorant ydolla</term>; alique <term ref="#macometto">Machometi</term> legem adorant et aliqui sunt christiani turchi nestorini. </seg>
+      <seg xml:id="z-null-41-13-22_2_2" n="2"> Vivunt de mercimoniis
+         et artibus. </seg>
+      <seg xml:id="z-null-41-13-22_2_3" n="3"> Gentes ille sunt subdite <term ref="#gran-can">Magno Can</term>. [21] Est quedam civitas nomine <term ref="#sindicin">Syndicui</term>, in qua fiunt artes de omnibus rebus et muniminibus ad exercitum pertinentibus. [22]
+         Et in montibus istius provincie est quidam locus nomine <term ref="#idifa">Ydifu</term>, in quo est optima argentera, in qua quidem foditur argentum in maxima quantitate.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

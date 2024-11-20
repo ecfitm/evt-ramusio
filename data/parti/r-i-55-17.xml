@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-55-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-55">
+      <note>
+	<p>Nella descrizione del prodigio delle brocche semoventi Ramusio integra il testo di
+         tradizione (vd. <ref type="witlink" target="#f-null-74">F LXXIV 29</ref> «Je voç di que quant le <term ref="#gran-can">Grant Kaan</term> siet en sa mestre sale a sa table, qui est aut plus des .VIII. coues, et les coupes
+         sunt emi le paviment de la sale, longe de la table bien .X. pas et sunt plene de vin
+         et de lait ou d’autres buen bevrajes, et ceste sajes encanteors que je voç ai dit
+         de sovre, qe <term ref="#bachsi">Bacsi</term> sunt només, il font tant por lor encantemant et por lor ars que celes coupes pleinnes
+         por lor meesme se levent dou paviment ou elle estoient et s’en vont devant le <term ref="#gran-can">Grant Kan</term> sanç qe nulz ne les toucent, et ce font voiant .Xm. homes») con un minimo dettaglio – quello relativo alla presenza, nella sala da pranzo,
+         di una «credentiera» per le brocche – desunto senz’altro da <ref type="witlink" target="#vb-null-66">VB LXVI 12-13</ref> «[…] et per meço ge al suo modo una credenciera, sopra la qual v’è le chope d’ariento
+         con le bevande del segnore: e quando el segnore vol bere, questi suo’ savi negromanti,
+         per loro arte fano andare la copa dela bevanda per si solla non tocha d’alchuno fino
+         alla mensa del segnore. Et questo è certo però che, in presencia de molti stano ala
+         mensa del segnore, questo ogni dì fi fato». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

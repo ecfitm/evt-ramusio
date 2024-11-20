@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-20</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-20">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 20 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-20_2_1" n="1"> <term ref="#chermain">‹E›remain</term> sono uno reame che hè in <term ref="#persia">Persia</term>, et antigamente quela signoria andava de riedi in riedi, ma dapuo’ che ’l <term ref="#tartari">Tartaro</term> sotomesse quel reame, queli non signorizò, ma el <term ref="#tartari">Tartaro</term> mandava signori del so paexe e queli signorizava. </seg>
+      <seg xml:id="v-null-20_2_2" n="2"> Et in questa zitade se lavora
+         perfetamente de tuti i fornimenti segondo la lor uxanza, et le done e donzele lavora
+         degnamente chon ago sopra li drapi de seda, et fano bestie e oxeli suxo queli d’ogni
+         cholor, et simelmente choltre e chortine et chussini sotilmente. </seg>
+      <seg xml:id="v-null-20_2_3" n="3"> Et in li monti
+         de quela patria nasse falchoni li mior del mondo, i quali sono mior cha falchoni pelegrini,
+         et vola forte che nesun oxelo non li può chanpare davanti. </seg>
+      <seg xml:id="v-null-20_2_4" n="4"> Et partandosse da questa
+         zitade de <term ref="#chermain">Tremain</term> el se chavalcha per nuove zornade, onde se trova molti chasteli, zitade et abitazion,
+         ed è bon chavalchar; et possa se trova una pianura, et chavalchando per questa pianura
+         per oto zornade el se trova una gran desmontada in la qual se chavalcha do zornade,
+         et senpre se va in zoxo. </seg>
+      <seg xml:id="v-null-20_2_5" n="5"> Et trovasse de boni fruti in gran bondanzia. </seg>
+      <seg xml:id="v-null-20_2_6" n="6"> Et per
+         antigo tempo in quela via iera abitazion, et ora li pastori stano in queli luogi per
+         paser i suo’ animali; e a questa desmontada sono gran fredo et l’inverno li omeni
+         chonvieno portar de molte vestimente e pelle, onde che molti non |20r<hi rend="italics">|</hi> puono chanpar che non muora. </seg>
+      <seg xml:id="v-null-20_2_7" n="7"> Et siando desmontade queste do zornade el se trova
+         una gran pianura, et al chomenzamento de questa pianura se trova una zitade ch’à nome
+         Chamandin, la quale per antigo tempo iera granda e molto nobele oltra muodo, ma hora nonn è
+         chussì granda perché <term ref="#tartari">Tartari</term> molte fiade li à fato gran dano. </seg>
+      <seg xml:id="v-null-20_2_8" n="8"> In la pianura sono molto chaldo, et la provinzia
+         dela qual nui chomenzassemo a parlar è chiamata <term ref="#reobarle">Erchobant</term>, et li suo’ fruti sono datali e pome del paradixo, et sono molti altri fruti li quali
+         non se trova in ’ste parte per el gran fredo. [9] Et in questa pianura se trova una
+         zenerazion de oxeli li quali sono chiamati francholini, ch’è simele ali falchoni dele
+         altre parte, et sì è negri e bianchi mesedadi, ed à el becho negro; et le altre bestie
+         è simele ale nostre. [10] Li buò sono molti grandi e tuti bianchi chomo neve, ed à
+         uno pelo pizolo e baso, e questo sono per el chaldo grando; ed à le chorne churte
+         e grosse, et nonn à onge, et ale spalle à uno gobo groso do palma; al veder someiâ
+         ganbeli, e queli vien chargadi et metese zoxo e poi se lieva chomo fano i ganbeli,
+         et porta chargo oltra muodo perché i sono forti. [11] Anchora se trova chastroni grandi
+         chomo axeni, li quali àno la choda tanto grasa che pexa più de trenta livre grosse,
+         ed è molti boni da manzar. [12] Et in questa pianura sono molti chasteli e zitade
+         le qualle àno i muri de tera grosi e alti per defenderse dali robadori li quali schore
+         tuta la patria; e questi vien chiamati <term ref="#caraunas">Charaunas</term> perché le madre fo d’<term ref="#india">India</term> et li suo’ padri fo <term ref="#tartari">Tartari</term>. [13] Et quando questa zente vuol schorer e robar tuta la patria, elli fano per arte
+         diabolicha tuto el zorno esser schuro, |20v<hi rend="italics">|</hi> che puocho lutan se puol veder; et dura questa schuritade ben oto zornade per quela
+         pianura. [14] Et fato questo i vano per quela pianura chavalchando l’uno apreso l’altro,
+         molti in chonpagnia, e partese in molte parte; et per questo modo lor tien tuta la
+         pianura, et tuti queli che li trova vieno prexi, et nesun homo ní animal non li può
+         schanpare; et quando i prende algun omo vechio i lo alzide, e li zoveni vende. [15]
+         Lo re de questi vien chiamado <term ref="#nugodar">Negodar</term>, et questo una volta andò ala chorte de <term ref="#zagathai">Agati</term>, fradelo del <term ref="#gran-can">Gran Chan</term>, chon diexemilia omeni dela so zente, et stete chon elo perché lui era so barba.
+         [16] Et stando questo <term ref="#nugodar">Negodar</term> chon questo suo’ barba, uno zorno questo se partì da ’sto so barba <term ref="#zagathai">Agati</term> chon diexemilia homeni dela so zente quali erano molto chrudelissimi. [17] Senza
+         alguna providenzia pasò per Sobasain, per la provinzia de <term ref="#chesmur">Chisuamor</term>, et prese molta zente e animali; et abiando passati questa provinzia che à nome Dilivra,
+         tolse quele zitade <term ref="#dely">Delivra</term>, et romaxe in quela, e tolse el reame de uno che avea nome <term ref="#asidin-soldano">Asendi Soldan</term>, el quale era molto richo e possente; et chon quela zente romaxe in quel luogo et
+         feva guera a tute persone zirchostante al muodo ve ò dito di sopra, ché lui non temeva
+         alguna persona. [18] Onde ve dicho che pocho manchò che non fosse prexo misier Marcho
+         Polo da questa zente in ’sta pianura, ma el schanpò in uno chastelo chiamato <term ref="#consalmi">Chansolmin</term>, mo alguni deli so chonpagni fo prexi e vendudi et altri ne fo morti. [19] Et questa
+         pianura che ve ò dito dura ben zinque zornade verso mezodì, et in chavo de queste
+         zinque zornade se trova un’altra desmontada, et bexogna andar per questa desmontada
+         vinti mia per male e pessime vie, et là se trova molti robadori, |21r<hi rend="italics">|</hi> sì che quela via sono molto dubioxa; et dapuo’ questa desmontada se trova una pianura
+         molto bela, e quela vien apelada <term ref="#ormus">Pianura Belissima</term> e dura ben do zornade per longeza. [20] Et sono in quela molti datali, et trovasse
+         molti francholini e papagà et molti altri oxeli li qualli non someia ali nostri. [21]
+         Et chavalchando queste do zornade el se trova el Mar Ozean, et sopra la riva de quel mar sono una zitade chiamata <term ref="#ormus">Eromos</term>, ala quale li marchadanti d’<term ref="#india">India</term> vieno chon le suo’ nave piene de spezie e de altre marchadantie, zoè pietre prezioxe
+         e denti de lionfanti, drapi d’oro e de seda e de altri diversi cholori; et queli vende
+         tute dite robe in quela zitade, et queli dela zitade portano per lo mondo. [22] E
+         la dita zitade sono in chavo del regno chiamado <term ref="#ruchmedin-achomach">Achomat</term>, ed è gran tera ed è molto inferma, et se algun marchadante d’altre parte more in
+         quela, tuto el suo’ aver sono delo re. [23] Et in questa tera se fano vin de datali
+         chon altre spezie ed è molto buono, et quando queli beve quelo vin si fa andar di
+         soto, et fali molta charne. [24] Et non uxa li nostri zibi, et se li manzasse pan
+         de formento e charne, eli se infermerave; e per esser più sani li manza datali e pesse
+         insalado, zoè toni e zievali, et queste chosse manzali per esser più sani. [25] E
+         le lor nave non sono fite chomo le nostre, ma sono uno fillo che lor fano del schorzo
+         dele <term ref="#noci-dindia">nogere d’India</term>, et falo masenar et poi filar chomo la seda et chon quelo i sera le lor navilia,
+         et vano chon queli a peschare, onde ne perisse assai; et queste suo’ nave àno uno
+         alboro e una vela e uno timon e nonn à choverta, et quando i le charga de marchadantie
+         fano la choverta de chuorame, e puo’ mete queli chavali suxo lo chuorame, queli che
+         lor porta d’India per vender. [26] E la chaxon perché li non ficha chon agudi le suo’
+         nave |21v<hi rend="italics">|</hi> sì sono perché lo legname sono tenero, che fichandolo el se ronperave; ed inperò
+         li fano agudi de legno et chon queli i le fichano, et sono pericholoxe a navegar per
+         lo <term ref="#mare-dindia">Mar d’India</term> il quale fano di gran fortune, et molte de quele nave perise. [27] E la zente dela
+         dita tera sono negra e adora <term ref="#macometto">Machometo</term>. [28] Et in la dita zitade per tuto l’instade la zente non puol abitar in quela per
+         el gran chaldo che sono, che tuti morirave, ma vano di fora ali lor zardini. [29]
+         E lì sono de molte aque, et anchora non poria schanpare s’el non fosse che tuto l’instade
+         regna uno vento che vien dala riva de sabion ch’è intorno la pianura, el qual tien
+         tuto quel paexe frescho; et quando chomenza el dito vento, quela zente se mete in
+         aqua, et se li non fesse chusì, i non poria viver per quel chaldo. [30] Et anchora
+         nel dito paexe i semina formento e orzo e altre semenason el mexe de novenbrio, e
+         archoie de marzo e de mazo et non plu per el gran chaldo. [31] Et sono anchora una
+         uxanza in ’sto paexe: che, s’el muor homo ho femena, una volta al dì fa chongregar
+         tuti i so parenti et fano gran pianto, et questo dura perfina quatro ani. [32] Or
+         di questa zitade non diremo piui, mo torneremo inverso tramontana e diremo de quele
+         parte e provinzie, e torneremo per una altra via dala zitade d’<term ref="#chermain">Eraman</term> la qualle io ve dissi de sopra, perché dele chontrade le qual ve voio dir non se
+         puol andar se no per questa zitade d’<term ref="#chermain">Eraman</term>. [33] E lo re dela dita lo qual io ve dissi è sudito a questo re de <term ref="#chermain">Eraman</term>. [34] Alo retorno de <term ref="#ormus">Chremoso</term> sì è una bela pianura ed è abondanzia de vituaria, et in quela se trova de molte
+         pernixe, e bon marchado de datali ed altri fruti; et el pan de formento sì è molto
+         amaro, et non se |22r<hi rend="italics">|</hi> può manzare se l’omo nonn è uxo, et questo sono per le aque amare. [35] Et trovasse
+         de molti bagni che sono boni a molte infirmitade. [36] Or torniamo ala via de tramontana,
+         et diremo chomo se vano per molti luogi salvadegi e dexerti. [37] Partandosse da <term ref="#chermain">Etiman</term> el se chavalcha per sete zornade et vasse per una via molto insorida, et in questa
+         non se trova aqua se no pocha, e quela che se trova sono verde chomo erba de prado,
+         et sì è sono forte amara che li homeni non ’de può bever, e queli che ne beve la ge
+         par uno giazo et falli andar de soto molte volte; et queli che passa per quela via
+         chonvien portarne per suo’ bever, et li animali chonvien per forza bever di quela,
+         onde molti ne muore. [38] Et questo dura per tre zornade, che non se trova alguna
+         abitazione, e trovasse in ’ste parte pochi animali, perché li non trova che manzar.
+         [39] Et in chavo de queste tre zornade sono luogi molti sechi e aredi et in alguni
+         luogi se trova aqua, ma la sono molto amara; et non sono albori né bestie, se no hoxeli
+         salvadegi. [40] Et in chavo de quatro zornade sono el fin del regno de <term ref="#chermain">Etiman</term>; trovasse una zitade chiamata <term ref="#cobinam">Chobian</term> la qual sono molto granda, et la zente che in quela abita adora <term ref="#macometto">Machometo</term>. [41] Et in questa se fano spedi d’azal molto beli e grandi, et là sì se fano tuzia
+         che non se ne fa in altra parte, la qual è molto bona al mal dei ochi, e spondio e
+         zeduario, e diròve per che muodo eli el fano: elli tuol una vena de tera la qual a
+         lor par, e mete quela in una fornaxa de fuogo ardente, e dentro la fornaxa li mete
+         gradele de fero, et lo fumo e umor che esse de quel’aqua e tera anpiase a quela gradela,
+         e quela è tuzia; e quelo che roman dela tera in fuogo sì è spondio, sì che avete |22v<hi rend="italics">|</hi> intexo chomo se fano la tuzia e ’l spondio. [42] Or lasseremo de questa zitade et
+         anderemo più avanti. [43] Partendosse da questa zitade dita <term ref="#cobinam">Chobian</term> el se va per uno dexerto ben hoto zornade, in lo qual hè gran sechura et non se trova
+         albori né fruti, ma trovasse aqua la qual sono molto amara, et queli che vol passar
+         per ’sto luogo se chovien portar da manzar. [44] Et in chavo de queste oto zornade
+         se trova una provinzia chiamata <term ref="#timocaim">Novochan</term> in la qual sono molte zitade e chasteli; et dali chonfini de <term ref="#persia">Persia</term>, da ladi de tramontana, l’è una gran pianura in la qual sono uno alboro che li christiani
+         chiama l’<term ref="#arbore-secco">Alboro Secho</term>, et io ve dirò la chondizion de quel’alboro: el sono molto grando e groso, et le
+         suo’ foie da uno ladi sono verde e dal’altro bianche, e produxe uno fruto chomo sono
+         la chastagna, ma non son bon da manzar, et del suo legno se fano el balsamo, ed è
+         forte e zalo chomo el boso; e nonn è apreso questo nesun altro alboro a diexe mia,
+         et queli dela patria dixe che lì fo la bataia del re <term ref="#alessandro">Alesandro</term> chon <term ref="#dario">Dario</term> re de <term ref="#persia">Persia</term>. [45] Et in le zitade e chasteli sono abondanzia de tute chosse perché la patria
+         sono in bel luogo, et nonn è ní gran chaldo ní gran fredo. [46] Et la zente de quel
+         luogo adora <term ref="#macometto">Machometo</term> ed è bela zente, et massime le done. [47] Et partendosse da questa patria se ne trova
+         un’altra chiamata <term ref="#mulehet">Muleze</term> in la qual soleva star el <term ref="#vecchio-della-montagna">Vechio dala Montagna</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

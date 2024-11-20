@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-54</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-54" n="1">
+    <head>
+      <hi rend="bold">R, I 54</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-54_1_1" n="1"> Della provincia di <term ref="#cianganor">Cianganor</term>, et della sorte di grue che si trovano, et della quantità di pernici et <term ref="#quaglia">quaglie</term> che ’l <term ref="#gran-can">Gran Can</term> fa allevare. Cap. 54.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-54_2_1" n="1"> Partendosi dalla sopradetta provincia et città et andando per tre giornate, si trova
+         la città nominata <term ref="#cianganor">Cianganor</term>, che vuol dire “stagno biancho”, nella qual è un palazzo del <term ref="#gran-can">Gran Can</term>, nel qual el vi suole habitare molto volentieri, perché vi sono intorno laghi et
+         riviere dove abitano molti cigni, et in molte pianure grue, fagiani, pernici et uccelli
+         di altra sorte in gran quantità. </seg>
+      <seg xml:id="r-i-54_2_2" n="2"> Il <term ref="#gran-can">Gran Can</term> piglia grandissimo piacere andando ad uccellare con <term ref="#girifalco">girifalchi</term> et falconi et prendendo uccelli infiniti. </seg>
+      <seg xml:id="r-i-54_2_3" n="3"> Vi sono cinque sorti di grue: la prima sono tutte nere come corvi, con le ali grandi;
+         la seconda ha le ali maggiori delle altre, bianche et belle, et le penne delle ali
+         son piene de occhi rotondi come quelli de’ pavoni, ma gl’occhi sono di color d’oro
+         molto risplendenti, il capo rosso et nero molto ben fatto, il collo nero et bianco,
+         et sono bellissime da vedere; la terza sorte sono grue della statura delle nostre
+         de Italia; la quarta sono grue picciole, che hanno le penne rosse et azzurre divisate
+         molto belle; la quinta sorte sono grue grise, col capo rosso et nero, et sono grandi.
+         </seg>
+      <seg xml:id="r-i-54_2_4" n="4"> Presso a questa città è una valle, nella quale è grandissima abondanza di pernici
+         et <term ref="#quaglia">quaglie</term>, et pel nutrimento delle qual sempre il <term ref="#gran-can">Gran Can</term> fa seminar la state sopra quelle coste miglio et <term ref="#panizzo">panizzo</term> et altre semenze che tali uccelli appetiscono, comandando che niente si raccolga,
+         acciò abondevolmente si possano nudrire; et vi stanno molti huomini per custodia di
+         questi uccelli, acciò non siano presi, et etiandio li buttano il miglio al tempo del
+         verno, et sono tanto assuefatti al pasto che li getta per terra che, subito che l’huomo
+         sibila, ovunque si siano vengono a quello. </seg>
+      <seg xml:id="r-i-54_2_5" n="5"> Et ha fatto fare il <term ref="#gran-can">Gran Can</term> molte casette dove stanno la notte, et quando el vien a questa contrada ha di questi
+         uccelli abondantemente, et l’inverno, quando sono ben grasse (perché ivi pel gran
+         freddo non sta a quel tempo), ovunque egli si sia, se ne fa portare carghi i camelli.
+         </seg>
+      <seg xml:id="r-i-54_2_6" n="6"> Ma si partiremo di qui, et andremo tre giornate verso tramontana et <term ref="#greco">greco</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

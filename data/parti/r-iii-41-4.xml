@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-41-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>La pericope traduce <ref type="witlink" target="#p-iii-46-1-6">P III 46 10</ref> «[…] incole enim regionis crebris incisionibus perforant et incidunt cortices arborum,
+         et de incisionibus illis profluunt extra cortices arborum gutte thuris; similiter
+         etiam absque eo quod incisiones fiant multum de huiusmodi liquore fluit ex eis, propter
+         calorem maximum regionis illius et postmodum indurescit» (a sua volta versione di
+         VA CLII 15 «Et de zaschadun arboro intachado in piuxor luogi per quelle tache esie fuora l’inzenso,
+         et dal’alboro medeximo n’esie asai senza ch’el sia intachado: questo è per el gran
+         chalor che v’è»). Vedi la nota a <ref type="witlink" target="#r-iii-41">R III 41 3</ref>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

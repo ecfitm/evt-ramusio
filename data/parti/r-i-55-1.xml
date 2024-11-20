@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-55-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-55">
+      <note>
+	<p>L’esordio (parr. 1-2) descrive la topografia del serraglio nella residenza estiva
+         dell’imperatore.</p>
+	<p>Nella prima parte («Quando si parte […] altre belle pietre») R rispecchia le linee
+         di <ref type="witlink" target="#f-null-74">F LXXIV 2-3</ref> «Et quant l’en est parti de la cité que je vos ai només desovre et l’en ala trois
+         jornee, adonc treuve l’en une cité qui est appellé <term ref="#xandu">Ciandu</term>, que le Grant Chan, que est et rengne et que a nom <term ref="#cublai-can">Cublai Kaan</term>, la fist faire. Et en ceste cité hi fist{i} faire <term ref="#cublai-can">Cublai Kan</term> un grandismes palais de marbre et des pieres». Segue un <hi rend="italics">addendum</hi> che offre dettagli circa il perimetro murario del grande parco, privo di riscontro
+         nella tradizione (tranne che per l’informazione sulla misura: vd. <ref type="witlink" target="#f-null-74">F LXXIV 6</ref> «un mur que environe bien .XVI. miles de tere»).</p>
+	<p>Z toledano sopprime la porzione di testo corrispondente a R I 55 1-20, sostituendola
+         con un’informazione telegrafica (cfr. <ref type="witlink" target="#z-null-42">Z 42 1</ref> «Invenitur quedam civitas nomine <term ref="#xandu">Xandu</term>, ubi sunt magni <term ref="#idolatri">idolatri</term> et negromanti»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

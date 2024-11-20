@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-29-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-29">
+      <note>
+	<p><ref type="witlink" target="#p-iii-35">P III 35 4</ref> (a causa di VA CXLV 10), L 170 7 e VB CLIII 11 omettono la transizione. La soluzione ramusiana aderisce (al netto dell’equivoco,
+         comune, sulla grafia) <ref type="witlink" target="#z-null-117">Z 117 22</ref> «Nunc, dicto de hoc regno, procedentes ult‹er›ius, dicemus de quodam regno nomine
+         <term ref="#canam">Tana</term>» (che ripropone F CLXXXIII 9 «Or voç avon contés de ceste roiames tout le fait ordreemant, et adonc nos en partiron
+         e vos conteron avan des autres, e vos diron de un roiame qe est appellé <term ref="#canam">Tana</term>»). Generica la lezione di V 100 9 «Or abiamo dito de questo reame, et inperò de qua se partirem et anderemo ad uno
+         altro reame».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

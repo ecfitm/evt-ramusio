@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-43-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-43">
+      <note>
+	<p>Il testo di <ref type="witlink" target="#z-null-130">Z 130 16</ref> (resa di F CXCVI 7 «Et encore voç di que ceste <term ref="#melich">melic</term> de <term ref="#ormus">Curmos</term> a un castiaus que encore est plus fort que la cité et miaus destraint le gof e la
+         mer») contiene informazioni assenti in VB CLXVIII e L 186; meno aderente a F-Z è la lezione di V 112 7 «Àno uno chastello el qual sono più forte cha la zitade, ed è la guardia del cholfo
+         e del mar». R aderisce al suo modello latino, e in forma sostanzialmente letterale
+         (la nota finale essendo un’inferenza ricavabile dal testo precedente). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

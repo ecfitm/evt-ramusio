@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-12-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>Nella costruzione di questa pericope (assente in L 152 1-2) Ramusio ricorre a Z 99 15-16 «Se per <term ref="#gran-can">Magnum Can</term> apellant, tamen nullum ei reddunt tributum, quia tam sunt distantes quod gentes <term ref="#gran-can">Magni Can</term> partes illas non valent adire. Sed omnes de insula per ipsum appelantur; et aliquando
+         per transeuntes illac mittunt ei aliqua pulcra et extranea tanquam pro exeniis, et
+         precipue de quadam manerie austurum nigrorum». La presenza degli «astorri» (neri,
+         precisa Z) tra i doni inviati all’imperatore non è attestato dagli altri relatori,
+         a cominciare da F CLXV 10 «Il se apellent por le Grant Chan, mes ne li font trëu por ce qe il sunt tant longe qe les jens dou <term ref="#gran-can">Grant Kan</term> ne i porunt aler; mes il s’apellent tuit celz de l’isle por lui et aucune foies li
+         font present de couses estranges»: essa pare un’anticipazione di Z 99 26 (luogo comune a tutti: vedi la nota a <ref type="witlink" target="#r-iii-12">R III 12 6</ref>).</p>
+	<p>La minor densità informativa di P III 15 1 «[…] dicunt se esse subiectos <term ref="#gran-can">Magno Kaam</term>, sed ei tributa non solvunt quandoque tamen mittunt ei iocalia rerum silvestrium»
+         dipende dal suo antigrafo VA CXXIX 2 «Eli s’apelano per el <term ref="#gran-can">Gran Chaan</term>, ma non ge fano trabuto se non qualchuna fiata i mandano chosse stranie». Aderente
+         a F (ma meno ricco d’informazioni, probabilmente per un guasto nella tradizione),
+         si dimostra V 87 11 «[…] e tiense per lo <term ref="#gran-can">Gran Chan</term>, ma non i dano algun trabuto, perché i sono sì lontani che la zente del <term ref="#gran-can">Gran Chan</term> non puono andar, ma sono tuti del’ixolla». L’indicazione dei doni di VB CXXXV 2 («[…] et avegna i se chiamano sotto el <term ref="#gran-can">Gran Chan</term>, anpo’ niuno tributo i ge dano però che i ssono tanto lutani, che le giente del <term ref="#gran-can">Gran Can</term> inpossibelle ge seria andarne; pur qualche fiata questa giente fano qualche presente
+         de leofanti al <term ref="#gran-can">Gran Can</term>, onicorni o altro, di qualli quelle contrade ne ssono copioxe») dipende dall’anticipazione
+         del contenuto della pericope successiva (vedi <ref type="witlink" target="#r-iii-12">R III 12 3</ref> e nota).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

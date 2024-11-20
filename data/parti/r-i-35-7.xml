@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-35-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-35">
+      <note>
+	<p>Il luogo riprende quali alla lettera un <hi rend="italics">ajout</hi> di <ref type="witlink" target="#vb-null-39">VB XXXIX 7</ref>, probabile espansione indebita del dettato della tradizione: «Alchuna fiada, i sentirano
+         a modo de inpeto de giente in alltra parte e quei, credendo el sia la conpagnia soa,
+         se ne vano verso dove senteno l’inpeto dela chavalchata: et fatto el giorno, se trovano
+         da questi spiriti per simel et altri modi gabati, et molti insienti di questi spiriti
+         ne fono mal chapitati».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

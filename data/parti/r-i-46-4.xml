@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-46-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-46">
+      <note>
+	<p>Il dettato di R è perfettamente sovrapponibile, anche nelle opzioni lessicali, alle
+         linee di <ref type="witlink" target="#f-null-69">F LXIX 5-6</ref> «Et quant il o‹n›t ce fait, il dient que lor dieu et sa masnee ont eu lor part. Aprés
+         ce, menjuent il et boivent […]», mentre sembra piuttosto lontano dalla lezione delle
+         altre fonti: vd. infatti <ref type="witlink" target="#l-null-60">L 60 12</ref> «[…] extra ostium domus spargunt, dicentes ex hoc eorum deum cum sua familia partem
+         ex hiis suam habere; ‹et› ex tunc commedunt et bibunt»; <ref type="witlink" target="#p-i-58">P I 58 3</ref> «[…] extra domum effundunt ut dii predicti recipiant partem suam; quo facto ad mensam
+         accedunt»; <ref type="witlink" target="#v-null-36">V 36 12-13</ref> «[…] et diseno che lo so dio chon la so fameia àno manzato e bevuto la soa parte.
+         Et fato questo, puo’ li manza e beve […]»; <ref type="witlink" target="#vb-null-56">VB LVI 19</ref> «[…] et dicono i lloro idii avere mangnato la sustancia de quele vivande; possa loro
+         mangiano el resto».</p>
+	<p>Se ne dovrà dedurre che R dipenda anche qui da Z1. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

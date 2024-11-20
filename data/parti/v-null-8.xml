@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-8">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 8</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-8_2_1" n="1"> ‹Q›uando el <term ref="#gran-can">Gran Chan</term> ebe dato lizenzia ai do frateli e a Marcho che li andasse chon queli anbasadori,
+         sì li chiamò a lui, et a queli dete una tavolla e uno chomandamento, che i fosseno
+         liberi per tute le suo’ tere; et in zaschadun luogo che lor chapitasse li fosse fato
+         le spexe, e |10r| a tuta la soa fameia. </seg>
+      <seg xml:id="v-null-8_2_2" n="2"> Et ordenòli che quando i serano in christianitade
+         dovesse andar suo’ anbassadori al Sumo Pontificho e al re de Franza et al re de Spagna
+         et altri re de christiani. </seg>
+      <seg xml:id="v-null-8_2_3" n="3"> Et ordenado che ebe questo, el <term ref="#gran-can">Gran Chan</term> fezeno aparechiare quatordexe nave, le qual zaschaduno di quele avea quatro albori
+         et molte fiade andava chon quatro vele. </seg>
+      <seg xml:id="v-null-8_2_4" n="4"> Et essendo le dite nave aparechiade et
+         fornide per duo ani, misier Nicholò, misier Mafio e misier Marcho et queli anbasadori
+         chon la dona tolse lizenzia dal Signor, et chon gran letizia vene ale nave le quale
+         erano preparate, et introrono dentro et navegò ben mexi tre, onde li chapitòe a una
+         ixola la qual sì è verso mezodì che à nome <term ref="#giava">Iava</term>, nela qual vitero molte chosse le qual diremo in questo libro; et puo’ se partì da
+         questa ixola et navegò per el <term ref="#mare-dindia">Mar d’India</term> per mexi nuove avanti che li pervegnisse là che li voleva andar. </seg>
+      <seg xml:id="v-null-8_2_5" n="5"> Et zonti che
+         i furono in quel luogo, trovò che ’l re <term ref="#argon">Argon</term> iera morto, et ziò vedendo questo li diti anbasadori dete questa dona per moglie
+         al dito fiol de <term ref="#argon">Argon</term>, el qual nomeva <term ref="#casan">Chazen</term>. </seg>
+      <seg xml:id="v-null-8_2_6" n="6"> Et dichove che quando questa dona intrò i·nave, el iera siezento persone senza
+         i marinari, e tuti morì salvo diexedoto, et de queli tre anbassadori uno solo rimaxe,
+         e de zento femene che iera non romaxe se no la regina et li do frateli chon misier
+         Marcho. </seg>
+      <seg xml:id="v-null-8_2_7" n="7"> Onde i diti aprexentò la dona al fio de <term ref="#argon">Argon</term> et feze l’inbasada del <term ref="#gran-can">Gran Chan</term>; et fato che li ebe questo, tolse lizenzia dala dona et partìsse da quela. </seg>
+      <seg xml:id="v-null-8_2_8" n="8"> Et
+         sapiate che ’l dito Signor dete ai diti quatro tole d’oro del chomandamento del |10v<hi rend="italics">|</hi> Gran Chan, do dele qual era de zifalchi e una de lioni e una blava, onde in queste erano onorado
+         el nome de Dio, et dizea in quele: «Zaschadun che non lo loderà sia morto e dexerto»;
+         et anchora se chontegnia che questi tre anbasadori latini fosseno onoradi e servidi
+         per tute le suo’ tere chomo la sua persona, et che li fosse dadi chavali e schorta
+         de andar de una tera in l’altra et le spexe, sì che in chadauno luogo che i diti marchadanti
+         andavano erano ben vezudi et onoradi. [9] Or questi esendo partidi da quel fio di
+         <term ref="#argon">Argon</term> chon li lor previlegi, pressero a chavalchare; et tanto chavalchò per lor zornade
+         che li zonse in <term ref="#trabesonda">Trabesonda</term>, et poi passò quela e vene a <term ref="#constantinopoli">Chostantinopoli</term>, et poi venero a <term ref="#negroponte">Negroponte</term> et lì montorono in una nave et venero a Veniexia, et questo fo in mileduxento e nonantazinque,
+         sì chomo io ve ò dito nel prologo dito di sopra. [10] Or lasseremo chostoro et chomenzeremo
+         el libro dela <term ref="#armenia">Pizola Ermenia</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

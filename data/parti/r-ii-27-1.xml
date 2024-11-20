@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-27-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-27">
+      <note>
+	<p>R dipende da <ref type="witlink" target="#p-ii-27">P II 27 1-2</ref> (nella prima parte seguito abbastanza fedelmente, nella seconda condensato notevolmente,
+         con l’omissione di fatto tutta la sezione conclusiva): «Expeditis his [R «Poi che
+         s’è compiuto di dir»], que de provincia <term ref="#cataio">Cathay </term>et civitate <term ref="#cambalu">Cambalu </term>atque <term ref="#gran-can">Magni Kaam</term> magnificentia [R «della provincia del <term ref="#cataio">Cataio</term> et della città di <term ref="#cambalu">Cambalú</term>, et della magnificenza del <term ref="#gran-can">Gran Can</term>»] ad presens curavi describere, nunc ad describendas breviter regiones finitimas
+         accedamus [R «si dirà delle altre regioni»]. Quodam tempore magnus rex me Marchum
+         ad remotas partes pro quodam sui imperii negotio destinavit [R «per le occorrentie
+         dell’imperio del <term ref="#gran-can">Gran Can</term>»]: ego autem de civitate <term ref="#cambalu">Cambalu</term> iter arripiens mensibus quatuor in itineribus fui; ideo, que in via illa eundo et
+         redeundo reperi, declarabo».</p>
+	<p>Le altre fonti, come pure F, recano una versione più essenziale: <ref type="witlink" target="#v-null-50">V 50 1</ref> «‹O›r sapiate che ’l <term ref="#gran-can">Gran Signor</term> mandò per anbassador missier Marcho Polo inverso ponente, onde nui nareremo tuto
+         quello ch’el vete in quel chamino, andando e tornando»; <ref type="witlink" target="#vb-null-73">VB LXXIII 1</ref> «‹I›o çudego esser degno de memoria né preterir, esendo io stà mandato per questo
+         mio segnor anbassatore, io chavalchai per quatro mesi de giornate verso ponente partendome
+         da <term ref="#cambalu">Chamalau</term>» (vd. <ref type="witlink" target="#f-null-104">F CIV 2</ref> «Or sachiés que mesier March meisme le <term ref="#gran-can">Grant Sire</term> le mande por mesajes ver ponent: et se parti de Canbalu et ala bien quatre mois de
+         jornee ver ponent. Et por ce voç conteron tout ce qu’il vit en cele voie, alant et
+         vignant»). Il passo è omesso in L e in Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

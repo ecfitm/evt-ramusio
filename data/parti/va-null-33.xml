@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-33</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-33">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XXXIII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-33_2_1" n="1"> <term ref="#balaxiam">Ballastia</term> è una provinzia che à lenguazio per si. </seg>
+      <seg xml:id="va-null-33_2_2" n="2"> La zente à lla leze de <term ref="#macometto">Machometo</term> e ’l regniame è grande e va per hereditade. </seg>
+      <seg xml:id="va-null-33_2_3" n="3"> Questi re èno dessessi dal re <term ref="#alessandro">Allexandro</term> et della figliola de <term ref="#dario">Dario</term>, re de <term ref="#persia">Persia</term>; e anchora s’apellano tuti queli re <term ref="#zulcarnen">Chulitame</term>, che vien a dir in nostra lingua re <term ref="#alessandro">Allexandro</term>, per amor del gran <term ref="#alessandro">Alexandro</term>.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-33_3_1" n="1"> In questa provinzia nasie le piere prezioxe che sono apellate <term ref="#balassi">balasi</term>, che èno molto belli et de gran valore, e naseno entro le montagnie; i fano grande
+         chaverne in le montagnie. </seg>
+      <seg xml:id="va-null-33_3_2" n="2"> E anchora sapiate che ‘l re i fa chavar per si: nesuno
+         altro homo non ne può |18v| andar a quella montagnia per chavar de quelle piere che
+         non fosse morto incontenente. </seg>
+      <seg xml:id="va-null-33_3_3" n="3"> E anchora sapiate ch’ell è pena l’aver e lle persone
+         se alchuno ne trazesse fuora del suo regniame; ma lo re de questa contrà sì le manda
+         de zia e de llà, a’ grandi re e a’ baroni, e a talli per trabuto e a talli per amor,
+         e anchora ne fa vender per oro ‹e› per arzento. </seg>
+      <seg xml:id="va-null-33_3_4" n="4"> E questo fa-llo perché i suo’
+         <term ref="#balassi">[b]alla[s]i</term> non serìa de sì grande valore chome i sono. </seg>
+      <seg xml:id="va-null-33_3_5" n="5"> E se lui ne lasasse chavar a zente
+         che i portasse per lo mondo, el ne serìa sì gran derata che quel re non guadagniarìa
+         niente. [9] E però è chusì grande pena che niuno n[e] trazia senza soa parolla. [10]
+         E anchora in questa contrà è un’altra montagnia o’ se trova le piere che sse fa l’azuro,
+         el mior che sia al mondo; queste piere se trova per vena in la montagnia, chusì chome
+         i altri metali. [11] Anchora ge n’è montagnie delle qual se traze arzento in quantitate.
+         [12] La chontrà è molto freda. [13] Anchora sapiate che el ge nasie chavali molto
+         boni, et sono gran choradori e non portano feri ai pie’; e sì vano tuto ’l dì per
+         montagnie.</seg>
+    </p>
+    <p n="4"/>
+  </div>
+</body>
+</text>
+     </TEI>

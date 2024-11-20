@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-25-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-25">
+      <note>
+	<p>La forma dell’espressione permette ancora una volta di attribuire la funzione di antigrafo
+         alla lettera di <ref type="witlink" target="#z-null-113">Z 113 9-12</ref> «Habent etiam indum valde bonum in magna habundantia, et fit de herbis. Nam erbas
+         illas absque radicibus in magnos mastelos ponunt, et postmodum mitunt aquam in ipsos
+         et tantum sic esse dimitunt quod erbe putrescunt et remanet ibi sucus. Tunc ponitur
+         ille sucus ad solem; qui, propter ferventem calorem solis, in tantum bulit et consumatur
+         quod desiccatur et eficitur velut pasta. Et postmodum inciditur minutim in frustra,
+         quemadmodum vidistis». L’espressione conclusiva «[…] al modo che si vede che viene
+         condotta a noi» fa pensare a una crasi con «[…] sic defertur ad nos» di P III 31 5 «Ibi est endici quo tintores utuntur copia maxima, quod fit de herba: herbam illam
+         colligunt et in vasis magnis cum aqua ponunt et sic tam diu dimittunt donec herba
+         optime macereretur; post hec ipsam ponunt ad solem, qui in regione illa ferventissime
+         calescit et pre calore maximo bulit herba et coagulatur in unum; postmodum materiam
+         illam in minutas dividunt partes et sic defertur ad nos». Il testo di Pipino rinvia
+         a VA CXLI 8-10 «El ge n’è abondanzia d’endego molto ‹bono›, lo qual se fa d’erba. I tolleno quella
+         erba e sì la meteno in gran tine e lasa-lla star tanto chusì che l’erba se disfa;
+         po’ la meteno al solle, lo qua‹l› rendeno grandisimo chaldo in quella contrà. El sol
+         la fa boglir, e poi se prende insieme chome pasta; poi el taia menudo segondo ch’el
+         se aduxe de zia»; il modello è F CLXXIX 3 «Il ont ynde en abondance mout buen; et voç di qu’il se fait d’erbre, car il prenent
+         celle herbre e le metent dedens grant sif et i metent aigue et le laisent tant qe
+         tout celz erbre se desfait; puis le laisent au soleil: est mout chaut e le fait boilir
+         e prendre ensenble, e devient ausi come vos le veés». </p>
+	<p>Il resto della tradizione si mantiene sullo stesso tenore informativo. Vedi L 166 5: «Fit eciam indicum multum et bonum, quod ex specie quadam herbe conficiunt, quam
+         in vaso magno ponunt aquam supponentes; et tam diu sic stare permittunt donec corrumpatur
+         et totaliter liquefiat: tunc vero soli exponunt, cuius caliditate maxima totam massam
+         ebullire facit donec totum ad formam perducatur paste; deinde ipsum exsiccant, ut
+         apparet, in parva frustra dividentes»; V 97 3 «Et sono in questo reame endego molto bono in granda abondanzia; et fa-sse de sugo
+         de erbe; et sì lo mete in gran sechi et meteno aqua in quelli, et si lo lassa star
+         infina ch’elo sse desfa; et dapuo’ lo meteno al sol molto chaldo, et sì ’l fa sunar
+         insenbre e deventa chomo pasta; e dapuo’ il taia a pezeti, chomo vui el podé veder»;
+         VB CXLIX 7-9 «Nasege endego il qualle i fano de erba in questo modo. I coiono quela erba e metella
+         in gran mastelli e butage dil’aqua sopra e lasalla tanto stare ch’e l’erba se desfae;
+         e poi si la mete al sol e tanto fin quella è secha alquanto: e poi la lieva e quella
+         i taiano menuta. Et se lo sol è tropo chaldo si la lieva e quella fa bolire fin la
+         se aprende e vien chomo pasta; poi la destende e lasala sechar: et secho el taia in
+         peçe e quello è endego». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

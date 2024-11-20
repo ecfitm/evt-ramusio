@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-22-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-22">
+      <note>
+	<p>Ramusio dipende in tutto dalla <hi rend="italics">brevitas </hi>di P III 30 2 «<term ref="#idolatri">Ydolatre</term> sunt et auguria sectantur: quando autem volunt rem aliquam emere, prius umbram propriam
+         respiciunt, considerant et secundum sui erroris regulas in illa negotiatione procedunt»
+         (versione di VA CXL 5-6 «I èno idolatri e tendeno molto a’ agurii d’oxielli e a intopo de bestie. Quando
+         i vuoleno far alchun merchato, i vuoleno anche saver quanto è longa la soa onbra al
+         solle»): Ramusio si limita a usare il resoconto di Pipino, e a quanto pare decide
+         di non tenere conto della più ampia descrizione delle arti divinatorie dei bramini
+         (che riguarda pure la valutazione dello stridere della tarantola, dello starnuto,
+         del volo della rondine), che si legge per esempio in <ref type="witlink" target="#z-null-110">Z 110 17-27</ref>: «Isti <term ref="#bramini">braaman</term> <term ref="#idolatri">adorant ydola</term> et magis procedunt secundum auspicium et secundum actus et motus avium et bestiarum
+         aliquibus hominibus de mundo. Et dicemus vobis in parte de consuetudine et moribus
+         eorum. Habent equidem huiusmodi consuetudinem inter ipsos, quia omnibus diebus de
+         ebdomada apposuerunt unum signum qualem vobis declarando dicemus. Si accidit quod
+         aliquod forum faciant alicuius mercimonii, ille qui vult emere exurgit, et respicit
+         umbram suam in solem et querit de nomine illius diei in qua est; et facit mensurari
+         umbram suam. Et si est tam longa ut debet esse in illa die, forum completur; et si
+         umbra non est tam longua ut esse debet, non completur forum, sed expectat donec umbra
+         sit in illo puncto quem ordinaverunt in lege eorum. Et quemadmodum de hac die diximus,
+         ordinaverunt de omnibus diebus ebdomade, videlicet quantum debet esse longa umbra.
+         Et donec umbra non esset tam longa quemadmodum esse debet, nullum forum facerent neque
+         aliquod factum eorum. Sed quando umbra est tam longa veluti die qualibet debet esse,
+         tunc faciunt suum forum. Ittem aliud maius narabimus vobis; quoniam quando faciunt
+         aliquod forum, in domo vel in alio loco, et audirent aliquam tarantulam clamare –
+         nam ibi multe sunt –, et ‹si› apareat vel audiatur ab illa parte quod sit bonum pro
+         eis, emunt statim mercimonia; et si tarantula apareat vel audiatur ab illa parte que
+         sibi non videatur bona, non emunt. Et quando de eorum domibus exeunt et audirent aliquem
+         hominem reverti, si eis non videtur bonum, restant et ult‹er›ius non procedunt. Et
+         quando isti <term ref="#bramini">braaman</term> eorum iter arripiunt et vident quod aliqua yrundo volet per supra ipsos, vel ante
+         vel a‹d› dexteram partem vel ad sinistram, si eis videtur, secundum mores eorum, quod
+         yrundo a bona parte venerit, procedunt ult‹er›ius; et si videtur eis quod a bona parte
+         ‹non› venerit, revertentur». Tale descrizione è ampiamente attestata: vedi F CLXXVI 8-14, L 164 3-4 (ridotto all’essenziale), V 94 6-11, VB CXLVI 9-10.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

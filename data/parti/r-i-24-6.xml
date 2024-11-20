@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-24-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-24">
+      <note>
+	<p>Il relatore più coerente con il dettato di R (nella prima parte della pericope) è
+         <ref type="witlink" target="#v-null-23">V 23 15</ref> «[…] et in chavo de ’ste tre zornade se trova una provinzia chiamata <term ref="#balaxiam">Belestian</term>, e del suo’ essere qui de soto diremo»; meno aderenti sono <ref type="witlink" target="#l-null-40">L 40 8</ref> «[…] et tunc invenitur provincia <term ref="#balaxiam">Balascian</term>, de qua dicetur ad presens»; <ref type="witlink" target="#p-i-33">P I 33 5</ref> «Post hec itur per tres alias dietas usque ad provinciam <term ref="#balaxiam">Balascie</term>»; <ref type="witlink" target="#vb-null-28">VB XXVIII 10</ref> «E chavalchato le tre giornate si se trova la provincia del <term ref="#balaxiam">Balasan</term>». </p>
+	<p>Il passo manca nel toledano, che sacrifica con regolarità i raccordi formulari di
+         questo genere. Tuttavia, la presenza in R dell’avv. <hi rend="italics">veramente</hi>, che di norma traduce l’omologo <hi rend="italics">vero </hi>delle fonti latine, e la piena coerenza testuale con le linee di <ref type="witlink" target="#f-null-45">F XLV 14</ref> «Et a chief de trois jornee treuve l’en la provence de <term ref="#balaxiam">Balasian</term>, et voç divisarai de son afer», suggeriscono che R dipenda anche qui da Z1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

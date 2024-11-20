@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-40-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>L’uso di alcune espressioni («Nascono», «di lunghezza», «di grossezza») suggerisce
+         che il testo base sia <ref type="witlink" target="#z-null-57">Z 57 8-10</ref> «In ista provincia maximi oriuntur serpentes. Et ita sunt magni quod homines mirari
+         deberent solummodo audire de eorum esse, nedum videre. Nam aliqui sunt longitudinis
+         passuum decem et grositudinis circumcirca palmos .X., sed istius quantitatis sunt
+         maiores» (che riflette a sua volta in modo abbastanza fedele il dettato di <ref type="witlink" target="#f-null-118">F CXVIII 6-7</ref> «Et en ceste provence naisent les grant colunbres et celes grant serpanz que sunt
+         si desmesuréç que tous homes en doient avoir mervoille, et sunt mout ydeuse chouse
+         a veoir et a regarder; et voç dirai comant elles sunt grant etgroses. Or sachiés por
+         verité qe hi a de longues .X. pas, que sunt groses, car elle girent environ .X. paumes,
+         et ceste sunt les greingnor […]»). Tali espressioni si leggono anche in <ref type="witlink" target="#v-null-56">V 56 28</ref> (complesso meno prossimo a R) «Et in questa provinzia nasse de gran [R «grandissimi»]
+         serpenti, i qualli sono sì grandi che sono holtra muodo; et diròve la grandeza de
+         quelli: alguni ne xe che sono di longeza diexe pasa, et sono de groseza diexe palmi,
+         et questi sono li mazor […]».</p>
+	<p>La semplificazione del testo e l’eliminazione di vari dettagli che figurano in Z V
+         (e in F) sono state probabilmente ispirate a Ramusio da VB, come indicano varie somiglianze
+         formali:<ref type="witlink" target="#vb-null-84"> VB LXXXIV 5</ref> «In questa provincia se trova grandissimi serpenti i qual sono [R «grandissimi serpenti,
+         quali sono»] longi pasi .X. e grosi spane [R «spanne»] .X. […]». Non emergono invece
+         prove di contatti di R con <ref type="witlink" target="#p-ii-40">P II 40 5</ref> «In hac regione inveniuntur serpentes magni valde: multi enim ex his sunt decem passuum
+         longitudinis, et in grossicie .X. palmorum in circuitu mensuram continent, et isti
+         maiores sunt […]», e con <ref type="witlink" target="#l-null-97">L 97 4</ref> «In hac provincia sunt colubri mirabilis magnitudinis, et horribilis aspectus. Sunt
+         enim aliqui longitudinis .X. passuum et rotunditatis .X. palmorum […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

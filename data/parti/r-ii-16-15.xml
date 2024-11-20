@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>Anche qui R si mostra più vicino a <ref type="witlink" target="#f-null-93">F XCIII 26</ref> «Et encore hi a autres canbres et autres tendes, mes ne se tient pas cun le grant
+         tende […]», che a <ref type="witlink" target="#p-ii-20">P II 20 2</ref> «[…] quibus contigue sunt alie aule et camere», e a <ref type="witlink" target="#v-null-44">V 44 12</ref> «Et in questo luogo sono molte tende e chamere, ma non simelle a questa […]». L omette
+         il passo. </p>
+	<p>In VB e Z manca tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

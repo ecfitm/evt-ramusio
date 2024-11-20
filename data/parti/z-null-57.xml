@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-57</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-57">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 57</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-57_1_1" n="1"> Cum vero, discedendo a predicta civitate <term ref="#iaci">Yaci</term>, itum est dietis .XII. per ponentem, invenitur provincia <term ref="#carazan">Caraian</term>. </seg>
+      <seg xml:id="z-null-57_1_2" n="2"> Et magistra regni civitas vocatur Carayan. </seg>
+      <seg xml:id="z-null-57_1_3" n="3"> Gentes <term ref="#idolatri">adorant ydola</term>. </seg>
+      <seg xml:id="z-null-57_1_4" n="4"> Et sunt sub dominio <term ref="#gran-can">Magni Can</term>, cuius filius eam regit. </seg>
+      <seg xml:id="z-null-57_1_5" n="5"> In ista provincia invenitur aurum de paliola in fluminibus
+         et lacubus, in montibus vero aurum de venis. </seg>
+      <seg xml:id="z-null-57_1_6" n="6"> Ipsi tantum habent aurum quod pro
+         saciis sex argenti datur saçium unum auri. </seg>
+      <seg xml:id="z-null-57_1_7" n="7"> In ista quoque provincia expe‹n›dunt
+         similiter porcelanas de quibus superius declaratum. </seg>
+      <seg xml:id="z-null-57_1_8" n="8"> In ista provincia maximi oriuntur
+         serpentes. [9] Et ita sunt magni quod homines mirari deberent solummodo audire de
+         eorum esse, nedum videre. [10] Nam aliqui sunt longitudinis passuum decem et grositudinis
+         circumcirca palmos .X., sed istius quantitatis sunt maiores. [11] Ipsi habent a partte
+         anteriori, iuxta capud, duo crura brevia, que pedes non habent, sed habent tres ungues,
+         videlicet duas parvas et unam maiorem, factas in modum unguium falconum vel leonum.
+         [12] Capud habent maximum |29r| et oculos qui sunt maiores uno pane. [13] Os habent
+         tam magnum quod deglutirent integrum unum bovem. [14] Dentes habent maximos. [15]
+         Ipsi sunt ita magni et feroces ultra modum quod omnis homo et bestia ipsos timet.
+         [16] Item reperiuntur minores istis, videlicet de passibus .VIII., .VI. et .V. longi.
+         [17] Huiusmodi vero serpentes taliter capiuntur. [18] Nam, propter intensum calorem,
+         de die sub terra permanent in cavernis; de nocte vero exeunt ad pascendum, et bestias
+         omnes comedunt quas posunt attingere. [19] Et dum comederint, serpunt ad lacus, fontes
+         et flumina causa potus. [20] Et dum eundo ad flumina propter potum per arenam serpunt,
+         pre nimia gravitate ponderis eorum, tam magna patent vestigia quasi una magna trabs
+         illac foret deducta. [21] Et venatores ipsos capientes, ubi discernunt limitem per
+         quem soliti sunt ire versus aquam, in aliquo descensu ripe per quam limes descendat,
+         palum unum fingunt valde fortem, ita subtus teram quod de ipso palo quasi nil apparet.
+         [22] Et in ipso pallo figunt unam ‹la›melam ferri valde acutam et bene incidentem,
+         que aliquantulum versus ingressum serpentum manet dependens, et supra palum forte
+         per digittos tres apparet; et cum arena eam coperiunt venatores. [23] Et huiusmodi
+         ingenia in pluribus locis plura ponunt, secundum plures tramites plurium serpentum.
+         [24] Hora vero qua serpens protendit ad flumina causa potus, dum pervenerit ad locum
+         ingenii, propter descensum ripe procedens cum fuga, se in predictum ferum repercutit,
+         |29v| quousque ad umbilicum scinditur per ventrem incipiendo iuxta pectus, ita quod
+         statim serpens moritur. [25] Et tunc homo propter clamorem avium cognoscit serpentem
+         fore mortuum, et tunc illuc accedit. [26] Aliter non audet ibi apropinquare. [27]
+         Et statim ipsum excorians, fel de corpore extrahit et ipsum valde carum vendit: nam
+         de ipso fiunt optime medicine. [28] Quia si qua persona a cane rabbido morderetur,
+         et daretur ei in potu de hoc felle, et statim liberatur. [29] Si mulier dolores patiens
+         in partu, parere non valendo, sumpto in potu modico de dicto fele, statim, se expediens,
+         a doloribus liberatur. [30] Preterea in dicta provincia nascuntur magni equi, qui
+         ducuntur in Indyam ad vendendum. [31] Gentes ille equitant stapites tenentes longas quemadmodum apud
+         nos. [32] Et ideo dicitur longas, quia <term ref="#tartari">Tartari</term> et quasi omnes alie gentes, propter sagitamenta, ipsas portant breves, quia, cum
+         sagitant, se rittos errigunt supra equos. [33] Habent etia‹m› arma perfecta de coriis
+         buffallorum. [34] Habent lanceas, clipeos et balistas. [35] Omnes eorum sagitas tosicant.
+         [36] Et omnes, tam femine quam mares, et precipue qui ad opera mala intendunt, tossicum
+         portant secum, ut si casu fortuito, aliquo comisso, aliquis capiatur propter quod
+         debeat ad torturam poni, priusquam velit penas substinere flageli, tosicum in os proicit
+         et deglutit, ut per ipsum quam cicius moriatur. [37] Sed quia ad hoc dominium est
+         affectum, semper stercus caninum h‹ab›etur paratum, ut si quis |30r| captus, dicta
+         de causa, tossicum deglutiret, ad hoc ut tosicum ipsum evomat, statim stercus predictum
+         ipsum faciat deglutire; ita quod dominium huiusmodi ad hoc invenit remedium, et est
+         quid expertissimum. [38] Item iste gentes aliam turpem et nephariam consuetudinem
+         observabant. [39] Nam si qui nobilis et pulcer, et magne aparencie et valoris, veniret
+         ad domum alicuius de ista provincia hospitatum, interimebatur veneno in nocte; et
+         hoc ut gratia valoris sui, et sensus prosperitas, et anima in illo hospitio remaneret.
+         [40] Et sic quam plures deperibant. [41] Sed <term ref="#gran-can">Magnus Can</term> illam consuetudinem interdixit, quod timore ipsius non fuit amplius observata.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

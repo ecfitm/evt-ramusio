@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-28-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-28">
+      <note>
+	<p>Anche nella pericope conclusiva dell’episodio piratesco Ramusio si affida a P III 34 6 «Homines autem quos capiunt in personis non ledunt, sed naves et cuncta bona eorum
+         accipientes ipsos vacuos in littore ponunt dicentes: “Ite et rursum procurate ditari,
+         forsitan adhuc cum rebus aliis per nos transitum facietis et que de novo lucrati fueritis
+         deferetis ad nos”». Pipino mette a frutto VA CXLIV 8, introducendo il dettaglio dello sbarco sul «lito» (ripreso da Ramusio): «Questi
+         corsari toleno le navi e lla roba, e ai omeni non fa alguno malle e dixeno: “Andé
+         e guadagnié del’altra roba, ché forsi per aventura ne vignierì anchor per le man”».
+         Il modello franco-veneto – F CLXXXII 7 «E quant cesti corsaus prenent aucune nes con merchaans, il lor tollent la nes con
+         toutes les mercaandies, et as homes ne font nul maus, mes lor dient: “Alés gaingner
+         des autres avoir: si noç en doirés encore por aventure!”» – si ripete in <ref type="witlink" target="#z-null-116">Z 116 12-13</ref>: «Et quando isti pirate aliquam navim mercatorum capiunt, eis navim cum omnibus mercimoniis
+         auferunt. Et homines in aliquo non offendunt, sed dicunt: “Ite lucratum de aliis,
+         et forte iterum dabitis nobis”»; non diversamente in V 99 6 «[…] et quando questi robadori piano qualche nave de marchadanti li tuol le nave
+         e tuta la marchadantia, et non fano mal algun ai omeni; et dixeli: “Andé a vadagnar
+         dele altre”». VB CLII 7 condivide con P il dettaglio del «lito»: «Quando questi corsari prende alchuna nave,
+         i tien quella e lla roba e meteno i marchadanti in tera e dichono: “Andate a guadagnar
+         del’altra che çoverà a voi et a noi”». Su L 169 2 vedi la nota al par. 3.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

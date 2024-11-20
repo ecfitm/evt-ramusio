@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>R presenta evidenti affinità con L e con P, che anticipano in questo punto un’informazione
+         (L «Et transitur bene .XX. dietis per inhabitata loca […]», P «Protenditur autem in
+         longum provincia per dietas .XX. […]») che nel resto delle redazioni si trova spostata
+         più avanti (vd. la nota al par. 5): <ref type="witlink" target="#l-null-94">L 94 1-2</ref> «Finitis hiis .V. dietis, invenitur provincia dicta <term ref="#thebeth">Thebet</term>, que afflictione <term ref="#tartari">Tartarorum</term> est destructa; et in ipsa sunt quam plures civitates et castra, dirupta tamen. Et
+         transitur bene .XX. dietis per inhabitata loca […]»;<ref type="witlink" target="#p-ii-36"> P II 36 1-2</ref> «Transactis autem prefatis .V. dietis invenitur provincia <term ref="#thebeth">Thebeth</term>, quam <term ref="#gran-can">Magnus Kaam</term> preliando et expugnando devastavit; multe enim civitates ibi destructe sunt et castra
+         dirupta. Protenditur autem in longum provincia per dietas .XX. […]». La forma del
+         toponimo (<term ref="#thebeth">Thebeth</term>) e alcune affinità formali (R «per lunghezza», P «Protenditur […] in longum») suggeriscono
+         che Ramusio si sia avvalso in questo punto di P. Va rilevato, d’altro canto, che l’informazione
+         «perché <term ref="#mongu-can">Mangi Can</term> la destrusse al tempo suo, per la guerra» non trova riscontro puntuale in P, né tantomeno
+         in L, per cui bisogna ammettere l’apporto di un’altra fonte, affine per lezione a
+         <ref type="witlink" target="#f-null-114">F CXIV 2</ref> «Aprés le cinq jornee qe je voç ai dit, adonc entre l’en en une provence qe est molt
+         gaste, car <term ref="#mongu-can">Mongut Kaan</term> la destruit por ghere. Il i a maintes villes et maint castiaus et casaus tuit derochee
+         et gastee». Nelle altre fonti tali informazioni sono deformate o incomplete: V 55 12-13 «Et in chavo de queste zinque zornade el se trova una provinzia la qual à nome <term ref="#thebeth">Tebet</term>, la qualle sono molto vasta e destruta, la qual <term ref="#mongu-can">Mul Chan</term> la destrusse per vera. Et in questa sono molte zitade e chasteli, tuti deroti e vasti»;<ref type="witlink" target="#vb-null-81"> VB LXXXI 1</ref> «‹P›asato se à le .V. giornate, se trova la gran provincia de <term ref="#thebeth">Thabet</term>, la qual <term ref="#mongu-can">Mongut Chan</term> segnor di <term ref="#tartari">Tartari</term> destruse e guastò; et à la dita provincia molte citade et chastelle tute guaste».
+         Tutto lascia supporre, per tanto, che la seconda fonte utilizzata da Ramusio in questa
+         pericope fosse Z1. In realtà Z toledano è qui notevolmente abbreviato (Z 53 19 «Et cum itum est istis quinque dietis, invenitur quedam provincia devastata nomine
+         <term ref="#thebeth">Thebet</term>»), ma è probabile che la fonte di R recasse un testo sostanzialmente coincidente
+         con quello di F.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

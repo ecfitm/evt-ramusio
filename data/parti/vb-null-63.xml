@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-63</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-63">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXIII </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-63_1_1" n="1"> ‹C›havalchando per questa provincia una giornata per levante, verso <term ref="#cataio">Lotay</term>, se trova molte çitade et chastelli. </seg>
+      <seg xml:id="vb-null-63_1_2" n="2"> Le giente parte adorano <term ref="#macometto">Machometo</term> et sono parte cristiani nestorini et gente <term ref="#idolatri">idolatri</term>, et viveno de marchadantie et mestieri. </seg>
+      <seg xml:id="vb-null-63_1_3" n="3"> Lavorasi beli pani de oro e de seta et
+         chiamasi <term ref="#nasiti">nasoy</term>, et sono altra sorta de pani che se chiama <term ref="#nasiti">nachi</term> et anchor de altri diversi pani; et sono sottoposti al <term ref="#gran-can">Gran Chan</term>, et ène una citade in dita provincia chiamada <term ref="#sindicin">Sindatiu</term>. </seg>
+      <seg xml:id="vb-null-63_1_4" n="4"> Et in questa citade se lavora tute arnixe da hoste molto bele et bone. </seg>
+      <seg xml:id="vb-null-63_1_5" n="5"> Ène
+         in questa provincia una montagna che se chiama <term ref="#idifa">Idifuonsia</term> che |244r| vol dir argentiera, però che in dita montagna se chava argiento assai.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

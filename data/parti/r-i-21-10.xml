@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-21-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-21">
+      <note>
+	<p>Nella sua efficace sintesi del testo di tradizione (per cui vd. <ref type="witlink" target="#f-null-41">F XLI 6</ref> «Et quant le <term ref="#vecchio-della-montagna">Vel</term> en vult aucun por envoier en aucun leu e faire occire aucun home, il fait doner le
+         be‹v›raje a tant come il li plee, et, quant il sunt endormi{a}, il ‹les› fait prendre
+         en son pala‹i›s{io}»), l’esordio «Passati quattro o cinque giorni, di novo gli faceva
+         addormentare et portar fuori» dipende probabilmente dallo sviluppo di <ref type="witlink" target="#p-i-28">P I 28 6</ref> «Post dies aliquot faciebat quos volebat ex ipsis pocione simili soporari, et inde
+         educi». </p>
+	<p>Per il resto, i parr. 10-11 sono un sostanziale adattamento delle corrispondenti linee
+         di VB, che Ramusio sceglie probabilmente per la vigorosa teatralità dei dialoghi:
+         cfr. <ref type="witlink" target="#vb-null-26">VB XXVI 8-11</ref> «[…] in presencia di soi dimandava quel resusitato dove li era statto, a cui el resusitato
+         dicea: «Segnor mio io, son stato per la toa merçé nel Paradiso». Et qui in pressencia
+         de tuti rechontava tute chosse avea visto et trovato nel santo Paradiso, cosse di
+         tanto piacere che a tuti era meraveioxa ‹…› ad intendere et con grandisimo desiderio
+         de tuti de andare nel paradiso. Et el <term ref="#vecchio-della-montagna">Vechio</term> ‹ge› respondeva: «Or fiollo questo è per comandamento del profeta nostro <term ref="#macometto">Machometo</term>, ché chi defenderà el servo suo lo i concederà el paradiso». E per questo modo avea
+         sì inanemato tuti suoi a morire per andar nel Paradiso che beato se chiamava cholui
+         a chi el <term ref="#vecchio-della-montagna">Vechio</term> chomandava andasse a morir per nome suo, con ferma sperança che morendo anderia nel
+         Paradisso».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

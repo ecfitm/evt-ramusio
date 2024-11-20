@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-59</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-59">
+    <head>
+      <hi rend="bold">P, I 59</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-59_2_1" n="1"> Sunt autem <term ref="#tartari">Tartari</term> in armis strenui valde et in bellis victoriosi; non enim sunt homines delicati, sed
+         laboriosi valde: quando propter bella aut pro aliqua necessitate |27b| exercitus expedit
+         ad incomoda tolleranda ceteris mundi partibus promptiores sunt ac fortiores; per mensem
+         integrum, si opus fuerit, nichil aliud comedunt nisi iumentorum lac et carnes animalium
+         que in venacionibus capiunt. Equi similiter eorum herba simplici contentantur quam
+         in pascuis habent, nec expedit in causa tali ut eis blada vel pabula alia preparentur.
+         Tota nocte quandoque <term ref="#tartari">Tartari</term> armati super equos insident, et equi nichilominus pascuntur ubicumque inventa fuerit
+         herba. Homines laboriosissimi sunt et contenti modico et optime sciunt civitates et
+         fortilicia capere: quando eos occasione bellorum viam magnam facere oportet, nichil
+         secum de suis rebus preter arma deferunt, nisi tabernaculum parvum sub quo latitant
+         quando pluit. Quilibet etiam flascones duos de corio portat, in quibus deferunt lac
+         quod bibunt unamque |27c| ollam parvulam pro coquendis carnibus, quam vulgariter dicimus
+         “pignatellam”. Si quando etiam opus fuerit celeriter ad locum aliquem pervenire remotum,
+         per dies decem ab omni cibo cocto abstinebunt, si propter cibi decoctionem retardari
+         contingat iter eorum; habent autem lac siccum admodum solide paste et in aquam mittunt
+         in vasculo, et tam diu cum baculo miscent donec liquefiat, quod postea bibunt; sepe
+         etiam pro vini defectu vel aque equos flobotomant et sanguinem eorum bibunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

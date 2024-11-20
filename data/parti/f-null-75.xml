@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-75</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-75">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LXXV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-75_1_1" n="1"> Ci devise tous les fais dou <term ref="#gran-can">Grant Kaan</term> qe orendroit rengne, que <term ref="#cublai-can">Cublai Kaan</term> est apelés, et divise comant il tient cort et comant il mantent seç jens en grant
+         justice; et encore dit de son conqist.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-75_2_1" n="1"> Or vos vueil comencier a cont{i}er en nostre livre tous les grandismes fait e
+         toutes les grandismes mervoies dou <term ref="#gran-can">Grant Kaan</term> que aorendroit regne, qe <term ref="#cublai-can">Cublai Kaan</term> est apeléç, qe vaut a dire en nostre lengaje le grant seingnors des seingnors. </seg>
+      <seg xml:id="f-null-75_2_2" n="2">
+         Et certes il ha bien ceste nom a droit, por ce que cascun sache voiremant qe ceste
+         <term ref="#gran-can">Grant Kan</term> est le plus poisant |34a| homes des jens et des teres et des treçor que unques fust
+         au monde ne qe orendroit soit, da Adam notre primer pere jusque a cestui point. Et
+         ce voç mostrerai je tout apertamant en nostre livre que ce est veritables chouse,
+         si qe chaschaun sera content que il est le greingnor sire que unques fust au monde
+         ne qe orendroit soie. </seg>
+      <seg xml:id="f-null-75_2_3" n="3"> E vos most‹re›rai raison comant.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

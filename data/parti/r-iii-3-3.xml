@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-3-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-3">
+      <note>
+	<p>P III 7 2 (come il modello VA CXXII 33) omette la transizione, che Ramusio recupera direttamente da  Z 94 8 «Sfacta quidem istorum ydolorum sunt de tot diversitatibus et operibus diabolorum,
+         quod in nostro ‹libro› dicenda non sunt, quoniam nimis nepharium et abhominabile foret
+         talia enarare» (traduzione un po’ asciugata di F CLX 4 «Les fais de cestes ydules sunt de tantes deversités et de tantes evres de diables
+         qu’il ne fait pas a mentovoir en nostre livre, por ce qe trop seroit mauvés chouse
+         a oïr por les cristienz: et por ce en laieron de cestes ydres e voç conteron d’autres
+         couses»).</p>
+	<p>V 82 5 ripete (equivocando in «inverso i christiani») un modello affine a F-Z: «I fati de
+         queste idolle sono de tanta diversitade, over ‹di› diavolli, che in questo nostro
+         libero non sono da dire, perché saria tropo malvaxia chossa da dir inverso i christiani;
+         et inperò de queste idolle lasseremo e diremo de altre chosse»; VB CXXVIII 5 amplifica e al contempo depotenzia il giudizio morale sottostante alla dichiarazione
+         di reticenza: «Sono grande incantadori et incantano le idolle et fano le più mirabelle
+         et stupende cosse se potesse dire, le qual passerò soto silencio per non esser tedioso»;
+         L 143 16 abbrevia all’essenziale (conservando della transizione il giudizio analettico morale):
+         «Hec enim ydola tam in responsis quam in aliis talia miranda dicunt, que vix narrantibus
+         crederetur».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

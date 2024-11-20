@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-4">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, IV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-4_1_1" n="1"> ‹G›ionto funo i diti do fratelli alla presencia del Gran Segnor di <term ref="#tartari">Tartari</term>, da quello i fono receuti onorevellemente e visti volentieri, però che nei suo’ çorni
+         in quelle parte homeni da ponente non era stati, diletendose con quegli de intendere
+         delle provincie e ssegnori de ponente, e dela grandeça e possança loro, et della soa
+         iusticia et del modo e maniere dele lor bataie, et eçian del Papa e del modo e chostumi
+         e dele opere soe et dela fede et chostumi. </seg>
+      <seg xml:id="vb-null-4_1_2" n="2"> Et essendo el dito <term ref="#gran-can">Gran Segnor Chan</term> dele sue dimande de tute ordinatamente satisfato, parendo a quel Segnor i diti do
+         fratelli sapientissimi homeni et delle chosse del mondo molto pratichi, sapendo queli
+         fratelli bene la lingua tartara, a quel Segnor molto i fono chari, et con quelli molto
+         el se diletava de parlare per intendere delle chosse de ponente; per l’informacion
+         di qualli, el dito <term ref="#gran-can">Gran Chan</term> deliberò mandarli per anbasadori con uno di soi al Papa. </seg>
+      <seg xml:id="vb-null-4_1_3" n="3"> Et datolli in suo conpagnia
+         è per anbasatore uno suo barone nominato <term ref="#chogatal">Cogatal</term>; e forniti i diti tre anbasatori de tute chosse oportune, dato a quegli conmandamento
+         che i dovesseno per parte soa andar alla presencia del Papa, et a quello recherir
+         che lo i mandasse cento savi homeni instruti dela dotrina e fede cristiana, et ati
+         a maistrar la giente soa e che sapia mostrar qual fede sia la miore, et che nel suo
+         ritorno i ge portaseno del’olio che arde sopra el sepulcro de Cristo in <term ref="#hierusalem">Gierusalem</term>. </seg>
+      <seg xml:id="vb-null-4_1_4" n="4"> Et dato a quelli una tavolla d’oro, nela qualle era scrito i diti tre anbasadori
+         erano del <term ref="#gran-can">Gran Chan</term> et che per tuti i suo’ luogi i foseno dato tuto quelo i aveano mestiero e schorta
+         di chavalieri da luogo a luogo, tolto licencia dal Segnore, montòno a chavallo e misese
+         a chamino. </seg>
+      <seg xml:id="vb-null-4_1_5" n="5"> E dapoi chavalchato algune giornate, el barone tartaro anbasatore con
+         i do fratelli se infermò gravemente e più holtra non poté chavalchare. </seg>
+      <seg xml:id="vb-null-4_1_6" n="6"> Vedendo
+         i do fratelli el barone suo conpagno per la infermità non poter più holtra chaminare,
+         dapoi molti çorni, lasato quello in una tera, se miseno a chamino et in tuti luogi
+         lor chapitavano erano receuti onorevellissimamente e provistolli de tuti lor bisogni.
+         </seg>
+      <seg xml:id="vb-null-4_1_7" n="7"> Dapoi el suo longo chamino per ani do per le gran fredure, neve et giaçe et per
+         le asprece dele vie che furono chaxon di suo longa dimora, çonseno sani a <term ref="#giazza">Laiaça</term>. </seg>
+      <seg xml:id="vb-null-4_1_8" n="8"> E partiti da <term ref="#giazza">Laiaça</term>, çonseno in <term ref="#acre">Acre</term> nel .MIIcLXVIIII. del mese de aprille, nel qual luogo i trovòno miser <term ref="#tibaldo-de-vesconti-di-piacenza">Tibaldo da Piaxença</term> el qual era ligato del Papa de quella provincia, per el qual i fono informati el
+         Papa era morto. [9] Al qual miser Tibaldo narò quel i aveano in comandamento dal <term ref="#gran-can">Gran Chan</term> Segnor di <term ref="#tartari">Tartari</term>. [10] Avendo aldito miser Tibaldo i do fratelli con amiraciun e grandissimo piacer, parendoge per tal anbasada poder
+         reusir grande utelle et onore alla fede cristiana, et inteso la morte del Papa, parendo
+         a quelli non poder seguir alguna cossa dela soa anbasada fin la creaciun de nuovo
+         Papa, deliberòno vegnir a Venexia per veder la fameia soa. [11] E partitosi de <term ref="#acre">Acre</term> çonseno a Veniexia; e trovòno la moier de miser Nicolò eser morta, dila qual l’avea
+         uno suo fiol Marcho che fo quel miser Marcho che tanto dil mondo cerchò e vete, e
+         che scrise questo libro chome indriedo se dirà. [12] I qual do fratelli steteno do
+         ani in Veniexia aspetando la elleciun de nuovo Papa. [13] Nel qual tenpo miser Nicholò
+         sì tolse moier e sì la lasò graveda.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

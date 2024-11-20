@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-40-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>Nella prima parte («Et le cornacchie […] fiele»), Ramusio riproduce (seppure non sempre
+         fedelmente) <ref type="witlink" target="#z-null-57">Z 57 25-26</ref>, «Et tunc homo propter clamorem avium cognoscit serpentem fore mortuum, et tunc illuc
+         accedit. Aliter non audet ibi apropinquare. Et statim ipsum excorians, fel de corpore
+         extrahit […]». La lezione delle altre redazioni (ivi compreso F) è qui più sintetica:
+         <ref type="witlink" target="#p-ii-40">P II 40 10</ref> «Et primo fel ipsius extrahunt […]»; <ref type="witlink" target="#v-null-56">V 56 32</ref> «[…] et quando i àno piado questi, i tirano el fiel del chorpo»; VB LXXXIV 10 «I chaçadori, visto el sangue, siegue quello e trovallo morto e subito ge traçe el
+         fielle […]»;  <ref type="witlink" target="#f-null-118">F CXVIII 15</ref> «Et quant il le ont prise, il le t‹r›aient le fel dou ventre […]».</p>
+	<p>Nella seconda parte Z toledano reca un testo abbreviato (vd. F), e le lezioni caratteristiche
+         che condivide con R sono molto poche: <ref type="witlink" target="#z-null-57">Z 57 25-26</ref> «[…] et ipsum valde carum vendit: nam de ipso fiunt optime medicine. Quia si qua
+         persona a cane rabbido morderetur, et daretur ei in potu [R «dandolo a bere»] de hoc
+         felle, et statim liberatur. Si mulier dolores patiens in partu, parere non valendo,
+         sumpto in potu modico de dicto fele, statim, se expediens, a doloribus liberatur»
+         (vd. <ref type="witlink" target="#f-null-118">F CXVIII 15-18</ref> «[…] et le vendent mout chier, car sachiés qu’il s’en fait grant mecine, car, se
+         une home est mordu de chien arabieu, l’en le done a boir un pou, le pois do’n petit
+         diner: il est guer‹i›s mantinant. Et encore, quant une dame ne puet enfanter et a
+         poine et crie formant, adon li donent de cel fel del serpens un pou, et adonc la dame,
+         tantost qe le a beu, enfant mantenant. La terce est qe quant l’en a aucune nasence,
+         et l’en hi met sus un pou de cest fel, et adonc est gueri en pou des jors. Et por
+         cest achai‹s›ons qe je voç ai dit cest fel de cest grant serpent est tenu mout chier
+         en cel provences»). È senz’altro probabile che Z1 fosse più completo di Z toledano, ma non è escluso che che Ramusio abbia tenuto conto
+         in questo punto anche di altre testimonianze. L’apporto di <ref type="witlink" target="#vb-null-84">VB LXXXIV 10</ref> pare confermato da alcune somiglianze formali: «I chaçadori, visto el sangue, siegue
+         quello e trovallo morto e subito ge traçe el fielle però che quello molto è aprixiato
+         [«è molto apprezzato»]; però che molto el valle a uno che fose morso da alchun animal
+         venexoso, et ancho in parto de una dona molto è çovevelle a far quella parturire [R
+         «a far partorire una donna»]; e molto mitiga el dollore çova molto a ogni nasiun et
+         in più suo’ medessine [«ad infinite medicine»] fi adoperato, e però se vende molto
+         caro». Anche il ricorso a P appare verosimile:  <ref type="witlink" target="#p-ii-40">P II 40 10</ref> «[…] quod precio magno vendunt, eo quod medicinale est valde: si quis enim morsum
+         [R «morso»] patitur canis rabidi, modicum de ipso bibens ad pondus scilicet denarii
+         unius parvuli [R «al peso di un danaro in vino»], statim plene liberatur; mulier etiam
+         in partiis doloribus constituta modicum sumens ex ea expeditur a partu; qui etiam
+         apostema aliquod patitur, si in infirmitatis locum hoc felle perungit in paucis diebus
+         perfecte curatur». La dittologia «carboni et pustule», infine, potrebbe essere un
+         riflesso della lezione «inflationes eciam sive appostemata» di <ref type="witlink" target="#l-null-97">L 97 7</ref> «[…] Fel vero retinent valde carum, cum sit valde utilis ad medelas: morsum enim
+         a rabido cane pondus parvi denarii bibitum ex hoc felle sanat statim; parum eciam
+         ex eo mulierem difficile parientem liberat quasi statim; inflationes eciam sive appostemata,
+         superpositum statim sanat. Hiis de causis habetur hoc fel in hiis partibus valde carum».
+         Non emergono invece tracce di contatti con <ref type="witlink" target="#v-null-56">V 56 32-34</ref> «[…] et quello vendeno molto charo, perché de quello se ne fano medexina. Et àno
+         tre nobele vertude: la prima, se uno fosse mordudo da uno chan rabioxo et sia ’nde
+         dado da ber tanto si à per mezo pizolo danar, subito fi varido; la segonda vertude,
+         se una femena non podesse parturì et avesse gran pene, siandoi dado da ber de ’sto
+         fiel uno pocheto, la dona subito parturisse; la terza vertude sono che quando uno
+         homo àno alguna nasion et che i sia metudo uno pocho de ’sto fiel sopra, quella inchontinente
+         sono varido. Et per questa chaxon el fiel de questo serpente vien tegnudo molto charo
+         in quella provinzia».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

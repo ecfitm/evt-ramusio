@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-1-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>Benché la corrispondenza tra le due versioni non sia piena, è verosimile che la fonte
+         di R recasse un testo non molto distante da <ref type="witlink" target="#f-null-75">F LXXV 3</ref> «Et certes il ha bien ceste nom a droit, por ce que cascun sache voiremant qe ceste
+         <term ref="#gran-can">Grant Kan</term> est le plus poisant homes des jens et des teres et des treçor que unques fust au
+         monde ne qe orendroit soit, da Adam notre primer pere jusque a cestui point. Et ce
+         voç mostrerai je tout apertamant en nostre livre que ce est veritables chouse, si
+         qe chaschaun sera content que il est le greingnor sire que unques fust au monde ne
+         qe orendroit soie». Meno forti sono le affinità tra R e <ref type="witlink" target="#p-ii-1">P II 1 1</ref> (che riporta una versione abbreviata): «[…] cuius potencia maior esse apparet in
+         divitiis, in dominacione terrarum et in presidencia multitudinis populorum quam cuiuscumque
+         regis vel principis cunctis retro temporibus referatur, sicut in capitulis sequentibus
+         apparebit». In L, V e VB queste informazioni sono omesse. </p>
+	<p>In Z manca l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

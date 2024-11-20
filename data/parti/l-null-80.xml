@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-80</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-80">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 80</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-80_2_1" n="1"> Modus nunciorum <term ref="#gran-can">Magni Canis</term> mirabilis est; ut ad hoc commode fiat sic ordinatus est. </seg>
+      <seg xml:id="l-null-80_2_2" n="2"> Ex civitate <term ref="#cambalu">Cambaluch</term> separantur multe et diverse vie diversis provinciis deputate; et in qualibet ex hiis
+         viis, longe a civitate .XXV. miliaria, est pulcrum pallatium, ubi continue manent
+         a .IIIc. usque ad .IIIIc. equi; et est tale pallatium optime munitum pulcris et nobilibus necessariis ut,
+         dum casus acciderit, possint legati vel ambaxiatores honorifice permanere. </seg>
+      <seg xml:id="l-null-80_2_3" n="3"> Sicque
+         ‹continuo› ad .XXV. usque ad .XXX. sunt deputata simili modo pallatia, que nominant
+         “<term ref="#lamb">iamb</term>”, quod sonat in lingua nostra “posta equorum”. </seg>
+      <seg xml:id="l-null-80_2_4" n="4"> Et sunt de talibus postis per
+         omnes provincias <term ref="#gran-can">Magni Canis</term> plus quam .X.M., in quibus manent plus quam .CC.M. equi, omnes ambaxiatoribus et
+         nunciis deputati, quos equos circumstancia loca propriis manutenent expensis. </seg>
+      <seg xml:id="l-null-80_2_5" n="5">
+         Verum ‹quod› si essent loca inhabitata per que transire oporteat, per ipsa eciam sunt
+         poste huiusmodi deputate, verum quod inter eas maior adest distantia: est enim .XXX‹V›.
+         miliariorum vel .XL., et aliquando plurium; ad quas postas similiter adsunt equi qui
+         tenentur expensis propriis <term ref="#gran-can">Magni Canis</term>. </seg>
+      <seg xml:id="l-null-80_2_6" n="6"> Habent ergo per hunc modum nuncii eius, quocumque vadunt, equos hospicium reliquaque
+         necessaria, iuxta velle; quod si necesse fuerit, aliquando aliquem cursorem equestrem
+         velocissime aliquod novum ferre equitabunt bene .CC. vel .CCL. miliaribus die una,
+         et aliquando .CCC. </seg>
+      <seg xml:id="l-null-80_2_7" n="7"> Sunt enim quidam homines electi ad hec talia, et ex hoc multum
+         appreciati. Hiis exhibetur tabula habens ymaginem çirifalchi, in signum quod velocissime
+         ire intendunt, et cum ire debet, unus sit vel duo, ascendit equum, totumque ventrem
+         et caput fasciat stricte valde; deinde equo incitato, numquam currere cessat donec
+         ad aliquam pervenerit postam. Sicque continuo faciendo longum terre spacium perambulant
+         una die. </seg>
+      <seg xml:id="l-null-80_2_8" n="8"> Sunt insuper pedestres cursores quam plurimi, taliter ordinati; inter
+         postam et postam sunt quam plurime mansiones in modum villarum, in quibus sunt quam
+         plures domus ubi manent multi ex hiis cursoribus – et sunt hee mansiones distantes
+         inter se miliaria tria. [9] Et dum necesse est aliquem velociter mittere, tunc unus
+         ex hiis cui commissum est accingitur cingulo pleno campanellis, citissimeque ut plurimum
+         currendo non cessat, donec tribus perambulatis miliaribus ad aliquam pervenerit mansionem,
+         ubi invenit cursorem alium iam paratum cum cingulo campanellis pleno, eique mandatum
+         litteras vel quicquid portaverit committit. Tunc et ille simili modo velocissimum
+         arripit iter, donec et ipse, perambulatis tribus miliaribus, ad aliam pervenerit mansionem,
+         ubi et ipse alium invenit preparatum qui vices eius assumit; sicque continue faciunt
+         donec mittitur ad locum ubi fuerit terminatum. Campanellas autem iam portant ideo
+         ut alterius mansionis nuncii adventum de longe sen|13bis|tientes ante adventum eius
+         alium preparent ad eundum. [10] Et hoc modo unusquisque ex hiis nunciis complet in
+         tribus miliaribus cursum suum. [11] Hoc modo habet <term ref="#gran-can">Magnus Canis</term> nova de longe .X. dietis in una die et nocte, et in duabus diebus et noctibus longe
+         de .XX. dietis, ita quod in .X. diebus habet nova longe de .C. dietis; multociens
+         enim hii tales per hunc modum portant domino in una die et nocte fructus longe de
+         .X. dietis. [12] Hii eciam tales multum appreciantur, et bene eis a domino providetur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

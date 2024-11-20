@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-7-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-7">
+      <note>
+	<p>A partire da qui Ramusio si attiene all’ordinamento della materia di P, che anticipa
+         in questo punto le informazioni relative ai sobborghi di Cambaluc (vd. par. 17). Si noti che R non segue soltanto la testimonianza di <ref type="witlink" target="#p-ii-11">P II 11</ref> «Extra civitatem <term ref="#cambalu">Cambalu</term> sunt suburbia .XII. magna valde ante singulas portas […]», ma si rifà anche a una
+         fonte più ricca di informazioni di questa: vd. p. es. <ref type="witlink" target="#f-null-94">F XCIV 4</ref> «[…] que sacchiés qu’il hi a tant burs come portes, ce sunt doçe, que sunt grandismes,
+         que ne est homes que peust conter le no‹n›bre car ‹a› assez plus jens en celle burs
+         que en la ville» (R «a tal che sono piú quelli che habitano ne’ borghi che quelli
+         che habitano nella città»; <ref type="witlink" target="#v-null-45">V 45 1-2</ref> «[…] L’àno dodexe porte e dodexe portegi, in li qual portegi sono de molti pallazi
+         […] sì che sono tanta la zente che non puono star in la zitade»; <ref type="witlink" target="#vb-null-68">VB LXVIII 4</ref> «[…] tuta giente non potea in quella abitare ma aloçavano parte ne’ borgi e parte
+         fuori […]» / <ref type="witlink" target="#vb-null-68">VB LXVIII 6</ref> «Àno belissimi e gran borgi […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

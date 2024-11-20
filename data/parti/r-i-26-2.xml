@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-26-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-26">
+      <note>
+	<p>La fonte di R è senz’altro (tradotto <hi rend="italics">verbum de verbo</hi>) <ref type="witlink" target="#z-null-22">Z 22 4</ref> «Portant ad eorum aures suspensos circulos aureos et argenteos cum perlis et pretiosis
+         lapidibus». L’ultimo segmento della pericope («lavorati con grande artificio»), privo
+         di riscontro nella tradizione, può anche essere inserzione ramusiana.</p>
+	<p>Non distante da R è anche il dettato degli altri testi: <ref type="witlink" target="#l-null-42">L 42 3</ref> «[…] portant in auribus circulos aureos et argenteos cum lapidibus preciosis et margaritis
+         […]»; <ref type="witlink" target="#p-i-35">P I 35 2</ref> «[…] in auribus inaures aureas et argenteas deferunt cum margaritis et lapidibus
+         preciosis»; <ref type="witlink" target="#v-null-25">V 25 3</ref> «E li omeni de questa porta ale orechie zerchieli d’oro e d’arzento chon perle e
+         pietre prezioxe […]»); <ref type="witlink" target="#vb-null-30">VB XXX 5</ref> («I omeni portano aneli over cercelli ale orechie, de arçento et de oro e con çoie
+         sechondo la posibilitade loro») – tutti nel solco della lezione di <ref type="witlink" target="#f-null-47">F XLVII 4</ref> «Les homes portent a lor oreiles cerchiaus et bocles d’or et d’argent et de perles
+         et de pieres presioses assez», e tutti concordi nel mutare il genitivo «de perles
+         et de pieres […]» in complemento di unione (<hi rend="italics">facilior</hi>?): «cum lapidibus preciosis et margaritis», «chon perle […]», «con çoie» etc.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

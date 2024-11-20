@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>A parte una piccola aggiunta («combattendo con quelle per gran spatio di tempo»),
+         R riflette nella sostanza <ref type="witlink" target="#f-null-93">F XCIII 16-19</ref> «Et si voç di que quant le <term ref="#gran-can">Grant Sire</term> alera en ceste canbre sus le leofant, et des autres baronz qe chavauchent environ
+         lui li di‹e›nt: «Sire, grues passent!» Et le <term ref="#gran-can">Grant Sire</term> fait descovrir la chanbre desovre et adonc voit les grues; il fait prendre celz gerfaus
+         qu’il vuel{en}t et le laisse aler, et celz gerfaus plusors foies prennent les grues.
+         Et ce voit toutes foies en son lit et ce li est bien grant soulas et grant delit.
+         Et toutes les autres baronz et chevalers chevauchent environ le seingnors». La redazione
+         P presenta un testo abbastanza articolato, che però reca alcune lezioni singolari
+         e soprattutto non contiene tutti i dettagli che si leggono in R (e in F): <ref type="witlink" target="#p-ii-19">P II 19 4</ref> «Iuxta elephantes qui cameram portant, multi barones et milites equitant qui non
+         discedunt a rege, qui, cum vident fagianos vel grues aut aves aliunde transire, falconeriis
+         qui cum rege sunt indicant, qui statim regi notificant. Ipse autem discooperiri faciens
+         cameram girfalcos quos vult dimitti iubet ad aves, et ipse in lecto residens ludum
+         avium intuetur». Frutto di uno sporadico ricorso a P potrebbe essere la lezione «o
+         altri uccelli» (P «aut aves»). <ref type="witlink" target="#v-null-44">V 44 8</ref> trasmette un testo accorciato e corrotto: «[…] et li altri chavalcha apresso questi
+         lionfanti, et quando li vede vegnir l’aquila per aiere lor chiama el <term ref="#gran-can">Signor</term>, e dixeli; et quello averze una porta di sopra e lassa andar li zifalchi, quelli
+         che a lui par, et li zifalchi piano de quelle allo <term ref="#gran-can">Signor</term>, sì che al <term ref="#gran-can">Signor</term> par uno gran sollazo». Il passo viene omesso in L. In VB e Z manca l’intero capitolo.</p>
+	<p>Subito dopo questa parte, F e V recano un’annotazione che in R non compare: <ref type="witlink" target="#f-null-93">F XCIII 20</ref> «Et sachiés qe unques ne fu, ne croi qe soit, nulz homes qe si grant seulas ne si
+         grant delit poïst en cest monde con cestui fait, ne qe si en aüst le poïr de fer»;
+         <ref type="witlink" target="#v-null-44">V 44 9</ref> «Et non chredo che fo mai signor che andasse più a hoxelar et avesse più piaxer di
+         questo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

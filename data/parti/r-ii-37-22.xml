@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-22</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>R segue perlopiù (condensando e rielaborando in più punti) <ref type="witlink" target="#z-null-54">Z 54 11-13</ref> «Sunt in provincia illa perfectiores homines in arte magica, secundum eorum consuetudines,
+         qui in omnibus illis circumstantibus provinciis valeant reperiri. Nam maiora faciunt
+         veneficia et magis fera, per artem diabolicam, quam unquam visa vel audita fuisent
+         [R «fanno per arte diabolica i maggior veneficii et ribalderie che mai fussero viste
+         o vero udite»]; quod non est in libro dicendum: nam non posset fides adhyberi. Inducunt
+         enim tempestates et fulgura [R «fanno venir tempesta et fulguri»] quandocumque volunt,
+         et quandocumque cessare comppelunt; et mira faciunt infinita.» [R «et molte altre
+         cose mirabili»]. La forma «negromanti» è ripresa da <ref type="witlink" target="#vb-null-81">VB LXXXI 17</ref> «Qui ve se trova mior negromanti abia el mondo e fano i più mirabele inchantamenti
+         del mondo».</p>
+	<p>La versione di F e delle altre redazioni è meno ricca di dettagli di quella che si
+         legge in Z e, in parte, in R: <ref type="witlink" target="#f-null-115">F CXV 7</ref> «Et encore voç di qu’il ont les plus sajes encanteor et les meior astroniqe, selonc
+         lor usanç, qe soient en toutes celles provences qe entor euç sunt, car il font les
+         plus fere encantemant et les greingnor mervoiles a oïr et a veoir, por ars de diables,
+         qe ne est pas buen a contere en nostre livre, por ce qe trop se merveileroient les
+         jens»; <ref type="witlink" target="#l-null-94">L 94 16</ref> «Et sunt in hac provincia optimi astrologi et incantatores: faciunt enim talia que
+         stuperet audire»; V 55 34 «Et in questa sono mior chazadori e astrologi segondo la lor uxanza che se trova
+         in tute quelle provinzie zirchonstante, che li fano chazaxon de gran bestie salvadege
+         che mai fosse vezude ní aldide; e loro le pia per arte diabolicha, le qual chosse
+         non è da dir in lo nostro libro perché la zente se meraveierave tropo». In P tutto
+         il passo viene omesso.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

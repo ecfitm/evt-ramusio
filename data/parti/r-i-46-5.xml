@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-46-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-46">
+      <note>
+	<p>R è sostanzialmente coerente con il dettato della tradizione, rispetto alla quale
+         manca però del riferimento alle pellicce di volpe (vd. <ref type="witlink" target="#f-null-69">F LXIX 7</ref> «Lor vestime‹n›s sunt telz: car lez riches homes vestent dras dorés et dras de soie
+         et riches pennes çebellines et ermines et vair et de voupes mout richamant. Et tout
+         lor arnois sunt mout biaus et de gran vailance»; <ref type="witlink" target="#l-null-60">L 60 14</ref> «Eorum vestimenta, scilicet divitum vel nobilium, sunt panni aurei et sericini, et
+         nobiles pelles (scilicet variorum, armelinorum, vulpis et çambelinorum), suntque panni
+         solempniter muniti»; <ref type="witlink" target="#p-i-56">P I 56 2</ref> «Divites homines sericeis et aureis vestibus induuntur, deferuntque subvestibus superioribus
+         pelles delicatas vulpium, varorum aut armellinorum; utuntur etiam pellibus animalium
+         que gebelline dicuntur, que delicate nimium ac preciose sunt»; <ref type="witlink" target="#v-null-36">V 36 14 </ref>«Et questi sono richi homeni et vestesse de drapi d’oro e de seda infodradi d’armelini,
+         varo e zebelini, volpe e de tute altre pele; sono li suo’ vestimenti fodradi de gran
+         valor»; <ref type="witlink" target="#va-null-55">VA LV 7-8</ref> «Li richi omeni se vesteno de drapi d’oro e de seta e uxano riche pelle de zebelini
+         e armelini e de vari e volpe. Le suo’ arme sono molto belle e grande e de gran valor»;
+         <ref type="witlink" target="#vb-null-56">VB LVI 20</ref> «I homeni richi vesteno onorevellemente de pani de seta e de oro e fodre de çebelini,
+         armelini e volpe molto belle et àno de belle arnise e de gran vaglia».</p>
+	<p>L’afr. (<hi rend="italics">h</hi>)<hi rend="italics">arnois</hi>, presente in F («lor arnois sunt mout biaus»), e verosimilmente riconducibile al
+         dettato originale, pare qui utilizzato nel significato primo di “equipaggiamento bellico”
+         (cfr. <hi rend="italics">AFW</hi>, IV, pp. 922-928) – dal momento che introduce la pericope sulle armi dei Tartari
+         – più che in quello, meno comune, di “vestiti, abiti” (ma così intendono, con ogni
+         evidenza, i traduttori di L e V; il solo VA – non seguito da P, che rielabora – traduce
+         inequivocabilmente con <hi rend="italics">arme</hi>).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

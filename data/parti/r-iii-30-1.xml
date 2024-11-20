@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-30-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-30">
+      <note>
+	<p>Ramusio traduce alla lettera <ref type="witlink" target="#z-null-118">Z 118 1-2</ref> (che si caratterizza per essere glossa di F CLXXXIV 2 «<term ref="#canam">Tana</term> est un grant roiame ver ponent, mult grant et buen»; V 101 1 aveva una fonte affine a Z per contenuto, ma caratterizzata dall’uso della prima
+         persona singolare: «<term ref="#canam">‹T›orna</term> sono uno reame grando, ed è inverso ponente, et questo se intende “inverso ponente”,
+         perché in quella volta io vegniva de levante». Sintetico L 171 1 «<term ref="#canam">Tanam</term> est maximum et bonum regnum versus occidens», generico VB CLIV 1 «<term ref="#canam">‹T›anam</term> si è reame grande e bono».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>In questo punto, R riproduce quasi alla lettera <ref type="witlink" target="#z-null-58">Z 58 9-11</ref> «Gentes comedunt carnes crudas et coctas. Cibus eorum est risi cum carnibus. Vinum
+         eorum est de riso factum, cum multis admixtis speciebus; valde bonum » (che rispecchia
+         a sua volta <ref type="witlink" target="#f-null-119">F CXIX 11</ref> «El menuent de toutes chars et cuite et crue; el men‹j›uent ris cot con chars et
+         cum autre cousse selonc lor usance. Il boivent vin, qu’il font de ris et con bones
+         espices, qe mout est buen»). Non c’è ragione di credere che Ramusio abbia fatto ricorso
+         anche ad altre fonti: <ref type="witlink" target="#l-null-98">L 98 6</ref> «Commedunt hee gentes ex omni specie carnium, cocte sint vel crude, et riçis utuntur,
+         et vino ex riço facto»; <ref type="witlink" target="#p-ii-41">P II 41 3</ref> «Riso et carnibus vescuntur plurimum, potionem optimam faciunt de riso et aromatibus
+         delicatis»; <ref type="witlink" target="#v-null-57">V 57 6</ref> «Et manzano de tute charne, chussì chrude chomo chote; et manzano sorgo chon altre
+         chosse, segondo la lor uxanza; et beveno vin il qualle se fano de sorgo chon bone
+         spezie, lo qual sono molto bon»; <ref type="witlink" target="#vb-null-85">VB LXXXV 5</ref> «[…] e mança charne cruda et ancho charne chota e beve vino de rexi con specie molto
+         bon e deletevolle a bere».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

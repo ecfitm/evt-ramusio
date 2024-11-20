@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-29</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Ramusio traduce alla lettera <ref type="witlink" target="#z-null-107">Z 107 88-90</ref> «Sed ibi est quoddam genus hominum qui nuncupantur “<term ref="#gavi">gavi</term>”, et isti bene comedunt carnes bovinas. Non quod audeant occidere, sed quando aliquis
+         bos propria morte moritur vel aliter, isti “<term ref="#gavi">gavi</term>” comedunt bene ipsum. Et intingunt omnes domus eorum de stercoribus bovum» (versione
+         fedele di F CLXXIII 36 «Mes si vos di que i a une generasion d’omes que sunt apellé <term ref="#gavi">gavi</term>: cesti menjuent bien cars de buef, mes non mie que il l’oiçent ocire, mes, quant
+         aucu‹n› buef se mort de sa mort{e} ou d’autre mort, adonc cesti que je voç ai contés
+         les menuient. Et encore voç di qe il ongent toutes lor maisonz de l’osci dou buef»).</p>
+	<p>P III 24 2 abbrevia la notizia: «Inter hos autem <term ref="#idolatri">ydolatras</term> quidam alii sunt alterius secte qui dicuntur “<term ref="#gavi">goni</term>”, qui boves non occidunt, sed, si propria morte decedunt aut ab aliis occiduntur,
+         bene comedunt carnes eorum» (la soppressione di parte dell’informazione – forse quella
+         più imbarazzante – si deve al suo antigrafo, VA CXXXVII 37-38 «Dentro questa zente è una zenerazion de zente che èno apellati <term ref="#gavi">goni</term>. Questi manzano ben charne de bò, ma i non l’alzideno, ma quando el bò muor de soa
+         morte e non ‹è› morto d’altri, el manzano»).</p>
+	<p>Gli altri relatori si allineano al tenore informativo di F: L 161 22 (che introduce <hi rend="italics">in fine </hi>una nota eziologica che è un <hi rend="italics">hapax</hi>): «Sunt tamen cuiusdam secte homines ‹qui› “<term ref="#gavi">gavi</term>” dicuntur, qui carnes bovinas commedunt, dum tamen vel morte naturali vel casu aliquo
+         fortuitu mortui sunt, quia ipsos neque occiderent neque occidi facerent ullo modo;
+         domus autem eorum bovino sepo in quam pluribus locis ungunt, credentes eas sanctitate
+         bovis salvari»;  V 91 35 «Ma in quel luogo sono una gienerazion de homeni che à nome <term ref="#gavi">gravi</term>, et questi manza ben charne de buò: et non che li osa alzider, ma quando el buò muor
+         da suo’ morte over d’altra morte, questi che ve ò dito i manzano, et sì onzeno le
+         lor chase dela sonza de queli»; VB CXLIII 40 «Sono però fra questi una generacione, i qual fino chiamati <term ref="#gavi">Gavi</term>, i quali ochorendo che alchun buo per alchun senestro morisse i manceriano di quella
+         charne ma non che i ardi‹s›chono alcider alchun buo».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

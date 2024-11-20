@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-57</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-57">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 57</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-57_2_1" n="1"> A civitate <term ref="#campion">Campicion</term> itur .XII. dietis versus septemtrionem, et invenitur civitas dicta <term ref="#ezina">Eçina</term>, que est in capite deserti de arena, id est de sabulo, et est de provincia <term ref="#tanguth">Tangut</term>. </seg>
+      <seg xml:id="l-null-57_2_2" n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>; et habent camelos et bestias multas, ex quibus vivunt, et ex fructibus terre; non
+         sunt enim mercatores. </seg>
+      <seg xml:id="l-null-57_2_3" n="3"> Et hic nascuntur falcones lanierii et sacri in habundantia,
+         et valde boni. </seg>
+      <seg xml:id="l-null-57_2_4" n="4"> Et ab hac civitate <term ref="#ezina">Eçina</term> versus septemtrionem itur .40. dietis per desertum quoddam, per valles et montes,
+         ubi nulla invenitur habitatio: nulla enim gens ibi manet nisi forte estivis temporibus;
+         inveniuntur tamen animalia multa silvestria, et <term ref="#asini-salvatichi">asini silvestres</term> multi. </seg>
+      <seg xml:id="l-null-57_2_5" n="5"> In fine vero harum .40. dietarum invenitur provincia quedam versus septemtrionem,
+         secundum quod audire poteritis.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

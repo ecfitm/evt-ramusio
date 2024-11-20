@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-36</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>La fonte è chiaramente <ref type="witlink" target="#vb-null-114">VB CXIV 9</ref> «Àno le chaxe loro tanto ben conposte et richamente lavorate et tanto si diletano
+         nei ornamenti et fabriche dele chaxe soe che è chossa stupenda la gran spexa in quelle
+         i ffano». L’unico esemplare tra le fonti ramusiane che tramanda questa informazione,
+         <ref type="witlink" target="#p-ii-64">P II 64 10</ref> («In civitate hac <term ref="#quinsai">Quinsay</term> multe pulcherrime domus sunt»), reca la versione più sintetica che è attestata anche
+         in <ref type="witlink" target="#f-null-151">F CLI 13</ref> «Il hi a maintes bieles maisonz en la ville […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

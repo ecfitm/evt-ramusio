@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-19-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-19">
+      <note>
+	<p><ref type="witlink" target="#z-null-106">Z 106 2-4</ref> («Et antiquitus erat maior, quia girabat circumcirca bene tribus milibus miliaribus
+         et sexcentis, secundum quod invenitur in mappa mundi marinariorum illius maris. Sed
+         ventus tramontane tam impetuose ibi spirat quod magnam partem insule submersit in
+         aquam. Et hec est causa quare ad presens tam magna non est sicut iam pro tempore fuit»)
+         conserva la transizione eziologica finale attestata da R («[…] et questa è la causa
+         perché non è cosí grande al presente come fu già per il passato»), e presente nella
+         stesura originaria franco-veneta (come garantisce F CLXXII 3 «[…] et si voç di qe ansienemant estoit greingnor, car elle giroit environ .IIIm. e .VIc. miles, selonc que se treuve en la mapemondi des mariner de cel mer. Mes le vent
+         a tramontaine hi vient et vente si fort qe une grant partie de ceste isle a fait aler
+         sout l’eive, e ce est la caison por coi elle ‹ne› est si grant come elle fu jadis»:
+         quasi letterale, per omissione di qualche dettaglio, la resa di V 90 2 «[…] et antigamente la era molto mazore e volzeva treamilia e siezento mia, segondo
+         chomo se trova in lo napamondo dî marinari de quel mar; ma el vento de tramontana
+         sopia sì forte ch’el mena gran parte del’ixola in aqua, et questa sono la chaxon che
+         la non sono sì granda chomo la era»).</p>
+	<p>Gli altri relatori registrano il contenuto informativo originario in individuali declinazioni
+         scrittorie. Omette il riferimento alla cartografia nautica orientale P III 22 1 «Fuit tamen aliquando maior, quia, sicut in illis partibus est fama comunis, girum
+         eius aliquando comprehendebat tria milia et sexcenta: ventus vehemens veniens a regione
+         tramontana sic fortiter in annis multis in insulam irruit, impetu maximo, ut multis
+         ex maritimis montibus cadentibus multum ex insule territorio perderetur et occuparent
+         maria loca terre» (ma esso è attestato – in posizione anticipata: vd. la nota a <ref type="witlink" target="#r-iii-19">R III 19 1</ref> – nell’antigrafo VA CXXXVI 3 «Ella volzeva ben treamilia e zinquezento meia, ma el vento da tramontana ge fiere
+         sì forte che in diversi tenpi à fato ruinare in l’aqua granda parte del tereno de
+         quella ixola»). Si limita all’essenziale L 159 2 «[…] tamen olim fuit circuitus .MMM.VIc., secundum quod ‹in› nappa mundi illius maris apparet; inundatione enim maris, et
+         maxime ex septemtrionali vento multa pars ablata est». Omette il riferimento cartografico
+         pure VB CXLII 2 «E per el passatto quella fu maor però che, segondo si trova per loro scriture, quella
+         antigamente cirava migia .IIImVIc.; ma per el vento a tramontana, el qualle traçe vellocissimamente, à molto derupada
+         quella e guasta in grandissima parte» (che semplifica anche la descrizione degli effetti
+         del vento di tramontana).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

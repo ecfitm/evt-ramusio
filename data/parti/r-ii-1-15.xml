@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-1-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>La prima parte della pericope («Giunto […] due giorni») presenta evidenti somiglianze
+         con <ref type="witlink" target="#p-ii-4">P II 4 1-2</ref> «[…] pervenit ad planiciem ubi <term ref="#naiam">Nayam</term> expectabat <term ref="#caidu">Caidu</term> regis exercitum. Nocte autem iuxta collem quamdam quievit exercitus […]». Le affinità
+         con V (e con F) sono più generiche:<ref type="witlink" target="#v-null-40"> V 40 5</ref> «[…] ch’elo prevene in una pianura granda in la qual iera ben quatromilia chavali,
+         i quali ierano zonto in quel luogo la matina a bonora»; <ref type="witlink" target="#f-null-77">F LXXVII 10</ref> «[…] vindrent en une grant plaingne, la ou <term ref="#naiam">Naian</term> estoit con toutes sez jens que bien estoient .CCCCm. homes a chevalz». In VB questo dettaglio manca.</p>
+	<p>Le informazioni della seconda parte («e, chiamati […] esser di <term ref="#cublai-can">Cublai</term>») si leggono in P e in F, e, in una versione amplificata, in V e VB:<ref type="witlink" target="#p-ii-3"> P II 3 4 </ref>«Consuluit autem rex <term ref="#cublai-can">Cublay</term> astrologos suos super exitu vie sue, qui omnes de communi consensu et iudicio responderunt
+         quod honorabiliter de hostibus triumpharet»;<ref type="witlink" target="#f-null-77"> F LXXVII 8-9</ref> «[…] il foit voir a sez astronique ce il vincra ses enemis et ce{l} il en vendra
+         a buen chief. Et cel li distrent qu’il fira de ses enemis a sa volunté»; <ref type="witlink" target="#v-null-40">V 40 4</ref> «[…] lui feze che li suo’ astrologi vardò per suo’  arte d’astrologia se lui dovea
+         esser venzidor de questa bataia o perdidor; et queli astrologi vardò per suo’ arte
+         e disse: «Signor, nui te dixemo bona novela: tu serà vitorioxo deli tuoi nimixi, et
+         averai tuto quelo che vorai, al tuo piaxer»; <ref type="witlink" target="#vb-null-67">VB LXVII 6-7</ref> «[…] et subito a lui feçe venire segondo loro chostuma i suo’ negromanti, ai quali
+         el domandò qual fine dovea esser di questa soa chavalchata. Quelli, che ben sapea
+         di questo dover esser dal segnor dimandati, ge respose: «Vatene segnor lietamente
+         che, per nome dei dii nostri, te prometiamo vencetore di tuo nemiçi tornerai»». </p>
+	<p>I dettagli contenuti nella frase finale («questo effetto […] esserciti») figurano
+         nel solo R, e potrebbero essere un’aggiunta ramusiana suggerita dalla lezione «segondo
+         loro chostuma» di VB (vd. sopra).</p>
+	<p>L omette tutto il passo. In Z manca l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Nonostante la notevole stringatezza della pericope, sembra che – come nelle righe
+         precedenti – Ramusio segua qui come testo base un esemplare di <ref type="witlink" target="#p-ii-36">P II 36 4</ref> «Homines autem quando primo huiusmodi strepitum audiunt magno concutiuntur horrore;
+         equi vero et animalia cetera viatorum antequam ad hunc strepitum assuescant sic vehementissime
+         timent quod statim fugam arripiunt et per hunc modum multi mercatores minus providi
+         multa iam animalia perdiderunt [R «et è accaduto che molti per negligenza gli hanno
+         perduti»]: oportet igitur ut equi prius per pedes singulos caute diligenterque compedibus
+         alligentur [R «inchiavano tutti quattro i piedi alli cavalli»], quoniam multi vincula
+         rumpunt et fugiunt [R «perché […] romperiano le corde et fuggiriano via»], audito
+         fragore arundinum [R «spaventati dal rumore»], nisi fuerint prius cum magna diligentia
+         alligati». </p>
+	<p>La lezione delle altre fonti ramusiane risulta abbastanza diversa da quella che si
+         legge in R e in P: <ref type="witlink" target="#l-null-94">L 94 3</ref> «[…] Equi eciam insueti multociens fractis ligaminibus circumquaque vagantur, quare
+         ipsos pedibus intricant oculosque ligant. Hoc ergo modo homines et animalia sua a
+         ferarum defenduntur incursibus»; V 55 15-16 «[…] che li chavalli, li qual non sono uxadi de aldir questo, quando li alde tal
+         remor li ronpe i suo’ chavestri et tuti li ligami chon che i ssono ligadi, et fuzeno:
+         et questo adevien a molti. Mo quando li omeni àno chavalli i qualli non àno mai aldido
+         questo remor, sì li fano abindar i ochi et falli ligar tuti quatro i piè chon chavestri
+         per sì fato muodo che quando i aldeno el remor dele chane vol schanpar et non puol;
+         sì che a questo partido chomo ve ò dito i omeni schanpano la note dai lioni e dai
+         altri anemalli li qualli sono in gran quantitade» (vd. <ref type="witlink" target="#f-null-114">F CXIV 9-10</ref> «Et sachiés qe celui qe ne est costumé hoïr il en devient tout exbaïes, si orible
+         chouse est a oïr; et voç di qe les chavaus qui ce ne ont onques hoï, quant il l’oie‹nt›,
+         il s’espaventent si duremant qu’il ronpent cavestres e toutes cordes de coi il sunt
+         liees et s’en fuient. Et ce avint a plosors. Mes quant il ont chavaus qe sevent qe
+         ce n’avoient onques hoï, il li fait bender les iaus et li fait encavestrer toit les
+         quatres piés en tel mainere qe quant il hoi le grant escopier de chanes, puis qu’il
+         vuoille ‹fuir›, ne puet»); <ref type="witlink" target="#vb-null-81">VB LXXXI 3</ref> «[…] e per simel modo fano i pastori […]». È possibile, tuttavia, che a monte della
+         lezione – chiaramente erronea di VB – si collocasse un capostipite che recava la lezione
+         «pastore» “pastoie”, che parrebbe essere all’origine della variante «pasture» di R.
+         In Z tutta questa parte viene omessa. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

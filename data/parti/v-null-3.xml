@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-3">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 3</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-3_2_1" n="1"> ‹O›r quando li do frateli ave intexo quelo li aveano dito quel messo, molto li
+         piaxete, et diseli che molto volentiera lor anderave chon lui, onde che quelo fue
+         molto chontento. </seg>
+      <seg xml:id="v-null-3_2_2" n="2"> Et quando furono el tempo, queli sì se partino dela dita zitade
+         et prexero la via tra griego e tramontana, onde li stete uno ano avanti che li podesse
+         azonzer dal dito Signor; et in questo tempo li trovò de gran meraveie le qual al prexente
+         non diremo, perché misier Marcho, fio de misier Nicholò, il quale tute queste chosse
+         vete, et in questo libro più avanti apertamente serà narato. </seg>
+      <seg xml:id="v-null-3_2_3" n="3"> Or essendo questi
+         zonti al <term ref="#gran-can">Gran Chan</term> et aprexentati a lui, li rezevete molto aliegramente fazendoli grandissimo onor e
+         grandissima festa, et domandoli de molte chosse: primieramente de loro inperador,
+         se lui tegniva e mantegniva le suo’ tere chon iustizia, et in che modo lui andava
+         in bataia, et de tuto lor essere; et poi li domandò dî re e dî prinzipi e de tuti
+         li signori; et poi dimandò del Papa e de tute le chose dela Giexia romana, onde queli
+         li disse a paso a paso tuta la veritade, perché li saveva ben lo lenguazo de <term ref="#tartari">Tartari</term> e de Turchi.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

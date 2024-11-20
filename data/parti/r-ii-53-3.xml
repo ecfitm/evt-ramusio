@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-53-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-53">
+      <note>
+	<p>Ramusio segue, apportandovi qualche piccola modifica,<ref type="witlink" target="#vb-null-97"> VB XCVII 5-6</ref> «Et in questo fiume naviga sì grandi navilli che quaxi è incredibelle con i diti
+         navilli fi portado da queste do provincie, çoè l’una all’altra e l’altra al’una, tute
+         le chosse besognose e per tute quelle contrade. Per che meravegiosa chossa è a veder
+         e la moltitudene di navilli e lla grandeça continuamente navigare per questo fiume
+         carichi de tute merchadantie e de grandissima richeça». L’unico elemento che l’editore
+         potrebbe avere ricavato da un’altra fonte è il sintagma «tanto numero di» (VB parla
+         invece di «sì grandi navilli»). La maggior parte delle altre redazioni (ma non F)
+         reca in questo punto lezioni corrispondenti a «moltitudine di…»: <ref type="witlink" target="#l-null-109">L 109 4</ref> «Est enim in hoc flumine tanta navium multitudo quod difficile esset credere; per
+         ipsum enim exportatur et apportatur innumerabilis mercimoniorum quantitas»; <ref type="witlink" target="#v-null-64">V 64 13-14</ref> «Et questa zitade àno tanta multitudine de navi che apena algun poria chredere chi
+         non vedesse; et non chredé che le sia gran nave, ma sono segondo che i àno nezesitade
+         per quel flume. E queste nave porta e vien a <term ref="#mangi">Magi</term> e al <term ref="#cataio">Chataio</term>, et duxeno gran moltitudine de marchadanti che hè mirabel chossa; et quando le torna
+         chargade le par meraveioxa chossa a veder, li marchadanti che per quel flume vien
+         portadi»; <ref type="witlink" target="#z-null-69">Z 69 7-10</ref> «Ista quidem civitas habet tantam multitudinem clasium quod vix posset quis credere,
+         quin videret. Et non credatis quod sint magne naves, sed tales quales possunt in magno
+         flumine gubernari. Iste naves porta‹n›t ad <term ref="#mangi">Mançi</term> et per <term ref="#cataio">Cathay</term> tantam multitudinem mercimoniorum quod mirab‹i›le est; et quando redeunt, etiam redeunt
+         onerate. Et ideo mirabile est videre mercimonia que per istud flumen feruntur» (vd.
+         <ref type="witlink" target="#f-null-134">F CXXXIV 5 </ref>«Et si voç di por verité qe ceste ville a si grant navile, ce est si grant quantité,
+         qe ne est nul qe ne veisse qe peust croire. Ne entendés qe soient grant nes, mes eles
+         sunt tel come besogne au grant fluns; et si voç di qe ceste naville portent au <term ref="#mangi">Mangi</term> e por le <term ref="#cataio">Catai</term> si grant abondance de mercandies qe ce est mervoille; et puis, quant elles revienent,
+         si tornent encore cargies: et por ce est merveieliosse couse a veoir la mercandie
+         qe por celle fluns se porte sus et jus»). P, che presenta un testo notevolmente accorciato,
+         parla genericamente di «naves […] innumeres»: <ref type="witlink" target="#p-ii-51">P II 51 3</ref> «[…] per hos fluvios naves mediocres innumere vadunt cum mercacionibus infinitis».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

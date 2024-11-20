@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-61-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-61">
+      <note>
+	<p><ref type="witlink" target="#f-null-144">F CXLIV</ref> (Ci devise de la provence de <term ref="#nanghin">Nanghin</term>); <ref type="witlink" target="#l-null-119">L 119</ref> (De provincia <term ref="#nanghin">Nanchin</term>); <ref type="witlink" target="#p-ii-58">P II 58 1</ref> (Qualiter civitas <term ref="#saianfu">Syansu</term> cum machinis capta fuit. Capitulum LVIII), <ref type="witlink" target="#va-null-112">VA CXII 1</ref> (Della zità de <term ref="#saianfu">Saianfu</term>, ove fexe far Marco Polo i mangani); <ref type="witlink" target="#v-null-70">V 70 7-10</ref> (Dela zità de <term ref="#iangui">Languin</term> e dela provinzia de <term ref="#nanghin">Naugin</term>); <ref type="witlink" target="#vb-null-107">VB CVII</ref>; <ref type="witlink" target="#z-null-78">Z 78</ref>.</p>
+	<p>Ramusio si attiene alla testimonianza di VB, collazionandola sporadicamente con quella
+         di Z (par. 1). La pericope finale, che figura solo in V e in F, è stata quasi sicuramente
+         ricavata da un esemplare di Z che recava un testo più completo di quello di Z toledano.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-7-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-7">
+      <note>
+	<p>Tali informazioni non trovano riscontro né in P né nel resto della tradizione. Non
+         è privo di interesse osservare che la lezione «chapitano» figura, con funzione e significato
+         radicalmente diversi, anche in <ref type="witlink" target="#vb-null-68">VB LXVIII 7</ref> «[…] e tute [le meretrici] viveno per la gran moltitudene de marchadanti e forestieri
+         lì chapitano».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

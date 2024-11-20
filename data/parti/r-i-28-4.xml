@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-28-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-28">
+      <note>
+	<p>I parr. 4-5 sono l’esatta trasposizione di <ref type="witlink" target="#z-null-24">Z 24 5-7</ref> «Cum vero ab ista contrata disceditur, per tres dietas itur inter levantem et grecum
+         semper per montes, et tantum asenditur quod in sumitate illorum montium dicitur altior
+         esse locus totius universi mundi. Et cum homo est in illo loco, invenit inter duos
+         montes planiciem quamdam, per quam quoddam flumen elabitur valde pulcrum. Sunt in
+         planicie illa pinguiora pascua que in mundo valeant reperiri, in quibus per decem
+         dies pinguis efficitur queque bestia macilenta»: del tutto corrispondente – al netto
+         di qualche minimo dettaglio – a <ref type="witlink" target="#f-null-49">F XLIX 8-9</ref> «Et quant l’en se part de ce leu, ‹l’en› ala trois jornee por grec, toutes foies
+         por montagnes; et monte l’en tant que l’en dit que cel est le plus aut leu do monde.
+         Et quant l’en est en cel haut leu, adonc treuve un plan entres deus montagnes, en
+         quel a u‹n› flum mout biaus, et hi a le meillor pascor dou monde, car une magre beste
+         hi devent grasse en .X. jors». </p>
+	<p>Solo R segnala, in via indiretta, che l’<term ref="#geichon">Āmūdaryā</term> prende acqua da un lago (probabilmente il Sorkul). L’informazione era in Z1, o si tratta di un aggiunta erudita del compilatore?</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

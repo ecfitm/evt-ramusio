@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-49-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-49">
+      <note>
+	<p>La formulazione ramusiana è molto vicina al dettato di <ref type="witlink" target="#f-null-70">F LXX 4</ref> «Uçance et costumes ont come <term ref="#tartari">Tartars</term> et il sunt au <term ref="#gran-can">Grant Can</term>», e <ref type="witlink" target="#v-null-37">V 37 2</ref> «[…] hoserva la chonsuetudine de <term ref="#tartari">Tartari</term>, ed è suditi al <term ref="#gran-can">Gran Chan</term> […]»): vacante il toledano, è lecito supporre che la fonte di R sia Z. </p>
+	<p>Le informazioni qui offerte si ritrovano, variamente declinate, in tutta la tradizione:
+         <ref type="witlink" target="#p-i-62">P I 62 3</ref> «Incole loci vocantur <term ref="#mecriti">Mecrith</term>, qui subiecti sunt <term ref="#gran-can">Magno Kaam</term> et habent <term ref="#tartari">Tartarorum</term> mores […]», <ref type="witlink" target="#l-null-61">L 61 2</ref> «[…] Et vivunt more <term ref="#tartari">Tartarorum</term>», <ref type="witlink" target="#va-null-56">VA LVI 3</ref> «Egli sono sotoposti al <term ref="#gran-can">Grande Chaan</term> e àno chostumi d’i <term ref="#tartari">Tartari</term>», <ref type="witlink" target="#vb-null-58">VB LVIII 3</ref> «[…] et àno chostumi de <term ref="#tartari">Tartari</term>» + <ref type="witlink" target="#vb-null-58">VB LVIII 5</ref> «Sono sotoposti alla segnoria del <term ref="#gran-can">Gran Chan</term> […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

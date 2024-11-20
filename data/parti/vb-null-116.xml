@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-116</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-116">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, CXVI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-116_1_1" n="1"> ‹D›apo’ le sopra dite .III. giornate se trova la citade chiamata <term ref="#uguiu">Vingui</term> la qual citade è bella et ancho grande e sotto le iusridiciun de <term ref="#quinsai">Quinsai</term>; et sono <term ref="#idolatri">idolatri</term> e viveno de mestieri et anchor marchadantie. </seg>
+      <seg xml:id="vb-null-116_1_2" n="2"> E dala dita citade, caminando per
+         .III. giornate per sirocho, senpre se trova belli chastelli e vilaçi: è tuto ben coltivado
+         et abondantissime de tute vituallie. </seg>
+      <seg xml:id="vb-null-116_1_3" n="3"> Et à questo paexe le più grose cane abia
+         quelli paexi: sòne de quelle che çira per groseça .IIII. spane e longe .XX. pasa.
+         </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

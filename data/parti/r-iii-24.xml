@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-24</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-24" n="1">
+    <head>
+      <hi rend="bold">R, III 24</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-24_1_1" n="1"> Della città di <term ref="#cael">Cael</term>. Cap. 24.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-24_2_1" n="1"> <term ref="#cael">Cael</term> è una nobile et gran città, la quale signoreggia <term ref="#astiar">Astiar</term>, un di quattro fratelli, re della provincia di <term ref="#malabar">Malabar</term>, qual è molto ricco di oro et gioie, et mantiene il suo paese in gran pace; et li
+         mercatanti forestieri vi capitano volentieri, per essere da quel re ben visti et trattati.
+         </seg>
+      <seg xml:id="r-iii-24_2_2" n="2"> Tutte le navi che vengono di ponente, <term ref="#ormus">Ormus</term>, <term ref="#chisi">Chisti</term>, <term ref="#adem">Adem</term>, et di tutta l’<term ref="#arabia">Arabia</term>, cariche di mercantie et cavalli, fanno porto in questa città, per essere posta in
+         buon luogo per mercadantare. </seg>
+      <seg xml:id="r-iii-24_2_3" n="3"> Ha questo re ben trecento mogli, le quali mantiene con grandissima pompa. </seg>
+      <seg xml:id="r-iii-24_2_4" n="4"> Tutte le genti di questa città et ancho di tutta l’<term ref="#india">India</term> hanno un costume, che di continuo portano in bocca una foglia chiamata “<term ref="#tembul">tembul</term>”, per certo habito et delettatione, et vannola masticando, et sputano la spuma che
+         la fa. </seg>
+      <seg xml:id="r-iii-24_2_5" n="5"> I gentilhuomini, signori et re hanno dette foglie acconcie con <term ref="#canfora">canfora</term> et altre specie odorifere, et etiandio con calcina viva mescolata: et mi fu detto
+         che questo li conservava molto sani. </seg>
+      <seg xml:id="r-iii-24_2_6" n="6"> Et se alcuno vuol far ingiuria ad un altro o villaneggiarlo, come l’incontra gli
+         sputa nel viso di quella foglia o spuma, et subito costui corre al re et dice l’ingiuria
+         che gli è stata fatta et ch’el vuol combattere: et il re li dà le armi, che è una
+         spada et rotella, et tutto il popolo vi concorre, et qui combattono fin che un di
+         loro resta morto. </seg>
+      <seg xml:id="r-iii-24_2_7" n="7"> Non possono menare di punta, perché gli è prohibito dal re.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

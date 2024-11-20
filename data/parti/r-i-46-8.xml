@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-46-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-46">
+      <note>
+	<p>Con l’eccezione della tessera finale della pericope («viveranno […] <hi rend="italics">de animali che pigliano</hi>»), non riconducibile a VB, il testo di R ricalca con esattezza il dettato di <ref type="witlink" target="#vb-null-57">VB LVII 4</ref> «Son crudelissimi homeni e i più soferenti ad ogni desasio e, besognendo, viverano
+         oltra un mese sollo di late de çumenta», scelto probabilmente per la carica espressiva
+         che lo rende parzialmente eccentrico rispetto al testo di tradizione – per cui vd.
+         <ref type="witlink" target="#f-null-69">F LXIX 9</ref> «[…] voç diron conmant il se puent travailer et plus que autres homes, car maintes
+         foies, quant il abeçogne, il alara ou demora un mois sanz nulles viandes for que il
+         vivra de lait d’une jumente et menjuera des cars de les chacheison qu’il prennent
+         […]»; <ref type="witlink" target="#l-null-60">L 60 16</ref> («Et possunt exercitus onera longo facilius aliis substinere: multociens enim ‹uno
+         mense› stabunt vel ibunt absque communi cibo et vivent ex lacte eque et ex venationibus
+         […]»; <ref type="witlink" target="#p-i-59">P I 59 1 </ref>«[…] ad incomoda tolleranda ceteris mundi partibus promptiores sunt ac fortiores;
+         per mensem integrum, si opus fuerit, nichil aliud comedunt nisi iumentorum lac et
+         carnes animalium que in venacionibus capiunt […]»; <ref type="witlink" target="#v-null-36">V 36 16</ref> «Et sono homeni valenti nel’arme in bataia; et quando el fa mestier eli stano uno
+         mexe senza vituaria, ma vive de late de chavalo et manza charne dele suo’ chazason
+         che lor prende».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

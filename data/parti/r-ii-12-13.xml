@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-12-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>Il testo di R (che, diversamente dalle altre redazioni, assegna al solo «prelato»
+         il compito di incensare la tavola recante il nome del <term ref="#gran-can">Gran Can</term>) parrebbe nascere dall’esigenza di dare maggiore coerenza a una scena che, nella
+         versione originale, presenta vari aspetti poco chiari: <ref type="witlink" target="#f-null-88">F LXXXVIII 13</ref> «Il vont a un autel que mout est bien aornés; et sus cel autel a une table vermoille
+         en la quel est ecrit le non dou <term ref="#gran-can">Grant Kaan</term>; et encore hi a un biaus encensier, et encensent celle table et l’a‹u›tel con grant
+         reverence»;<ref type="witlink" target="#p-ii-15"> P II 15 6</ref> «Adoracione completa, vadunt omnes suo ordine ad altare quod in aula positum est,
+         super quod tabula una est rubro colore depicta, in qua scriptum est nomen <term ref="#gran-can">Magni Kaam</term> et thuribulum pulcherimum ibi preparatum accipiunt, in quo redolentia thura sunt,
+         et ad honorem <term ref="#gran-can">Magni Kaam</term> cum multa reverentia thurificant tabulam […]». L’uso della 3a p. pl. suggerisce, infatti, che tutti i presenti partecipino al rito, ma non si capisce
+         come questo possa avvenire. <ref type="witlink" target="#l-null-73">L 73 6</ref> risolve l’incoerenza in modo diverso da R: «[…] Deinde ad ornatissimum altare vadunt,
+         super quo est tabula rubea in qua scriptum est nomen <term ref="#gran-can">Magni Canis</term>, estque ibi thuribulum; ad hoc ergo altare quilibet accedit, assumptoque thuribulo
+         nomen thurificant <term ref="#gran-can">Magni Canis</term> […]».</p>
+	<p>La parte finale della pericope, in cui si allude ad un atto di ossequio collettivo
+         («et allhora tutti […] altare») potrebbe essere stata ispirata a Ramusio da un dettaglio
+         riportato (a conclusione della scena) solo da <ref type="witlink" target="#v-null-43">V 43 13</ref> «[…] et fato che i àno, elli se leva suxo et vano ad uno altar molto adornado; et
+         sopra quelo altar sono una tolla rosa in la qual sono schrito el nome del <term ref="#gran-can">Gran Chan</term>; et li inzensa quela tola chon grandissima reverenzia, e puo’ torna ali suo’ luogi;
+         et fato questo un’altra volta adora el <term ref="#gran-can">Gran Chan</term> dito de sopra […]». </p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

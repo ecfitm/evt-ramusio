@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-39-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-39">
+      <note>
+	<p>Il passo traduce alla lettera <ref type="witlink" target="#z-null-36">Z 36 4-5</ref> «Adorantes vero ydola secundum eorum consuetudines multa habent monasteria et abbatias quam plures. Habent
+         etiam multitudinem ydolorum, quorum aliqua lignea, aliqua terea, aliqua vero lapidea,
+         desuper auro coperta et artificiosa valde». Strutturalmente simile è il dettato di
+         <ref type="witlink" target="#p-i-49">P I 49 3</ref> «Multa sunt in civitate hac monasteria in quibus multitudo colitur ydolorum quorum
+         quedam lapidea, quedam lignea, quedam vero lutea seu fictilia sunt; desuper vero deaurata
+         sunt omnia […]»), mentre F e la restante tradizione se ne differenziano per l’anticipo
+         del dettaglio sulle dimensioni ragguardevoli (dieci passi) delle statue più grandi:
+         vd. <ref type="witlink" target="#f-null-61">F LXI 5</ref> «Il ont grandisme quantités de ydre; et si voç di qu’il en ont de celle que sunt
+         grant .X. pas: tel est de fust e tel de tere e tel de peres, et sunt toute coverte
+         d’or et evree mout bien», <ref type="witlink" target="#l-null-56">L 56 3</ref> «Sed <term ref="#idolatri">ydolatre</term> habent maximam quantitatem ydolorum, ex quibus aliqua sunt longa .X. passibus, et
+         aliqua sunt ex ligno, aliqua ex terra, aliqua sunt ex lapide; et sunt totaliter auro
+         cohoperta et subtiliter laborata», <ref type="witlink" target="#v-null-33">V 33 4-5</ref> «[…] e queli che <term ref="#idolatri">adora le idole</term> àno molti monestieri segondo la lor usanza e chostumi. Et in questi monestieri sono
+         molte ed infinite idole, algune grande diexe passa e più e men, et tal de pietra e
+         tal de bronzo e de legname; et sono choverte d’oro molto artifiziado e meraveioxamente»,
+         <ref type="witlink" target="#va-null-48">VA XLVIII 5</ref> «Ed àno molto grande quantità e moltitudine de idolle, ed [à] no de quelle che sono
+         grande diexe passi: ed è tal de llegnio, tal de tera e tal de piera; et sono tute
+         indorade», <ref type="witlink" target="#vb-null-45">VB XLV 3</ref> «<term ref="#idolatri">Idolatri</term> àno assaisimi te‹n›pli nei qualli tengono i suo’ idoli, i qualli idoli ène de grandi
+         .X. passa e de menori e de picoli: et ène de quelli idoli de legno, de pietra e de
+         terra in grandissima quantitade e tutti sono coperti de oro et nobelmente ornate et
+         coverte». L’informazione occorre invece poco più avanti in <ref type="witlink" target="#z-null-36">Z 36 6 </ref>«Maiora quidem, quorum aliqua bene sunt mensure passuum .X., iacent extensa», e in
+         <ref type="witlink" target="#p-i-49">P I 49 3 </ref>«quedam autem ex ipsis sunt magnitudinis passuum .X. que iacere videntur, circa que
+         sunt parva ydola posita que videntur eis reverenciam exhibere».</p>
+	<p>L’eccentrico dettaglio di V sugli «idole […] de bronzo», laddove la tradizione riferisce
+         soltanto di statue fatte di terra, legno e pietra, si spiega con la cattiva interpretazione
+         di un *<hi rend="italics">ter</hi>(<hi rend="italics">r</hi>)<hi rend="italics">ea</hi> del modello latino, letto <hi rend="italics">aerea</hi> (“di bronzo”) e tradotto di conseguenza.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

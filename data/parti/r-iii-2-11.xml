@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-2-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-2">
+      <note>
+	<p>Il resoconto del conflitto nippo-mongolo è strutturato in F CLVIII 14-19 / F CLIX in due grandi campate: la prima riferisce della guerra nel suo complesso; la seconda,
+         posta in fine del secondo capitolo (F CLIX 12-14) e di norma aperta da una transizione metanarrativa, narra un episodio miracoloso
+         (l’utilizzo da parte di alcuni giapponesi di una pietra che, posta sotto pelle, impedisce
+         la morte) avvenuto all’inizio della campagna militare. La seconda campata ha la stessa
+         posizione in Z 93 20-24, L 143 14, V 81 21-23, VB CXXVII 29-31.</p>
+	<p>Il compilatore di VA CXXII 10-30 ha deciso di privilegiare l’ordine temporale sulle unità tematiche, e l’episodio
+         del miracolo trova nuova collocazione all’inizio del resoconto (VA CXXII 10-15); la nuova <hi rend="italics">dispositio</hi>, trasmessa necessariamente a Pipino (P III 3 2-4), è accolta da Ramusio. La presente pericope traduce dunque P III 3 2 «[…] et descendentes in terram multa dampna villis et castris que erant in planicie
+         intulerunt. Orta est autem invidia inter eos, propter quod unus alteri voluntati et
+         consilio acquiescere contempnebant; ideo eis prospere non successit: nam neque urbem
+         aliquam vel castrum debellare prevaluerunt, nisi unum castrum solum modico pretio
+         devicerunt. Et quia hii qui in castro erant numquam se eis tradere voluerunt, de mandato
+         ipsorum baronum decapitati sunt omnes, preter octo viros qui inter eos inventi sunt
+         quorum quilibet pretiosum lapidem consutum habebat in brachio inter carnem et cutem,
+         de quo nullus advertere potuisset: erant autem huiusmodi lapides diabolo nephandis
+         incantacionibus dedicati ad effectum huius, scilicet qui talem super se lapidem deferre,
+         ferro occidi aut vulnerari non posset. Cum enim feriebantur gladiis ledi omnino non
+         poterant» (traduzione di VA CXXII 10 «[…] e desexeno in tera e fèno guasto e gran dano per el piano e per ville del’ixolla.
+         Dentro questi do baroni naque invidia et desdegnio, sì che uno non voleva far quel
+         che voleva l’altro, et perziò nonn ave soa andata gran prosperità. E non prexeno alguna
+         forteza de zità nì de chastelle se non sollamente uno chastello, el qual prexeno per
+         forza. E perziò quelli ch’erano in quel castello non volsse mai render-sse a quelli
+         do baroni, i fexe taiar la testa a tuti, tratone oto omeni delli qual non li podeva
+         taiar fero. E questo era perché zaschun de quei oto aveva una piera prezioxa inchantanda
+         inel brazo, et era messa dentro charne e pelle, sì che niuno non se ne serìa achorto,
+         e chi aveva sopra si quella piera non podeva esser taiado de fero»).</p>
+	<p>Negli altri relatori, come s’è detto, il contenuto narrativo equivalente si dispone
+         in due segmenti distinti: vedi p. es. Z 92 19-20 «Et descendentes in terram, ceperunt de planicie et casamentis multis; sed nondum
+         aliquam ceperant civitatem, cum quoddam eis infortunium supervenit. Noveritis itaque
+         quod inter istos duos barones multa regnabat invidia, nec unus secundum velle alterius
+         se habebat» / Z 93 20 «Ittem vobis unum mirandum dicemus, videlicet quod dicti duo barones in supradicta
+         insula castrum unum ceperunt et, quia homines de castro se reddere contempserant,
+         preceperunt quod omnes forent decapitati et mortui. Decapitati fuerunt omnes, ecceptis
+         novem qui nullo modo fero poterant incidi. Et hoc erat virtute quorumdam lapidum,
+         quia quilibet eorum lapidem unum habebat intra pelem et carnem, ita quod non videbatur
+         exterius. Et isti lapides era‹n›t taliter incantati et talem habentes virtutem, quod
+         ferro mori non poterant donec supra se ipsos haberent» (corrispondente a F CLVIII 14-15 «E desenderent en tere e prestrent des plain e des casaus asez; mes nulle cité ne
+         chastiaus ne avoient encore pris quant il avint lor une male aventure tel com je voç
+         deviserai. Or sachiés que entre cesti .II. baronz avoit grant envie, e ne faisoit
+         le un por l’autre» / F CLIX 12-13 «Et encore vos di une mout grant mervoie: qe cel deus baronz pristrent en cel isle
+         plusors homes en un castiaus e, por ce qe il ne s’avoient volu rendre, les deus baronç
+         comande‹n›t qe il fuissent tuit mors e que il fuissent a tuit tronché la teste. Et
+         il ensi fui fait, car a tuit furent tronchés le teste, for que .VIII. homes seulamant.
+         Et a ceste ne poient fer truncher la teste: e ce avenoit por vertu de pieres qu’il
+         avoient, car il avoient chascun une pieres en son braç, dedens entre la cars e la
+         pelle si qe ne paroit dehors; e {de} ceste pieres estoit si encanté et avoit tel vertu
+         qe, tant come l’en l’aüst soure, ne poroit morir por fer»). Vedi poi: L 143 9 / L 143 14; V 81 7-8 / V 81 21-22; VB CXXVII 9-10 / VB CXXVII 21-23.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

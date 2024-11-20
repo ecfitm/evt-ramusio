@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-25-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-25">
+      <note>
+	<p>La forma dell’espressione fa di <ref type="witlink" target="#z-null-113">Z 113 5</ref> («Rex istius regni nuli redit tributum») il modello più probabile per la pericope.</p>
+	<p>P III 31 2 «[…] et rex <term ref="#coulam">Coylum</term> nulli tributarius est» rinvia a VA CXLI 4 «Lo re de <term ref="#coulam">Choillun</term> non fa trabuto a niun». Il modello è F CLXXIX 2 «[…] Le roi ne fait trebu a nelui» (dettaglio omesso da L 166 2). Si mantengono sullo stesso tenore informativo V 97 1 «[…] et non dano trabuto al re», e VB CXLIX 2 «[…] né rende questo segnor tributo al alchun segnor». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

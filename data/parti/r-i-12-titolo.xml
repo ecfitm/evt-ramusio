@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-12-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-12">
+      <note>
+	<p><ref type="witlink" target="#f-null-33">F XXXIII</ref> (Ci devise de la cité de <term ref="#iasdi">Yasdi</term>); <ref type="witlink" target="#z-null-11">Z 11</ref>; <ref type="witlink" target="#l-null-27">L 27</ref> (De civitate <term ref="#iasdi">Iasdi</term>); <ref type="witlink" target="#p-i-20">P I 20</ref> (De civitate <term ref="#iasdi">Iasdi</term>), <ref type="witlink" target="#va-null-20">VA XX 12-18 </ref>(De Tonochain, là dove è destrieri da CC livre de tornexi grossi, et axeni da XXX marche d’arzento
+         de p‹ri›ex‹i›o); <ref type="witlink" target="#v-null-19">V 19</ref> (Dela zitade de <term ref="#iasdi">Adin</term>); <ref type="witlink" target="#vb-null-21">VB XXI 9-13</ref>. </p>
+	<p>Da un confronto incrociato tra R, Z e – per i passi in cui il toledano sia lacunoso
+         – F emerge con buona sicurezza che il modello del capitolo dovette essere uno Z completo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

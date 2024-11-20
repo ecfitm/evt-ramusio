@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-1-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-1">
+      <note>
+	<p>I parr. 16-20 sono perlopiù modellati sulla lezione di <ref type="witlink" target="#p-i-3">P I 3 2 </ref>+ <ref type="witlink" target="#p-i-1">P I 1 1-4</ref>, qui a tratti più ricca del testo di tradizione. </p>
+	<p>Dimostrano la dipendenza di R da P alcune stringenti coincidenze testuali: p. es.
+         segmenti «come <hi rend="italics">huomini</hi> <hi rend="italics">savi et prudenti</hi>» (&lt; <ref type="witlink" target="#p-i-3">P I 3 2</ref> «[…] Ipsi autem, <hi rend="italics">ut viri prudentes, sapienter</hi> et seriatim ad singula responderunt […]»), «i quali sapessino […] <hi rend="italics">con ragioni vere et probabili</hi>» (&lt; <ref type="witlink" target="#p-i-4">P I 4</ref> «qui ostendere‹nt› [scirent ostendere <hi rend="italics">nell’edizione di Anversa</hi>] sapientibus suis racionabiliter et prudenter»); oppure, alcuni <hi rend="italics">addenda</hi> di matrice squisitamente pipiniana: ad es. «per il che […] occhi di quello» (&lt; <ref type="witlink" target="#p-i-3">P I 3 2</ref> «[…] propter quod sepe eos ad se introduci iubebat habueruntque graciam in oculis
+         eius»), «Iesú Christo […] in somma veneratione» (arrangiamento ramusiano di <ref type="witlink" target="#p-i-4">P I 4 3 </ref>«[…] credebat enim Christum unum esse in numero bonorum deorum»).</p>
+	<p>Ramusio pare poi aver integrato il testo di P ricorrendo a Z: pur <hi rend="italics">in</hi> <hi rend="italics">absentia</hi> della testimonianza toledana, lo si può desumere in qualche luogo dalla corrispondenza
+         pressoché esatta tra R e F: si raffronti, ad es., il segmento «Havendo adunque […]
+         ambasciatori al papa» con <ref type="witlink" target="#f-null-7">F VII 2</ref> «Et quant le <term ref="#gran-can">Grant Sire</term> que <term ref="#cublai-can">Cublai Kaan</term> avoit a nom, qui estoit seingnor de tous les <term ref="#tartari">Tartars</term> do monde et de toutes les provinces et rengnes et region de celle grandisme partie
+         do secle, ot entendu tous les fais des Latin, si come les deus frers li avoient dit
+         ben et apertamant, il li plet outre mesure. Il dit a soi meisme qu’il envoiera mesajes
+         a l’apostoile […]».</p>
+	<p>Altrove invece – e sempre che non siano da ricondurre anch’essi a Z1 – si intravedono in R i riflessi di L e VB: dal primo potrebbero dipendere alcune
+         soluzioni sintattiche e lessicali («[…] a pregarlo che <hi rend="italics">li piacesse di mandargli</hi> cento huomini […]» / <ref type="witlink" target="#l-null-7">L 7 3</ref> «[…] querebat quatenus <hi rend="italics">ei mittere placeret</hi> .C. christianos sapientes […]», «<hi rend="italics">Et oltre di questo commesse alli detti</hi> fratelli […]» / <ref type="witlink" target="#l-null-7">L 7 4</ref> «<hi rend="italics">Insuper commisit dictis</hi> ambaxiatoribus […]»); dal secondo, i minimi segmenti «cento <hi rend="italics">huomini savi</hi> et bene <hi rend="italics">instrutti</hi> fede christiana» (&lt; <ref type="witlink" target="#vb-null-4">VB IV 3</ref> «[…] cento <hi rend="italics">savi homeni instruti</hi> dela dotrina e fede cristiana […]») e – forse – «gli vien <hi rend="italics">provisto</hi> et fatte le spese et date tutte l’altre cose necessarie» (espansione di <ref type="witlink" target="#vb-null-4">VB IV 6</ref> «[…] e <hi rend="italics">provistolli</hi> de tuti lor bisogni»?).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

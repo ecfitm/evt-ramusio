@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-58-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-58">
+      <note>
+	<p>Ramusio segue in sequenza tre fonti diverse. Nella parte iniziale segue prevalentemente
+         la testimonianza di <ref type="witlink" target="#z-null-75">Z 75 3-5</ref> «Vivunt quidem de mercimoniis et artibus [R «Vivono di mercantie et d’arti»]. Victualium
+         habent copiam [R «hanno abondanza»]. Pisces etiam infinitos, venationes et aucupationes
+         in magna quantitate habent: nam bene aberentur ibi tres fasiani pro veneto uno groso»
+         (Z riflette il dettato di <ref type="witlink" target="#f-null-141">F CXLI 3</ref> «[…] Il vivent de mercandies et d’ars. Il ont grant abondance des couses de vivre.
+         Peisonz ont il ultre mesure; chachejonç et venesionz de bestes et de osiaus ont il
+         grandismes quantités, car je voç di qe l’en hi auroit por un venesian gros d’arjent
+         .III. faisanz»). Nella parte centrale il modello base è <ref type="witlink" target="#p-ii-56">P II 56 4</ref> «[…] ubi pisces habentur in copia maxima, ubi etiam sunt venationes magne bestiarum
+         et volucrum [R «et di uccelli»]: fagiani vero in tanta copia ibi sunt ut pro tanto
+         argenti pondere quantum unus venetus habet, dantur tres optimi fagiani» [R «et li
+         fagiani vi sono in tanta copia che, per tanto argento quanto è un grosso venetiano,
+         si ha tre buoni fagiani»]. È probabile che anche l’omissione del riferimento alle
+         «vettovaglie» sia stato ispirato dal testo di R. Nelle battute finali Ramusio ricorre
+         a <ref type="witlink" target="#vb-null-104">VB CIV 3-5</ref> «Viveno de mestieri et marchadantie. È abondantissima de tute vituallie. Àno animalli
+         et oxelaxon assai: àsse lie .III. faxiani per una moneta quanto è 1° grosso veneciano,
+         i qual faxani sono grossi quanto paoni» [R «i quali sono grossi come pavoni»]. Non
+         pare, invece, che R abbia avuto contatti anche con <ref type="witlink" target="#l-null-116">L 116 3-4</ref> «Et sunt mercatores et artiste. Victualium adest hiis habundantia multa, similiter
+         et piscium avium et bestiarum, venatio bona valde», o <ref type="witlink" target="#v-null-69">V 69 1</ref> «[…] et viveno de marchadantie et arte; et sono abondanzia de tute vituarie, ed ezian
+         pessi infiniti et chazaxon e oxelaxon in gran quantitade; et trovasse per uno groso
+         da Veniexia tre faxani».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

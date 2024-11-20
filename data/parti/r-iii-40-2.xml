@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-40-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>Ramusio traduce fedelmente <ref type="witlink" target="#p-iii-46-1-6">P III 46 3-4</ref> «Ibi sunt civitates multe et castra. Ibi est portus optimus, ad quem multe naves
+         de <term ref="#india">Yndia</term> confluunt, aromata deferentes […]»; il dettaglio chiave è il sintagma «aromata deferentes»:
+         in VA CLII 3-4 si legge «El ge n’è molte zitade e chastelle. In questa provinzia è uno porto nobille,
+         dove mete chavo le nave d’<term ref="#india">India</term> <hi rend="italics">chon le merchadantie e chon le spezie</hi>», elaborazione di F CXCIII 2-3 «Il hi a maintes cités et castiaus.  En ceste <term ref="#adem">Aden</term> est le port la u toutes les nes de <term ref="#india">Indie</term> hi vien{t}ent <hi rend="italics">con toutes lor mercandies</hi> […]»; seguono alla lettera F: Z 127 4-5 «In ea sunt multe civitates et castra. In ista provincia <term ref="#adem">Aden</term> est portus ad quem omnes naves mercatorum <term ref="#india">Indye</term> <hi rend="italics">cum mercimoniis suis</hi> applicant», V 109 3 «Et in questa provinzia sono molte zitade e chastelli; et àno uno porto al qual vieno
+         tute nave d’<term ref="#india">India</term> <hi rend="italics">chon le marchadantie</hi>», VB CLXV 1-2 «[…] la qual à molte citade et chastelli. Et à porto sopra el mar dove chapita le
+         nave veno de <term ref="#india">India</term> <hi rend="italics">con le lor marchadantie</hi>». Va sottolineato che ancora una volta si accorda con la linea VA-P (arricchendo
+         l’informazione) L 183 3: «Et in hac provincia sunt civitates et castra multa, et hic est portus ad quem naves
+         ex <term ref="#india">India</term> veniunt in maxima quantitate, <hi rend="italics">piper et alias indicas species deferentes</hi> […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-4-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-4">
+      <note>
+	<p>La pericope adotta – mantenendone articolazione e <hi rend="italics">interpretationes nominis</hi> – la lezione di Z 94 11-12 «Et noveritis quod mare ubi est insula ista nuncupatur <term ref="#mare-cin">Mare Cin</term>, quod est dicere “mare quod contra <term ref="#mangi">Mançi</term> est”. Et in lingua istorum de hac insula <term ref="#mangi">Mançi</term> vocatur “<term ref="#cin">Çin</term>”» (versione di F CLX 8 «Or sachiés que ceste mer, la ou est ceste isle, s’apelle le mer de Cin, qe vaut a dir le mer qui est encontre le <term ref="#mangi">Mangi</term>, car je voç di qe en langajes de celz de cest ysles vaut a dire <term ref="#mangi">Mangi</term> quant il dient <term ref="#cin">Cin</term>, qe est a levant […]»). Le stesse informazioni sono registrate (con l’anticipazione
+         dell’indicazione topografica) in L 144 1 «Hoc mare, in quo dicta manet insula, est ad oriens et syroch; et dicitur <term ref="#mare-cin">mare de Cin</term>, quod sonat “mare quod est versus <term ref="#mangi">Mangi</term>”: in eorum enim lingua tantum sonat “<term ref="#cin">Cin</term>” quantum “<term ref="#mangi">Mangi</term>”» (su «syroch» vd. la nota a <ref type="witlink" target="#r-iii-4">R III 4 2</ref>); appartiene solo al ramo VA-P l’uso eziologico della collocazione topografica per
+         l’etimo: P III 8 1 «Mare illud ubi est insula Çypangu <term ref="#mare-oceano">Occeanum</term> est et dicitur <term ref="#mare-cin">mare Çiri</term>, hoc est mare <term ref="#mangi">Mangy</term>, quia provincia <term ref="#mangi">Mangy</term> est in littoribus eius» traduce VA CXXII 35 «‹Questo› mar là dove è questa ixolla e molte altre ixolle, si è el <term ref="#mare-oceano">Mar Ozian</term>, e in quella contrà è apellato lo Mar de Cin, ch’è a dir “lo <term ref="#mare-cin">Mar de Mangi</term>”. Cin tanto val a dir in quella lingua de quella contrà quanto <term ref="#mangi">Mangi</term>; e à quel mar nome <term ref="#cin">Cin</term> perché l’è sopra la provinzia de <term ref="#mangi">Mangi</term>».</p>
+	<p>In V 82 7 la pericope è segnata dalla storpiatura dei toponimi: «Et sapié che ’l mar che sono
+         a questa ixola se chiama el <term ref="#mare-cin">Mar Chuvichan</term>, ch’è a dir “mar ch’è chontra el <term ref="#mongul">Magon</term>”, in lengua de questi de ’sta ixola sono chiamato <term ref="#mare-cin">Mar Chuigi</term>»; VB CXXVIII 8 anticipa al capitolo precedente l’informazione (vd. la nota a <ref type="witlink" target="#r-iii-3">R III 3 4</ref>).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-25-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-25">
+      <note>
+	<p>I parr. 16-18 recepiscono un lungo <hi rend="italics">addendum</hi> di Z sulle caratteristiche del territorio montano della regione, che il codice toledano
+         riporta in una versione caratterizzata da qualche dettaglio in più e qualcun altro
+         in meno, e da una diversa <hi rend="italics">dispositio</hi> delle tessere:<ref type="witlink" target="#z-null-21"> Z 21 14-19 </ref>«Item proprietas montium talis est: ipsi sunt altissimi ita quod de infimo ad sumum
+         in itinere dura‹t› homo a mane usque ad vesperas priusquam possit asendere. In sumitate
+         vero sunt planities magne, ubi ubertas herbarum et arborum, ubi fontes magni et purissimi
+         qui tanquam flumina discurunt per rupes ad yma. In illis sumitatibus montium, tam
+         purus est aer et tam salutifer status, quod si homo, dum existat in civitatibus et
+         mansionibus que in valibus iuxta montes firmate sunt, cuiuslibet generis febres incurat,
+         videlicet tercianas, quartanas vel continuas, et illico quiescens in montibus, repulsa
+         infirmitate, recipit sanitatem. Et dominus Marcus hoc idem se dixit expertum fuise.
+         Sunt etiam duo vel tres montes quasi sulphurei; et semper accedunt de montibus illis
+         aque sulphuree. Ibi est maxima copia arietum silvestrium».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-46-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-46">
+      <note>
+	<p>Ramusio prosegue con l’adattamento del testo di <ref type="witlink" target="#vb-null-57">VB LVII 5</ref> «Li loro chavalli se pascheno sollo d’erbe e fano sença orço et alltra biava e, besognendo,
+         stano a chavalo do dì et do note che mai non desmontano et dormeno a chavallo ai loro
+         chavalli: dormendo pascholano», sensibilmente diverso – e in qualche punto innovativo
+         – rispetto al dettato di tradizione, per cui vd. <ref type="witlink" target="#f-null-69">F LXIX 9-10</ref> «[…] et son chaval paisera des herbes qu’il treuvera, car il ne biçogne porter orç
+         ne paille. Il sunt mout hobïent a lor seingnor, et voç di que quant il beinçogne il
+         demoure toute la noite a chaval cum ses armes, et le chaval alera toutes foies paisant
+         les erbes».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

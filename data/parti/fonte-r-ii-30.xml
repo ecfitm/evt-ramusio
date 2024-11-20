@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>fonte-R-II-30</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="fonte-r-ii-30">
+    <head>
+      <hi rend="bold">Z, 48 7-12</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="fonte-r-ii-30_1_1" n="1"> Cum vero disceditur a <term ref="#tainfu">Tayanfu</term>, equitatur septem dietis per ponentes, inveniendo pulcras contratas, in quibus inveniuntur
+         multe civitates et castra, in quibus mercimonia multa et artes fiunt. </seg>
+      <seg xml:id="fonte-r-ii-30_1_2" n="2"> Sunt in
+         eis multi mercatores, qui per multas partes pergunt faciendo eorum lucrum.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="fonte-r-ii-30_2_1" n="1"> Et cum itum est septem dietis, |23r| invenitur queda‹m› civitas nomine <term ref="#pianfu">Pyanfu</term>, que est valde magna et magni valoris. </seg>
+      <seg xml:id="fonte-r-ii-30_2_2" n="2"> Sunt in ea multi mercatores. </seg>
+      <seg xml:id="fonte-r-ii-30_2_3" n="3"> Vivunt
+         de mercimoniis et artibus. </seg>
+      <seg xml:id="fonte-r-ii-30_2_4" n="4"> Nascitur ibi syricum in maxima quantitate.</seg>
+    </p>
+    <p n="3"/>
+    <p n="4">
+      <seg xml:id="fonte-r-ii-30_4_1" n="1"> Or noç lairon de ce et voç conteron d’une grandisme cité qe est apelés <term ref="#cacianfu">Cacianfu</term>. Mes, tou avant, voç diron d’un noble chastiaus qui est apellés <term ref="#thaigin">Caiciu</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

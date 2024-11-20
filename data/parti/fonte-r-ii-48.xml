@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>fonte-R-II-48</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="fonte-r-ii-48">
+    <head>
+      <hi rend="bold">Z, 63 1-7</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="fonte-r-ii-48_1_1" n="1"> <term ref="#tholoman">Toloman</term> est queda‹m› provincia versus levantem, cuius gentes <term ref="#idolatri">adorant ydola</term> et loquelam per se habent. </seg>
+      <seg xml:id="fonte-r-ii-48_1_2" n="2"> Gentes pulcre sunt, magis brune quam albe. </seg>
+      <seg xml:id="fonte-r-ii-48_1_3" n="3"> Sunt
+         homines probi et valentes ad arma. </seg>
+      <seg xml:id="fonte-r-ii-48_1_4" n="4"> Multas habent civitates. </seg>
+      <seg xml:id="fonte-r-ii-48_1_5" n="5"> Castrorum habent
+         quantitatem multam in magnis et arduis montibus et fortiliciis. </seg>
+      <seg xml:id="fonte-r-ii-48_1_6" n="6"> Quando vero decedunt,
+         faciunt corpora comburri. </seg>
+      <seg xml:id="fonte-r-ii-48_1_7" n="7"> Et ossa remanencia, que comburi non valent, in parvis
+         archis reponunt; postmodum ad altos montes portant, et in diruptis cavernarum alte
+         appendunt, ita quod alique bestie atingere non valent.</seg>
+    </p>
+    <p n="2"/>
+    <p n="3">
+      <seg xml:id="fonte-r-ii-48_3_1" n="1"> Àno gran quantità de oro e per suo moneta picolla spendeno porcellane; e cossì
+         spendeno le sopra dite do province <term ref="#cingui">Çingui</term> et <term ref="#amu">Anui</term>. [7] Viveno de late, charne e rixi e beveno vino de rixi chome de sopra le alltre
+         provincie.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

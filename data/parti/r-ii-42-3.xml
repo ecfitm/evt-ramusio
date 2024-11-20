@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-42-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-42">
+      <note>
+	<p>La fonte più prossima a R è V: vd. <ref type="witlink" target="#p-ii-42">P II 42 2</ref> «Reges autem <term ref="#mien">Mien</term> et <term ref="#bangala">Bangala</term> audito eorum adventu preterriti sunt, metuentes ne forte terras eorum venissent invadere
+         […]»; <ref type="witlink" target="#v-null-58">V 58 3</ref> «Or adevene che ’l re de <term ref="#mien">Ruen</term> e <term ref="#bangala">Bangala</term>, el qual era possente de tere e de texoro, et aveano molta zente, el qual non iera
+         in quela volta sotoposto al <term ref="#gran-can">Gran Chan</term>, ma dapuo’ puocho tempo sugiugò quelo ala so signoria, e tolseli tuti do i reami
+         i qualli ve ò nominati de sopra; et quando questo re Abagalian sape che ’l suo’ exerzito
+         iera in <term ref="#mare-oceano">*Ozian</term>, el disse ch’el iera di bixogno ch’elo i andasse inchontra chon una gran zente, che
+         li alziderave sì fatamente che ’l <term ref="#gran-can">Gran Chan</term> non averà ma’ più volontade de mandar el suo’ exerzito in <term ref="#mare-oceano">*Ozian</term>»; <ref type="witlink" target="#vb-null-86">VB LXXXVI 2</ref> «El re de <term ref="#mien">Mian</term> e <term ref="#bangala">Bangalla</term>, saputo dela venuta de <term ref="#centemur">Centemur</term>, ne ave despiacere e disposese oviar a quello; e quanto presto poté apariò grandissimo
+         hoste però ch’era potentisimo segnore». R, tuttavia, presenta affinità più forti con
+         <ref type="witlink" target="#f-null-120">F CXX 4</ref> (vd. il sintagma «potente di genti» e la forma dei toponimi): «Or avint qe le roi
+         de <term ref="#mien">Mien</term> et de <term ref="#bangala">Bangala</term>, ke molt estoit poisant rois et de teres e de tesor e de jens, e cestui rois ne estoit
+         sout le <term ref="#gran-can">Grant Kaan</term>, mes puis, ne ala grament de tens qe le <term ref="#gran-can">Grant Kaan</term> le conquisté et li toli andeus les roiames qe je voç ai només desovre, et, ceste
+         roi de <term ref="#mien">Mien</term> et de <term ref="#bangala">Bangala</term>, quant il soit qe le ost dou <term ref="#gran-can">Grant Kaan</term> estoit a <term ref="#vociam">Vocian</term>, il dist a soi meisme qu’il est mester qe il hi a‹i›lle lor sovre a si grant jens
+         qu’il les metra tuit a mort, en tel mainere qe le Grant Chan ne aura jamés volunté d’envoier illuec autre oste». È probabile, dunque, che anche
+         in questa pericope Ramusio si sia attenuto a un codice della redazione Z prossimo
+         in lezione a F e, in misura minore, a V.</p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

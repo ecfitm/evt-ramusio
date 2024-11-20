@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-31-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-31">
+      <note>
+	<p>R si allontana da tutte le sue fonti. Alcune coincidenze col testo accorciato di P
+         e con quello, più ampio, di VB farebbero pensare che Ramusio abbia tenuto conto fondamentalmente
+         di queste due testimonianze: <ref type="witlink" target="#p-ii-30">P II 30 4</ref> «[…] quadam die [R «un giorno»] illis assumptis cum paucis aliis extra castrum per
+         miliare unum solatii gratia equitavit; tunc proditores illi horam advenisse cernentes
+         excogitate malicie, evaginatis supra eum gladiis [R «cavate fuori le spade»], ipsum
+         ceperunt et captivum duxerunt ad Presbiterum Iohannem ut ei fraudolenta fide promiserant»; <ref type="witlink" target="#vb-null-76">VB LXXVI 6-10</ref> «Essendo andato el re <term ref="#dor">Doro</term> fuori nel paexe in chaça, et essendo passato algun fiume [R «havendo passato un fiume»]
+         e remaxo con questi .VII. chavalieri, parsse ai diti el tenpo de potere meter a ssecucione
+         la promisione fata al suo segnore <term ref="#prete-gianni">Presto Çane</term>. Datose fra loro i ssegni aferò quell misero segnore né vaiendo a quello pregiere
+         né lusenge né promissione, quei costanti che il voleva per prixone e che il voleva
+         conducere alla presencia et in podestà de <term ref="#prete-gianni">Presto Çane</term>. Aldito el re <term ref="#dor">Doro</term> nominar <term ref="#prete-gianni">Presto Çane</term> chome furibondo pregava i chavallieri piutosto quello dovesse alcidere, né çovandoi
+         alchuna pregiera nei rechordati beneficii fo constreto andar con quelli […]». </p>
+	<p>L’estrema genericità delle somiglianze suggerisce di escludere dal novero delle fonti
+         di R la versione di V, che segue in sostanza il dettato di F, amplificandolo tuttavia
+         in più punti:<ref type="witlink" target="#v-null-51"> V 51 14-22</ref> «Or aldirete quello fexe questi malvaxi, et questo adevene perché nesun non se puol
+         schivar da traditori e da tradimenti: uno zorno questo re <term ref="#dor">Dor</term> s’andava solazando chon pocha zente, et chon lui iera questi sie vassali malvaxi;
+         et quando li fo a passar uno zerto fiume [≈ R «havendo passato un fiume»] el qualle
+         iera lonzi dal chastello uno mio, questi sie vassalli trasseno le spade de vazina
+         [≈ R «cavate fuori le spade»] et andò adosso el re <term ref="#dor">Dor</term>, digando che lui iera morto. Et quando lo re vete questo se meraveiò molto et disse
+         a quelli: “Ho, fioli, ch’è quello che vui dite?”. Et ello disse: “Se non volé morir
+         el ve chovien vegnir chon nui dal <term ref="#prete-gianni">Prete Zane</term>, el nostro signor”, et disse ch’el non fosse tanto ardito ch’el mandasse per sochorso,
+         che li l’olzideria; e che puo’ elli iera per morir dala so zente, et se lui vegnisse
+         chon loro veramente el non averà algun mal et non perderà el so reame. Allora lo re
+         <term ref="#dor">Dor</term> feno chomandamento a so fioli et alla so zente che non se achostasse a lui, et lassòlli
+         che li governasse el reame domentre che lui tornasse. Hor quando lo re <term ref="#dor">Dor</term> vete che pur li chonvenia andar dal <term ref="#prete-gianni">Prete Zane</term>, ello ave gran ira, che pocho manchò el non morì de gran doia; et disse a quelli:
+         “Abié miserichordia de mi, dolze mie’ fiolli! Non ve ò io honoradi assai in la mia
+         chorte? Et vui me vollé meter in le man dî mie’ nemixi? Zertamente se vui farete questo,
+         vui faré gran mal” Et quelli disse ch’el iera de bixogno che chussì fosse, et sì menò
+         questo al <term ref="#prete-gianni">Prete Zane</term>»; <ref type="witlink" target="#f-null-107">F CVII 13-17</ref> «Or hoirés qe cesti mauveis vallés font: et ce avint por ce qe nulz se puet garder
+         dou traïtor et desloiaus. Il fui voir qe ceste roi d’Or s’ala desduiant con pou de jens, et hi estoient cesti maveis .VII. vallés. Et quant
+         il ont pasés un flum qe est longn do palais que je vos ai contés un mil, les .VII.
+         valés, que virent que le rois ne avoit conpagnie qe contr’aus le peussent defendre,
+         adonc distrent q’il pooient faire ce por coi il estoient venus. Adonc mistrent main
+         a le spee et distrent au rois ou il alera avech elz ou il le metront a mort. Le roi,
+         quant il voit ce, il en a grant mervoille et dist elz: “Et conmant, biaus filç, et
+         qe est ce que voç dites, et ou volés voç que je veingne?” “Voç vendrés, font il, dusqe
+         a nostre seingnor le <term ref="#prete-gianni">Prestre Johan</term>”» / <ref type="witlink" target="#f-null-108">F CVIII 3-4</ref> «Et quant le roi entent ce, il a si grant ire que poi se faut q’il ne muert de duel;
+         et dit elz: “Ai mercé, biaus filz! Or ne voç ai je honoreç aseç e’ mon ostiaus? Et voç me{s} volés metre en les mains de
+         mes ennemis! Certes, se voç ce faites, vos firés grant maus et grant desloiautés”.
+         Celz distrent qe il convent qe ensi soit; et adonc le moinent au <term ref="#prete-gianni">Prestre Johan</term>». In L tutto il passo viene omesso.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-44-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-44">
+      <note>
+	<p>L’espressione «[…] nelle parti vicine alla tramontana v’abitano molti <term ref="#tartari">Tartari</term> […]» presuppone <ref type="witlink" target="#p-iii-47">P III 47 2</ref> «In regionibus quibusdam in aquilonaribus terminis constitutis ultra polum articum
+         multi <term ref="#tartari">Tartari</term> habitant, regem habentes qui est de progenie regis maximi <term ref="#tartari">Tartarorum</term> […]» (resa di VA CLIII 2 «E llà abita gran zente tartarescha verso tramontana che à uno so re della chaxa
+         del <term ref="#gran-can">Gran Chan</term>, e tuti quelli èno desexi de Chinchis Chan»), e non un prototesto come Z 150 1 «In tramontana quidem est quidam rex nomine Conci, qui est tartarus  – et omnes eius
+         gentes tartare sunt […]». Z traduce F CCXVI 2 «Or sachiés qe a tramontaine a un roi qui est apellés Conci. Il est tartars e toutes
+         sez jens tartars […]» (e sulla sua linea si muovono gli altri relatori: L 197 1 «Ad partes septemtrionis erat, tempore domini Marchi Paulo, rex quidam nomine Conci,
+         qui tartarus erat et de stirpe imperiali (scilicet <term ref="#cingis-can">Cinchini Canis</term>) […]»; V 118 1 «‹I›n tramontana sono uno re chiamato Gangi, el qual sono tartaro et tuta la so zente
+         è <term ref="#tartari">Tartari</term> […]»; VB CLXXII 1 «‹V›erso la tramontana è uno re chiamato Canci et è tartaro […]»).</p>
+	<p>Non si comprende il <hi rend="italics">lapsus</hi> sull’identità del sovrano della regione (taciuta da VA-P): le fonti alternative a
+         P recavano certamente le grafie <hi rend="italics">Conci</hi>/<hi rend="italics">Canci</hi>, e lo stesso Ramusio sapeva che <term ref="#caidu">Caidu</term> era «[…] grande et potente signor nelle parti verso la <term ref="#gran-turchia">Gran Turchia</term>, et nipote del <term ref="#gran-can">Gran Can</term>, ma suo ribello […]» (<ref type="witlink" target="#r-ii-2">R II 2 8</ref>: informazione reperibile pure, nel capitolo sulla <term ref="#gran-turchia">Gran Turchia</term>, in Z 132 1 «In <term ref="#gran-turchia">Magna Turchia</term> est quidam rex nomine <term ref="#caidu">Caydu</term>, qui nepos est <term ref="#gran-can">Magni Can</term>: nam filius filii <term ref="#zagathai">Çagathay</term>, fratris germani <term ref="#gran-can">Magni Can</term>, exstitit»).</p>
+	<p>Il richiamo finale alla parentela e all’indipendenza del re locale viene probabilmente
+         dall’innesto di Z 150 7-8 «Iste rex nulli subditus est. Verum est quod ipse est de progenie <term ref="#cingis-can">Cinghys Can</term> et est consanguineus proximus <term ref="#gran-can">Magni Domini</term>» (resa di F CCXVI 4 «Il n’est sotpost a nelui. Bien est il voir qu’il est de la lingnee de <term ref="#cingis-can">Cinchin Kan</term>, ce est de l’anperiaus lignajes, et est p{o}rochain parenz dou <term ref="#gran-can">Grant Can</term>»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

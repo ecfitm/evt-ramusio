@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-52-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-52">
+      <note>
+	<p>Il testo di R corrisponde, per struttura e contenuto informativo, a <ref type="witlink" target="#f-null-73">F LXXIII 6-7</ref> «[…] il tient la tere por lo Grant Chan, mes non pas tout celle que tenoit le Prestre Joan, mes aucune partie de celle. Mes si vos di que les <term ref="#gran-can">Grant Kaan</term> toutes foies ont donee de lor files et de lor parens a les rois que reingnent qui
+         sunt dou lingnajes au <term ref="#prete-gianni">Prestre Johan</term>».</p>
+	<p>La fonte è certamente Z1, come si evince dalla sostanziale corrispondenza tra R e la lezione toledana nelle
+         porzioni di testo confrontabili; purtroppo Z toledano manca per lacuna delle informazioni
+         sulla giurisdizione territoriale del re Giorgio, corrispondenti al segmento «[…] il tient la tere […] partie de celle» di F: vd.
+         Z 41 5 «Magnus vero Can semper aliquas de filiabus suis et alias, que de stirpe sua descendant, cum regibus
+         regnantibus, qui de progenie <term ref="#prete-gianni">Presbiteri Iohanis</term> descenderint, copula matrimoniali coniungit» (in particolare, R «altre che discendono
+         dalla sua stirpe» = Z «alias, que de stirpe sua descendant», «ai re che siano discesi»
+         = «cum regibus […] qui de progenie <term ref="#prete-gianni">Presbiteri Iohanis</term> descenderint»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

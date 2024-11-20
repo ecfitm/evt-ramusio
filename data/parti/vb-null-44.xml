@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-44</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-44">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XLIV </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-44_1_1" n="1"> ‹P›artendosi dela sopra dita provincia, chaminando per .X. giornate fra griego
+         e llevante, in questo camino non se trova abitaciun alchuna; ma a chapo dele giornate
+         .X. se trova una provincia chiamata <term ref="#succuir">Soetur</term>. </seg>
+      <seg xml:id="vb-null-44_1_2" n="2"> Abitage cristiani et <term ref="#idolatri">idollatri</term>; è sotoposti alla segnoria del <term ref="#gran-can">Gran Chane</term>. </seg>
+      <seg xml:id="vb-null-44_1_3" n="3"> Nele montagne de questa provincia se trova finissimo <term ref="#rheubarbaro">reobarbaro</term> el qual fi conprato da marchadanti e portallo in altri paexi, né quivi alltra marchadantia
+         non si trova; viveno i abitanti di fruti dela tera.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

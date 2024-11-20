@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-53-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-53">
+      <note>
+	<p>Il dettato di R corrisponde <hi rend="italics">verbatim</hi> alla lezione  di Z 41 22 «Et in montibus istius provincie est quidam locus nomine <term ref="#idifa">Ydifu</term>, in quo est optima argentera, in qua quidem foditur argentum in maxima quantitate»,
+         mancante però, per lacuna, delle informazioni conclusive sulla caccia (R «et oltre
+         di ciò […] cacciagioni»), che probabilmente lo Z utilizzato da Ramusio conservava.</p>
+	<p>Z (&gt; R) è vicinissimo al testo di <ref type="witlink" target="#f-null-73">F LXXIII 22-23</ref> «Et es montagnes de ceste provence ha un leu que est apellés <term ref="#idifa">Ydifu</term>, en quelz a une mout bonne argentiere, en la quel se tra ar{i}gente aseç. Il ont
+         chachajon de bestes et d’osiaus asseç», come del resto <ref type="witlink" target="#l-null-64">L 64 12-13</ref> «Et in montibus huius provincie est locus nominatus <term ref="#idifa">Ydifu</term>, ubi foditur vena argenti in maxima quantitate. Et sunt in partibus istis bone venationes
+         tam avium quam bestiarum», e <ref type="witlink" target="#v-null-38">V 38 20</ref> «In li monti de questa zitade sì è una bona arzentiera dela qual se chava arzento
+         in gran quantitade, et sono anchora de molte chazaxon e oxelazon de tute maniere de
+         anemali e oxeli» (l’omissione del toponimo è riconducibile a salto dell’occhio).</p>
+	<p><ref type="witlink" target="#p-i-65">P I 65 8</ref>, <hi rend="italics">d’après</hi> VA, ristruttura il dettato della tradizione («In montibus province huius sunt magne
+         argenti minere; ibi sunt venaciones magne propter multitudinem silvestrium bestiarum;
+         vocatur autem regio moncium <term ref="#idifa">Ydifu</term>»), mentre la curiosa variante toponomastica documentata da <ref type="witlink" target="#vb-null-63">VB LXIII 5</ref> «Ène in questa provincia una montagna che se chiama <term ref="#idifa">Idifuonsia</term> che vol dir argentiera, però che in dita montagna se chava argiento assai» risulta
+         dalla saldatura, in coda al toponimo <hi rend="italics">Idifu</hi>, della cong. <hi rend="italics">onsia</hi> “ossia”, introduttore della glossa immediatamente successiva.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

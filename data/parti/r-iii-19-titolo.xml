@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-19-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-19">
+      <note>
+	<p>F CLXXII (Ci devise de l’isle de <term ref="#zeilan">Seilan</term>); P III 22 (De insula magna <term ref="#zeilan">Seylam</term>. Capitulum XXII), VA CXXXVI (Del’ixolla de <term ref="#zeilan">Stinan</term>, ove nasie i rubini); <ref type="witlink" target="#z-null-106">Z 106</ref> (De insula <term ref="#zeilan">Seylan</term>); L 159 (De insula <term ref="#zeilan">Seilan</term>); V 90 (Del’ixola de <term ref="#zeilan">Salam</term>); VB CXLII. </p>
+	<p>La forte somiglianza tra il discorso ramusiano e quello di Z rende la redazione latina
+         di questo capitolo l’antigrafo più probabile di R (quanto meno nella sostanza dell’informazione
+         e nella sua articolazione: ma vedi, per qualche scarto, le note ai parr. 4 e 9). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

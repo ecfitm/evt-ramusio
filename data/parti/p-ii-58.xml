@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-58</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-58">
+    <head>
+      <hi rend="bold">P, II 58</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-58_2_1" n="1"> Ad occidentalem plagam est regio una in provincia <term ref="#mangi">Mangy</term> que dicitur <term ref="#nanghin">Nanguy</term>, opulenta et pulcra valde, ubi multi panni fiunt de auro et serico, ubi etiam bladi
+         et victualium copia est. </seg>
+      <seg xml:id="p-ii-58_2_2" n="2"> Ibi invenitur civitas <term ref="#saianfu">Siansu</term> que civitates .XII. sub suo dominio |63a| continet. </seg>
+      <seg xml:id="p-ii-58_2_3" n="3"> Annis tribus in ribellione
+         prestitit intra quos debellari non potuit ab exercitu <term ref="#tartari">Tartarorum</term> quando devicta fuit provincia <term ref="#mangi">Mangy</term>; non enim ante eam locari potuit exercitus nisi a parte aquilonari, nam undique ex
+         partibus reliquis lacune profunde erant per quas naves ad eam ingredi et ab ea egredi
+         poterant et sic in victualibus non poterat habere defectum. </seg>
+      <seg xml:id="p-ii-58_2_4" n="4"> Quo audito, rex <term ref="#gran-can">Kaam</term> turbatus est supra modum. </seg>
+      <seg xml:id="p-ii-58_2_5" n="5"> Contigit autem tunc temporis dominum Nicolaum patrem
+         meum et dominum Matheum fratrem eius et me Marchum cum illis in regis curia esse;
+         accedentes igitur simul ad regem obtulimus nos facturos machinas cum quibus omnino
+         civitas caperetur: non enim erat usus machinarum in regionibus illis. Habebamus enim
+         nobiscum fabros lignarios christianos qui fecerunt tres machinas optimas, quarum |63b|
+         quelibet trecentarum librarum lapidem iacebat quas navibus impositas misit rex ad
+         exercitum suum. </seg>
+      <seg xml:id="p-ii-58_2_6" n="6"> Cum autem ante civitatem <term ref="#saianfu">Siansu</term> erecte essent, lapis primus quem machina ad civitatem emisit super domum unam cecidit
+         civitatis magnaque domus pars confracta est. </seg>
+      <seg xml:id="p-ii-58_2_7" n="7"> Quod videntes <term ref="#tartari">Tartari</term> qui in exercitu erant obstupuerunt valde; hii vero qui in civitate erant nimio terrore
+         concussi, metuentes ne tota civitas destrueretur a machinis et ipsi omnes occiderentur
+         a <term ref="#tartari">Tartaris</term> aut sub domorum ruina perirent, statim ad Magni <term ref="#gran-can">Kaam</term> mandata venerunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

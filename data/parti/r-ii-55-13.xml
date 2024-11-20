@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-55-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-55">
+      <note>
+	<p>Nella parte iniziale («Et dapoi […] <term ref="#quinsai">Quinsai</term>»), la pericope non presenta affinità con una fonte in particolare. Alcune convergenze
+         – in realtà assai generiche – suggeriscono che Ramusio abbia rielaborato profondamente
+         <ref type="witlink" target="#p-ii-54">P II 54 6</ref> «Tunc contremuerunt corda virorum <term ref="#mangi">Mangy</term>, et <term ref="#bayan">*Bayan</term> ad regalem et maximam civitatem <term ref="#quinsai">Quinsay</term> [R «la real città di <term ref="#quinsai">Quinsai</term>»] accessit, et ibi iuxta eam suum exercitum [R «con tutti duoi gli esserciti»] ordinavit;
+         rex autem <term ref="#mangi">Mangy</term>, qui suam ibi tenebat curiam, auditis probitatibus et fortitudine <term ref="#tartari">Tartarorum</term> vehementer expavit et ascendens in navem cum comitatu maximo ad quasdam inexpugnabiles
+         se transtulit insulas, habens circiter mille naves secum» e <ref type="witlink" target="#p-ii-54">P II 54 10</ref> «Rex autem <term ref="#fanfur">Facfur</term>, vir eius qui ad insulas fugerat, inde in omni vita sua discedere nolui ibique mortuus
+         est». </p>
+	<p>Nelle righe seguenti, varie coincidenze con <ref type="witlink" target="#vb-null-101">VB CI 6-7</ref> / <ref type="witlink" target="#vb-null-101">VB CI 11</ref> dimostrano un cambio di modello: «El re <term ref="#fanfur">Fatur</term> se redusse alla citade soa chiamata de <term ref="#quinsai">Quiquitia</term>; el chapitano <term ref="#chinsanbaian">Baian</term>, conquistando el paexe, vene a meter canpo ala citade de <term ref="#quinsai">Quiquitia</term>» / «El re <term ref="#fanfur">Fatur</term>, dubitando dela [R «dubitando della»] possança de <term ref="#chinsanbaian">Baian</term>, né vedendo poter resister a quella, apariatto [R «preparate»] grandissima quanti‹tà›
+         de nave (charge quelle de tute soe arnixe e richeçe), [R «con tutto il suo thesoro
+         et robe sue»] lasato la guardia dela cità alla moglie [R «lasciando la guardia della
+         città alla moglie»] con ordene che quella se defendesse al meio la potesse [R «con
+         ordine che si defendesse al meglio che potesse»] – però che llie essendo femina non
+         avea a dubitare che chapitando nele mane di nemici i lla fesseno morire [R «perché,
+         essendo femmina, non havea a dubitare che, capitando in le mani d’i nimici, la facessero
+         morire»] –, andòsene con le nave ale isole soe nel <term ref="#mare-oceano">Mar Oceano</term>, luochi fortissimi» [R «andossene per il <term ref="#mare-oceano">mare Oceano</term> ad alcune sue isole dove erano luoghi fortissimi»]; «El re <term ref="#fanfur">Fatur</term> stete nel’isolle soe dove fenì suo’ çorni […]» [R «finí la sua vita»]. </p>
+	<p>Non emergono prove di contatti di R con la versione più breve di V (che rispecchia
+         abbastanza fedelmente la lezione di F): vd.<ref type="witlink" target="#v-null-67"> V 67 9-11</ref> «[…] et quando l’ave branchado tante zitade l’andò ala gran zitade la qualle nomeva
+         <term ref="#quinsai">Vusai</term>, in la qualle erano el re chon la reina. Et quando el re vete <term ref="#chinsanbaian">Baian</term> chon el suo’ exerzito se temé molto […] Et quando el re intexe questo molto temé,
+         et partìsse de quella zitade chon molta zente, et intrò i·nave et schanpò in <term ref="#mare-oceano">Mar Hozeano</term> al’ixole», e <ref type="witlink" target="#v-null-67">V 67 23</ref> «Et lo re, el qualle era fuzito al’ixolle del Mar Ozeano, stete lì gran tempo et sì morite […]» (vd.<ref type="witlink" target="#f-null-138"> F CXXXVIII 9-10</ref> «Et por coi voç firoie je lunc cont? Sachiés tuit voiremant qe <term ref="#chinsanbaian">Baia‹n›z</term>, quant il oit prist tantes cités com je voç ai contés, il s’en ala tout droit a la
+         mestre cité dou regne, qe <term ref="#quinsai">Quinsai</term> est apellés, la ou le roi e la raine estoient. Le roi, quant il vit <term ref="#chinsanbaian">Baian</term> et sa host, il ha grant doutance: il se parti de cel cité con maintes jens et entre
+         bien .M. nes, et s’en fui en la <term ref="#mare-oceano">mer Osiane</term> entres les ysles» / <ref type="witlink" target="#f-null-138">F CXXXVIII 21</ref> «Mes do roi son baron en avint que ne oisi jamés de l’isle dou <term ref="#mare-oceano">mer Osiane</term>: si se morut»). </p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

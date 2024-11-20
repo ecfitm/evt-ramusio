@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-35</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La pericope aderisce fedelmente a <ref type="witlink" target="#z-null-107">Z 107 99-100</ref> «Habent insuper consuetudinem aliam, videlicet quod omnes, tam masculi quam femine,
+         lavant se bis in die in aqua totum corpus, videlicet in mane et in sero; aliter nunquam
+         comederent neque biberent priusquam essent loti. Et ille qui se non lavaret bis in
+         die tanquam hereticus teneretur (versione di fatto letterale di F CLXXIII 42 «Et encore voç di qe il ont encore un tel costume: qe tuit, et masles et femes, se
+         lavent chascun jors .II. foies en eive tout lor cors, ce est le maitin et le soir,
+         ne autremant ne mengierént ne boiverént jusque a tant qu’il ne fuissent lavés. E celui
+         qe ne se lavest por .II. foies le jor est tenu come noç tenion les patarim»).</p>
+	<p>Gli altri relatori si possono disporre a “distanza” crescente da F (e Z). Traduce
+         alla lettera F V 91 42 «Anchora i àno tal uxanza: che tuti, chussì mascholi chomo femene, se lavano do volte
+         al dì tuto el chorpo in aqua, zoè la matina e la sera; et altramente non manzano né
+         beveno se non sono lavadi; et quelli che non se lavasse do volte al dì si vegneria
+         reputadi homeni retegi». Modifica l’ordine dei componenti di una traduzione in sostanza
+         letterale VB CXLIII 49 «Questi, ogni çorno, sì mascholli come femene, si lavano tuta la persona do fiate,
+         la maitina e lla sera: e quelli non se lavaseno seria reputati chome patarini, né
+         per cossa del mondo non mangeria né beveriano se prima non fosseno tutti lavati».</p>
+	<p>Si attiene al tenore informativo di F L 161 27 «Quicumque fuerint sue legis bis aqua totum cotidie corpus lavant, in mane videlicet
+         et sero, neque enim aliter biberent commederentque; qui enim bis aliqua die non lavaretur
+         pro infideli et heretico haberetur». Riduce il discorso alla sostanza referenziale
+         P III 25 4 «Viri omnes et mulieres bis in die corpora sua lavant; quicumque hoc facere obmitteret
+         apud eos sicut hereticus haberetur» (ma la sua redazione-modello aderiva a F: VA CXXXVII 47-48 «Zaschuno homo e zaschuna femena se chonvien lavar tuti in aqua do fiade al dì: da
+         doman e la sera, e altramente non oserave manziar. E chi non fesse questo serave tegniù
+         dentro loro chomo li patarini dentro nui»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

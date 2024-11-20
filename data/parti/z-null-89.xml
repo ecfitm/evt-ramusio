@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-89</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-89">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 89</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-89_1_1" n="1"> Noveritis igitur quod civitas <term ref="#fugiu">Fugiu</term> est capud regni quod nominatur <term ref="#concha">Choncha</term>, quod est pars nona provincie <term ref="#mangi">Mançi</term>. </seg>
+      <seg xml:id="z-null-89_1_2" n="2"> In ista quidem civitate multi sunt mercatores et artifices. </seg>
+      <seg xml:id="z-null-89_1_3" n="3"> Et omnes de
+         ista civitate <term ref="#idolatri">adorant ydolla</term> et sunt sub dominio <term ref="#gran-can">Magni Can</term>. </seg>
+      <seg xml:id="z-null-89_1_4" n="4"> Ibi manent homines quam plures pro armis: nam ibi permanent quam plures exercitus
+         <term ref="#gran-can">Magni Can</term>, quia multe civitates et castra quam pluries rebelant. </seg>
+      <seg xml:id="z-null-89_1_5" n="5"> Quia, ut alias dictum
+         est, non curant de morte: nam in alio mundo credunt vivere honorate; et etiam quia
+         gentes iste habitant in locis fortibus intra montes; et quandocumque ebrientur |49r|
+         et contra eorum rectores conturbentur, ipsos interficiunt. </seg>
+      <seg xml:id="z-null-89_1_6" n="6"> Item ab una parte istius
+         civitatis quoddam magnum flumen transit, quod est bene largum per unum miliare; et
+         in eo habet civitas multas naves que per flumen ipsum navigant. </seg>
+      <seg xml:id="z-null-89_1_7" n="7"> Item supra flumen
+         istud est quida‹m› pons valde pulcer super magnos burchos; et dicti burchi cum fortibus
+         anchoris retinentur, et super ipsos fixi sunt asseres magni et fortes. </seg>
+      <seg xml:id="z-null-89_1_8" n="8"> Item faciunt
+         zucarum in tanta quantitate quod dici non posset. [9] Fiunt etiam ibi mercimonia multa
+         de perulis et aliis lapidibus preciosis. [10] In contrata ista multi inveniuntur leones
+         qui ingenio capiuntur, videlicet quod, in locis ydoneis ad hoc, fiunt due fovee multum
+         profunde, una iuxta aliam. [11] Verum est quod inter utramque relictum est de terra
+         forte per unum brachium ampla; et ab utroque latere fovearum facta est sepes alta,
+         sed a capitibus nichil. [12] Et in nocte, ille cuius erunt fovee ligabit catulum unum
+         supra teram que est in medio, et ibi eum relinquens, recedet. [13] Tunc canis, sic
+         ligatus, a patrono relictus, non cessabit clamare; qui canis erit albus. [14] Et leo,
+         quantu‹m›cumque longi‹n›cus abinde, audiens vocem canis, cum multo furore curet ad
+         ipsum; et cum eum videbit albere, volens festinanter salire ad ipsum capiendum, in
+         fovea cadet. [15] In mane veniet patronus fovearum et leonem mactabit in foveis. [16]
+         Tunc comedentur carnes, quia bone sunt, et pelis vendetur: nam ‹peles› sunt multum
+         care. [17] Et si volet ipsum vivum habere, bene cum suis ingeniis extrahet ipsum vivum.
+         [18] Ittem inveniuntur in contrata illa quedam animalia vocata “papiones”; qui “papiones”
+         quasi vulpibus similantur. [19] Ipsi quidem corodunt et dampnificant multum canas
+         çucarum producentes. [20] Et quando mercatores, cum caravanis |49v| transeuntes per
+         contratam, in aliquo loco sistunt causa quiescendi et dormiendi, de nocte, isti “papiones”
+         ad ipsos veniunt celate, et quicquid possunt furari, furantur et auferunt, eis inferentes
+         multum dapnum. [21] Sed ipsi eos capiunt per hunc modum. [22] Habent enim cucurbitas
+         magnas quas trucidant in goço superiori, facientes introitum oris largum ad extimationem
+         quod unus ex “papionibus” possit capud imponere violenter. [23] Et ne os cucurbite
+         ex impresione violenta capitis “papionis” frangatur, ipsum os circumcirca perforant,
+         posmodum corda‹m› unam pre foramina illa circum texentes. [24] Quo facto, ipsi imponunt
+         dictis cucurbitis aliquantulum alicuius pinguedinis, iuxta fundum; et tunc circum
+         caravanam, aliquantulum remote, multas ex ipsis in pluribus locis ponunt. [25] Et
+         cum “papiones” ad caravanam veniunt causa aliquid auferendi, odorem sentientes pinguedinis
+         in cucurbitis existentis, ad ipsas accedunt, et capita volentes imponere, non valent.
+         [26] Sed propter gulositatem cibi intus existentis, prementes violenter, capud intrare
+         compelunt. [27] Tunc, non valentes extrahere, cucurbitas elevant, quia leves, et secum
+         portant. [28] Et tunc nesciunt quo vadant, et mercatores ipsas capiunt sicut volunt.
+         [29] Carnes sunt optime ad edendum et peles multum care venduntur. [30] Ittem in contrata
+         ista tam magni nascuntur anseres quod bene viginti quatuor librarum est pondus unius;
+         qui magnum habent goçum sub gula, et sicut unum tuber super rostrum, iuxta nares,
+         veluti cignus habet, sed habent multo maius quam cigni. [31] Ista quoque civitas <term ref="#fugiu">Fugiu</term> est prope portum Çaytun per sex dietas. [32] Et iste portus Zaytun est in <term ref="#mare-oceano">Mari Occeano</term>; |50r| et illuc multe naves de <term ref="#india">India</term> veniunt cum mercimoniis multis, et abinde veniunt naves usque ad civitatem <term ref="#fugiu">Fugiu</term> per magnum flumen superius nominatum. [33] Et per hunc modum multe preciose res de
+         <term ref="#india">India</term> veniunt ad hanc civitatem. [34] Habent insuper h‹ab›undantiam omnium que sint humano
+         corpori oportuna. [35] Habent etiam viridaria pulcra et delectabilia, omnium bonorum
+         fructuum copiosa. [36] Ipsa est tam bona civitas et tam bene ordinata quod dici non
+         posset. [37] Et hoc pateat de ipsa. [38] Dicemus unum quod dominus Marcus retulit,
+         quod est ydoneum narare. [39] Cum vero dominus Mapheus, patruus domini Marci Paulo,
+         et ipse dominus Marcus esent in dicta civitate <term ref="#fugiu">Fugiu</term>, et in eorum societate quidam sapiens saracenus, et ille dixit eisdem: «In tali loco
+         est quedam maneries gentis, cuius legem nemo cognoscit. [40] Nam ydolatria non est,
+         quia ydola non retinent; non adorant ignem; non profite‹n›tur Macometum; nec etiam habere videtur ordinem christianum. [41] Plac‹e›at vobis ut eamus ad eos
+         et loqui cum eis. [42] Forte de eorum esse aliquid cognoscetis». [43] Adiverunt illuc
+         et inceperunt loqui cum eis, et ipsos examinare, et inquirere de esse et lege eorum.
+         [44] Illi vero videbantur quasi timere ne ipsos examinarent propter auferendam eis
+         legem eorum. [45] Et tunc dicti domini Mapheus et Marcus, perpendentes quod ipsi timebant,
+         ceperunt ipsos ortari et dicere: «Ne timeatis, quia huc non venimus pro aliquo detrimento
+         vestri, sed solummodo pro bono et augumento vestri status». [46] Timebant itaque ne
+         fuissent per <term ref="#gran-can">Magnum Dominum</term> delegati ad hanc examinationem faciendam |50v| et exinde possent consequi detrimentum.
+         [47] Sed tantum frequentaverunt locum illum, de die in diem, domini Mapheus et Marcus,
+         se domesticantes cum eis et de eorum negotiis inquirentes, quod invenerunt eos christiana‹m›
+         legem tenere. [48] Nam ipsi habebant libros; et isti domini Mapheus et Marcus, legentes
+         in ipsis, inceperunt scripturam interpretari et traslatari de verbo ad verbum et de
+         lingua in lingua‹m›, ita quod invenerunt esse verba Psalterii. [49] Tunc interogaverunt
+         eos unde legem et ordinem illum haberent. [50] Qui respondentes dixerunt: «Ab antecesoribus
+         nostris». [51] Habebant itaque in quodam eorum templo, depictas, ymagines tres, qui
+         tres apostoli fuerant ex septuaginta qui per mundum iverant predicando, et illos dicebant
+         antecesores suos in illa lege antiquitus informasse, et quod iam per anos septingentos
+         apud eos erat fides illa servata. [52] Sed multo tempore sine doctrina fuerant, quare
+         principalia ignorabant. [53] «Tamen istud tenemus a predecessoribus nostris, videlicet
+         quod, secundum libros nostros, celebramus et reverentiam facimus istis tribus, scilicet
+         apostolis». [54] Tunc dixerunt domini Mapheus et Marcus: «Vos estis christiani, et
+         nos sumus similiter christiani. [55] Consulimus vobis ut ad <term ref="#gran-can">Magnum Can</term> mitatis et exponatis ei condicionem vestram, ut ipse cognoscat vos, et vos positis
+         legem et ordinem vestrum libere retinere». [56] Nam, propter ydolatros, non bene audebant
+         eorum legem palam exprimere nec tenere. [57] Miserunt itaque duos ex eis ad <term ref="#gran-can">Magnum Can</term>; et domini Mapheus et Marcus |51r| ipsos instruxerunt quod se prius presentare‹n›t
+         cuidam qui capud erat christianorum in curia <term ref="#gran-can">Magni Can</term>, ut eorum esse, coram <term ref="#gran-can">Domini</term> presentia, declararet. [58] Et ipsi nuncii sic fecerunt. [59] Sed quid? coram <term ref="#gran-can">Magno Can</term> fuit ille qui capud erat christianorum, istos denuncians esse christianos, et quod
+         debea‹n›t pro christianis in suo dominio confirmari. [60] Et hoc intelligens, qui
+         erat capud ydola adorantium ex adverso movit questionem, dicens quod hoc non debebat
+         esse: nam supradicti erant <term ref="#idolatri">ydolatri</term>, et fuerunt semper, et pro ydolatris habebantur. [61] Et sic coram <term ref="#gran-can">Domino</term> super hoc questio magna fuit. [62] Finaliter <term ref="#gran-can">Dominus</term>, yratus, faciens omnes abire, ad se iusit nuncios venire, eos interogans utrum christiani
+         esse vellent vel <term ref="#idolatri">ydolatri</term>; qui responderunt quod, si sibi placeret et contra magnificenciam eius non esset,
+         volebant christiani esse, sicut sui fuera‹n›t predecesores. [63] Tunc <term ref="#gran-can">Magnus Can</term> precepit eis fieri privilegia: qualiter pro christianis debeant appellari et christianitatis
+         valeant normam ‹retinere› quicumque sub ista reg‹u›la continentur. [64] Nam inventum
+         fuit quod, per provinciam <term ref="#mangi">Mançi</term> hic et illic, erant familie plures septingentis milibus que regulam huiusmodi sectabantur.
+         </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

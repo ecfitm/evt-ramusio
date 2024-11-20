@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-40-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-40">
+      <note>
+	<p>Il sommario geografico è presente solo in <ref type="witlink" target="#p-i-50">P I 50 4</ref>, ed è verosimilmente iniziativa del domenicano: «Omnes autem supradicte provincie
+         et civitates, scilicet civitas <term ref="#sachion">Sachion</term>, provincia <term ref="#chamul">Camul</term>, provincia <term ref="#chinchintalas">Chinchintalas</term>, provincia <term ref="#succuir">Succuir</term>, civitas <term ref="#campion">Campition</term>, et civitas <term ref="#ezina">Ezina</term> pertinent ad magnam provinciam <term ref="#tanguth">Tanguth</term>». Ramusio traduce letteralmente il passo, non curandosi di eliminare il riferimento
+         alla provincia di <term ref="#chinchintalas">Chinchintalas</term>, come sarebbe invece stato opportuno, giacché in R manca (per ragioni insondabili,
+         ma non è da escludere che si tratti di una semplice dimenticanza) il relativo capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

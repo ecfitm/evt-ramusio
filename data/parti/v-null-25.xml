@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-25</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-25">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 25 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-25_2_1" n="1"> ‹D›everso mezodì, lutan da Belesian per diexe zornade, è una zitade chiamata <term ref="#bascia">Pasian</term>. </seg>
+      <seg xml:id="v-null-25_2_2" n="2"> Li omeni de quela àno el parlar per sí, e tuto questo luogo son chiamadi Indiani
+         et <term ref="#idolatri">adora le idole</term>; et sono zente bruna et sano molto d’inchantason e de arte diabolicha. </seg>
+      <seg xml:id="v-null-25_2_3" n="3"> E li omeni
+         de questa porta ale orechie zerchieli d’oro e d’arzento chon perle e pietre prezioxe;
+         et sono perfida zente asai in li lor chostumi. </seg>
+      <seg xml:id="v-null-25_2_4" n="4"> Et dè quela in molto chaldo luogo,
+         el manzar de queli |26r<hi rend="italics">|</hi> sono charne e rixi. </seg>
+      <seg xml:id="v-null-25_2_5" n="5"> Or lasiamo questa e diremo d’una altra provinzia la qual
+         son lonzi da questa sete zornade inverso sirocho, la qual à nome <term ref="#chesmur">Chasimur</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

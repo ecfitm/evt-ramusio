@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-49</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-49" n="1">
+    <head>
+      <hi rend="bold">R, II 49</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-49_1_1" n="1"> Delle città di <term ref="#cintigui">Cintigui</term>, Sidinfu, <term ref="#gouza">Gingui</term>, <term ref="#pazanfu">Pazanfu</term>. Cap. 49.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-49_2_1" n="1"> Partendosi della provincia di <term ref="#tholoman">Tholoman</term> et andando verso levante, si cammina dodici giornate sopra un fiume, a torno il quale
+         vi sono molte città et castella, le qual finite si trova la bella et gran città di
+         <term ref="#cintigui">Cintigui</term>, le cui genti <term ref="#idolatri">adorano gli idoli</term> et sono sotto il dominio del <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-ii-49_2_2" n="2"> Vivono di mercantie et arti; fanno drappi di scorzi di alcune sorti d’arbori, che
+         sono molto belli, et gli vestono nel tempo della state, cosí huomini come donne. </seg>
+      <seg xml:id="r-ii-49_2_3" n="3"> Gli huomini sono valenti nell’armi; non hanno altra sorte di moneta se non quella
+         di carta della stampa del <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-ii-49_2_4" n="4"> In questa provincia vi è tanta quantità di leoni che niun ardisce dormir la notte
+         fuor della città per timor d’i detti leoni, et quelli che navigano per il fiume non
+         si metteriano a dormir con loro navilii appresso le ripe, perché si sono trovati i
+         leoni buttarsi all’acqua et notar alli navilii et tirar per forza fuori gli huomini;
+         ma sorgeno nel mezzo del fiume, ch’è molto largo, et cosí sono sicuri. </seg>
+      <seg xml:id="r-ii-49_2_5" n="5"> Si ritrovano anchora in detta provincia i maggiori et piú feroci cani che si possano
+         dire, et sono di tanto animo et possanza che un huomo con duoi cani ammazza un leone,
+         et andando per cammino con duoi d’i detti cani, con l’arco et le saette, va sicuramente,
+         perché, se si trova il leone, li cani arditi gli vanno adosso, essendo incitati dall’huomo.
+         </seg>
+      <seg xml:id="r-ii-49_2_6" n="6"> Et la natura del leone è di cercare qualche arbore per appoggio, acciò che i cani
+         non li possan andar da drieto, ma che tutti duoi li stiano in fazza; et però, veduti
+         i cani et conoscendoli, se ne va passo passo né per alcun modo correria, per non voler
+         parere che ’l habbi paura, tanta è la sua superbia et altezza di animo. </seg>
+      <seg xml:id="r-ii-49_2_7" n="7"> Et in questo andar di passo i cani il vanno mordendo et l’huomo saettandolo, et anchor
+         che ’l leone, sentendosi mordere dai cani, si volti verso loro, sono però tanto presti
+         che sanno ritrarsi, et il leone torna alla via sua passeggiando, per modo che, avanti
+         ch’egl’habbi trovato appoggio, con le saette è tanto ferito et morsicato et sparto
+         il sangue che indebolito cade: et a questo modo con i cani prendono il leone. [8] Fanno molta seda, della quale, portandosene fuor del paese, si fa di gran mercan|40v|tie,
+         per via di questo fiume, qual navigasi per dodici giornate, sempre trovando città
+         et castella. [9] <term ref="#idolatri">Adorano gl’idoli</term> et sono sotto il dominio del <term ref="#gran-can">Gran Can</term>; la sua moneta è di carta, et il suo vivere et mantenersi consiste in mercantie;
+         sono valenti nell’arme. [10] Et in capo delle dodici giornate si trova la città di Sidinfu, della quale habbiamo trattato di sopra, et da Sidinfu per venti giornate si trova <term ref="#gouza">Gingui</term>, et da <term ref="#gouza">Gingui</term> per altre quattro giornate si trova la città di <term ref="#pazanfu">Pazanfu</term>, la quale è verso mezzodí, et è della provincia del <term ref="#cataio">Cataio</term>, ritornando per l’altra parte della provincia, le cui genti <term ref="#idolatri">adorano gl’idoli</term> et fanno abbrucciare i corpi quando morono. [11] Vi sono anchor certi christiani, che hanno una chiesa, et sono sotto il dominio del
+         <term ref="#gran-can">Gran Can</term>, et spendono le monete di carta. [12] Vivono di mercantie et arti, hanno seda in abondanza, et fanno panni d’oro et di
+         seda et veli sottilissimi. [13] Ha questa città molte città et castella sotto di sé; per quella passa un gran fiume,
+         per il quale si porta gran mercantie alla città di <term ref="#cambalu">Cambalú</term>, perché con molti alvei et fosse lo fanno scorrere fino alla detta città. [14] Ma al presente partiremo de qui, et per tre giornate procedendo trattaremo d’una
+         città detta <term ref="#cianglu">Cianglú</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

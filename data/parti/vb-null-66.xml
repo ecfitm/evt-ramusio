@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-66</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-66">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXVI </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-66_1_1" n="1"> ‹P›er la maçor parte del cibo de questo segnore, senpre apresso a llui à una gran
+         mandra de chavalli et chavale bianchissimi, sença machulla alguna et oltra a gran
+         quantità de vache bianchissime. </seg>
+      <seg xml:id="vb-null-66_1_2" n="2"> Dele qual vache et çumente è nutrigato solo el
+         <term ref="#gran-can">Gran Chan</term> et non alltra persona del mondo, et i suo’ desendenti, çoè quei del sangue suo, et
+         oltra una altra generacion (çoè uno altro lignaço) per la quale altre fiade el <term ref="#gran-can">Gran Chane</term> ebe una gran vitoria, per remuneraciun dela quale, − per onorar quello − volse che
+         quello e tuti suo’ desendenti vivesse e fose nutriti del medemo cibo fi nutrigato
+         el <term ref="#gran-can">Gran Chan</term> e quei del sangue suo: e però sollo questi do lignaçi viveno de diti animalli bianchi,
+         çoè de late che de quelle tirano, del qual late i fano vino et alltre vivande sì ben
+         conposte et chondicionate ch’è mirabelle cibo a bere et mangiare. </seg>
+      <seg xml:id="vb-null-66_1_3" n="3"> Quella generacione
+         che sopra ò dito (che viveno del cibo del signore) fi chiamati <term ref="#boriat">Oriat</term>, la qual schiata amò <term ref="#cingis-can">Çecino</term> re primiero et dége tale preeminencia. </seg>
+      <seg xml:id="vb-null-66_1_4" n="4"> Quando le dite çumente et vache vano pascholando,
+         quando le giente le videno pasare, non dicho sollo i infimi o meçani, ma i più principalli
+         baroni e segnori, fano grandisima reverencia a diti animali; né ardiria per chossa
+         del mondo andarge avanti, ma da tuti ge fi dato la via e fatoge tuti quelli apiaceri
+         e veçi posibelli et da tuti, come ò dito, reveriti non forsi co’ menore reverencia
+         che al segnore proprio faria. </seg>
+      <seg xml:id="vb-null-66_1_5" n="5"> Et àno in chostumo per conseio dei suo’ negromanti
+         che a dì .XXVIII. de agosto i tono una gran quantità de late de queste giumente bianche
+         e quello i sparceno per terra e per l’aire açò che i spiriti de questo late ne bevano
+         a suo piacere. </seg>
+      <seg xml:id="vb-null-66_1_6" n="6"> E tengono per questa charità fatta ai spiriti le chose del segnore
+         siano guardate e tute chosse soe bene socieda. </seg>
+      <seg xml:id="vb-null-66_1_7" n="7"> Et senpre apresso el segnor <term ref="#gran-can">Gran Chan</term> stano i suo’ inchantadori negromanti et astrolegi, et sono do sorte: l’una se chiamano
+         <term ref="#tebeth">Tabet</term>, l’altra <term ref="#chesmir">Quesmur</term> e una è <term ref="#idolatri">idolatichi</term>. </seg>
+      <seg xml:id="vb-null-66_1_8" n="8"> E questi sono gran negromanti, constrençeno i diemolli, né credo nel mondo sia
+         i maçor inchantadori de quelli et fino creti questo fare per santità et suo bontade.
+         [9] Per gracia a lloro concesa da Dio, fino chiamati questi i savi et sono sì prefeti
+         negromanti che quando el se leva nel’aiere algun nenbo de tenpesta o de pioça o de
+         oschurità i sano fare che ’l nenbo non se aprosima al palasio o stancia del segnore,
+         né mai su quello chaçe goça de aqua né de tenpesta. |245r| [10] Questa pessima generaciun
+         de negromanti et inchantadori àno questo chostumo, che se per alchun delito algun
+         fi condanato a morte, quel talle condenato ge fi dato, e lloro s ’el chuose e si lo
+         mangia; ma se alguno morise de morte naturalle non ne mangeria per chosa del mondo.
+         [11] E de questa generacion de inchantadori v’è tanta quantità ch’è una meraveia.
+         [12] Quando el segnore <term ref="#gran-can">Gran Chan</term> senta a mensa, la qual tavolla deputata per el mangiare del segnore è alta molto
+         da tera, et per meço ge al suo modo una credenciera, sopra la qual v’è le chope d’ariento
+         con le bevande del segnore: e quando el segnore vol bere, questi suo’ savi negromanti,
+         per loro arte fano andare la copa dela bevanda per si solla non tocha d’alchuno fino
+         alla mensa del segnore. [13] Et questo è certo però che, in presencia de molti stano
+         ala mensa del segnore, questo ogni dì fi fato. [14] Spese fiate questi negromanti
+         fano sacrefici ai suo’ dii segondo i çorni deputati a quelli, ai qual el segnore ge
+         fa deputare molti moltoni che àno i chapi negri e sono grassisimi, e fano quello chuoxere
+         con molte chosse odorifere. [15] El bruodo trato dila charne chota i spargeno per
+         tera in molte parte con dolci e soavi chanti, con belissime laude a quel idolo de
+         cui quel çorno è deputado, e la charne chota del montone i meteno avanti l’idolo cantando
+         che i mangiano quanto a l’idollo piace. [16] E questo fano in presencia del popollo
+         i qualli, con grandisima reverencia, stano a vedere el sacreficio et tengono per fermo,
+         per tal sacrifici ai dii gratissimo, guardano el segnore da ogni pericollo e tute
+         le chosse soe procedeno con grandissima prosperità; e dedicado a chadauno idolo un
+         dì all’ano, nel qual dì i fano gran feste et solenitade a reverencia de quello idollo
+         (chome nui femo el çorno deputado ai nostri santi). [17] Àno grandissimi tenpi dedicadi
+         a quelli idoli i qual fino oficiadi a loro modo da mille in do millia sacerdoti, segondo
+         la condiciun e grandeça de tenpli; e sòne de quelli che son grandi non meno de una
+         picolla cità. [18] I qual suo’ sacerdoti che serveno ale lor chiexie (over tenpli)
+         vesteno molto onestamente e tuti portano la testa raxa: onorano i suo’ tenpi con gran
+         luminarie. [19] Ène un’altra generacion de sacerdoti che togono moglie et àno figiolli.
+         [20] Ène una alltra generacion de munexi i qual fino chiamati <term ref="#sensim">Sensin</term>: questi sono homeni de grandissima astinencia et asprissima vita, non mangiano per
+         tutto el tenpo de suo vita salvo che semole; questi adorano el fuocho e dai altri
+         fino chiamati patarini. [21] Vesteno senpre negro e ben fose pano de seta pur sia
+         nero non ne fa deferencia; portano la testa e la barba raxi, dormeno senpre nele stuore.
+         [22] Questi non toria moglie per cossa veruna. [23] Àno le lor chiexie (over tenpi)
+         seperati dai altri et àno i suo’ idolli tuti de nome femenil.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

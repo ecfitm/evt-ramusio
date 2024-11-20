@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-45-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-45">
+      <note>
+	<p>Ramusio si allinea grosso modo alla tradizione nella struttura e nei contenuti del
+         passo, ma sopprime il riferimento ai matrimoni tra cugini, e al fatto che sia il figlio
+         primogenito a ereditare le consorti del padre: vd. invece <ref type="witlink" target="#f-null-68">F LXVIII 22-24</ref> «Il prennent lor cousine et, le pere muert, le sien greingnor fil prent a feme la
+         feme son peire, puis qu’elle ne soit sa mer. Il prant encore la feme de son frere
+         charnaus, se il muert. Quant il prenent feme font grant noses»; <ref type="witlink" target="#l-null-60">L 60 9-10</ref> «Accipiunt eciam in uxores consanguineas et uxores fratrum, dum tamen mortui fuerint;
+         et quod plus est, mortuo patre, filius eius maior uxorem patris – dum tamen non fuerit
+         eius mater – recipit in uxorem. Et in eorum uxorationibus magnas valde celebrant nuptias»;
+         <ref type="witlink" target="#p-i-55">P I 55 3-4</ref> «[…] preter sorores, omnes consanguineas in transversalibus lineis uxores accipiunt:
+         mortuo patre, filius novercam suam accipit uxorem; fratre etiam mortuo, cognatam accipit
+         frater. Nupcias solemnes faciunt quando traducuntur uxores […]»(e vd. <ref type="witlink" target="#va-null-54">VA LIV 18-20</ref> «Egli toleno le chuxine per moglier e, quando el padre è morto, el ‹maor› figlio
+         tuò la moglier del padre per soa moglier, purché ’la non sia so madre. E quando el
+         fradelo è morto, l’altro fradelo che roman tuò so chugniada per moier. E quando i
+         menano moglier i fano gran noze»); <ref type="witlink" target="#v-null-36">V 36 10</ref> «[…] et se ’l padre muor, el primo fio tuol la moier del padre, purché la non sia
+         la madre, per so moier; anchora, morto el fradelo, tuol la chugnada; et quando lor
+         fano noze fano gran feste»; <ref type="witlink" target="#vb-null-56">VB LVI 15</ref> «Questi talli pò tuor suo’ germane chusine per moglie; e s’el more alguno abia fiolli
+         el maçor figlio pò tore la madregna per moglie; et eçian pono tuor le chugnate, çoè
+         morto el fratello, per moglie».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

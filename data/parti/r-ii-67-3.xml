@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-67-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-67">
+      <note>
+	<p>R riproduce quasi alla lettera <ref type="witlink" target="#vb-null-113">VB CXIII 3</ref> «[…] nella quale v’è richissimi merchadanti et tanta moltitudene de giente che è
+         cossa mirabelle». Le altre redazioni non presentano affinità significative con R:
+         <ref type="witlink" target="#l-null-125">L 125 3</ref> «Gentes sunt in ipsa innumerabilis quantitatis […]»; <ref type="witlink" target="#p-ii-63">P II 63 2 </ref>«Ibi est maxima populi multitudo […]» (ma vd. pure <ref type="witlink" target="#p-ii-63">P II 63 3</ref> «Sed mercatores et artifices ibi multi sunt […]»); <ref type="witlink" target="#v-null-75">V 75 2</ref> «Et in quella se fano gran marchadantie; et sono gran quantità de zente ch’el non
+         sono nesun ch’el podesse pensare […]»; <ref type="witlink" target="#z-null-84">Z 84 4</ref> / <ref type="witlink" target="#z-null-84">Z 84 6</ref> «In ea sunt magni mercatores et divites […] In ea tanta quantitas gentis est quod
+         nullus numerum scire posset» (vd. <ref type="witlink" target="#f-null-150">F CL 4</ref> «Il hi a grant mercant et riches. […] Il ha si grandisme quantités des jens que nulz
+         en poroit savoir le nu‹n›bre»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

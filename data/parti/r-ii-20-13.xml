@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-20-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La descrizione in R del sistema postale mongolo risulta più concisa di quella nelle
+         fonti: <ref type="witlink" target="#l-null-80">L 80 9-11</ref> «Et dum necesse est aliquem velociter mittere, tunc unus ex hiis cui commissum est
+         accingitur cingulo pleno campanellis, citissimeque ut plurimum currendo non cessat,
+         donec tribus perambulatis miliaribus ad aliquam pervenerit mansionem, ubi invenit
+         cursorem alium iam paratum cum cingulo campanellis pleno, eique mandatum litteras
+         vel quicquid portaverit committit. Tunc et ille simili modo velocissimum arripit iter,
+         donec et ipse, perambulatis tribus miliaribus, ad aliam pervenerit mansionem, ubi
+         et ipse alium invenit preparatum qui vices eius assumit; sicque continue faciunt donec
+         mittitur ad locum ubi fuerit terminatum. Campanellas autem iam portant ideo ut alterius
+         mansionis nuncii adventum de longe sentientes ante adventum eius alium preparent ad
+         eundum. Et hoc modo unusquisque ex hiis nunciis complet in tribus miliaribus cursum
+         suum. Hoc modo habet <term ref="#gran-can">Magnus Canis</term> nova de longe .X. dietis in una die et nocte, et in duabus diebus et noctibus longe
+         de .XX. dietis, ita quod in .X. diebus habet nova longe de .C. dietis […]»; <ref type="witlink" target="#p-ii-23">P II 23 13</ref> «[…] quorum quilibet habet cinctorium grossis bullis, id est sonalliis sonantibus
+         circumquaque repletum; quas bullas vulgariter “sonacula” vel “sonaglios” dicimus.
+         Cum igitur rex vult mittere litteras per cursorem, dantur littere uni ex his cursoribus
+         qui velociter currit usque ad mansionem propriam, ubi sunt cursores alii preparati;
+         cum autem hii qui in vicina custodia sunt, venientis cursoris sonitum audiunt, unus
+         eorum se sine mora preparat, de manu venientis litteras accipit et a notario loci
+         testimoniale signum in cartula et currit ut primus usque ad aliam mansionem; sicque
+         se cursores alternant per loca singula usque ad locum quo sunt regis littere deferende.
+         In hunc igitur modum in brevi tempore magnum itineris spacium expeditur […]»; <ref type="witlink" target="#v-null-47">V 47 8-9</ref> «[…] et el modo da chognoser questi sì è che zaschaduno de questi àno una zentura
+         larga tuta chon sonaie, zoè chanpanelle; et questo sì è aziò che quando i vano i siano
+         aldidi da lonzi. E zaschadun non vano se no tre amia; et poi vano l’altro; et quando
+         el die’ vegnir † siano do chapori; † e de prexente zonto ch’el sono quel’altro tuò
+         le chosse et chonta l’inbasada, quello che i à vezudo et duto; e de prexente chore
+         fin al’altra posta de tre mia, et fano chomo el primo; e per questo muodo li va de
+         tre in tre mia: e per questo modo el <term ref="#gran-can">Gran Signor</term> àno in do zornade et in do note quello ch’el non averia in diexe zornade; et àno
+         novelle in diexe dì che non averia in zento» (sostanzialmente prossimo a <ref type="witlink" target="#f-null-97">F XCVII 12-14</ref> «[…] et voç dirai comant: il portent une grant centure toute pleine environ de sonaille,
+         por ce qe quant il vont qe il soient oï de bien longe. Et cesti vont toutes foies
+         au grant gallop et ne vont for qe trois milles; et le autre qe est a chief de{s} les
+         trois miles, qe bien de longe le oie venir, demore tout aparoillés et, tant tost qu’il
+         est celui venu, il prant la chouse qu’il aporte et prant une carte petite qe li done
+         l’escrivain, e se met corant, et vait jusque a le autre trois miles, et fait ausi
+         come avoit fait le autre. Et si voç di qe en ceste mainere ha le <term ref="#gran-can">Grant Sire</term>, de cesti homes a pié, noveles des .X. jornee en un jor{no} et en une noit, car sachiés
+         qu’il vont, cesti homes a piés, en un jor et en une noit .X. jornee, et en deus jors
+         et deus noit aportent noveles de .XX. jornee, et ausi auroit noveles en .X. jors et
+         en .X. nuit de .C. jornee»); <ref type="witlink" target="#vb-null-69">VB LXIX 8-9</ref> «E chome uno parte, el à atorno una sonaiera de sonai la qual se alde assa da longa:
+         e questo messo va chorendo al chaxal prossimo, e chome quei dal chaxal sente dala
+         longa el messo con le sonaie venire, subito uno alltro del chasal monta a chavallo
+         et aspeta el meso con le letere; e çonto, tuo’ le letere e la sonaiera e sença dimora
+         va chorendo fino l’altro chaxal. E per simelle quando quelli dal chaxal aldeno la
+         sonaiera uno altro monta a chavallo e tolto le letere e la sonaiera va chorendo fina
+         al’altro chaxal: e chusì fano de tre miglia in tre miglia, senpre chorendo e chavalli
+         et omeni freschi; et a tal modo in pocho tenpo àno nove de longe parte».</p>
+	<p>Nella struttura generale delle informazioni, R riflette la versione di V (e di F).
+         Tale affinità pare confermata da un errore che isola R e V dal resto dei testimoni:
+         R «il <term ref="#gran-can">Gran Can</term> in due giorni et due notti ha nuove di lontano per dieci giornate», V «<term ref="#gran-can">Gran Signor</term> àno in do zornade et in do note quello ch’el non averia in diexe zornade». Purtroppo
+         l’assenza della testimonianza di Z toledano ci impedisce di stabilire con certezza
+         se l’errore succitato sia realmente congiuntivo e possa essere dunque interpretato
+         come prova del contatto di R con V, oppure se figurasse originariamente anche nella
+         famiglia Z. Gli indizi di rapporti con altre fonti si limitano alla forma «le lettere»,
+         che trova riscontro in L, P e VB.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

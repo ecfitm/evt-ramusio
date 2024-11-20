@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-39-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>Ramusio riassume drasticamente il catalogo animale offerto (con voce pressoché unanime)
+         dalla tradizione: elefanti, giraffe, leoni, lonze, leopardi e “altre specie sconosciute
+         da noi”, onagri, uccelli di razze mai viste, galline, struzzi, pappagalli, scimmie,
+         “gatti mammoni”. Bastino qui Z 126 54-62 «Habent elephantes, sed ibi pauci nascuntur et illuc de multis partibus Indie adducuntur.
+         Giraffe vero nascuntur ibi et de ipsis habent in magna quantitate. Leones, leopardos,
+         lonças et alias bestias multas habent diversas a bestiis nostre contrate. Asini silvestres
+         ibi multi nascuntur. Aves habent de multis maneriebus diversis a nostris. Habent struços
+         magnos, qui non sunt quasi minores asinis. Multe alie diversitates ibi sunt etiam
+         quas non dicemus, quoniam nimis esset longa materia. Sed magnam habundanciam vernationum
+         et aucupationum habent, et papagalos multos et symios de pluribus maneriebus. Et habent
+         gatos mamones itta diversos quod quasi videntur habere vultus humanos» (per cui vedi
+         F CXCII 23-24 «Il ont leofant, mes ne pas que il i naisent, mes le ont de l’isle de l’altre <term ref="#india">Endie</term>. Me le girafe i naisent bien, e n’ont en grant abondance. Lionz e leopars et lonces
+         ont il aseç; et maintes autres bestes ont il encore moutitude, deviséç a celz de nostres
+         contrés. Asnes savajes hi nais{i}ent encore aseç. Oisiaus ont il de maintes maineres
+         devisés a tous les autres. Il ont gelines, les plus belles {en} a| veoir dou monde.
+         Il ont grant estrus, negueires mendre que un asnes. Il hi a encore d’aseç autres,
+         les qelz ne voç en conteron ci por ce que trop seroit longaine matiere a mentovoir.
+         Mes bien sachiés que venejonz et cacejonz des bestes et de oisiaus ont il en abondance.
+         Il ont papagaus aseç et biaus; il ont sing{l}es de plosors maineres; il ont gat paulz
+         et autre gat maimon, si devisez qe pou s’en faut {de tiel hi a} qe ne senblent a vix
+         d’omes») e P III 45 4 «Ibi elephantes multi sunt, licet non nascantur ibidem, sed illuc de aliis <term ref="#india">Indie</term> partibus deferuntur; ibi nascuntur giralfe multe, leones, leopardi et alia animalia
+         multa valde dissimilia tamen nostris; ibi sunt onagri multe et aves diversarum specierum
+         quas in nostris regionibus non habemus; ibi sunt galline pulcherrime; ibi sunt strutiones
+         grandes ut asini; ibi sunt venationes magne bestiarum et volucrum. Papagalli sive
+         epymacy multi et pulcri sunt ibi et diversarum manerierum; symee, catti pauli et cactimamones
+         qui humanas omnino effigies in faciebus habere videntur». (Gli altri relatori: VA CLI 20-21; L 182 3-6; V 108 29-30; VB CLXIV 2-4).</p>
+	<p>Non ci sono nella tradizione e in R elementi utili ad avanzare un’ipotesi sulla/e
+         fonte/i rielaborate in questa sede da Ramusio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

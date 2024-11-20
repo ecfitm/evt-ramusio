@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-22-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-22">
+      <note>
+	<p>In P III 30 7-8 il capitolo chiude così: «Nullo modo contra suam legem peccata committunt. Super
+         nudam terram dormiunt et comburunt corpora mortuorum» (traduzione di VA CXL 18-19 «I non farave niuna cossa che fosse pechato sechondo soa lezie per cossa del mondo.
+         I dormeno nudi sula tera e fano arder tuti i corpi morti»). Il passo ramusiano è l’esito
+         del <hi rend="italics">bricolage </hi>di più frammenti, direi tratti da Z: <ref type="witlink" target="#z-null-110">Z 110 31</ref> «[…] qui vivunt pluri aliis: nam vivunt .CL. anis et .CC. […]»; <ref type="witlink" target="#z-null-110">Z 110 34 </ref>«Et hoc propter abstinentiam magnam contingit» (due frammenti tratti dalla pericope
+         discussa nella nota alla rubrica di <ref type="witlink" target="#r-iii-22">R III 22</ref>); <ref type="witlink" target="#z-null-110">Z 110 64</ref> «Isti vero religiosi permanent etiam super terram nudi, absque aliqua alia re mundi
+         existente a parte superiori vel inferiori»; <ref type="witlink" target="#z-null-110">Z 110 75</ref> «Faciunt comburi funera […]».</p>
+	<p>Resta «castità». Il lemma è forse allusione al lungo episodio in cui <ref type="witlink" target="#z-null-110">Z 110 69-73</ref> descrive come si mettono alla prova, nei templi, i religiosi destinati a qualche
+         incarico: «Nam habentur ibi religiosi sive presbiteri qui in ecclesiis permane‹n›t
+         ad servicium ydolorum; qui, cum ad aliud officium sive ordinem apponuntur, ‹examinantur›
+         per hunc modum, videlicet quod, cum aliquis ex ipsis decedat et alius eligi debeat
+         loco sui, domicele que ydolis sunt oblate, ut in libro superius dictum est, tangunt
+         ilum qui eligi debeat per omnia membra et eius naturam. Amplexantur ipsum et obsculantur
+         ac ei faciunt omnia solatia qui sciunt et posunt. Et si membrum eius sive natura aliqualiter
+         moveatur, ipsum non retinent, sed emitunt et remitunt ipsum. Dicunt enim quod penes
+         se retinere nolunt virum luxuriosum. Si vero membrum ilud non moveatur in aliquod,
+         ad hoc ut motu luxurie erigi videatur, ille bonus et honestus reputatur, et ipsum
+         retinent penes se ad servicium ydolorum» (vedi pure F CLXXVI 27-28, L 164 15, V 94 28-30, VB CXLVI 36-39). Ramusio non prende in considerazione pure l’eziologia delle pratiche funerarie
+         degli indigeni (vedi <ref type="witlink" target="#z-null-110">Z 110 75-78</ref> = F CLXXVI 29, L 164 16, V 94 31-32, VB CXLVI 41-42).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

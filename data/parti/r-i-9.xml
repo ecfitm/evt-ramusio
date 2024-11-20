@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-9" n="1">
+    <head>
+      <hi rend="bold">R, I 9</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-9_1_1" n="1"> Della nobil città di Tauris, che è nella provincia di <term ref="#hirach">Hirach</term>, et delli mercatanti et abitanti in quella. Cap. 9.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-9_2_1" n="1"> Tauris è una città grande, situata in una provincia nominata <term ref="#hirach">Hirach</term>, nella quale sono molte altre città et castelli, ma <term ref="#thauris">Thauris</term> è la piú nobile et piú popolata. </seg>
+      <seg xml:id="r-i-9_2_2" n="2"> Gli habitatori vivono delle mercantie et arti loro, perché vi si lavora di diverse
+         sorte di panni d’oro et di seda di gran valuta, et è posta questa città in tal parte
+         che dall’<term ref="#india">India</term>, da <term ref="#baldach">Baldach</term>, da <term ref="#moxul">Moxul</term>, da Cremessor et dalle parti de’ christiani i mercatanti vengono per comprare et vender diverse
+         mercantie. </seg>
+      <seg xml:id="r-i-9_2_3" n="3"> Quivi si trovano etiandio pietre preziose et perle abbondantemente. </seg>
+      <seg xml:id="r-i-9_2_4" n="4"> Quivi li mercatanti forastieri fanno gran guadagno, ma gli habitatori sono generalmente
+         poveri, et mescolati de diverse generationi, cioè nestorini, Armeni, iacopiti, Giorgiani
+         et Persi, et le genti che adorano <term ref="#macometto">Macometto</term> è il popolo della città, che si chiamano Thaurisini et hanno il parlar diverso fra
+         loro. </seg>
+      <seg xml:id="r-i-9_2_5" n="5"> La città è circondata de giardini molto delettevoli, che producono ottimi frutti.
+         </seg>
+      <seg xml:id="r-i-9_2_6" n="6"> Et i Saraceni di <term ref="#thauris">Thauris</term> sono perfidi et mali huomini, et hanno per la legge di <term ref="#macometto">Macometto</term> che tutto quello che tolgono et robbano alle genti che non sono della sua legge sia
+         ben tolto, né gli sia imputato ad alcun peccato, et se i christiani li ammazzassero
+         o gli facessero qualche male, sono riputati martiri; et per questa causa, se non fossero
+         prohibiti et ritenuti per il suo signore che governa, commetterebbono molti mali.
+         </seg>
+      <seg xml:id="r-i-9_2_7" n="7"> Et questa legge osservano tutti i Saraceni. [8] Et in fine della vita loro va a loro il sacerdote, et dimandali se credono che <term ref="#macometto">Macometto</term> sia stato vero nuntio di Dio, et se rispondeno che lo credono sono salvi: et per
+         questa facilità di assolutione, che li concede il campo largo a commettere ogni sceleratezza,
+         hanno convertito una gran parte dei <term ref="#tartari">Tartari</term> alla sua legge, per la quale non gli è prohibito alcun peccato. [9] Da <term ref="#thauris">Thauris</term> in <term ref="#persia">Persia</term> sono dodeci giornate.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

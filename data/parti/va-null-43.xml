@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-43</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-43">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XLIII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-43_2_1" n="1"> Quando l’omo se parte ed è andado quelle zinque zornate, sì trova uno gran
+         dexerto, al’intrar del qual è una gran zità che à nome <term ref="#lop">Lop</term> ed è dentro levante e griego. </seg>
+      <seg xml:id="va-null-43_2_2" n="2"> Questa zità è soto la segnioria del <term ref="#gran-can">Gran Chaan</term>. </seg>
+      <seg xml:id="va-null-43_2_3" n="3"> Le zente della zità à la lezie de <term ref="#macometto">Machometo</term>. </seg>
+      <seg xml:id="va-null-43_2_4" n="4"> Quelli che voleno pasare quel gran dexerto sì se ripossa una setemana in quella
+         zità e refreschano le suo’ bestie; e possa toleno vituaria per uno mexe per si e per
+         suo’ bestie, e passa entro el deserto.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-43_3_1" n="1"> E segondo che dixe la giente della chontrà, quel dexerto è sì longo che apena
+         podesse l’omo azonzer al’altro chavo in uno ano; e llà dove l’è plui streto si è briga
+         a pasar-lo in uno mexe. </seg>
+      <seg xml:id="va-null-43_3_2" n="2"> Ell è pur montagnie e sabion; e non se trova da manziar.
+         </seg>
+      <seg xml:id="va-null-43_3_3" n="3"> E quando l’omo è andado uno dì e una note, se trova aqua che è bona da ber, ma
+         non ’de averave asai gran zente, mè ne averìa asai ben M homeni, ma non anchor chon
+         le suo’ bestie.</seg>
+    </p>
+    <p n="4">
+      <seg xml:id="va-null-43_4_1" n="1"> E per tuto el deserto va l’omo uno dì e una note ch’el non trova niente ananzi
+         che sse trova aqua da ber. [9] In tre o in quatro luogi se truova aqua salsa e amara,
+         tuta l’altra è bona da ber: truova-sse vintioto fiate – [o] in quel chontorno – ‹aque›
+         buone. [10] Bestie nì oxieli non se truova in quel dexerto perché ’le non ge truova
+         da mangiar. [11] E quando l’omo chavalcha de note per quel dexerto, se alchuno se
+         indromenzasse ch’el rimagnisse drieto dagli altri suo’ chonpagni, o per altra cossa
+         cha per dormir, e non potesse azonzer i suo’ conpagni, spesse fiate incontra ch’el
+         aldirà trar voxe de demonii che par pur che i sia i suo’ chonpagni, e tal fiata che
+         i demonii chiamano quel homo per nome. [12] E tal fiata i farano desviare in tal maniera
+         che non truova mai i chonpagni et de lui non se alde mai novella. [13] E per questo
+         muodo molti èno persi in quel dexerto. [14] E alchuna fiata olde l’omo, de bel zorno
+         chiaro, voxe di demonii; e tal fiata par che sona instrumenti in aere, e spizialmente
+         tanburli. [15] E a questo modo se passa quel dexerto chon gran paura.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

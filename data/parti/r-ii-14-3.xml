@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-14-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-14">
+      <note>
+	<p>Benché le informazioni contenute in R figurino, senza particolari differenze, in L
+         e in P, la versione che si mostra maggiormente prossima a R è quella che si legge
+         in <ref type="witlink" target="#f-null-91">F XCI 6-7</ref> «Il a encore grant moutitude ‹de› aiglies qe sunt afaités a prandre [R «a prender»]
+         leus et voupes et dain et chavriou, et en prennent asseç [R «ne prendono molti»].
+         Mes celles que sunt afaités a prendre leus [R «ma quelle che sono assuefatte a prendere
+         lupi»], sunt mout grandiss‹i›mes et de grant poisance [R «sono grandissime et di gran
+         forza»], car sachiés qu’il ne est si grant leus qe [R «imperoché non è lupo cosí grande»]
+         escanpe devant celle aigle qu’il ne soit pris» [R «che non sia preso»]. Per contro,
+         non si notano particolari affinità di R né con <ref type="witlink" target="#l-null-76">L 76 3</ref> – «Habet eciam maximam quantitatem aquilarum, que venationibus sunt optime doctrinate:
+         capiunt enim lupos, vulpes, daynos et capriolos; verum quod capientes lupos sunt valde
+         maiores aliis: nullius enim magnitudinis lupus ab ipsis evadere potest» –, né con
+         <ref type="witlink" target="#p-ii-17">P II 17 5</ref> «Simili modo aquilas habet rex multas domesticas que adeo feroces sunt ut lepores,
+         capreas, damulas et vulpes capiant, inter quas plurime tante audacie sunt ut impetu
+         magno in lupos insiliant nec ab earum se possint lupi virtute deffendere quin capiantur
+         ab eis». Risulta fortemente accorciato <ref type="witlink" target="#v-null-43">V 43 22</ref> «[…] et anchora sono molto ati a piar lovi, daini, chavrioli, et molti ne pia; et
+         i lovi sono molto grandi, ma el nonn è sì gran lovo che vegna avanti questi che non
+         sia prexo». </p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

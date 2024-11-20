@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-61</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Nel resoconto dei poteri taumaturgici della terra rossa Ramusio preferisce la versione
+         di <ref type="witlink" target="#p-iii-27">P III 27 3</ref> «Christiani autem qui apostoli corpus visitant accipiunt de terra ubi apostolus fuit
+         occisus, que rubra est, et secum deferunt reverenter; sepe autem cum ipsa miracula
+         multa fiunt: ipsamque distemperatam in aqua aut alio liquore quocumque infirmi bibunt
+         et ex hoc multi a diversis et magnis infirmitatibus liberantur» (versione di VA CXXXIX 4-6 «I cristiani de quelle contrà vano in pellegrinazio al corpo de misier <term ref="#san-tommaso">san Tomaxio</term> e tuòno dela tera de quel luogo dove el fo morto – et è tera rossa –, e porta-la
+         siego. E quando alchuno è infermo, i desstenpera quella tera chon aqua o chon altro
+         lichore e dà-lla a ber al’amalato, e ’l guarisse inchontenente. E questo incontra
+         a molti») alla più ricca descrizione di Z 109 14-17  «Noveritis itaque quod christiani qui illuc propter devotionem accedunt accipiunt
+         de terra ubi fuit mortuus <term ref="#san-tommaso">sanctus Thomas</term>, et illam terram in eorum patriam perportant et dant ad potandum de ista terra pacientibus
+         febres tercianas vel quartanas. Et statim cum eger potaverit, liberatus est; et hoc
+         accidit omnibus egris potantibus hanc terram. Terra quidem rubea est. Et dominus Marcus
+         de hac terra secum portavit Veneciis et multos liberavit cum ipsa». A garanzia dell’attribuzione
+         sono l’esito del participio «distemperatam», l’assenza dei riferimenti alle febbri
+         terzane e quartane,  l’omissione del richiamo all’<hi rend="italics">auctoritas</hi> dell’esperienza diretta poliana, che è l’<hi rend="italics">ajout</hi> di Z alla traduzione di F CLXXV 4 «Or saquiés qe les cristienç que vont la en pelegrinajes prennent de la tere dou
+         leu, la ou le saint cors fou mort, e celle terre aportent en le lor contree e donent
+         de ceste une pou a boir au malaide quant aüsse fevre quartaine ou tersaine ou ceste
+         tiel fevre, et, tant tost qe lle malaide la be‹i›ve, el en guaris. Et ce avint a tuit
+         celz amalaides qe celle terre boivent. E sachiés q’elle est terre roge».</p>
+	<p>Gli altri relatori. Si tiene alla lezione di F V 93 4 «Sapié che i christiani i qual va là per devuzion dè tuor dela tera dove fo San Tomao, et quella tera i portano in la patria de quelli, et dano de quela a bever a queli
+         che àno frieve terzana e quartana: et subito chomo l’infermo l’à bevuda sono liberado;
+         et questo adevien a chi beveno de questa tera; questa tera sono rosa». Sintetica come
+         d’uso la relazione di L 163 3 «Hoc enim corpus quam plurimis et maximis choruscat miraculis. Si enim ex terra ubi
+         sanctum corpus mortuum fuit alicui infirmo vel febricitanti detur potui in modica
+         quantitate, subito sanat ipsum; terra vero illa rubea est»; omette dettagli importanti
+         VB CXLV 3 «I pellegrini vano a sua vixitacion, togliono dila tera dove quel santo fu morto
+         e portala nelle loro contrade: et ai suo’ infermi de chadauna febre i ge dano di quella
+         a bere et sono liberati».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

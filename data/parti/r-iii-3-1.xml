@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-3-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-3">
+      <note>
+	<p>Il primo paragrafo di R traduce P III 7 1 «In hac insula <term ref="#zipangu">Çimpangu</term> et in regionibus illis ydola multa sunt caput bovis habencia, quedam autem porci,
+         alia vero arietis sive canis aut aliorum animalium diversorum; quedam etiam ydola
+         ibi sunt habencia facies quatuor  in capite uno; alia etiam sunt que tria capita habent,
+         unum scilicet super collum, et duo alia super humeros hinc inde. Quedam enim  quatuor
+         manus habent, alia decem, alia vero centum et alia ultra centum; illud autem ydolum
+         quod plures manus habuerit amplioris putant esse virtutis» (esito di VA CXXII 31 «In questa ixolla e in questa contrà si è idolle, e ànno cho de bò, e tal de porcho
+         e tal de molton e tal de chane e tal de bestie. E tal idolle è uno chavo chon quatro
+         faze, e tal à tre teste, l’una sul collo e su zaschuna spalla una; tal à quatro mane
+         e tal diexe e tal zento e tal plui; e quelle idolle ch’à plui mane dixeno ch’ell è
+         plui vertuoxo»). A garanzia dell’identificazione del modello sta, oltre a dettagli
+         minori facilmente riconoscibili, l’<hi rend="italics">incipit</hi> della pericope, che localizza alla sola <term ref="#zipangu">Zipangu</term> gli idoli descritti; Z 94 1-6 propone una localizzazione più ampia, che coinvolge anche la Cina N e S («Posquam
+         de hac ystoria naravimus et de debelatione et infortunio gentium <term ref="#gran-can">Magni Can</term>, nunc dicemus de ma‹ne›rie ydolorum. Noveritis itaque quod ydola <term ref="#cataio">Cathay</term> et <term ref="#mangi">Mançi</term> et de istis insulis sunt omnia de manerie una. Et illi de hac insula, et etiam alii
+         <term ref="#idolatri">ydola adorantes</term>, habent ydola cum capitibus boum. Aliqua sunt cum capitibus porcorum, aliqua canum,
+         et arietum, et diversarum aliarum manerierum. Aliqua sunt habentia unum capud et duos
+         vultus; aliqua sunt habentia tria capita, unum videlicet in loco debito, alia vero
+         duo super quamlibet spatulam unum. Sunt etiam aliqua ydola quatuor manus habentia,
+         aliqua .X., aliqua .M., et illa sunt que virtuosiora retinent et maiorem reverentiam
+         habent in eis»): essa riproduce la lezione “originale”, attestata da F CLX 2 «Or sachiés qe les ydres dou <term ref="#cataio">Catai</term> e dou <term ref="#mangi">Mangi</term>, e celz de ceste ysles, sunt tuit d’une mainere. E voç di que celz isles, e encore
+         les autres <term ref="#idolatri">ydres</term>, hont ydres qe ont chief de buef e tel chief de porques e tiel de chien e tel de
+         monton e tel de maintes autres faisonz: et de tielz hi a que ont un chief de quatre
+         vix, e tiel ont trois chief, ce est le un come il doit e les autres deus un de chascune
+         espaule; e tiel hi a que ont quatre main, e tiel qu’en ont .X., et de tiel que en
+         unt .M., mes cestes sunt les meior et ou il ont greingnor reverence». </p>
+	<p>Gli altri relatori – L 143 15, V 82 1-3 e VB CXXVIII 1-3 – si allineano alla situazione attestata da F-Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

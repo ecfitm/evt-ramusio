@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-20-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La lezione «quattrocento» esclude dal novero delle fonti possibili le redazioni <ref type="witlink" target="#l-null-80">L 80 1</ref> «[…] ubi continue manent a .IIIc. usque ad .IIIIc. equi […]», <ref type="witlink" target="#p-ii-23">P II 23 3</ref> «[…] sunt etiam ibi equi regis trecenti aut quadringenti qui pro regis nunciis sunt
+         parati […]»,<ref type="witlink" target="#vb-null-69"> VB LXIX 4</ref> «[…] e bessogendoi chavalli o chanbiar chavalli ne àno a suo volontà et chussì de
+         mia .XXV. in mia .XXV.». Oltre alla variante «quattrocento», R reca alcune generiche
+         affinità formali con <ref type="witlink" target="#v-null-47">V 47 4</ref>, ma non ne condivide le numerose innovazioni: «Et là sono albergi limitadi del <term ref="#gran-can">Gran Signor</term>, in li qual luogi del <term ref="#gran-can">Gran Signor</term> sono ben quatrozento chavalieri apariadi [R «apparecchiati»], et tuti sono mesi;
+         et questo <term ref="#gran-can">Signor</term> fano tegnir chontinuamente [R «di continuo», ma vd. sopra anche L «continue»] per
+         questi tal mesi». Le lezioni che accomunano R a V si trovano anche in <ref type="witlink" target="#f-null-97">F XCVII 5</ref> «Et encore voç di que a ceste poste treuvent les mesajes bien .IIIIc. [R «quattrocento»] chevaus, que le <term ref="#gran-can">Grant Sire</term> a stabli qe toutes foies [R «di continuo»] hi demorent et soient aparoillés [R «apparecchiati»]
+         por sez mesajes quant il les envoie en aucune part». Parrebbe dunque che Ramusio abbia
+         utilizzato un testimone che recava una lezione assai prossima a quella di F: probabilmente
+         il perduto Z1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

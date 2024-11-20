@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-22-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-22">
+      <note>
+	<p>Da P III 30 1 «[…] vino et carnibus non utuntur; nullum a‹n›i‹m›al occidunt» (esito di VA CXL 4 «E non beveno vino e non manzano de charne, e non alzideno niuno animalle») Ramusio
+         ricava la sequenza dei sintagmi. La forma dell’espressione rinvia alle pericopi <ref type="witlink" target="#z-null-110">Z 110 6</ref> «Isti <term ref="#bramini">braaman</term> carnes non comedunt et vinum non bibunt» e <ref type="witlink" target="#z-null-110">Z 110 8</ref> «Non occiderent aliquod animal et non facere‹n›t aliquid de quo crederent habere
+         peccatum». Ramusio ha equivocato il senso del testo, sopprimendo le negazioni. Il
+         richiamo ai Saraceni, che non ha attestazione in nessun relatore, trova probabile
+         giustificazione in <ref type="witlink" target="#r-iii-20">R III 20 34</ref> (è insomma ripetizione di un’informazione su <term ref="#malabar">Malabar</term> già data).</p>
+	<p>Il testo di Z è versione di F CLXXVI 4 «Il ne menjue‹nt› char ne boivent vin. […]  il ne ocirént nulle animaus ne feroient
+         couse qe il en creusent avoir pechiés» (così pure V 94 3 «Et non manzano charne né beve vino […] et non alziderave algun animal; et non farave
+         alguna chossa la qual pensasse aver pechado»). VB distingue le informazioni in due
+         pericopi: VB CXLVI 3 «Non mangiano charne né beveno vino […]» e VB CXLVI 6 «Non alcideria alchun animal»;  L 164 1 sopprime parte dell’informazione: «[…] vinum enim non bibunt, carnes non comedunt».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

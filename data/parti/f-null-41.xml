@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-41</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-41">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XLI </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-41_1_1" n="1"> Comant le <term ref="#vecchio-della-montagna">Viel de la montagne</term> fait parfait et obeient se <term ref="#assassini">asciscinç</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-41_2_1" n="1"> Et quant les jeunes estoient desvoillés et il se trovent laiens et il voient toutes
+         cestes couses qe je voç ai dit, il croient estre en paraïs voiremant. </seg>
+      <seg xml:id="f-null-41_2_2" n="2"> Et les dames
+         et les dameseles demoroient tout jor con elz sonant et cantant et faisant grant soulas:
+         et en fasoient a lor volu{o}ntés, si que cisti jeune avoient tout ce que il |18d|
+         voloient, et jamés por lor voluntés ne istront de laiens. </seg>
+      <seg xml:id="f-null-41_2_3" n="3"> E le <term ref="#vecchio-della-montagna">Viel</term> tient sa corte mout belle et grant, et demore mout noblemant et fait creere, a cel
+         senple jens des montagnes que entor lui sunt, qu’il est profete. </seg>
+      <seg xml:id="f-null-41_2_4" n="4"> Et ensi croient
+         il voiramant. </seg>
+      <seg xml:id="f-null-41_2_5" n="5"> Et quant le <term ref="#vecchio-della-montagna">Vel</term> en vult aucun por envoier en aucun leu e faire occire aucun home, il fait doner le
+         be‹v›raje a tant come il li plee, et, quant il sunt endormi{a}, il ‹les› fait prendre
+         en son pala‹i›s{io}. </seg>
+      <seg xml:id="f-null-41_2_6" n="6"> Et quant cesti jeune sunt desveillés et il se trovent en
+         cel ca{u}stiaus el palais, il s’en font grant meraveie et ne sunt pas liés, car del
+         paraïs dont il venoient por lor voluntés nen s’en fuissent il jamés partis. </seg>
+      <seg xml:id="f-null-41_2_7" n="7"> Il
+         alent mantinant devant li <term ref="#vecchio-della-montagna">Vieus</term> et se humelent mout ver lui come celz que croient qe soit grant profete. [9] Le <term ref="#vecchio-della-montagna">Vielz</term> le demande dont il vienent: et celz dient qu’il vienent dou paraïs, et disoient qe
+         voiramant est cel le paraïs come <term ref="#macometto">Maomet</term> dist a nostri ancesor; lor content toutes les couses qu’il hi trovent. [10] Et les
+         autre, qe ce oent et ne avoient esté, avoient grant volunté d’aler el paraïs et avoient
+         volunté de morir por coi il hi posent aller, et mout desiroient cel jor qu’il hi alent.
+         [11] Et quant le <term ref="#vecchio-della-montagna">Vielz</term> vuelt faire occir un grant sire, il fait aprover de |19a| sien <term ref="#assassini">asascin</term> celç que meior estoient. [12] Il envoie plosors ne grantment longe environ soi por
+         les contree, et lor comande{nt} qu’il ocient cel homes. [13] Celz vont mantinant et
+         font le conmandamant lor segnor; puis retornent a cort celz que escanpent, car de
+         telz hi a que sunt pris et morti, puis qu’il ont occis le home.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

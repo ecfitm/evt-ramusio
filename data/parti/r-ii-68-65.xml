@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-65</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>La versione del testo che figura in R appare senz’altro più articolata e più ricca
+         di dettagli di quella trasmessa dalle sue fonti. Nella parte iniziale («Vi sono […]
+         altro»), laddove si fa esplicito riferimento all’esistenza di un molteplicità di montagne
+         di terra, R si distingue nettamente dagli altri relatori, che parlano al contario
+         di un solo rilievo: <ref type="witlink" target="#l-null-128">L 128 10</ref> «In civitate est mons ubi est turris alta, toti predominans civitati»; <ref type="witlink" target="#p-ii-64">P II 64 17</ref> «In hac civitate mons unus est super quem est turris et super turrem tabule sunt
+         de aceribus; quando autem ignis in urbe accenditur, si custodes turris hoc videre
+         possunt, cum ligneo maleo percutiunt tabulas, ut huius sonitus circumquaque per terram
+         eminus audiatur et concurrant homines ad auxilium conferandum; simile etiam fit si
+         pro quacumque causa commotio vel tumultus in civitate fiat»; <ref type="witlink" target="#v-null-76">V 76 13</ref> «Et nela zitade sono uno monte sopra lo qual sono una tore, e sopra la tore sono
+         una tola de legno, la qual retien uno homo, ed à uno martello; e tante volte quante
+         el fuogo se azende nela zitade, tante volte tocha questa tolla chon quel martello;
+         et oldesse molto lutano; e per el simel s’el fosse alguno remore nela zitade la tavolla
+         sona de boto […]» (che corrisponde abbastanza fedelmente a <ref type="witlink" target="#f-null-151">F CLI 16</ref> «Et encore voç di un autre cousse: qe dedens la ville a un mont, eu quel a desus
+         una tor, e sus celle tor a une table de lengn en la quel un home la tient en main
+         et hi done dedens d’un maillet, si qe bien se oie mout longe, et a ceste table sone
+         toutes le foies qe le feu s’aprent en la ville ou se il avenist qe aucune brie se
+         foist en la cité; et, tantost qe ce avient, cele table sonent maintinant»). Reca un
+         testo fortemente scorciato <ref type="witlink" target="#vb-null-114">VB CXIV 16</ref> «Nel meço dila tera è una montagna grande sopra la quale è una tore, nela qualle
+         senpre, e massime la note, ve fi fato la guardia se in alchuna parte dela tera vedesse
+         acendersi fuocho […]»; <ref type="witlink" target="#z-null-85">Z 85</ref> omette l’intero passo. </p>
+	<p>Non si danno indizi evidenti di dipendenza di R da una fonte particolare. Nella parte
+         centrale, il testo presenta delle affinità assai blande con V (V « una tola de legno,
+         la qual retien uno homo», R « una tavola grande di legno, la qual, tenendola un huomo»;
+         V «et oldesse molto lutano», R «si ode molto di lontano»). Le corrispondenze con P
+         si limitano all’uso della congiunzione consecutiva (P «ut […]», R «sí che […]»), che
+         d’altro canto ricorre anche in F («si que […]») – e probabilmente compariva nell’affine
+         di Z posseduto da Ramusio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

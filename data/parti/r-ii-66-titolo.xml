@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-66-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-66">
+      <note>
+	<p><ref type="witlink" target="#f-null-149">F CXLIX</ref> (Ci devise de la cité de <term ref="#tinguigui">Tinghingui</term>); <ref type="witlink" target="#l-null-124">L 124</ref> (De civitate <term ref="#tinguigui">Tingingui</term>); <ref type="witlink" target="#p-ii-62">P II 62</ref> (De civitate <term ref="#tinguigui">Tynghinguy</term> et qualiter cives eius occisi sunt omnes qui‹a› exercitum Tartarorum dormientem occiderunt.
+         LXII), <ref type="witlink" target="#va-null-115">VA CXV 3-9</ref>; <ref type="witlink" target="#v-null-74">V 74</ref> (Dela zità de <term ref="#tinguigui">Guinguagui</term>); <ref type="witlink" target="#vb-null-112">VB CXII</ref>; <ref type="witlink" target="#z-null-83">Z 83</ref>.</p>
+	<p>Ramusio usa come testimone base un esemplare della redazione VB, contaminandolo sporadicamente
+         con P (vd. le note ai parr. 4 e 7).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

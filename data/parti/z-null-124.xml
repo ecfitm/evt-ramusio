@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-124</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-124">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 124</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-124_1_1" n="1"> <term ref="#magastar">Mogdaxo</term> est quedam insula versus meridiem et distat a <term ref="#soccotera">Scutra</term> ci‹r›ca mile miliaria. </seg>
+      <seg xml:id="z-null-124_1_2" n="2"> Ipsius gentes <term ref="#macometto">Macometi</term> legem observant. </seg>
+      <seg xml:id="z-null-124_1_3" n="3"> Habent quatuor “<term ref="#siechi">sech</term>”, quod est dicere quatuor “senes homines”, qui habent dominium tocius insule et ipsam
+         regunt. </seg>
+      <seg xml:id="z-null-124_1_4" n="4"> Ista insula est de maioribus et nobilioribus que sint in mundo, quia dicitur
+         quod ista insula in circuitu suo girat circa tria milia miliarium. </seg>
+      <seg xml:id="z-null-124_1_5" n="5"> Vivunt quidem
+         de mercimoniis et artibus. </seg>
+      <seg xml:id="z-null-124_1_6" n="6"> In ista insula nascuntur plures elephantes quam in
+         aliqua alia provincia; et in universo orbe non venduntur tot dentes elephantum quot
+         venduntur in hac insula et |97r| in insula Zaghybar. </seg>
+      <seg xml:id="z-null-124_1_7" n="7"> In ista quoque insula comedunt pro maiori parte carnes gamelorum, et tamen de
+         multis aliis maneriebus carnium comedunt. </seg>
+      <seg xml:id="z-null-124_1_8" n="8"> Et occiduntur gameli singulis diebus
+         in tanta quantitate quod nemo poset credere nisi videret. [9] Et dicunt quod carnes
+         gameli sunt magis sane et meliores aliquibus aliis carnibus in illa regione; et ideo
+         utuntur ipsis toto anno. [10] Et sunt etiam in hac insula arbores de sandalo rubeo
+         tam magne sicut sunt arbores de nostra contrata. [11] Iste arbores multum valerent
+         in alia contrata, et ibi sunt luci de ipsis, sicut in nostra patria sunt de aliis
+         arboribus. [12] Habent etiam multum <term ref="#ambracano">ambrum</term>, quia in illo mari sunt multa cete, sive balene, et capita olei; quos pisces ipsi
+         capiunt et in ipsis <term ref="#ambracano">ambrum</term> inveniunt in multa quantitate. [13] Nam balene <term ref="#ambracano">ambrum</term> generant et producunt. [14] Habent leopardos multos et lonças, et leones etiam ultra
+         modum. [15] Alias bestias, videlicet cervos, capriolos, et daynos et alias similes
+         multas habent. [16] Venationes et aucupationes diversarum bestiarum et avium habent
+         multas. [17] Item habent struços magnos et multas alias aves, multum diversas a nostris,
+         quod mirabile est. [18] Habent insuper multa mercimonia; et illuc ‹veniunt› multe
+         naves cum multis mercimoniis – videlicet cum drappis aureis et de syrico, et cum syrico
+         plurium manerierum et de multis aliis rebus de quibus non dicemus –  et omnia ista
+         vendunt et permutant cum mercatoribus insule. [19] Mercatores illuc veniunt cum suis
+         navibus oneratis, et tamen omnia vendunt; |97v| et postmodum ipsas onerant de mercimoniis
+         insule et discedunt. [20] Nam mercatores ibi faciunt magnum profectum et lucrum. [21]
+         Et naves non possunt amplius navigare versus meridiem ad alias insulas, nisi solum
+         ad hanc insulam et ad insulam <term ref="#zenzibar">Zanghybar</term>, quia mare curit tam velociter versus meridiem quod vix posent redire. [22] Et ob
+         hanc causam naves illuc non navigant. [23] Naves quidem que veniunt a <term ref="#malabar">Maabar</term> ad hanc insulam veniunt in viginti diebus, et quando ad <term ref="#malabar">Maabar</term> redeunt, durat iter mensibus tribus; et hoc accidit propter cursus, qui tendunt continue
+         versus meridiem. [24] Et noveritis quod in illis aliis insulis que sunt in magna multitudine
+         versus meridiem – ad quas naves propter cursus aquarum libenter non navigant –, secundum
+         quod dicitur, sunt aves griffones. [25] Et apparunt ille aves certis temporibus anni.
+         [26] Sed non sunt facti sicut illi de partibus nostris credunt et pingere faciunt,
+         quia dicunt quod sunt semiaves et semileones. [27] Sed secundum quod illi qui hec
+         viderunt refferunt, non est verum, sed dicunt quod facti sunt ad similitudinem aquilarum,
+         sed ultra modum sunt magni. [28] Et dicemus secundum quod illi qui hec viderunt referunt.
+         [29] Dicunt enim quod sunt tam potentes et magni quod capiunt elephantes, et portant
+         in aerem bene alte et postmodum dimitunt ipsos cadere, ita quod se frangunt totos;
+         et griffones rostrant, et comedunt et se saturant de ipsis. [30] Et dicunt etiam,
+         qui ipsos viderunt, quod eorum alle coperiunt circa .XVI. |98r| passus, et quod penne
+         eorum sunt longitudinis .VIII. passuum et grossitudinis secundum quod longitudini
+         convenit. [31] Et id quod dominus Marcus Paulo vidit referretur in alio loco. [32]
+         Nunc de avibus griffonibus diximus id quod illi qui viderunt referrunt. [33] Et <term ref="#gran-can">Magnus Dominus</term> misit suos nuncios illuc causa sciendi et investigandi de diversitatibus illius insule,
+         et causa faciendi relaxari quemdam suum nuntium quem ceperant illi de hac insula.
+         [34] Et isti nuncii et ille qui captus erat Magno Domino retulerunt multa magna et extranea mirabilia de insula illa. [35] Et illi nuncii
+         apportaverunt Magno Domino dentes apri qui erant ultra modum magni; et <term ref="#gran-can">Magnus Dominus</term> ponderari fecit unum qui ponderavit quatuordecim libris. [36] Potestis ergo considerare
+         quam ‹magnus› est aper qui tam magnos dentes habet! [37] Et dicunt quod ibi sunt apri
+         magnitudinis buffalorum. [38] Ibi sunt multe giraffe et asini silvestres. [39] Et
+         habent bestias et aves tam diversas a nostris quod est mirabile ad videndum. [40]
+         Et ad grifones reverti volumus. [41] Illi de insula ipsos appelant “<term ref="#ruch">ruchi</term>”, et non nominant ipsos aliter et nesciunt quid sit “griffo”. [42] Sed nos vere credimus
+         quod, propter magnitudinem quam de avibus illis refferunt, ille aves sint griffones.
+         [43] Nunc de hac insula diximus magnam partem et de eorum moribus. [44] Alia in ea
+         non sunt dicenda; quare, ulterius procedentes, |98v| tractabimus de insula <term ref="#zenzibar">Zanghibar</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

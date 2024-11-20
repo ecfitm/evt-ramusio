@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-20</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-20">
+    <head>
+      <hi rend="bold">P, I 20</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-20_2_1" n="1"> <term ref="#iasdi">Iasdi</term> est civitas grandis in eadem regione magnarum mercacionum ubi artifices pulcherrime
+         |10d| operantur. </seg>
+      <seg xml:id="p-i-20_2_2" n="2"> Ibi etiam adoratur <term ref="#macometto">Machometus</term>. </seg>
+      <seg xml:id="p-i-20_2_3" n="3"> Ultra <term ref="#iasdi">Iasdi</term>, ad dietas .VII. versus <term ref="#chermain">Crerman</term>, non est habitacio; sunt ibi in campestribus nemora per que libere equitari potest,
+         ubi venaciones multe sunt. </seg>
+      <seg xml:id="p-i-20_2_4" n="4"> Ibi <term ref="#asini-salvatichi">onagri</term> et coturnices in multitudine magna reperiuntur. </seg>
+      <seg xml:id="p-i-20_2_5" n="5"> Postmodum pervenitur <term ref="#chermain">Crerman</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

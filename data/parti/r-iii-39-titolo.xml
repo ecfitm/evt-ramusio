@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-39-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>F CXCII (Ci comance de <term ref="#abascia">Abasie</term>, qui est la <term ref="#india">mediane ‹Yndie›</term>); <ref type="witlink" target="#p-iii-43-1">P III 43 2-7</ref> (De provincia <term ref="#abascia">Abascie</term>. Capitulum XLIII), / P III 44 (De quodam episcopo christiano quem <term ref="#soldan">soldanus</term> <term ref="#adem">Aden</term> circumcidi fecit in iniuriam fidei christiane et regis <term ref="#abascia">Abascie</term>, et de vindicta magna pro scelere facta. Capitulum XLIIII) / P III 45 (De diversitate bestiarum provincie <term ref="#abascia">Abascie</term>. Capitulum XLV), VA CLI (De <term ref="#abascia">Albaxia</term>, ove el re manda el veschovo al sepulchro de misier Iesu Cristo); Z 126 (Hic incipit narari de <term ref="#abascia">Abas</term> que est <term ref="#india">Mediocris Indya</term>); L 180 (De maxima provincia <term ref="#abascia">Abasce</term>, que dicitur <term ref="#india">India Mediana</term>) / L 181 (De ystoria quadam et vindicta. Rubrica) / L 182 (Iterum de provincia <term ref="#abascia">Abasce</term>); V 108 (Qua se chomenza de <term ref="#abascia">Abaste</term>, che xe l’<term ref="#india">India Mezana</term>); VB CLXIII / VB CLXIV.</p>
+	<p>La tripartizione contenutistica del capitolo (con una sezione diegetica intercalata
+         tra i due <hi rend="italics">volets</hi> della scheda corografica) è la ragione più probabile della partizione in tre capitoli
+         di P e L (e si noti che l’inizio di VB CLXIV coincide con quello di P III 45 e L 182:
+         alla radice sta la transizione – dai tre relatori soppressa – in F CXCII 22: vedi  la nota a <ref type="witlink" target="#r-iii-39">R III 39 14</ref>). Ramusio trova in Z un’evidenza empirica all’unità del capitolo, ma nel suo sviluppo
+         sfrutta pienamente tutte le strategie testuali già messe alla prova – traduzione letterale
+         (vedi p.es. par. 2), traduzione con intarsi da altre fonti (par. 14), rielaborazione
+         in epitome (par. 13), innovazione contenutistica (par. 16) – alternando liberamente
+         le sue fonti.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-11-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-11">
+      <note>
+	<p>Il paragrafo ramusiano, non distante nei contenuti da <ref type="witlink" target="#f-null-32">F XXXII 2-3</ref> «Or sachiés que en <term ref="#persia">Persie</term> a .VIII. roiames, por ce qu’el est grandisme provence, et si le voç contrai por lor
+         nom tuit. Le primer roiames, ce est dou conmencement, a nom <term ref="#casibin">Casum</term>; le segond, ke ‹est› dever midi, est appelés <term ref="#curdistan">Curdistan</term>; le terç est apelés <term ref="#lor">Lor</term>; le quart <term ref="#suolistan">Cielstan</term>; le quint <term ref="#spaan">Istanit</term>; le se‹s›isme <term ref="#siras">Ceraçi</term>; le septisme <term ref="#soncara">Soncara</term>; le oitisme <term ref="#timocaim">Tunocain</term>, qui est a l’esue de <term ref="#persia">Persie</term>», riproduce <ref type="witlink" target="#z-null-10">Z 10 1</ref> «Noveritis quod <term ref="#persia">Persya</term> est quedam regio valde magna in qua quidem plura sunt regna, quorum nomina inferius
+         describuntur: primum regnum, quod est in principio, vocatur <term ref="#casibin">Chasuin</term>; secundum, quod est versus meridiem, vocatur <term ref="#curdistan">Curdistan</term>; tercium <term ref="#lor">Lor</term>; quartum <term ref="#suolistan">Suolistan</term>; qui‹n›tum <term ref="#spaan">Yspaan</term>; sextum <term ref="#siras">Çiraç</term>; septimum <term ref="#soncara">Soticara</term>; octavum <term ref="#timocaim">Tunocain</term>, quod est in exitu <term ref="#persia">Persie</term>». </p>
+	<p>Certificano la discendenza Z &gt; R un caso di traduzione pedissequa («quorum nomina
+         inferius describuntur» Z &gt; «i nomi de’ quali sono li sottoscritti» R) e la veste grafica
+         dei toponimi, che Ramusio ricalca quasi esattamente dalla lezione toledana: si segnalano
+         in particolare <term ref="#suolistan">Suolistan</term> e <term ref="#spaan">Yspaan</term> / <term ref="#spaan">Spaan</term>, che soltanto in R e Z compaiono in una forma rispettosa della realtà fonetica, non
+         traviata dalla trafila della copia. Il tipo <term ref="#spaan">Span</term> si conserva però anche in <ref type="witlink" target="#v-null-18">V 18 1</ref>, che può averlo recepito dal suo modello latino prossimo a Z: «‹I›n <term ref="#persia">Persia</term> sono de molti reami perché la ssono molto gran provinzia, el nome deli quali l’uno
+         hè chiamato Chasuni; el segondo, ch’è verso mezodì, sono chiamato <term ref="#curdistan">Chudischan</term>; el terzo <term ref="#lor">Ler</term>; el quarto <term ref="#suolistan">Zilostan</term>; el quinto <term ref="#spaan">Span</term>; el sesto <term ref="#siras">Zelazi</term>; el setimo <term ref="#soncara">Anchora</term>; l’otavo <term ref="#timocaim">Elat</term>; et infra <term ref="#persia">Persia</term> […]» (l’ultimo sintagma può derivare dalla cattiva lettura di un ipotetico *<hi rend="italics">in</hi> <hi rend="italics">fine</hi> <hi rend="italics">Persie</hi> della fonte).</p>
+	<p>Non ha riscontri nella tradizione, e potrà essere un puntiglio del Ramusio geografo,
+         la precisazione dell’orientamento «verso tramontana» del regno del <term ref="#lor">Luristān</term> (che tuttavia, rispetto al <term ref="#curdistan">Curdistan</term>, volge a S, verso il <term ref="#sino-persico">Golfo Persico</term>). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

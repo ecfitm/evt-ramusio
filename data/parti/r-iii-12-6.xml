@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-12-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>La pericope traduce <hi rend="italics">verbatim</hi> Z 99 25-26 «Habent symios multos, et de maneriebus diversis. Habent et austures totos nigros
+         ut corvi, qui sunt valde magni et optime aucupantur» (e quindi recupera indirettamente
+         il testo di F CLXV 13 «Il ont singes en grandisme abundance e de maintes faiçon deversemant faites. Il
+         ont hostor tuit noir come corbiaus: il sunt mout grand{i} et oselent mout bien», di
+         cui la redazione latina è versione). La linea F-Z è ripetuta in V 87 13 «I àno anchora molte simie de molte maniere; et àno astori tuti negri chomo chorbi,
+         i quali sono molto perfeti, et oxelano chon quelli», e in VB CXXXV 6 «Àno simie molto stranie et diversse e de più maniere; àno ostori negri quanti corvi
+         molto grandi, i qualli prendeno le simie e altri animalli e oçelli» (suo tratto esclusivo
+         è l’amplificazione finale con il richiamo alle <hi rend="italics">simie</hi>).</p>
+	<p>Gli altri relatori citano solo gli astori: così L 152 3 «Sunt eciam hic austures, per totum nigerrimi sicut corvi, suntque boni captores
+         avium maximeque volantes»; P III 15 4 «In hoc etiam regno multi inveniuntur austures nigri ut corvi qui aves optime capiunt»
+         sposta l’informazione in conclusione del capitolo (sul modello di VA CXXIX 9 «Ancora in questo regniame è molti astori negri chome chorvi, e sono molto grandi
+         e oxelano molto bene»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

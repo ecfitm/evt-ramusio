@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-21-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-21">
+      <note>
+	<p>La forma dell’espressione permette di identificare in Z 108 4-5 «Ipsius gentes <term ref="#idolatri">adorant ydola</term> et nulli redunt tributum. Vivunt de risis, carnibus, lacte, piscibus et fructibus»
+         il modello di Ramusio in questa pericope. Vedi, <hi rend="italics">contra</hi>, <ref type="witlink" target="#p-iii-29">P III 29 1-2</ref> «[…] quod nemini tributarium est. Habitatores eius lacte et carnibus et riso vescuntur
+         et <term ref="#idolatri">ydolatre</term> sunt» (VA CXXXVIII 2 «La zente de questo regniame è <term ref="#idolatri">idolatra</term> e non rende trabuto a niuno, e viveno de charne, de llate et de rixo» ripete F CLXXIV 5 «Il sunt <term ref="#idolatri">ydres</term> et ne font trëu a nelui. Il vivent de ris et de cars e de lait»). Si attengono parzialmente
+         alla sostanza dell’informazione L 162 2 «Gentes sunt <term ref="#idolatri">ydolatre</term>, viventes ex riço, carnibus et lacte», V 92 3 «[…] la zente dela qualle <term ref="#idolatri">adora le idolle</term>; et non dano trabuto ad alguno; et viveno de rexi e de charne», e (con una certa
+         <hi rend="italics">variatio</hi>) VB 144 4 «Tuta questa giente sono <term ref="#idolatri">idolatrii</term>; viveno de carne, late e risi; nonn è sotoposta ad algun segnore, né ad algun rende
+         tributo».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

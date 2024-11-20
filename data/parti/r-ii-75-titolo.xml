@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-75-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-75">
+      <note>
+	<p><ref type="witlink" target="#f-null-154">F CLIV 16-19</ref> (Ci devise dou roiame de <term ref="#fugiu">Fugiu</term>); <ref type="witlink" target="#l-null-138">L 138 10-12</ref> (De regno <term ref="#fugiu">Fugiu</term>); <ref type="witlink" target="#p-ii-68">P II 68 6</ref> (De civitatibus <term ref="#quelinfu">Quelinfu</term> et Unquam), <ref type="witlink" target="#va-null-119">VA CXIX 12</ref> (Del regniame de <term ref="#fugiu">Fongu</term>, dove i omeni se manzano);<ref type="witlink" target="#v-null-78"> V 78 11-14</ref> (Dela zità de <term ref="#fugiu">Fugui</term>); <ref type="witlink" target="#vb-null-120">VB CXX 18-21</ref>;<ref type="witlink" target="#z-null-88-1-16"> Z 88 26-37</ref>.</p>
+	<p>Nessuna delle fonti dedica alle informazioni comprese in questo capitolo un capitolo
+         autonomo (si veda il commento generale a <ref type="witlink" target="#r-ii-73">R II 73</ref> e a <ref type="witlink" target="#r-ii-74">R II 74</ref>). Si è detto che l’anticipazione della notizia relativa ai leoni che infestano i
+         territori tra <term ref="#quelinfu">Quelinfu</term> e <term ref="#unguem">Unguem</term> (<ref type="witlink" target="#r-ii-75">R II 75 7 </ref>= <ref type="witlink" target="#f-null-154">F CLIV 17</ref> [da <hi rend="italics">il hi a</hi>]) si spiega a partire dall’ordinamento dei materiali di <ref type="witlink" target="#p-ii-68">P II 68 5-6</ref> (e già di <ref type="witlink" target="#va-null-119">VA CXIX 10-11</ref>). Sempre P, probabilmente insieme a VB, è il modello della prima pericope. La fonte
+         della seconda parte del capitolo è invece un affine di Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

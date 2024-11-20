@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-28-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-28">
+      <note>
+	<p>La pericope innesta nel corpo della versione di <ref type="witlink" target="#z-null-116">Z 116 1-2</ref> «<term ref="#malabar">Melibar</term> est quoddam maximum regnum versus ponentem. Ipsius gentes regem habent et loquelam
+         per se; <term ref="#idolatri">adorant ydola</term> et nuli redunt tributum» (da cui è omessa l’osservazione sullo status religioso)
+         una transizione – «del quale non voglio restare di dire ancora altre particularità»
+         – di Ramusio, «convinto che del <term ref="#malabar">Malabar</term> Marco Polo abbia già parlato al cap. 20» (Milanesi 1977-1987, III, p. 281 nota 1).</p>
+	<p>Il testo di Z è versione letterale di F CLXXXII 2 «<term ref="#malabar">Melibar</term> est un grandisme roiames ver ponent. Il ont roi por eles et langajes ausint; il sunt
+         <term ref="#idolatri">ydres</term> et ne font trëu a nelui » (come pure V 99 1 «<term ref="#malabar">‹M›ilinbar</term> sono uno reame grando, et sono inverso ponente; la zente del quale àno re et ha loquela
+         per sí; et <term ref="#idolatri">adorano le idolle</term> et non dano trabuto ad alguno»). Un’inversione dei membri del discorso si vede in
+         P III 34 1-2 «Post hoc pervenitur ad regnum <term ref="#malabar">Melibar</term>, quod in <term ref="#india">Yndia Maiori</term> est ad occidentalem plagam et habet regem proprium et ydeoma, nullique alteri tributarius
+         est. Populus regni <term ref="#idolatri">adorat simulacra</term>» (versione alla lettera di VA CXLIV 1-2 «<term ref="#malabar">Mellibar</term> è uno grandenisimo regniame de <term ref="#india">India Mazor</term> et è verso ponente; e à re e llenguazio proprio, e non fa trabuto ‹ad› altro. La
+         zente è <term ref="#idolatri">idollatra</term>»), e in VB CLII 1-2 «<term ref="#malabar">‹M›alibar</term> è uno grande reame. Et sono <term ref="#idolatri">idolatri</term> et àno linguaço da per si et à re el qual non rende tributo ad alchun». Drasticamente
+         riassuntivo (come spesso accade) L 169 1: «<term ref="#malabar">Melibar</term> est maximum regnum versus occidens […]». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

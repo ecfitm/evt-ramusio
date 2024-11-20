@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La pericope segue (al netto della soppressione della transizione iniziale) <ref type="witlink" target="#z-null-107">Z 107 57</ref> «Ittem vobis extraneum novum dicemus, videlicet quod iste rex multos habet fideles
+         in hunc modum, quia sunt fideles regis in hoc mundo et in alio, secundum quod referunt»
+         (versione di F CLXXIII 22 «Et encore vos dirai de ceste roi une autre cousse qe bien fait a mervoiller. Je
+         vos di qe ceste roi a sez feoilz aseç, et sunt en ceste mainer, car il sunt feoilz
+         dou seingnor en ceste monde e le autre, selonc ce qe il dient; et vos en dirois de
+         cest grant merveie en avant»).</p>
+	<p>P III 23 13 non dà conto del passo (pure attestato, in forma semplificata, in VA CXXXVII 23 «Lo re de questo regniame à molti conpagni, li qual chavalchano senpre chon lui et
+         sono suo’ servitori […]»). Si attiene al contenuto di F L 161 15 «Et habet multos fideles et servitores privatos, qui magnum habent dominium circha
+         regem ‹quia› in hoc mundo ei serviunt»; abbrevia drasticamente VB CXLIII 24 «À nella corte soa molti baroni e suo’ servidori […]». L’equivoco di V 91 23 è l’esito di una progressiva degradazione del testo: «Anchora io ve dirò un’altra
+         chossa: che questo re sì àno molti fradelli per questo muodo, e unn altro segondo
+         chomo i disse, e de questo vui aldirete […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

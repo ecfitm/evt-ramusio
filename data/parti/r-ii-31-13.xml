@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-31-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-31">
+      <note>
+	<p>Alcune coincidenze formali dimostrano che Ramusio ha tenuto conto in questa pericope
+         della lunghissima versione che si legge in <ref type="witlink" target="#vb-null-76">VB LXXVI 15-29</ref> «[…] el <term ref="#prete-gianni">Presto Çane</term> se’l feçe venire vestito chome pastore; et çonto ala pressencia soa, soridendo disse:
+         “Ben venga el pastore mio! E chome sta l’armento?”. A cui el re <term ref="#dor">Doro</term> con umanissime parolle respoxe: “Segnor mio, che ’l tuo umillissimo servitore te
+         sia richomandato». A chui el <term ref="#prete-gianni">Presto Çane</term> disse: «Echo chome bene te sta, che alçato in tanta soperbia alquanto umilliato sei.
+         Vedi chome lievemente eri insoperbito? eri alçato di grandissima soperbia e contra
+         el segnor to (al qualle tanto eri ubligato per i grandissimi beneficii da quello receuti)
+         eri pieno di grande ingratitudene, presumesti rebelargi non te richordendo dela possança
+         soa, sollo esistimendo la toa non bene da te mexurata. Echo che con sete solli mei
+         servitori, te reputandote tanto allto segnore sei fatto mio prixone: iudicha adoncha
+         per te steso la pena del tuo fallo”. A chui el re <term ref="#dor">Doro</term>, tutto tremante [R «tutto pieno di paura et timore»], disse: “Segnore mio, benché
+         io chognoscha el fallo mio pieno de ingratitudene meritar ogni suplicio, pur richordandoti
+         dela toa clemecia, prègoti ritornami a l’armento tuo non chome chapo ma chome ultimo
+         de quello servitore”. A chui el <term ref="#prete-gianni">Presto Çane</term> disse: “Re <term ref="#dor">Doro</term>, non rechordevelle de alchuno tuo ingrato fallo, ma sollo del’amore io te ò portato
+         et dela liberalitade dela segnoria mia, comando che dei vestimenti pastoralli sei
+         spoiato e vestito dei primi vestimenti regalli” [R «vestimenti regali»]. El re <term ref="#dor">Doro</term>, aldendo el chomandamento del segnore, tuto atonito [R «tutto pieno di paura et timore»],
+         non sapendo iudichare se quello era per soa salude o per la morte soa in abito regalle,
+         stando tuto tremante qual dovesse esser el fine dele regal vestimente fu de quelle
+         nobellissimamente vestito [R «fece vestirlo di vestimenti regali»]. A chui el <term ref="#prete-gianni">Presto Çane</term> parllò e disse: “Io çudego che se io fose te, te faria sentir la pena dela rebeliun
+         toa tanto piena de ingratitudene con amarissimo suplicio di morte, ecian non chome
+         te ma se chome iusto iudeçe quella dovesse iudichare. Ma voiendo esser me non rechordevelle
+         de alchuna toa ingratitude ma sí del’amistade tiego ò abuta, che sopra tuti alltri
+         te ò honorato et exaltato, delibero ritornarti nel tuo regno con questa amunicione:
+         che tu deliberi esser grato a tanti beneficii da me to segnore receuti, però se chossì
+         farai chogneserai eser bene conseiato e viverai nel tuo reame onoratamente chome merita
+         quella segnoria, e non chon menore fellecità de quello l’ài abuta la laserai a to’
+         fiolli. Ma se serai sì temerario che non te voi chognosere, né intender la inegualità
+         dela toa possança con quella del tuo segnore, io te richordo che io ò molti miara
+         de servitori de non men vertude de quel sono i sete che i ne te dusse prixone; e se
+         de qui avanti fallirai, non arai chaxone de trovar in me alchuna misericordia del
+         fallo tuo ma sí giusticia, né dei dubitar poder chanpar dele mane mie. Conseiandoti
+         adonqua chome me strençe l’amistade nostra, vivi nel reame to felliçemente et ubediente
+         al to segnore dal qualle in quest’ora ài la vita e la segnoria de dono”. Avendo aldito
+         el re <term ref="#dor">Doro</term> el dono del segnore, prostato in tera cridò e disse: “Umanissimo segnore, el to engrato
+         servitore non merita sì alto dono dala toa segnoria; bastavami di gracia la vita,
+         ultimo servitore del’armento to. Ma possa che la clemencia dela toa segnoria è tanta
+         che a un trato me abi donato la vita e lla segnoria, sumamente io te ne regrancio
+         con questa ferma promisione: che niuno più fedel di me arai per servitore, né più
+         rechordevelle de tanti da te beneficii receuti, né mai ceserò pregar i dii conservi
+         la toa clementissima segnoria”. Dapoi el <term ref="#prete-gianni">Presto Çane</term> ge donò de molti e nobellissimi chavalli et altri nobellissimi doni aconpagnato con
+         orevellissima conpagnia el mandò nel reame suo» [R «con honorevole compagnia lo mandò
+         al suo regno»].</p>
+	<p>R non segue VB per la struttura del racconto, che riflette invece abbastanza fedelmente
+         quella – più concisa – che si legge in P e in V (e in F). Non ci sono però indizi
+         evidenti che ci permettano di stabilire con sicurezza a quale ramo della tradizione
+         appartenesse questa seconda fonte, ma le affinità di R con P sembrerebbero più marcate
+         di quelle con V: <ref type="witlink" target="#p-ii-30">P II 30 6-8</ref> «[…] iussit eum rex coram se adduci [≈ R «il fece condurre alla sua presenza»] in
+         regio apparatu, dixitque illi: “Nunc experimento cognoscere potuisti quod tua potentia
+         nichil est quando te in tuo regno capi feci et per duos annos cum peccoribus deputavi,
+         possemque te si vellem occidere nullusque mortalium de manu mea te posset eruere”.
+         Ille autem hec omnia humiliter est confessus. Tunc rex <term ref="#prete-gianni">Iohannes</term> ait: “Ex quo respectu mei te nihil esse ore proprio confiteris, ex nunc volo te amicum
+         habere et pro victoria michi sufficit quod te occidere potuissem”. Tradiditque illi
+         equos ac socios qui eum ad suum castruum cum honore duxerunt. Ille autem quamdiu vixit
+         Presbitero Iohanni honorem exhibuit et in quibuscumque voluit obedivit» [≈ R «fu sempre obediente»];
+         <ref type="witlink" target="#v-null-51">V 51 25-26 </ref>«Et passato che fo li do ani, el <term ref="#prete-gianni">Prete Zane</term> el feze vegnir davanti [≈ R «il fece condurre alla sua presenza»] e sì li feze dar
+         de belle vestimente fazandolli grando honor, et poi li disse: “Tu puol ben veder che
+         tu nonn è homo da vegnir chontra de mi”; allora quello respoxe e disse: “O Signor
+         mio, io chognoscho ben ch’el non son signor al mondo che te possa far vera”. Et aldando
+         questo el <term ref="#prete-gianni">Prete Zane</term> fezello molto onorar, et puo’ li donò chavali et molti doni, et dèlli una bella chonpagnia
+         et lassòllo tornar al so reame; et da quel’ora in za fo senpre suo’ amigo [≈ R «fu
+         sempre [...] amico»] e servidor» (cfr. <ref type="witlink" target="#f-null-108">F CVIII 8-13</ref> «[…] il le se fait venir devant, le <term ref="#prete-gianni">Prestre Johan</term>, et li fait doner riches vestimens et li fait honor. Et puis li dit: “Sire roi, or
+         pues tu bien veoir que tu ne estoies homes de pooir gueroier con moi!”. “Certes, biaus
+         sire, respont le roi, ce conois je bien, et qenoisoie toutes voies, qe n’estoit home
+         qe peust contraster a voç”. “Et quant tu ce as dit, dit le <term ref="#prete-gianni">Prestre Johan</term>, je ne te demant plus: rois, desormés te ferai servis et honor”. Adonc le <term ref="#prete-gianni">Prestre Johan</term> fait doner chevaus et arnois au rois d’Or, et li done mout belle conpagnie et le laise aler. Et cestui se part et torne a son
+         rengne, et de cel, hore en avant, fu ses amis et son servior»). In L tutto il passo
+         viene omesso.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

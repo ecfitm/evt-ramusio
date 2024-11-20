@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-III-29</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-iii-29">
+    <head>
+      <hi rend="bold">P, III 29</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-iii-29_2_1" n="1"> Ultra regnum <term ref="#malabar">Maabar</term> eundo per ventum qui dicitur tramontana, per miliaria mille, invenitur regnum Murfili, quod nemini tributarium est. </seg>
+      <seg xml:id="p-iii-29_2_2" n="2"> Habitatores eius lacte et carnibus et riso vescuntur
+         et <term ref="#idolatri">ydolatre</term> sunt. </seg>
+      <seg xml:id="p-iii-29_2_3" n="3"> In quibusdam huius regni montibus inveniuntur pretiosi lapides adamantes:
+         post pluvias enim vadunt homines ad rivos per quos aqua descendit a montibus et, deficiente
+         in rivulis aqua, inter arenas rimantur et multos inveniunt adamantes. Similiter etiam
+         in estate in estu maximo habentur hoc modo: montes illos magnos ascendunt, non sine
+         maxima pena propter estum maximum qui est ibi; est etiam periculosum valde illuc ascendere
+         propter serpentes magnos, quorum ibi est maxima multitudo. Ibi sunt intra montes valles
+         quedam |81a| ita undique inmeabilibus rupibus circuncluse, quod illuc per homines
+         accessus esse non potest; in vallibus illis sunt multi lapides adamantes. In montibus
+         vero illis multe aquile albe ibi sunt que morantur ibidem quia vescuntur serpentibus
+         supra dictis. Hii igitur qui volunt adamantes habere de vallibus multa de rupibus
+         carnium frustra in valles periciunt que ut plurimum super adamantes cadunt, aquile
+         autem videntes in vallibus carnes descendunt ad illas et aut ibi eas comedunt aut
+         ad rupes deferunt comedendas; qui autem observant aquilas, si vident eas cum carnibus
+         ad montes ascendere, currunt illuc si locus adiri potest et, expulsis aquilis, carnes
+         accipiunt, in quibus sepe adamantes inveniunt, adamantes qui carnibus adheserunt.
+         Si vero aquile carnes in valle comedunt, vadunt homines postmodum ad loca ubi aquile
+         noctibus dormiunt, |81b| et quia comedendo carnes deglutire solent adamantes carnibus
+         adherentes inveniunt eos in stercoribus aquilarum. Hoc modo habentur adamantes in
+         montibus illis in copia magna; alibi autem in universo mundo inveniri non possunt:
+         reges autem et regionis illius barones adamantes pulcriores et meliores emunt pro
+         se; ceteri vero per orbem a negotiatoribus diffunduntur. </seg>
+      <seg xml:id="p-iii-29_2_4" n="4"> In hac regione fit bucharanius
+         subtilior et pulcrior qui in mondo fiat. </seg>
+      <seg xml:id="p-iii-29_2_5" n="5"> In provincia hac sunt maiores arietes
+         qui in mundo sint. </seg>
+      <seg xml:id="p-iii-29_2_6" n="6"> Victualium omnium copia maxima ibi est.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

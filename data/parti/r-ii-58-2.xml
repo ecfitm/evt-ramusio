@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-58-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-58">
+      <note>
+	<p>R si mostra affine a <ref type="witlink" target="#z-null-75">Z 75 2</ref> nella sostanza testuale, ma se ne distacca nell’organizzazione delle informazioni:
+         «[…] cuius gentes <term ref="#idolatri">adorant ydola</term>, sunt sub dominio <term ref="#gran-can">Magni Can</term> et monetam de cartis eius expendunt». È probabile che la fonte di Ramusio, Z1, presentasse la stessa struttura dei contenuti che si legge in F, V e VB e che, con
+         ogni verosimiglianza, doveva essere quella originale: <ref type="witlink" target="#f-null-141">F CXLI 3</ref> «Il sunt encore <term ref="#idolatri">ydres</term> et ont monoie de carte et sunt au <term ref="#gran-can">Grant Kan</term> […]»;<ref type="witlink" target="#v-null-69"> V 69 1</ref> «[…] la zente dela qualle <term ref="#idolatri">adora le idolle</term>; et àno pechunia de charta; et sono soto el <term ref="#gran-can">Gran Chan</term> […]»;<ref type="witlink" target="#vb-null-104"> VB CIV 2</ref> «Sono tuti idolatri; spendeno moneta di charta del segnore <term ref="#gran-can">Gran Can</term> et è sottoposta a llui; et ardeno i corpi di morti loro». L reca una versione abbreviata
+         (<ref type="witlink" target="#l-null-116">L 116 2</ref> «Gentes sunt <term ref="#idolatri">ydolatre</term>, utentes moneta ex cartis»), mentre P omette del tutto il passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

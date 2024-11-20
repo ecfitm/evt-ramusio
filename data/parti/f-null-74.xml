@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-74</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-74">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LXXIV </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-74_1_1" n="1"> Ci devise de la cité de <term ref="#xandu">Ciandu</term> et d’un mervellieus palais dou <term ref="#gran-can">Grant Kaan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-74_2_1" n="1"> Et quant l’en est parti de la cité que je vos ai només desovre et l’en ala |32b|
+         trois jornee, adonc treuve l’en une cité qui est appellé <term ref="#xandu">Ciandu</term>, que le Grant Chan, que est et rengne et que a nom <term ref="#cublai-can">Cublai Kaan</term>, la fist faire. </seg>
+      <seg xml:id="f-null-74_2_2" n="2"> Et en ceste cité hi fist{i} faire <term ref="#cublai-can">Cublai Kan</term> un grandismes palais de marbre et des pieres. </seg>
+      <seg xml:id="f-null-74_2_3" n="3"> Les sales et canbres sunt toutes
+         dorés. </seg>
+      <seg xml:id="f-null-74_2_4" n="4"> Il est mout merveilosemant biaut et bien ovrés. </seg>
+      <seg xml:id="f-null-74_2_5" n="5"> Et de ceste palais
+         se mire un mur que environe bien .XVI. miles de tere, es queles a fontaines et flu‹n›s
+         et plateries asseç. </seg>
+      <seg xml:id="f-null-74_2_6" n="6"> E le <term ref="#gran-can">Grant Can</term> hi tent de toutes faites bestes, ce sunt cerf et dain et cavriul, por doner a mangier
+         as gerfauc et as faucun que il tent en mue en cel leu, que sunt ‹plus› de .CC. gierfaus
+         …†…, et il meisme les vait veoir en la mue ongne semaine une foies. </seg>
+      <seg xml:id="f-null-74_2_7" n="7"> Et plusors
+         foies le Grant Chan vait por cest praerie qui est enveronee de mur et moine ho soi un leopars sor la
+         crope de son cheval, et, quant il velt, il le laise alere et prant un cerf ou dain
+         ou cravriol et les fait doner as gerfaus qu’il tient en mue; et cel fait il por son
+         delit et por solax. [9] Et encore sagiés que eu mileu de celle praerie environé de
+         mur a fait le Grant Chan un gran palais qui est tout de channes, mes est endorés tout dedens a or verais,
+         as bestes et a osiaus mout sotilmant evrés. [10] La covreure est ausi toute de cannes
+         envernigés si bien et si fort que nules |32c| eive ne i poit nuire. [11] Et voç dirai
+         come il est fait de channes. [12] Sachiés de voir que celle channes sunt groses plus
+         de trois paumes et sunt lonc de .X. pas jusqe a .XV. [13] L’en le trence parmi de
+         un nod a l’autre et adonc est fait un coup. [14] Et de cestes channes, que sunt groses
+         et si grant, {que}l’en puet covrir maison et fer toute de chief! [15] Et cest palais
+         que je vos ai dit desovre estoit tute de cannes. [16] Et si l’avoit fet si ordree
+         le <term ref="#gran-can">Grant Kaan</term> qu’il le fasoit lever quant unques il voloit, car il le sostenoit plus de .CC. cordes
+         de soie. [17] Et voç di que le <term ref="#gran-can">Grant Kaan</term> demoret iluec trois mois de l’an, jung et jungnee et aost: et por ce il demore il
+         de cest tens qu’il ne a chaut e por le grant delit. [18] Et cesti trois mois que vos
+         avés ‹oï› tient le <term ref="#gran-can">Grant Kaan</term> le palais de channes fait, et tous les autres mois de l’an le tient il desfait; et
+         le a si ordree que il le puet fer et desfer a sa volunté. [19] Et quant il vient a
+         les .XXVIII. jors d’aost, le <term ref="#gran-can">Grant Kaan</term> se part de cest cité et de cest palais, chas‹c›un an en cestui jor, et voç dirai
+         por coi: il est voir que il a un ‹a›raz de chevaus blance et de jumentes blances come
+         noif, sanç nulz autres coleur, et sunt grandissmes quantité, ce est qu’il hi a plus
+         de .Xm. jomentes et le la‹i›t de ceste jumente blance n’en oç boire nulz se ne celz que
+         sunt dou lengnages de l’enperio, ce est de legnages de <term ref="#gran-can">Grant | Kaan</term> |32d|. [20] Bien est il voir que un autre jenerasion de jens en puet bien boir, ce
+         su‹n›t appellés <term ref="#boriat">Horiat</term>, et cest honor done elez <term ref="#cingis-can">Cinchins Can</term> por une vitorie qu’il firent con lui jadis. [21] Et si voç di que quant ceste bestes
+         blances vont pasant, l’en fait elz si grant reverence que, se un grant seingnor hi
+         passast, ne paseroit por mi ceste beste, mes atendroit tant qu’eles fuissent passé
+         ou il aleroit tant avant qu’il l’aroit passee. [22] Et les astronique et les <term ref="#idolatri">ydres</term> ont dit au Grant Chan que de ceste lait doie espandre chascun an a{s} les .XXVIII. jors d’aost por l’air
+         et por les terres, por coi les espirt en aient a boir: e les ydres espirt, por ce,
+         que il li sa‹u›vent toutes sez couses, homes et femes, bestes, osiaus, bles, et toutes
+         autres chouses. [23] Et d’iluec se part le <term ref="#gran-can">Gran Can</term> e vait a un autre leu. [24] Mes voç dirai avant une mervoille que je avoie demantiqué.
+         </seg>
+    </p>
+    <p n="3"/>
+    <p n="4"/>
+    <p n="5"/>
+    <p n="6"/>
+  </div>
+</body>
+</text>
+     </TEI>

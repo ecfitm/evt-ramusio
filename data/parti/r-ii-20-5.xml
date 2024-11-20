@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-20-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Solo <ref type="witlink" target="#v-null-47">V 47 5-7</ref> tramanda queste informazioni: «[…] e per questo modo li mesi vano per tute le provinzie
+         e a tuti reami, zitade e luogi che vol el <term ref="#gran-can">Gran Signor</term>. […] Et per questo muodo li messi del <term ref="#gran-can">Gran Signor</term> àno chavali per far i fati suo’, et questa sono mazor altereza e grandeza che aver
+         podesse né re ní inperador né algun signor del mondo, perché in questa tal posta sono
+         ben duxentomilia chavalli sollamente a questi fati; et a questi pallazi sono ben diexemilia,
+         dî quali sono fornidi de tute chosse nezessarie al viver del’omo, che sono una chossa
+         de gran meraveia […]». Il testo è fortemente accorciato in<ref type="witlink" target="#l-null-80"> L 80 4</ref> «Et sunt de talibus postis per omnes provincias <term ref="#gran-can">Magni Canis</term> plus quam .X.M., in quibus manent plus quam .CC.M. equi, omnes ambaxiatoribus et
+         nunciis deputati […]», e in <ref type="witlink" target="#p-ii-23">P II 23 3-4</ref> «[…] sic igitur invenitur per omnes vias regias usque in fines ultimos provinciarum
+         affinium, ita quod in universo sunt palatia et hospitia huiusmodi circiter .X. milia.
+         Equi autem qui sunt hiis mansionibus deputati ultra decem milia vel duodicem milia
+         sunt». In VB il passo è omesso, mentre in Z manca l’intero capitolo.</p>
+	<p>Va rilevato che in vari punti la lezione di R si mostra più prossima a quella di <ref type="witlink" target="#f-null-97">F XCVII 10-11</ref> che a quella di V: «Et en ceste mainere qe voç avés hoï vunt por toutes pars les
+         mesajes dou <term ref="#gran-can">Grant Sire</term> et hont herbergies et chevaus aparoilés a ogne jornee; et ce est bien la greingnor
+         autesse et la greingnor grandese qe aie ne haüst onques [R «già mai havesse»] nul
+         enperaors ne nulç rois [R «alcuno imperatore o re»] ne nulz autre homes teroine [R
+         «over altro huomo terreno»], car sachiés tout voiremant que plus de .CCm. chevaus demorent a cestes postes propemant por les seç mesajes. Et encore voç di
+         que les paleis sunt plus de .Xm. qe sunt ensi forni de riches arnois [R «forniti di cosí ricchi apparecchi»] com
+         je voç ai contés […]». Incliniamo pertanto a credere che anche in questo punto Ramusio
+         si sia attenuto alla lezione del perduto Z1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

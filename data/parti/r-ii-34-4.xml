@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-34-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-34">
+      <note>
+	<p>Nella prima parte della pericope, R segue la testimonianza di Z, condensandola tuttavia
+         in un punto («que est capud regni <term ref="#quenzanfu">Qençanfu</term>»): <ref type="witlink" target="#z-null-50">Z 50 5-6</ref> «Et cum equitatum est septem dietis, invenitur quedam magna civitas et nobilis nomine
+         <term ref="#quenzanfu">Quençanfu</term>, que est capud regni <term ref="#quenzanfu">Qençanfu</term>, quod antiquitus fuit nobile regnum magnum et potens. Et in eo fuerunt iam multi
+         reges valentes et probi». Nella seconda parte del paragrafo, in cui manca la testimonianza
+         di Z, si notano alcune affinità con V, che a sua volta rispecchia la lezione di F:<ref type="witlink" target="#v-null-53"> V 53 4-5</ref> «Et quando el se àno chavalchado sete zornade el se trova una grande e nobelle zitade,
+         la qualle sono chiamata <term ref="#quenzanfu">Chandianfo</term>, la qualle sono al chavo del reame. Et in quella antigamente fo uno nobelle reame,
+         grando e possente, et ezian ave molti vallenti re e nobelli chavallieri; et al prexente
+         [R «al presente»] el re de quella zitade erano fiollo del <term ref="#gran-can">Gran Signor</term>, el qualle era chiamato <term ref="#mangalu">Mangalai</term>: el padre ge la donò et inchoronòllo [R «coronò»] de quella zitade, la qualle sono
+         molto granda» (vd. <ref type="witlink" target="#f-null-110">F CX 6</ref> «Et ‹quant› l’en a chevauché .VIII. jornee, ensi com je vos ai dit, adonc treuve
+         l’en ceste grant cité et noble de <term ref="#quenzanfu">Quengianfu</term>, qui mout est grant et biele, et est le chief do reiames de <term ref="#quenzanfu">Que‹n›gianfu</term>, que ansienemant fu nobles roiames et riches et poisant; et jadis hi ot mant buens
+         rois et vailanz, et orendroit en est sire et rois le fil au <term ref="#gran-can">Grant Sire</term>, que <term ref="#mangalu">Mangalai</term> est apelés, car son per li a doné cel roigne et ne le a coronés roi»). La vicinanza
+         di R con V e F nella parte di testo omessa da Z toledano suggerisce che la fonte di
+         Ramusio Z1 fosse in questo punto completa.</p>
+	<p>È probabile che, oltre che a Z, l’editore abbia fatto ricorso sporadicamente anche
+         a un’altra fonte. Va rilevato, infatti, che la forma <term ref="#mangalu">Mangalú</term> di R appare con ogni evidenza ricavata da <ref type="witlink" target="#vb-null-77">VB LXXVII 4-5 </ref>«A chavo dele .VIII. giornate se trova la nobelle et gran citade chiamata <term ref="#quenzanfu">Cançiafu</term>, la qual è chapo del reame. E fo antigamente reame seperado e de gran possança, del
+         qual reame de pressenti el <term ref="#gran-can">Gran Chan </term>ne à fato so fiollo re chiamato <term ref="#mangalu">Mangalu</term>». Non si danno invece prove di contatti di R con <ref type="witlink" target="#l-null-90">L 90 1</ref> «[…] invenitur civitas nobilis et magna dicta <term ref="#quenzanfu">Quengia‹n›fu</term>, que est caput regni similiter nominat» / <ref type="witlink" target="#l-null-90">L 90 4 </ref>«[…] rex, qui ad presens erat unus ex filiis <term ref="#gran-can">Magni Canis</term> nomine <term ref="#mangalu">Ma‹n›galay</term>», e con <ref type="witlink" target="#p-ii-32">P II 32 4-5</ref> «Post dietas octo invenitur civitas magna <term ref="#quenzanfu">Quengianfu</term> que est regni <term ref="#quenzanfu">Quengyenfu</term> caput, quod regnum olim fuerat opulentum et nobile. Ibi rex est filius <term ref="#gran-can">Magni Kaam</term> nomine <term ref="#mangalu">Mangla</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

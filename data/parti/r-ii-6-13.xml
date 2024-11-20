@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-6-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>In questa pericope Ramusio ha probabilmente combinato la lezione di due testimoni.
+         Uno apparteneva a <ref type="witlink" target="#p-ii-9">P II 9 5</ref> «[…] parietes aularum et camerarum omnes auro et argento tecti sunt, ibique sunt
+         picture pulcherrime et hystorie bellorum [R «historie di guerre»] depicte. Propter
+         huius autem ornamenta atque picturas palatium splendidum est valde […]». L’altro doveva
+         essere vicino a V, ma al tempo stesso risultare più prossimo di questo a F: <ref type="witlink" target="#v-null-41">V 41 21</ref> «[…] et intorno el muro dele sale e dele chamere sono depento lioni e dragoni, oxeli,
+         bestie e chavalieri et molte altre nobel chose, et sono indorade [R «indorati»], et
+         la chovertura sono tuta lavorada d’oro e de pentura […]»; <ref type="witlink" target="#f-null-83">F LXXXIII 19-20</ref> «[…] les mur de les sales et de les canbres sunt toutes couvertes d’or et d’argent
+         et hi a portraites dragons et bestes et osiaus et chevalers, et autres deverses jenerasion
+         des bestes [R «di diverse maniere di bestie»]. Et la couverture est ausi fa‹i›te si
+         que ne i se pert autre que hor et pointures» [R «la copritura è fatta in tal modo
+         che altro non si vede che oro et pittura»]. Non si danno indizi di contatti di R con
+         <ref type="witlink" target="#l-null-68">L 68 5</ref> «[…] sunt eciam omnia tam parietes quam eciam coopertura auro ornata et coloribus,
+         ubi multe et diverse ymagines sunt protracte; est eciam coopertura non solum interius,
+         sed eciam exterius totaliter diversis depicta coloribus […]».</p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

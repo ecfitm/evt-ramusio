@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-25-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-25">
+      <note>
+	<p>La forma dell’espressione permette ancora una volta di attribuire la funzione di antigrafo
+         alla lettera di <ref type="witlink" target="#z-null-113">Z 113 15-20</ref> «Ibi sunt multe bestie diverse ab omnibus aliis mundi. Nam ibi sunt leones nigri
+         absque ulo alio colore vel signo. Sunt etiam ibi papagali de pluribus maneriebus.
+         Nam ibi sunt papagali toti albi, et habent pedes et rostrum rubeum. Sunt et ibi papagali
+         rubei et blavi, qui sunt pulcherrimi ad videndum. Sunt etiam ibi aliqui valde parvi
+         et pulcerimi». </p>
+	<p>La lezione di P III 31 8 «In hac provincia multa sunt animalia cunctis aliarum regionum animantibus dissimilia:
+         ibi enim sunt leones nigri totaliter absque omni alio colore; ibi sunt papagalli seu
+         epymachi albi ut nix, pedes tamen rubeos habent et rostra» rinvia a VA CXLI 13 «In questa contrà è molte diversse bestie de tute ‹le altre› del mondo; el ge n’è
+         lioni tuti negri senza altro chollor, el ge n’è pa‹pa›gali bianchi chomo neve ch’àno
+         i pie’ e ’l becho vermeglio […]». Il modello è F CLXXIX 6 (in parte abbreviato da VA-P): «Il hi a de maintes deverses bestes, devisees a toutes
+         les autres dou monde, car je voç di qu’il hi a lion noir sanç null’autre colleur ne
+         seingne. Il hi a papagaus des plusors maineres: car il hi ni a tous blance come nois,
+         et ont les piés et le bec vermoil; et encore il ni a vermoil e blance qe sunt la plus
+         bielle couse dou monde a veoir; il hi ni a encore de mout petit qe mout sunt ausint
+         mout biaus». VB CXLIX 11-14 presenta un resoconto sostanzialmente affine: «In questa provincia se trova molte
+         diversi animalli: sòne lioni tuti negri sença alchun alltro cholor. Àno papagalli
+         tuti bianchi quanto neve, et àno el becho e i pie’ vermegi. Àno papagalli tuti vermei
+         molto belli a vedere. Àno papagalli de molti altri cholori; àno papagalli molto picholi
+         che sono bellisimi»; abbrevia L 166 8: «Adsunt in hoc regno animalia ab aliis animalibus valde diversa; sunt enim leones
+         per totum nigerrimi, et papagalli diversarum manerierum: quidam enim per totum albissimi
+         sunt, habentes tamen rostrum et pedes rubeos, quidam vero rubei, et quidam açuri pulcherrimi
+         tamen». Cade in visibile equivoco V 97 6-8: «In questo sono molte diverse bestie, più che altre del mondo. Sono homeni [<hi rend="italics">sic</hi>] negri senza algun cholor. Et sono papagà rossi e biavi e verdi, i quali sono beletissimi;
+         et sono anchora molti homeni [<hi rend="italics">sic</hi>] pizoli e beli […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

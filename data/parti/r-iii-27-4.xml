@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-27-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-27">
+      <note>
+	<p><ref type="witlink" target="#p-iii-33">P III 33 3 </ref>legge: «Rex ditissimus est magnos thesauros habens, potens autem non est in multitudine
+         aut fortitudine gentis; regio tamen adeo fortis est quia ab hostibus invadi non potest»
+         (versione di VA CXLIII 3 «<hi rend="italics">E àno re ch’è molto richo de texoro</hi> ma nonn è possente de zente, ma la contrà è sì forte che nisuno non può andar-li
+         sopra per far dano»); la lezione di Z 115 7-8 – «Rex quidem dives est thesauro, sed non est potens gente. Sed regnum ipsius tam
+         fortes habet introitus quod aliquis cum aliqua gente non valeret intrare ad infferendum
+         danum; et ideo non timet de aliquo» – ripete alla lettera F CLXXXI 4 «Le roi est mout riches de tresor, mes ne est poissant des jens. Mes son reingne
+         a si fort entree que nulz hi poroit entrer con jens por lor mau feire; e por ce ne
+         a doutee de nului».</p>
+	<p>La pericope di R, alla luce di queste testimonianze, appare frutto di consumata <hi rend="italics">ars combinatoria</hi>: Ramusio ne anticipa la posizione rispetto a F-Z (che la collocano dopo la corrispondente
+         a <ref type="witlink" target="#r-iii-27">R III 27 5</ref>), sopprime il riferimento alla ricchezza del re, recupera da P la dittologia «in
+         moltitudine o vero valore», e da Z l’allusione alla «fortezza de’ passi».</p>
+	<p>Gli altri relatori. V e VB presentano la pericope nella stessa posizione di F-Z. La
+         versione di V 98 4 sopprime il riferimento alle <hi rend="italics">entree</hi>: «Lo re de questa zitade sono richo de texoro, ma nonn è possente de zente; ma el
+         so regno sono sì forte che alguna zente non ne poria intrar ni far dano, et inperò
+         el non teme alguno»; semplifica VB CLI 4: «Questo re è richo de oro e povero de gente; ma el sito del reame è sì forte ch’è
+         malesevelle ad intrar in quello». L 168 6 pone la pericope nella stessa posizione di VA-P-R: «Regem habent thesauris habundantem,
+         gentibus impotentem; regni tamen introytus sunt tam fortes quod a nemine ledi potest».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

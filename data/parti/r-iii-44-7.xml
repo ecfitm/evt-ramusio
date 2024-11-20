@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-44-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-44">
+      <note>
+	<p>Ramusio traduce <ref type="witlink" target="#p-iii-47">P III 47 2</ref> «[…] qui quidem <term ref="#tartari">Tartari</term> ritus et modos servant antiquorum predecessorum suorum, qui veri et recti <term ref="#tartari">Tartari</term> sunt» (elaborazione di VA CLII 3 «Questa zente àno dreta lezie e ’l muodo d’i driti <term ref="#tartari">Tartari</term> […]»). (Gli altri relatori si allineano allo stesso tenore informativo, attestato
+         da F CCXVI 2 «[…] e [Conci] mantient la droite loy tartar, que est mout bestiaus, mes il la manti{n}ent
+         come fist <term ref="#cingis-can">Cinchins Can</term> et les autres {d}roi{t} tartarç; e si voç en dirae auques». Vedi: Z 150 1-2 «[…] et manutenet rectam legem <term ref="#tartari">Tartarorum</term>, que multum bestialis est. Sed ipsam observat sicut <term ref="#cingis-can">Cinghys Can</term> et alii veri <term ref="#tartari">Tartari</term>, de quibus aliquid vobis narabimus»; L 197 1 «[…] et omnes eius suppositi ‹similiter› <term ref="#tartari">tartari</term> sunt, et lege tartarica vivunt»; V 118 1-2 «[…] et àno la leze dreta de <term ref="#tartari">Tartari</term>, la qual sono molto bestial, ma li oserva chomo <term ref="#cingis-can">Zesia Chan</term>. Et de altri veri <term ref="#tartari">Tartari</term> de algune chosse ve nareremo»; VB CLXXII 1 «[…] non però che queste giente oserva la legie et chostumi de quei <term ref="#tartari">Tartari</term> desesi da <term ref="#cingis-can">Çeçin Can</term> chome avanti ò chontado: sono tuta giente però <term ref="#idolatri">idolatri</term>»). </p>
+	<p>Ramusio sopprime poi la descrizione religiosa di <ref type="witlink" target="#p-iii-47">P III 47 3</ref> «Omnes autem <term ref="#idolatri">ydolatre</term> sunt et deum unum colunt quem <term ref="#natigay">Nagyçay</term> vocant, quam putant terre et omnium que producuntur ex ea habere dominium et id circo
+         nominant eum deum terre; huic deo falso simulacra et ymagines de filtro faciunt, prout
+         de aliis <term ref="#tartari">Tartaris</term> in superioribus dictum est» (= VA CLIII 3-4 «[…] e adorono uno dio ch’è apelato <term ref="#natigay">Nacigai</term>. E fano questo dio de feltro e dixeno ch’ell è dio tereno, ch’à chura delle cosse
+         terene»). La pericope è attestata in tutta la tradizione (tranne L 197): vedi F CCXVI 3 «Or sachiés que il font un lor dieu de feutre et l’apellent <term ref="#natigay">Nacigai</term>. Et encore li font moiliere. Et cesti .II. dieu, ce est <term ref="#natigay">Nacigai</term> e sa moiere, dient qe il sunt les dieu de tere e qu’il lor gardent les bestes e les
+         bles e toutes lor bien terenes. Il les orent; e quant il vienent qe il menuient aucune
+         bone viandes, il en ongent la boche a lor deu; et funt bien vies come de bestes»;
+         Z 150 3-5 «Faciunt enim que‹m›dam eorum deum de feltro, qui <term ref="#natigay">Nacigay</term> nuncupatur, et ei faciunt uxorem; et isti duo dei, videlicet <term ref="#natigay">Nacigay</term> et eius uxor, dicuntur esse dei terenorum. Et dicunt quod custodiunt eorum bestias,
+         segetes et bona terena. Ipsi adorant eos, et quando comedunt aliqua victualia, ungunt
+         os sui dei»; V 118 3 (sua l’invenzione del nome della moglie del dio) «I signori fano uno homo de feltre
+         el qualle li chiamano <term ref="#natigay">Giangin</term>, et suo’ muier sono chiamata Ditorniedi: et diseno che i vardano le lor bestie, e
+         le blave, et i tereni; et adorano quelli, et quando i manzano alguna chossa i onzeno
+         la bocha de quel dio»; VB CLXXII 2-4 «Questi fano uno so Dio de feltre e chiamallo <term ref="#natigay">Natigai</term> et ecian fano so moier et dicono questi .II. sono i suo’ dii çoè <term ref="#natigay">Natigay</term> et so moier. I qualli conservano loro et suo’ fiolli, i suo’ bestiame, le suo’ biave
+         et tuti alltri suo’ beni. Et a questi do idolli i fano grande onor et reverencia;
+         et quando i mangiano alchuna bona vivanda, i ongieno di quella la bocha a questi suo’
+         dii et dicono quei à mangiato». L’omissione è forse spiegabile tenendo conto del fatto
+         che del dio Ramusio ha già parlato in <ref type="witlink" target="#r-ii-26">R II 26 2</ref> e sgg.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

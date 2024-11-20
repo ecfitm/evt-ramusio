@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-5-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-5">
+      <note>
+	<p>Questo caratteristico segmento di raccordo, formulare e perciò agilmente sacrificabile,
+         manca in L, P e Z toledano. R è vicina più al testo di <ref type="witlink" target="#v-null-12">V 12 15</ref> «Infina qua avemo dito deli chonfini de Ermenia deverso tramontana, et mo’ diremo de queli verso mezodì e de levante» che di <ref type="witlink" target="#vb-null-13">VB XIII 12</ref> «Òve narato dele chonfine del’Arminia versso la tramontana; ora se volgieremo a dire dele chonfine fra ostro e levante»,
+         entrambi prossimi a <ref type="witlink" target="#f-null-22">F XXII 12</ref> «Or voç avo‹n›ç contés de les confin d’<term ref="#armenia">Armenie</term> dever tramontane. Or voç volun conter de le autre confin qe sunt entre midi et levant».
+         </p>
+	<p>R si allinea a V in particolare nel sintagma «<hi rend="italics">verso</hi> mezodì e levante», laddove la restante tradizione è coerente con la lezione di F
+         («<hi rend="italics">entre</hi> midi et levant»); al contempo se ne distanzia nella stringa «hora diciamo degl’<hi rend="italics">altri</hi> [confini]», dove offre una variante caratteristica di F («de le <hi rend="italics">autre</hi> confin») e di <ref type="witlink" target="#va-null-14">VA XIV 6</ref>: «Or avemo dito delle confine d’<term ref="#armenia">Armenia</term> deverso tramontana, mo’ ve diremo delle altre confine dentro mezodì e llevante»),
+         ma non attestata in nessuna delle fonti a disposizione di Ramusio, quantomeno nelle
+         copie superstiti.</p>
+	<p>Si può nuovamente ipotizzare, seppure <hi rend="italics">in absentia</hi>, che R (insieme a V?) dipenda qui da uno Z che ricalcasse precisamente la lezione
+         di F, sostituendo però <hi rend="italics">entre</hi> con *<hi rend="italics">versus</hi> o sim.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

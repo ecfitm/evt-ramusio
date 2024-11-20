@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>R segue in questo punto prevalentemente <ref type="witlink" target="#vb-null-85">VB LXXXV 9</ref> «Non àno letere né sano scritura alchuna né non’è però meraveglia, però che quel
+         paexe è molto silvestro e fra montagne e gran selve e lluogi molto sallvaçi; e per
+         el pessimo aere, forestieri non ve pò star ché tuti moreria, e massime nel’instate».
+         È probabile che nella parte centrale («et l’aere […] cattivo»), Ramusio abbia collazionato
+         VB con Z, che riflette per larga parte il dettato di F: <ref type="witlink" target="#z-null-58">Z 58 16-17</ref> «Non habent literas, et nullas faciunt scripturas. Et hoc non est mirabile: nam orti
+         sunt in loco multum devio et silvestri, videlicet in lucis et montibus, per quos iri
+         non potest in estate aliqua causa mundi, quia aer est ibi tam malus et coruptus quod
+         nullus forensis poset evadere quin periret» (vd. <ref type="witlink" target="#f-null-119">F CXIX 14</ref> «Il ne ont letre ne font scripture, et ce ne est mervoille car il sunt nes en mout
+         desvoiables leus et grant bosces, et en grant montaignes, qe ne i se puet aler d’esté
+         por ren dou monde por ce qe l’aire est, la stee, si corote et mauvaise qe nul forestier
+         ne i scanperoit qe ne morust»). </p>
+	<p>Le altre fonti non presentano particolari consonanze con R: <ref type="witlink" target="#l-null-98">L 98 9</ref> «Carent litteris et scriptura – et nimirum: sunt enim in deviis locis, sed in nemoribus
+         et magnis montibus»; <ref type="witlink" target="#p-ii-41">P II 41 9</ref> «Litteris carent […]» / <ref type="witlink" target="#p-ii-41">P II 41 8</ref> «In locis valde silvestribus habitant ubi montes sunt maximi et nemora magna valde;
+         ad montes illos non accedunt alii de regionibus aliis, quia vivere ibi non possent
+         extranei propter corruptionem nimiam aeris»; <ref type="witlink" target="#v-null-57">V 57 8-9</ref> «[…] et non àno letere et non fano alguna schritura, perché i sono nassudi in luogo
+         molto salvadego, in boschi, in chanpagne et in montagne, per li qual i non puol aver
+         alguna praticha del mondo. Et sono aiere molto choroto, et alguno forestier non puol
+         schanpar».</p>
+	<p>La lezione «et mercatanti» è quasi sicuramente un’aggiunta di Ramusio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

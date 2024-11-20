@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-78</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-78">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 78</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-78_2_1" n="1"> ‹Q›uando el se parte dal’ultima zitade de <term ref="#quinsai">Quisangi</term> se intra in lo reame de <term ref="#fugiu">Fugui</term>; e vasse sie zornade per sirocho per monti e valle, e trovasse molte zitade e chastelli,
+         li qualli sono soto la signoria del <term ref="#gran-can">Gran Chan</term>; la zente dele qualle <term ref="#idolatri">adorano l’idolle</term>; et sono soto el rezimento de <term ref="#fugiu">Fugui</term>. </seg>
+      <seg xml:id="v-null-78_2_2" n="2"> Et viveno de marchadantie et arte; et àno abondanzia de tute vituarie; et sono
+         molte chazaxon de bestie et oxelli, et lì sono i ferozi lioni; et lì sono zenzero
+         e galanga in gran abondanzia, sì che per uno nostro grosso se àno ben quaranta lire
+         |91r| de zenzero; et àno uno fruto el qualle sono a someiansa al zafaran: mo el sono
+         de tanto valor perché el se adopera in molte chosse. </seg>
+      <seg xml:id="v-null-78_2_3" n="3"> Et quela zente manzano de
+         brute charne, e manzano charne umana volentiera, purché la non sia morta da so morte;
+         ma quelli che sono morti de chortello vieno magnadi da lor, et sono reputada bona
+         charne. </seg>
+      <seg xml:id="v-null-78_2_4" n="4"> Li omeni li qualli vano in lo exerzito se fano chonzar in questa forma:
+         i se fano i chavelli fina ale rechie, e sì se fano depenzer el vixo azuro; et tuti
+         vano a pè fuora el chapetanio; et quelli portano lanze e spade; et sono i più chrudel
+         homeni del mondo, perché tuto el dì i vano alzidando i omeni e beveno el sangue e
+         po’ manza le charne. </seg>
+      <seg xml:id="v-null-78_2_5" n="5"> Or lasseremo de questi e diremo d’altre chosse. </seg>
+      <seg xml:id="v-null-78_2_6" n="6"> Sapié
+         che in chavo de ’ste sie zornade dite di sopra se trova una zitade chiamata <term ref="#quelinfu">Chelinfu</term>, che sono molto granda e nobelle; et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>. </seg>
+      <seg xml:id="v-null-78_2_7" n="7"> Questa zitade àno tre ponti, li più grandi che se trova al mondo, et sono de
+         longeza zento pasa e de largeza nuove; et sono de pietra e cholone de marmoro. </seg>
+      <seg xml:id="v-null-78_2_8" n="8">
+         La zente di quela viveno de marchadantie et arte; et àno seda in gran quantitade;
+         lì non sono zenzero ní galanga. [9] Et in questo luogo sono belle done. [10] Et sono
+         galine che nonn à piuma, ma àno el pello chomo de gata, et sono tute negre; et fano
+         hove a modo dele nostre, et sono tropo bone da manzar. [11] Altre chosse in questa
+         nonn è da dire, e però anderemo più avanti e diremo dele chosse che se trovano, che
+         sono molte zitade e chastelli in le qualle sono molti marchadanti et molte marchadantie,
+         |91v| et homeni artexani i qualli àno sede in gran quantitade. [12] La zente de queste
+         <term ref="#idolatri">adorano l’idolle</term>; et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>. [13] Et àno molti oxelamenti; et in quel luogo sono de ferozi lioni, i qualli fano
+         gran dano ai viandanti. [14] Et al fin de queste sie zornade, lutan quindexe mia,
+         el se trova una zitade chiamata <term ref="#unguem">Uquen</term>, in la qual nasse gran quantità de zucharo; e da questa zitade el Gran <term ref="#gran-can">Chan</term> àno tuto el zucharo che se dovra in la sso chorte, el qual val una gran chossa che
+         nonn è da dire. [15] Or in questa nonn è altro da chontare, però anderemo più avanti;
+         quando el se parte da questa zitade el se va quindexe mia, honde el se trova una nobel
+         zitade, ed è el reame de <term ref="#fugiu">Fugui</term>. [16] Sapiate che questa zitade è chavo del reame de <term ref="#fugiu">Fugui</term>, e vien chiamada <term ref="#concha">Choncha</term>, la qualle nonn à porte. [17] Et in questa zitade sono molti marchadanti et artexani,
+         i qualli <term ref="#idolatri">adorano l’idolle</term>; et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>. [18] E llà stano pixor homeni d’arme; et in quel luogo sono uno gran exerzito del
+         <term ref="#gran-can">Gran Chan</term>, perché molte zitade e chasteli pixor volte revela, et questo exerzito subito vano
+         a queste zitade e chasteli e sì li piglia e vastano: e per questa chaxon stano molti
+         exerziti per queste zitade. [19] E passa uno gran flume che sono largo uno mio, et
+         in questa zitade sono molte nave che navega per questo flume. [20] Et in questa zitade
+         se fano zucharo in gran quantitade, et fanosse molte marchadantie de perle e spezie
+         e piere prezioxe; e questo perché le nave de India vien là chon molte marchadantie;
+         e questa zitade sono |92r| apreso el porto de <term ref="#zaitum">Zandon</term> tre zornade. [21] Et questo porto de <term ref="#zaitum">Zandon</term> sono nel <term ref="#mare-oceano">Mar Hozian</term>, e là vano molte nave d’<term ref="#india">India</term> chon molte marchadantie, et a questo porta e vien le nave per lo gran flume, chomo
+         ho dito di sopra infina ala zità de <term ref="#fugiu">Fugui</term>. [22] Et àno anchora abondanzia de tute chosse le qual sono de bixogno al chorpo
+         umano; et àno de belli zardini neli quali sono de boni fruti; sì che questa zitade
+         sono ben ordenada. [23] In questa nonn è altro da dire, e però da questa se partiremo
+         e diremo de altre chosse.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

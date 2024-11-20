@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-34-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-34">
+      <note>
+	<p>Il dettato corrisponde precisamente a <ref type="witlink" target="#f-null-55">F LV 4</ref> «Il hi a viles et chastiaus aseç, et la mestre cité dou regne est <term ref="#ciarcian">Ciarcian</term>»), e almeno per la prima parte della pericope – l’unica confrontabile con la mutilata
+         lezione toledana – a<ref type="witlink" target="#z-null-29"> Z 29 4</ref> «In ea multe sunt civitates et castra».</p>
+	<p>È dunque assai probabile che, qui come altrove, Ramusio traduca da uno Z completo;
+         l’ipotesi alternativa è che la seconda metà della pericope («ma la città maestra del
+         regno è <term ref="#ciarcian">Ciarcian</term>») mancasse allo Z di Ramusio come al toledano, e che quindi sia stata tratta da <ref type="witlink" target="#vb-null-38">VB XXXVIII 2</ref> «E lla citade maistra del regno è chiamata <term ref="#ciarcian">Ciarchan</term> […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

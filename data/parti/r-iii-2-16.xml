@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-2-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-2">
+      <note>
+	<p>La pericope è traduzione fedele di P III 4 3-4 «Qui autem incolumes pervenerunt ad insulam fuerunt circiter .XXX. milia; sed quia
+         naves perdiderant et multitudinem sotiorum, et quia vicini erant insule <term ref="#zipangu">Çimpangu</term>, humano eis deficiente presidio morti se proximos extimabant. In insula tamen ad
+         quam pervenerant habitacio nulla erat» (il dettaglio conclusivo manca a VA CXXII 19 «E quelli che schanpàno in tera fono ben trentamilia homeni, ma perché le suo’ nave
+         erano tute rote e perché li chonpagni erano partidi e llì erano chusì vexini a <term ref="#zipangu">Cinpagu</term>, eli se tegnivano tuti per morti»). La natura deserta dell’isola è omessa dal resto
+         della tradizione (tranne VB CXXVII 13 «La giente erano sopra l’ixola, doglioxi del suo infortunio che ben dala fortuna
+         foseno canpati, non in minore pericollo se vedevano, però che nel’isolla desabitata
+         (sença vituallia alchuna o pocha chanpata dale nave) i sse trovavano, né vedeva modo
+         di quella partirsse però che tute le nave loro erano frantumate e rotte: per che iudicavano
+         la fine loro in breve giorni dover essere»): F CLVIII 18 e F CLIX 2 «E ce furent bien .XXXm. homes qe sus ceste isle escanpent. E cesti se tenoient tuit mors et avoient grand
+         doulor por ce qu’il voient qu’il ne poient escanper […]. […] Or sachiés que quant
+         celz .XXXm. homes escanpés estoient sus l’isle, il se tenoient a plus que mort, por ce q’il
+         ne voient e‹n› nulle mainere comant il peusent esca‹n›per. Il avoient grant ire e
+         grant doleur, e ne savoient qe il douessent faire. En tel mainere com je voç di demoroient
+         celz sus l’isle» (e vedi V 81 10 e V 81 12: «[…] onde questi se reputava esser morti, et aveano gran dolor, perché i vedeano
+         non poder schanpar […]. […] Or lasseremo questi e retorneremo a quelli li qual desexe
+         in l’ixolla; che dapuo’ che questi fono suxo l’ixola se reputava esser morti, perché
+         i non vedea algun modo chomo i podesse schanpar; ed aveano sì gran dolore che i non
+         savea quello i dovesse far»); Z 92 30 «Et alii in insula remanentes, qui erant multi, se tanquam mortuos reputabant, ignorando
+         modum per quem, inde secedentes, possent ad salutarem portum venire». L’episodio è
+         omesso da L 143 9-10.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

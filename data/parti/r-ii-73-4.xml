@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-73-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-73">
+      <note>
+	<p>La dipendenza di R da un affine di Z è denunciata dalla presenza della lezione «et
+         di altre sorti di specie» (<ref type="witlink" target="#z-null-88-1-16">Z 88 7</ref> «et diverse maneries specierum»), che è assente nel resto della tradizione, compreso
+         F: vd. <ref type="witlink" target="#f-null-154">F CLIV 5</ref>,<ref type="witlink" target="#l-null-138"> L 138 4</ref>, <ref type="witlink" target="#p-ii-67">P II 67 3</ref>, <ref type="witlink" target="#v-null-78">V 78 2</ref>, <ref type="witlink" target="#vb-null-120">VB CXX 5</ref>. Ramusio innesta sul testo di <ref type="witlink" target="#z-null-88-1-16">Z 88 7</ref> («Nascitur ibi çinçiber et galanga, et diverse maneries specierum ultra modum: nam
+         pro veneto uno groso bene octuaginta libre recentis çinçiberis haberentur») elementi
+         ricavati da <ref type="witlink" target="#p-ii-67">P II 67 3</ref> (P «in copia maxima» ~ R «in gran copia»; P «argenti» ~ R «d’argento»), e da <ref type="witlink" target="#vb-null-120">VB CXX 5</ref> «per tanta moneta che val» ~ R «per una moneta che vaglia». La chiusa della pericope
+         («tanto ve n’è abondanza») parrebbe un’aggiunta dell’editore.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

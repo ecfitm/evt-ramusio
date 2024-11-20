@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-39</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La pericope – la seconda della sequenza (8): vedi la nota a <ref type="witlink" target="#r-iii-20">R III 20 38</ref> – viene dalla traduzione di <ref type="witlink" target="#z-null-107">Z 107 109-111</ref> «Et hoc dominus Marcus vidit in rege. Nam, cum ipse rex cuidam mercatori forensi
+         de certis habitis ab eo satisfacere teneretur, et mercatore pluries requisitus, propter
+         incomodum solutionem multociens terminasset, mercator, quia propter eius agenda dilacio
+         sibi erat nociva, dum quadam die rex spatiando equitaret per terram, statim paratus
+         ipsum regem cum toto equo in terra cum uno circulo circuivit. Quod dum vidit, rex
+         equum suum ulterius non processit nec se movit de loco priusquam fuerit mercatori
+         integraliter satisfactum».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

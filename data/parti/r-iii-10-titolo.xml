@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-10-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-10">
+      <note>
+	<p>F CLXV 2-5 (Ci devise de l’isle de<term ref="#giava"> Java la menor</term>); P III 13 (De insula que dicitur <term ref="#giava">Iana Minor</term>. Capitulum XIII), VA CXXVII (Del’ixolla de <term ref="#giava">Iava menore</term>, dove non se vede la stela tramontana); Z 99 1-9 (De insula <term ref="#giava">Çava Minori</term>); L 150 (De insula <term ref="#giava">Java Minori</term>); V 87 1-6 (Del’ixola de <term ref="#giava">Iana Menor</term>); VB CXXXIV 1-7.</p>
+	<p>La scheda corografica dell’isola di <term ref="#giava">Java la menor</term> si scompone in F CLXV in tre parti: la prima (parr. 2-5), di ordine generale (sulla
+         suddivisione politica dell’isola in otto regni); i parr. 6-8 e 9-17 sono dedicati
+         rispettivamente ai regni di <term ref="#felech">Ferlec </term>e di <term ref="#basma">Basman</term>; seguono quattro capitoli (F CLXVI / F CLXVII / F CLXVIII / F CLXIX) dedicati ad altrettanti regni dell’isola. Lo schema di F – che contraddice la tendenziale
+         logica biunivoca “una scheda-un luogo” che governa la descrizione corografica nel
+         <hi rend="italics">Milione</hi> – è conservato intatto solo da Z: per cui a F CLXV corrisponde Z 99 (tripartito nei
+         parr. 1-9, 10-13 e 14-34) e via di seguito. Gli altri relatori normalizzano il principio
+         biunivoco, e in direzioni opposte: V 87 riunisce tutte le schede relative a <term ref="#giava">Java la menor</term> (F CLXV-CLXIX) in un solo capitolo; VA CXXVII-CXXXIII (e quindi P III 13-19) e L
+         150-156 dedicano un capitolo a ognuna delle sette schede individuate da F (VB CXXXIV racchiude F CLXV 2-5 e F CLXV 6-8; poi la redazione veneziana adotta il modello di VA, P e L: vd. i capp. CXXXV-CXXXIX).</p>
+	<p>Ramusio adotta l’articolazione di P nella sequenza dei capitoli, ma si conserva l’abituale
+         libertà di manovra nella scelta del modello da seguire passo passo: questo capitolo
+         è in effetti costituito, nei primi cinque paragrafi, dalla traduzione letterale di
+         Z 99 1-9, e nell’ultimo (che contiene la ragione “biografica” della scelta poliana
+         di parlare solo di sei degli otto regni) adotta la lezione di P III 13 5.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

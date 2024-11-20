@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-3-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-3">
+      <note>
+	<p>Nella prima parte della pericope («Ogni volta che [...] hanno»), R dipende prevalentemente
+         da <ref type="witlink" target="#p-ii-7">P II 7 1</ref> «Quicumque igitur habet ymagine leonis cum sole et luna in tabula, quando procedit
+         in publicum [R «in publico»], defertur [R «gli viene»] palium super eum in argumentum
+         auctoritatis magne […]» [R «la grande auttorità»]. Altri dettagli («Ogni volta», «cavalcano»,
+         «potere») sono stati ricavati da un’altra fonte, affine a V e, soprattutto, a F:<ref type="witlink" target="#v-null-41"> V 41 6</ref> «[…] et questi che àno questa nobele tavola die’ portar hogni fiada che lor chavalcha
+         uno palio sovra la testa, in segno de gran signoria; e quando lor senta die’ sentar
+         sopra una chatrega d’oro»; <ref type="witlink" target="#f-null-80-4-11">F LXXX 9</ref> «[…] Et cesti qe ont ceste noble table si ont por comandemant qe toutes foies qu’il
+         chevauce doie porter sor son chief un paile en seingnificance de grande seingnorie.
+         Et toutes les foies qe il siet, deit seoir en charere d’arjent […]». Da questa seconda
+         fonte deve essere stata ricavata la parte finale della pericope («et quando […] d’argento»),
+         che manca in P. Non si danno, invece, indizi sicuri di contatti di R anche con <ref type="witlink" target="#l-null-66">L 66 7</ref> «[…] et habentes tam nobilem tabulam habent ex precepto, dum equitant, portare super
+         caput pallium in signum magni dominii et, dum sedent, sedem in argentea cathedra […]».
+         </p>
+	<p>VB e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

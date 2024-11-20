@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-7">
+    <head>
+      <hi rend="bold">P, I 7</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-7_2_1" n="1"> Ut autem ad regis curiam pervenerunt, ingressi ad regem prociderunt cum reverencia
+         maxima coram eo, qui alacriter eos suscipiens iussit ut surgerent et quomodo eis in
+         via fuerat quicque cum summo pontifice egerant enarrarent; quibus cuncta disserentibus
+         et exhibentibus litteras pape <term ref="#gregorio-decimo">Gregorii</term>, rex litteras summi pontificis letanter suscepit et eorum fidelem sollicitudinem
+         commendavit. Oleum autem de lampade sepulcri domini nostri Iesu Christi reverenter
+         accepit et cum honore reponi mandavit. </seg>
+      <seg xml:id="p-i-7_2_2" n="2"> Interro|6c|gavit vero rex de Marcho quis
+         esset et, audito quod filius erat domini Nicolai, ipsum facie leta suscepit, ipsos
+         vero tres inter familiares precipuos suos ac honorabiles computavit, propter quod
+         ab omnibus curialibus in multa reverentia habebantur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

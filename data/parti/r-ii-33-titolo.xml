@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-33-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-33">
+      <note>
+	<p><ref type="witlink" target="#f-null-109-1-5">F CIX 6-12</ref> (Ci devise dou grandisme flum de <term ref="#caracoran">*Caracoron</term>); <ref type="witlink" target="#l-null-89">L 89</ref> (De civitate <term ref="#cacianfu">Cacianfu</term>); <ref type="witlink" target="#p-ii-31">P II 31 5-6</ref> (De fluvio magno <term ref="#caramoran">Caramora</term> et circumadiacente regione), <ref type="witlink" target="#va-null-88">VA LXXXVIII 5-6</ref> (Del fiume de <term ref="#caramoran">Charamoran</term>, dov’è sì gran derada de faxani); <ref type="witlink" target="#v-null-52">V 52 4-6</ref> (Del gran fiume chiamato <term ref="#caramoran">Charchoron</term>); <ref type="witlink" target="#z-null-79">Z 79</ref>.</p>
+	<p>In tutto il capitolo Ramusio si attiene fedelmente alla testimonianza di Z. È oltremodo
+         probabile che anche le parti di R che non si leggono in Z toledano, ma sono conservate
+         da V e F (vd. i parr. 5-6), figurassero originariamente nella fonte ramusiana, il
+         perduto Z1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

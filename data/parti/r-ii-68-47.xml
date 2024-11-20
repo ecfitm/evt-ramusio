@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-47</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Il solo testimone che trasmette una parte delle informazioni contenute nei parr. 47-48
+         è Z. Il resto della tradizione del <hi rend="italics">Milione</hi> omette del tutto questi dettagli. La prima parte del par. 47 («Et veramente […] terra»)
+         ha un preciso parallelo in <ref type="witlink" target="#z-null-85">Z 85 27</ref>: «Et per hunc modum simul gaudendo vadunt homines illi per istum lacum: nam eorum
+         mens et cura nullis aliis est intenta quam ad corporum delectationem et gaudium insimul
+         convivando». Meno evidente – ma ugualmente verosimile – è il rapporto tra il segmento
+         centrale del par. 48 («perché gli habitatori […] piacere») e <ref type="witlink" target="#z-null-85">Z 85 26</ref>: «Et per hunc modum simul gaudendo vadunt homines illi per istum lacum: nam eorum
+         mens et cura nullis aliis est intenta quam ad corporum delectationem et gaudium insimul
+         convivando». La parte rimanente delle due pericopi è trasmessa esclusivamente da R.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

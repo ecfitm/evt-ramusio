@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-13-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-13">
+      <note>
+	<p>Ramusio attinge senz’altro a Z, come dimostra la perfetta rispondenza tra R e <ref type="witlink" target="#z-null-12">Z 12 2</ref> «In isto regno lapides oriuntur nomine turchiese, qui fodiuntur in venis montium;
+         inveniuntur etiam in montibus illis vene calibis et andaniqui in maxima quantitate»,
+         prossimo ma non pedissequo alla meno asciutta lezione di <ref type="witlink" target="#f-null-34">F XXXIV 3</ref> («En cest regne naisent les pieres que l’en apele torchoise, et hi ni a en grant
+         habundance, car il les trevent en les montagnes, car il le escavent dedens la roche.
+         Et encore ont vene d’acier et d’ondanique assés»). Vicino a F è invece <ref type="witlink" target="#l-null-28">L 28 1</ref> («Et in montibus huius regni sunt et inveniuntur lapides preciosi dicti turchese;
+         et habentur in maxima quantitate, quia ipsos de montibus fodiunt. Habent eciam ibi
+         venas calibis andanici in multa quantitate»), mentre <ref type="witlink" target="#p-i-21">P I 21 1</ref>, al solito, tende alla sintesi («<term ref="#chermain">Crerman</term> est civitas ubi turcisci in habundancia reperiuntur in montibus civitatis, ubi etiam
+         mineras habent calibis et andanici») e la copia di V tace.</p>
+	<p>Solo in <ref type="witlink" target="#vb-null-22">VB XXII 2-3</ref> la rigogliosa attività estrattiva dell’acciaio viene messa in diretta relazione con
+         la produzione locale di equipaggiamenti bellici, di cui la restante tradizione (meno
+         Z e V) reca notizia poco oltre: «In questo reame ve naschon la çoia chiamata turchexe:
+         et tròvasene abundantemente e trovase nele montagne. Trovase ecian in quele montagne
+         vena de açalle el mior abia el mondo, per che lì se lavora le mior armadure d’ogni
+         sorta a llor modo che abia tutte quelle provincie».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

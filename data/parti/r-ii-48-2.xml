@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-48-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-48">
+      <note>
+	<p>Le due informazioni si leggono: in <ref type="witlink" target="#p-ii-48">P II 48 2</ref> «Subiecta est dominio <term ref="#gran-can">Magni Kaam</term> et linguam propriam habent […]»; in <ref type="witlink" target="#v-null-61">V 61 7 </ref>«[…] et àno loquella per sí, et sono sotoposta ala signoria del <term ref="#gran-can">Gran Chan</term> […]»; in <ref type="witlink" target="#vb-null-91">VB XCI 2</ref> «[…] et àno lenguaço per si et sotoposti al <term ref="#gran-can">Gran Can</term>» (vd. <ref type="witlink" target="#f-null-128">F CXXVIII 2</ref> «[…] et ont langajes por elz, et sunt au Grant Chan […]»). Omettono il riferimento al dominio del <term ref="#gran-can">Gran Can</term>  <ref type="witlink" target="#l-null-103">L 103 1</ref> «[…] habentes proprium ydeoma […]» e <ref type="witlink" target="#z-null-63">Z 63 1</ref> «[…] et loquelam per se habent». È possibile tuttavia che il perduto Z1 fosse più completo di Z e presentasse tale dettaglio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

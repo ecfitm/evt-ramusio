@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-6-19</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>R anticipa qui informazioni che negli altri relatori sono collocate al termine della
+         descrizione del palazzo del <term ref="#gran-can">Gran Can</term> e del parco che lo circonda (vd. i parr. 20-26). In questo punto Ramusio si è avvalso
+         verosimilmente di due fonti. Una doveva essere affine a <ref type="witlink" target="#p-ii-9">P II 9 9</ref> «Iuxta palatium predictum fecit rex <term ref="#cublai-can">Cublay</term> palatium illi per omnia simile [R «simile in tutto», ma cfr. anche L più avanti]
+         in quo habitat [R «nel qual dimora»] <term ref="#themur">Temur</term>, qui post eum regnaturus est, qui curiam regalem tenet [R «tien corte»] magnificam
+         valde, habetque bullas imperiales et imperiale signum, sigillum non tamen ita integraliter
+         ut <term ref="#gran-can">Kaam</term>». Il secondo modello di R era forse affine a V, ma doveva essere più vicino di questo
+         a F:<ref type="witlink" target="#v-null-41"> V 41 29</ref> «Dapuo’ questo palazo el <term ref="#gran-can">Gran Chan</term> feze far uno simele a quelo per uno suo’ fiol mazor [R «primo figliuolo»] che dovea
+         regnare dapuo’ lui; et insegnòli tuti i muodi e maniere [R «i modi et […] et tutte
+         le maniere»], et aleselo signore dapuo’ la so morte, e dèli tute bolle e sezeli delo
+         inperio chomo propio el padre»; <ref type="witlink" target="#f-null-84">F LXXXIV 2-3</ref> «Et encore voç di que dejouste ceste palais en a fait faire le <term ref="#gran-can">Grant Sire</term> un autre palais senblable au sien, que ne i faille rien. Et ce est fait por ce qe
+         le aie son filz quant el{le} regnara et sera seingnor; et por ce est fait tout en
+         tel mainiere et ausi grant et con tantes murs cum est cel dou <term ref="#gran-can">Grant Kaan</term> qe je voç ai contés desovre. Le fil <term ref="#cingis-can">*Cinchin</term> [R «<term ref="#cingis">*Cingis</term>»], qe je vos nomai desovre, qe doit estre seingnor, et toutes celes maineres et celz
+         costumes [R «i modi et costumi et tutte le maniere»] et celz fait que fait le <term ref="#gran-can">Grant Kan</term> maintenoit et fasoit, por ce q’el est esleu a sire tantost que le <term ref="#gran-can">Grant Kan</term> sera mort. Il ha bien bolle et seel d’e‹n›pire, mes non pas {s}conpliemant come a
+         le <term ref="#gran-can">Gran Sire</term> tant quant il vit». Sono molto tenui gli indizi di contatti con <ref type="witlink" target="#l-null-68">L 68 10</ref> «Non longe vero ab hoc principali pallatio factum est aliud pallatium, eiusdem quantitatis
+         et breviter per totum simile primo, in quo manet primogenitus [R «primo figliuolo»],
+         qui videlicet in imperio debet esse successor».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

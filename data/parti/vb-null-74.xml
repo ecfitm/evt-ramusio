@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-74</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-74">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXIV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-74_1_1" n="1"> ‹P›artendossi dal sopra dito ponte, chaminando per .XXX. miglia, senpre se trova
+         belissimi vignalli e bellissimi chanpi lavoradi e molte abitacione. </seg>
+      <seg xml:id="vb-null-74_1_2" n="2"> E dapo’ se
+         trova <term ref="#cingui">Cingui</term>, nobelle e gran citade, la qual è de idolatri et à molte badie de loro sacerdotti
+         e munexi, i qualli però viveno de marchadantie chome per la maçor parte fano tuti
+         i altri popolli. </seg>
+      <seg xml:id="vb-null-74_1_3" n="3"> Et lavorasse de molti pani de seta e de oro. </seg>
+      <seg xml:id="vb-null-74_1_4" n="4"> È molto abondante
+         de albergi over ostarie a nostro modo per la moltitude de marchadanti e forestieri
+         lì chapitano. </seg>
+      <seg xml:id="vb-null-74_1_5" n="5"> Partendose dala dita citade per 1° miglio se trova do strade: l’una
+         tende verso sirocho, l’altra verso ponente la strada che tende verso sirocho va nela
+         provincia del <term ref="#mangi">Maçin</term>, e la strada che tende ver ponente è dela provincia del <term ref="#cataio">Catay</term>. </seg>
+      <seg xml:id="vb-null-74_1_6" n="6"> E chaminando per dita strada de ponente per la provincia del <term ref="#cataio">Chatay</term>, per .X. çornade, se trova de belle citade et chastelle. </seg>
+      <seg xml:id="vb-null-74_1_7" n="7"> È giente de marchadantie
+         e belli mestieri e contadi belli e ben coltivadi; è tuta gente molto demestiga et
+         da bene.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

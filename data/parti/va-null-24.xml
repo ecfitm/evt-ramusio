@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-24</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-24">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XXIV</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-24_2_1" n="1"> Or ve laserò de questa zitade e sì ve dirò della tramontana, per chontare de quelle
+         provinzie, e ritornerò per una via alla zità de <term ref="#chermain">Chrerina</term>. </seg>
+      <seg xml:id="va-null-24_2_2" n="2"> Lo re <term ref="#ruchmedin-achomach">Ruchomode Diachomach</term>, donde nu ne p[a]rtemo, ed è homo del re de Trerianan. </seg>
+      <seg xml:id="va-null-24_2_3" n="3"> In retornare [de] <term ref="#ormus">Cremoxa</term> a <term ref="#chermain">Chrerina</term> è uno molto bello piano; e g’è grande abondanzia de vituaria. </seg>
+      <seg xml:id="va-null-24_2_4" n="4"> Ed è-ge molti bagni
+         chaldi d’aqua sorzente et è molto boni ala rognia e a molte altre malatie. </seg>
+      <seg xml:id="va-null-24_2_5" n="5"> E truova-se
+         pernixe asai e gran derata de frute e datali. </seg>
+      <seg xml:id="va-null-24_2_6" n="6"> G’è asai del pan del formento, e
+         sì amaro che alchun non ne può manziar s’el nonn è uxato un bon tenpo, e ziò ‹in›contra
+         per le aque de quelle contrà, che sono amare. </seg>
+      <seg xml:id="va-null-24_2_7" n="7"> Or ve voglio dir delle contrade
+         deverso tramontana.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

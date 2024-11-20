@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-28</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-28">
+    <head>
+      <hi rend="bold">P, I 28</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-28_2_1" n="1"> <term ref="#mulehet">Mulete</term> est regio ubi dominabatur princeps quidam pessimus, qui dicebatur <term ref="#vecchio-della-montagna">Senex de Montanis</term>, de quo ego Marchus, que a multis de regione illa audivi, refero. </seg>
+      <seg xml:id="p-i-28_2_2" n="2"> Princeps ille,
+         cum universo populo cui preerat, legis <term ref="#macometto">Machometi</term> sectator erat. </seg>
+      <seg xml:id="p-i-28_2_3" n="3"> Excogitavit autem inauditam maliciam ut homines siccarios et gladiatores
+         audaces efficeret, qui vulgo “<term ref="#assassini">assessini</term>” vocantur, per quorum audaciam quoscumque vellet occideret et ab omnibus timeretur.
+         </seg>
+      <seg xml:id="p-i-28_2_4" n="4"> In valle enim quadam, que circuncluditur altissimis montibus, maximum ac pulcherimum
+         viridarium fecit, ubi |14a| omnium herbarum, florum et fructuum delectabilium erat
+         copia; ibi erant palacia pulcherima, mira varietate depicta et deaurata; ibi fluebant
+         rivi varii et diversi, aque ac vini, mellis ac lactis. Ibi servabantur mulieres iuvenes
+         supra modum decore, que docte erant saltare, citariçare, canere in omni genere musicorum;
+         vestes varias etiam preciosas habebant, miroque apparatu ornate erant: harum erat
+         officium, iuvenes ibi positos in omnibus deliciis et voluptatibus enutrire. Ibi erat
+         vestium, lectorum, victualium omnium desiderabilium copia, de nulla re tristi ibi
+         fiebat relacio, ad nichil aliud nisi iocis obscenitatibus delectabilibus vacare licebat.
+         </seg>
+      <seg xml:id="p-i-28_2_5" n="5"> Erat autem ad introitum viridarii castrum fortissimum quod diligentissime custodiebatur,
+         nec per aliam |14b| viam ad locum illum ingressus esse poterat vel regressus. </seg>
+      <seg xml:id="p-i-28_2_6" n="6">
+         Tenebat autem <term ref="#vecchio-della-montagna">Senex</term> ille – sic enim in lingua nostra vocabatur, sed eius nomen erat <term ref="#aloadin">Alaodim</term> – in suo palacio extra locum illum iuvenculos multos, quos aptos videbat et fortes,
+         et eos faciebat in <term ref="#macometto">Machometi</term> lege nefaria informari: promittit enim infelicissimus <term ref="#macometto">Machometus</term> sectatoribus sue legis quod in vita alia huiusmodi, ut dictum est, delectaciones
+         habebunt. Cum autem volebat aliquos ex iuvenibus facere audacissimos <term ref="#assassini">assessinos</term>, faciebat eis potacionem dari, qua sumpta, statim comprimebantur gravi sopore; tunc
+         deferebantur in viridarium, et post horam modicam, sopore soluto, videntes se tantis
+         interesse deliciis, putabant se gaudiis paradisi perfrui iuxta promissionem abhominabilis
+         <term ref="#macometto">Machometi</term>. |l4c| Post dies aliquot faciebat quos volebat ex ipsis pocione simili soporari,
+         et inde educi: cum autem excitabantur, vehementissime tristabantur, videntes se tanta
+         consolacione privatos. </seg>
+      <seg xml:id="p-i-28_2_7" n="7"> Ille autem tirannus, qui se Dei prophetam esse dicebat,
+         asserebat eis quod si pro eius obediencia morerentur, statim reducerentur illuc, propter
+         quod per ipsius obediencia mori desiderabant; tunc mandabat illis quod illum aut illum
+         virum occiderent et quod non metuerent mortis periculum, quia statim deducerentur
+         ad gloriam; illi autem, omni periculo se exponentes, gaudebant si pro obediencia ipsius
+         mererentur occidi, et siquid mandabat in occisione hominum perficere conabantur. </seg>
+      <seg xml:id="p-i-28_2_8" n="8">
+         Hac arte longo tempore delusit regionem illam, ob quam causam multi potentes et magni,
+         mortis periculum metuentes, effecti sunt illi |14d| tributarii et subiecti.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

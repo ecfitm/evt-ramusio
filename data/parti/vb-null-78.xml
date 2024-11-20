@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-78</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-78">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXVIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-78_1_1" n="1"> ‹C›havalchando dala dita çitade per ponente, per .III. çornade, senpre per la
+         provincia del <term ref="#cataio">Catay</term> e chavalchasse per una grande e bella pianura ben abitada e fornita de molte chastelle
+         et ancho citade; e sono homeni che viveno molto de marchadantie et mestieri et àno
+         gran quantità de seda. </seg>
+      <seg xml:id="vb-null-78_1_2" n="2"> E nel chapo di questo reame alle confine fra <term ref="#cingui">Cingui</term> e <term ref="#cataio">Catay</term> el qual capo de <term ref="#cataio">Catay</term> è grandissimo tenire e grandissime montagne e belle e grandissime valude: et da queste
+         montagne principia la provincia del <term ref="#cataio">Catay</term>. </seg>
+      <seg xml:id="vb-null-78_1_3" n="3"> Et sopra |250r| queste montagne v’è molte citade et chastelli i qual sono <term ref="#idolatri">idolatrii</term>; e questi viveno per la maçor parte del’opera dila tera e del chaçare per la gran
+         moltitude de animalli salvaçi sono in queste montagne. </seg>
+      <seg xml:id="vb-null-78_1_4" n="4"> Dura questo †madier† de
+         montagne per .XX. giornate senpre abitade et ène per tute chastelle e citade.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

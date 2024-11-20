@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-18-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-18">
+      <note>
+	<p>Anche in questo punto, come nella pericope precedente, R dimostra di dipendere da
+         un esemplare prossimo in lezione a <ref type="witlink" target="#f-null-95">F XCV 10</ref> «Et si voç di que plusors foies l’an vienent les merchaant a plusors ensenbles con
+         perles et pieres presieuses, et com or et con arjent et con autres couses, ce sunt
+         dras d’ors et de soie; et cesti mercant toutes de cestes chouses present‹ent› au <term ref="#gran-can">Grant Kaan</term> sire, et le <term ref="#gran-can">Grant Sire</term> fait apeller doçe sajes homes qe sor celes chouses sunt exleu et que mout sunt sajes
+         en ce fare: il lor conmande qu’il regardent celes chouses qe les merchaant ont aportés,
+         et qu’il le faicent paier de ce qe lor senble qe vailent». Gli altri relatori supestiti
+         recano un testo semplificato (P V VB) o omettono del tutto il passo (L): <ref type="witlink" target="#p-ii-21">P II 21 4</ref> «Sepissime vero negotiatores de diversis regionibus venientes <term ref="#cambalu">Cambalu</term> deferunt aurum et argentum, margaritas et lapides pretiosos que omnia rex per suos
+         officiales emi facit […]»; <ref type="witlink" target="#v-null-45">V 45 13</ref> «Et molte et infinite marchadantie vieno in <term ref="#cambalu">Chanbalun</term>: pietre e perle, e drapi d’oro e de seda; et tuti vien aprexentadi al <term ref="#gran-can">Signor</term>, et el <term ref="#gran-can">Gran Chan</term> fano chiamar dodexe savi deputadi a questo et fano che lor varda queste marchadantie,
+         quello che le val»; <ref type="witlink" target="#vb-null-68">VB LXVIII 12</ref> «Et àno questo chostumo: e l’anderà marchadanti con perlle et alltre çoie, con oro
+         et ariento, alla chorte del segnore; e son deputati .XII. homeni savi et inteligenti
+         et vedeno le robe di marchadanti […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

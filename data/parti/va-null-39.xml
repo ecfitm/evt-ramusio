@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-39</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-39">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XXXIX</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-39_2_1" n="1"> <term ref="#carchan">Charchaan</term> è una provinzia che dura ben sete zornade. </seg>
+      <seg xml:id="va-null-39_2_2" n="2"> La zente serva la leze de <term ref="#macometto">Machometo</term> e ’l ge n’è altrosì cristiani nestorini. </seg>
+      <seg xml:id="va-null-39_2_3" n="3"> La tera è sotoposta al nevodo del <term ref="#gran-can">Grande Chaan</term>, del qual e’ ò dito de sopra. </seg>
+      <seg xml:id="va-null-39_2_4" n="4"> El ge n’è abondanzia de tute cosse, ma el non ve
+         n’è niuna altra cossa de meter in questo libro.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

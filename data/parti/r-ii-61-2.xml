@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-61-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-61">
+      <note>
+	<p>Come nella pericope precedente, R si attiene al testo di<ref type="witlink" target="#vb-null-107"> VB CVII 2-3</ref> «Sono <term ref="#idolatri">idolatrii</term> et spendeno moneta di carta del <term ref="#gran-can">Gran Can</term>. Hè locho di gran marchadantie […]» (semplificato rispetto a quello di <ref type="witlink" target="#f-null-144">F CXLIV 3</ref> «Il sunt <term ref="#idolatri">ydres</term> et ont monoie de carte, et sunt au <term ref="#gran-can">Grant Kan</term>. Il vivent de mercandies et d’ars»). Il fatto che il sintagma di VB «del <term ref="#gran-can">Gran Can</term>» non venga ripreso in R potrebbe indicare che Ramusio ha collazionato VB con <ref type="witlink" target="#l-null-119">L 119 2</ref> («H‹uius› gentes sunt <term ref="#idolatri">ydolatre</term>, comburentes corpora mortuorum, habentes eciam ex cartis monetam») o, più probabilmente,
+         con <ref type="witlink" target="#z-null-78">Z 78 2</ref> «Gentes sunt <term ref="#idolatri">ydolatre</term>, monetam expendunt de cartis, vivunt de mercimoniis et artibus». Non si danno invece
+         spie di contatti con V, che appare abbastanza vicino a F: <ref type="witlink" target="#v-null-70">V 70 7</ref> «[…] la zente dela qualle <term ref="#idolatri">adora le idolle</term>; et le lor monede sono de charta, et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>». In P il passo viene omesso.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

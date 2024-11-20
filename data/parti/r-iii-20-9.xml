@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Nella conclusione della sequenza Ramusio adotta la lezione di <ref type="witlink" target="#z-null-107">Z 107 21-22</ref> «Et statim cum finitur mensis aprilis et dimidium madii, finitur illa piscatio, quia
+         non posunt amplius inveniri. Sed transitum fatiunt per trecenta miliaria longe abinde,
+         ubi inveniuntur per totum mensem septembris et dimidium octubris capere nominate»
+         (rielaborazione di F CLXXIII 11 «Or voç avon conté comant se treuvent les perles. E si vos di tout voiremant qe tantost
+         qui est dimi mai ne i se trovent plus de cestes cappares, ce sunt celç la ou i se
+         trovent les perles. E bien est il verité que loingn de ci entor de .IIIc. miles se trouvent, e ce est de setembre jusque a dimi ottubre»). P III 23 9 mantiene la sostanza informativa di F-Z: «A medio vero madii margarite non reperiuntur
+         ibidem, sed in loco alio, qui ab isto per .CCC. miliaria distat, habentur margarite
+         in mari per totum mensem septembris usque ad medium mensis octobris» (giusta VA CXXXVII 15 «[…] e dapo’ inanzi non se truova plui de quelle ostrege in quel colfo, ma da lonzi
+         de llì trexento meglia se ne truova lo setenbre infina mezo otubrio»); si allineano
+         a tale contenuto: L 161 9 «Medio autem madio transacto tales ostrege in dicto culfo nullatenus inveniri possunt;
+         verumtamen longe ab hoc loco circa .CCC. miliaribus inveniuntur, non tamen supradicto
+         tempore, sed per mensem septembris usque ad medium octubris»; V 91 13 «Subito chomo sono la mità del mexe de mazo el non se trovano de queste ostrege;
+         veramente lonzi de qua trexento mia de queste ostrege se trova el mexe de setenbrio
+         fina a mezo hotubrio»; VB CXLIII 13 «Dela qualle peschaxon el re ne chava grandissima utillitade, e da meço maço in avanti
+         non se trova dele dite ostrege, ma più lutano per migia .IIIc. se ne trova perfino al mexe de otobre». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-36-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-36">
+      <note>
+	<p>Traduzione pedissequa di <ref type="witlink" target="#z-null-31">Z 31 6</ref> «Non sunt gentes que de mercimoniis vivant, sed de segetibus quas de terris earum
+         colligunt», che segue da vicino lo svolgimento di <ref type="witlink" target="#f-null-57">F LVII 7</ref> «Il ne sunt jens que vivent de merchandies, mes vivent dou profit des bles qu’il
+         recoient de la tere».</p>
+	<p>Su un testo prossimo a quello toledano pare condotta anche la traduzione di <ref type="witlink" target="#v-null-31">V 31 2</ref> «et nonn è zente che viva de marchadantia ma vive de so semenaxon, che lor archoie
+         deli suo’ tereni»), nella quale il sintagma «de suo’ tereni» potrebbe dipendere da
+         «de terris earum», lezione peculiare di Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-106</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-106">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CVI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-106_1_1" n="1"> Ci devise dou roiaume de <term ref="#tainfu">Taianfu</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-106_2_1" n="1"> Quant l’en a chava‹u›ché .X. jornee puis qu’il est parti de <term ref="#gouza">Giungiu</term>, adon treuve un roiames qui est appellés <term ref="#tainfu">Taianfu</term>. </seg>
+      <seg xml:id="f-null-106_2_2" n="2"> Et chief de la provence ‹est› ceste cité ou nos somes venus, qui est apelés
+         <term ref="#tainfu">Taianfu</term>, que est mout grant et biele, en la quel si fait grant mercandies et grant ars, car
+         en ceste cité se fait grandismes quantités de arnois que beçognent a les hostes dou
+         <term ref="#gran-can">Grant Sire</term>. </seg>
+      <seg xml:id="f-null-106_2_3" n="3"> Ele a maintes belles vignes, des quelz ont vin en grant abondançe. </seg>
+      <seg xml:id="f-null-106_2_4" n="4"> Et en
+         toute la provence do <term ref="#cataio">Catai</term> ne naist vin for que en ceste seulemant, et de ceste ville en vait |48b| por toute
+         la provence. </seg>
+      <seg xml:id="f-null-106_2_5" n="5"> Il hi a encore grandisime quantité de soie, car il ont moriaus et
+         vermes qe funt la soie en grant abundance. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-106_3_1" n="1"> Et quant l’en s’en part de <term ref="#tainfu">Taianfu</term>, il chevauche bien .VII. jornee por ponent de mout belle contree, la u il l’en treuve
+         villes et castiaus aseç, la {u} ou il hi se fait merca‹n›dies et ars asseç et hi a
+         maint merchant qe par moutes pars ‹vont› faisant lor profit. </seg>
+      <seg xml:id="f-null-106_3_2" n="2"> Et quant il a alés
+         .VII. jornee, adonc treuve une cité, qe est apellés <term ref="#pianfu">Pianfu</term>, qe mout est grandissme et de grant vailance, en la quel a mercaanç asez. Il vivent
+         de merchandie et d’ars; il hi se fait soie en grant quantité. </seg>
+    </p>
+    <p n="4"/>
+  </div>
+</body>
+</text>
+     </TEI>

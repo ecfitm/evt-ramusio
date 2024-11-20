@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-29-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-29">
+      <note>
+	<p>L’informazione sulla lingua locale si trova in coda al capitolo in tutta la tradizione,
+         meno che in L e P, dove è anticipata nella parte iniziale: vd. <ref type="witlink" target="#l-null-45">L 45 2</ref> «Hee gentes adorant <term ref="#macometto">Machomet</term>, et habent proprium ydeoma, et sunt mercatores et artiste», <ref type="witlink" target="#p-i-38">P I 38 3</ref> «Homines vero regionis illius linguam propriam habent, negociatores vero et artifices
+         ‹sunt›, multumque discurrunt pro negotiacionibus suis». Alla soluzione di P si ispira
+         Ramusio, che per il resto della pericope ricalca alla lettera <ref type="witlink" target="#z-null-25">Z 25 3</ref> «Habitantes de mercimoniis vivunt et artibus, et specialiter de laborerio bonbicino».</p>
+	<p>Rispetto al dettato della tradizione (<ref type="witlink" target="#f-null-50">F L 4-5 </ref>«Il vivent de mercandies et d’ars; il ont moult biaus jardins et vignes et belles
+         posesion. Il hi naist <term ref="#bambagio">banbaxe</term> aseç», <ref type="witlink" target="#l-null-45">L 45 2-3 </ref>«[…] et sunt mercatores et artiste. Et habent viridaria propria pulchra, et vineas;
+         et nascitur ibi multum <term ref="#bambagio">bombax</term> […]», <ref type="witlink" target="#p-i-38">P I 38 1-2 </ref>«[…] sunt vinee pulcre valde et viridaria multa et possessiones fructifere. Ibi est
+         <term ref="#bambagio">bombicinis</term> copia», <ref type="witlink" target="#v-null-27">V 27 3-4 </ref>«Et questi de ’sta zitade vive de marchadantia, et sono de bele posesion e vigne e
+         zardini, et in quela provinzia nasse <term ref="#bambagio">banbaxo</term> […]», <ref type="witlink" target="#vb-null-33">VB XXXIII 3</ref> «Viveno de marchadantie e mestieri: ànno bellisime vigne e giardini, naseno <term ref="#bambagio">banbasi</term> assai […]»), Z toledano elimina il riferimento agli spazi verdi della zona e il dettaglio
+         sull’abbondanza di <term ref="#bambagio">cotone</term>, ma aggiunge l’informazione sull’artigianato tessile («vivunt […] <hi rend="italics">de laborerio </hi>bonbicino»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

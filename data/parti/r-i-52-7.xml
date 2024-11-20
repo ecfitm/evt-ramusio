@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-52-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-52">
+      <note>
+	<p>Ramusio traduce alla lettera Z 41 10 «Dominium vero christianorum est, quia rex est christianus, licet <term ref="#gran-can">Magno Can</term> sit subiectus; sed multi sunt <term ref="#idolatri">adorantes ydolla</term> et qui legem <term ref="#macometto">Macometi</term> observant», che si differenzia dalla restante tradizione – grosso modo allineata
+         a <ref type="witlink" target="#f-null-73">F LXXIII 12</ref> «La segnorie est a cristiens, ensi con je voç ai dit, mes il hi a <term ref="#idolatri">ydres</term> asez, et homes que adorent <term ref="#macometto">Maomet</term>» – per l’introduzione di un rinvio a quanto detto in esordio sulla fede cristiana
+         delle genti di <term ref="#tenduch">Tenduc</term> («quia rex est christianus, licet <term ref="#gran-can">Magno Cani</term> sit subiectus»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

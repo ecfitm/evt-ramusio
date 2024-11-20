@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-48-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-48">
+      <note>
+	<p>Come nella pericope precedente, Ramusio unisce assieme informazioni ricavate da P,
+         VB e Z. Il debito maggiore è nei confronti di VB. Vd. <ref type="witlink" target="#p-ii-48">P II 48 7-8</ref> «Aurum ibi est in copia maxima. Porcellanas yndicas [R «che vengono d’<term ref="#india">India</term>»], de quibus dictum est supra, loco sue monete expendunt»; <ref type="witlink" target="#vb-null-91">VB XCI 6</ref> «Àno gran quantità de oro e per suo moneta picolla [R «per moneta picciola»] spendeno
+         porcellane; e cossì spendeno le sopra dite do province <term ref="#cingui">Çingui</term> et <term ref="#amu">Anui</term> [R «et cosí spendono le due provincie sopradette di <term ref="#cangigu">Cangigú</term> et <term ref="#amu">Amú</term>»]»;  <ref type="witlink" target="#z-null-63">Z 63 8-10</ref> «Invenitur [R «si trova»] etiam in provincia illa aurum in habundancia. Moneta quam
+         minutim expendunt sunt porcellane, de quibus superius declaratur. Et similiter supradicte
+         provincie Banganla, Cauzugu et <term ref="#amu">Amu</term> expendunt porcellanas et aurum» (vd. <ref type="witlink" target="#f-null-128">F CXXVIII 5-6 </ref>«Il hi se treuve or asez. La monoie qu’il espendent a menue est de porcelaine, en
+         tel mainere com je voç ai contés. Et ausint toutes cestes provences, ce est <term ref="#bangala">Bangala</term> et <term ref="#cangigu">Caugigu</term> et <term ref="#amu">Aniu</term>, espendent or et porcelaine»). È possibile, benché improbabile, che la lezione «si
+         trova» di R possa essere dovuta anche all’influsso di <ref type="witlink" target="#l-null-103">L 103 4-5</ref> «Invenitur in hac provincia multum aurum. Est enim eorum moneta aurum, et porcellanas
+         minutim expendunt, ut superius dictum; similiter faciunt predicte provincie, s‹cilicet›
+         <term ref="#bangala">Bangala</term>, <term ref="#cangigu">Caugigu</term> et <term ref="#amu">Amu</term>». <ref type="witlink" target="#v-null-61">V 61 10</ref> reca una versione abbreviata: «Et in questa provinzia se trova horo in gran quantitade,
+         e le monede le qual se spende a menudo sono porzelane fate chomo avemo dito di sopra».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

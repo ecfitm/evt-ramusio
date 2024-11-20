@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-21</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-21" n="1">
+    <head>
+      <hi rend="bold">R, I 21</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-21_1_1" n="1"> Del <term ref="#vecchio-della-montagna">Vecchio della Montagna</term>, et del palazzo fatto far per lui, et come fu preso et morto. Cap. 21.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-21_2_1" n="1"> Detto di questa contrata, hora dirassi del <term ref="#vecchio-della-montagna">Vecchio della Montagna</term>. </seg>
+      <seg xml:id="r-i-21_2_2" n="2"> <term ref="#mulehet">Mulehet</term> è una con|9r|trada nella qual anticamente soleva stare il <term ref="#vecchio-della-montagna">Vecchio detto della Montagna</term>, perché questo nome di <term ref="#mulehet">Mulehet</term> è come a dire luogo dove stanno li heretici nella lingua saracena; et da detto luogo
+         gl’huomini si chiamano “mulehetici”, cioè “heretici della sua legge”, sí come, appresso
+         li christiani, patarini. </seg>
+      <seg xml:id="r-i-21_2_3" n="3"> La condition di questo <term ref="#vecchio-della-montagna">Vecchio</term> era tale, secondo che messer Marco affermò haver inteso da molte persone: ch’egli
+         havea nome <term ref="#aloadin">Aloadin</term> et era machomettano, et havea fatto far in una bella valle serrata fra duoi monti
+         altissimi un bellissimo giardino, con tutti i frutti et arbori che havea saputo ritrovare,
+         et d’intorno a quelli diversi et varii palazzi et casamenti, adornati di lavori d’oro
+         et di pitture et fornimenti tutti di seda. </seg>
+      <seg xml:id="r-i-21_2_4" n="4"> Quivi per alcuni piccioli canaletti che rispondevan in diverse parti di questi palazzi
+         si vedeva correr vino, latte et melle et acqua chiarissima, et vi havea posto ad habitar
+         donzelle leggiadre et belle, che sapean cantar et sonar d’ogni instrumento et ballar,
+         et sopra tutto ammaestrate a far tutte le carezze et lusinghe agl’huomini che si possin
+         imaginar. </seg>
+      <seg xml:id="r-i-21_2_5" n="5"> Queste donzelle, benissimo vestite d’oro et di seda, si vedevano andar sollazzando
+         di continuo per il giardino et per i palazzi, perché quelle femine che l’attendevano
+         stavan serrate et non si vedevano mai fuori all’aere. </seg>
+      <seg xml:id="r-i-21_2_6" n="6"> Hor questo <term ref="#vecchio-della-montagna">Vecchio</term> havea fabricato questo palazzo per questa causa, che, havendo detto <term ref="#macometto">Macometto</term> che quelli che facevano la sua volontà anderiano nel paradiso, dove troverian tutte
+         le delicie et piaceri del mondo, et donne bellissime, con fiumi di latte et melle,
+         lui voleva dar ad intender ch’egli fosse propheta et compagno di <term ref="#macometto">Macometto</term>, et potesse far andar nel detto paradiso chi egli voleva. </seg>
+      <seg xml:id="r-i-21_2_7" n="7"> Non poteva alcuno intrare in questo giardino, perché alla bocca della valle vi era
+         fatto un castello fortissimo et inespugnabile, et per una strada secreta si poteva
+         andare dentro. [8] Nella sua corte detto <term ref="#vecchio-della-montagna">Vecchio</term> teneva gioveni da 12 fino a 20 anni, che li pareva essere disposti alle armi et audaci
+         et valenti degli habitanti in quelle montagne, et ogni giorno gli predicava di questo
+         giardino di <term ref="#macometto">Macometto</term>, et come lui poteva farli andar dentro. [9] Et quando li pareva faceva dar una bevanda
+         a dieci o dodici de’ detti gioveni, che gli addormentava, et come mezzi morti li faceva
+         portar in diverse camere d’i detti palazzi; et quivi, come si risvegliavano, vedevan
+         tutte le sopradette cose, et a cadauno le donzelle eran intorno cantando, sonando
+         et facendo tutte le carezze et sollazzi che si sapevan imaginare, dandoli cibi et
+         vini delicatissimi, di sorte che quelli, imbriacati da tanti piaceri et dalli fiumicelli
+         di latte et vino che vedevano, pensavano certissimamente essere in paradiso et non
+         si haverian mai voluto partire. [10] Passati quattro o cinque giorni, di novo gli faceva addormentare et portar fuori,
+         et quelli fatti venir alla sua presenza, gli dimandava dove eran stati, quali dicevano:
+         «Per gratia vostra, nel paradiso», et in presenza di tutti raccontavano tutte le cose
+         che haveano vedute, con estremo desiderio et admiratione de chi gli ascoltavano. [11]
+         Et il <term ref="#vecchio-della-montagna">Vecchio</term> gli rispondeva: «Questo è il comandamento del nostro propheta, che chi difende il
+         signor suo gli fa andar in paradiso, et se tu sarai obediente a me tu haverai questa
+         gratia», et con tal parole gli havea cosí inanimati che beato si reputava colui a
+         cui il <term ref="#vecchio-della-montagna">Vecchio</term> comandava che andasse a morire per lui. [12] Di sorte che quanti signori o vero altri che fossero inimici del detto <term ref="#vecchio-della-montagna">Vecchio</term>, con questi seguaci et <term ref="#assassini">assassini</term> erano uccisi, perché niuno temeva la morte, pur che facessero il comandamento et
+         volontà del detto <term ref="#vecchio-della-montagna">Vecchio</term>, et si esponevano ad ogni manifesto pericolo disprezzando la vita presente: et per
+         questa causa era temuto in tutti quei paesi come un tiranno, et havea constituito
+         duoi suoi vicarii, uno alle parti di <term ref="#damasco">Damasco</term>, l’altro in <term ref="#curdistan">Curdistana</term>, che osservavano il medemo ordine con li gioveni che gli mandava; et per grande huomo
+         che si fosse, essendo inimico del detto <term ref="#vecchio-della-montagna">Vecchio</term>, non poteva campare che non fosse ucciso. [13] Era detto <term ref="#vecchio-della-montagna">Vecchio</term> sottoposto alla signoria di <term ref="#ulau">Ulaú</term>, fratello del <term ref="#gran-can">Gran Can</term>, qual, havendo inteso delle sceleratezze di costui (perché oltra le cose sopradette
+         faceva rubbar tutti quelli che passavan per il suo paese), nel 1262 mandò un suo essercito
+         ad assediarlo nel castello, dove stette anni tre che non li poteron far cosa alcuna;
+         al fine, mancandogli le vettovaglie, fu preso et morto, et spianato il castello et
+         il giardino del paradiso.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

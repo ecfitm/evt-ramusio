@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-51</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-51">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 51</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-51_1_1" n="1"> Quando vero ab isto palatio <term ref="#mangalu">Mangalay</term> disceditur, itur tribus dietis per ponentem per multas pulcras planicies, inveniendo
+         semper multas civitates et castra, in quibus sunt multi homines de mercimoniis viventes
+         et artibus. </seg>
+      <seg xml:id="z-null-51_1_2" n="2"> Et habent syricum ut supra. </seg>
+      <seg xml:id="z-null-51_1_3" n="3"> Et sunt civitates per montes et vales,
+         et castra. </seg>
+      <seg xml:id="z-null-51_1_4" n="4"> Gentes vero <term ref="#idolatri">ydolla adorant</term>. </seg>
+      <seg xml:id="z-null-51_1_5" n="5"> Sunt et ibi aliqui turchi christiani Nestoridem sectantes, et aliqui saraceni.
+         </seg>
+      <seg xml:id="z-null-51_1_6" n="6"> Vivunt de laboribus terre, utilitatibus nemorum et venationibus.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

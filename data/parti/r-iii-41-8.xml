@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-41-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>In questa pericope (posticipata in posizione rispetto ai modelli: vedi la nota alla
+         rubrica di <ref type="witlink" target="#r-iii-41">R III 41</ref>) Ramusio muta di modello. <ref type="witlink" target="#p-iii-46-1-6">P III 46 13</ref> legge infatti «Ibi habentur pisces in copia maxima supra modum, et specialiter tunni
+         magni et optimi quos “tunninas” vulgariter nominamus» (versione di VA CLII 18 «El ge n’è pesie asai, spezialmente tonina, e ’l ge n’è sì gran divizia che per un
+         venizian grosso se n’averave do grande»), contro Z 128 12 «Pisces vero habundanter habent, et proprie tunnos; et est tanta copia ibi de ipsis
+         quod pro uno veneto grosso haberentur duo tunni». Oltre a essere del tutto consonante
+         a R, la redazione latina ripete la lezione di  F CXCIV 3 «Il ont poison en grant abondance, e propemant ont tonnes aseç et grant, et hi ni
+         a si grande devicie qe pro un venician gros en auresse .II. granz» (a cui si allinea
+         pure L 184 6 «Pisces et maximos tunnos habent multos, in tantum quod pro uno veneto grosso duo
+         magni haberentur tunni»).</p>
+	<p>Si limitano all’informazione essenziale V 110 5 «I àno pesi in gran quantitade simelli a toni […]», e VB CLXVI 7 «Àno pesi toni in tanta quantità et in tanta derade ch’è chosa mirabelle».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

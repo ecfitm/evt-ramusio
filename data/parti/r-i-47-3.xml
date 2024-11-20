@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-47-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-47">
+      <note>
+	<p>La corruzione del segmento finale della pericope («per migliaio, centenaio et decena»),
+         che accomuna tutta la tradizione, può essere un errore d’archetipo.</p>
+	<p>In F, Fr, R, VB (e Z, dal quale R probabilmente deriva, come suggerisce la quasi perfetta
+         corrispondenza tra R e F) il brano non dà senso: cfr. <ref type="witlink" target="#f-null-69">F LXIX 16</ref> «Et sachiés que les .Cm. est apellé un <term ref="#tuc">tut</term> et les .Xm. un <term ref="#toman">toman</term>, et les …†… por milier et por centener et por desine», <ref type="witlink" target="#vb-null-57">VB LVII 10</ref> «Chiamano in suo lingua .Cm.  homeni 1° <term ref="#tuc">tut</term> e dieçe millia homeni 1° <term ref="#toman">teman</term> et chusì vano desendendo de .X. in diexe», Fr «Et apelent les .CM. un tur et les
+         .X[M.] un comar et les un millier et pour senteneur et pour disieme» (Ménard 2001-2009,
+         II, p. 33). Il passo è omesso in <ref type="witlink" target="#l-null-60">L 60 19</ref> «Et congregatio .Cm. dicitur unum “<term ref="#tuc">tut</term>”, et congregatio .Xm. “<term ref="#toman">thoman</term>”». In TA, V, VA (&gt; P) è soppressa l’intera pericope.</p>
+	<p>Un’ulteriore <hi rend="italics">faute</hi> della versione ramusiana risiede nell’impropria spiegazione delle voci orientali
+         <term ref="#tuc">tuc</term> e <term ref="#toman">toman</term>, che secondo il dettato della tradizione significano rispettivamente “centomila”
+         e “diecimila”, e qui valgono “cento” e “dieci” (forse per caduta, nel modello, dell’esponente
+         indicatore delle migliaia).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

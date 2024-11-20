@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-75</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-75">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, LXXV</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-75_2_1" n="1"> El <term ref="#gran-can">Grande Chaan</term> à do baroni che sono fradeli charnali: l’uno à nome <term ref="#bayan">Chaian</term> e l’altro <term ref="#mingan">Ningri</term>. </seg>
+      <seg xml:id="va-null-75_2_2" n="2"> Èno apellati civiti, zioè a dir in nostra lingua “queli che tien i chani mastini”. </seg>
+      <seg xml:id="va-null-75_2_3" n="3"> Zaschadun de questi
+         do fradelli à soto si diexemilia omeni, e sono tuti vestidi i diexemilia de biancho
+         e i diexemilia de vermeglio, e quando i vano ala chaza del <term ref="#gran-can">Gran Segnior</term>, si portano quelle vestimente chon si. </seg>
+      <seg xml:id="va-null-75_2_4" n="4"> E in questi vintimilia è ben quatromilia
+         homeni li qual à zaschuno grandi mastini, dui al plui. </seg>
+      <seg xml:id="va-null-75_2_5" n="5"> E quando el <term ref="#gran-can">Gran Chaan</term> va ala chaza, questi do baroni menano siego tuta quella zente chon quella gran moltitudine
+         de chani. </seg>
+      <seg xml:id="va-null-75_2_6" n="6"> Lo segnior e i suo’ baroni stano in mezo ala chanpagnia grande, là o’
+         se fa questa chaza, e dal’uno lato è uno de quelli baroni chon i suo’ diexemillia
+         e chon li suo’ chani, e dal’altro lato è l’altro chon li suo’ homeni e chani; e tuti
+         se meteno in schiera l’uno un puocho lonzi dal’altro, sì che la schiera è longa vexino
+         de una zornata. </seg>
+      <seg xml:id="va-null-75_2_7" n="7"> E poi, quando aràno prexo tanto tereno chomo i par, sì se moveno
+         alla chaza vigniando tuti versso el segnior; |37v| et truovano molte bestie salvadege,
+         e nesuna pò schanpar che non sia prexa, e se ne schanpa sono poche. </seg>
+      <seg xml:id="va-null-75_2_8" n="8"> E questa è
+         molto bella cossa a veder.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

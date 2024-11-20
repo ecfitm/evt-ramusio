@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-44-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-44">
+      <note>
+	<p>La pericope dipende da <ref type="witlink" target="#p-i-54">P I 54 2</ref> «[…] Quando autem corpus <term ref="#mongu-can">Manguth Kaam</term> delatum fuit ad montem, milites qui ducebant corpus ultra .XX. milia hominum occasione{m}
+         predicta{m} occiderunt». R se ne distanzia solo per una discrepanza nel dato numerico
+         (facilmente derubricabile a <hi rend="italics">faute</hi> paleografica: <hi rend="italics">X </hi>pro <hi rend="italics">XX</hi>) e per l’amplificazione parafrastica – «havendo questa scelerata et ostinata persuasione»
+         (cioè, la convinzione dell’efficacia ultraterrena degli omicidi rituali) – del secco
+         sintagma di P «occasione predicta» “per la sopradetta ragione” (<hi rend="italics">occasio</hi> traduce <hi rend="italics">chaxion </hi>di <ref type="witlink" target="#va-null-53">VA LIII 8</ref> «Per questa chaxion […]»).</p>
+	<p>Lo stesso contenuto informativo si trova in <ref type="witlink" target="#f-null-68">F LXVIII 7</ref> «Et sachiés que quant <term ref="#mongu-can">Mongu Chan</term> morut, plus de .XXm. homes furent occis qe encontrent le cors quant il se portoit a sevelir»; <ref type="witlink" target="#l-null-59">L 59 4</ref> «In morte vero Mongu Mongihu Kanis, dum ad sepulturam portaretur corpus, plus quam .XXm. hominum in itinere occiderunt»; <ref type="witlink" target="#v-null-36">V 36 4</ref> «Et quando <term ref="#mongul">*Magon</term> morì, et ch’el fo portato a sopelire, tuti quelli che furono schontrati fue morti».
+         Non di un omicidio, ma di un suicidio riferisce, impropriamente, <ref type="witlink" target="#vb-null-55">VB LV 5</ref> «E quando Mangu Can morite, nel tenpo del qualle io me trovai, più de .XX. millia persone se alciseno
+         se medemi per andare a servire el so segnore nel chamino portendo el corpo suo a sepelire».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

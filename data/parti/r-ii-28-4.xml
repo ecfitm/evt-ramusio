@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-28-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-28">
+      <note>
+	<p>Ramusio dipende per tutto il paragrafo da Z, come si evince, oltre che da una serie
+         di affinità formali, dalla variante «che dalla città di <term ref="#gouza">Gouza</term> fino al regno di <term ref="#tainfu">Tainfu</term><hi rend="italics">» </hi>e dal riferimento alla produzione di seta, che isolano i due testimoni dal resto della
+         tradizione: <ref type="witlink" target="#z-null-47">Z 47 6</ref> «Et noveritis quod a civitate <term ref="#gouza">Çonçu</term> usque ad regnum <term ref="#tainfu">Tayanfu</term> equitatur per provinciam <term ref="#cataio">Cathay</term> .X. dietis, semper inveniendo multas pulcras civitates et castra de magnis artibus
+         et mercimoniis munitas, et inveniendo vineas et campos, in quibus multum nascitur
+         syricum». Si noterà che in R l’ultima informazione è caratterizzata da una maggiore
+         ricchezza di particolari. L’accenno alla produzione di vino («perché in quella [...]
+         vino»), che compare nel solo R, rappresenta con ogni probabilità un’innovazione di
+         Ramusio, che anticipa qui un dettaglio che in tutte le sue fonti e anche in F è collocato
+         nel capitolo di <term ref="#tainfu">Tainfu</term> (<ref type="witlink" target="#r-ii-29">R II 29</ref>): cfr. <ref type="witlink" target="#l-null-85">L 85 3</ref> «[…] qua itur versus provinciam de <term ref="#cataio">Chatay</term> bene .X. dietis versus occidens, continue per pulcras civitates et domestica loca,
+         et per pulcros agros et vineas» / <ref type="witlink" target="#l-null-86">L 86 3</ref> «[…] in nulla enim provincia de <term ref="#cataio">Chatai</term> nisi in hac nascitur vinum»; <ref type="witlink" target="#p-ii-28">P II 28 6-7</ref> «Per provinciam autem <term ref="#cataio">Cathay</term> itur per plagam illam per dietas decem, continueque reperiuntur civitates et castra
+         ubi agri multi optimi sunt et viridaria pulcra valde. Multique negotiatores ibi sunt
+         et artifices» / <ref type="witlink" target="#p-ii-29">P II 29 1</ref> «[…] in tota enim provincia <term ref="#cataio">Cathay</term> vinum non crescit, sed de hac regione defertur illuc»; <ref type="witlink" target="#v-null-50">V 50 9</ref> «Et sapié chi chavalcha per ponente per la provinzia del <term ref="#cataio">Chataio</term> ben diexe zornade senpre va trovando belle zità e chastelli, che in quelle sono de
+         gran marchadantie, ed ezian vigne e chanpi […]» / <ref type="witlink" target="#v-null-51">V 51 3</ref> «[…] et in tuta quella provinzia non se trova vin se no sollamente in questa zitade,
+         et tiene tuta la provinzia abondanzia»; <ref type="witlink" target="#vb-null-74">VB LXXIV 6-7</ref> «E chaminando per dita strada de ponente per la provincia del <term ref="#cataio">Chatay</term>, per .X. çornade, se trova de belle citade et chastelle. È giente de marchadantie
+         e belli mestieri e contadi belli e ben coltivadi […]» / <ref type="witlink" target="#vb-null-75">VB LXXV 4</ref> «[…] né in alltra provincia sotoposta al <term ref="#gran-can">Gran Chane</term> non nase vino ‹se non› in questa et de questa se ne porta nelle alltre provincie»;
+         <ref type="witlink" target="#f-null-105">F CV 6</ref> «Et sachiés tout voiremant qe l’en chevauche por ponent por la provence dou <term ref="#cataio">Catai</term> bien .X. jornee, et toutes foies treuve l’en maintes belles cités et maint biaus
+         chastiaus, de grant mercandies et de grant ars, et biaus chans et bielles vingnes
+         […]» / <ref type="witlink" target="#f-null-106">F CVI 5</ref> «Et en toute la provence do <term ref="#cataio">Catai</term> ne naist vin for que en ceste seulemant, et de ceste ville en vait por toute la provence»
+         (in <ref type="witlink" target="#z-null-48-1-6">Z 48</ref> tale dettaglio è omesso).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

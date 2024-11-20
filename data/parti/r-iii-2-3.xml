@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-2-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-2">
+      <note>
+	<p>La pericope ripete Z 92 4-6 «Habent aurum in maxima habundantia, quia ibi invenitur aurum ultra modum. Et nullus
+         homo aurum de insula illa trahit, quia quasi nullus mercator vel alius de terra firma
+         partem illam frequentat. Et ideo habent tantum aurum». Z traduce fedelmente F CLVIII 4-5 «Et si voç di qu’il ont or en grandismes abondance, por ce qe le or hi se trovent
+         outre mesure. Et si voç di qe nulz home ne trait ‹or› hor de celle ysle, por ce que
+         nulz merchant ne autre home hi ala de la tere ferme. Et por ce voç di qu’il ont tant
+         or con jeo voç ai dit»; il testo di F-Z non prevede allusioni al potere inibente del
+         sovrano, che è dettaglio ricavato da P III 2 4 «Ibi est aurum in copia maxima, sed rex non de facili eum extra insulam asportari
+         permittit, propter quod mercatores pauci vadunt illuc et naves raro illuc ducuntur
+         de regionibus aliis» (il dettaglio è invenzione di Pipino, che trova un modesto appoggio
+         creativo in VA CXXII 3 «El ge n’è oro oltra mexura, e niuno non pò portar de quel’oro fuora de quella ixolla,
+         e perziò g’è puochi merchadanti e puoche nave de teraferma».</p>
+	<p>Gli altri relatori. Inverte gli elementi L 143 3-4 «Et est hec insularum ditissima, ad quam nulli ex terra accedunt mercatores. Adest
+         ibi aurum in maxima quantitate: ex ipso enim nemo trahere ausus est»; segue sostanzialmente
+         la lezione di F V 81 2 «Et àno horo in gran abondanzia, perché in questa sono horo holtra muodo; et algun
+         homo non trà horo de quella ixolla, perché alguna marchadantia de teraferma in questa
+         ixolla non valle, per esser quella abondante d’ogni chossa: e però i àno tanto horo
+         ch’el è una chossa meraveioxa», presenta una qualche affinità con VA-P VB CXXVII 3 «In questa issolla è oro assai, né quello fora del’ixola fi lasato portare soto gran
+         pene né ecian lì chapita merchadanti che l’abia a portar fuori, e però è abondantissima
+         de oro».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

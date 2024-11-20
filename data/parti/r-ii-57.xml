@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-57</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-57" n="1">
+    <head>
+      <hi rend="bold">R, II 57</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-57_1_1" n="1"> Della città di <term ref="#paughin">Paughin</term>. Cap. 57.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-57_2_1" n="1"> Hor, partendosi da <term ref="#coiganzu">Coiganzu</term>, si cammina verso <term ref="#sirocco">sirocco</term> una giornata per un terraglio ch’è nel’entrar di <term ref="#mangi">Mangi</term>, fatto di belle pietre, et appresso questo terraglio da un lato et dall’altro vi
+         sono paludi grandissime con acqua profonda, per la quale si puol navigar: né per altra
+         strada si puol entrare in detta provincia se non per questo terraglio, salvo se non
+         vi s’entrasse con navi, come fece il capitano del <term ref="#gran-can">Gran Can</term>, che vi smontò con tutto l’essercito. </seg>
+      <seg xml:id="r-ii-57_2_2" n="2"> In capo di detta giornata si trova una città detta <term ref="#paughin">Paughin</term>, grande et bella. </seg>
+      <seg xml:id="r-ii-57_2_3" n="3"> Le genti <term ref="#idolatri">adorano gli idoli</term>; abbrucciano i corpi morti; hanno moneta di carte et sono sotto il <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-ii-57_2_4" n="4"> Vivono di mercantie et mestieri: hanno seda assai et fanno panno d’oro et di seda
+         in quantità, et è abondante di tutte le cose da vivere.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

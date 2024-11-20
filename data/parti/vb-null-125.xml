@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-125</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-125">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, CXXV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-125_1_1" n="1"> ‹Ò›ve contado de .III. reami della provincia del <term ref="#mangi">Mangi</term> chome sopra avete udito; resta a descriver dei alltri .VI., di qual per ora non dellibero
+         parlarni ma risservar a parllarni in alltra parte. </seg>
+      <seg xml:id="vb-null-125_1_2" n="2"> Narerò adoncha dele Indie Maçor e Menor e Meçana, le qual parte al iudicio mio nonn è da tacere, però che in quelle sono meraveioxe
+         et belle chose et degne da farne memoria. </seg>
+      <seg xml:id="vb-null-125_1_3" n="3"> E perché in quelle io, Marcho, son statto
+         e vist’òne tanto quanto mai homo latino vedesse, desidero vegnir a quelle. </seg>
+      <seg xml:id="vb-null-125_1_4" n="4"> E benché
+         io non dubita che ai auditori molte chosse parerano incredibelle e forsi fuora de
+         verità per la gran deverssità de chostumi e ssiti de’ luogi da questi nostri, tamen
+         io testemonio et affermovi tuto esser veritevelle, né crediate esserne mençogna alchuna,
+         le qual cognoscho e çudego seria dite con mio inchargo et non con alchuna mia laude.
+         </seg>
+      <seg xml:id="vb-null-125_1_5" n="5"> E però con paura io vignerò a naracion de quelle, cognossendo che, per la gran
+         deversità delle cosse e meraveiose ò a dire, apena le firà crete et da molti io firò
+         chanoniado de me‹n›çogne; le qual io ve affermo per la maor parte con i proprii ochi
+         aver viste, el resto da omeni de reputacion et per la soa vita veritevelli aver intexo:
+         e però vegnirò a naracion di quelle in questa segonda parte de questo libro.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

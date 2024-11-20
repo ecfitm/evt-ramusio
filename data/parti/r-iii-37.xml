@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-37</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-37" n="1">
+    <head>
+      <hi rend="bold">R, III 37</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-37_1_1" n="1"> Dell’isola di <term ref="#zenzibar">Zenzibar</term>. Cap. 37.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-37_2_1" n="1"> Dapoi questa di <term ref="#magastar">Magastar</term>, si trova quella di <term ref="#zenzibar">Zenzibar</term>, la qual, per quel che se intese, volge a torno duomila miglia. </seg>
+      <seg xml:id="r-iii-37_2_2" n="2"> Gli habitatori <term ref="#idolatri">adorano gl’idoli</term>, hanno favella da sua posta, et non rendono tributo ad alcuno. </seg>
+      <seg xml:id="r-iii-37_2_3" n="3"> Hanno il corpo grosso, ma la lunghezza di quello non corrisponde alla grossezza secondo
+         saria conveniente, perché, se la fosse correspondente, pareriano giganti. </seg>
+      <seg xml:id="r-iii-37_2_4" n="4"> Sono nondimeno molto forti et robusti, et un solo porta tanto carico quanto fariano
+         quattro di noi altri, et mangiano per cinque. </seg>
+      <seg xml:id="r-iii-37_2_5" n="5"> Sono neri et vanno nudi, si coprono la natura con un drappo, et hanno li capelli
+         cosí crespi che a pena con l’acqua si possono distendere, hanno la bocca molto grande,
+         et il naso elevato in suso verso il fronte, le orecchie grandi, et gli occhi grossi
+         et spaventevoli, che pareno demonii infernali. </seg>
+      <seg xml:id="r-iii-37_2_6" n="6"> Le femmine similmente sono brutte, la bocca grande, il naso grosso et gli occhi,
+         ma le mani sono fuor di misura grosse, le tette grossissime. </seg>
+      <seg xml:id="r-iii-37_2_7" n="7"> Mangiano carne, latte, risi, <term ref="#dattalo">dattali</term>; non hanno vigne, ma fanno vino di risi con zucchero et di alcune lor delicate specie,
+         ch’è molto buono al gusto et imbriaca come fa quel di uva. [8] Vi nascono in detta isola infiniti elefanti, et d’i denti ne fanno gran mercantia;
+         delli quali elefanti non voglio restare di dire che, quando il maschio vuol giacere
+         con la femmina, cava una fossa in terra quanto conveniente li pare, et in quella distende
+         la femmina con il corpo in suso a modo d’una donna, perché la natura della femmina
+         è molto verso il ventre, et poi il maschio vi monta sopra come fa l’huomo. [9] Hanno delle giraffe, ch’è bel animale a vederlo: il busto suo è assai giusto, le
+         gambe davanti lunghe et alte, quelle da drieto basse, il collo molto lungo, la testa
+         piccola; et è quieto animale; tutta la persona è bianca et vermiglia a rodelle; giungeria
+         alto con la testa passa tre. [10] Hanno montoni molto differenti dalli nostri, perché sono tutti bianchi, eccetto il
+         capo ch’è negro; et cosí sono fatti tutti i cani di detta isola, et cosí l’altre bestie
+         sono dissimili dalle nostre. [11] Vi vengono molte navi con mercantie, quali barattano con quelle della detta isola,
+         et sopra l’altre con li denti di elefanti et con <term ref="#ambracano">ambracano</term>, che gran copia ne trovano sopra i lidi dell’isola, per esservi in quei mari assai
+         balene. [12] Alcune fiate li signori di questa isola vengono fra loro alla guerra, et gli habitanti
+         sono franchi combattitori et valorosi in battaglia, perché non temono morire. [13] Non hanno cavalli, ma combattono sopra elefanti et cameli, sopra i quali fanno castelli,
+         et in quelli vi stanno quindeci o venti, con spade, lanze et pietre; et a questo modo
+         combattono, et quando vogliono entrare in battaglia danno ‹a› bere del suo vino agli
+         elefanti, perché dicono che quello li fa piú gagliardi et furiosi nel combattere.
+         </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

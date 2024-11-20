@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-92</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Oltre a R, solo <ref type="witlink" target="#z-null-85">Z 85 59</ref> trasmette tale dettaglio: «Item in provincia <term ref="#mangi">Mançi</term> quasi omnes gentes pauperes et egene filios vendunt et filias aliis divitibus et
+         nobilibus, ut pro eorum precio se valeant substinere, et filii cum illis uberius habeant
+         unde vivant».</p>
+	<p>Giova osservare che R non riporta nella parte finale del capitolo l’episodio del ritrovamento
+         del pesce gigante durante l’assedio della città da parte di <term ref="#chinsanbaian">Baian</term> che si legge in <ref type="witlink" target="#z-null-85">Z 85 62-66</ref>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

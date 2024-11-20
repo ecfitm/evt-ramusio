@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-38</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-38">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XXXVIII </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-38_1_1" n="1"> <term ref="#ciarcian">‹C›iarchan</term> è provincia dela <term ref="#gran-turchia">Gran Turchia</term> et è fra griego e llevante e i abitanti adorano <term ref="#macometto">Machometo</term> et à citade et chastelli assai sotto si. </seg>
+      <seg xml:id="vb-null-38_1_2" n="2"> E lla citade maistra del regno è chiamata
+         <term ref="#ciarcian">Ciarchan</term> et iv’è uno fiume che mena i aspi et chalcedoni; e pòrtassene a vender a <term ref="#cataio">Chataio</term> e fasene gran marchadantia. </seg>
+      <seg xml:id="vb-null-38_1_3" n="3"> Et è questa provincia quaxi tuta sabionoxa e per
+         simel fina a .II. alltre provincie sono sabionoxe. </seg>
+      <seg xml:id="vb-null-38_1_4" n="4"> Trovase amare e triste aque
+         et poche ve sono de bone. </seg>
+      <seg xml:id="vb-null-38_1_5" n="5"> Ochorendo che alchun oste pasa per suo’ contrate, subito
+         tuti con i llor figiuolli, moglie e bestiame fucino per l’arena alla longa per tre
+         giornate; e per i venti che molto lì spira, subito copre le pedege per modo che quando
+         l’oste giunge, non trovando alchuno, non sano dove né in che parte i ssiano fugiti.
+         </seg>
+      <seg xml:id="vb-null-38_1_6" n="6"> Partendosi da <term ref="#ciarcian">Ciarchan</term> per giornate v senpre se chamina per arena e senpre se trova aque amarissime e poche
+         de dolçe: e chiamase questo diserto <term ref="#lop">Lopo</term>. </seg>
+      <seg xml:id="vb-null-38_1_7" n="7"> In chapo de .V. giornate se trova una cità dove se prendono refreschamento de
+         tute vitualie per i senestri se receve nel diserto.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

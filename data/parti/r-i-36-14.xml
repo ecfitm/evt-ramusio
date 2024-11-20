@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-36-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-36">
+      <note>
+	<p>In accordo con la struttura di P, Ramusio colloca questo passo in coda alla digressione
+         sulle usanze funebri di <term ref="#sachion">Sachion</term>. Il dettato della pericope corrisponde però, nella sostanza, a <ref type="witlink" target="#vb-null-40">VB XL 9-11</ref> «Et quando i fano portar el corpo al luogo dove el de’ fir arso, i fano far per la
+         via in più parte alchune chasele de legname e falle coprire dei più richi pani de
+         seta et oro i pono; e quando quei portano el corpo, quando i giongeno a chaduna de
+         queste chasele, i metono el corpo in quele. E quivi sono aparechiate molte et delichate
+         vivande le qual tute fino butate davanti el corpo: et chusì fano in chadauna chaxella
+         fate nella via, fino i sono gionti al luogo dove se de’ arder el corpo. E tengono
+         per opinione che tante vivande nel’altro mondo firà apresentate a l’anema del morto».</p>
+	<p>Da P dipendono probabilmente un paio di sviluppi: la frase esordiale («Et dovendosi
+         abbrucciar fuori della città» = <ref type="witlink" target="#p-i-45">P I 45 6</ref> «Cum autem extra civitatem vel opidum ad comburendum effertur […]») e la conclusione,
+         dove l’eccentrico <hi rend="italics">ajout</hi> («havendo per opinione che ’l spirito del morto si restauri alquanto et pigli vigore,
+         dovendo esser presente a veder abbrucciare il corpo») è forse una fioritura spuria
+         di Ramusio, generata dall’erronea interpretazione dell’inf. <hi rend="italics">receptari</hi> di <ref type="witlink" target="#p-i-45">P I 45 6</ref> «dicentes defunctum illum, cum tali prandio, in vita alia receptari», inteso come
+         “ristorarsi, rifocillarsi”, e non nell'accezione corretta di “essere ricevuto”. Anche
+         l’inedito riferimento alla struttura porticata delle capanne («alcune casette de legname
+         <hi rend="italics">con il suo portico</hi>») potrebbe dipendere dall’esemplare di P utilizzato da Ramusio, che forse conservava
+         la lezione peculiare di <ref type="witlink" target="#va-null-54">VA LIV 13</ref> «chapane <hi rend="italics">de pertege</hi>» &gt; P *<hi rend="italics">de perticis</hi>, eventualmente frainteso dal compilatore in *<hi rend="italics">de porticis</hi> o sim. e tradotto di conseguenza.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

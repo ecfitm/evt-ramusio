@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-73-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-73">
+      <note>
+	<p>Benché la lezione dei relatori si presenti complessivamente stabile (vd. <ref type="witlink" target="#p-ii-67">P II 67 6</ref> «Quando ad bella procedunt quilibet sibi in fronte cum ferro calido signum imprimit;
+         nullus eorum eques vadit ad prelium nisi dux exercitus; lanceis utuntur et spatis
+         […]»; <ref type="witlink" target="#l-null-138">L 138 6</ref> «Quicumque ex hiis gentibus vitam ferunt in armis; ut ab aliis cognoscantur, ex açuro
+         formam ferri lancee in eorum depingunt frontibus, tonduntque capillos in eorum exercitibus
+         omnes excepto eorum capitaneo. Pedes incedunt portantque lanceas et enses»; <ref type="witlink" target="#v-null-78">V 78 4</ref> «Li omeni li qualli vano in lo exerzito se fano chonzar in questa forma: i se fano
+         i chavelli fina ale rechie, e sì se fano depenzer el vixo azuro; et tuti vano a pè
+         fuora el chapetanio; et quelli portano lanze e spade […]»; <ref type="witlink" target="#vb-null-120">VB CXX 8-10</ref> «Questi sono homeni crudellissimi, et quando vano in oste i se fano tondere i chapelli
+         et fanose inpingere tuto el volto de açuro fino, et sono valenti homeni. Et tuti vano
+         in hoste a pie’: sollo el suo capitano va a chavallo. Non àno alltra arma che la spada
+         e la lança»), possiamo affermare con un buon margine di sicurezza che il testo base
+         di questa pericope è stato fornito a Ramusio da un collaterale di Z (che, del resto,
+         risulta qui estremamente prossimo a <ref type="witlink" target="#f-null-154">F CLIV 7-8</ref>): vd. <ref type="witlink" target="#z-null-88-1-16">Z 88 13-14</ref> «Homines vero qui ad exercitum pergunt, qui sunt pro armis, faciunt se tundere capilos
+         usque ad auriculas [R «si fanno levar i capelli fino all’orecchie», ma vd. anche <ref type="witlink" target="#v-null-78">V 78 4</ref> «fina ale rechie»] et in vultu faciunt se depingere cum açuro [R «et dipingere la
+         faccia con color azzurro»]; et omnes incedunt pedites [R «et tutti vanno a piedi»],
+         excepto capetaneo [R «eccetto che ’l capitano» (ma vd. anche <ref type="witlink" target="#l-null-138">L 138 6</ref> «excepto eorum capitaneo»] eorum. Portant lanceas et enses […]»). Sul testo di Z
+         vengono innestate alcune espressioni ricavate da VB: <ref type="witlink" target="#vb-null-120">VB CXX 6</ref> «de açuro fino» (R «con color azzurro finissimo»), <ref type="witlink" target="#vb-null-120">VB CXX 9</ref> «sollo el suo capitano va <hi rend="italics">a chavallo</hi>» (R «eccetto che ’l capitano <hi rend="italics">a cavallo</hi>»). L’anticipazione della frase «portano lanze et spade» costituisce una <hi rend="italics">lectio singularis </hi>di R.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

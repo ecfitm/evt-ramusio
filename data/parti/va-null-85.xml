@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-85</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-85">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, LXXXV</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-85_2_1" n="1"> Dapoi che ss’è partido da <term ref="#gouza">Grogin</term>, chavalcha diexe zornade e ’l truova uno regniame ch’è apellato <term ref="#tainfu">Tainifu</term> in chavo della provinzia. </seg>
+      <seg xml:id="va-null-85_2_2" n="2"> Et è regniame grando e bello, e sì se fa grande marchadantie
+         e arte; e fa-sege gran quantità d’arme per l’oste del <term ref="#gran-can">Gran Chaan</term>. </seg>
+      <seg xml:id="va-null-85_2_3" n="3"> Sì n’è vignie e vino asai. </seg>
+      <seg xml:id="va-null-85_2_4" n="4"> In tuta la provinzia de <term ref="#cataio">Chatai</term> nonn nasie vino se non in questa chontrà, e de llì se porta per tuta la provinzia.
+         </seg>
+      <seg xml:id="va-null-85_2_5" n="5"> El ge n’è seda in grande abondanzia et è-ne molti morari a chaxion de’ vermi che
+         fano la seda.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

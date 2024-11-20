@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-39-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>In questa pericope Ramusio torna sulla lezione di <ref type="witlink" target="#p-iii-43-1">P III 43 6</ref> «[…] postmodum se transtulit ad regnum <term ref="#malabar">Maabar</term> ubi post multorum conversionem fuit martirio coronatus, ubi etiam eius corpus sanctissimum
+         requiescit sicut superius dictum est» (versione di VA CLI 7 «[…], e poi andò alla provinzia de <term ref="#malabar">Maabar</term>, là dove el fo martorizià, er llà ove è el suo corpo chussì chome ò dito de sopra»).
+         Solo VA-P parlano esplicitamente del “martirio”; gli altri relatori si allineano al
+         verbo “morire” attestato in F CXCII 4 «[…] e, depuis qu’il ot converti de ceste jens, il s’en ala a <term ref="#malabar">Mabar</term>, la ou il fo mors et est le cors sien, ensi com nos voç avon contés en nostre livre
+         en ariere»: vedi L 180 2 «[…] postea vero, ad <term ref="#india">Maiorem Indiam</term> se transferens, in provincia <term ref="#malabar">Mahabar</term> mortuus est – ubi, ut iam diximus, manet corpus eius»; V 108 6 «[…] et quando l’ave chonvertida questa zente l’andò in <term ref="#malabar">Mabat</term>, là dove fu morto»; VB CLXIII 7 «[…] dapoi l’andò ad abitar in <term ref="#malabar">Maabar</term>, dove – chome prima disi – el fo morto e llì è sepellito».</p>
+	<p>Z 126 9 tace il contenuto di questa pericope (per le ragioni indicate nella nota a <ref type="witlink" target="#r-iii-39">R III 39 6</ref>).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

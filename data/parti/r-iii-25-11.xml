@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-25-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-25">
+      <note>
+	<p>Ramusio ha utilizzato <ref type="witlink" target="#z-null-113">Z 113 27</ref> «Habent preterea habundanter de omnibus humano corpori uportunis, segetibus ecceptis:
+         nam nisi risum ‹non› habent».</p>
+	<p>La lezione di P III 31 9 «[…] de victualibus ceteris est inopia magna» (il riferimento al grano è anticipato
+         – vedi la nota a <ref type="witlink" target="#r-iii-25">R III 25 10</ref>) rinvia a VA CXLI 16 «[…] et è tute cosse devixate dale nostre da viver, e ’l n’è gran merchato da viver»;
+         entrambe (come L 166 14 «Ex omnibus victui necessariis habundanter habent», e VB CXLIX 19 «Àno abondancia de tute chosse per lor vivere») abbreviano un testo originale che
+         doveva corrispondere a F CLXXIX 8 «Des toutes couses qe beçogne a cors d’omes por vivre en ont en grant abondance e
+         grant merchiés, for qe il ne ont bles, se ne ris solemant». Più vicino al tenore informativo
+         originario risulta V 97 9 «[…] i àno abondanzia de altre chosse che bexogna al chorpo umano fuor cha de biave,
+         ma i àno sorgo».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

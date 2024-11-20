@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-48-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-48">
+      <note>
+	<p>Analogamente a VB e a L, il R omette il riferimento ai ricchi affari dei mercanti
+         del luogo, presente in V e Z (e  in F – P omette le informazioni corrispondenti a
+         questa pericope): <ref type="witlink" target="#l-null-103">L 103 6</ref> «Horum victualia sunt carnes, ‹lac› et riçi; vinum vero ex vitibus non habent, sed
+         ipsum faciunt ex riçi‹s› et aliis speciebus»; <ref type="witlink" target="#vb-null-91">VB XCI 7</ref> «Viveno de late, charne e rixi e beveno vino de rixi chome de sopra le alltre provincie»;
+         <ref type="witlink" target="#v-null-61">V 61 11-12</ref> «Et in questa sono molti marchadanti i qualli sono molti richi et molte chosse portano
+         in le suo’ marchadantie. Et viveno de charne, late e rixi; et fano bevande de rixi
+         e spezie, le qual sono molto bone»; <ref type="witlink" target="#z-null-63">Z 63 11-13</ref> «Aliqui sunt mercatores; et illi divites sunt valde, et multis et magnis utuntur
+         mercimon‹i›is. Vivunt gentes ille de carnibus, lacte et risis. Vinum quidem de vitibus
+         non habent, sed ipsum de risis et speciebus faciunt valde bonum» (<ref type="witlink" target="#f-null-128">F CXXVIII 7-8</ref> «Il hi a mercheanz auques, mes, celz qe i sunt, ‹sunt› mout riches et portent mout
+         en mercandies. Il vivent de chars et de lait et de ris. ‹Il ne ont vin de vigne, mes
+         le font de ris› e d’espieces moult buen»). Altre lezioni specifiche (R «et bevono
+         vino di risi, come è detto di sopra», VB «e beveno vino de rixi chome de sopra»),
+         provano che in questo punto Ramusio segue il testo di un esemplare VB.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

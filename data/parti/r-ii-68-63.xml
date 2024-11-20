@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-63</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Nella prima parte («Immediate […] lago»), R si attiene a <ref type="witlink" target="#vb-null-114">VB CXIV 16</ref>, il solo relatore a riportare tale serie di dettagli: «[…] e chome vedeno in alchuna
+         parte el focho acesso dà boti sopra una tavolla in la sumità dela tore posta, la qual
+         per tutta la tera fi alditta: et tuti al secorsso del fuocho vano. E per tal chaxone
+         molte fiate ochoreno per la grandeça del fuocho i marchadanti et anchor i citadini
+         fuceno le robe soe; e fino portate ale issolle e nel meço di’ lacho avanti nominato
+         sopra le qualle v’è molte chaxe de pietra solo per questa chaxon fate: nele qualle
+         quei colocano le robe soe et sono salvate». La seconda parte («perché […] duoimila»),
+         che appare esclusiva di R, è probabilmente un’interpolazione ramusiana.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

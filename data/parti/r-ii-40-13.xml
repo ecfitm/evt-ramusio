@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-40-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>Ramusio traduce alla lettera <ref type="witlink" target="#z-null-57">Z 57 33-35</ref> «Habent etia‹m› arma perfecta de coriis buffallorum. Habent lanceas, clipeos et balistas.
+         Omnes eorum sagitas tosicant» (a sua volta resa fedele di <ref type="witlink" target="#f-null-118">F CXVIII 24</ref> «Et ont armes corasés de cuir de bufal, et ont lances et scuz, et ont balestres,
+         et attussient tous les quariaus»). La versione delle altre fonti è comunque molto
+         simile: <ref type="witlink" target="#p-ii-40">P II 40 13</ref> «In bellis utuntur corrachiis de corio buballorum; utuntur etiam scutis, lanceis
+         et balistis, et sagittas quas iaciunt toxicant»; <ref type="witlink" target="#v-null-56">V 56 38</ref> «Et àno le arme de chuoro de bufalo, e lanza, e schudo, e balestre, et sì tosega
+         tute le saete»; <ref type="witlink" target="#vb-null-84">VB LXXXIV 14-15</ref> «[…] e le arme suo’ de doso sono de chuoro de bufallo coto; portano lançe e schudo.
+         Àno balestre ‹et› atosegano tute suo’ arme». In L queste informazioni vengono omesse.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

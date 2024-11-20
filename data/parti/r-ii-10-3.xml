@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-10-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-10">
+      <note>
+	<p>In tutta la pericope R segue piuttosto fedelmente <ref type="witlink" target="#f-null-85">F LXXXV 5-7</ref> «[…] si que je voç di qe lor chief vienent as piés dou <term ref="#gran-can">Grant Sire</term>; et puis les autres baron sieent ‹a› autres tables encore plus bas. Et ausint vait
+         des femes, car toutes les femes as filz dou <term ref="#gran-can">Grant Sire</term> et de sez neveu et de ses parens seent de le senestre partie, ausi plus bas, et aprés
+         seent toutes les femes des baronç et des chevalers, et seent ausi plus bas. Et chascun
+         sevent sun leu o il doit soir por le ordremant dou seingnor». <ref type="witlink" target="#v-null-42-1-3">V 42 5</ref> appare abbreviato e non presenta affinità significative con R: «E li suo’ zentilomeni
+         senta ale altre tole piui basi, et chussì fano le altre done; e tute le moier deli
+         fioli e deli nevodi senta ala senestra parte più a baso, e puo’ le muier e li zintilomeni
+         e li chavalieri senta ali suo’ luogi dadi per el <term ref="#gran-can">Signor</term>». Alcuni dettagli che non hanno un corrispondente nella versione franco-italiana
+         potrebbero essere stati suggeriti da <ref type="witlink" target="#p-ii-13">P II 13 1</ref> «[…] sed eorum mense tam sunt inferius posite a regali mensa ut eorum capita ad regis
+         magni pedes attingant; reliqui vero barones et milites [R «baroni et principi»] similiter
+         in mensis adhuc inferioribus collocantur; eodem etiam ordine a sinistris sedent regine
+         relique et uxores nobilium baronum; quilibet enim princeps vel baro sui gradus ordinem
+         [R «siede secondo il suo grado»] tenet similiter et uxores eorum». Non si danno invece
+         tracce di contatti di R con <ref type="witlink" target="#l-null-71">L 71 2-3</ref> «[…] depressius tamen domino in tantum quod capita eorum ad pedes perveniant domini
+         […]. Et a parte sinistra, scilicet imperatricis, stant omnes eorum uxores. Post hos,
+         adhuc depressius, sedent alii barones, ita tamen quod quilibet a latere dextro, et
+         omnes eorum uxores a parte sinistra, scilicet imperatricis». </p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

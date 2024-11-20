@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-30-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-30">
+      <note>
+	<p>La resa di <ref type="witlink" target="#z-null-118">Z 118 3-4</ref> è letterale (pericope che a sua volta rende in maniera aderente F CLXXXIV 2 «Il ont roi e ne font trëu a nelui; il sunt <term ref="#idolatri">ydres</term> et ont langajes por elz»); la pericope risulta abbreviata (per tagli diversi) in
+         L 171 2 «Regem habent; et sunt <term ref="#idolatri">ydolatre</term>, habentes proprium ydeoma», V 101 2 «Et àno re; et non dano trabuto ad alguno; la zente del qual àno parlar per sí»,
+         e VB CLIV 2 «E non rende tributo ad alchun; et sono <term ref="#idolatri">idolatrii</term>; et à linguaço per sí».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

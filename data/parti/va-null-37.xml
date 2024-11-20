@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-37</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-37">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XXXVII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-37_2_1" n="1"> Chascar fo zià uno regniame per si, ma ora sono sotoposti al <term ref="#gran-can">Grande Chaan</term>. </seg>
+      <seg xml:id="va-null-37_2_2" n="2"> Elli à la leze de <term ref="#macometto">Machometo</term>. </seg>
+      <seg xml:id="va-null-37_2_3" n="3"> In quella provinzia è zità e chastelle asai; la plui nobille zità del regniame
+         de <term ref="#caschar">Chaschar</term> ‹è <term ref="#caschar">Chaschar</term>›. </seg>
+      <seg xml:id="va-null-37_2_4" n="4"> Questa provinzia è intra griego e llevante. </seg>
+      <seg xml:id="va-null-37_2_5" n="5"> Egli viveno de merchadantia
+         e d’arte et àno molto belle vignie e possesion e zardini. </seg>
+      <seg xml:id="va-null-37_2_6" n="6"> Lì nasie <term ref="#bambagio">banbaxio</term> asai. </seg>
+      <seg xml:id="va-null-37_2_7" n="7"> De quella chontrà esie molti merchadanti che vano per el mondo fazando
+         merchadantie. </seg>
+      <seg xml:id="va-null-37_2_8" n="8"> La zente della contrata sono scharssa e mixera: mal manzano e mal
+         beveno. [9] In quella chontrà demora alquanti cristiani nestorini e àno le suo’ giexie.
+         [10] La zente della provinzia àno lenguazio per si. [11] La provinzia dura zinque
+         zornate.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

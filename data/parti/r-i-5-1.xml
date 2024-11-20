@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-5-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-5">
+      <note>
+	<p>Il paragrafo rende letteralmente, nell’<hi rend="italics">ajout</hi> (che esordisce con «parte della qual provincia […]») come nelle parti comuni all’intera
+         tradizione, <ref type="witlink" target="#z-null-4">Z 4 1-2</ref> «In <term ref="#zorzania">Iorgia</term> est quidam rex qui <term ref="#david">David Melic</term> totis temporibus nuncupatur, quod in lingua Galica dicitur <term ref="#david">Rex David</term>. Pars una cuius provincie subdita est Tartareo regi, reliqua vero pars, propter fortilicias
+         quas habet, non est subdita ei, sed <term ref="#david">regi David</term>». Ramusio sfronda qualche prolissità del testo di partenza e ortopedizza, traducendolo
+         con <hi rend="italics">lingua nostra</hi>, il sintagma <hi rend="italics">lingua Galica</hi>, che presuppone, a monte di Z, un modello franco-italiano con uno sviluppo consimile
+         a quello di <ref type="witlink" target="#f-null-22">F XXII 2</ref>: «[…] Davit Melic, que vent a dir en fransois <term ref="#david">Davit roi</term> […]».</p>
+	<p>Un testo prossimo a quello del codice toledano si legge anche in <ref type="witlink" target="#v-null-12">V 12 1-2</ref> «‹I›n <term ref="#zorzania">Zorzania</term> in quel tempo era uno re chiamado Davit Mioliorotis<hi rend="italics">, che in lengua galilea vien a dir “</hi><term ref="#david">Davit Re</term><hi rend="italics">”</hi>. Parte dela qual provinzia sì è subdita alo re tartaro, e dele altre parte, per le
+         gran forteze che àno quelo nela dita, quel re de <term ref="#tartari">Tartari</term>». Il traduttore veneziano mostra però di non comprendere il dettato del modello –
+         un testo latino vicino a Z – laddove travia la stringa <hi rend="italics">David</hi> <hi rend="italics">Melic totis</hi> volgendola in <hi rend="italics">Davit</hi> <hi rend="italics">Miolirotis</hi>; legge <hi rend="italics">Galilea</hi> dove l’antigrafo, al pari del toledano, doveva avere <hi rend="italics">Galica</hi> (cfr. in proposito Simion 2011, pp. 33-34); infine stravolge completamente – forse
+         per via di un modello in cattivo stato? – il senso della parte finale del paragrafo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

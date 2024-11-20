@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-33</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-33">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XXXIII </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-33_1_1" n="1"> <term ref="#caschar">‹C›aschar</term> sì fo già reame per si e mo’ è ssottoposto al <term ref="#gran-can">Gran Chan</term>. </seg>
+      <seg xml:id="vb-null-33_1_2" n="2"> La giente adorano <term ref="#macometto">Machometo</term>, ànno citade e più chastelli soto sì, ma la maçor e più nobelle è <term ref="#caschar">Chaschar</term> et è fra griego e llevante. </seg>
+      <seg xml:id="vb-null-33_1_3" n="3"> Viveno de marchadantie e mestieri: ànno bellisime
+         vigne e giardini, naseno <term ref="#bambagio">banbasi</term> assai, ed è dotta citade. </seg>
+      <seg xml:id="vb-null-33_1_4" n="4"> Eschono marchadanti assai che vano per lo mondo facendo
+         marchadantie. </seg>
+      <seg xml:id="vb-null-33_1_5" n="5"> Sono avara giente e mangiano e beveno poveramente. </seg>
+      <seg xml:id="vb-null-33_1_6" n="6"> Et abitano
+         molti cristiani i qual àno chiexie e lenguaço suo e sono mescholadi e stano con i
+         abitanti, chome fano i çudie in queste parte con cristiani. </seg>
+      <seg xml:id="vb-null-33_1_7" n="7"> Dura questa provincia
+         V giornate.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

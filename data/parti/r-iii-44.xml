@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-44</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-44" n="1">
+    <head>
+      <hi rend="bold">R, III 44</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-44_1_1" n="1"> Di <term ref="#ormus">Ormus</term>. Cap. 44.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-44_2_1" n="1"> L’isola di <term ref="#ormus">Ormus</term> ha una bella et gran città, posta sopra il mare; ha un “<term ref="#melich">melich</term>”, che è nome di dignità come saria a dire marchese, qual ha molte città et castella
+         sotto il suo dominio. </seg>
+      <seg xml:id="r-iii-44_2_2" n="2"> Gli habitanti sono Sarraceni, tutti della legge di <term ref="#macometto">Macometto</term>. </seg>
+      <seg xml:id="r-iii-44_2_3" n="3"> Vi regna grandissimo caldo, et per questa causa in tutte le case hanno ordinate le
+         sue ventiere, per le qual fanno venire il vento in tutte le sue stantie et camere
+         dove li piace, ch’altramente non potriano vivere. </seg>
+      <seg xml:id="r-iii-44_2_4" n="4"> Hor di questo non diremo altro, perché di sopra nel libro habbiamo parlato di <term ref="#chisi">Chisi</term> et <term ref="#chermain">Chermain</term>. </seg>
+      <seg xml:id="r-iii-44_2_5" n="5"> Poi che s’ha scritto a bastanza delle provincie et terre dell’<term ref="#india">India Maggiore</term> che sono appresso il mare, et di alcune regioni di popoli di <term ref="#ethiopia">Ethiopia</term>, che noi chiamiamo <term ref="#india">India Mezzana</term>, avanti che facciamo fine al libro, ritornerò a narrare di alcune regioni che sono
+         vicine alla tramontana, delle quali io lassai di dire nei libri di sopra. </seg>
+      <seg xml:id="r-iii-44_2_6" n="6"> Pertanto è da sapere che nelle parti vicine alla tramontana vi habitano molti <term ref="#tartari">Tartari</term>, che hanno re nominato <term ref="#caidu">Caidu</term>, il qual è della stirpe di <term ref="#cingis-can">Cingis Can</term>, et parente prossimo di <term ref="#cublai-can">Cublai Gran Can</term>; non è suddito ad alcuno. </seg>
+      <seg xml:id="r-iii-44_2_7" n="7"> Questi <term ref="#tartari">Tartari</term> osservano le usanze et modi degli antichi suoi precessori, et vengono reputati veri
+         <term ref="#tartari">Tartari</term>. [8] Et questo re col suo popolo non habita in castelli né fortezze né città, ma sta sempre
+         alla campagna in pianure et valli et nelle foreste di quella regione, che sono in
+         grandissima moltitudine. [9] Non hanno biade di sorte alcuna, ma vivono di carne et latte, et in grandissima pace,
+         perché il loro re non procura mai altro (al qual tutti obediscono) se non di conservarli
+         in pace et unione, ch’è il proprio carico di re. [10] Hanno moltitudine grande di cavalli, buoi, pecore et altri animali; qui si trovano
+         orsi tutti bianchi, grandi et lunghi la maggior parte venti palmi. [11] Hanno volpi tutte nere et molto grandi, et <term ref="#asini-salvatichi">asini salvatichi</term> in gran copia, et alcuni animali piccoli, chiamati “<term ref="#rondes">rondes</term>”, c’hanno la pelle delicatissima, che appresso di noi si chiamano <term ref="#zibellino">zebellini</term>; item <term ref="#varo">vari</term>, arcolini, et di quelli che si chiamano <term ref="#sorzi-di-faraon">sorzi di faraon</term>, et ve n’è tanta copia ch’è cosa incredibile: et questi <term ref="#tartari">Tartari</term> li sanno pigliar cosí destramente et con tanta arte che alcuno non può scampar dalle
+         lor mani. [12] Et perché, avanti che si arrivi dove habitano detti <term ref="#tartari">Tartari</term>, vi è una pianura lunga il cammino di quattordeci giornate, tutta dishabitata et
+         come un deserto, et la causa è perché vi sono infinite lagune et fontane che la inonda,
+         et per il gran freddo stanno quasi di continuo agghiacciati, eccetto alcuni mesi dell’anno
+         che ’l sole le desfa; vi è tanto fango che piú difficilmente vi si puol passar a quel
+         tempo che quando vi è il ghiaccio: et però detti popoli, accioché li mercatanti possino
+         andar a comprar le lor pelli, ch’è la sola mercantia che si trovi appresso di loro,
+         s’hanno ingegnato di far che questo deserto si possa passare, in questo modo, che
+         in capo di ogni giornata vi hanno fabricate case di legname alte da terra, dove commodamente
+         |60r| vi possino star le persone che ricevono i mercatanti, et che poi li conducono
+         la seconda giornata all’altra posta o vero casa; et cosí di posta in posta se ne vanno
+         fino alla fine di detto deserto. [13] Et per esser i ghiacci grandi hanno fatto una sorte di carri, che quelli che habitano
+         appresso di noi sopra monti aspri et inaccessibili li sogliono usare, et si chiamano
+         “<term ref="#tragule">tragule</term>”, che sono senza ruote, piani nel fondi, et si vengono alzando dalli capi a modo
+         di un semicirculo, et scorrono per sopra la ghiaccia facilmente. [14] Hanno per condur dette carrette preparata una sorte d’animali simili a’ cani, et
+         quasi che si possono chiamar cani, grandi come asini, fortissimi et usati a tirare,
+         de’ quali ne ligano sotto al carro sei a do a do, et il carrattier li governa, et
+         sopra detto carro non vi sta altro che lui et il mercatante con le dette pelli. [15] Et, camminato che hanno una giornata, mettono giú il carro et li cani, et a questo
+         modo di giorno in giorno mutando carri et cani, et cosí passano detto deserto, conducendo
+         fuori la mercantia di dette pelli, che poi si vendono in tutte le parti nostre.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

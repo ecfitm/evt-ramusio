@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-43-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-43">
+      <note>
+	<p>La prima parte della pericope («Avvenne che […] valoroso nell'armi») è sostanzialmente
+         coerente nei contenuti con il dettato di <ref type="witlink" target="#f-null-64">F LXIV 2-3</ref> «Or avint que a les .M.C.LXXXVII. anz les <term ref="#tartari">Tartars</term> font un lor roi que avoit a nom en lor lengajes Cinghins Can. Cestui fui home de grant valor et de grant senz et de grant proesse […]», <ref type="witlink" target="#l-null-58">L 58 5</ref> «Et tandem anno Domini .M°.C.LXXXVII. <term ref="#cingis-can">Cinghis Kan</term> eis regem constituerunt, ad quem omnes <term ref="#tartari">Tartari</term> undique confluxerunt, fuitque vir excellens armis et ingenio», <ref type="witlink" target="#p-i-52">P I 52 1-2</ref> «Post annos paucos de communi consensu, virum quemdam de suis probum et sapientem,
+         qui dicebatur <term ref="#cingis-can">Chinchis</term>, regem super se constituerunt; quod factum est anno Domini .MCLXXXVII», <ref type="witlink" target="#v-null-35">V 35 1</ref> «‹I›n milezento e setantado del’incharnazion del nostro signor Iexu Christo i <term ref="#tartari">Tartari</term> alesse per suo’ signor e per suo’ re uno che in la lor lengua era chiamato Zischi Chan, el qual era uno homo molto prudente et gaiardo dila persona». VB distribuisce le
+         stesse informazioni su due capitoli: <ref type="witlink" target="#vb-null-48">VB XLVIII 6</ref> «E nel deserto elleseno per suo segnore uno di loro <term ref="#tartari">Tartari</term>, omo de grandissimo animo e vigore e sapientissimo, el qual fu nominato Chan Çiçin, el qualle dapoi feçe grandisimi fati et conquisto [<hi rend="italics">sic</hi>]» / <ref type="witlink" target="#vb-null-49">VB XLIX 1</ref> «‹E›leto ch’ebeno i sopra diti <term ref="#tartari">Tartari</term> <term ref="#cingis-can">Çeçin Chan</term> per suo segnore nel .MCLXXXVII. corendo i ani del nostro Segnor Ihesu Cristo […]».</p>
+	<p>Difficile dire quale sia stata qui la fonte: la coincidenza da un lato con F (nell’<hi rend="italics">incipit</hi> della pericope «Avvenne che…» [F «Or avint que…»], e nell’elenco delle virtù di Chinggis «huomo integerrimo […] armi» [F «home de grant valor […] proesse»]), dall’altro con
+         V (nella data dell’elezione al trono fissata al 1162 – in realtà anno di nascita del
+         sovrano – vicina alla formulazione di V: «‹I›n <hi rend="italics">milezento e setantado</hi> del’incharnazion del nostro signor Iexu Christo»), trova forse ragione nella dipendenza
+         di R da Z. Può essere invece un’eco di P il riferimento alle lunghe peregrinazioni
+         delle tribù tartare prima della loro riunione sotto l’egida del Khan («essendo stati
+         i <term ref="#tartari">Tartari</term> <hi rend="italics">per certo tempo</hi> in quelle parti» R / «Post annos paucos» P). Nella seconda parte della pericope («qual
+         cominciò a reggere […] obedienza sua») il modello è senz’altro VB, scelto forse per
+         qualche sua maggiore ricchezza testuale (ad es. il cenno alla venerazione quasi divina
+         della figura di Chinggis): vd. <ref type="witlink" target="#vb-null-49">VB XLIX 1</ref> «e recendo quel popollo con tanta iusticia modestia (che non chome segnore ma quasi
+         chome Idio da tuti el sia amado e reverido) per modo che sparcendosi questa sua excelente
+         fama, tuti <term ref="#tartari">Tartari</term> sparti per molti paexi tuti venero ad inclinar al dito <term ref="#cingis-can">Çeçin Chan</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

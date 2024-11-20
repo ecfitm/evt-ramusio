@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-31-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-31">
+      <note>
+	<p>Visibilmente Ramusio traduce alla lettera <ref type="witlink" target="#z-null-119">Z 119 4</ref> «Et de isto regno videtur stella tramontana magis alta, quoniam quantum magis itur
+         versus magistrum, tantum melius videtur stella tramontana», il cui contenuto coincide
+         per altro con quanto riferisce la tradizione (a partire da F CLXXXV 2 «E de cest reingne s’en voit plus la stoille de tramontaine, car sachiés qe, quant
+         plus vos alés desormés ver ponent, tant veirés miaus la stoile de tremontaine»: vd.
+         L 172 3 «Et ex hac provincia videtur adhuc plus septemtrionalis stella: quanto enim ‹magis›
+         ammodo ad occidens procedimus tanto altior apparebit»; V 102 2 «E de questo reame par la stela tramontana più alta, perché quando se va verso maistro
+         la par più alta»; VB CLV 2 «Et de questo reame se vede la stella tramontana più alta, però questo paexe più
+         è verso ponente, e quanto più se tende verso ponente tanto più quella se vede alta».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

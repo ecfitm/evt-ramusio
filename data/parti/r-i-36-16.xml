@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-36-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-36">
+      <note>
+	<p>In tutta la tradizione eccetto P, la descrizione dell’accompagnamento musicale delle
+         esequie si colloca in coda al brano sulle carte simboliche. Lo stesso avviene anche
+         in R, che dunque abbandona qui la <hi rend="italics">dispositio</hi> di P riprodotta per una buona metà del capitolo (pericopi 8-15).</p>
+	<p>Corrispondono grosso modo al dettato di <ref type="witlink" target="#f-null-57">F LVII 15</ref> «Et encore voç di que quant le cors sunt porté a ardoir tuit les stormenç de la tere
+         vont sonant avante le cors» gli sviluppi testuali di <ref type="witlink" target="#v-null-31">V 31 7</ref> «[…] e possa bruxano questo chorpo chon tute queste chosse sonando tuti i stormenti
+         atorno quel fuogo», e di <ref type="witlink" target="#z-null-31">Z 31 15</ref> «Et omnia instrumenta circa ipsum pulsantur que in civitate sint» (di noti a corrispondenza
+         – seppur parziale – dei sintagmi «<hi rend="italics">atorno</hi> quel fuogo» / «<hi rend="italics">circa</hi> ipsum»).</p>
+	<p>Descrivono in modo del tutto affine le ricadute oltremondane di quelle ritualità musicali
+         <ref type="witlink" target="#l-null-52">L 52 10</ref> «Dum eciam corpus ad rogum ferunt, illud antecedunt omnia instrumenta civitatis sonando,
+         quia dicunt ipsum in alio mundo tali honore recipi deberi», e <ref type="witlink" target="#vb-null-40">VB XL 13</ref> «Et avanti al corpo fano sonar i strumenti assai, però che al’altro mondo altretanti
+         ne arà l’anema soa»; <ref type="witlink" target="#p-i-45">P I 45 6</ref> aggiunge una notazione spuria sulla gradevolezza dei suoni («[…] dum autem in via
+         procedunt, precedunt capsam omnia instrumenta musica civitatis in quorum sonitu est
+         iocunditas maxima […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

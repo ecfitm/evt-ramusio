@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-38</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-38" n="1">
+    <head>
+      <hi rend="bold">R, III 38</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-38_1_1" n="1"> Della moltitudine dell’isole nel <term ref="#mare-dindia">mare d’India</term>. Cap. 38.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-38_2_1" n="1"> Anchor che habbi scritto delle provincie dell’<term ref="#india">India</term>, non ho però scritto se non delle piú fa|58v|mose et principali, et il simile ho
+         fatto dell’isole, le quali sono in tanta moltitudine ch’alcuno non lo potria credere,
+         perché, come ho inteso dalli marinari et gran pilotti di quelle regioni, et come ho
+         veduto per scrittura da quelli che hanno compassato quel <term ref="#mare-dindia">mare d’India</term>, se ne ritrovano da dodicimila et settecento fra le habitate et deserte. </seg>
+      <seg xml:id="r-iii-38_2_2" n="2"> Et detta <term ref="#india">India Maggior</term> comincia da <term ref="#malabar">Malabar</term> fino al regno di <term ref="#chesmacoran">Chesmacoran</term>, nel quale sono tredici regni grandissimi, et noi ne habbiamo nominati dieci. </seg>
+      <seg xml:id="r-iii-38_2_3" n="3"> Et l’<term ref="#india">India Minor</term> comincia da <term ref="#ziamba">Ziambi</term> fino a Murfili, nella quale sono otto regni, eccetto quelli dell’isole, che sono in gran quantità.
+         </seg>
+      <seg xml:id="r-iii-38_2_4" n="4"> Hora parleremo dell’<term ref="#india">India seconda o vero Mezzana</term>, che si chiama <term ref="#abascia">Abascia</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Ramusio si attiene (sintetizzando il testo in più punti) a <ref type="witlink" target="#p-ii-36">P II 36 3</ref> «Habent tamen viatores et mercatores ceteri tale remedium [R «Et fanno in questo
+         modo»]: regio illa maximas habet arundines, quarum una communiter habet longitudinis
+         .XV. passus, grossicies vero eius est tribus palmis mansuratis in giro [R «che, trovandosi
+         in quella regione […] canne di lunghezza di passa dieci et grosse tre palmi»], inter
+         duos collaterales nodos arundinis trium palmorum distancia est [R «et da un nodo all’altro
+         vi sono tre palmi»]. Cum igitur nocte volunt quiescere, viatores de arundinibus illis
+         viridibus fasces magnos componunt [R «i viandanti fanno la sera fassi grandi di quelle
+         che sono verdi»] quibus, ut ardeant tota nocte, ignem subitiunt [R «et vi appizzano
+         il fuogo»], et cum aliquantulum fuerint calefacte [R «sentendo il caldo»] huc illucque
+         torquentur atque scinduntur [R «et sfendono»], et sic fortissime crepitant [R «è tanto
+         horribil il schioppo»] ut earum fragor et strepitus eminus ad plura miliaria audiatur
+         [R «che ’l rumor si sente per duoi miglia»]; cum autem silvestres fere audiunt illum
+         terribilem sonitum tanto stupore ac tremore pavescunt quod confestim fugam arripiunt
+         quousque ad locum perveniant ubi sonitus ille terribillis audiri non possit. Sic igitur
+         nocte evadunt mercatores a bestiis; nisi enim sibi de tali remedio providissent nullus
+         ibi posset evadere noctibus pre multitudine bestiarum silvestrium». </p>
+	<p>Alcune lezioni che non trovano riscontro in P [«et massime appresso i fiumi», «mettendole
+         alquanto lontane dall’alloggiamento»] parrebbero aggiunte di Ramusio. È probabile,
+         tuttavia, che l’editore abbia tenuto conto della lezione di altri esemplari. Varie
+         coincidenze formali suggeriscono un contatto sporadico con <ref type="witlink" target="#vb-null-81">VB LXXXI 2-3</ref> «Nase in questa provincia chane grossisime le qual per groseça volgeno spane tre,
+         longe spane .XX., et da uno nodo al’altro sono spane tre. I viandanti che di note
+         chaminano fano focho de dite chane le qual ardendo dano i più terebilli schiopi [R
+         «tanto horribil il schioppo»], in modo che le bestie salvatiche che per quelle chanpagne
+         ussano, aldendo quei terebelli schiopi, per paura fuçeno e lutanasi da quelli […]»
+         [R «et le fiere udendolo fuggono et allontanansi»]. </p>
+	<p>Anche dietro la lezione «duoi miglia», che non ha una precisa rispondenza in P [«ad
+         plura miliaria»], potrebbe celarsi l’influsso di qualche altro modello. Va rilevato,
+         tuttavia, che nessun relatore reca tale lezione:<ref type="witlink" target="#l-null-94"> L 94 3</ref> «[…] Nascuntur quedam canne maxime, circuitus in grossitudine palmarum trium; longitudinis
+         vero sunt .XV. passuum vel circa, distatque nodus a nodo tribus palmis. De hiis ergo
+         cannis secum portant itinerantes, et nocte, accenso igne, ipsas imponunt virides:
+         que, virtute ignis calefacte, finduntur; tuncque fit sonus tam horribilis et immensus
+         quod perterrita animalia fugiunt, potius quam sequantur – est enim talis sonus ad
+         similitudinem sclopi artificialiter facti, estque immensus quod nocte auditur aliquando
+         per miliaria .X., ex quo sono insueti quam plurimum obstupescunt […]»; V 55 14 «Et là sono chane grande e grosse, chomo ve ò dito avanti chomo la son grossa: et
+         volze intorno tre palmi, et sono longe diexe passa in quindexe, et sono da uno nodo
+         al’altro tre palmi; † et valle in marchadantie per bruxar †; et quando le ssono in
+         fuogo le ffano sì gran remor che tuti lioni e anemalli salvadegi fuzeno per quel remor
+         quanto li puol […]» / V 55 15 «E diròve a che muodo se oldeno da lonzi: or sapié che questi tuol queste chane verde
+         et sfendele in mezo, e sì le mete in fuogo; et essendo in fuogo le se torze, et fano
+         sì gran remor, chomo le se schalda […]» (vd. <ref type="witlink" target="#f-null-114">F CXIV 3-4</ref> «Il hi a channe groses et grant merveliosemant, et voç deviserai comant elles sunt
+         groses, qe volvent environ bien trois paumes et sunt louinges bien .XV. pas; elle
+         ont de le un nod a l’autre bien trois paumes. Et si voç di qe les merchanz et autres
+         viandanz qe vont por tel contree, la nuit, prenent de celes chanes et en font feu,
+         por ce qe quant elles sunt en feu elle font si grant escroair et si grant escopier
+         qe les lion et les orses et les autres fieres bestes en ont si grant paür qu’il fuient
+         tant com il plus puent et ne s’acosterént au feu por rien do monde» / <ref type="witlink" target="#f-null-114">F CXIV 7-8</ref> «Or sachiés qe l’en prent de ceste channes toutes vers et les metent en feu des buces,
+         et ce sunt plusors. Et quant cestes channes sunt demorés auques en ceste grant feu,
+         adonc se tort et se fent por mi et adonc fait un si grant escopié qe bien se hoie
+         .X. miles lunc, de noit»). L’assenza di tutte queste informazioni in Z toledano lascia
+         aperta la possibilità che Ramusio abbia ricavato la variante «duoi miglia» da Z1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-36-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>L’ordine e la connessione delle informazioni adottati da Ramusio rispecchiano quelli
+         di P III 39 1-2 «[…] continet enim ambitus eius in giro miliaria quatuor milia. Habitatores insule
+         Saraceni sunt, habentes legem abhominabilis <term ref="#macometto">Machometi</term>». La situazione ripete quanto s’è visto nella nota a <ref type="witlink" target="#r-iii-36">R III 36 1</ref>: negli altri relatori le informazioni si trovano in pericopi separate: vedi VA CXLIX 2-3 «Et sono saraini e àno la leze de <term ref="#macometto">Machometo</term> […]. […] e dixeno ch’ella volze IV milia mia»; F CXC 2 «Il sunt saracinz; aorent <term ref="#macometto">Maomet</term>. […] je voç di que l’en dit qu’elle gire environ entor .IIII. milles»; <ref type="witlink" target="#z-null-124">Z 124 2</ref> / <ref type="witlink" target="#z-null-124">Z 124 4</ref> «Ipsius gentes <term ref="#macometto">Macometi</term> legem observant.[…] dicitur quod ista insula in circuitu suo girat circa tria milia
+         [<hi rend="italics">sic</hi>] miliarium»; L 177 2-3 «Habitantes sunt Sarraceni adorantes <term ref="#macometto">Machomet</term> […]. […] circuit enim circa .IIIIm. miliaria»; V 106 1-2 «[…] la zente dela qualle adorano <term ref="#macometto">Machometo</term> […]. […] et dizesse che la volta treamilia mia»; VB CLX 1 / VB CLX 3 «[…] la qual fi abitada da saracini dela lege machometa. […] la qual çira .IIIIm. migia». L’indicazione «tremila miglia» in R è forse l’esito di una correzione consapevole,
+         fondata sulla lettura di un modello (Z?) percepito come più autorevole.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-36-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>R si fonda qui sulla testimonianza di <ref type="witlink" target="#p-ii-35">P II 35 7</ref> «[…] est etiam ibi domus alia maior, ubi manent regis officiales qui pedagia et vectigalia
+         pro rege in ponte recipiunt, que ascendunt diebus singulis ut fertur ad valorem mille
+         bisantium aureorum». La variante «cento» parrebbe un’innovazione ramusiana. Lezioni
+         come «li datii delle robbe et mercantie» e «’l <term ref="#gran-can">Gran Can</term>» suggeriscono che l’editore abbia tenuto conto anche di un’altra testimonianza, che
+         doveva presentare un testo analogo a quello di V (e di F) o – meno probabillmente
+         – di VB: V 55 9 «Et ezian in quel luogo sono el chomerchio del <term ref="#gran-can">Gran Signor</term>, che xe el dreto dele marchadantie che se vendeno sopra el ponte; el dreto de quel
+         ponte val molto» (vd. <ref type="witlink" target="#f-null-113">F CXIII 16-17</ref> «Et encore hi est le comerqe dou <term ref="#gran-can">Grant Sire</term>, ce est celz qe recevent la rente dou seingnor, ce est le droit de la mercandie qe
+         desus le pont se vendoient. Et voç di qe le droit de cel pont vaut bien .M. beçanz
+         d’or»); <ref type="witlink" target="#vb-null-80">VB LXXX 6</ref> «[…] ène una del segnore nella qual se governa el comerchio delle marchandarie che
+         passano per quelo ponte, el qual chomerchio schode olltra bixanti .M. all’ano». La
+         versione di Z toledano appare in questo punto estremamente essenziale (Z 53 13 «De rectitudine illorum pontium <term ref="#gran-can">Magnus Can</term> maximum percipit redditum et proventum»), ma è possibile che il testo originale della
+         redazione Z fosse più articolato e più prossimo alla lezione di V e di F. L omette
+         tutto il passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

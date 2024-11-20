@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-12-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>R riflette quasi alla lettera il dettato di <ref type="witlink" target="#f-null-88">F LXXXVIII 11</ref> «Et voç di q’il sunt ordree en tel mainere: tout premierement sunt seç filz et seç
+         neveu et celz de son legnages enperiaus, aprés sunt les rois, et aprés lex dux, et
+         puis toutes les ordres le une aprés le autre, ensi com il estoit convenable». Le informazioni
+         sono riportate in una forma più sintetica in <ref type="witlink" target="#l-null-73">L 73 6</ref> «[…] Sunt autem magis propinqui domino eius filii, et nepotes, et quicumque ex imperiali
+         stirpe processerint, deinde reges, post eos duces, et sic per ordinem in gradu suo
+         quilibet ordinatu […]», <ref type="witlink" target="#p-ii-15">P II 15 5</ref> «[…] sedentque singuli ordine debito iuxta sui gradus et officii dignitatem […]»,
+         e <ref type="witlink" target="#v-null-43">V 43 12</ref> «Et inprima sono li suo’ fioli et queli dela soa inperial progenia, et driedo questi
+         sono li re, et driedo li re sono li duchi, et chussì tuti li altri segondo li so gradi
+         […]». </p>
+	<p>VB e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-70</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>La maggior parte dei relatori omette tali dettagli. La prima parte trova riscontro
+         in <ref type="witlink" target="#p-ii-64">P II 64 22</ref> «[…] non sunt tamen omnes <term ref="#tartari">Tartari</term>, sed sunt de diversis exercitibus et stipendiariis <term ref="#gran-can">Magni Kaam</term>» (che sintetizza <ref type="witlink" target="#va-null-117">VA CXVII 46</ref> «[…] et ‹non› èno tuti <term ref="#tartari">Tartari</term>, ma el g’è molti delle contrade de <term ref="#cataio">Chatai</term>; et sono molti a chavallo e molti a pe’, e sono tuti dela zente del’oste del <term ref="#gran-can">Gran Chaan</term>»). Si deve rilevare, tuttavia, che la forte rispondenza dell’attacco di R con quello
+         che si legge in F (<ref type="witlink" target="#f-null-151">F CLI 23</ref> «Mes ne entendés qe cesti homes soient tuit <term ref="#tartari">Tartars</term>, mes sunt dou <term ref="#cataio">Catai</term>. [R «Né pensiate che tutti siano <term ref="#tartari">Tartari</term>, ma della provincia del <term ref="#cataio">Cataio</term>»] E cesti homes qe ceste cités gardent ne sunt tuit a chevaus, mes une grant parties
+         a piés, car tuit sunt homes dou <term ref="#gran-can">Grant Kan</term>») ci spinge a ritenere che qui Ramusio abbia usato come modello un affine di Z che
+         recava un testo molto vicino a quello di F. </p>
+	<p>La seconda parte della pericope («perché […] cavallo»), che si discosta notevolmente
+         dalla lezione di P e di F, sembrerebbe essere dovuta a un intervento di rielaborazione
+         da parte dell’editore. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

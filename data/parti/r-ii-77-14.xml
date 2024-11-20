@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-77-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-77">
+      <note>
+	<p>A parte <ref type="witlink" target="#vb-null-125">VB CXXV 1</ref>, che appare drasticamente abbreviato («‹Ò›ve contado de .III. reami della provincia
+         del <term ref="#mangi">Mangi</term> chome sopra avete udito; resta a descriver dei alltri .VI., di qual per ora non dellibero
+         parlarni ma risservar a parllarni in alltra parte»), tutte le altre fonti ramusiane
+         presentano un testo più dettagliato di quello di R:  <ref type="witlink" target="#l-null-141">L 141 3-4</ref> «[…] Satis dictum est de regno <term ref="#fugiu">Fugiu</term>, quod est una ex .IX. partibus provincie de <term ref="#mangi">Mangi</term>, ex quo non minus habet redditus <term ref="#gran-can">Magnus Canis</term> quam ex <term ref="#quinsai">Quinsay</term> superius dicto regno. Et licet provincia de <term ref="#mangi">Mangi</term> in .IX., ut diximus, sit divisa regnis, de tribus tantum diximus longe dicionis fastidium
+         evitantes: que sunt <term ref="#saianfu">Yangiu</term>, <term ref="#quinsai">Quinsai</term> et <term ref="#fugiu">Fugiu</term>»; <ref type="witlink" target="#p-ii-70">P II 70 6-8</ref> «In regione que una est de novem partibus <term ref="#mangi">Mangy</term> […] De hoc regno habet <term ref="#gran-can">Magnus Kaam</term> eque magnos proventus aut maiores sicuti de regno <term ref="#quinsai">Quinsay</term>. De aliis autem regnis <term ref="#mangi">Mangy</term> obmitto scribere causa brevitatis, quoniam nimia esset huius libri prolixitas si
+         deberem singula scribere regna eius […]»;appare ravvisabile <ref type="witlink" target="#v-null-79">V 79 11-12</ref> «Or abiamo dito de ’sto reame de <term ref="#fugiu">Fugui</term>, che sono la nona parte del <term ref="#gran-can">Gran Chan</term>, et sì àno gran rendedo, ed è mazor cha quello de <term ref="#quinsai">Chonsain</term>. Nui non avemo dito i nuove reami del <term ref="#mangi">Mongin</term>, ma sollamente tre, zoè di <term ref="#iangui">Angui</term>, de <term ref="#quinsai">Quiansai</term>, e de <term ref="#fugiu">Fugui</term>; e di altri sie nui lasseremo perché la seria longa materia, perché avemo ben dito
+         del reame del <term ref="#mangi">Mongin</term> e del <term ref="#cataio">Chataio</term> e de molte altre provinzie, e de zente, bestie, oxeli, oro, arzento, perle et marchadantie
+         e de molte altre chosse, chomo avete aldido»; <ref type="witlink" target="#z-null-90">Z 90 27-30</ref> «Nunc de regno <term ref="#fugiu">Fugiu</term> diximus, quod una de novem partibus <term ref="#mangi">Mançi</term>; et <term ref="#gran-can">Magnus Can</term> maiorem in ipso sequitur reditum et proventum, excepto quam in regno <term ref="#quinsai">Qinsay</term>, quam in aliquo aliorum. Et hoc est solummodo propter reditum portus <term ref="#zaitum">Çaytum</term>. Nos quidem non diximus de omnibus novem regnis provincie <term ref="#mangi">Manci</term>, sed solum de tribus, videlicet <term ref="#iangui">Yançu</term>, <term ref="#quinsai">Qinsay</term> et <term ref="#fugiu">Fugiu</term>, de quibus bene intelexistis. De istis vero tribus naravimus ita per ordinem, quia
+         per ipsa dominus Marcus transitum suum fecit: nam iter suum ducebatur illac» (vd.
+         <ref type="witlink" target="#f-null-156">F CLVI 14-16</ref> «Or voç ai contés de ceste roiaume de <term ref="#fugiu">Fugiu</term>, qui est le une partie de les .VIIII., et si vos di qe le <term ref="#gran-can">Grant Kan</term> en a ausi grant droit et ausi grant rente et greingnor qe ne a dou reingne de <term ref="#quinsai">Qui‹n›sai</term>. Nos ne voç avom contés des .IX. roiames dou <term ref="#mangi">Mangi</term> mes qe des .III.: ce sunt <term ref="#saianfu">Yangiu</term> et <term ref="#quinsai">Qui‹n›sai</term> et <term ref="#fugiu">Fugiu</term>, e de ce avés voç bien entendu. Des les autres .VI. voç en sauronmes encore bien
+         conter mes, por ce qe trop seroit longaine matiere a mentovoir, nos en taieron atant,
+         car bien voç avon contés dou <term ref="#mangi">Mangi</term> et dou <term ref="#cataio">Catai</term> e de maintes autres provences, et des jens e des bestes et de osiaus, e d’or et d’arjent
+         e de pieres e de perles, e des mercandies e de maintes autres couses, ensi com vos
+         avés oï»). </p>
+	<p>Ramusio combina in questo punto la testimonianza di almeno due fonti. L’affermazione
+         di R secondo cui nel libro non si darà conto di quei territori che Marco non ha visitato
+         di persona («lasseremo di parlar piú di questi tal regni, perché messer Marco non
+         vi fu in alcun d’essi») trova un parallelo nel solo Z («Nos quidem non diximus de
+         omnibus novem regnis provincie <term ref="#mangi">Manci</term>, sed solum de tribus, videlicet <term ref="#iangui">Yançu</term>, <term ref="#quinsai">Qinsay</term> et <term ref="#fugiu">Fugiu</term>, de quibus bene intelexistis. De istis vero tribus naravimus ita per ordinem, quia
+         per ipsa dominus Marcus transitum suum fecit»). Negli altri testimoni la decisione
+         di tralasciare la descrizione degli altri regni del <term ref="#mangi">Mangi</term> viene attribuita a ragioni di brevità. Oltre che di un affine di Z, l’editore veneziano
+         deve aver tenuto conto anche di P, dato che, nella prima parte della pericope, la
+         lezione «il <term ref="#gran-can">Gran Can</term> ha quasi <hi rend="italics">cosí grande</hi> entrada <hi rend="italics">come</hi> del regno di <term ref="#quinsai">Quinsai</term>» ha un corrispettivo solo nella versione di Pipino, che qui – unica tra le fonti
+         ramusiane – riflette fedelmente la lezione di F: «habet <term ref="#gran-can">Magnus Kaam</term> <hi rend="italics">eque</hi> magnos proventus aut maiores sicuti de regno <term ref="#quinsai">Quinsay</term>» (F «le <term ref="#gran-can">Grant Kan</term> en a <hi rend="italics">ausi grant</hi> droit et <hi rend="italics">ausi grant</hi> rente et greingnor qe ne a dou reingne de <term ref="#quinsai">Qui‹n›sai</term>»).</p>
+	<p>La sostituzione del toponimo <term ref="#fugiu">Fugiu</term> con quello di <term ref="#concha">Concha</term> (R «alcune città del regno di <term ref="#concha">Concha</term>») si spiega per ragioni di coerenza interna, dato che lo scambio tra le due forme
+         era presente anche nei capitoli precedenti (vd. il commento a <ref type="witlink" target="#r-ii-72">R II 72 4</ref> / <ref type="witlink" target="#r-ii-72">R II 72 5</ref> e <ref type="witlink" target="#r-ii-73">R II 73 1-2</ref>). Anche la menzione di due soli regni del <term ref="#mangi">Mangi</term>, a fronte dei tre unanimemente elencati dalle fonti, appare dettata da motivazioni
+         analoghe. Ramusio sembra avere escluso dal novero <term ref="#iangui">Iangui</term> perché nel capitolo dedicato specificamente a tale città si dice solamente che è
+         sede di «uno d’i dodici baroni […], che sono governatori delle provincie, eletti per
+         il <term ref="#gran-can">Gran Can</term>» (<ref type="witlink" target="#r-ii-60">R II 60 2</ref>), ma non si afferma esplicitamente che essa è capitale di uno dei nove regni del
+         <term ref="#mangi">Mangi</term>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

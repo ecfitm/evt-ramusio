@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-19-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-19">
+      <note>
+	<p>A parte le informazioni contenute nelle battute iniziali («Il <term ref="#gran-can">Gran Can</term> […] baroni»), il resto della pericope non trova riscontro in nessuna redazione del
+         <hi rend="italics">Milione</hi>; vd. (le fonti di R) <ref type="witlink" target="#l-null-79">L 79 1</ref> «Deputantur per <term ref="#gran-can">Magnum Canem </term>.XII. barones ‹maximi› […]»; <ref type="witlink" target="#p-ii-22">P II 22 1 </ref>«Habet <term ref="#gran-can">Magnus Kaam</term> barones .XII. qui .XXIIII. […]»; <ref type="witlink" target="#v-null-46">V 46 1</ref> «‹V›oio che sapiate che ’l <term ref="#gran-can">Gran Signor</term> sì aleze dodexe gran baroni savi e prudenti […]»; <ref type="witlink" target="#vb-null-68">VB LXVIII 19</ref> «[…] che ’l segnor <term ref="#gran-can">Gran Can</term> à eleto .XII. eleti e savi homeni e baroni […]» (vd. <ref type="witlink" target="#f-null-96">F XCVI 2</ref> «Or sachiés voiremant qe le <term ref="#gran-can">Grant Sire</term> a esleu .XII. grandisme baronz […]»). </p>
+	<p>In Z manca tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

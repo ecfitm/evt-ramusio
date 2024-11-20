@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-55-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-55">
+      <note>
+	<p><ref type="witlink" target="#f-null-138">F CXXXVIII</ref> (Comant le <term ref="#gran-can">Grant Kan</term> conquisté la grant provence dou <term ref="#mangi">Mangi</term>); <ref type="witlink" target="#p-ii-53"> P II 53</ref> (De nobilissima provincia <term ref="#mangi">Mangy</term> et primo de pietate et iusticia regis eius. Capitulum LIII) / <ref type="witlink" target="#p-ii-54">P II 54</ref> (Qualiter <term ref="#chinsanbaian">Baian</term> princeps exercitus <term ref="#gran-can">Magni Kaam</term> devicit provinciam <term ref="#mangi">Mangi</term> et eam suo dominio subiugavit. Capitulum LIIII), <ref type="witlink" target="#va-null-109">VA CIX</ref> (Là dove <term ref="#chinsanbaian">Baian</term> Cint’ogi aquistà la provinzia de <term ref="#mangi">Mangi</term>); <ref type="witlink" target="#v-null-67">V 67</ref> (Chomo el <term ref="#gran-can">Gran Chan</term> signorizò la provinzia de <term ref="#mangi">Mongin</term>); <ref type="witlink" target="#vb-null-101">VB CI</ref>.</p>
+	<p>L’ordinamento delle informazioni rispecchia quello che si incontra in P. Per ciò che
+         concerne la sostanza testuale, P rappresenta uno dei modelli base di R, soprattutto
+         nella parte centrale del capitolo (parr. 3-8, 11-12). Ramusio si avvale abbondantemente
+         pure di VB (parr. 1-2, 9-10, 13-16). In vari luoghi (parr. 6, 10, 13, 16) P e VB vengono
+         collazionati e combinati insieme. Z toledano omette l’intero capitolo, ma l’accordo
+         di R con F nell’ultima pericope sembra dimostrare che l’esemplare della famiglia Z
+         posseduto da Ramusio era in questo punto completo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-77</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-77" n="1">
+    <head>
+      <hi rend="bold">R, II 77</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-77_1_1" n="1"> Della città et porto di <term ref="#zaitum">Zaitum</term> et città di <term ref="#tingui">Tingui</term>. Cap. 77.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-77_2_1" n="1"> Partendosi da <term ref="#cangiu">Cangiu</term>, passato che si ha il fiume, camminando per <term ref="#sirocco">sirocco</term> cinque giornate, di continuo si trova terre, castelli et grandi habitationi, ricche
+         et molto abbondanti di ogni vittuaria, et camminasi per monti et anche per piani et
+         boschi assai, nelli quali si trovano alcuni arboscelli d’i quali si raccoglie la <term ref="#canfora">canfora</term>. </seg>
+      <seg xml:id="r-ii-77_2_2" n="2"> È paese molto abondante di salvaticine; sono <term ref="#idolatri">idolatri</term>, et sotto il <term ref="#gran-can">Gran Can</term>, della iurisditione di <term ref="#cangiu">Cangiu</term>. </seg>
+      <seg xml:id="r-ii-77_2_3" n="3"> Et passate cinque giornate, si trova la città di <term ref="#zaitum">Zaitum</term>, nobile et bella, la qual ha un porto sopra il <term ref="#mare-oceano">mare Oceano</term>, molto famoso per il capitare che fanno ivi tante navi con tante mercantie, le qual
+         si spargono per tutta la provincia di <term ref="#mangi">Mangi</term>. </seg>
+      <seg xml:id="r-ii-77_2_4" n="4"> Et vi viene tanta quantità di pevere che quella che viene condotta di <term ref="#alessandria">Alessandria</term> alle parti di ponente è una minima parte, et quasi una per cento a comparatione di
+         questa; et saria quasi impossibile di credere il concorso grande di mercatanti et
+         mercantie a questa città, per esser questo un d’i maggior et piú commodi porti che
+         si trovino al mondo. </seg>
+      <seg xml:id="r-ii-77_2_5" n="5"> Il <term ref="#gran-can">Gran Can</term> ha di quel porto grande utilità, perché cadauno mercatante paga di dretto, per cadauna
+         sua mercantia, dieci misure per centenaro. </seg>
+      <seg xml:id="r-ii-77_2_6" n="6"> La nave veramente vuole di nolo dalli mercatanti delle mercantie sottili trenta per
+         centenaro, del pevere quarantaquattro per centenaro, del legno di <term ref="#aloe">aloe</term> et <term ref="#sandalo">sandali</term> et altre specie et robe quaranta per centenaro, di sorte che li mercatanti, computato
+         i dretti del re et il nolo della nave, pagano la metà di quello che conducono a questo
+         porto: et nondimeno di quella metà che li avanza fanno cosí grossi guadagni che ogni
+         hora desiderano di ritornarvi con altre mercantie. </seg>
+      <seg xml:id="r-ii-77_2_7" n="7"> Sono <term ref="#idolatri">idolatri</term>, et hanno abondanza di tutte le vittuarie. [8] È molto dilettevol paese et le genti sono molto quiete et dedite al riposo et otioso
+         vivere. [9] Vengono a questa città molti della <term ref="#india"> Superior India</term>, per causa di farsi dipingere la persona con gli aghi (come di sopra habbiamo detto),
+         per essere in questa città molti valenti maestri di questo ufficio. [10] Il fiume che entra nel porto di <term ref="#zaitum">Zaitum</term> è molto grande et largo, et corre con grandissima velocità, et è un ramo che fa il
+         fiume che viene dalla città di <term ref="#quinsai">Quinsai</term>; et dove si parte dall’alveo maestro vi è la città di <term ref="#tingui">Tingui</term>, della qual non si ha da dir altro se non che in quella si fanno le scudelle et piadene
+         di porcellana, in questo modo, secondo che li fu detto. [11] Raccolgono una certa terra come di una minera et ne fanno monti grandi, et lascianli
+         al vento, alla pioggia et al sole per trenta et quaranta anni, che non li movono:
+         et in questo spatio di tempo la detta terra si affina, che poi si puol far dette scudelle,
+         alle qual danno di sopra li colori che vogliono, et poi le cuocono in la fornace.
+         [12] Et sempre quelli che raccolgono detta terra la raccolgono per suoi figliuoli o nepoti.
+         [13] Vi è in detta città gran mercato, di sorte che per un <term ref="#grosso">grosso</term> venetiano si haverà otto scodelle. [14] Hor, havendo detto di alcune città del regno di <term ref="#concha">Concha</term>, che è uno delli nove della provincia di <term ref="#mangi">Mangi</term>, del quale il <term ref="#gran-can">Gran Can</term> ha quasi cosí grande entrada come del regno di <term ref="#quinsai">Quinsai</term>, lasseremo di parlar piú di questi tal regni, perché messer Marco non vi fu in alcun
+         d’essi, come fu in questi duoi di <term ref="#quinsai">Quinsai</term> et di <term ref="#concha">Concha</term>. [15] Et è da sapere che in tutta |49v| la provincia di <term ref="#mangi">Mangi</term> si osserva una sola favella et una sola maniera di lettere; nondimeno vi è diversità
+         nel parlare per le contrade, come saria a dir Genovesi, Milanesi, Fiorentini et Pugliesi,
+         che, anchor che parlino diversamente, nondimeno si possono intendere. [16] Ma, perché anchor non è compiuto quanto messer Marco ha deliberato di scrivere, si
+         metterà fine a questo secondo libro, et si cominciarà a parlare delli paesi, città
+         et provincie dell’<term ref="#india">India Maggior, Menor et Mezzana</term>, nelle parti delle qual è stato quando si trovava alli servitii del <term ref="#gran-can">Gran Can</term>, mandato da quello per diverse faccende, et dapoi quando li venne con la regina del
+         re <term ref="#argon">Argon</term>, con suo padre et barba, et ritornò alla patria: però si dirà delle cose maravigliose
+         che ’l vidde in quelle, non lasciando adrieto le altre che udí dire da persone di
+         riputatione et degne di fede, et anche che li fu mostrato sopra carte di marinari
+         di dette <term ref="#india">Indie</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

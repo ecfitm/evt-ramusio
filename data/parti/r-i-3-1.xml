@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-3-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-3">
+      <note>
+	<p>Il modello di Ramusio è <ref type="witlink" target="#z-null-2">Z 2 1-3</ref> («In <term ref="#turchomania">Turchomania</term> sunt tria genera gentium. Videlicet Turcomani, qui Macometum adorant et retinent suam legem: et est gens simplex et habent turpe loquinium et
+         permanent in montaneis et viis, ubi sciunt esse bonum pasculum, quia vivunt solummodo
+         de bestiis; et nascuntur ibi boni equi et muli magni valoris. Et alie gentes sunt
+         Armenii et <term ref="#greci">Greci</term>, qui cum ipsis mixsti sunt in civitatibus et castris, et vivunt de mercimoniis et
+         artibus; et ibi laborantur drappi de syrico crimisi»), riprodotto con discreta aderenza.
+         Fa eccezione il riferimento al «grosso intelletto» dei Turcomanni, che sostituisce
+         l’osservazione sul <hi rend="italics">turpe loquinium</hi> ed è desunto probabilmente dalla lezione di <ref type="witlink" target="#p-i-12">P I 12 1</ref>: «Turchi […] indocti homines sunt et rudes […]», parafrasi del <hi rend="italics">sinple jens</hi> della tradizione). L’accenno di Ramusio ai «luoghi inaccessibili» abitati dai Turcomanni
+         si spiega invece  ipotizzando, nel suo esemplare Z, un sintagma del tipo *<hi rend="italics">in montaneis et</hi> <hi rend="italics">inuiis</hi> (con l’agg. <hi rend="italics">invius</hi> “impenetrabile, inaccessibile” traduzione dell’a.fr. <hi rend="italics">landes</hi> “waldige gegend”: cfr. <hi rend="italics">AFW</hi>, V, col. 130), laddove il toledano ha invece la più facile lezione <hi rend="italics">viis</hi> “strade, percorsi”. La difficoltà di questo luogo testuale deve avere indotto all’errore
+         anche l’autore di V, che, lavorando su un testo latino vicino a Z e fraintendendo
+         probabilmente la stringa *<hi rend="italics">inuiis</hi>, ha prodotto l’eccentrico <hi rend="italics">in le neve </hi>(<ref type="witlink" target="#v-null-10">V 10 2</ref>: «Et stano in le montagne et in le neve […]», forse anche per attrazione semantica
+         con il contiguo riferimento alle montagne).</p>
+	<p>Z traduce fedelmente <ref type="witlink" target="#f-null-20">F XX 2-5</ref> «En <term ref="#turchomania">Turcomanie</term> ha trois jenerasion de jens. Ce sunt Turcoman, que aürent <term ref="#macometto">Maomet</term> et tenent sa loy et sunt sinple jens et ont brut lengajes. Il demorent en montagne
+         et en landes, la ou il savent qui haie buen pasquor, por ce qe il vivent de bestiaus.
+         Et voç di qu’il hi naisent buen chavalz turcoman et bon mul de grant vailançe. Et
+         les autres jens sunt Armin et <term ref="#greci">Greçois</term> que mesleemant demorent com aus en viles et en casteus, et vivent de mercaandie et
+         d’ars: car sachiés que il hi se laborent le sovran tapis dou monde et li plus biaus;
+         il i se laborent encore dras de soie cremosi et d’au‹t›res color mout biaus et riches,
+         et de maintes autres causes ausint». I brevi sviluppi di F mancanti nel toledano (segnatamente,
+         il passo sulla lavorazione dei tappeti – eliminato forse per <hi rend="italics">saut du même au même</hi> su <hi rend="italics">ibi</hi> <hi rend="italics">laborantur</hi> – e l’accenno alla policromia dei panni intessuti) ma presenti in R probabilmente
+         non mancavano all’esemplare Z posseduto da Ramusio: lo si deduce, in filigrana, dalla
+         perfetta sovrapponibilità delle linee di R con quelle di F.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

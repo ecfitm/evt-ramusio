@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-61</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-61">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXI </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-61_1_1" n="1"> ‹P›artendosi da <term ref="#erginul">Garelli</term> verso levante se trova una citade e provincia che se chiama <term ref="#egrigaia">Egrigaian</term>; et à citade et chastelli sotto si et è dela provincia de <term ref="#tanguth">Tangut</term>, et la citade maistra se chiama <term ref="#calacia">Galagian</term>. </seg>
+      <seg xml:id="vb-null-61_1_2" n="2"> La giente ve abita sono <term ref="#idolatri">idolatri</term> et è gli .IIII°. giexie de cristiani nestorini; et sono sotoposti al <term ref="#gran-can">Gran Chan</term>. </seg>
+      <seg xml:id="vb-null-61_1_3" n="3"> In questa citade se fano de finissimi çanbelloti de pello de ganbello et anchor
+         de lana biancha, e molti de diti çanbelloti fino mandati a vender in alltre parte
+         e portati per marchadanti in molti luogi e provincie.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

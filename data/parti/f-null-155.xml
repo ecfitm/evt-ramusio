@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-155</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-155">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CLV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-155_1_1" n="1"> Ci devise de la cité de <term ref="#fugiu">Fugiu</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-155_2_1" n="1"> Or sachiés qe ceste cité de <term ref="#fugiu">Fugiu</term> est le chief dou reigne que est apellé <term ref="#concha">Choncha</term>, qe est de le une part des .VIIII. de la provence dou <term ref="#mangi">Mangi</term>. Et sachiés qe en ceste cité se fait grant mercandies et hi a maint mercaant et homes
+         d’ars. </seg>
+      <seg xml:id="f-null-155_2_2" n="2"> Il sunt <term ref="#idolatri">ydules</term> et au <term ref="#gran-can">Gran Kan</term>. Il hi demorent grandisme quantité d’omes d’armes, |70c| car sachiés que hil hi demorent
+         plusor hostes dou Grant Chan, por ce qe por le païs maintes foies se revelent cité e chastiaus, e celz de l’ost
+         que demorent a ceste cité hi vont mantinant qu’il se revelent e la prenent et destruent;
+         e por cest achaisons hi demorent plusors hostes dou <term ref="#gran-can">Grant Kan </term>en cest cité. </seg>
+      <seg xml:id="f-null-155_2_3" n="3"> Et sachiés che por le mi de ceste cité vait un grant flun qe bien
+         est large un mil. Et en ceste cité se font maintes nes, les quelz najent por cel flum.
+         </seg>
+      <seg xml:id="f-null-155_2_4" n="4"> Il font çuchar en si grant abondance qe nulz le poroit conter. Il hi se fait grant
+         mercandies de perles e d’autres pieres presiose, e ce est por ce qe les nes de <term ref="#india">Yndie</term> hi vienent maintes con maint merchaant qe usent en les ysles de <term ref="#india">Endie</term>. </seg>
+      <seg xml:id="f-null-155_2_5" n="5"> Et encore voç di que ceste ville est pres au port de <term ref="#zaitum">Çaiton</term>, en la <term ref="#mare-oceano">mer Osiane</term>, et illuec vienent maintes nes de <term ref="#india">Indie</term> con maintes mercandies; e puis de cest port vienent les nes por le gran flum qe je
+         voç ai dit desoure jusque a la cité de <term ref="#fugiu">Fugiu</term>: et en ceste mainere hi vienent maintes chieres cousses de <term ref="#india">Indie</term>. </seg>
+      <seg xml:id="f-null-155_2_6" n="6"> Il ont grant abondance de toutes cousses qe a cors d’omes beiçogne por vivre.
+         Il ont biaus jardinz et deletables, con maint buenç fruit. </seg>
+      <seg xml:id="f-null-155_2_7" n="7"> Elle est si bone cité
+         et si bien ordree de toutes couses qe ce est mervoille. </seg>
+    </p>
+    <p n="3"/>
+  </div>
+</body>
+</text>
+     </TEI>

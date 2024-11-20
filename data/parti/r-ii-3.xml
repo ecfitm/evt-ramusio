@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-3" n="1">
+    <head>
+      <hi rend="bold">R, II 3</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-3_1_1" n="1"> Della sorte di premii che egli dà a quelli che si portano bene in battaglia, et
+         delle tavole d’oro ch’egli dona. Cap. 3.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-3_2_1" n="1"> Ma, ritornando al proposito nostro, diremo del merito et honore che ei dà a coloro
+         che si portano valorosamente in battaglia. </seg>
+      <seg xml:id="r-ii-3_2_2" n="2"> Dovete adunque sapere che ’l <term ref="#gran-can">Gran Can</term> ha dodeci baroni savii, che hanno carico di intendere et informarsi delle operationi
+         che fanno li capitani et soldati, particolarmente nelle imprese et battaglie ove si
+         ritrovano, et quelle poi referir al <term ref="#gran-can">Gran Can</term>, qual, conoscendoli benemeriti, se sono capo di cento huomini gli fa di mille, et
+         dona molti vasi di argento et tavole di comandamento et signoria. </seg>
+      <seg xml:id="r-ii-3_2_3" n="3"> Imperoché quello che è capo di cento ha la tavola d’argento, et quello che è capo
+         di mille ha la tavola d’oro o vero d’argento indorato, et quello che è capo di diecimila
+         ha la tavola d’oro con un capo di leone; et il peso di queste tavole è tale: di quelli
+         che hanno il dominio di mille, sono ciascuna di peso di saggi cento et venti; et quella
+         che ha il capo di leone è di peso di saggi dugento et venti. </seg>
+      <seg xml:id="r-ii-3_2_4" n="4"> Sopra tal tavola è scritto un commandamento che dice cosí: «Per le forze et virtú
+         del magno Iddio, et per la gratia che ha dato al nostro imperio, il nome del <term ref="#gran-can">Can</term> sia benedetto, et tutti quelli che non lo obediranno morino et siano destrutti».
+         </seg>
+      <seg xml:id="r-ii-3_2_5" n="5"> Tutti quelli che hanno queste tavole hanno anchora privilegii in scrittura di tutte
+         quelle cose che far debbono et possono nel suo dominio. </seg>
+      <seg xml:id="r-ii-3_2_6" n="6"> Et quello che ha il dominio di centomila, o vero sia capitano generale di qualche
+         grand’essercito, ha una tavola d’oro di peso di saggi trecento con le parole sopradette,
+         et sotto la tavola è scolpito un lione con le imagini del sole et della luna, et oltre
+         di ciò ha il privilegio del gran comandamento che appare in questa nobil tavola. </seg>
+      <seg xml:id="r-ii-3_2_7" n="7"> Ogni volta che cavalcano in publico gli viene portato un pallio sopra la testa, per
+         mostrar la grande auttorità et potere che hanno, et quando segghono deono sempre sedere
+         sopra una cathedra d’argento. [8] Et il <term ref="#gran-can">Gran Cane</term> dona ad alcuni baroni una tavola dove è scolpita la imagine del <term ref="#girifalco">girifalco</term>, et questi possono menare seco tutto l’essercito d’ogni gran principe per sua guardia;
+         et può pigliar il cavallo del <term ref="#gran-can">Gran Can</term>, volendolo, et il medesmo può pigliare i cavalli degli altri che siano di minor dignità.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

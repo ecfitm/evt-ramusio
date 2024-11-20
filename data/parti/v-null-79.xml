@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-79</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-79">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 79</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-79_2_1" n="1"> ‹Q›uando el se parte da <term ref="#fugiu">Fugui</term> el se passa per uno fiume, et vasse sie zornade per sirocho, trovando chontinuamente
+         zitade e chastelli in le qualle sono tute chosse abondevelmente; et sono monti, valle
+         e planure et gran boschi, in li qualli sono molti albori, et sono molte chazaxon.
+         </seg>
+      <seg xml:id="v-null-79_2_2" n="2"> La zente viveno de marchadantie et arte, et sono soto la signoria del Gran <term ref="#gran-can">Chan</term>; la zente dele qualle <term ref="#idolatri">adorano l’idole</term>. </seg>
+      <seg xml:id="v-null-79_2_3" n="3"> Et quando el se sono andade queste sie zornade el se trova una zitade chiamata
+         <term ref="#zaitum">Ziargati</term>, la qual sono molto granda e nobelle; et in questa zitade sono uno porto, el qualle
+         tute le nave d’<term ref="#india">India</term> vieno chon molte marchadantie, zoè piere prezioxe de gran valore, e chon molte perle
+         grosse; et sono le marchadantie in sì gran bondanzia ch’el è una chossa meraveioxa
+         a veder. </seg>
+      <seg xml:id="v-null-79_2_4" n="4"> E da questa zitade, de questo porto, |92v| vano per tuta la provinzia
+         del <term ref="#mangi">Mongin</term>; e per una nave charga de pevere che vien d’<term ref="#alessandria">Alesandria</term> in christianitade, a questo porto ne va più de zento, perché l’è uno dî do porti
+         che se trova nel mondo al qual vieno portade molte marchadantie. </seg>
+      <seg xml:id="v-null-79_2_5" n="5"> Onde el Gran <term ref="#gran-can">Chan</term> àno da questa zitade gran rendedo, perché tuti i marchadanti che vien d’<term ref="#india">India</term> dano dele marchadantie e piere e perle diexe per zento, zoè el dezimo de tute chosse.
+         </seg>
+      <seg xml:id="v-null-79_2_6" n="6"> Le nave se tuono per lor pagamento, zoè per lo passo dele marchadantie sotil trenta
+         per zento; del pevere quaranta per zento; sì che i marchadanti dano tal nollo e dreto
+         al <term ref="#gran-can">Gran Chan</term>, la mitade de tute chosse ch’i porta; e però se puol chreder che ’l Gran <term ref="#gran-can">Chan</term> abia gran texoro. </seg>
+      <seg xml:id="v-null-79_2_7" n="7"> La zente de questa zitade <term ref="#idolatri">adora le idolle</term>. </seg>
+      <seg xml:id="v-null-79_2_8" n="8"> Or questa tera sono de gran solazo, et sono abondante de tute chosse che apartien
+         al chorpo umano. [9] Et in quela provinzia sono una zitade chiamata <term ref="#tingui">Tungui</term>, in la qual se fano schudele de porzelana in gran quantitade, le plu belle che se
+         puol trovar in alguna altra zitade, et non se fano se no in questa; e da questa zitade
+         vien portade per tuto el mondo; et sono bon marchado, ed àsene tre per uno groso da
+         Veniexia; et sono molto bele. [10] Et questi de questa zitade àno parlar per sí. [11] Or abiamo
+         dito de ’sto reame de <term ref="#fugiu">Fugui</term>, che sono la nona parte del Gran <term ref="#gran-can">Chan</term>, et sì àno gran rendedo, ed è mazor cha quello de <term ref="#quinsai">Chonsain</term>. [12] Nui non avemo dito i nuove reami del <term ref="#mangi">Mongin</term>, ma sollamente tre, zoè di <term ref="#iangui">Angui</term>, de <term ref="#quinsai">Quiansai</term>, e de <term ref="#fugiu">Fugui</term>; e di altri sie nui lasseremo perché la seria longa materia, perché avemo ben |93r|
+         dito del reame del <term ref="#mangi">Mongin</term> e del <term ref="#cataio">Chataio</term> e de molte altre provinzie, e de zente, bestie, oxeli, oro, arzento, perle et marchadantie
+         e de molte altre chosse, chomo avete aldido. [13] E perché el nostro libro nonn è
+         chonpido de quelle chosse le qualle nui voremo schriver, de tuti i fati de Zudei,
+         non sono anchora dite, et sono ben chosse da notare a quelli che non le sa, perché
+         sono molte meraveioxe chosse et sono chosse da meter per schrito nel nostro libro,
+         e da parte se dirà chomo misier Marcho Pollo vete et disse per hordene. [14] Et sapié
+         che ’l dito misier Marcho Pollo stete tanto in <term ref="#india">India</term> ch’el sape tuto l’esser de quelli e dei lor chostumi e marchadantie, che quaxi el
+         non fo mai persona che savesse dir meio la veritade. [15] Veramente le sono tante
+         meraveie che molto se meraveierà i auditori; niente di meno meteremo quelle per schrito
+         segondo chomo misier Marcho Pollo fermava quelle esser vere, chomo porete aldir.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

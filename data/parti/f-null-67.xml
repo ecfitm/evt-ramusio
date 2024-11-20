@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-67</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-67">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LXVII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-67_1_1" n="1"> Ci devise de la gran bataille ke fu entre le <term ref="#prete-gianni">Prestre Johan</term> et <term ref="#cingis-can">Cinchin Kaan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-67_2_1" n="1"> Et aprés ce deus jors s’armerent andeus les parties et se conbatirent ensenble
+         duremant, et fu la grangnor bataille que fust jamés veue. </seg>
+      <seg xml:id="f-null-67_2_2" n="2"> Il hi oit gran maus
+         et d’une part et d’autre, mes au dereant venqui la bataille <term ref="#cingis-can">Cinchins Can</term>, et fu en celle bataille hocis le <term ref="#prete-gianni">Prestre Johan</term>, et de celui jor avant perde sa tere que <term ref="#cingis-can">Cinchin Can</term> la ala conquistant tout jor. </seg>
+      <seg xml:id="f-null-67_2_3" n="3"> Et si voç di que <term ref="#cingis-can">Cinchin Chan</term>, puis celle bataille, regna .VI. anz et ala conquistant maint castiaus et mant provinces;
+         mes a chief de .VI. anz ala a un chastiaus qe avoit a nom <term ref="#thaigin">Caagiu</term> et iluec fu feru d’une sagite eu genoeilz et de celui coux morut: donc il fu grand
+         domajes por ce qu’il estoit preudomes et sajes. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-67_3_1" n="1"> Or vos ai divisé comant les <term ref="#tartari">Tartars</term> ont premermant seingnor, ce fu <term ref="#cingis-can">Cinchins Can</term>; et encore voç ai contés conmant il vinquirent premeremant le <term ref="#prete-gianni">Prestre Johan</term>. Or voç vueil conter de lor costumes et de lor uçance.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

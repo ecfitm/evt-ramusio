@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-96</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-96">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 96</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-96_2_1" n="1"> Ultra predictum flumen est provincia <term ref="#carazan">Caraian</term>; in ipsa enim sunt septem regiones, et est versus occidens. </seg>
+      <seg xml:id="l-null-96_2_2" n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, et habent proprium ydeoma. </seg>
+      <seg xml:id="l-null-96_2_3" n="3"> A supradicto flumine .V. dietis per occidens – ubi
+         sunt multe civitates et castra, et nascuntur boni equi –, tunc invenitur principalis
+         civitas, que est caput regni, dicta <term ref="#iaci">Iaci</term>, que nobilis est et magna, in qua sunt mercatores quam plurimum et artiste. </seg>
+      <seg xml:id="l-null-96_2_4" n="4"> Et
+         sunt ibi <term ref="#idolatri">ydolatre</term> et adorantes <term ref="#macometto">Machometh</term>, |15| et aliqui christiani nestorini. </seg>
+      <seg xml:id="l-null-96_2_5" n="5"> Habent frumentum et riçum in habundantia;
+         frumentum tamen non commedunt: infirmarentur enim, ut dicunt. Riço vero in commestionibus
+         utuntur; et ex ipso similiter potum faciunt, clarum et inebriantem pariter sicut vinum.
+         </seg>
+      <seg xml:id="l-null-96_2_6" n="6"> Pro moneta vero utuntur porcellanis albis, que in mari nascuntur, ex quibus .LXXX.
+         pro uno exagio argenti computant (quod duorum venetorum grossorum valoris existit);
+         et .VIII. exagia argenti boni pro uno exagio auri ponunt. </seg>
+      <seg xml:id="l-null-96_2_7" n="7"> Quod si quis cuicumque
+         ‹mulieri› placuerit venerea copula coniungatur, dummodo consensus mulieris existat,
+         nichil grave habetur nec in opprobrium reputatur. </seg>
+      <seg xml:id="l-null-96_2_8" n="8"> Commedunt hee gentes carnes
+         crudas sicut nos coctas: incidunt enim eas in parva frustra easque admiscent sal‹s›e
+         ex aleis facte, sicque eas commedunt. [9] Est hic lacus magnus, circuitus circa .C.
+         miliarum, in quo adest magna quantitas piscium maximorum.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

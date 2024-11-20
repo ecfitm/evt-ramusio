@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-95</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-95">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XCV</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-95_2_1" n="1"> Quando l’omo à pasato questo fiume, el entra in la provinzia de <term ref="#carazan">Caraian</term>, in la qual è zinque regniami. </seg>
+      <seg xml:id="va-null-95_2_2" n="2"> Et è versso ponente, et ’d’è soto el <term ref="#gran-can">Gran Chaan</term>. </seg>
+      <seg xml:id="va-null-95_2_3" n="3"> Et è-ne re uno figiuolo del <term ref="#gran-can">Gran Chaan</term> ch’à nome <term ref="#centemur">Esetemur</term>, lo qual è molto posente, savio e richo, e mantien ben soa segnioria et la tera in
+         gran iustizia. </seg>
+      <seg xml:id="va-null-95_2_4" n="4"> La zente della chontrà è <term ref="#idolatri">idolatra</term>.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-95_3_1" n="1"> E quando l’omo se parte da quel fiume, el chavalcha zinque zornade trovando zità
+         e chastelle assai. </seg>
+      <seg xml:id="va-null-95_3_2" n="2"> In chavo de queste zinque zornade se truova la gran zità ch’à
+         nome Iaci, la qual è molto granda e nobelle, e fa grande merchadantia. </seg>
+      <seg xml:id="va-null-95_3_3" n="3"> In questa
+         zità è idolatri e cristiani nestorini. </seg>
+      <seg xml:id="va-null-95_3_4" n="4"> El n’è formento e rixo assai, ma lla zente
+         della chontrà non manzano pan de formento, perché el non è sano in quella provinzia,
+         ma fano pan de rixo, ‹e beveno vin de rixo› et de spezie, le qual plui tosto innivria
+         l’omo cha non fa el vino. [9] I àno moneta in cotal modo: i spendeno porzellane bianche
+         che se trovano innel mar; le otanta porzellane val uno sazio de arzento, che val do
+         venizian grossi – oto sazi d’arzento fin val uno sazio d’oro fin. [10] In questa zità
+         se fa salle in grande abondanzia, e se fa d’aqua de pozo, del qual salle à tuta la
+         provinzia, e lo re sì n’à grande intrada. [11] In questa zità non chura l’omo se l’uno
+         va ala moier dell’altro, purché sia de volontà della femena. [12] In questa chontrà
+         è uno lago che volze ben zento meglia, in lo qual se truova molto pesie e bon. [13]
+         La zente de questa chontrà manzano la charne chruda a chotal muodo: i lla taiano menuta
+         e poi la meteno in uno savor d’aio et de spezie, e poi la manzano chusì chomo nui
+         manzemo la cota.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

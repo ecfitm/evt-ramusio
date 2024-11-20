@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-91</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Non risulta possibile stabilire con certezza quale sia la fonte del par. 91. Nella
+         parte iniziale R si mostra affine a <ref type="witlink" target="#v-null-76">V 76 18-19</ref> «[…] e questo se fano per tuta la provinzia del <term ref="#mangi">Mongin</term> e del <term ref="#cataio">Chataio</term> [R «Et questo si osserva in le provincie del <term ref="#mangi">Mangi</term> et del <term ref="#cataio">Cataio</term>»]. Anchora questi oserva un altro muodo: che tuti quelli che tien albergo schriveno
+         el nome de tuti quelli che alberga in lo ostello, el dì, el mexe li qualli se alberga;
+         onde el <term ref="#gran-can">Gran Chan</term> puol saver per tuto l’ano chi va e chi vien per tute le suo’ tere, et questa sono
+         una chossa che apartien al’omo savio». Tale attacco si legge anche in F, per cui è
+         possibile che fosse presente anche nell’affine di Z posseduto da Ramusio (il codice
+         Zelada è invece lacunoso in questo punto): <ref type="witlink" target="#f-null-151">F CLI 33-34</ref> «[…] Et ausi se fait por toute la provence dou <term ref="#mangi">Mangi</term> et de cele dou <term ref="#cataio">Chatai</term>. Et encore voç dirai une autre bielle mainere qe il ha: car sacchiés qe tuit celz
+         qe tienent herbergies e que herbergient les viandans, tuit celz qe en lor erbergies
+         erbergent, escrivent por lor non, et quel jor de quel mois hi erbergie, si qe, por
+         tout l’an, poit savoir le <term ref="#gran-can">Grant Kan</term> qui vait e qui vient por toute sa tere, et ce est bien couse que afiert a sajes homes».
+         La forma «hostarie», invece, potrebbe risalire a <ref type="witlink" target="#vb-null-114">VB CXIV 44-45</ref> «Et questo costumo è dicreto per tutta la provincia et per questo modo el segnore
+         senpre pò sapere quante aneme sono ne’ llor tere. Ecian tuti quelli tengono i albergi
+         e lle ostarie covien scrivano tuti quei capitano al suo albergo, el nome, el dì, el
+         mexe et a questo modo el segnore sa quanti viandanti e quanti abita nella tera». L’impiego
+         dell’avverbio «similmente» e il riferimento al «libro» su cui gli osti trascrivono
+         il nome degli ospiti, infine, potrebbero essere indizi di un contatto con <ref type="witlink" target="#p-ii-64">P II 64 30</ref> «[…] et in tota provincia <term ref="#mangi">Mangy</term> […]; similiter etiam stabularii seu hospitium receptores scribunt in suis quaternis
+         nomina omnium viatorum quos in suis hospitiis recipiunt, et quo mense et quo die in
+         eius hospitium sunt ingressi». La frase conclusiva («et mandano […] piazze») parrebbe
+         un’aggiunta di Ramusio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-60-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-60">
+      <note>
+	<p>Nelle prime battute della pericope («Et in questa città fa residentia») R si attiene
+         alla versione di Z, che risulta più ricca di dettagli di quella che si legge nelle
+         altre famiglie del <hi rend="italics">Milione</hi>:<ref type="witlink" target="#z-null-77"> Z 77 3-4</ref> «In ista quidem civitate residet, sive sedem habet, unus de duodecim baronum <term ref="#gran-can">Magni Can</term> qui in alciori gradu dignitatum sunt. Nam ista electa est una de sedibus duodecim»
+         (vd. <ref type="witlink" target="#f-null-143">F CXLIII 2</ref> «[…] En ceste cité siet un des .XII. baronz dou <term ref="#gran-can">Grant Kaan</term>, car elle est esleue por un des .XII. sejes […]»). Nella parte rimanente del paragrafo
+         (da «uno d’i dodici» fino alla fine), il modello è <ref type="witlink" target="#vb-null-106">VB CVI 2</ref> «E de questa cità è segnore uno de .XII. baroni per avanti nominati, governatori
+         dele provincie elleti per el signore <term ref="#gran-can">Gran Can</term>». Non sembra che le altre fonti ramusiane abbiano in qualche modo influito sulla
+         pericope in questione: <ref type="witlink" target="#l-null-118">L 118 1</ref> «[…] et in ipsa manet unus ex .XII. baronibus <term ref="#gran-can">Magni Canis</term>»; <ref type="witlink" target="#v-null-70">V 70 3</ref> «Et in questa zitade sì è sorastante uno dî dodexe sorastanti del <term ref="#gran-can">Gran Chan</term>, et questo perché la sono eleta una dele dodexe sedie del <term ref="#gran-can">Gran Chan</term> […]». In P il passo è omesso.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

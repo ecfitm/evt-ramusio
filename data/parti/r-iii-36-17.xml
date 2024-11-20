@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-36-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>P III 40 2 il riferimento al dente di cinghiale (che pure era in VA CXLIX 22-23 «Queli messi tornàno e menàno quel prexo, e rezetòno chosse molte stranie de quelle
+         contrade, e portàno de quelle cosse al <term ref="#gran-can">Gran Chan</term>, zò fo denti de porco zengiaro, tra i quali ne era uno che pesava quatordexe livre.
+         E dixeno ch’el ge n’è molti zengiari grandi chome bufali») manca: i messi «[… ] inter
+         cetera que de illis insulis referebant dixerunt apros ibi esse magnos ut bubali […]».
+         Ramusio ricorre a <ref type="witlink" target="#z-null-124">Z 124 35-37</ref>, rielaborandone il testo: «Et illi nuncii apportaverunt Magno Domino dentes apri qui erant ultra modum magni; et <term ref="#gran-can">Magnus Dominus</term> ponderari fecit unum qui ponderavit quatuordecim libris. Potestis ergo considerare
+         quam ‹magnus› est aper qui tam magnos dentes habet! Et dicunt quod ibi sunt apri magnitudinis
+         buffalorum». Il passo è versione letterale di F CXC 16 «E si voç di tout voirmant que celz mesajes aportent au Grant Chan dens de senglier sauvajes, les quelz estoient desmesureemant granç. E si voç di qe
+         le <term ref="#gran-can">Grant Sire</term> en fist poiser un que peisse libres .XIIII. Or poés savoir comant fu grant le sengler
+         que tel dens avoit. Et si voç ‹di› que il dient que hi ni a bien des sengler qui sunt
+         grant come un bufal».</p>
+	<p>Gli altri relatori. L 177 12 si allinea alla lezione di F: «apportaverunt eciam, inter alia extranea, maximos
+         aliquos aprinos dentes, ex quibus fuerunt ponderis librarum .XIIIIor. Ex quo maxime magnitudinis apparet fuisse facile credi potest: dicunt enim apros
+         ibi esse aliquos in magnitudine bubalorum»; V 106 15-16 sopprime il richiamo al VOS: «Et questi sì portorono al <term ref="#gran-can">Gran Chan</term> denti de porcho zingiar i qualli erano oltra mesura grandi; onde el <term ref="#gran-can">Signor</term> ne fexe pexar uno, el qual pexava lire quatordexe. E dixeno che sono porchi de grandeza
+         de bufali […]»; VB CLX 21-22 elimina il paragone coi bufali (e chiama nuovamente in causa l’<hi rend="italics">auctoritas </hi>di Marco): «Anchor quei suo’ mesaçi duseno denti de porçi salvatichi i qualli erano
+         sì grandi che meraveia era a vederlli. El segnor, presente mi Marcho, i feçe pesar
+         e fono pexati che al pexo nostro de qui pexava libre .XIIII°. l’uno: ora podì intender
+         de che grandeça deno esser i porci che àno sì grandi denti».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

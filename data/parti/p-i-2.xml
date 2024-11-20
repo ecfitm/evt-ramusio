@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-2">
+    <head>
+      <hi rend="bold">P, I 2</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-2_2_1" n="1"> Eo tempore vir quidem tocius prudencie a prenominato <term ref="#ulau">Alau</term> rege ad maximum <term ref="#tartari">Tartarorum</term> regem directus applicuit <term ref="#bocara">Bochara</term>; ibique prefatos reperiens viros, qui iam plene fuerant in lingua tartarica eruditi,
+         super modum letatus ‹est› eo quod viros latinos numquam alios viderat, quos tamen
+         videre plurimum affectabat. </seg>
+      <seg xml:id="p-i-2_2_2" n="2"> Et cum diebus plurimis cum eis colloquium et consorcium
+         habuisset et eorum gratos mores fuisset expertus, persuasit eis ut cum eo simul maximum
+         <term ref="#tartari">Tartarorum</term> regem adirent, promittens quod ab eo honorem maximum essent ac beneficia maxima |4b|
+         percepturi. </seg>
+      <seg xml:id="p-i-2_2_3" n="3"> Qui videntes se non posse sine difficultate diutina habere regressum
+         ad propria, Dei se presidio committentes, pariter aripuerunt iter cum illo, familiares
+         christianos habentes comites quos secum duxerant de Venetiis. </seg>
+      <seg xml:id="p-i-2_2_4" n="4"> Spacio autem anni
+         unius pervenerunt ad regem maximum omnium <term ref="#tartari">Tartarorum</term> qui vocabatur <term ref="#cublai-can">Cublay</term>, qui in lingua eorum <term ref="#gran-can">Magnus Kaam</term> dicitur, quod in latina lingua sonat “magnus rex regum”: causa autem tante prolixitatis
+         temporum in eundo fuit huius quia propter nives et inundaciones fluminum et torrentum,
+         eos in via expectare oportuit donec nives, que superexcreverant, et aque, que inundaverant,
+         declinarent. Fuit autem via eorum anno ipso subsequendo aquilonarem ventum qui a Venetis
+         vulgariter dicitur transmontanus. </seg>
+      <seg xml:id="p-i-2_2_5" n="5"> Que autem in via viderunt suo loco in |4c| libro
+         hoc per ordinem describuntur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

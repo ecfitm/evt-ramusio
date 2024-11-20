@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-47-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-47">
+      <note>
+	<p>Il passo si legge solo in <ref type="witlink" target="#p-ii-48">P II 48 1</ref> «Post <term ref="#amu">Amu</term>, ad orientalem plagam, ad dietas octo, habetur provincia <term ref="#tholoman">Tholoman</term>»; in<ref type="witlink" target="#v-null-61"> V 61 7</ref> «Or partendosse da ’sta provinzia el se chavalcha sete zornade inverso levante, dove
+         el se trova una provinzia chiamata <term ref="#tholoman">Toloman</term>»; in <ref type="witlink" target="#z-null-62">Z 62 9</ref> «Ibimus ad quamdam aliam provinciam nomine <term ref="#tholoman">Tholoman</term>, que distat ab ista per octo dietas» (vd. <ref type="witlink" target="#f-null-127">F CXXVII 8</ref> «Or noç partiron de <term ref="#amu">Aniu</term> et aleron a une autre provence qe a a non <term ref="#tholoman">Toloman</term>, qui est longe de ceste bien .VIII. jornee ver levant»). Varie somiglianze formali
+         («altra», «la qual è discosto da queste») provano che la fonte è un esemplare Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

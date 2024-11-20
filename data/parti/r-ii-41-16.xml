@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>Anche qui, come nelle pericopi precedenti, Ramusio si attiene a <ref type="witlink" target="#p-ii-41">P II 41 11</ref> «[…] demon autem per arrepticium responsum dat, dicens illum infirmatum quia illum
+         aut illum deum offendit […]». La versione che figura negli altri relatori e in F appare
+         meno articolata di quella di P: <ref type="witlink" target="#l-null-98">L 98 10</ref> «[…] respondetque in extasi manens: “Percussus est a tali spiritu quem offendit”
+         (nominatque aliquem) […]»; <ref type="witlink" target="#v-null-57">V 57 13</ref> «[…] et quello amalado a cholui responde el tal spirito lo à tochado, che lui li
+         à fato qualche despiaxer»; <ref type="witlink" target="#vb-null-85">VB LXXXV 13</ref> «[…] et quando èno chaçudi i altri dicono el tal spirito el tocha, per che el gia
+         fatto qualche gran malle et despiacere […]» (vd. <ref type="witlink" target="#f-null-119">F CXIX 21</ref> «E cel respont: «Le tielz espiriti le a toucé por ce qe il li fist aucu‹n› desplair»).
+         Z tralascia questa parte.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

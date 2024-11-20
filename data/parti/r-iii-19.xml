@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-19</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-19" n="1">
+    <head>
+      <hi rend="bold">R, III 19</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-19_1_1" n="1"> Dell’isola di <term ref="#zeilan">Zeilan</term>. Cap. 19.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-19_2_1" n="1"> Poi che, partendosi dall’isola di <term ref="#angaman">Angaman</term>, s’è navigato da mille miglia per ponente, et alquanto meno verso garbin, si trova l’isola di <term ref="#zeilan">Zeilan</term>, la qual al presente è la miglior isola che si trovi al mondo della sua qualità,
+         perché gira di circuito da duomila et quattrocento miglia. </seg>
+      <seg xml:id="r-iii-19_2_2" n="2"> Et anticamente era maggiore, perché girava a torno a torno ben tremila et seicento
+         miglia, secondo che si trova ne’ mapamondi d’i marinari di quelli mari; ma il vento
+         di tramontana vi soffia con tanto empito che ha corroso parte di quei monti, quali
+         sono cascati et sommersi in mare, et cosí è perso molto del suo territorio: et questa
+         è la causa perché non è cosí grande al presente come fu già per il passato. </seg>
+      <seg xml:id="r-iii-19_2_3" n="3"> Questa isola ha un re, che si chiama <term ref="#sendernaz">Sendernaz</term>; le genti <term ref="#idolatri">adorano gl’idoli</term>, et non danno tributo ad alcuno. </seg>
+      <seg xml:id="r-iii-19_2_4" n="4"> Gli huomini et le donne sempre vanno nudi, eccetto che coprono la loro natura con
+         un drappo. </seg>
+      <seg xml:id="r-iii-19_2_5" n="5"> Non hanno biade, se non risi et <term ref="#susimano">susimani</term>, de’ quali fanno olio. </seg>
+      <seg xml:id="r-iii-19_2_6" n="6"> Vivono di latte, risi et carne, et vino degli arbori sopradetti; hanno abondanza
+         del miglior <term ref="#verzino">verzino</term> che trovar si possa al mondo. </seg>
+      <seg xml:id="r-iii-19_2_7" n="7"> In questa isola nascono buoni et bellissimi rubini, che non nascono in alcuno altro
+         luogo del mondo, et similmente zafiri, topatii, amethisti, granate, et molte altre
+         pietre preciose et buone. [8] Et il re di questa isola vien detto havere il piú bel rubino che giamai sia stà veduto
+         al mondo, lungo un palmo et grosso com’è il braccio d’un huomo, splendente oltra modo,
+         et non ha pur una macchia, che pare che sia un fuogo che arda; et è di tanta valuta
+         che non se potria comprare con danari. [9] <term ref="#cublai-can">Cublai Gran Can</term> mandò ambasciadori a questo re, pregandolo che, s’ei volesse concederli quel rubino,
+         li daria la valuta d’una città; egli rispose che non glielo daria per thesoro del
+         mondo, né lo lascierebbe andar fuori delle sue mani, per essere stato de’ suoi predecessori:
+         et per questa causa il <term ref="#gran-can">Gran Can</term> non lo poté havere. [10] Gli huomini di questa isola non sono atti all’arme, per essere vili et codardi, et
+         se hanno di bisogno di huomini combattitori trovano gente d’altri luoghi vicini a’
+         Sarraceni. [11] Et non essendovi altre cose memorabili, procedendo piú oltra narreremo di <term ref="#malabar">Malabar</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

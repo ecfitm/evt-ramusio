@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-40</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-40">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 40</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-40_2_1" n="1"> ‹O›r sapiando el <term ref="#gran-can">Gran Chan</term> chomo <term ref="#caidu">Gaidin</term> li venia adosso chon tanto exerzito, fono molto spaventado, ma però non volse restare
+         de meterse in ponto; et chomo homo valoroxo feze radunare la suo’ zente, e radunata
+         che la fue disse: «Io non voio più portar chorona ní mantegnir signoria, s’io non
+         chondugo questi me do rebeli a morte chomo perfidi traditori». </seg>
+      <seg xml:id="v-null-40_2_2" n="2"> Et in vintido zorni
+         feze tuto el suo’ aparechiamento, che nesuni non se podea achorzer se no queli del
+         suo’ chonseio, et chongregò ben duxento e sesantamilia homeni da chavalo e zentomilia
+         pedoni; et dal’altra parte erano diexe a tanto. </seg>
+      <seg xml:id="v-null-40_2_3" n="3"> Ed era molto lutan l’exerzito
+         per aquistar luogi e zitade, ed erano sparti in pixor luogi, sì che a questo ponto
+         non poté aver apreso de sí molte zente; et quele ch’el avea in questa bataia fono
+         duxento e sesantamilia homeni da chavalo et infiniti pedoni, li qualli non fo altri
+         cha li suo’ falchonieri et altri homeni che iera romaxi chon lui. </seg>
+      <seg xml:id="v-null-40_2_4" n="4"> Et abiando el
+         <term ref="#gran-can">Gran Chan</term> chongregato questa puocha zente, lui feze che li suo’ astrologi vardò per suo’ |45r|
+         arte d’astrologia se lui dovea esser venzidor de questa bataia o perdidor; et queli
+         astrologi vardò per suo’ arte e disse: «Signor, nui te dixemo bona novela: tu serà
+         vitorioxo deli tuoi nimixi, et averai tuto quelo che vorai, al tuo piaxer». </seg>
+      <seg xml:id="v-null-40_2_5" n="5"> E
+         aldido questo el <term ref="#gran-can">Gran Chan</term> se messe in via chon questa soa zente, e chavalchò ben vinti zornade, ch’elo prevene
+         in una pianura granda in la qual iera ben quatromilia chavali, i quali ierano zonto
+         in quel luogo la matina a bonora. </seg>
+      <seg xml:id="v-null-40_2_6" n="6"> Et questa fo la chaxon che lor non sape dela
+         vegnuda del <term ref="#gran-can">Gran Chan</term>: perché lui in la sua vegnuda aveva branchade le vie, ch’el non podeva andar né vegnir
+         zente che potesse saver dela sua vegnuda. </seg>
+      <seg xml:id="v-null-40_2_7" n="7"> Et zonto ch’el fo in quela vale chon
+         la suo’ zente, che pocha era a respeto di quela de <term ref="#naiam">Nain</term>, el qualle era soto le sso tende chon so moier in leto et solazavasse insenbre perché
+         ello molto l’amava. </seg>
+      <seg xml:id="v-null-40_2_8" n="8"> Et in quel dì che dovea esser la bataia, el <term ref="#gran-can">Gran Chan</term> possò sovra uno monte el qual iera nela pianura dove <term ref="#naiam">Nain</term> era atendato chon la so zente, et stava là chon la sso persona, ch’el non chredea
+         che algun li podesse far dano: e però el non avea meso davanti né da driedo alguna
+         spia, et però non feva far varda alguna al chanpo. [9] Et el <term ref="#gran-can">Gran Chan</term> era suxo quel monte sopra una beltrescha molto ben hordenada sopra quatro lionfanti,
+         et avea li suo’ chonfaloni sì alti che per hogni luogo i se podea veder; et avea hordenado
+         la suo’ zente e per zaschaduna schiera iera trentamilia persone, et aveano zirchondado
+         tuto el chanpo de <term ref="#naiam">Nain</term> in uno monte; et zaschadun homo da chavalo aveano uno pedon |45v| chon una lanza
+         in man per mezo le grope dî chavali. [10] Et chussì erano el <term ref="#gran-can">Gran Chan</term> hordenadamente chon le suo’ zente, et sì era nel chanpo de <term ref="#naiam">Nain</term> per darli bataia; et <term ref="#naiam">Nain</term> chon la so zente vedendo el <term ref="#gran-can">Gran Chan</term> chussì ben aschierado fono molto spaventado, et chon tuti i suoi de prexente chorse
+         al’arme, et apariòse, et hordenò le suo’ schiere ordenadamente. [11] Et essendo tute
+         do le parte in ordene che niente non manchava, allora sonono molti stromenti de molte
+         maniere al’uxanza de <term ref="#tartari">Tartari</term>, et quando le parte fono aparechiade per chomenzar la bataia, le nachare del <term ref="#gran-can">Gran Chan</term> chomenzò a ssonare; e de prexente senza alguna dimora una zente chon l’altra forono
+         ale mani chon archi, spade, lanze e dardi, e gran parte dî pedoni del <term ref="#gran-can">Gran Chan</term> avea balestre et altre arme da ofender. [12] Et la bataia fono molto chrudelissima,
+         per tal muodo che iera sì gran oschuritade per la gran abondanzia de freze et saitamenti
+         de tranbe do le parte, ch’el non se podea veder l’aiere; et veramente questa fono
+         la più dura e pericholoxa bataia che fosse mai; et questa bataia durò da doman fina
+         mezozorno, ma finalmente el <term ref="#gran-can">Gran Chan</term> fo venzidor, perché <term ref="#naiam">Nain</term> e la so zente vezando non se poder sostegnire chomenzò a schanpar, et ale fin <term ref="#naiam">Nain</term> chon li mazor del chanpo se rexe al <term ref="#gran-can">Gran Chan</term>. [13] Et sapiando el <term ref="#gran-can">Gran Chan</term> che <term ref="#naiam">Nain</term> iera stato prexo, de prexente ordenò la so morte in questo modo: zoè che lui fosse
+         revolto in uno tapedo molto streto et fosse strasinado tanto in qua, in là, ch’el
+         fosse morto; sì che <term ref="#naiam">Nain</term> a questo muodo fenì la soa vita. [14] Et questo feze el <term ref="#gran-can">Gran Chan</term> azò che ’l suo’ |46r| sangue non fosse sparto sopra la tera, ní non volse ch’el se
+         ardesse. [15] Dapuo’ che ’l <term ref="#gran-can">Gran Chan</term> ebe vitoria dela sopradita bataia, tuti li omeni grandi e pizoli et baroni dele quatro
+         provinzie de <term ref="#naiam">Nain</term> zurò lialtade al <term ref="#gran-can">Gran Chan</term>. [16] La prima provinzia era chiamata <term ref="#ciorza">Zorzie</term>; la segonda <term ref="#carli">Chalulon</term>; la terza zente <term ref="#barscol">Bascholulan</term>; la quarta sono <term ref="#sitingui">Queifigui</term> che iera in quela provinzia, chomo iera Sadaine. [17] Queli che adora le idole, zudie,
+         e tute le altre zente che ‹non› adora Christo fevano grandissime befe de <term ref="#naiam">Nain</term> perché lui avea portado el segno dela Santa Chroxe, e ben vedea che <term ref="#naiam">Nain</term> iera christian et feva grandissime befe e derixion de christiani. [18] Or advene
+         che questo pervene ale rechie del <term ref="#gran-can">Gran Chan</term>; et quello, sentido questo, feze chiamar a sí queli christiani et queli che feva
+         befe a lloro, e disseli de gran inzuria et messe silenzio, che alguno non li molestasse
+         queli christiani, et poi li chonfortò digando a queli, «Se la Chroxe del vostro Dio
+         nonn à aidado <term ref="#naiam">Nain</term>, l’à fato raxonevelmente, perché l’è bona et non porave far se no chosse bone et
+         iuste; e perché <term ref="#naiam">Nain</term> iera perfido traditor chontra el suo’ Signore, et inperò la Chroxe de Dio l’à lassado,
+         e questo perché lui l’àno ben meritado però ch’el feva chontra iustixia». [19] Et
+         allora li christiani udendo queste parolle ave grandissima allegreza, et disse al
+         <term ref="#gran-can">Gran Chan</term>: «Signor nostro, tu di’ vero: la Chroxe nostra perché l’è bona nonn à voiusto sostegnir
+         questa iniquitade e tradimento el qual volea far <term ref="#naiam">Nain</term> chontra el suo’ signor, e l’àno ben rezevudo |46v| el merito». [20] A queste parole
+         ave a dir i christiani al <term ref="#gran-can">Gran Chan</term> dela chroxe che portava <term ref="#naiam">Nain</term> suxo le sue insegne. </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

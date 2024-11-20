@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-26-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-26">
+      <note>
+	<p><ref type="witlink" target="#f-null-47">F XLVII</ref> (Ci devise de la grant provence de <term ref="#bascia">Pasciai</term>); <ref type="witlink" target="#z-null-22">Z 22</ref>; <ref type="witlink" target="#l-null-42">L 42</ref> (De provincia <term ref="#bascia">Pasciai</term>); <ref type="witlink" target="#p-i-35">P I 35</ref> (De provincia <term ref="#bascia">Bascie</term>), <ref type="witlink" target="#va-null-34">VA XXXIV</ref> (De <term ref="#bascia">Basia</term>, là ove se porta zerchi d’oro ale orechie); <ref type="witlink" target="#v-null-25">V 25</ref> (Dela zitade de <term ref="#bascia">Pasian</term>); <ref type="witlink" target="#vb-null-30">VB XXX</ref>.</p>
+	<p>Il capitolo di R è una precisa traduzione di Z, ad eccezione della formula esordiale
+         forse mutuata da VB.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

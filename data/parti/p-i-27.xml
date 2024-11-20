@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-27</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-27">
+    <head>
+      <hi rend="bold">P, I 27</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-27_2_1" n="1"> Post discessum de <term ref="#cobinam">Cobinam</term> invenitur desertum, habens longitudinis dietas octo, ubi est ariditas magna: arboribus
+         enim caret et fructibus, aque vero eius amare sunt quas iumenta invi|13c|tissime bibunt;
+         oportet igitur viatores ut aquam secum deferant. </seg>
+      <seg xml:id="p-i-27_2_2" n="2"> Post hec pervenitur ad regnum
+         <term ref="#timocaim">Tumochayn</term>, ubi sunt multe civitates et castra, et est regio illa in ultimis finibus Persidis versus aquilonem. </seg>
+      <seg xml:id="p-i-27_2_3" n="3"> Ibi est planicies magna in qua est <term ref="#arbore-secco">Arbor Solis</term>, que vulgariter dicitur <term ref="#arbore-secco">Arbor Sicca</term>: arbor magna et grossa est valde, folia habens ex uno latere alba, ex altero vero
+         viridia; fructus non producit, sed facit ericios ut castanea, intra quos fructus est
+         nullus; lignum arboris solidum est et forte, glaucei coloris ut buxus. </seg>
+      <seg xml:id="p-i-27_2_4" n="4"> Ex uno
+         huius arboris latere usque ad .X. miliaria non est arbor, ex lateribus autem aliis
+         undique nulla penitus arbor est usque ad miliaria centum. </seg>
+      <seg xml:id="p-i-27_2_5" n="5"> Ibi fertur fuisse bellum
+         inter <term ref="#alessandro">Alexandrum</term> et <term ref="#dario">Darium</term>. </seg>
+      <seg xml:id="p-i-27_2_6" n="6"> Tota terra habitabilis regni <term ref="#timocaim">Timochayn</term> fertilis et habun|13d|dans est aerisque gaudet temperie. </seg>
+      <seg xml:id="p-i-27_2_7" n="7"> Viros pulcros habet
+         et feminas pulcriores, omnes tamen <term ref="#macometto">Machometum</term> adorant.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

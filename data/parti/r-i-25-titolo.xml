@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-25-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-25">
+      <note>
+	<p><ref type="witlink" target="#f-null-46">F XLVI</ref> (Ci devise de la grant provence de <term ref="#balaxiam">Balascian</term>); <ref type="witlink" target="#z-null-21">Z 21</ref>; <ref type="witlink" target="#l-null-41">L 41</ref> (De provincia <term ref="#balaxiam">Balascian</term>); <ref type="witlink" target="#p-i-34">P I 34</ref> (De provincia <term ref="#balaxiam">Balascie</term>), <ref type="witlink" target="#va-null-33">VA XXXIII</ref> (Del regniame de <term ref="#balaxiam">Balastia</term>, là ove porta le femene brage; et altre cosse); <ref type="witlink" target="#v-null-24">V 24</ref> (Dela provinzia de <term ref="#balaxiam">Balesian</term>); <ref type="witlink" target="#vb-null-29">VB XXIX</ref>.</p>
+	<p>Il capitolo di R corrisponde, nella sostanza, a quello di Z, ripreso testualmente
+         – come di consueto non soltanto nei corposi <hi rend="italics">addenda </hi>– e integrato, in un ristretto manipolo di luoghi testuali, con minime tessere di
+         P e, forse, di V e VB.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-48</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-48" n="1">
+    <head>
+      <hi rend="bold">R, II 48</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-48_1_1" n="1"> Di <term ref="#tholoman">Tholoman</term>. Cap. 48.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-48_2_1" n="1"> <term ref="#tholoman">Tholoman</term> è una provincia verso levante, le cui genti <term ref="#idolatri">adorano gl’idoli</term>. </seg>
+      <seg xml:id="r-ii-48_2_2" n="2"> Hanno linguaggio da per sé; sono sottoposti al <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-ii-48_2_3" n="3"> Questi habitanti sono belli et grandi, et piú presto bruni che bianchi. </seg>
+      <seg xml:id="r-ii-48_2_4" n="4"> Sono huomini giusti et valenti nell’armi, et molte città et castella sono in questa
+         provincia sopra grandi et alti monti. </seg>
+      <seg xml:id="r-ii-48_2_5" n="5"> Brucciano i corpi d’i loro morti, et l’ossa che non si brucciano mettono in cassette
+         di legname et portanle alle montagne, et le mettono in alcune caverne et dirupi, acciò
+         che animal alcuno non li possi andar a toccare. </seg>
+      <seg xml:id="r-ii-48_2_6" n="6"> Qui si trova oro in grande abondanza, et si spendono porcellane che vengono d’<term ref="#india">India</term> per moneta picciola, et cosí spendono le due provincie sopradette di <term ref="#cangigu">Cangigú</term> et <term ref="#amu">Amú</term>. </seg>
+      <seg xml:id="r-ii-48_2_7" n="7"> Vivono di carne et risi et bevono vino di risi, come è detto di sopra.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

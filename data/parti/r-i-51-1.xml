@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-51-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-51">
+      <note>
+	<p>Ramusio ricalca esattamente <ref type="witlink" target="#z-null-40">Z 40 1</ref> «Cum vero disceditur ab <term ref="#erginul">Ergiuul</term> eundo versus levantem per .VIII. dietas, invenitur quedam provincia nomine <term ref="#egrigaia">Egrigaia</term>, in qua sunt multe civitates et castra sub nomine provincie de <term ref="#tanguth">Tangut</term>», a sua volta coerente con <ref type="witlink" target="#f-null-72">F LXXII 2</ref> «Et quant l’en s’en part de <term ref="#erginul">Ergivul</term> et ala ver levant .VIII. jornee, il treuve une provence que est apellés <term ref="#egrigaia">Egrigaia</term>, ou il ‹a› cités et castiaus asseç, et ‹est› de <term ref="#tanguth">Tengut</term>».</p>
+	<p>Le stesse informazioni ricorrono in tutta la tradizione antica: <ref type="witlink" target="#l-null-63">L 63 1</ref> «Et ab <term ref="#erginul">Ergivul</term> versus oriens ‹.8. dietis› est provincia dicta <term ref="#egrigaia">Egrigaia</term>, in qua sunt civitates et castra multa. Et est de provincia <term ref="#tanguth">Tangut</term>»; <ref type="witlink" target="#p-i-64">P I 64 1</ref> «Deinde pertransitis .VIII. dietis ultra provinciam <term ref="#erginul">Ergimul</term>, ad orientem occurrit provincia <term ref="#egrigaia">Egrigaia</term>, in qua sunt civitates multe et oppida; est autem de provincia magna Tenguth» (&lt;<ref type="witlink" target="#va-null-58">VA LVIII 1-2</ref> «Quando l’omo se parte de <term ref="#erginul">Erguul</term> e ’l va verso levante oto zornate, el trova una provinzia che à nome <term ref="#egrigaia">Egrigaia</term>, in la qual è zitade e chastelle. Entri in la provinzia de <term ref="#tanguth">Tangut</term> […]»); <ref type="witlink" target="#v-null-38">V 38 1</ref> «‹Q›uando el se desparte de <term ref="#erginul">Arguuil</term> el se chavalcha hoto zornade inverso levante et trovasse una provinzia chiamata <term ref="#egrigaia">Argigaian</term>, nela qual sono molte zitade e chastele»; <ref type="witlink" target="#vb-null-61">VB LXI 1</ref> «‹P›artendosi da <term ref="#erginul">Garelli</term> verso levante se trova una citade e provincia che se chiama <term ref="#egrigaia">Egrigaian</term>; et à citade et chastelli sotto si et è dela provincia de <term ref="#tanguth">Tangut</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

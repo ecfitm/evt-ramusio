@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-58-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-58">
+      <note>
+	<p><ref type="witlink" target="#f-null-141">F CXLI</ref> (Ci dit de la cité de <term ref="#caim">Cayu</term>); <ref type="witlink" target="#l-null-116">L 116</ref> (De civitate <term ref="#caim">Cain</term>); <ref type="witlink" target="#p-ii-56">P II 56 4</ref> (De civitatibus <term ref="#paughin">Panthi</term> et <term ref="#caim">Cayn</term>. Capitulum LVI), <ref type="witlink" target="#va-null-111">VA CXI 7</ref> (De la zità de <term ref="#caim">Cauin</term> et di quela de <term ref="#tingui">Tugui</term>); <ref type="witlink" target="#v-null-69">V 69 1</ref> (Dela zità de <term ref="#caim">Cauin</term> et di quela de <term ref="#tingui">Tugui</term>); <ref type="witlink" target="#vb-null-104">VB CIV</ref>; <ref type="witlink" target="#z-null-75">Z 75</ref>.</p>
+	<p>Ramusio segue la testimonianza di Z nelle prime due pericopi; nella terza, combina
+         la lezione di P, VB e Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

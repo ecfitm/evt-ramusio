@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-28-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-28">
+      <note>
+	<p>F CLXXXII (Ci devise dou roiaume de <term ref="#malabar">Melibar</term>); P III 34 (De regno <term ref="#malabar">Melibar</term>. Capitulum XXXIIII), VA CXLIV (Del <term ref="#malabar">Melibar</term>, ove sono chotanti chorsari de mare); <ref type="witlink" target="#z-null-116">Z 116</ref> (Hic naratur de regno <term ref="#malabar">Melibar</term>); L 169 (De regione <term ref="#malabar">Melibar</term>. Rubrica); V 99 (Del reame de <term ref="#malabar">Milinbar</term>); VB CLII.</p>
+	<p>La struttura del capitolo ripropone quella di Z; nella sezione centrale (parr. 3-7)
+         si riconoscono i segnali di un cambio di modello, e del ricorso a P.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

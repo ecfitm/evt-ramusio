@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-148</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-148">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXLVIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-148_1_1" n="1"> Ci devise de la cité de <term ref="#cinghianfu">Cinghianfu</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-148_2_1" n="1"> <term ref="#cinghianfu">Cinghianfu</term> est une cité dou <term ref="#mangi">Mangi</term>. </seg>
+      <seg xml:id="f-null-148_2_2" n="2"> Les jens sunt <term ref="#idolatri">ydules</term> et sunt au <term ref="#gran-can">Grant Kaan</term>, et ont monoie de carte. Il vivent de merchandie et d’ars. Il ont soie aseç. Il font
+         dras dorés et de soies de maintes faisonz. Il hi a riches mercant et grant. Il ont
+         venejonç et chaceison de bestes et de osiaus aseç. Il ont grant plantee des bles et
+         des chouses de vivre. </seg>
+      <seg xml:id="f-null-148_2_3" n="3"> Il hi a deus e{n}glise de cristienz nestorin, et ce avint
+         des .M.CC.LXXVIII. anz de l’ancarnasionz de Crist en ça, e voç dirai comant il avint.
+         </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-148_3_1" n="1"> Il fui voir qe unques ne i avoit eu moistier de cristienz, ne neis †en dieu† cristienç,
+         jusque a .M.CC.LXXVIII. anç ‹qe› hi fu seingnor por le <term ref="#gran-can">Grant Kaan</term> trois anz Marsarchis, qui estoit cristienz nestorin. Et cestui Marsarchis hi fist faire celles .II. eglise, et, de celes tens en cha, hi a e{n}glise, que devant
+         ne i avoit eglise ne cristiens. </seg>
+    </p>
+    <p n="4">
+      <seg xml:id="f-null-148_4_1" n="1"> Or nos partiron de ceste matiere et voç conteron d’une autre cité mout grant qe
+         est apellés <term ref="#tinguigui">Tinghingui</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

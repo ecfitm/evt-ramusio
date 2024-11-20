@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-39-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>R segue prevalentemente <ref type="witlink" target="#vb-null-83">VB LXXXIII 4</ref>, che presenta una serie di varianti che la isola dal resto della tradizione: «[…]
+         i qual tuti viveno de bestiami e fruti dela tera; et àno i mior chavalli che naschono
+         in quelle parte». Alcune caratteristiche formali potrebbero suggerire che Ramusio
+         abbia tenuto conto anche di un’altra fonte, affine a Z o a V: <ref type="witlink" target="#z-null-56">Z 56 8-9</ref> «[…] in quibus [R «qui»] nascuntur boni equi. Ipsi vivunt de bestiis [R «bestie»]
+         et fructibus tere»; <ref type="witlink" target="#v-null-56">V 56 14</ref> «[…] in le qualle [R «qui»] nasse molti boni chavalli. Et la zente vive de bestie
+         [R «bestie»] e fruti dela tera […]»  (vd. <ref type="witlink" target="#f-null-117">F CXVII 3-4</ref> «[…] la o il naisent mult buen chavaus. Il vivent de bestiames et do profit q’il
+         traient de la tere […]»). Notevolmente abbreviato appare il testo in <ref type="witlink" target="#l-null-96">L 96 4</ref> «[…] et nascuntur boni equi […]»; <ref type="witlink" target="#p-ii-39">P II 39 5</ref> «In ipsa regione nascuntur equi optimi».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

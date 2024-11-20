@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-36</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-36" n="1">
+    <head>
+      <hi rend="bold">R, III 36</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-36_1_1" n="1"> Della grande isola di <term ref="#magastar">Magastar</term>, hora detta di <term ref="#magastar">San Lorenzo</term>. Cap. 36.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-36_2_1" n="1"> Partendosi dall’isola di <term ref="#soccotera">Soccotera</term>, et navigando verso mezzodí et garbino per mille miglia, si trova la grande isola di <term ref="#magastar">Magastar</term>, qual è delle maggiori et piú ricche che siano al mondo. </seg>
+      <seg xml:id="r-iii-36_2_2" n="2"> Il circuito di questa isola è di tremila miglia; gli habitatori sono Sarraceni et
+         osservano la legge di <term ref="#macometto">Macometto</term>. </seg>
+      <seg xml:id="r-iii-36_2_3" n="3"> Hanno quattro “<term ref="#siechi">siechi</term>”, che vuol dire in nostra lingua “vecchi”, che hanno il dominio dell’isola et quella
+         governano. </seg>
+      <seg xml:id="r-iii-36_2_4" n="4"> Vivono questi popoli di mercantie et arti, et sopra le altre vendono infinita quantità
+         di denti d’elefanti, per la moltitudine grande che vi nasce di detti animali: et è
+         cosa incredibile il numero che si cava di questa isola et di quella di <term ref="#zenzibar">Zenzibar</term>. </seg>
+      <seg xml:id="r-iii-36_2_5" n="5"> Qui si mangia tutto l’anno per la maggior parte carne di cameli, anchor che ne mangino
+         di tutti gli altri animali, ma de cameli sopra gli altri, per haverla provata che
+         l’è la piú sana et piú saporita carne che si possa trovare in quella regione. </seg>
+      <seg xml:id="r-iii-36_2_6" n="6"> Vi sono boschi grandi d’arbori di <term ref="#sandalo">sandali</term> rossi, et per la gran quantità sono in piccol pretio. </seg>
+      <seg xml:id="r-iii-36_2_7" n="7"> Hanno anchora molto <term ref="#ambracano">ambracan</term>, qual le balene buttano, et il mare lo fa andare al lido et loro lo raccolgono. [8] Prendono ancho lupi cervieri, leoni, leonze, et infiniti altri animali, come cervi,
+         caprioli, daini, et molte cacciagioni di diverse bestie et uccelli diversi dalli nostri.
+         [9] Vanno a questa isola molte navi di diverse provincie con mercantie di varie sorti,
+         con panni d’oro, di seda, et con sede di diverse maniere: et quelle vendono o vero
+         barattano con li mercatanti dell’isola, et cargano poi delle mercantie dell’isola,
+         et sempre fanno gran profitto et guadagno. [10] Non si naviga ad altre isole verso mezzodí, le quali sono in gran moltitudine, se
+         non a questa et a quella di <term ref="#zenzibar">Zenzibar</term>, perché il mare corre con grandissima velocità verso mezzodí, di sorte che non potriano
+         ritornare piú adrieto. [11] Et le navi che vanno da <term ref="#malabar">Malabar</term> a questa isola fanno il viaggio in 20 o vero 25 giorni, ma nel ritorno penano tre
+         mesi, tanta è la correntia dell’acque che di continuo cargano verso mezzogiorno. |58r|
+         [12] Dicono quelle genti che a certo tempo dell’anno vengono di verso mezzodí una maravigliosa
+         sorte di uccelli, che chiamano “<term ref="#ruch">ruch</term>”, qual è della simiglianza dell’aquila, ma di grandezza incomparabilmente grande:
+         et è di tanta grandezza et possanza che ’l piglia con l’unghie d’i piedi un elefante
+         e, levatolo in alto, lo lascia cadere, qual muore, et poi, montatoli sopra il corpo,
+         si pasce. [13] Quelli che hanno veduto detti uccelli referiscono che, quando aprono l’ali, da una
+         punta all’altra vi sono da sedeci passa di larghezza, et le sue penne sono lunghe
+         ben otto passa, et la grossezza è correspondente a tanta lunghezza. [14] Et messer Marco Polo, credendo che fussero griffoni, che sono dipinti mezzi uccelli
+         et mezzi leoni, interrogò questi che dicevano di haverli veduti, i quali li dissono
+         la forma d’i detti essere tutta di uccello, come saria dir di aquila. [15] Et havendo il <term ref="#gran-can">Gran Can</term> inteso di simil cose maravigliose, mandò suoi nuntii alla detta isola, sotto pretesto
+         di far relassare un suo servitore, che ivi era stà ritenuto; ma la verità era per
+         investigare la qualità di detta isola, et delle cose maravigliose ch’erano in quella.
+         [16] Costui di ritorno portò (sí come intesi) al <term ref="#gran-can">Gran Can</term> una penna di detto uccello ruch, la qual li fu affermato che, misurata, fu trovata
+         da nonanta spanne, et che la canna della detta penna volgea duoi palmi, che era cosa
+         maravigliosa a vederla: et il <term ref="#gran-can">Gran Can</term> ne hebbe un estremo piacere, et fece gran presenti a quello che gliela portò. [17] Li fu portato anchor un dente di cinghiale, che nascono grandissimi in detta isola,
+         come buffali, qual fu pesato et si trovò di quattordeci libre. [18] Vi sono anchor giraffe, asini et altre sorte di animali salvatichi molto diversi
+         dalli nostri. [19] Hor, havendo parlato di quell’isola, parlaremo di quella di <term ref="#zenzibar">Zenzibar</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

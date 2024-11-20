@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-72</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-72">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LXXII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-72_1_1" n="1"> Ci devise dou roiaumes de la provence de <term ref="#egrigaia">Egrigaia</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-72_2_1" n="1"> Et quant l’en s’en part de <term ref="#erginul">Ergivul</term> et ala ver levant .VIII. jornee, il treuve une provence que est apellés <term ref="#egrigaia">Egrigaia</term>, ou il ‹a› cités et castiaus asseç, et ‹est› de <term ref="#tanguth">Tengut</term>. </seg>
+      <seg xml:id="f-null-72_2_2" n="2"> La mestre cité est apellé <term ref="#calacia">Calacian</term>. </seg>
+      <seg xml:id="f-null-72_2_3" n="3"> Les jens sunt <term ref="#idolatri">ydres</term> et hi a trois yglise de cristienç nestorin. </seg>
+      <seg xml:id="f-null-72_2_4" n="4"> Il sunt au <term ref="#gran-can">Grant Tartar</term>. </seg>
+      <seg xml:id="f-null-72_2_5" n="5"> Et en ceste cité se font giambellot de poil de gamiaus, les plus biaus que soient
+         au monde et les meillors; et encore en font de laine blance, et font de giambellot
+         blance mout biaus et buens; et en font grant quantité, et d’iluech les aportent les
+         mercant por maintes part, et au <term ref="#cataio">Catai</term> ‹et› en autres leu por mi le monde. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-72_3_1" n="1"> Or isiron de ceste provence ‹et vos conteron d’une autre provence› ver levant
+         que l’en apelle <term ref="#tenduch">Tenduc</term> et {et} enterromes e‹n› les terres dou <term ref="#prete-gianni">Prestre Johan</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-28-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-28">
+      <note>
+	<p>P III 34 8 (come il suo modello VA CXLIV 10) omette questa e la pericope successiva (9-10). Ramusio rielabora qui la descrizione
+         di <ref type="witlink" target="#z-null-116">Z 116 17-21</ref> «Volumus vobis narare id quod mercatores aliarum partium fferunt in ha‹n›c contractam,
+         cum veniunt cum eorum mercimoniis ad istas partes causa emendi de mercimoniis. Mercatores
+         quidem portant in eorum navibus ramum, et cum isto ramo savornantur naves suas. Portant
+         etiam syricum, drapos aureos et de syrico, sindonem, aurum et argentum, garofalos
+         et species et de speciebus quas non habent. Et ista talia permutant de mercimoniis
+         istorum de hac contracta. Et huc veniunt naves de multis partibus, videlicet de provincia
+         <term ref="#mangi">Mançi</term>; et mercatores portant per pluras partes». Il testo latino segue fedelmente F CLXXXII 9-11 «Et encore voç voil deviser celz qe le merchant d’autres parties aportent en ceste
+         contree quant il vienent con lor nes a ceste contré por acater de lor mercandies.
+         Sachiés qe les mercant il portent en lor nes raim (de ceste raim savorent les nes);
+         il portent dras d’or et dras de soie, sendal, or, argent, garofali, yspi, et de cestes
+         tielz especeries que nen ont il. E ceste couses changi{n}ent con les mercandies de
+         cestes contrés. Et sachiés qe hi vienent les nes de maintes parties, ce est de la
+         grant provence dou <term ref="#mangi">Mangi</term>. E les merchans l’en portent por plosors parties»; meno accurata la resa di V 99 8 «I marchadanti che vieno de altre parte in le lor nave, e de questo rame i savornano
+         le suo’ nave; e portano seda e drapi d’oro, et horo e arzento, e garofali e spezie,
+         zoè spezie che quelli non àno, et queste chosse i barata chon marchadantie de quelle
+         contrade; et là vano nave de molte parte, zoè dela provinzia del <term ref="#mangi">Mongin</term>» e di VB CLII 9-10 «E i marchadanti che vengono con le lor nave per marchadantia portano rame per savorna
+         dela nave e po’ l’adopera. Portano pani de oro et de seda, oro et argiento, garofalli
+         e spigo et altre speciarie che non vengono qui ne’ nostri paexi […]». Ancora più drastica
+         l’epitome di L 169 5 presenta una versione abbreviata: «Mercatores portant ad hanc provinciam aliunde
+         et pannos aureos et de seta, aurum et argentum, gariofilos et spicam, quia hiis speciebus
+         carent».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-43-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-43">
+      <note>
+	<p>F CXCVI (Ci devise de la cité de <term ref="#calaiati">Calatu</term>); manca in VA e P; <ref type="witlink" target="#z-null-130">Z 130</ref> (De civitate <term ref="#calaiati">Calatu</term>); L 186 (De civitate <term ref="#calaiati">Calatu</term>); V 112 (Dela zità de <term ref="#calaiati">Chalatu</term>); VB CLXVIII.</p>
+	<p>Il capitolo è assente in P (perché assente in VA). La collazione suggerisce che il
+         modello di R dovesse essere verosimilmente un testimone Z: la sequenza delle pericopi
+         è la medesima (per presenza / ordine) nel modello e nella copia.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

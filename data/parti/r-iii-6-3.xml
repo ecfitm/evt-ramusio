@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-6-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>La struttura della pericope, e la sua prolessi chiusa dalla dittologia «il come et
+         perché», sono quelle proprie di Z 95 9-10 «[…] adorant ydola et redunt tributum <term ref="#gran-can">Magno Can</term> de elephantibus et ligno aloe singulis anis. Et narabimus vobis qualiter et quare»:
+         la transizione propria di F CLXI 3 «[…] e sunt <term ref="#idolatri">ydres</term>. Et fait trëu au <term ref="#gran-can">Gran Kaan</term> de leofans chascun ‹an›, e ne le rendoit autre couse for che leofans aseç. E vos
+         dirai come cestui roi fait ceste trëu au Grant Chan» riappare <hi rend="italics">verbatim</hi> in V 83 2 «[…] et sì <term ref="#idolatri">adorano le idolle</term>; et dano trabuto al <term ref="#gran-can">Gran Chan</term> lionfanti; e diròve chomo questo re dete trabuto al <term ref="#gran-can">Gran Chan</term>».</p>
+	<p>Gli altri relatori si limitano all’esposizione referenziale: L 145 2 «[…] [regem] qui tributario nomine reddit annuatim <term ref="#gran-can">Magno Cani</term> elefantes multos et lignum aloe in quantitate multa»; abbrevia VB CXXXI 2 «[…] e ssono tuti <term ref="#idolatri">idolatrii</term> et dano tributo al <term ref="#gran-can">Gran Can</term> ogni ano molti leofanti». P III 9 2 sopprime l’articolazione prolettica, limitandosi a osservare «[…] et sectatur ydolatriam» (soluzione forse imposta da un guasto nel suo antigrafo? Si può notare come il relatore
+         quattrocentesco di VA CXXIII 3 presenti una pericope il cui contenuto pare sovrapporre quanto la tradizione dice
+         in questo luogo con le informazione date da tutti relatori all’altezza di <ref type="witlink" target="#r-iii-6">R III 6 12</ref>: «Et è in questa contrà molti elifanti e grande abondanzia de legnio aloe, et è-ne
+         molti boschi de ebano negro»). Si noti che il legno di aloe appare come parte del
+         tributo in Z e L (vedi anche la nota a <ref type="witlink" target="#r-iii-6">R III 6 12</ref>).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

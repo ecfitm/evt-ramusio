@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-32</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-32" n="1">
+    <head>
+      <hi rend="bold">R, II 32</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-32_1_1" n="1"> D’un grandissimo et nobil fiume detto <term ref="#caramoran">Caramoran</term>. Cap. 32.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-32_2_1" n="1"> Partendosi da questo castello di <term ref="#thaigin">Thaigin</term> et andando circa venti miglia, si trova un fiume detto <term ref="#caramoran">Caramoran</term>, qual è cosí grande, largo et profondo che sopra di quello non si può fermar alcun
+         ponte; et scorre questo fiume fino al <term ref="#mare-oceano">mare Oceano</term>, come di sotto si dirà. </seg>
+      <seg xml:id="r-ii-32_2_2" n="2"> Appresso a questo fiume sono molte città et castella, ne’ quali sono molti mercatanti
+         et fanvisi molte mercantie; et intorno a questo fiume per la contrada nasce zenzero
+         et seda in gran quantità, et evvi tanta moltitudine d’uccelli ch’egli è cosa incredibile,
+         et massime di fagiani, che se ne ha tre per un <term ref="#grosso">grosso</term> venetiano. </seg>
+      <seg xml:id="r-ii-32_2_3" n="3"> Per i luoghi circostanti di questo fiume nasce infinita quantità di canne grosse,
+         alcune delle quali sono di un piè, altri di un piè et mezzo, et gli habitatori se
+         ne vagliono in molte cose necessarie.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

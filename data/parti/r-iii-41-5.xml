@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-41-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>Anche questa pericope viene dalla traduzione in sostanza fedele di <ref type="witlink" target="#p-iii-46-1-6">P III 46 11-12</ref> «Sunt etiam ibi palme multe que dactilos optimos copiose producunt. Nullum bladum
+         ibi nascitur preter risum et de illo modicum ibi crescit: oportet autem ut illuc blada
+         de regionibus aliis deferantur» (rielaborazione di VA CLII 16-17 «E nase-ge asai datali, e non ge nasie alguna biava se non rixo, et de quel puocho.
+         El ge fì portada la biava delle altre contrade». Il riferimento al «miglio» non ha
+         attestazione né in VA-P né negli altri relatori: vedi F CXCIV 3 «Et encore hi naist datal en grant abondance. Il ne ont bles for que ris seulament,
+         e de cel ont pou, mes voç di que l’en hi porte des bles d’outre païs et en font grant
+         profit»; Z 128 9-11 «Dactali ibi nascuntur in magna quantitate. Non habent segetes, nisi risum, et de
+         illo parum. Sed illuc mercatores apportant segetes, de quibus faciunt magnum profectum
+         et lucrum»; L 184 4-5 «[…] et dactili in maxima quantitate. Nullum bladum hic nascitur nisi riçum, modicum
+         tamen»; V 110 4 «[…] et nasseno datalli in gran quantitade; et non àno blave, se no sollamente sorgo;
+         e de quello i marchadanti portano per blave, del qual i ne fano gran guadagno»; VB CLXVI 5-6 «[…] àno datalli asai. Non àno biava ma sí molti risi di qual i viveno»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-17-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-17">
+      <note>
+	<p><ref type="witlink" target="#f-null-94">F XCIV</ref> (Comant le <term ref="#gran-can">Grant Kaan</term> tent grant cort et fait grant festes); <ref type="witlink" target="#l-null-77">L 77 7-8</ref>; <ref type="witlink" target="#p-ii-11">P II 11</ref> (De suburbiis et mercacionibus maximis civitatis <term ref="#cambalu">Cambalu</term>. Capitulum XI) / <ref type="witlink" target="#p-ii-20">P II 20 12</ref> (De mirabilibus tentoriis eius. Capitulum XX.), <ref type="witlink" target="#va-null-77">VA LXXVII</ref> (Della zità de <term ref="#cambalu">Ganbellu</term> et della corte del <term ref="#gran-can">Gran Chan</term>); <ref type="witlink" target="#v-null-45">V 45 1-9</ref> (Dela gran chorte che tien el <term ref="#gran-can">Gran Chan</term>); <ref type="witlink" target="#vb-null-68">VB LXVIII 4 </ref>(?) / <ref type="witlink" target="#vb-null-68">VB LXVIII 6-8</ref>.</p>
+	<p>In tutto il capitolo R riflette da vicino il dettato di F e, in misura minore, di
+         V. Pur in assenza della testimonianza di Z toledano, che omette l’intera sezione,
+         si può ragionevolmente ritenere che tali coincidenze dipendano dal fatto che l’editore
+         ha usato come fonte principale il perduto Z1. L’apporto di altri testimoni appare scarso o nullo (cfr. par. 7).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

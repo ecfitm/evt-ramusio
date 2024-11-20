@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-22-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-22">
+      <note>
+	<p>Il debito di R da Z, non desumibile dal confronto con la minimale lezione toledana
+         (<ref type="witlink" target="#z-null-18">Z 18 3</ref> «Invenitur etiam quedam civitas nomine <term ref="#sapurgan">Sapurgan</term>, que est magne habundancie omnium rerum […]»), è comunque evidenziato dalle coincidenze
+         testuali tra R e <ref type="witlink" target="#f-null-43">F XLIII 5-7</ref> («Et quant l’en a chavauchés .VI. jornee, cel che je vos ai contés, adunc treuve
+         l’en une cité qui est apellé <term ref="#sapurgan">Sopurgan</term>. Elle est ville de grant plantee de toutes couses, et vos di qui hi a les meior melon
+         do monde en grandisme quantité qu’il les font secher en ceste mainere: car il les
+         trincent tous environ si con coroies, puis les metent au soleil et li font secher,
+         et devienent plus douce qe mel. Et voç di qu’il en font mercandie et li vont vendant
+         por la contree environ a grant plantee»). </p>
+	<p>La lezione di Z, largamente ricalcata nei contenuti e nel procedere sintattico, è
+         intrecciata in modo capillare con quella di <ref type="witlink" target="#p-i-30">P I 30 3</ref> «Post hoc pervenitur ad civitatem <term ref="#sapurgan">Sopurgam</term>, ubi est omnium victualium copia, precipue vero pepones habet habundantissime quos,
+         per fila seu corrigias, circumquaque scindunt sicut fit de cucurbitis, quas cum desiccate
+         fuerint ad proximas terras venales mittunt in copia maxima; acceptantur autem valde
+         in cibum a populo, quia mellis habent dulcedinem»: P offre a R qualche tessera lessicale
+         (<hi rend="italics">precipue</hi> &gt; <hi rend="italics">sopra tutto</hi>, <hi rend="italics">pepones</hi> &gt; <hi rend="italics">pepone</hi> “poponi, meloni”, <hi rend="italics">proximas terras </hi>&gt; <hi rend="italics">terre prossime</hi>), ma soprattutto il paragone tra la lavorazione dei meloni e quella delle zucche,
+         che P eredita da <ref type="witlink" target="#va-null-30">VA XXX 7</ref>, dove l’eccentrica lezione «[…] egli li taiano atorno chome se fa le zuche da salvare
+         […]» ha forse la sua eziologia nel fraintendimento dell’afr. *<hi rend="italics">coroie </hi>del modello, letto *<hi rend="italics">corge</hi> – o più probabilmente *<hi rend="italics">corie </hi>“zucca” (cfr. <hi rend="italics">AFW</hi>, s. v.).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

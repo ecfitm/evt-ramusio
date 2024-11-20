@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-45-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-45">
+      <note>
+	<p>È soluzione esclusiva di R la chiusa eziologica unita alla <hi rend="italics">transitio </hi>con l’annuncio della conclusione del libro. Che il capitolo si chiudesse con una <hi rend="italics">transitio</hi> alla <term ref="#rossia">Russia</term> è dato della tradizione che solo Pipino oscura: VA CLIV 10 «La <term ref="#rossia">gran Rosia</term> confina siego, però ne dirò» riecheggia F CCXVII 6-7 «Et si voç di qe la <term ref="#rossia">Grant Rosie</term> confine de le un chief con ceste provence. […] e voç diron tout primermant de la
+         provence de <term ref="#rossia">Rosie</term>» (parziale la ripresa in Z 151 15 «Magna quidem <term ref="#rossia">Rusia</term> habet suos confines cum ista provincia, sed ad presens, pretermitentes de ipsa, narabimus
+         de dominis <term ref="#tartari">Tartarorum de Ponente</term>» – perché Z presenta un ordine dei capitoli conclusivi diverso da quello degli altri
+         relatori [Burgio, Eusebi 2008, pp. 35 sgg.], e ignorato da Ramusio –  e in L 198 6 «Ab uno vero capite huius provincie <term ref="#rossia">magna Rosia</term> confinalis existit»; manca per lacuna conclusiva del codice in V 119).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

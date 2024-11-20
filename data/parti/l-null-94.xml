@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-94</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-94">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 94</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-94_2_1" n="1"> Finitis hiis .V. dietis, invenitur provincia dicta <term ref="#thebeth">Thebet</term>, que afflictione <term ref="#tartari">Tartarorum</term> est destructa; et in ipsa sunt quam plures civitates et castra, dirupta tamen. </seg>
+      <seg xml:id="l-null-94_2_2" n="2">
+         Et transitur bene .XX. dietis per inhabitata loca, per que ferarum multitudo maxima
+         conversatur, sicut leonum, ursorum aliarumque manerierum, qua de causa periculosus
+         est transitus. </seg>
+      <seg xml:id="l-null-94_2_3" n="3"> Invenerunt tamen tale remedium transeuntes in partibus istis. Nascuntur
+         quedam canne maxime, circuitus in grossitudine palmarum trium; longitudinis vero sunt
+         .XV. passuum vel circa, distatque nodus a nodo tribus palmis. De hiis ergo cannis
+         secum portant itinerantes, et nocte, accenso igne, ipsas imponunt virides: que, virtute
+         ignis calefacte, finduntur; tuncque fit sonus tam horribilis et immensus quod perterrita
+         animalia fugiunt, potius quam sequantur – est enim talis sonus ad similitudinem sclopi
+         artificialiter facti, estque immensus quod nocte auditur aliquando per miliaria .X.,
+         ex quo sono insueti quam plurimum obstupescunt. Equi eciam insueti multociens fractis
+         ligaminibus circumquaque vagantur, quare ipsos pedibus intricant oculosque ligant.
+         Hoc ergo modo homines et animalia sua a ferarum defenduntur incursibus. </seg>
+      <seg xml:id="l-null-94_2_4" n="4"> Ultra
+         vero has .XX. dietas inhabitatas, inveniuntur civitates et castra, et habitata loca.
+         </seg>
+      <seg xml:id="l-null-94_2_5" n="5"> Adest eis talis maritandi consuetudo. Nullam quis sumeret in uxorem nisi primo
+         a pluribus viris habita foret, dicentes eas nichil valere nisi primo venereis actibus
+         et consuetudinibus ab aliis forent docte. Hac ergo causa certis temporibus veniunt
+         mercatores ad partes istas; annose mulieres |14bis| ducunt iuvenculas ad consortia
+         mercatorum easque ad eorum usum quantum eis placuerit derelinquunt. Oportet tamen
+         quod mercatores in eorum recessu mulieri aliquid derelinquant, ut quod virum habuerit
+         possit facere manifestum. Huiusmodi signacula a viris derelicta appendet quelibet
+         iuvencula collo suo: oportet enim quamlibet iuvenculam, dum maritari voluerit, habere
+         plus quam decem de huiusmodi signalibus appensa collo, ut sit notum eam esse viris
+         pluribus assuetam; ex hoc enim melior et nobilior approbatur, et libentius assumitur
+         in uxorem. Sed post matrimonium inhonestum et valde grave habent si viro alteri coniungatur.
+         </seg>
+      <seg xml:id="l-null-94_2_6" n="6"> In hac provincia sunt multe ex bestiolis que faciunt muscum (quas nominant “<term ref="#gudderi">gudderi</term>”), quare de musco adest in maxima quantitate. </seg>
+      <seg xml:id="l-null-94_2_7" n="7"> Et vivunt hee gentes ex fructibus
+         terre et ex venationibus. </seg>
+      <seg xml:id="l-null-94_2_8" n="8"> Non utuntur moneta argentea neque ‹moneta› de cartis,
+         qualis est illa <term ref="#gran-can">Magni Canis</term>, sed faciunt ex sale monetam. [9] Utuntur autem vilibus vestimentis, sicut pellibus
+         animalium, et de canipo et de boccorano. [10] Habent ydeoma proprium, et dicuntur
+         <term ref="#thebeth">Thebet</term>. Et est <term ref="#thebeth">Thebet</term> maxima provincia que confinis est cum <term ref="#mangi">Mangi</term> et cum multis aliis provinciis; et sunt in hac provincia .VIII. regna, et civitates
+         et castra in maxima quantitate. [11] Et in quam pluribus locis sunt flumina et lacus
+         et montes, ubi invenitur aurum de paiola in maxima quantitate. [12] Et in hac provincia
+         nascitur cinamum in maxima quantitate. [13] Et habent corallum in maxima reverentia
+         quare optime vendunt apportantes. [14] Et nascuntur hic multe maneries specierum optimarum,
+         que in nostris partibus non habentur. [15] Fiunt eciam hic multi çambelotti, et panni
+         de seta et auro. [16] Et sunt in hac provincia optimi astrologi et incantatores: faciunt
+         enim talia que stuperet audire. [17] Sunt eciam diversa genera canum pro venationibus,
+         quibus maxime utuntur; et inter alios sunt quidam mastini magnitudinis asinorum. [18]
+         Nascuntur eciam in partibus hiis boni falcones laynerii. [19] Hec provincia est obediens
+         <term ref="#gran-can">Magno Cani</term>, Similiter omnes nominate in hoc libro, dicte similiter vel dicende – exceptis aliquibus
+         in principio nominatis, que sunt obedientes <term ref="#argon">Argon</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>Anche qui R si attiene abbastanza fedelmente a <ref type="witlink" target="#p-ii-41">P II 41 12</ref> «Tunc consanguinei egroti illi omnia faciunt que demon iussit, occiduntque arietes
+         et sanguinem ipsorum in celum iactant; convenientes vero magi cum mulieribus suis
+         faciunt luminaria magna et domum totam thurificant et fumum de lignis aloe faciunt
+         et aquam decoctam carnium in aera fundunt et partem etiam potionum que de aromatibus
+         sunt confecte, et in corea iterum saltant et cantant ad illius reverentiam ydoli»
+         (P risulta più essenziale di <ref type="witlink" target="#f-null-119">F CXIX 26-28</ref> «Et quant cesti ont eu ceste respont{e}, les amis au malaides tout mantinant font
+         ensi come les magis lor devisent: car il prenent les monton ensi devisé com il lor
+         dit et font les bevrajes tel et si buen et tant come il lor est devisé; il ocient
+         les montonç et espanent le sanc en celz leus ou il est lor dit a henor et a sacrefice
+         de tiel espiriti; et puis font cu‹i›re les montons en la maison do malaides; et hi
+         vient tant de cesti magis et tantes de celes dames con il lor estoit dit. Et quant
+         il hi sunt tuit venus, et les montons et les bevrajes sunt aparoillés, adonc comencent
+         a soner et a baler et a canter lor loemant des espiriti. Il espanent dou brod de la
+         char et de cele bevrajes, et encore ont ence‹n›s et le lengn aloé, et vont encensant
+         ça et la, et font grant luminarie»). Non ci sono ragioni per pensare che l’editore
+         abbia fatto ricorso ad altre fonti: <ref type="witlink" target="#l-null-98">L 98 13</ref> «Responsione habita, sumunt arietes eosque ad nominatum ydolum occidunt, sanguinemque
+         circa locum expandunt; deinde carnes in domo infirmi coquunt, suntque ibi parate potiones
+         optime. Et tunc veniunt tam magi quam magice mulieres, tot numero deputati; sonant,
+         et corriçant, et eorum laudes cantant ydolisque plaudunt, cum fumo ex thure et ligno
+         aloe undique incensando, brodiumque carnium circumquaque spandendo; accenduntque luminaria
+         magna»; <ref type="witlink" target="#v-null-57">V 57 18-19</ref> «Et quando questi àno questa risposta, i amixi del’amalado de subito fano tuto quello
+         che quel mago dixe, et tuono i moltoni chussì fati, et fano i brievi, tanti quanti
+         i àno dito; et olzideno i moltoni, et sì tuol del sangue ad onor e sachrifizio del
+         tal spirito. Dapuo’ fano chuoxer el molton in chaxa; et se l’infermo viverà vieno
+         tanti magi e tante done; et quando tute sono vegnude i chomenzano a trepar, a sonar
+         e a chantar le laude dî spiriti, et sì spandeno de quelle charne e de queli brodi
+         chon inzenso e legno aloe, et vano inzensando de qua e de là; et fano gran luminaria
+         […]»; <ref type="witlink" target="#vb-null-85">VB LXXXV 16-17</ref> «Alora i prendeno .II. over .III. montoni che à la testa negra et allora i devixa
+         in alltra maniera: fano .X. beveragi o più molto chari e sì li da bere, e dicono che
+         li faça sacreficio al talle spirito e che li toia tanti magi e ttante done, pitonese
+         –çoè quelle che à spiriti adosso – e che i renda laude a tal et a tal spirito dell’amallado:
+         e fano come comandano: et alcide montoni e spande el suo sangue ad onor de quel spirito
+         e qui se adunano tuti i homeni e le femene: e conmençano a chantare et a sonare e
+         ballare e fano chuoxer la carne e spandeno el bruodo per chaxa. E togeno del’incensso
+         e llegno alloe e vano prefumegando per chaxa con grande luminarie e chantendo […]».
+         Tutto il passo è omesso da Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

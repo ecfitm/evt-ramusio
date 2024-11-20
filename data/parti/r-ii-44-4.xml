@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-44-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-44">
+      <note>
+	<p>R segue da vicino la versione sintetica di <ref type="witlink" target="#vb-null-87">VB LXXXVII 5-6</ref> «Deliberò el <term ref="#gran-can">Gran Can</term> avere el dominio de questa cità; mandò suo hoste sotto 1° valloroso chapitano, e
+         per la maor parte del’oste volse el ne andase tuti bufoni e çugullari dela corte soa
+         che ssono in grandissimo numero. Andato l’oste dita ad assedio della dita çittà in
+         breve tenpo quella otene […]».</p>
+	<p>Gli altri testimoni – a parte <ref type="witlink" target="#z-null-59">Z 59 8</ref>, che accorcia notevolemente il testo («Erat enim in eius curia multa quantitas ystrionum
+         et ioculatorum») – presentano un racconto maggiormente ricco di dettagli: <ref type="witlink" target="#l-null-99">L 99 7</ref> «Hanc provinciam acquisivit <term ref="#gran-can">Magnus Canis</term> novo quodam et truffatorio modo. Aderat enim in eius curia ioculatorum uniuscuiusque
+         maneriei maxima multitudo, et ut eos a curia separaret, ait eis: “Volo ut conquiratis
+         provinciam <term ref="#mien">Mien</term>, daboque vobis capitaneum cum adiutorio, et societate decenti”. Quod factum est,
+         sicque acquisiverunt provinciam […]»; <ref type="witlink" target="#p-ii-44">P II 44 6</ref> «Quadam igitur die inventi sunt in curia <term ref="#gran-can">Magni Kaam</term> ioculatores et mimi in multitudine maxima, quos ad se convocans rex ait: “Volo ut
+         cum duce quem preferam vobis et cum alio exercitu quem vobis adiungam conquiratis
+         michi provinciam <term ref="#mien">Myen</term>”; qui se mandato regis voluntarios exhibentes iverunt ut iussit et, <term ref="#mien">Mien</term> provinciam debellantes, eius dominio subdiderunt»; <ref type="witlink" target="#v-null-59">V 59 11-12</ref> «Or questo pervene ale orechie del <term ref="#gran-can">Gran Chan</term>, dela beleza de ’ste tore, et folli dito per alguni dela so chorte chiamati “ostorini”,
+         zoè “chuxatori”, Or advene che ’l <term ref="#gran-can">Gran Chan</term> chomandò a questi et disse ch’el voleva che i andasse a questa provinzia chon uno
+         chapetanio, et quelli disse che volentiera i anderano, et messesse in via chon quel
+         chapetanio chon la zente che i dè el <term ref="#gran-can">Gran Chan</term>; onde questi andò a questa provinzia» (vd. <ref type="witlink" target="#f-null-124">F CXXIV 10-12</ref> «Il fui voir qe a la cort dou Grant Kaan avoit une grant quantité de joculer e des tregiteor, e le <term ref="#gran-can">Grant Kan</term> dist que il vuelt qe il ailent conquister la provence de <term ref="#mien">Mien</term>: dona elç cheveitain et aide. Le giogoler distrent qu’il le velt volunter. Et adonc
+         se mistrent a la voie con celz cheveintain et con cel aide qe le <term ref="#gran-can">Grant Kaan</term> doné elz. Et qe voç en diroie? Saquiés qe cesti giogoler, con celes jens qe alerent
+         con eles, conquistent cele provence de <term ref="#mien">Mien</term>»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

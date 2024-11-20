@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-7">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 7</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-7_2_1" n="1"> Hec autem, cum intellexisset, placuerunt valde: quare nuntios ad dominum summum
+         pontificem mittere terminavit. </seg>
+      <seg xml:id="l-null-7_2_2" n="2"> Rogavit ergo predictos fratres Nycholaum et Mapheum
+         quatinus in hac legatione nuncii esse vellent. </seg>
+      <seg xml:id="l-null-7_2_3" n="3"> Cum ergo tamquam vero domino in
+         omnibus paratos se dixerunt, litteras sibi fecit in lingua turcha quas summo pontifici
+         destinavit: in quibus inter cetera querebat quatenus ei mittere placeret .C. christianos
+         sapientes in fide christiana, qui insuper essent in philosophia et in aliis scienciis
+         taliter eruditi quod christianam fidem omnibus aliis preesse racione probarent, omnesque
+         alias fides – et maxime ydolorum – frustratorias esse monstrarent penitus atque vanas.
+         </seg>
+      <seg xml:id="l-null-7_2_4" n="4"> Insuper commisit dictis ambaxiatoribus, ut de oleo lampadis que ante Christi Sepulcrum
+         ardet omnimode portare deberent.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

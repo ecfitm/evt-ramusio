@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-130</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-130">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 130</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-130_2_1" n="1"> In supradicta civitate de <term ref="#quinsai">Quinsay</term> est pallacium quodam regis provincie de <term ref="#mangi">Mangi</term>. </seg>
+      <seg xml:id="l-null-130_2_2" n="2"> Et circuit quantum una bona civitas faceret, circumquaque altis muratum muris;
+         intusque sunt quam plura viridaria, optimis plantata fructibus. Suntque aliqui lacus
+         et fontes plurimi, in quibus piscium adest copia. </seg>
+      <seg xml:id="l-null-130_2_3" n="3"> In medio huius circuitus loco
+         est maximum et nobile pallacium per to‹tum› aureis pertractum scripturis similiter
+         et picturis; in quo sunt quam plures sale ubi possent plus quam .Xm. hominum commedere, et camere bene .M. </seg>
+      <seg xml:id="l-null-130_2_4" n="4"> Et in hac civitate sunt .C.LX. <term ref="#toman">thomain</term> domorum, idest fumantium, et <term ref="#toman">thomain</term> unum est .Xm. Sunt ergo in summa .XVIc.M. domus, inter quas sunt multa nobilia pallatia; et est una sola ecclesia in hac
+         civitate, ‹ex christianis nestorinis›.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

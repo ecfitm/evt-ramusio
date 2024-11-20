@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-22</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-22">
+    <head>
+      <hi rend="bold">P, II 22</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-22_2_1" n="1"> Habet <term ref="#gran-can">Magnus Kaam</term> barones |46b| .XII. qui .XXIIII. provinciis sunt prefecti, quorum est officium eligere
+         duos rectores et officiales in provinciis memoratis et earum civitatibus; habent etiam
+         regis exercitibus de locis ubi habitare annuatim debeant providere. Omnia que disponunt
+         regi insinuant, et ille sua auctoritate confirmat que illi dixerint statuenda. </seg>
+      <seg xml:id="p-ii-22_2_2" n="2">
+         Vocantur autem “<term ref="#singh">scieng</term>”, id est “officiales curie maioris”. </seg>
+      <seg xml:id="p-ii-22_2_3" n="3"> Hii multas gratias multaque beneficia multis
+         conferre possunt, propter quod in magno honore habentur a populis. </seg>
+      <seg xml:id="p-ii-22_2_4" n="4"> Horum habitacio
+         in quodam palatio magno est in civitate <term ref="#cambalu">Cambalu</term> eorum officio deputato, ubi sunt pro eis et officialibus ac ministris eorum aule,
+         camere et cetere pro eorum comodo officine; habent autem assessores, iudices et notarios
+         qui consulendo et scribendo eorum mandatis et officio suffragantur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

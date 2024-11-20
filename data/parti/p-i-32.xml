@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-32</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-32">
+    <head>
+      <hi rend="bold">P, I 32</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-32_2_1" n="1"> Terminatis prefatis duabus dietis, invenitur castrum quod dicitur <term ref="#thaican">Taycam</term>, ubi est bladi copia magna. </seg>
+      <seg xml:id="p-i-32_2_2" n="2"> Regio autem eius pulcra est valde. </seg>
+      <seg xml:id="p-i-32_2_3" n="3"> Mon|15c|tes
+         habet optimi salis ad meridiem altos et maximos qui, ut dicitur, toti mundo sal preberent
+         habundanter; tanta est autem illius duricies ut non, nisi cum malleis ferreis, de
+         ipso accipi possit. </seg>
+      <seg xml:id="p-i-32_2_4" n="4"> Post hec itur per dietas tres inter plagam orientalem et aquilonarem
+         et pervenitur ad civitatem <term ref="#scassem">Scassen</term>; interim tamen in via multa reperiuntur oppida ubi est vini, blade ac frumenti copia.
+         </seg>
+      <seg xml:id="p-i-32_2_5" n="5"> Incole <term ref="#macometto">Machometum</term> adorant, verum tamen vinum bibunt et sunt maximi potatores: tota enim die potacionibus
+         vacant; habent vinum coctum optimum, homines autem pessimi sunt, sed optimi venatores,
+         et multas silvestres bestias capiunt. </seg>
+      <seg xml:id="p-i-32_2_6" n="6"> In capite nichil aliud deferunt nisi quod
+         vir quilibet cordellam unam defert, longitudinis decem palmarum, capiti circumligatam;
+         bestiarum quas capiunt pelles conficiunt |15d| et illo corio vestiuntur et calciantur,
+         nec vestes alias seu caligas habent.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

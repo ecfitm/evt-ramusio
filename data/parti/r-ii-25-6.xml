@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-25-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-25">
+      <note>
+	<p>R si allontana in parte da <ref type="witlink" target="#z-null-44">Z 44 10-12</ref>, perché reca un testo più sintetico e presenta le informazioni in ordine diverso:
+         «[…] dicens eis nativitatis sue anum, diem, horam et punctum. Quia quilibet, ex quo
+         natus est, primum quod docetur, de eius nativitate docetur. Quia apud eos talis modus
+         habetur»; <ref type="witlink" target="#z-null-44">Z 44 16</ref> «Et sic, cum homo requiret astrologo sive divinatore quem finem sui intentus sequet‹ur›,
+         et sibi diem, horam et punctum lune nativitatis sue, et quo curente anno predixerit,
+         tunc divinator, inspecta constellatione et invento planeta in quo natus fuerit, omnia
+         que sibi eventura erunt in itinere illo, et qualiter in omnibus eius agendis, sive
+         bene sive male, suum prosequetur propositum per ordinem sibi predicet».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

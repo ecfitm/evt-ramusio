@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-31</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-31">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XXXI</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-31_2_1" n="1"> Quando l’omo se parte de quella contrata, el trova una zità che à nome <term ref="#balach">Balach</term>, che fo in antigo tenpo tropo bella e granda, ma ‹li› <term ref="#tartari">Tartari</term> e altra zente l’à molto guastà. </seg>
+      <seg xml:id="va-null-31_2_2" n="2"> Solea-ne esser de molte chaxe e molti palazi
+         de molte maniere, ma ora sono guasti. </seg>
+      <seg xml:id="va-null-31_2_3" n="3"> In questa zità si tolsse moier <term ref="#alessandro">Alesandro</term> la fia de <term ref="#dario">Dario</term>, segondo che quella zente dixe. </seg>
+      <seg xml:id="va-null-31_2_4" n="4"> La zente della tera adorano <term ref="#macometto">Machometo</term>. </seg>
+      <seg xml:id="va-null-31_2_5" n="5"> Defino a questa zità dura la signioria e ’l tereno del Tartaro del Levante. </seg>
+      <seg xml:id="va-null-31_2_6" n="6"> E quando l’omo se parte de questa zità, el chavalcha do zornade dentro griego
+         e levante. </seg>
+      <seg xml:id="va-null-31_2_7" n="7"> Quella zità che ò dito de sopra è ‹a›le chonfine de <term ref="#persia">Persia</term> dentro griego e levante. </seg>
+      <seg xml:id="va-null-31_2_8" n="8"> E quando l’à chavalchato quelle do zornade, el truova
+         abitazion dexabitade, perché la zente sono tuta fuzita e reduta ala montagnia per
+         paura de malla zente et delli exerziti li feva gran dalmazio. [9] Lì se trova aqua
+         asai; e sì nde n’è chazaxion de bestie, e trova-sse dei buò.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

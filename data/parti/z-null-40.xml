@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-40</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-40">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 40</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-40_1_1" n="1"> Cum vero disceditur ab <term ref="#erginul">Ergiuul</term> eundo versus levantem per .VIII. dietas, invenitur quedam provincia nomine <term ref="#egrigaia">Egrigaia</term>, in qua sunt multe civitates et castra sub nomine provincie de <term ref="#tanguth">Tangut</term>. </seg>
+      <seg xml:id="z-null-40_1_2" n="2"> Magistra quidem civitas <term ref="#calacia">Calacian</term> nuncupatur, gentes cuius <term ref="#idolatri">ydolla collunt</term>. </seg>
+      <seg xml:id="z-null-40_1_3" n="3"> Sunt et ibi tres ecclesie christianorum nestoriam legem sectantium. </seg>
+      <seg xml:id="z-null-40_1_4" n="4"> In ista
+         civitate laborantur çambeloti de pilis camelorum pulcriores qui reperiantur in mundo;
+         et similiter de lana alba fiunt, quos mercatores portant |19r| per multas contratas,
+         et specialiter in <term ref="#cataio">Alcathay</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

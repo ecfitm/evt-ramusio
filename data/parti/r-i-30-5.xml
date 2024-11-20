@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-30-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-30">
+      <note>
+	<p>Anche per questo passo Ramusio si avvale dell’efficace sintesi di <ref type="witlink" target="#p-i-39">P I 39 3-4</ref>, il cui testo è tradotto per ampi stralci alla lettera: «Factum est autem ut moreretur
+         princeps, cui filius in regno sed non in fide successit: Sarraceni vero impetraverunt
+         ab ipso ut christiani suum eis lapidem restituere cogerentur; offerentibus vero christianis
+         illis precium de lapide magnum, renuerunt Sarraceni precium, volentes ut, sublato
+         lapide, destrueretur ecclesia, cadente columpna. Cumque christianis pro hac re nullum
+         adesset remedium, beatum Iohannem Baptistam lacrimosis precibus invocare ceperunt».</p>
+	<p>Il riferimento esplicito alla malizia dei saraceni e l’indicazione del figlio (e non
+         del nipote) di <term ref="#zagathai">Ciagatai</term> come successore al trono del khanato sono varianti significative che curiosamente
+         accomunano, isolandoli dal resto della tradizione, il gruppo P/VA (cfr. <ref type="witlink" target="#va-null-38">VA XXXVIII 10</ref> «Ma i saraini, voiando che lla chiexia se guastasse, disse che i non volea nì oro
+         nì arzento, se non sollamente la soa piera» e <ref type="witlink" target="#va-null-38">VA XXXVIII 11</ref> «E tanto fexe ‹i› saraini che ’l figiol de <term ref="#zagathai">Zigatai</term>, lo qual aveva la signioria […]») e il ben più prolisso svolgimento di <ref type="witlink" target="#vb-null-34">VB XXXIV 8-12</ref> «Dapoi fata et nobelmente adornatta la chiexia, el segnor se morì; e socesse per
+         segnore el fiollo de <term ref="#zagathai">Gigatai</term>, de picolla etade, la tutella dil qualle fu data al nepote dil <term ref="#gran-can">Gran Chane</term>, che era saracino. Morto <term ref="#zagathai">Gigatai</term> segnore cristiano, i saracini se levorno versso cristiani dicendo i volevano la suo
+         colona trata del suo hedeficio. I cristiani ch’erano meno di loro, con umane e bone
+         parolle, volea cerchare de farlli remanere contenti per precio; ma i saracini, pieni
+         de odio, per precio de oro non volea aquetarsi, anci con grandissimo furore andòno
+         al segnore saracino protetore de quella cità narandoge quel avea fato <term ref="#zagathai">Gigatai</term> in desprecio della fede di <term ref="#macometto">Machometo</term>. Mosso el segnore con quel medemo hodio avea el popollo saracino, sperendo quella
+         nobelle chiexia dovesse al tuto ruinare per el mover dila colona, comandò a cristiani
+         che fra tre dì loro avesse dato la soa collona a saracini. I cristiani, dolenti di
+         tal comandamento, non vedendo potere vencer saracini né con force né con suma d’oro,
+         né vedendo modo poter trare la cholona sença ruina dela nobelle chiexia, non avendo
+         altro remedio, se tornoro con grandissime lacrime alla fonte de misericordia, pregando
+         lui che la chiexia soa i fosse richomandata, Idio graciosso per le pregiere de miser
+         San Iohanne, al nome dil quale la chiexia era dedicata».</p>
+	<p>Sostanzialmente pedissequi alla narrazione di F sono invece L e V: vd. infatti <ref type="witlink" target="#f-null-51">F LI 8-14</ref> («Or avint que <term ref="#zagathai">Cigatai</term> murut, et quant les saraçins virent qe celui estoit mort, et por ce qe il avoient
+         eu, et avoient toutes foies, grant ire de celle pieres qe estoit en l’eglise des cristiens,
+         il distrent entr’aus qu’il vu‹i›lent celle pieres por force: et ce pooient il bien
+         fair car il estoi‹e›nt .X. tant que les cristiens. Et adonc auquans des meiors saracin
+         alent a le ygli{e}se de sant Johan et distrent a cristiens qu’i estoient qu’il voloient
+         celle pieres qe lor avoit esté. Les cristiens distrent qu’il les en volent ‹doner›
+         tout ce qu’il vodront, et laissast la piere por ce qe trop seroit grant domajes de
+         le yglise se celle pieres s’en traïst{i} hors. Les saraçin distrent qu’il n’en voloient
+         or ne teçor mes voloient lor pieres en toutes maineres. Et qe voç en diroie? La sengnorie
+         estoit a cel neveu dou Grant Chan. Il font faire conmandamant as cristiens que de celui jor a deus jors deussent rendre
+         celle pieres as saraçinz. Et quant les cristien ont eu cel conmandement, il unt grant
+         ire et ne sevent qu’il deussent faire»), <ref type="witlink" target="#l-null-46">L 46 5-6</ref> («Post vero non multum tempus dominus iste, qui christianus erat, mortuus est. Tunc
+         vero Sarraceni, qui primo timore domini quiete steterant, proposuerunt ex toto hunc
+         lapidem vi tollere christianis – quod leviter facere poterant: erant enim longe plures,
+         ymo decies tantum. Dixerunt enim christianis quod lapidem suum volebant, omni causa
+         remota; sed quia lapis absque destructione ecclesie auferri non poterat, obtulerunt
+         christiani se daturos quantum monete placuerit pro merito talis petre: quod nullatenus
+         Sarracenis placuit consentire. Per dominum ergo statuta est dies christianis in qua
+         lapis reddatur omnimode Sarracenis»), <ref type="witlink" target="#v-null-27">V 27 9-11</ref> («Or essendo morto questo <term ref="#zagathai">Rigatai</term>, i Sarazini ebe gran dolore de quela so pietra che iera stà tolta dai christiani
+         et messa in quela giexia de <term ref="#giovambattista">San Zuane</term>, et infra loro disse: «Nui toremo la nostra pietra al despeto dei christiani»; et
+         fato che i ebe el chonseio molti de loro andòe a quela giexia de <term ref="#giovambattista">San Zuane</term>, et disse a queli christiani che iera là che ad ogni muodo i voleva la so pietra,
+         et queli disse che i la voleva ben pagar più de quelo la valea, perché se quela pietra
+         fosse tolta torneria gran senestro ala giexia. Disse li Saraxini: «Nui non volemo
+         oro ní arzento, ma volemo ad ogni modo la nostra pietra rimosa ogni chason». Allora
+         lo nievo del <term ref="#gran-can">Gran Chan</term> quale rezeva el reame feze chomandamento ai christiani che infina a do zorni li dovese
+         aver restituido quela pietra ali Saraxini, et quando li christiani ave intexo el chomandamento
+         ave gran ira e spavento, che li non savea quelo i dovesse far»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

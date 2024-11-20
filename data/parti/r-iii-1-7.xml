@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-1-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>La descrizione viene ancora una volta da <ref type="witlink" target="#z-null-91">Z 91 20-21</ref> «Ducuntur quidem cum remigibus, et cum quolibet remige vogant quatuor vogatores.
+         Ittem naves iste maiores secum ducunt duas et tres minores, quarum alique ducuntur
+         a .LX. marinariis, alique a .LXXX., alique a .C., que multas mercationes portant»
+         (anche in questo passo, lo Z toledano omette il riferimento al pepe, attestato in
+         tutta la tradizione a partire da F CLVII 9-10 «[…] et si vos di qe elle allent con av‹i›ron, ce est cun remes, et vuolent a cascun
+         remes .IIII. mariner. Et ont cestes nes si grant barches, qe bien portent .M. esportes
+         de pevre; mes si vos di qu’elle moinent .XL. mariner […]» – sulla questione vd. la
+         nota a <ref type="witlink" target="#r-iii-1">R III 1 5</ref>).</p>
+	<p>Gli altri relatori concordano con F – oltre che nella citazione del pepe – sulla consistenza
+         dell’equipaggio di questo naviglio minore: P III 1 7-8 «[…] navis magnos remos habet et sepe ducitur remigando; remus autem quilibet indiget
+         marinarios quatuor. Habet insuper navis magna duas barcas magnas, quarum una est altera
+         maior, sed quelibet ipsarum pondus mille sportarum piperis defert, et in suo obsequio
+         et gubernacione requirit marinarios .XL. […]» (apografo di VA CXXI 8-9 «[…] e vano chon remi, e zaschuno remo vuol quatro marinari. Queste nave àno siego
+         barche sì grande che i portano ben zinquemillia sporte de piper, e tal siemillia […]»
+         [<hi rend="italics">sic</hi>] – ma il testo del relatore quattrocentesco è guasto);  L 142 5 «[…] et ducuntur hee naves remis: verum cuilibet remo adsunt quatuor marinarii. Habent
+         eciam hee naves barchas magnas, portantes bene sportas mille piperis, et ipse remis
+         incedunt cum .XL. marinariis […]»; VB CXXVI 6-7 (iperbolico nelle cifre) «[…] e vano a remi e vogano .IIIIc. homeni a remo et àno cercha .IIc. homeni. Et chadauna àno .II. barche grandissime le qual porta cercha sporte mille;
+         et chadauna àno .XL. omeni […]»; V 80 5-6 «[…] et vieno menade chon remi, e zaschadun remo voga quatro marinari. Et queste
+         nave àno sì gran barcha che le porta ben mile sporte; e sono menade da quaranta marinari
+         […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

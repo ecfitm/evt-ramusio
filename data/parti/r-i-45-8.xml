@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-45-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-45">
+      <note>
+	<p>Per il dettaglio sulla lavorazione del latte di cavalla e sul nome della bevanda che
+         ne è tratta, Ramusio utilizza la versione di P, che, in autonomia dal modello volgare
+         VA, anticipa l’informazione in coda al paragrafo sulle abitudini alimentari dei Tartari:
+         vd. infatti <ref type="witlink" target="#p-i-57">P I 57 1</ref> («Communia <term ref="#tartari">Tartarorum</term> cibaria sunt carnes et lac; carnes animalium que in venacionibus capiunt comedunt;
+         similiter etiam aliorum animalium mundorum et immundorum: nam equos et canes edunt,
+         similiter et reptilia quedam, que vulgo dicuntur “ratti pharaonis”, que in planiciebus
+         illis inveniuntur in copia magna. Bibunt etiam lac equarum, quod taliter parare noverunt,
+         ut vinum album esse videatur, quod etiam valde sapidum est; vocatur autem in eorum
+         lingua “<term ref="#chemurs">chemus</term>”»); nel resto della tradizione, invece, il brano compare più avanti, nell’ambito
+         della sezione dedicata ai costumi religiosi (vd. <ref type="witlink" target="#f-null-69">F LXIX 6</ref> «Aprés ce, menjuent il et boivent, car sachiés qu’il boivent la‹i›t de jumente, mes
+         si voç di qu’il l’adobent en tel mainere ke le senble vin blance et est bone a boire,
+         et l’apellent <term ref="#chemurs">chemins</term>»; <ref type="witlink" target="#l-null-60">L 60 13</ref> «Bibunt lac equarum, quod taliter conficiunt quod albo vino similatur; et est satis
+         bonus potus, ipsumque “<term ref="#chemurs">chemins</term>” appellant»; <ref type="witlink" target="#v-null-36">V 36 13</ref> «Et fato questo, puo’ li manza e beve late de chavalo, et quela late eli la chonza
+         per tal modo ch’el par vin biancho, ed è molto bon da bever, e quelo nome “<term ref="#chemurs">chemenis</term>”»; <ref type="witlink" target="#va-null-55">VA LV 6</ref> «E possa manzano e beveno late de zumente, e chonza-lo in tal modo ch’el par pur
+         vino biancho: ed è molto bon a bevere, ed è apelato in soa lingua <term ref="#chemurs">charanis</term>»).</p>
+	<p>Quanto ai «sorzi di pharaone» (piccolo mammifero d'incerta identificazione: roditori
+         simili al gerboa [Yule 1903, I, pp. 254-55], marmotte [Cardona 1975, p. 93], o manguste
+         [Ménard 2001-2009, II, p. 70]?), può essere ricondotta al gusto erudito di Ramusio
+         la loro classificazione come «animaletti ch’assomigliano a conigli», sempre che essa
+         non derivi da un fraintendimento (o da una variante a noi sconosciuta) del bizzarro
+         dettaglio di <ref type="witlink" target="#p-i-57">P I 57 1</ref> «[…] <hi rend="italics">reptilia</hi> quedam, que vulgo dicuntur “ratti pharaonis”[…]»).</p>
+	<p>Il riferimento alla preferenza per gli animali grassi è invece eco di <ref type="witlink" target="#vb-null-56">VB LVI 7</ref> «Mangiano charne di chavallo et de chani (<hi rend="italics">pur siano grasi</hi>) […]».</p>
+	<p>Un probabile errore (di natura poligenetica?) associa infine R e V: l’informazione
+         secondo la quale i «sorzi di pharaone» popolano in abbondanza le pianure mongole nel
+         periodo estivo («nella state» R, «de instade» V) sembra infatti dipendere dal fraintendimento
+         paleografico del francoit. <hi rend="italics">desote</hi> (“di sotto, sotto terra”, presente in F e con ogni probabilità nel modello di Fr:
+         «[…] [ras de pharaon], que moult en y a es plains et <hi rend="italics">em pertuis souz terre</hi>» [Ménard 2001-2009, II, p. 31]), letto *<hi rend="italics">d’estee</hi> “d’estate”. L’errore è certamente avvenuto al momento di una traduzione dal francese
+         al latino (e quindi avrebbe potuto essere attestato pure in Z1).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

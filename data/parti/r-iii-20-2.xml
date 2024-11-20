@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Ramusio rielabora lievemente il testo di <ref type="witlink" target="#z-null-107">Z 107 2-3</ref> «In ista quidem provincia quatuor reges sunt, omnes fratres germani; et de singulis
+         per se dicemus. In capite vero huius provincie permanet unus istorum fratrum, nomine
+         <term ref="#senderbandi">Sender Bandi Devar</term>, qui principalis est et maior» (rielaborazione di F CLXXIII 3-4 «Et sachiés qe en ceste provence a .V. rois, que sunt freres carnaus, et voç en diviseron
+         de cascun por soi. […] Or sachiés qe de ceste chief de la provence reingne un de cesti
+         freres, que a non <term ref="#senderbandi">Sender Bandi Devar</term> […]». Traduce alla lettera F V 91 2-3 «Et in questa provinzia sono zinque re, i qualli sono fradeli e zarmani; e diròve
+         la chondizion de zaschadun. Or sapié che questa provinzia è la più nobelle e la più
+         richa che se trova al mondo; et in chavo de questa provinzia el stano uno de questi
+         fradelli el qualle sono chiamato <term ref="#senderbandi">Deu Bandi Danat</term>»).</p>
+	<p>P III 23 2 / P III 23 4 contiene un’innovazione isolata, la nominazione del primo regno della regione: «In
+         hac provincia quinque reges sunt. […] In primo huius provincie regno nomine <term ref="#malabar">Nar</term> rex est nomine Sandala […]» (vd. <hi rend="italics">contra</hi> il suo antigrafo VA CXXXVII 2 / VA CXXXVII 4 «In questa provinzia è zinque re che sono fradelli charnali. […] Innel comenzar de
+         questa provinzia è uno re che à nome <term ref="#senderbandi">Senderba</term>, e è apelato <term ref="#senderbandi">Re Devar</term>»).</p>
+	<p>Amplifica VB CXLIII 2-3 «In questa provincia sono .V. re i qualli sono tutti fratelli charnalli; èt delle
+         più riche e più nobelle provincia abia el mondo. Nel principio della provincia è re
+         uno di fratelli che se chiama <term ref="#senderbandi">Sendenbandevar</term>». Omette il nome del re L 161 2-3 «Et in ‹hac› provincia erant .V. regna, que tempore domini Marchi Paulo .V. possidebant
+         fratres. Ab hoc enim capite provincie huius regnabat unus ex hiis fratribus […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

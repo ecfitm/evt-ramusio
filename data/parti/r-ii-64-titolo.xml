@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-64-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-64">
+      <note>
+	<p><ref type="witlink" target="#f-null-147">F CXLVII</ref> (Ci devise de la cité de <term ref="#cayngui">Caygiu</term>); <ref type="witlink" target="#l-null-122">L 122</ref> (De civitate <term ref="#quanzu">Caigiu</term>); <ref type="witlink" target="#p-ii-60">P II 60</ref> (De civitate <term ref="#cayngui">Tayguy</term>. Capitulum LX), <ref type="witlink" target="#va-null-114">VA CXIV</ref> (De <term ref="#cayngui">Chaigui</term>, ove nasie tanta biava); <ref type="witlink" target="#v-null-73">V 73 1-4</ref> (Dela zità de <term ref="#cayngui">Chaichui</term> et di quela de <term ref="#cinghianfu">Giginafu</term>); <ref type="witlink" target="#vb-null-110">VB CX</ref>; <ref type="witlink" target="#z-null-81">Z 81</ref>.</p>
+	<p>Il testo del capitolo deriva dalla combinazione di materiali provenienti da P (par.
+         1), VB (par. 3) e da Z (parr. 2, 4). In alcuni punti, Ramusio non si attiene esclusivamente
+         alla lezione del modello base: nella prima pericope, Z e VB contribuiscono a integrare
+         la testimonianza di P, mentre in par. 3 il testo di VB viene arricchito di varie lezioni
+         attinte da P. In par. 2 è documentato pure il contatto di R con L.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

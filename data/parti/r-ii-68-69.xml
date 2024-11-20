@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-69</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>R si attiene in modo quasi esclusivo a <ref type="witlink" target="#z-null-85">Z 85 34-35</ref> «De quo valde miraremin‹i›, quoniam in provincia <term ref="#mangi">Mançi</term> sunt bene mille et ducente civitates, in qualibet quarum, secundum quantitatem et
+         requisitionem cause earum, est ‹custodia› per <term ref="#gran-can">Magnum Can</term>. Nam in aliquibus sunt mille homines, in aliquibus .Xm., in aliquibus .XXm., in aliquibus .XXXm., plures et pauciores secundum condicionem terrarum et potenciam earum» (vd. <ref type="witlink" target="#f-null-151">F CLI 23</ref> «Sachiés tuit voiramant qe en chascune cité, celle qe moi‹n› en a, sont .M. homes,
+         et de tielz hi a qe est gardee de .Xm. et telz de .XXm. e tiel de .XXXm., si qe bien sunt si grant en no‹n›bre qe a poine se poroit conter […]»). Il breve
+         inserto «tutte habitate da gran moltitudine di genti ricche et industriose», ignoto
+         a Z, potrebbe essere la prova di un contatto sporadico con <ref type="witlink" target="#vb-null-114">VB CXIV 26-27</ref> «Né nonn è dubio che la provincia del <term ref="#mangi">Mangi</term> à mille e ducento citade tute bele e riche nelle qual el segnor ne tien molti soldati
+         a guardia de quelle che non rebelli; e tutti àno stipendio dal segnore et sono questi
+         in tanta quantitade che io non ardischo dirllo dubitendo non esere creto. Ma di certo
+         la cità de <term ref="#quinsai">Quinsai</term> à guardia .XXXm. soldati e quella ne à meno à mille soldati fra da pie’ et da chavallo; né ad algun
+         questo seria dubio che potesse intendere la grandeça, la richeça, la nobelleça dele
+         cità, el numero dela provincia del <term ref="#mangi">Mangi</term>». Non si danno invece indizi di rapporti con <ref type="witlink" target="#l-null-129">L 129 2</ref> «Provincia hec de <term ref="#mangi">Mangi</term> est immense nobilitatis et incredibilis divitie; et sunt in ea bene .M.CC. civitates»,
+         e con <ref type="witlink" target="#p-ii-64">P II 64 22</ref> «Provincia enim <term ref="#mangi">Mangy</term> habet in universo civitates .MCC. et in singulis ipsarum per <term ref="#gran-can">Magnum Kaam</term> positi sunt custodes, ne forte presumant ‹rebellare›; hominum custodum innumerabilis
+         est stupenda magnitudo […]». In V tale parte manca del tutto.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

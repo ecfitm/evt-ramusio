@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-49</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-49">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 49</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-49_2_1" n="1"> ‹D›apoi che nui abiamo dito che ’l <term ref="#gran-can">Gran Signor</term> fano abondanzia al suo’ populo dele suo’ blave, or diremo chomo el <term ref="#gran-can">Gran Chan</term> fano gran charitade alla so povera zente la qual sono in la zità de <term ref="#cambalu">Chanbalun</term>, la qual sono povera et non abia da manzar. </seg>
+      <seg xml:id="v-null-49_2_2" n="2"> Alguna fameia, serà zinque, et algune
+         diexe, e plu e men, el <term ref="#gran-can">Gran Signor</term> fano dar a queli formento over altre blave, azò che i abia da manzar; et questo a
+         molti lo fa far, et tuti quelli che vol andar ala chorte per pan vano, e vien inde
+         dado; ed ogni zorno ne vano più de trentamilia persone, et questo li fa far per tuto
+         l’ano; et questa sono gran bontade del <term ref="#gran-can">Signor</term>, quando l’à piatade del suo’ popullo. </seg>
+      <seg xml:id="v-null-49_2_3" n="3"> Or nui abiamo dito de questo e diremo d’altro,
+         et anderemo dala zitade de <term ref="#cambalu">Chanbalun</term> et intreremo in <term ref="#cataio">Chataio</term>, a chaxon de dir dele gran chosse e richeze che sono in quel luogo.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-85</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-85">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 85</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-85_1_1" n="1"> Cum disceditur a civitate Çangan, itur una dieta, inveniendo casamenta multa, burgos et vilas multarum diviciarum.
+         </seg>
+      <seg xml:id="z-null-85_1_2" n="2"> Gentes <term ref="#idolatri">adorant ydola</term>, monetam habent de cartis et sunt sub dominio <term ref="#gran-can">Magni Can</term>. </seg>
+      <seg xml:id="z-null-85_1_3" n="3"> Habundantiam quidem habent de omnibus victualibus humano corpori oportunis.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="z-null-85_2_1" n="1"> Et cum perambulatum est una dieta, invenitur nob‹i›lissima civitas <term ref="#quinsai">Quisay</term>, que “celli civitas” nuncupatur: nam maior civitas est que reperiatur in mundo. </seg>
+      <seg xml:id="z-null-85_2_2" n="2">
+         De cuius esse et nobilitate narabimus secundum quod regina ipsius, ut supra in libro
+         dictum est, misit ad <term ref="#gran-can">Dominum Grandem</term> in scriptis, priusquam capta fuisset per exercitum eam obsidentem, declarando videlicet
+         totam nobilitatem et esse ipsius, ut, civitatis magnificentia intellecta, de ipsius
+         destructione condolens, eam faceret conservari illesam. </seg>
+      <seg xml:id="z-null-85_2_3" n="3"> Et ideo illarum continentiam
+         scripturarum per seriem narabimus ordinate secundum quod ego, Marcus Paulo, propris
+         oculis ipsas vidi. </seg>
+      <seg xml:id="z-null-85_2_4" n="4"> Primo quidem continebatur in eis quod civitas <term ref="#quinsai">Qinsay</term> in circuitu suo girat miliaria centum tere, et habet duodecim milia pontium, pro
+         maiori parte de lapidibus, quia aliqui de legnamine sunt constructi; sub singulis
+         quorum, vel pro maiori parte, transiret navis una, sub arcu, grandis et magna, per
+         alios vero possent transire minores. </seg>
+      <seg xml:id="z-null-85_2_5" n="5"> Et nullus miretur si tot sunt ibi pontes:
+         nam civitas tota est sita in aquis, et circumdata aquis; et ideo necesse est ut sint
+         ibi tot pontes ad hoc |43r| ut gentes possint per civitatem quacumque pertransire.
+         [9] Item continebatur in scripturis quod in civitate ista erant duodecim maneries
+         arcium que sunt magis principales et pre aliis maiorem habent curssum: nam alie sunt
+         quam plures. [10] Sed quelibet istarum duodecim artium habet duodecim mille ypothecas,
+         id est duodecim mille domos pro arte qualibet predictarum; in singulis quarum domorum,
+         sive stationum, pro minori manent decem homines ad illas artes exercendas, et in aliquibus
+         sunt .XV., in aliquibus .XX., .XXX. et .XL. [11] Nec credatis quod omnes sint magistri,
+         sed homines qui faciunt precepta magistri et patronis. [12] Et hoc est necessarium,
+         quoniam ab ista civitate multe alie civitates provincie de necesariis fulciuntur.
+         [13] In ea sunt tot mercatores et tam divites, et tanta fatiunt mercimonia quod nullus
+         quantitatem posset dicere vel narare. [14] Et omnes magni homines et mulieres, et
+         patroni, sive ypothecarum magistri, nullum opus propris manibus operantur, sed omnes
+         permanent absoluti et nitidi quemadmodum forent principes et barones. [15] Et eorum
+         uxores etiam sunt multum angelice. [16] Sanccitum erat itaque per <term ref="#fanfur">Factur</term>, regem dicte civitatis et provincie, tempore quo regnabat, quod quilibet deberet
+         exercere artem sui patris; et si quis haberet centum milia bysantiorum, oportebat
+         ipsum artem patris exercere. [17] Non equidem credatis quod ipsos oporteret propris
+         manibus laborare, sed homines retinere, ut dictum est superius, ad dictam artem exercendam.
+         [18] Sed ad hoc per <term ref="#gran-can">Magnum Dominum</term> minime compelluntur: nam, si homo artifex in tantas creverit divicias |43v| quod
+         artem suam derelinquere possit et vellit, per nullum ad artis exercitium amplius coartatur.
+         [19] Nam <term ref="#gran-can">Magnus Can</term> hanc rationem assignat: si homo, quia pauper, aliquam artem exercet, nam aliter se
+         non potest de necessariis substinere, et tempore procedente, sibi taliter prosperetur
+         fortuna quod absque exercitio sue artis possit suam vitam ducere honoratam, cur, si
+         non vult, ad artem exercendam debet compelli? [20] Incongruum enim et iniustum videretur
+         ut si dii in bonis sibi succedant quod homines debeant contraire. [21] Est etiam in
+         hac civitate quidam lacus pulcerimus et magnus, girans in circuitu miliaria triginta.
+         [22] Circum lacum sunt edificata multa pulcra palatia et domus tam bene constructa
+         quod non possent ese melius ordinata; que sunt virorum nobilium et magnatum. [23]
+         Sunt etiam circum lacum multe abbatie et monasteria ydolorum. [24] Item in medio lacus
+         insule due sunt, in quibus sunt constructa palatia tam artificioxa et pulcra quod
+         videntur esse alicuius imperatoris. [25] Hic veniunt optima vina, hinc ducuntur confectiones
+         perfecte. [26] Et per hunc modum simul gaudendo vadunt homines illi per istum lacum:
+         nam eorum mens et cura nullis aliis est intenta quam ad corporum delectationem et
+         gaudium insimul convivando. [27] Et noveritis quod iste lacus eis est ad maiorem consolationem
+         et solatium quod aliquid aliud. [28] Gentes <term ref="#idolatri">adorant ydolla</term>, monetam habent de cartis et sunt sub dominio <term ref="#gran-can">Magni Can</term>. [29] Comedunt omnes carnes, canum et generaliter omnium animalium. [30] Et sunt
+         |44r| sexaginta mille custodes qui custodiunt civitatem ab igne, quia habent quam
+         plures domus de lignio. [31] Et ista civitas est capud et sedes totius provincie <term ref="#mangi">Manci</term>, et ideo preeminentior et magis solicita pretenditur curra in ipsa. [32] Item per
+         totam civitatem istam solubrice, id est saleçate, sunt omnes vie et strate de lapidibus
+         et lateribus; et similiter saleçate sunt omnes vie et strate provincie <term ref="#mangi">Mançi</term>. [33] Et in ista civitate sedet unus ex novem regibus, qui pluribus centum et quadraginta
+         civitatibus dominatur multum divitibus et magnis. [34] De quo valde miraremin‹i›,
+         quoniam in provincia <term ref="#mangi">Mançi</term> sunt bene mille et ducente civitates, in qualibet quarum, secundum quantitatem et
+         requisitionem cause earum, est ‹custodia› per <term ref="#gran-can">Magnum Can</term>. [35] Nam in aliquibus sunt mille homines, in aliquibus .Xm., in aliquibus .XXm., in aliquibus .XXXm., plures et pauciores secundum condicionem terrarum et potenciam earum. [36] Comburunt
+         funera mortuorum. [37] Consanguinei pro habitu doloris canapum induuntur, et vadunt
+         cum funere, secum ducentes instrumenta multa et diversa, pulsando et in cantibus ydolorum
+         orationes clamando. [38] Et cum ad locum pervenerint ubi combustio debet fieri, fatiunt
+         in cartis depingi sclavos, videlicet servos masculos et feminas, gamelos, drapos aureos
+         et peccuniam in maxima quantitate. [39] Et cum ista omnia facta sunt, grandem statuentes
+         ignem, ipsa fatiunt cum funere simul comburi. [40] Dicunt enim quod defunctus omnia
+         ista in alio seculo posidebit. [41] Dicunt etiam quod honor quem ei faciunt cum corpus
+         comburrunt, ei in alio seculo ab eorum diis et ydolis impendetur. [42] Et propter
+         fidem huiusmodi, de morte non metuunt neque curant, dummodo eis honor, ut predicitur,
+         exhibeatur |44v| in ea, firme credendo in alio seculo similiter honorari. [43] Sunt
+         itaque homines provincie <term ref="#mangi">Mançi</term> pre aliis gentibus iracundi; et pre ira et dolore ipsimet quam pluries aliqui se
+         occidunt. [44] Nam si accidet quod ex ipsis aliquis alteri alicui i‹m›primat alapam,
+         vel ipsum decapillet, aut aliquam sibi inferat iniuriam et gravamen, et iniuriator
+         sit tan potens et magnus quod ille sit impotens ad vindictam, pre nimio dolore, passus
+         iniuriam se de nocte ad portam iniuriatoris suspendet, et morietur, hoc sibi faciens
+         ad maius vituperium et contemptum. [45] Et sic, reperto iniuriatore per testimonium
+         vicinorum, ad restaurationem iniurie, ipsum condempnant quod in combustione funeris
+         ipsum debeat cum instrumentis et servitoribus et aliis, ut dictum est, secundum mores
+         eorum, festo alacri honorare. [46] Et hec erit maior causa quare ille se suspenderit,
+         videlicet ut iste dives et potens ipsum honoraret in morte, ad hoc ut in alio seculo
+         sit similiter honoratus; ita quod consuetudinem hanc conservant. [47] Item si debeant
+         inter aliquos sponsalia celebrari, examinatur per eorum astrologos si futuri sponsus
+         et sponsa sint sub concordibus nati planetis nec ne. [48] Si sub concordibus, matrimonium
+         consumatur; si sub con‹tra›riis, conturbatur. [49] In ista quidem civitate <term ref="#quinsai">Qinsay</term> est regale palatium, quod fuerat regis <term ref="#fanfur">Facfur</term>, domini provincie <term ref="#mangi">Manci</term>, quod est pulcrius et nobilius aliquo quod reperiatur in mundo; de cuius facturis
+         dicemus. [50] Circuit enim palatium istud bene miliaria sex de terra. [51] Est itaque
+         altis muris valatum, et intra muros sunt multa pulcra viridaria omnimodos producentia
+         bonos fructus. [52] Sunt et ibi pulcri fontes |45r| et lacus quam plures, in quibus
+         inveniuntur in habundantia boni pisces. [53] Et in medio istius muri est palatium,
+         valde pulcrum et magnum. [54] In eo est quedam magna salla magistra, in qua simul
+         discumberent multe gentes. [55] Sala ista depicta est tota aureis picturis, ubi sunt
+         ystorie diverse, bestie, aves, milites et domine cum multis mirabilibus; quod est
+         pulcer intuitus ad videndum, quoniam in toto muro et omnibus coperturis, non posunt
+         videri nisi solummodo ystorie colorate auro et aliis coloribus delectabilibus et pulcris.
+         [56] Palatium istud multas habet salas omnes spatiosas et pulcras, depictas ad aurum
+         et subtiliter laboratas. [57] Habet insuper cameras bene mille; et est mirabile quid
+         esse istius palatii. [58] Ibi est solummodo una ecclesia christianorum nestorinorum.
+         [59] Item in provincia <term ref="#mangi">Mançi</term> quasi omnes gentes pauperes et egene filios vendunt et filias aliis divitibus et
+         nobilibus, ut pro eorum precio se valeant substinere, et filii cum illis uberius habeant
+         unde vivant. [60] In civitate <term ref="#quinsai">Quinsay</term> examinatum est quod, die qualibet, pro eius usu .XLIII. saume piperis expenduntur,
+         et quelibet sauma ponderis est librarum .CCXXIII. [61] Ergo considerare potestis ex
+         hoc quot sunt alie species que ibi expenduntur, et etiam ad universas expensas quot
+         necessaria requiruntur. [62] Dicimus de quodam miro quod accidit cum <term ref="#bayan">Bayan</term> erat in obsidione civitatis istius, videlicet quod cum rex <term ref="#fanfur">Facfur</term> a facie eius fugit, multitudo gentium ipsius civitatis in navigio fugiebat per quoddam
+         maximum flumen, latum et profundum, quod transit ab uno latere civitatis. [63] Et
+         dum sic per flumen istud fugerent, ipso instanti fuit |45v| aqua totaliter desiccatum,
+         ita quod <term ref="#bayan">Bayan</term>, hoc inteligens, adivit partem illam et omnes fugientes ad civitatem redire coegit.
+         [64] Et inventus fuit piscis unus iacens in sicco per transversum alveum fluminis,
+         qui erat quid mirabile ad videndum: nam longitudinis erat bene pasuum centum, grossitudo
+         vero minime longitudini respondebat. [65] Pilosus quidem erat totus, et multi de ipso
+         comederunt, et multi ex ipsis perierunt. [66] Et dominus Marcus, ut dicit, capud illius
+         piscis propriis oculis vidit in templo quodam ydolorum, etcetera.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

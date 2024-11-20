@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-50-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-50">
+      <note>
+	<p><ref type="witlink" target="#z-null-66">Z 66 3-6</ref> differisce per alcune varianti (<ref type="witlink" target="#z-null-66">Z 66 3</ref> «In ista civitate et districtu»; <ref type="witlink" target="#z-null-66">Z 66 4</ref> «in patellis spatiosis et amplis»; <ref type="witlink" target="#z-null-66">Z 66 6</ref> «et <term ref="#gran-can">Magnus Dominus</term> inde percipit multum redditum et proventum») da <ref type="witlink" target="#f-null-131">F CXXXI 2-3</ref> – che per di più in questo punto reca una lacuna («Et sachiés qe en ceste ville se
+         fait la sal en grandissme quantité, et voç dirai comant. Il est voir qu’il prenent
+         une mainere de tere qui est molt saumastre, et de ceste terre font grant mons, e desus
+         cest mont gitent aigues aseç tant qe l’eive ‹†› et la metent en grant pot et en grant
+         chaudere de fer et la font boïr asez, et adonc est le sal fait mout biaus e blance
+         et menu. Et si voç di qe de cest sal se porte por maintes contrees environ et si en
+         ont grant avoir»), da quello di <ref type="witlink" target="#vb-null-93">VB XCIII 3-5</ref> («In questo paexe se fano salle de tera in questo modo: i àno teren molto salmastro,
+         e de questa tera i ne fano più monteselli; e sopra quegli monteseli de tera butano
+         dil’aqua in quantità; e possa, tole del’aqua esse de quegli monteselli de tera mesedata
+         con la tera. Sì lla mete in gran chaldiere e falla ben bolire; e purificata bene per
+         força del focho l’aqua saciella et aprendesse et fasse salle. Et di questa ne fano
+         tanta quantità che non sollamente basti alla cità et paexe ma in alltre contrade ne
+         portano et è gran marchadantie e fasene de quella gran guadagni»), da quello di <ref type="witlink" target="#l-null-106">L 106 3-4</ref> («Et fit in hac civitate sal in maxima quantitate, per talem modum. Habent venam
+         quandam terre salse: hanc fodiunt, faciuntque ex ipsa parva monticula, super que tam
+         diu aquam moderate fundunt donec per ipsam penetrando ‹ad terram pervenerit›; hanc
+         ergo aquam coquunt igne in ferreis vasis, fitque sal minutum et album valde, ex quo
+         circumstantes partes habundanter utuntur»), da quello di <ref type="witlink" target="#v-null-63">V 63 3-4</ref> («Et in questa provinzia se fano sal in granda abondanzia, e diròve a che muodo:
+         i tuol una sorta de tera sal‹a›da, e de questa tera i fa gran monti; et sera questi
+         monti e geta aqua, per tal muodo che l’aqua desende sovra questo monte infina ala
+         tera ch’è dala parte de soto; et dapuo’ tuol quel’aqua et metela in gran chaldiere,
+         et quella molto fa boier. Et chussì fano el sal molto bello e biancho, e questo vien
+         portado per molte chontrade, et de questa traze de molti danari») e da quello di <ref type="witlink" target="#p-ii-50">P II 50 2</ref> («ubi fit sal in copia maxima: est enim ibi terra salsissima de qua monticulos faciunt
+         super quos aquam proiciunt; postea colligunt aquam que erupit de subpede monticuli,
+         quam in magnam ponentes caldariam ad ignem diu bulire faciunt; postea congelatur in
+         sal minutum et album»). </p>
+	<p>L’aderenza di R a Z appare molto forte. L’apporto di altre fonti si limita a singoli
+         elementi lessicali: R «gran guadagno», <ref type="witlink" target="#vb-null-93">VB XCIII 5</ref> «gran guadagni»; R «la si congela», <ref type="witlink" target="#p-ii-50">P II 50 2</ref> «congelatur». Due specificazioni di R che non trovano rispondenza in nessuna delle
+         sue fonti («quanto li pare», «non alte piú di quattro dita») vanno con ogni verosimiglianza
+         ascritte a Ramusio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

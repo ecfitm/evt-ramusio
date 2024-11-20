@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-50-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-50">
+      <note>
+	<p>Per la digressione sugli yak (parr. 5-8) Ramusio combina diverse fonti. </p>
+	<p>Nella prima e nell’ultima parte utilizza Z («Ivi si trovano […] bianchi et neri» &lt;
+         <ref type="witlink" target="#z-null-39">Z 39 11-13</ref> «Inveniuntur ibi multi boves silvestres qui sunt magnitudinis elephantum et pulcerimi
+         ad videndum. Sunt albi et nigri»; «et gli huomini […] forti et gagliardi» &lt; <ref type="witlink" target="#z-null-39">Z 39 13</ref> «Nam duplo plus laborant quam alii et duplo sunt fortiores»), contaminato con una
+         minima tessera di L («della grandezza <hi rend="italics">quasi</hi> degl’elephanti» &lt; <ref type="witlink" target="#l-null-62">L 62 6</ref> «Habent boves silvestres magnitudinis <hi rend="italics">quasi</hi> elefantum […]»). </p>
+	<p>Nella descrizione del mantello («I loro peli […] tre palmi») la tessera «eccetto che
+         sopra le spalle» può dipendere ancora da <ref type="witlink" target="#l-null-62">L 62 6</ref> «Sunt enim pilosi ubique <hi rend="italics">preter quam in dorso</hi>», o da <ref type="witlink" target="#p-i-63">P I 63 6</ref> «pilos habentes per corpus <hi rend="italics">preter dorsum</hi>», sempreché non sia da ricondurre a Z1 (per questo luogo manca purtroppo la testimonianza toledana). L’affermazione ramusiana
+         che il pelo degli yak sia quasi ovunque corto («I loro peli sono in cadauna parte
+         del corpo bassi»), priva di riscontro non solo nella tradizione del testo, ma nello
+         stesso dato empirico, dipenderà da un guasto di qualcuno dei modelli.</p>
+	<p>Per il resto, la fonte di R è senz’altro VB, che porta in dote un <hi rend="italics">addendum</hi> (spurio?) sul fatto che Marco Polo stesso avrebbe portato con sé a Venezia alcuni
+         campioni di lana di yak (<ref type="witlink" target="#vb-null-59">VB LIX 7-8</ref> «El pello, over lana soa, è sotillisima e biancha et de quella lana bianchissima
+         et sotille più de seta io Marcho Polo ne dussi qui a Venexia chome mirabele chossa
+         et chosì da tuti fo reputata. De’ diti buoi salvatichi ne fino demestichati et fano
+         de quelli coprire le lor vache mestiche, et i mançi de quele escono sono meravegliosi
+         animalli et ati a fati che più de ogni alltro animalle»).</p>
+	<p>Il passo corrisponde a <ref type="witlink" target="#f-null-71">F LXXI 8-9</ref> «‹Il hi a› buef sauvajes que sunt grant come olifans et sunt mout biaus a veoir,
+         car il sunt tout pelous for le dos et sunt blanc et noir; le poil est lonc trois paumes:
+         il sunt si biaus que ce est une mervoie a voir. Et de cesti buef mesme ont domescés
+         asseç, car il pristrent des sauvajes et il sunt alingnés, si qu’il en ont grandisme
+         quantité; et li charchent et laborent con elz: et voç di qu’il laborent deus tant
+         et ‹deus tant› ont de force».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

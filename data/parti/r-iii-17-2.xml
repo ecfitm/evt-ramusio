@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-17-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-17">
+      <note>
+	<p>La pericope traduce alla lettera <ref type="witlink" target="#z-null-104">Z 104 2-3</ref> «Et in ista insula non est rex; cuius gentes tanquam bestie sunt, et omnes, tam mascoli
+         quam femine, pergunt nudi et nichil coperiunt de se. <term ref="#idolatri">Adorant ydola</term>» (resa di F CLXX 2 «[…] et, en ceste isle, ne ont roi e sunt come bestes. E voç di qu’il vunt tuit nu,
+         e masles e femes, e ne se covrent de nulle rien dou monde. Il sunt <term ref="#idolatri">ydres</term>»). Ramusio innesta sulla traduzione di Z l’<hi rend="italics">incipit </hi>«Et in questa di <term ref="#nocueran">Nocueran</term>», che dipende dalla dittologia indicata in <ref type="witlink" target="#r-iii-17">R III 17 1</ref>, secondo la soluzione già in P III 20 2 «Populus insule <term ref="#nocueran">Necuram</term> regem non habet, bestialiter valde vivit: huius habitatores insule, mares et femine,
+         nudi vadunt et in nulla parte corporis teguntur et <term ref="#idolatri">ydolatre</term> sunt» – traduzione di VB CXXXIV 2 «La zente de <term ref="#nocueran">Nagiveran</term> non à re, ma viveno chome bestie et sono tuti nudi, mascholli e femene, e non se
+         chuovreno de cossa niuna, et sono <term ref="#idolatri">idolatri</term>»). Gli altri relatori conservano in sostanza le stesse informazioni: L 157 1 «[…] in qua non est rex, sed gentes more bestiarum vivunt: incedunt enim, tam viri
+         quam femine, totaliter nudi. Et sunt <term ref="#idolatri">ydolatre</term>»; V 88 2 presenta una lieve abbreviazione del dettato originale: «Et in questa ixola non sono
+         re; la zente dela qualle sono chomo bestie, e tuti, sì mascholli chomo femene, vano
+         nudi; et <term ref="#idolatri">adorano l’idolle</term>»; VB CXL 2 enfatizza il paragone con le bestie: «Queste isolle nonn à re et sono questi peço
+         che bestie, i qualli vano tuti nudi, mascoli et femene, né coperti in alchuna parte;
+         sono <term ref="#idolatri">idolatri</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

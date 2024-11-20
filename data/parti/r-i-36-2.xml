@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-36-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-36">
+      <note>
+	<p>Ramusio traduce da <ref type="witlink" target="#z-null-31">Z 31 3-5</ref> «Omnes itaque illius provincie <term ref="#idolatri">adorant ydolla</term>, sed aliqui Turchi christiani, qui nestoriam legem tenent. Sunt et aliqui Saraceni.
+         Illi vero qui adorant ydola per se habent loquelam», ma qui come altrove (vd. <ref type="witlink" target="#r-i-50">R I 50 2</ref>, <ref type="witlink" target="#r-ii-34">R II 34 2</ref>, <ref type="witlink" target="#r-ii-34">R II 34 6</ref> etc.) mostra di non comprendere il senso del sintagma «Turchi christiani» (smembrato
+         in traduzione: «Turchi <hi rend="italics">et</hi> alcuni pochi christiani»), con il quale Z è solito segnalare la componente etnica
+         delle minoranze nestoriane dell’Asia Centrale.</p>
+	<p>Anche L e V, probabilmente sulla scorta di uno Z, conservano il dettaglio: cfr. infatti
+         <ref type="witlink" target="#l-null-52">L 52 2</ref> «Et sunt gentes <term ref="#idolatri">ydolatre</term>; sunt tamen aliqui Turchi christiani nestorini et eciam aliqui Sarraceni. <term ref="#idolatri">Ydolatre</term> vero habent proprium ydeoma», <ref type="witlink" target="#v-null-31">V 31 1</ref> «[…] et la zente di quela <term ref="#idolatri">adora le idole</term>, bench’el sono alguni Turchi che oserva la leze de christiani».</p>
+	<p>La restante tradizione elimina invece il riferimento ai Turchi: vd. p. es. <ref type="witlink" target="#f-null-57">F LVII 4-5</ref> «Il sunt tuit <term ref="#idolatri">ydres</term>; bien est il voir qu’il hi a auques cristienç nestorin, et encore hi a saracinç.
+         Les <term ref="#idolatri">ydres</term> ont langajes por elz».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

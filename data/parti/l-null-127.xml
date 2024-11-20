@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-127</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-127">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 127</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-127_2_1" n="1"> Ciangan est nobilis et dives civitas, cuius gentes sunt <term ref="#idolatri">ydolatre</term>, utentes moneta ex cartis. </seg>
+      <seg xml:id="l-null-127_2_2" n="2"> Et sunt mercatores et artiste; fiunt enim ibi diverse
+         maneries cendatorum, et in maxima quantitate. </seg>
+      <seg xml:id="l-null-127_2_3" n="3"> Adsunt eciam ibi optime venationes,
+         tam bestiarum quam avium.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

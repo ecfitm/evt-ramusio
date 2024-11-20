@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-3-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-3">
+      <note>
+	<p><ref type="witlink" target="#v-null-41">V 41 3</ref> «Or lassiamo questa materia et diremo deli benifizi ch’el fexe et honor a queli che
+         se portò ben in la bataia, et quelo el fexe a queli che vilmente se portò […]» riprende
+         <ref type="witlink" target="#f-null-80-4-11">F LXXX 4</ref> «Nos avon conté de quel legnages il fu et son ajes. Or vos diron cel qu’il fist as
+         baronz qe se portent bien en la bataille, et cel qu’il fist a celz qui furent vilz
+         et coard […]». L’omissione del riferimento a coloro che «vilmente se portò» potrebbe
+         essere stata suggerita a Ramusio da <ref type="witlink" target="#l-null-66">L 66 5</ref> «Pro hac vero victoria providit optime baronibus qui probiter egerant […]», o da
+         <ref type="witlink" target="#p-ii-7">P II 7 1</ref> «Prefectos autem suorum exercituum, quando victoriam in bellis obtinent, hoc modo
+         honorat […]». VB e Z omettono del tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-58-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-58">
+      <note>
+	<p>R segue perlopiù <ref type="witlink" target="#z-null-75">Z 75 1-2</ref> «Quando quidem disceditur a civitate <term ref="#paughin">Paugin</term>, itur una dieta per syrocum. Tunc invenitur quedam civitas nomine <term ref="#caim">Cauyu</term> multum nobilis et magna […]» (molto prossima al dettato di <ref type="witlink" target="#f-null-141">F CXLI 2</ref> «Quant l’en se part de la cité de <term ref="#paughin">Pauchin</term>, l’en ala por yseloc une jornee: adonc treuve l’en une cité, qe est apellés <term ref="#caim">Caiu</term>, qe mout est grant et noble»). La lezione <term ref="#caim">Caim</term> parrebbe tuttavia ricavata da L, da P o da VB: <ref type="witlink" target="#l-null-116">L 116 1</ref> «A civitate predicta versus syroch dieta una est civitas dicta <term ref="#caim">Cain</term>»; <ref type="witlink" target="#p-ii-56">P II 56 4</ref> «Ad terminum vero diete alterius est civitas nobilis <term ref="#caim">Cayn</term> […]»; <ref type="witlink" target="#vb-null-104">VB CIV 1</ref> «‹D›a <term ref="#paughin">Pauchim </term>partendossi per una giornatta chaminando per sirocho, trovassi una citade la qual
+         se chiama <term ref="#caim">Cain</term>, la qualle è bella e gran citade». Non si danno, invece, varianti caratteristiche
+         che accomunano R a <ref type="witlink" target="#v-null-69">V 69 1</ref> «‹Q›uando el se parte da questa zitade de <term ref="#paughin">Pavin</term> vasse per una zornada, et trovasse una zitade chiamata <term ref="#caim">Chauin</term>, molto nobelle e granda […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

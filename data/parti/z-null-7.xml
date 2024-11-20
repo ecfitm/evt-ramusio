@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-7">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 7</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-7_1_1" n="1"> Tractato de captione <term ref="#baldach">Baldach</term>, nunc dicatur de quodam miraculo quod inter <term ref="#baldach">Baldac</term> et <term ref="#moxul">Moxul</term> advenit. </seg>
+      <seg xml:id="z-null-7_1_2" n="2"> Nam cum circa annum Domini .MCCXXV. in <term ref="#baldach">Baldac</term> quidam esset <term ref="#califa">calif</term> qui, multum habens odio christianos, cogitaret cotidie modum et formam quibus omnes
+         in eius terra morantes facere posset ad legem suam converti, alioquin mortis suplicio
+         terminare, finaliter invenit punctum unum Scripture in Evangelio sic dicentis: «Si
+         quis christianus tantum haberet fidei quantum esset granum synapis, precibus suis
+         sume Maiestati porectis, montes faceret de loco ruere vel moveri». </seg>
+      <seg xml:id="z-null-7_1_3" n="3"> Quo invento,
+         nullo modo credens hoc posse aliqualiter adimpleri, misitque <term ref="#califa">calif</term> pro omnibus Christianis, Nestorinis et Iacopitis, in eius terra morantibus, et ipsis
+         existentibus coram eo, dixit: «Estne verum quod textus Evangelii vestri declarat?».
+         </seg>
+      <seg xml:id="z-null-7_1_4" n="4"> Cui responderunt: «Verum».  </seg>
+      <seg xml:id="z-null-7_1_5" n="5"> «Eritne unicus qui versus Deum suum in tam modico
+         fidei ut est granum sinapis sit fidelis? </seg>
+      <seg xml:id="z-null-7_1_6" n="6"> Quare .X. dierum terminum vobis asigno,
+         infra quem aut montes ibi astantes facietis virtute vestri Dei ut dicitis removeri,
+         aut nostram asumpseritis legem quam Macometus propheta noster nobis reliquit — qua asumpta salvi eritis ipso facto —, ‹aut› vos
+         faciam sevo martirio trucidari». </seg>
+      <seg xml:id="z-null-7_1_7" n="7"> Et sic eos remisit. </seg>
+      <seg xml:id="z-null-7_1_8" n="8"> Cum vero christiani talia
+         audivissent, turbati sunt valde et mori timuerunt, tamen plene |6r| confidentes in
+         eorum Redemptore quod eos de hoc periculo liberabit. [9] Et dilligens inter se habuerunt
+         consilium, nulum previdentes remedium preter quam preces porigere sumo Deo, ut eis
+         misericordie sue manum porigeret. [10] Tunc omnes divinis orationibus non vacabant,
+         et sic perseverantibus ipsis, cuidam episcopo fuit in sopnis divinitus revelatum ut
+         ad que‹m›dam cerdonem monoculum, cuius nomen ignoranter tacetur, premuniendum accederet,
+         qui virtute divina monti preciperet ruituro. [11] Et statim pro cerdone miserunt;
+         quibus respondit quod ad hoc dignus non erat; tamen, instantibus christianis, cerdo
+         asensit, qui erat homo bone vite et honeste. [12] Et quid accidit sibi? dum semel
+         quedam mulier ad eum pro emendis subtelaribus accesisset, ipse cerdo, ut dare posset
+         eius pedi subtelares conformes, cruris et pedis sibi fecit formam ostendi; quibus
+         ostensis, dum ad partes illas esset pulcerima, ipsis visu affixo, scandalum passus
+         est. [13] Tunc vero cerdo, considerans verbum Evangelii: «Si oculus tuus scandaliçat
+         te, erue eum et abicias abs te», muliere remisa, statim cum quadam cuspide sibi oculum
+         dextrum effodit. [14] Et facto die termini, totus populus christianus, ofitiis prius
+         solepniter celebratis, cum magna devotione quousque ad montis planitiem acceserunt,
+         crucem preferentes altissimi Creattoris. [15] Et ibi cerdo, levatis manibus versus
+         cellum, Creatorem suum prece humilima requisivit. [16] Perfectaque oratione, dixit:
+         «In nomine Patris et Filii et Spiritus Sancti, tibi monti precipio quatenus per virtutem
+         Sancti Spiritus illico ab inde discedas». [17] Qui, subito per miliare unum versus
+         planiciem ruens de sumo, |6v| mirabiliter omnes Saracenos expavit. [18] Tuncque <term ref="#califa">calif</term> oculte inde ad fidem Christi conversus est, semper crucem celatam ferens sub panis.
+         [19] Ob reverentia‹m› vero predicti cerdonis et gratie tunc obtente, semper de cetero
+         aniversarii diem miraculi huius Christiani, Nestorini et Iacopiti, solempniter celebrant,
+         continue in vigilia ieiunantes. [20] Nota quod Christiani armeni, Nestorini et Iacopiti
+         diferunt in certis articulis; ymo ex hoc unus alium repudiat et aborret.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

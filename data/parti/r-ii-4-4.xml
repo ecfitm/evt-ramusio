@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-4-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-4">
+      <note>
+	<p>La fonte di R recava un testo prossimo a quello di <ref type="witlink" target="#f-null-81">F LXXXI 5-6</ref> «Et chascune de ceste dame tient cort por soi: il n’i a nule que ne aie .IIIc. damoiselles mout belles et avenant; elle ont maint vallez esculiés et maint autres
+         homes et femes, si que bien a chascune de ceste dame en sa cort .Xm. persones. Et toutes foies qu’il vult jeçir avec aucune de ces quatre femes, il la
+         fait venir en sa chambre, et tel foies il vait a la canbre sa feme». Sia in V che
+         in P il passo figura in forma abbreviata: <ref type="witlink" target="#p-ii-8">P II 8 2</ref> «[…] habet enim unaqueque earum ancillas trecentas electas multosque ministros eunuchos
+         aliosque familiares innumeros, adeo ut in cuiuslibet ipsarum familia sint viri et
+         mulieres circiter decem milia»; <ref type="witlink" target="#v-null-41">V 41 10-11</ref> «[…] et tiene trexento donzeli tra femene e homeni. Et in la so chorte sono zercha
+         diexemilia persone, et quando el se vol solazar chon alguna dele so moier elo se la
+         fano vegnir in la so chamera […]». La versione di <ref type="witlink" target="#l-null-67">L 67 2-3</ref> è meno sintetica di quella di P e V, ma appare comunque priva di alcuni dettagli
+         che si leggono in R e F: «[…] et h‹abet› quelibet .CCC. domicellas et quam plures
+         eunuchos, et multos alios homines et feminas, in tantum quod habet quelibet harum
+         dominarum in curia sua circa .Xm. personarum. Ad has autem uxores accedit dominus quando placet, vel ipse ad eum».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

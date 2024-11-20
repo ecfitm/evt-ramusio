@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-40-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>Alla <hi rend="italics">brevitas </hi>di <ref type="witlink" target="#p-iii-46-1-6">P III 46 4</ref> «[…] per eandem vero viam multi equi a mercatoribus ducuntur in <term ref="#india">Yndiam</term>» (corrispondente a VA CLII 7 «[…] per questa via se mena molti chavalli a vender in <term ref="#india">India</term>») Ramusio pare preferire una soluzione informativa affine a Z 127 11 «Portant et mercatores ab isto portu in Indyam multos bonos equos et sonipedes arabes, de quibus mercatores multum consecuntur lucrum
+         et profectum, quia mercatores multo vendunt ipsos». Si noti che in questo caso Z si
+         rivela traduttore impreciso di F CXCIII 5 «Et encore voç di que encore portent les mercant de cest part en <term ref="#india">Endie</term> maint biaus destrer arabien de grant vailance, dont les mercaant en font grant profit,
+         car je voil que voç sachiés que les mercaant vendent un bon chevalz in <term ref="#india">Endie</term> bien .C. marc d’arjent et plus» (la quantificazione del valore commerciale dei cavalli
+         è conservata solo in L 183 6 «Et ex hoc portu de <term ref="#adem">Aden</term> plurima mercimonia ‹ap›portantur in <term ref="#india">Indiam</term>, et maxime boni dextrarii ex <term ref="#arabia">Arabia</term>, ex quibus bonos plus quam .C. marcharum argenti vendunt»).</p>
+	<p>V 109 6 «[…] et i marchadanti che arivano a questo porto fano gran profito dele suo’ marchadantie»
+         e VB CLXV 5-6 omettono ogni informazione sul commercio equino.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

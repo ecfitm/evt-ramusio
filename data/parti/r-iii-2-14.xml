@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-2-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-2">
+      <note>
+	<p>Il resoconto delle conseguenze della tempesta è suddiviso da Ramusio in due pericopi.
+         La prima segue la soluzione di P III 4 2 «Consulentibus autem marinariis ut naves elongarentur a terra universus exercitus
+         intravit ad naves. Procella vero fortius ingruente, naves multe confracte sunt et
+         qui erant in navibus ad insulam aliam iuxta <term ref="#zipangu">Çimpangu</term> ad miliaria quatuor cum lignorum fragmentis ad natando pervenerunt» (traduzione di
+         VA CXXII 16-18 «[…] che li marinari si diseno che se le nave non sse delongaseno tute dala riva,
+         ch’elle se ronperaveno tute sì che quelli àveno conseglio e montàno tuti sule nave,
+         sì ch’el non rimaxe in tera nisuno de soa zente. E navegòno verso una ixolla ch’era
+         apresso a <term ref="#zipangu">Cinpagu</term> quatro meglia. Lo mar ingrossò sì fortemente che molte nave se ronpéno a quella ixola,
+         e li omeni schanpàno tuti in tera […]»).</p>
+	<p>Più articolato e dettagliato il resoconto di Z 92 21-27 «[…] et illi de exercitu dixerunt: «Si nos cum navigio hinc non discedimus, omnes
+         naves simul frange‹n›tur». Et tunc intraverunt naves, et ab illa insula discedentes
+         in mare per miliaria navigarunt quatuor. Et tunc incepit impetus venti augeri, et
+         multitudo navium erat tanta quod inter se magna quantitas ex ipsis fuit confracta.
+         Naves vero que cum aliis calcate non erant, sed separate erant per mare, naufragium
+         evaserunt. Sed ibi prope erat quedam alia insula, non nimis magna, ad quam multi ex
+         naufragantibus evaserunt, et in maxima quantitate. Alii vero, qui se reducere non
+         valuerunt ad insulam, totaliter perierunt. Et etiam in dicta insula multum de navigio
+         se confregit, illuc a vento compulso» (Z è più ricco in dettagli pure di F CLVIII 16-17 «[…] qe celz de l’ost distrent, qe se il ne se partent, qe toutes lor nes se ronperont.
+         Et adonc montent tuit en lor nes e se partire‹nt› de celle isle e se mistrent en la
+         mer. Et voç di, qe quant il furent alés entor .IIII. miles, adonc treuvent une autre
+         ysle ne trop grant, e celz qe postrent monter celle isle escanpent, mes celz qe ne
+         postrent monter ronperent a cel isle»).</p>
+	<p>Gli altri relatori si attestano sul confine della versione “breve” di F: L 143 9 «Consulti ergo quod nisi recederent ex toto perderent omnes naves, intraverunt ergo
+         mare. Et cum separati forent quatuor forte miliaribus pars in insulam quandam parvam
+         et inhabitatam rupit, et qui evaserunt in insula remanserunt […]»; V 91 9-10 «[…] che gran parte de quelli delo exerzito montorono in nave e partironse de lì;
+         e ziò vedando i altri, tuti se messero nele lor nave e partìsse de quela ixola et
+         intrò nel mare; et quando i aveno navegado quatro mia elli vene a un’altra ixola non
+         men granda di quela, onde gran parte de queli smontòe, perché i non poteno andar avanti.
+         El resto dele nave andorono avanti, onde questi per forza li chonvene ruper le nave,
+         sì che gran parte schanpono suxo l’ixolla […]; VB CXXVII 11-12 «[…] i nochieri, che intendeva el pericollo dill’armata, confortòno i capitanii se
+         levasseno. E llevatossi, et ogni ora moltiplicando la fortuna, parte dile qualle,
+         discorendo per el mare, chapitòno a una ixola picolla e ferito in quella tute le nave
+         speroro con salude dila giente su quelle erano: e furono salvi cercha .XXXm. homeni […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

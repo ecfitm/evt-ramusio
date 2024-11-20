@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-77</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-77">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 77</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-77_2_1" n="1"> Elapsis tribus mensibus quibus stat in <term ref="#cambalu">Cambaluch</term>, ut supra dictum est (qui sunt december, ianuarius et februarius), de mense marcii
+         vadit versus meridiem duabus dietis usque ad <term ref="#mare-oceano">Occeanum mare</term> – tantum enim distat ab eo –, ducitque secum .Xm. falcon‹erior›um, et bene .Vc. çirifalchos; multosque falcones – tam peregrinos quam sacros – habet in maxima habundantia,
+         et austurum quantitatem magnam: hos vero omnes non simul retinet, in multis enim partibus
+         circumquaque dividit. </seg>
+      <seg xml:id="l-null-77_2_2" n="2"> Dumque itur hiis duabus dietis, portatur <term ref="#gran-can">Magnus Canis</term> super quatuor elefantes. Est enim super eos pulcra valde fabricata camera ex lignamine,
+         interius tota aureis pannis circumdata, exterius vero circumvoluta et cohoperta pellibus
+         leoni‹ni›s, in qua ipse dominus cum aliquibus baronibus manet. Sicque ducitur usque
+         ad illum locum nominatum <term ref="#caczarmodin">Cacciar Modum</term>, ubi temptoria imperialia reliquorumque baronum sunt tensa, que sunt ultra .Xm.; intusque imperiale solempnius est, quod taliter ordinatur. </seg>
+      <seg xml:id="l-null-77_2_3" n="3"> Est enim, primo,
+         temptorium maximum capax bene .M. militum, habens portam a parte meridiei, ubi in
+         modum logie manent nobiles homines et barones. Prope vero, a parte occidentis, est
+         aliud temptorium, in quo manet <term ref="#gran-can">Magnus Canis</term>, quod eciam est per modum logie proprie domini; et est hoc coniunctum primo, estque
+         ab uno in aliud transitus. Post autem magnum temptorium est imperialis camera, ubi
+         dormit <term ref="#gran-can">Magnus Canis</term>, que et ipsa dictis duobus temptoriis est coniuncta. </seg>
+      <seg xml:id="l-null-77_2_4" n="4"> Sunt autem hec omnia in
+         hunc modum ordinata. Quelibet ex dictis locis habet duas columpnas ligneas, et sunt
+         exterius ‹per totum› cohoperte pellibus leoni‹ni›s (taliter quod neque ventus neque
+         pluvia habitantes ledere potest), interius vero circumdate per totum pellibus armelinis
+         et çambellinis, que sunt pelles inter alias cariores (tantum enim pelles zambelline
+         optime quantum uni vestimento hominis sufficere posset est valoris .IIm. biçantium auri; verum communales forte .M.); similiter camera est interius hiis
+         pellibus ornata, exterius pellibus leoninis cooperta. Funes vero hec tentoria retinentes
+         omnes ex serico sunt. Et sunt circa temptorium domini reliqua temptoria ordinata.
+         </seg>
+      <seg xml:id="l-null-77_2_5" n="5"> Est in hoc loco, dum manet dominus, tanta gentium multitudo ac si esset in aliqua
+         maxima civitatum. </seg>
+      <seg xml:id="l-null-77_2_6" n="6"> Statque <term ref="#gran-can">Magnus Canis</term> in hoc loco usque ad †strime volie†, quod tempus est circa Pascha nostrum resurrectionis,
+         in quo tempore nichil quasi aliud quod venari facit tam avibus quam bestiis; deinde
+         vero ad <term ref="#cambalu">Cambaluch</term> ‹directe› revertitur unde venit. </seg>
+      <seg xml:id="l-null-77_2_7" n="7"> Est enim civitas maxima, ad quam convenit ‹maxima›
+         hominum multitudo, et maxime mercatorum; qua de causa est maximus numerus meretricum:
+         sunt enim bene circa .XXm. </seg>
+      <seg xml:id="l-null-77_2_8" n="8"> Et similiter hic adducuntur undique mercimonia in maxima quantitate, ‹et maxime
+         nobilia›, et hoc propter essentiam domini multitudinisque gentis: apportantur enim
+         ex <term ref="#india">India</term> lapides preciosi, margarite et universe species et reliqua cara – et breviter ad
+         hanc civitatem confluit mercimoniorum maxima multitudo. Et inter alia qualibet fere
+         die intrant civitatem .M. carruce onerate serico; laborantur enim ibi multi panni
+         ex auro et seta. </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

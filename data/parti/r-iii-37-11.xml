@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-37-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>L’articolazione e la ricchezza informativa rendono verosimile che a questo punto del
+         capitolo Ramusio torni a sfruttare la lezione di <ref type="witlink" target="#z-null-125-1-33">Z 125 24-26</ref>: «Ibi fiunt magna mercimonia. Nam illuc multi mercatores veniunt cum mjultis navibus
+         in quibus ferunt multa mercimonia que vendunt in hac insula; et magnam quantitatem
+         dentium elephantum portant de insula: nam multi sunt ibi. Habent etiam <term ref="#ambracano">ambrum</term> multum: nam ibi capiuntur cete». (La redazione latina traduce fedelmente F CXCI 10 «Mercandies hi se fait molt grant, car maint mercant hi vienent con maintes nes que
+         hi aportent plosors mercandies que toutes les nes vendent en cestes isles. Et encore
+         en portent aseç des mercandies de l’isle, e propemant en portent grant quantité des
+         dens de leofans, que aseç hi ni a. Et encore voç di qu’il ont <term ref="#ambracano">anbre</term> aseç, por ce que des balennes hi se prennent aseç »). P III 41 7 si limita all’essenziale (e anticipa la posizione della pericope: vedi la nota a
+         <ref type="witlink" target="#r-iii-37">R III 37 8</ref>): «Mercaciones ibi maxime fiunt et specialiter de <term ref="#ambracano">ambra</term> et de dentibus elephantum: ibi enim elephantes multi sunt et cethe grandia in mari
+         illius insule capiuntur» (versione di VA CL 17-18 «E se ge fano gran merchadantie, e spezialmente d’i denti d’ellifanti. El ge n’è
+         <term ref="#ambracano">anbro</term> in gran quantità perché se ge prende molte bellene») </p>
+	<p>Tenendo F a pietra di paragone: fedele resa offre L 178 12 «Ad hanc insulam veniunt plurimi mercatores, quia habent mercimonia multa, et maxime
+         elefantium dentes et <term ref="#ambracano">ambram</term>, quia multas capiunt ex balenis»; abbreviati risultano V 107 10 «Et là se fano gran marchadantia, et vieno molti marchadanti chon molte nave in le
+         qual portano molte marchadantie le quale vendeno; e portano molti denti de lionfanti
+         del’ixola perché sono molti», e VB CLXI 17-18 «Àno denti de leofanti assai, di qual i ne fano gran marchadantia. Àno <term ref="#ambracano">anbra</term> assai però che in quelle parte àno molte ballene in quelli mari».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-49-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-49">
+      <note>
+	<p>R si attiene a <ref type="witlink" target="#z-null-65">Z 65 7-8</ref>, che contiene qui delle informazioni aggiuntive che lo isolano dal resto della tradizione:
+         «Ista civitas multas habet sub suo dominio alias civitates et castra. Per medium civitatis
+         quoddam magnum flumen pertransit, per quod ad civitatem Cambaluc multa mercimonia transferuntur»; vs. <ref type="witlink" target="#l-null-105">L 105 5</ref> «[…] habens sub se quam plures civitates et castra»; <ref type="witlink" target="#v-null-62">V 62 15</ref> «Et oltra questa zitade sono molte altre zitade e chastelli, et sono soto la signoria
+         del <term ref="#gran-can">Gran Chan</term>» (<ref type="witlink" target="#f-null-130">F CXXX 2</ref> «[…] Ceste cité a cité et chastiaus aseç sout sa seingnorie»). <ref type="witlink" target="#p-ii-50">P II 50 1</ref> e VB omettono del tutto questa parte.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

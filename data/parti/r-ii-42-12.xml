@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-42-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-42">
+      <note>
+	<p>L’unica fonte che tramanda tutti i dettagli essenziali qui contenuti è <ref type="witlink" target="#v-null-58">V 58 11</ref> «Or quando questi furono apresadi, che non manchava se no a chomenzar la bataia,
+         allora i chavalli de <term ref="#tartari">Tartari</term> quando i vete i lionfanti temeno molto forte, che li <term ref="#tartari">Tartari</term> non podea quelli far andar oltra; onde i se messeno in fuga, el re chon la so zente,
+         e i lionfanti senpre li seguitava». Va rilevato, tuttavia, che le affinità formali
+         tra R e V sono molto esili (R «non mancando», V «non manchava»). Molto più forti sono
+         invece le affinità con <ref type="witlink" target="#f-null-121">F CXXI 13-14</ref> «E quant il furent pres a elz et qe il ne avoit for que dou comencer la bataile,
+         adonc les chevaus des <term ref="#tartari">Tartars</term>, quant il ont veu les leofans, il espaontent en tel mainere qe [R «si spaurirono
+         di maniera che»] les <term ref="#tartari">Tartarç</term> ne les poient mener avant ver les ennimis, mes se tornoient toutes foies arieres
+         [R «voltarsi adietro»]. Et le roi et sa jens con les leofans aloient toutes foies
+         avant [R «et il re con tutto l’essercito si avvicinava ogn’hora piú innanti»]». Ciò
+         suggerisce che la fonte del passo non sia V, ma un testimone della redazione Z che
+         risultava più vicino a F di V, ossia il perduto Z1.</p>
+	<p>L’apporto di <ref type="witlink" target="#p-ii-42">P II 42 5</ref> si scorge soltanto nel sintagma «con quelli castelli»: «Cum igitur equi <term ref="#tartari">Tartarorum</term> viderunt elephantes cum castris qui erant in prima acie constituti, tanto fuerunt
+         pavore perterriti quod sessores eorum nulla vi vel ingenio poterant eos illis proximos
+         facere […]». Non si danno invece indizi di contatti di R con il notevolmente compendiato
+         <ref type="witlink" target="#vb-null-86">VB LXXXVI 8</ref> «[…] ma i chavalli d’i <term ref="#tartari">Tartari</term> inpauriti dei liofanti non ardivano andar avanti».</p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

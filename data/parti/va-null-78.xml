@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-78</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-78">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, LXXVIII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-78_2_1" n="1"> El Gran Signior fa far moneda a questo muodo: el fa tuor la schorza sotil del more‹r›, quella ch’è
+         dentro la scorza grosa e llo legnio, et de quella fa far charte a muodo de quelle
+         de papiro; et deventano tute negre, e poi le fa taiar al muodo de’ denari: alchuno
+         è pizolo a muodo d’uno tornexe pizolo, e alchuno val tanto quanto un venizian grosso,
+         e alchuno val do grossi veniziani, e alchuno li val zinque veniziani, e altri diexe;
+         e altri val uno bexante d’oro e altri do e altri tre; e chusì montano fina a diexe
+         bexanti d’oro; e zaschuno de questi denari è stanpito chon el signiale e chon la stanpa
+         del re. </seg>
+      <seg xml:id="va-null-78_2_2" n="2"> E fì fata questa moneda in la zità de <term ref="#cambalu">Chanbelu</term>, perché ‘li sono deputadi a ziò per lo re e non per altri, e chi fesse |39v| el chontrario
+         perderìa la vita. </seg>
+      <seg xml:id="va-null-78_2_3" n="3"> E sì ne fa in sì grandisima quantità ch’el se porave chonprar
+         tuto el texoro del mondo. </seg>
+      <seg xml:id="va-null-78_2_4" n="4"> E sì ve digo che piuxor fiate al’ano ge vien piuxor
+         merchadanti insieme che aduxeno tante perlle e piere prezioxe e oro e arzento che
+         val ben quatrozentomilia bexanti d’oro; e presentano queste chosse al signior, e fino
+         stimadi per dodexe savii homeni deputadi a zò per lo <term ref="#gran-can">Gran Chaan</term>, e fino pagadi de quella moneda. </seg>
+      <seg xml:id="va-null-78_2_5" n="5"> E i chonprano altre merchadantie e porta-lle
+         in soe chontrà o altrove dove i voleno per guadagniar. </seg>
+      <seg xml:id="va-null-78_2_6" n="6"> E questa moneda fa l[a]
+         lui spender per tute provinzie e regniami e tere che sono soto la soa segnioria. </seg>
+      <seg xml:id="va-null-78_2_7" n="7">
+         È puoche tere che non i obedisano a lui che non spendano questa moneta: in neguno
+         tereno forestiero non ossa refudar questa moneda, e chi la refudasse serave a pericolo
+         della persona.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-78_3_1" n="1"> Ancora ve digo che piuxor fiade al’ano el fa comandare in <term ref="#cambalu">Chanbelu</term> che tuti quelli ch’àno arzento e oro e piere prezioxe le diebano portare ai trexorieri
+         soi, et è molto ben obedito: e fì pagadi de quella moneta, e zaschuno la tuol volentiera.
+         [9] E per questo muodo se fa portar el <term ref="#gran-can">Gran Chaan</term> la maor parte del texoro ch’è in soa signioria. [10] E in questo podé veder ch’el
+         pò aver el mior texoro che omo che sia al mondo, e non li costa niente, unde el pò
+         ben far le spexe meravegioxe, e zaschaduno chonvien conprar quelle monede da llui.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-22-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-22">
+      <note>
+	<p><ref type="witlink" target="#f-null-99">F XCIX</ref> (Comant le <term ref="#gran-can">Grant Kaan</term> fait planter arbres por les voies); <ref type="witlink" target="#l-null-81">L 81</ref> (De arboribus iuxta viam plantatis); <ref type="witlink" target="#p-ii-24">P II 24 5</ref> (De providentia regis ad obviandum sterilitati et caristie temporibus, et de pietate
+         eius ad egentes. Capitulum XXIIII.), <ref type="witlink" target="#va-null-81">VA LXXXI 9</ref> (Chome el <term ref="#gran-can">Gran Chan</term> provede alla soa zente quando i àno perso la ricolta); <ref type="witlink" target="#v-null-48">V 48 3-5 </ref>(Chomo el <term ref="#gran-can">Gran Signor</term> fano dar ala so zente molte bestie e chomo el fa piantar albori per le vie); <ref type="witlink" target="#vb-null-70">VB LXX 5</ref>.</p>
+	<p>Le cospicue varianti che isolano R dal resto della tradizione (parr. 2-4), e le affinità
+         che lo accomunano a testimoni situati in posizioni particolarmente “alte” dello <hi rend="italics">stemma </hi> (V, F), costituiscono ragioni per credere che la fonte principale del testo ramusiano
+         sia stata in questo capitolo il perduto Z1. L’assenza della testimonianza di Z, tuttavia, non permette di verificare la fondatezza
+         di tale ipotesi. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

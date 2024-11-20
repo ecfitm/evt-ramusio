@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-5-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-5">
+      <note>
+	<p>Anche questo passo deve essere stato ricavato da una fonte che presentava un testo
+         vicino a quello di <ref type="witlink" target="#f-null-82">F LXXXII 7</ref> «Et encore voç di qe des filz qu’il a des seç quatre femes en sunt .VII. rois des
+         grandismes provences et roiames, et tuit mantinent bien lor reingne, car il sunt sajes
+         et prodonmes, et ce est bien raison, car je voç di qe lor pere le <term ref="#gran-can">Grant Kan</term> est le plus sajes homes et les plus proven de toutes chouses et le meior regeor des
+         jens et d’enpere et home de greingnor vailance qe unques fust en toutes les generasionz
+         des <term ref="#tartari">Tartarç</term>». Appare fortemente abbreviata  la versione che si legge in <ref type="witlink" target="#l-null-67">L 67 5</ref> «[…] ex quibus .VII. sunt reges provinciarum .VII. […]», e in<ref type="witlink" target="#v-null-41"> V 41 16</ref> «[…] et sete deli so fioli erano signori de gran reame e de provinzie, e tuti mantegniano
+         ben el so reame». P omette il passo. </p>
+	<p>VB e Z omettono l’intero capitolo. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

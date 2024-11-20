@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-35-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-35">
+      <note>
+	<p>Secondo il dettato di <ref type="witlink" target="#f-null-56">F LVI 13</ref> gli spiriti del deserto tessono le proprie trame ingannevoli anche in pieno giorno:
+         «Et encore voç di que, jor meisme, hoient les homes ceste voices de espiriti, […]».
+         </p>
+	<p><ref type="witlink" target="#vb-null-39">VB XXXIX 8</ref>, a costo di ripetersi, approfitta dello spunto – che non doveva mancare al suo modello
+         francese – per elaborare un’indebita espansione («Alchuna volta s’è trovatto de giorno
+         qualche uno drieto i conpagni rimasto, buteràsse i spiriti in forma di conpagni e,
+         credendo essere quelli con i conpagni, i deviano del chamino e possa i llasa solli
+         nel deserto e perischono») prontamente raccolta da Ramusio, che la rifonde con qualche
+         adattamento.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

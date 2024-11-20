@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-46-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-46">
+      <note>
+	<p>Se si escludono una piccola inversione («risi et latte») e l’omissione del riferimento
+         finale alla bontà della bevanda, R si mostra molto vicino a <ref type="witlink" target="#z-null-61">Z 61 9-10</ref> «Et vivunt de carnibus, lacte et risis. Vinum non habent de vitibus, sed ipsum faciunt
+         de risis et multis speciebus simul admixtis, quod est valde bonum». A parte l’aggettivo
+         «multis» e la locuzione «simul admixtis» (R «molte […] mescolate»), il resto delle
+         informazioni contenute in Z si ritrova anche nelle altre fonti ramusiane (e in F),
+         che però non sembrano aver lasciato tracce sul testo di R: <ref type="witlink" target="#p-ii-46">P II 46 6</ref> «Homines provincie carnibus, lacte et riso vescuntur; vineis carent, sed de riso
+         et aromatibus delicatas faciunt pociones»; <ref type="witlink" target="#l-null-101">L 101 4</ref> «Victualia habent ex carnibus, lacte et riçis; vino autem ex vite carent, sed ex
+         riçis faciunt optimas potiones»;<ref type="witlink" target="#v-null-60"> V 60 14</ref> «E la zente de questa vive de charne, late e rixi, et non àno vigne, ma fano bevande
+         de rixi e d’altre spezie, ch’è molto bone»;  <ref type="witlink" target="#vb-null-89">VB LXXXIX 5</ref> «Viveno de late, rixi e charne; beveno vin de rixi fato con specie ch’è bello e deletevolle
+         a bere» (vd. <ref type="witlink" target="#f-null-126">F CXXVI 5-6</ref> «Il vivent de char et de la‹i›t et de ris. Il ne ont vin de vigne mes le font de
+         ris et de espices molt bien»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

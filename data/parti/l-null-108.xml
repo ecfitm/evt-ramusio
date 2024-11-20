@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-108</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-108">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 108</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-108_2_1" n="1"> Ultra predictam civitatem .VI. dietis versus meridiem – ubi adsunt multe nobiles
+         civitates et ‹castra› magni valoris, quorum gentes sunt <term ref="#idolatri">ydolatre</term>, comburentes corpora mortuorum (et habent monetam ex cartis, et sunt mercatores et
+         artiste, et habent ex victualibus habundanter) – tunc invenitur civitas maxima, et
+         nobilior omnium circumstancium, dicta <term ref="#tudinfu">Tondinfu</term>: in qua sunt maximi mercatores. </seg>
+      <seg xml:id="l-null-108_2_2" n="2"> Et sub hac civitate sunt .XI. civitates magne
+         et multorum mercimoniorum: habent enim sericum in maxima quantitate.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

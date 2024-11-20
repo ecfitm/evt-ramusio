@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-38-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-38">
+      <note>
+	<p>Ramusio traduce alla lettera <ref type="witlink" target="#z-null-55">Z 55 32</ref> «Vinum de vineis non habent, sed vinum faciunt de frumento et riso, cum multis speciebus
+         simul admixtis; et est optima potatio» (che a sua volta rispecchia molto da vicino
+         <ref type="witlink" target="#f-null-116">F CXVI 12</ref> «Vin de vigne ne ont, mes font vin de forment et de ris co’ maintes espices, et est
+         mout buen poiçon»). Gli altri relatori trasmettono un testo condensato (L, P) o rimaneggiato
+         (VB): <ref type="witlink" target="#l-null-95">L 95 7</ref> «Vino et vineis carent; ex frumento et riço cum speciebus faciunt potus bonos»; <ref type="witlink" target="#p-ii-38">P II 38 7</ref> «Ibi vinum non crescit nec vinee ibi sunt, sed de tritico, riso et diversis speciebus
+         vinum optimum faciunt»;<ref type="witlink" target="#vb-null-82"> VB LXXXII 12</ref> «Non àno vino de uva ma fano vino de formento et de rexi con specie, molto chiaro
+         odorifero e bono et deletevelle da bere». V omette il passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

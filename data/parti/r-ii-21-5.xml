@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-21-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-21">
+      <note>
+	<p>Il periodo non trova una precisa rispondenza in nessuna delle fonti ramusiane: <ref type="witlink" target="#v-null-48">V 48 2</ref> «[…] sì che per questo muodo chomo ve ò dito el <term ref="#gran-can">Gran Signor</term> sostien li suo’ omeni» (<ref type="witlink" target="#f-null-98">F XCVIII 5</ref> «En tel mainere com voç avés oï aide et sostent le <term ref="#gran-can">Grant Sire</term> seç homes»); <ref type="witlink" target="#vb-null-70">VB LXX 4</ref> «Et questo piatoso chostumo fi aceto a tuti che io credo segnor nel mondo sia più
+         amatto più obedito, né maçor né più potente né più richo de lui». P omette il periodo.
+         </p>
+	<p>L e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

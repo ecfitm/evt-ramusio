@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-19</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-19">
+    <head>
+      <hi rend="bold">P, II 19</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-19_2_1" n="1"> Mense marcii discedens <term ref="#gran-can">Magnus Kaam</term> de civitate <term ref="#cambalu">Cambalu</term> procedit ad campestria usque ad mare Occeanum cum falconeriis suis. </seg>
+      <seg xml:id="p-ii-19_2_2" n="2"> Talis autem
+         solemnitas in huiusmodi venacione servatur: egrediuntur cum illo falconerii numero
+         decem milia qui falcones peregrinos et sagros habent innumeros; austures vero multos
+         ac girfalcos habent circiter quingentos; hii omnes per regionem huc et illuc diffundunt
+         se, et cum |43d| aves viderint, quarum ibi est maxima multitudo, laxant girfalcos,
+         austures et falcones in capturam. Aves autem que capiunt pro maiori parte deferuntur
+         ad regem. </seg>
+      <seg xml:id="p-ii-19_2_3" n="3"> <term ref="#gran-can">Rex</term> autem personaliter procedit cum illis, sedens in pulcherrima camera ex lignis optime
+         fabricata, que super quatuor elephantes est artificiose composita: foris quidem pellibus
+         leonum cooperta, intus vero totaliter deaurata. Ibi tenet pro suo solatio barones
+         aliquos secum et girfalcos .XII. electos; est autem camera pa‹n›nis sericeis et aureis
+         cooperta. </seg>
+      <seg xml:id="p-ii-19_2_4" n="4"> Iuxta elephantes qui cameram portant, multi barones et milites equitant
+         qui non discedunt a rege, qui, cum vident fagianos vel grues aut aves aliunde transire,
+         falconeriis qui cum rege sunt indicant, qui statim regi notificant. Ipse autem discooperiri
+         faciens |44a| cameram girfalcos quos vult dimitti iubet ad aves, et ipse in lecto
+         residens ludum avium intuetur. </seg>
+      <seg xml:id="p-ii-19_2_5" n="5"> Insuper habet secum decem milia hominum qui in
+         huiusmodi venacione bini et bini, huc et illuc, per illa campestria diffunduntur,
+         quorum est officium falcones et austures ac girfalcos quo volent considerare et eis,
+         si fuerit opus, succurere; vocantur autem lingua tartarica “<term ref="#toscaol">roscaor</term>”, id est “custodes”, habet vero quilibet eorum pro avibus reclamatorium et capellum
+         ut aves vocare et tenere valeant, nec expedit ut ille qui avem dimisit sequatur illam,
+         quoniam hii intenti sunt et sollicite ne ledantur aves aut predantur. Qui enim avi
+         proximiores sunt ei, cum necesse fuerit subvenire tenentur; quelibet autem avis huiusmodi
+         cuiuscumque fuerit tabulam parvulam argenteam habet ad pedem cum |44b| signo domini
+         sui aut falconerii, ut si dimissa fuerit, domino suo restitui valeat; cum autem signum
+         non fuerit cognitum, defertur ad baronem quemdam ad hoc officium constitutum, qui
+         dicitur “<term ref="#bulangazi">bularguci</term>”, id est “custodum rerum perditarum”: omnes enim aves sibi oblatas servat fideliter
+         donec a suo domino fuerit repetita, quod similiter de equis fit. </seg>
+      <seg xml:id="p-ii-19_2_6" n="6"> Quicumque igitur
+         equum, avem aut rem aliam in hac venacione perdiderit, recurrit ad illum et sic nichil
+         ibi potest amitti; quamdiu autem ille rem tenuerit curam de ea optime haberi facit.
+         Si quis vero inventam rem non statim restituerit domino suo aut officiali predicto
+         habetur ut fur. </seg>
+      <seg xml:id="p-ii-19_2_7" n="7"> Ille autem locum eminentiorem sibi ad manendum elegit suumque
+         vexillum in eminenti ponit ut inveniri possit faciliter ab hiis qui rem perditam |44c|
+         aut assignare aut repetere volunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

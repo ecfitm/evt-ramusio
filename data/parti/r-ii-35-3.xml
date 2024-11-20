@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-35-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-35">
+      <note>
+	<p><ref type="witlink" target="#z-null-51">Z 51 6</ref> in questo punto è abbreviato: «[Vivunt de laboribus terre,] utilitatibus nemorum
+         et venationibus», ma l’affinità di R con F suggerisce che Ramusio anche in questa
+         pericope abbia seguito la testimonianza di Z1:<ref type="witlink" target="#f-null-111"> F CXI 5</ref> «[vivent de labor de tere] et de boscajes et de venesion, car sachiés qu’il hi a
+         maintes bosces, la ou il a plusors bestes sauvajes, ce sunt lyonz et ors et leus cerver
+         et dain et cavriolz et cers et autres bestes aseç, si que mout en prennent les jens
+         de le contree et mout en ont grant profit». Appaiono in questo punto più concisi rispetto
+         a F e a R <ref type="witlink" target="#l-null-91">L 91 1-2</ref> «[viventes ex fructibus terre] et nemoribus et venationibus; sunt enim hinc nemora
+         multa, in quibus manent bestie multe sicut leones, ursi, linces, dayni, caprioli,
+         cervi et multe alie bestie», <ref type="witlink" target="#p-ii-33">P II 33 5</ref> «Sunt etiam venatores magni, pro eo quod in regione illa multa silvestria animalia
+         sunt, scilicet leones, ursi, damule, cervi, caprioli et alie diverse species bestiarum»,
+         <ref type="witlink" target="#v-null-54">V 54 2-3</ref> «[…] [et vive de lavorieri] et d’intrade de chaxe. Et in quello luogo sono molti
+         boschi in li qualli abita molte bestie salvadege de diversse maniere in gran quantitade»,
+         e <ref type="witlink" target="#vb-null-78">VB LXXVIII 3</ref> «[viveno per la maçor parte del’opera dila tera] e del chaçare per la gran moltitude
+         de animalli salvaçi sono in queste montagne».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

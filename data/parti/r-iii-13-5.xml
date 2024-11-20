@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-13-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-13">
+      <note>
+	<p>La forma dell’espressione fa di <ref type="witlink" target="#z-null-100">Z 100 10-14</ref> il modello della pericope ramusiana: «Ibi sunt meliores pisces qui reperiantur. Et
+         non habent frumentum, sed vivunt de risis. Non habent vinum, nisi quale vobis narabimus.
+         Nam habent quamdam maneriem arborum, de quibus incidunt ramos; et truncho vas unum
+         supponunt; quod vas, in una die et nocte, impletur; et est optimum ad potandum. <hi rend="italics">Quod vinum est tante virtutis quod liberat ytropicos, et habentes tysicum et splengiam</hi>» (segniamo in corsivo la sezione assente nell’antigrafo F CLXVI 6-8 «Il hi a peisons les meior dou monde. Il ne ont forment, mes vivent de ris. Il ne
+         ont vin for tel com je vos devisarai. Sachiés tuit voiremant qu’il ont une mainere
+         d’arbres, des quel trencent les rames, de cel arbres, e met l’en un pot bien grant
+         au tronchon qui est remés a l’arbre. E voç di qe en un jor e en une noite s’enple:
+         et est molt buen vin da boir. <hi rend="italics">Les arbres sunt senblables a petit datal</hi> et funt .IIII. raimes: trince l’en et ont tant vins, com je voç ai dit, qui est mout
+         buen»; a sua volta la sezione in corsivo nel passo di F manca nello Z toledano, e
+         forse era nel relatore latino a disposizione di Ramusio, che attesta «[…] una sorte
+         d’arbori che s’assomigliano alle palme et dattaleri […]»; ma le palme sono in P III 16 4-6 «Pisces optimi ibi habentur in copia maxima. Triticum ibi non crescit sed de riso
+         panes conficiunt. Vineas non habent, sed vinum hoc modo faciunt: sunt ibi arbores
+         multe parve que <hi rend="italics">assimilantur palmis</hi>, quarum singule ramos quatuor habent ut plurimum; certo anni tempore ramos incidunt
+         et ad singulos ramos ligant urceos singulos in quibus fluentem arboris humorem colligunt
+         sicut colligitur aqua vitis. In tanta enim copia ille liquor habundat quod inter diem
+         et noctem repletur urceus qui ad ramum est alligatus; postea rursum evacuatus urceos
+         reponunt ad ramos et sic diebus pluribus hec vindemia durat […]» – cfr. VA CXXX 4-6 «El g’è pesie asai, el mior del mondo. El non g’è formento ma viveno de rixo, e i
+         non àno vino se non chusì fato: el ge n’è una sorta d’arbori someiante ale palme pizolle
+         d’i dataleri, e àno chomunalmente quatro rame; i le taiano a zerto tenpo dell’ano
+         quel ramo, e a zaschun de queli rami ligano un órzo al modo che se tuono l’aqua dela
+         vite, e quelle rame gozano molto spesso e inpieno i órzi entro uno dì e una note.
+         E questo dura piuxor dì»).</p>
+	<p>V CXXXVI 6-9 segue F: «Trovasse quie el mior pesse mangiasse mai. Non àno formento, viveno de
+         rixi. Non àno vino de uva ma àno albori di tal natura che, taiendoli 1° ramo e metendoli
+         soto uno vasello, buta algun liquor in tanta quantitade che in uno dì e in una note
+         inpiria una bota: el qualle licore è de bonissimo sapore et è prefeto a bere come
+         qui ‹d›a nui è el vin teran. I albori sono grandi chome datalari et àno .IIII°. rami
+         i quali taiandoli escono el vino over licore chome ò dito», contro V 87 19-20 (portatore al contempo dell’informazione suppletiva di Z e del frammento omesso dal
+         toledano): «In questo reame sono mior pesse che se trova; et non àno formento, e vivono
+         de sorgo; et non àno vin, se no sì fato chomo aldireti: i àno una maniera de albori
+         i qualli i taiano i rami, et sì meteno in miel el tronchon del’alboro ch’è romaxo,
+         el qual nasse in pieno in un dì e una note; ed è perfetissimo da bevere, el qual sono
+         de tanta vertude che libera intropichi, tisegoxi e chi àno mal de spienza. Et questi
+         albori sono simili ali pizoli dataleri, e produxeno quatro rami dei qualli i ge taia
+         uno […]»; L 153 4-6 dispone le informazioni di Z in ordine diverso: «Et habent optimos pisces; carent
+         frumento, sed utuntur riço. Vinum non habent ex vite; habent tamen arbores quasdam,
+         similes parvis dactilis, habentes plures ramos: ex quibus aliquos incidunt, et emanat
+         liquor quidam in quantitate multa; et similis est vino et boni saporis valde. Quod,
+         si truncatus ramus a talis liquoris emanatione cessaverit, aquam ad pedem arboris
+         fundunt, et parvo post tempore iterum liquor fluit. Et de tali vino album habent et
+         rubeum. Est insuper tale vinum ydropicis et spleneticis valde bonum».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

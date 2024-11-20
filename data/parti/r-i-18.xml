@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-18" n="1">
+    <head>
+      <hi rend="bold">R, I 18</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-18_1_1" n="1"> Come partendosi da <term ref="#chermain">Chermain</term> si va per un deserto de sette giornate alla città di <term ref="#cobinam">Cobinam</term>, et dell’acque amare che si trovano, et alla fine di uno fiume di acqua dolce. Cap.
+         18.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-18_2_1" n="1"> Partendosi di <term ref="#chermain">Chermain</term> et cavalcando per tre giornate si arriva a un deserto pel qual si va fino a <term ref="#cobinam">Cobinam</term>, et dura sette giornate, et nelli primi tre giorni non si trova salvo che un poco
+         di acqua: et quella ‹è› salsa et verde come l’herba d’un prato, et è tanto amara che
+         niuno ne può bere, et se alcuno ne bee pur una gocciola va da basso piú di dieci volte,
+         et similmente gli avviene se mangiasse un sol grano di sale che si fa di quell’acqua.
+         </seg>
+      <seg xml:id="r-i-18_2_2" n="2"> Et però gl’huomini che passano per quei deserti si portano dietro dell’acqua, ma
+         le bestie ne beono per forza constrette dalla sete, et subito patiscono flusso di
+         corpo. </seg>
+      <seg xml:id="r-i-18_2_3" n="3"> In tutte queste tre giornate non si trova pur un’habitatione, ma tutto è deserto
+         et secco; non vi sono bestie, perché non hanno che mangiare. </seg>
+      <seg xml:id="r-i-18_2_4" n="4"> Et  nella quarta si arriva ad un fiume di acqua dolce, il quale scorre sotto terra, et
+         in alcuni luoghi vi sono certe caverne derotte et fosse pel scorrere del fiume, per
+         le qual si vede passare, qual poi subito entra sotto terra; nondimeno si ha abondanza
+         di acqua, presso la quale i viandanti, stracchi per l’asprezza del deserto precedente,
+         recreandosi con le loro bestie si riposano. </seg>
+      <seg xml:id="r-i-18_2_5" n="5"> Nell’ultime tre giornate trovasi come nelle tre precedenti, et nella fine si trova
+         la città di <term ref="#cobinam">Cobinam</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

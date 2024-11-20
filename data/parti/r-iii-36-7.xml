@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-36-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>Nessun teste poliano riporta l’informazione contenuta nella seconda parte della pericope;
+         la prima parte, a sua volta, ha una struttura e un contenuto che non permettono di
+         avanzare ipotesi produttive sul modello utilizzato da Ramusio.</p>
+	<p>La lezione di P III 39 6 «Ibi est <term ref="#ambracano">ambri</term> copia magna quia in mari illo capadogle et cethe grandia capiuntur sepe, ex quibus
+         <term ref="#ambracano">ambra</term> colligitur» ripete VA CXLIX 10 «El ge n’è molto <term ref="#ambracano">anbro</term> perché in quel mar è molte balene e molte chapedoge; le bellene e lle capedoge fano
+         l’<term ref="#ambracano">anbro</term>». F CXC 5-6 presenta un discorso più articolato: «Il ont <term ref="#ambracano">anbre</term> aseç, por ce qe en cel mer a balene en grant abondance. Et encore hi a capdoille
+         asez. Et por ce que il prene‹n›t de cestes balene e de cesti capdol aseç, ont de l’<term ref="#ambracano">anbre</term> en grant quantité; e voç savés que la balenne fait l’<term ref="#ambracano">anbre</term>»; <ref type="witlink" target="#z-null-124">Z 124 12-13</ref> ne è versione di fatto letterale: «Habent etiam multum <term ref="#ambracano">ambrum</term>, quia in illo mari sunt multa cete, sive balene, et capita olei; quos pisces ipsi
+         capiunt et in ipsis <term ref="#ambracano">ambrum</term> inveniunt in multa quantitate. Nam balene <term ref="#ambracano">ambrum</term> generant et producunt». Gli altri relatori si allineano sostanzialmente allo stesso
+         tenore informativo: L 177 7 «Et inveniuntur hic <term ref="#ambracano">ambra</term> multa: in mari enim illo sunt balene in maxima quantitate, et ipse sunt que <term ref="#ambracano">ambra</term> faciunt; sunt eciam maximi pisces, quos capidolios dicimus, valde multi»; VB CLX 8-9 «Àno finisima <term ref="#ambracano">anbra</term>, però che in quele suo’ aque i trovano molte ballene dele quale i àno asai <term ref="#ambracano">anbra</term>. Àno molti chapidolio […]»; è esito di un guasto nella tradizione V 106 6 «[…] et simel [<hi rend="italics">allo stesso modo che sandalo</hi>] olio, perché in quel mar sono molte ballene, e branchano de queste balene et chavano
+         hoio fuora; et perzò àno molto olio».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

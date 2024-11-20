@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-66-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-66">
+      <note>
+	<p>Ramusio segue con una certa libertà il testo di <ref type="witlink" target="#vb-null-112">VB CXII 10</ref>, omettendo varie parti che non trovano riscontro nelle altre sue fonti («e che tuti
+         […] morti»; «per modo non […] tartara»): «Inteso <term ref="#chinsanbaian">Baian</term> [R «Inteso <term ref="#chinsanbaian">Chinsambaian</term>»] chapitano dela morte della giente soa [R «la morte delle sue genti»] e che tutti
+         erano stati taiati e morti, preso de grandissima ira et afano [R «acceso di grandissima
+         ira et sdegno»], da capo mandò gran quantità della soa giente ad assedio della dita
+         cità [R «di nuovo mandò essercito alla espugnatione della città»] per modo non con
+         pocho affano, per la forteça di quella e per la difesa del popolo – el qualle ben
+         intendeva che essendo pressi quelo i avenerebeno –, non possendo resistere alle longe
+         forçe del’oste tartara, finaliter fo prexa [R «la qual presa»]: e quanti in quella
+         fu trovati (sì femene chome mascholi, picolli e grandi) [R «grandi et piccioli, sí
+         huomini come femmine»] furo morti per comandamento dil nobelle capitano». Sono probabilmente
+         dovute all’influsso di P le lezioni «esercito», «tuti gli abitanti» e «andar per fil
+         di spada»:<ref type="witlink" target="#p-ii-62"> P II 62 7</ref> «<term ref="#chinsanbaian">Baian</term> vero, hec audiens, misit contra eos exercitum maximum et civitate per violentiam
+         capta precepit ut cives omnes in vindictam prodicionis et infidelitatis illius gladiis
+         necarentur; quod ita, ut iusserat, factum est» (per l’espressione «andar per fil di
+         spada» vd. pure <ref type="witlink" target="#f-null-149">F CXLIX 10</ref> «Et quant <term ref="#chinsanbaian">Baian</term>, le sire de la grant host, soit qe celz de ceste cité avoient ocis sez homes si desloiaument,
+         il hi mande de sez jens aseç, e la pristent a force. Et si vos di toit voiremant qe,
+         puis qu’il l’ont prise, qu’il li ocistrent a le spee»). Non si notano, invece, particolari
+         affinità con <ref type="witlink" target="#v-null-74">V 74 7</ref> «Et quando <term ref="#chinsanbaian">Baian</term>, zoè el signor delo exerzito, sape che quelli dela zità aveano morti i suo’ homeni
+         chussì iniquamente, mandò del’altra zente, la qual valloroxamente prexe la zitade,
+         e tuti fono morti e malmenati». In L e Z tale passaggio manca completamente.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

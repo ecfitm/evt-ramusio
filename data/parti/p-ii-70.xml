@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-70</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-70">
+    <head>
+      <hi rend="bold">P, II 70</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-70_2_1" n="1"> Post transitum fluminis memorati itur per dietas .V. per syrocum et inveniuntur
+         in via civitates optime, castra multa et ville, ubi est omnium victualium copia; habetque
+         regio montes et nemora in quibus inveniuntur arbores multe ex quibus colligitur champhora.
+         </seg>
+      <seg xml:id="p-ii-70_2_2" n="2"> Post dietas autem quinque invenitur civitas <term ref="#zaitum">Çayren</term>, que grandis est valde et habet nobilissimum portum, ad quem naves de <term ref="#india">India</term> cum mercacionibus veniunt in multitudine maxima; nam pro una nave que cum pipere
+         vadit in <term ref="#alessandria">Allexandriam</term> ut deferatur inde postmodum ad christianorum terras ad portum veniunt centum; est
+         enim portus ille unus ex maioribus et melioribus qui in mundo sint propter multitudinem
+         et magnitudinem mercacionum que deferuntur ad ipsum. </seg>
+      <seg xml:id="p-ii-70_2_3" n="3"> Habet autem |69b| Magnus <term ref="#gran-can">Kaam</term> de portu illo proventus maximos: quelibet enim navis solvit de mercacionibus suis
+         omnibus de centenario quolibet mensuras .X.; navis vero recipit a mercatoribus pro
+         naulo de mercacionibus subtilibus mensuras .XXX. pro centenario; de pipere vero .XLIIII.
+         recipit pro centenario; de ligno aloe et sandalis et de grossis mercacionibus reliquis
+         accipit pro centenario .XL., propter ‹ea› negotiatores solvunt in universo computato
+         tributo regis et naulo navis medietatem omnium mercationum suarum quas deferunt ad
+         portum superius nominatum. </seg>
+      <seg xml:id="p-ii-70_2_4" n="4"> In hac civitate omnium victualium copia magna est.
+         </seg>
+      <seg xml:id="p-ii-70_2_5" n="5"> In hac regione est civitas <term ref="#tingui">Tingui</term> ubi scutelle pulcherrime fiunt de terra que dicitur porcellana. </seg>
+      <seg xml:id="p-ii-70_2_6" n="6"> In regione que
+         una est de novem partibus <term ref="#mangi">Mangy</term> est lingua propria. </seg>
+      <seg xml:id="p-ii-70_2_7" n="7"> De hoc regno habet Magnus <term ref="#gran-can">Kaam</term> eque magnos proventus aut |69c| maiores sicuti de regno <term ref="#quinsai">Quinsay</term>. </seg>
+      <seg xml:id="p-ii-70_2_8" n="8"> De aliis autem regnis <term ref="#mangi">Mangy</term> obmitto scribere causa brevitatis, quoniam nimia esset huius libri prolixitas si
+         deberem singula scribere regna eius; oportet autem me transire ad <term ref="#india">Indiam</term> ubi ego Marchus fui diutius inmoratus, de qua sunt magna et mirabilia describenda.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

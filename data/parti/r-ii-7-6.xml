@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-7-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-7">
+      <note>
+	<p>Nel resto della tradizion poliana, tali dettagli sono riferiti in modo molto più conciso:
+         <ref type="witlink" target="#p-ii-10">P II 10 3</ref> «Intra urbem vero multa et pulcra palatia sunt et alie domus multe pulcre sunt valde
+         […]»; <ref type="witlink" target="#v-null-41">V 41 35</ref> «[…] et in quele sono de molti beli palazi e chaxe […]»; <ref type="witlink" target="#f-null-84">F LXXXIV 11</ref> «Hi a mant biaus palais et mant biaus herberges et maintes belles maisonç». In L
+         mancano queste informazioni. </p>
+	<p>VB e P omettono del tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

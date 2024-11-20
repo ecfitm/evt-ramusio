@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-21-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-21">
+      <note>
+	<p>Il significato esatto di <term ref="#mulehet">Mulehet</term> (&lt; ar. <hi rend="italics">mulhid</hi> “eretico”: gli Ismailiti) è riportato solo da <ref type="witlink" target="#z-null-17">Z 17 1</ref> («<term ref="#mulehet">Mulhee</term> est quedam patria in qua <term ref="#vecchio-della-montagna">Veglus de Montanea</term> manere consuevit antiquitus; in qua patria habitabant heretici secundum legem sarracenam»),
+         di cui il toledano offre un riflesso pallido, benché significativo (come suggerisce
+         l’ampiezza del resoconto di R, che dipenderà dalla sua fonte). Nel resto della tradizione
+         <term ref="#mulehet">mulehet</term> risulta tradotto in maniera non pertinente. Lo glossano con un generico «de saraïn»,
+         «regno de Saraxini» <ref type="witlink" target="#f-null-40">F XL 2-3</ref> «<term ref="#mulehet">Mulecte</term> est une contree la ou le <term ref="#vecchio-della-montagna">Viel de la montagne</term> soloit demorer ansienemant. <term ref="#mulehet">Mulecte</term> vaut a dire de saraïn», e <ref type="witlink" target="#v-null-21">V 21 1</ref> «‹A›ntigamente el <term ref="#vecchio-della-montagna">Vechio dela Montagna</term> soleva abitare in una patria chiamata <term ref="#mulehet">Muleze</term>, zoè “regno de Saraxini”»; un sintagma prossimo a F doveva essere nel modello francese
+         di <ref type="witlink" target="#l-null-35">L 35 1</ref> «<term ref="#mulehet">Mule‹c›te</term> est quedam regio, et sonat in lingua nostra “de Sarram”» (<hi rend="italics">sarram</hi> sarà esito della mancata comprensione della stringa «desa(r)rain»). Tacciono VA (&gt;
+         P) e VB, forse per opacità del modello.</p>
+	<p>Secondo il parere di alcuni, la corretta spiegazione del termine sarebbe venuta meno
+         a causa di un salto di copia verificatosi, all’altezza del capostipite di tutta la
+         tradizione (escluso Z, naturalmente), tra le parole «dire» e «de»: la lacuna conseguente
+         sarebbe emendabile grazie a Z e R («Mulecte vaut a dire ‹heretiques selon la loy›
+         de Sarain»: lo <hi rend="italics">status quaestionis</hi> è tracciato da E. Burgio in Burgio, Mascherpa 2007, p. 140). Un’ulteriore, suggestiva
+         interpretazione è proposta da Yule, Cordier (1929, I, p. 141): secondo Yule la lezione
+         di F <hi rend="italics">(desarain</hi> o <hi rend="italics">desaram</hi>) e L (<hi rend="italics">de saram</hi> e sim.) ben si presterebbe alla lettura <hi rend="italics">des aram</hi> “degli Haram”, e cioè “di coloro che si collocano fuori dalla legge islamica”, quindi
+         “eretici”: la glossa poliana, che spiega l’arabismo <term ref="#mulehet">mulehet</term> con un altro arabismo, <hi rend="italics">haram</hi>, potrebbe dunque derivare da una fonte mussulmana passivamente recepita; oppure,
+         Marco Polo potrebbe avere scelto <hi rend="italics">haram</hi> in quanto termine chiave della teologia islamica, forse non estraneo al bagaglio
+         linguistico degli occidentali che praticavano le piste mercantili del Vicino e Medio
+         Oriente (ma certo incomprensibile ai copisti del <hi rend="italics">Milione</hi>, come sembra dimostrare l’ampia diffrazione illustrata sopra); nella redazione Z,
+         la glossa sarebbe stata ulteriormente semplificata – o, per meglio dire, “volgarizzata”
+         – prendendo la forma attestata, più diffusamente, in R («in qua patria habitabant
+         heretici secundum legem sarracenam», «<term ref="#mulehet">Mulehet</term> è come a dire luogo dove stanno li heretici»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

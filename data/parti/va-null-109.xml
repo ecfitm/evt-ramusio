@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-109</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-109">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, CIX</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-109_2_1" n="1"> In la gran provinzia de <term ref="#mangi">Mangi</term> era uno re che aveva nome <term ref="#fanfur">Facfur</term>, lo qual era molto posente e richo, né non|51r|n era al mondo uno mazior signior
+         de lui, tratone el <term ref="#gran-can">Gran Chaan</term>. </seg>
+      <seg xml:id="va-null-109_2_2" n="2"> Ma nonn era homo d’arme, nì in suo regniame non iera chavali, nì non iera homeni
+         costumadi a fato de guera nì de bataglia, perché la provinzia de <term ref="#mangi">Mangi</term> è in forte chontrade et è-ne molte aque. </seg>
+      <seg xml:id="va-null-109_2_3" n="3">E zaschuna zità à grande aque e fosse
+         profonde e large ben una balestrada, piene d’aqua: però i non temeno nisun. </seg>
+      <seg xml:id="va-null-109_2_4" n="4"> E
+         non aveano aparechiamento fato da bataia, ma viveno delizioxamente. </seg>
+      <seg xml:id="va-null-109_2_5" n="5"> Tuto el mondo
+         non averave prexo quella provinzia se i fosseno stati valenti per arme. </seg>
+      <seg xml:id="va-null-109_2_6" n="6"> Quel re
+         viveva molto dellichatamente, et non se intrometeva in fati d’arme, et era molto luxurioxo,
+         ma aveva grande bontà, ché el mantegniva el so reame in grande iustizia, e non se
+         ne fazeva niuno malle. </seg>
+      <seg xml:id="va-null-109_2_7" n="7"> La note stava le stazon averte spesse fiate e non se ne
+         trovava niente meno. </seg>
+      <seg xml:id="va-null-109_2_8" n="8"> Et era molto misericordioxo ale povere persone. [9] E sapiate
+         che zaschaduno ano el feva nodrigar vintimilia fantini de quelli ch’erano zitadi e
+         abandonadi dalle mare. [10] In quella provinzia le femene che non posono notrigar
+         né allevar i suo’ figlioli per povertà, i zetano via; inchontenente quel re fazeva
+         nodrigar e allevar tuti queli fantini. [11] E quando niuno omo grando o richo che
+         non aveva figlioli domandava al re alchuno de quelli, e lo re i li dava quello el
+         voleva, e chonvigniva-lo tegnir chome suo figlio. [12] E quelli che non erano domandadi,
+         lo re achonpagniava uno de quelli mamoli con una de quelle mamolle, et dava-li tanto
+         che i podeva ben viver. [13] Questo re tegniva grandenisimo stado: ello aveva ben
+         mille entro donzelli et donzelle che servìa lui e lla soa chorte.</seg>
+    </p>
+    <p n="3"/>
+    <p n="4"/>
+  </div>
+</body>
+</text>
+     </TEI>

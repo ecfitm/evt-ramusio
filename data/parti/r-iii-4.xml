@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-4" n="1">
+    <head>
+      <hi rend="bold">R, III 4</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-4_1_1" n="1"> Del mare detto <term ref="#cin">Cin</term>, che è per mezzo la provincia di <term ref="#mangi">Mangi</term>. Cap. 4.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-4_2_1" n="1"> Et è da sapere che ’l mare dov’è questa isola si chiama <term ref="#mare-cin">mare Cin</term>, che tanto vuol dire quanto “mare ch’è contra <term ref="#mangi">Mangi</term>”: et nella lingua di costoro dell’isola, <term ref="#mangi">Mangi</term> si chiama <term ref="#cin">Cin</term>. </seg>
+      <seg xml:id="r-iii-4_2_2" n="2"> Et questo mare <term ref="#cin">Cin</term> ch’è in Levante è cosí lungo et largo che i savi pilotti et marinari, che per quello
+         navigano et conoscono la verità, dicono che in quello vi sono settemilaquattrocento
+         et quaranta isole, et per la maggior parte habitate, et che non vi nasce arbore alcuno
+         dal quale non esca un buon et gentil odore, et vi nascono molte specie di diverse
+         maniere, et massime legno <term ref="#aloe">aloe</term>; il pevere in grande abondanza, bianco et nero. </seg>
+      <seg xml:id="r-iii-4_2_3" n="3"> Non si potrebbe dire la valuta dell’oro et altre cose che si truovano in queste isole,
+         ma sono cosí discoste da terra ferma che con gran difficultà et fastidio vi si può
+         navigare; et quando vi vanno le navi di <term ref="#zaitum">Zaitum</term> o di <term ref="#quinsai">Quinsai</term> ne conseguiscono grandissima utilità, ma stanno un anno continuo a fare il suo viaggio,
+         perché vanno l’inverno et ritornano la state, però che hanno solamente venti di due
+         sorti, de’ quali uno regna la state et l’altro l’inverno, di modo che vanno con un
+         vento et ritornano con l’altro. </seg>
+      <seg xml:id="r-iii-4_2_4" n="4"> Et questa contrada è molto lontana dall’<term ref="#india">India</term>. </seg>
+      <seg xml:id="r-iii-4_2_5" n="5"> Et perché dicemmo che questo mare si chiama <term ref="#cin">Cin</term>, è da sapere che questo è il <term ref="#mare-oceano">mare Oceano</term>, ma, come noi chiamiamo il <term ref="#mare-anglico">mare Anglico</term> et il <term ref="#mare-egeo">mare Egeo</term>, cosí loro dicono il <term ref="#mare-cin">mare Cin</term> et il <term ref="#mare-dindia">mare Indo</term>: ma tutti questi nomi si contengono sotto il <term ref="#mare-oceano">mare Oceano</term>. </seg>
+      <seg xml:id="r-iii-4_2_6" n="6"> Hor lasciaremo di parlar di questo paese et isole, perché sono troppo fuor di strada
+         et io non vi son stato, né quelle signoreggia il <term ref="#gran-can">Gran Can</term>; ma ritorniamo a <term ref="#zaitum">Zaitum</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

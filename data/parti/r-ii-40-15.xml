@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-40-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>Questa pericope, come la precedente, trova riscontro solo in <ref type="witlink" target="#z-null-57">Z 57 37</ref> «Sed quia ad hoc dominium est affectum, semper stercus caninum h‹ab›etur paratum,
+         ut si quis captus, dicta de causa, tossicum deglutiret, ad hoc ut tosicum ipsum evomat,
+         statim stercus predictum ipsum faciat deglutire; ita quod dominium huiusmodi ad hoc
+         invenit remedium, et est quid expertissimum». Ramusio compendia notevolmente il testo
+         del modello.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

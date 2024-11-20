@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-8-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-8">
+      <note>
+	<p>Per l’inserto novellistico, che recupera la leggenda del ciabattino orbo e della montagna
+         semovente  (parr. 11-19), Ramusio si serve dell’autorevole testo di <ref type="witlink" target="#z-null-7">Z 7 2-20</ref> integrandolo di continuo con la vivace narrazione di <ref type="witlink" target="#vb-null-15">VB 15 12-27</ref>.</p>
+	<p>A VB, ad es., è senz’altro riconducibile l’<hi rend="italics">incipit</hi> del racconto: «Io giudico […] stando in <term ref="#baldach">Baldach</term> detto <term ref="#califa">califa</term>» &lt; <ref type="witlink" target="#vb-null-15">VB XV 12</ref> «Io iudicho el nostro Segnor Ihesu Cristo volse far vendeta di cristiani suo’ dal
+         <term ref="#califa">chalifa</term> tanto odiati però che nel .MCCLXXV. el <term ref="#califa">califa</term> de <term ref="#baldach">Baldach</term> […]»; a Z, invece, il brano immediatamente successivo: «non pensava mai […] verum»
+         &lt; <ref type="witlink" target="#z-null-7">Z 7 2-4</ref> «[…] cogitaret cotidie modum et formam quibus omnes in eius terra morantes facere
+         posset ad legem suam converti, alioquin mortis suplicio terminare, finaliter invenit
+         punctum unum Scripture in Evangelio sic dicentis: ‘‘Si quis christianus tantum haberet
+         fidei quantum esset granum synapis, precibus suis sume Maiestati porectis, montes
+         faceret de loco ruere vel moveri’’. Quo invento, nullo modo credens hoc posse aliqualiter
+         adimpleri, misitque <term ref="#califa">calif</term> pro omnibus Christianis, Nestorinis et Iacopitis, in eius terra morantibus, et ipsis
+         existentibus coram eo, dixit: ‘‘Estne verum quod textus Evangelii vestri declarat?».
+         Cui responderunt: ‘’Verum’’».</p>
+	<p>La giustapposizione delle fonti, frutto di in un lavoro di <hi rend="italics">editing</hi> di grande vivacità, prosegue lungo tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

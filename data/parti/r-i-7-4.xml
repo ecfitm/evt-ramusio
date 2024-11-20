@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-7-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-7">
+      <note>
+	<p>Il passo sul commercio delle perle traduce letteralmente <ref type="witlink" target="#z-null-6-1-6">Z 6 4</ref> «Et omnes perule que de <term ref="#india">Yndia</term> in christianitatem portantur pro maiori partte perforantur in <term ref="#baldach">Baldac</term>», passo conservato anche da <ref type="witlink" target="#l-null-23">L 23 3</ref>: «[…] perforantur eciam hic quasi omnes margarite que de <term ref="#india">India</term> apportantur».</p>
+	<p>Da Z probabilmente derivano, benché non lo si possa verificare sul toledano, lacunoso,
+         anche le linee precedenti di R, dedicate all’artigianato tessile di <term ref="#baldach">Baghdād</term>, assai vicine, per completezza informativa, a <ref type="witlink" target="#f-null-24">F XXIV 5</ref> «En <term ref="#baldach">Baudac</term> se laborent {se laborent} de ma‹n›tes faison de dras dorés et de soie: ce sunt nassit et <term ref="#nasiti">nac</term> et cremosi, et de deverses manieres laborés a bestes et ausiaus mout richemant».
+         Tuttavia in R, per dettato del modello o, più facilmente, per iniziativa del compilatore,
+         vengono meno i tecnicismi tessili arabo-persiani (<hi rend="italics">nac</hi> e <hi rend="italics">nassit</hi> [&lt; <hi rend="italics">nasic</hi>], “stoffe di oro e seta, broccati”, <hi rend="italics">cremosi</hi> “velluto cremisi”: vd. Yule, Cordier 1929, I, pp. 65-66), sostituiti con i rispettivi
+         iperonimi <hi rend="italics">damaschi</hi> e <hi rend="italics">velluti</hi>, e anche i dettagli della decorazione zoomorfa subiscono un processo di astrazione
+         («figure di varii et diversi animali»). Vd. nasiti, fin e nach.</p>
+	<p>L, P e VB operano una sintesi radicale del passo, omettendo in particolare il dettaglio
+         della decorazione zoomorfa dei tessuti (<ref type="witlink" target="#l-null-23">L 23 3</ref> «Et laborantur hic diverse maneries pannorum tam de auro quam de seta, sicud sunt
+         “<term ref="#nasiti">nasi‹c›</term>” et “<term ref="#nasiti">nac</term>” et “cremosi” et alia multa et diversa […]»; <ref type="witlink" target="#p-i-16">P I 16 2</ref> «Fiunt ibi panni de auro pulcherimi diversarum manerierum, scilicet nassit, <term ref="#nasiti">nac</term> et cremosi»; <ref type="witlink" target="#vb-null-15">VB XV 3</ref> «In <term ref="#baldach">Baldach</term> è gran mestier de pani de seda, de ormesi e pani d’oro […]»);<ref type="witlink" target="#v-null-14">V 14 5</ref> presenta invece una lezione vicina a F ma parzialmente rielaborata e corrotta, forse
+         per mancata comprensione del modello («Et in la dita zitade de <term ref="#baldach">Bandach</term> se lavora molti drapi d’oro e de seda et molte diverse maniere de lavorieri, et nela
+         dita † sescha † pesse, bestie e oxeli, li qual se portano in <term ref="#india">India</term>»). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

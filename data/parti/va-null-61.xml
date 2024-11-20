@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-61</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-61">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, LXI</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-61_2_1" n="1"> In questa parte del nostro libro sì ve chonteremo de tuti li grandisimi fati e
+         meraveglie del <term ref="#gran-can">Grande Chaan</term>, lo quale al tenpo de mo’ à nome <term ref="#cublai-can">Chublai Chan</term> – <term ref="#gran-can">Chan</term> vien a dire in nostra lengua “el gran segnior d’i segniori”. </seg>
+      <seg xml:id="va-null-61_2_2" n="2"> E questo segnior
+         che regnia mo’ può ben veraxiamente eser apellato signior d’i signiori perché l’è
+         plui posente |30v| signior de zente e de tere e de texoro che sia al mondo, nì che
+         mai fusse da Adam fin questo tenpo. </seg>
+      <seg xml:id="va-null-61_2_3" n="3"> E che sia la verità nui el mostreremo innel
+         nostro libro apertamente, sì che zaschuno intenderà esser chusì chome nui dixemo senza
+         contrasto.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-62</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Ramusio utilizza, per l’<hi rend="italics">incipit</hi> del resoconto del miracolo di <term ref="#san-tommaso">san Tommaso</term>, la lezione di <ref type="witlink" target="#p-iii-27">P III 27 4</ref> «Anno Domini .MCCLXXXVIII. princeps quidam magnus terre illius collegit messis tempore
+         de riso copiam magnam; cum domos ad reponendum ipsum non haberet, ad suum beneplacitum
+         aptas omnes domos ecclesie <term ref="#san-tommaso">beati Thome</term> apostoli occupavit, ibi suum risum recondens invitis custodibus loci, qui eum humiliter
+         precabantur ne peregrinorum receptacula occuparet qui <term ref="#san-tommaso">beati Thome</term> apostoli limina visitabant». Pipino ha come antigrafo VA CXXXIX 7-10 «Hor ve chonterò uno gran mirachollo. Ano domini MCCLXXXVIII, uno baron de quella
+         contrà avea gran quantità de rixo sì ch’el fexe inpir tute le chaxe della giexia de
+         misier <term ref="#san-tommaso">san Tomaxio</term>. I cristiani che aveva chura del luogo lo pregava molto ch’el non ochupasse quel
+         luogo, aziò che i podeseno albergar i pelegrini che vegnivano a vixitar el corpo santo.
+         Quel baron non volsse tuor fuora el rixo» – la cui lezione dipende da un testo affine
+         a F CLXXV 5-6 «Et encore vos dirai d’une biaus miracle qe hi avint entor .M.CC.LXXXVIII. an de
+         l’ancarnasion de Crist. Il fu voir que un baron de celle contree avoit mout grant
+         qua‹n›tité d’une bles qe s’apelle ris, e de cesti enpli toutes les maisonz qe environ
+         le yglise estoient. Celz cristiens que gardent l’eglise et le saint cors, quant il
+         virent qe cel baronz <term ref="#idolatri">ydre{e}s</term> fasoit ensi enplir celz mai{n}sonz e que les peligrinç ne auront ou erbergier, il
+         en avoient grant ire, et mout le prient qe il ne le deuse faire. Mes celui, qe mout
+         estoit cruelz et fieres, ne entendi a nulle lor pr‹i›ere mes enpli toutes celles maisonz
+         selonc a sa volunté et encontre la volunté des cristienz qui gardent l’eglise». Il
+         racconto dello Z toledano innova, omettendo la data dell’evento e modificando il soggetto
+         dell’azione: Z 109 18-21 «Item dicemus vobis de quodam pulcro miraculo quod accidit ibi. Supranominatus rex,
+         quodam tempore, habebat magnam quantitatem cuiusdam bladi quod nuncupatur risus, et
+         de isto blado impleri fecit ecclesiam <term ref="#san-tommaso">sancti Thome</term> et omnes eius domus existentes circa ipsam, in quibus ospitabantur peregrini venientes
+         ad visitandum sanctum corpus. Quod videntes, christiani qui custodiebant ecclesiam
+         doluerunt valde et ipsum regem cum multa instantia rogaverunt ut non deberet ecclesiam
+         et eius domus taliter ocupare. Rex vero, precibus eorum non prebens auditum, suum
+         propositum totaliter adimplevit, faciens ecclesiam et domos impleri». </p>
+	<p>La narrazione degli eventi si allinea, negli altri relatori, a F: L 163 4 «Circa annos Christi .M°.CC°.LXXXVIII°. nobilis quidam vir et potens in civitate,
+         cum habundaret riço (quod est species quedam bladi), impleri iussit domunculas quasdam
+         iuxta <term ref="#san-tommaso">beati Thome</term> ecclesiam existentes, que ad peregrinorum utilitatem deputate erant; quod cum christiani
+         custodes ecclesie neque precibus neque vi impedire possent, domus has blado totaliter
+         occupavit»; V 93 5-7 (ma omette di datare i fatti) «Et diròve uno bel miracholo. El fo uno baron in quela
+         chontrada che aveano gran quantità de biave, et questo inpino tute le chaxe che iera
+         atorno la giexia del santo chorpo. Et questo baron adorava le idolle, et aveva inpido
+         quele chaxe le quale i pelegrini iera uxadi de albergar; onde i aveva gran ira, et
+         sì ’l pregò molto ch’eli el non dovesse machular; ma questo, che iera molto chrudel
+         e feroze, non exaudì alguna so pregiera, ma inpì tute le chaxe segondo el suo’ voler
+         e chontra el voler de christiani che vardavano la giexia»; VA CXLV 4-6 (amplifica il discorso nella parte conclusiva) «Contasi ecian che nel .MIIcLXXXVIII. uno baron de quella provincia, trovandosse avere grandissima quantità de
+         rixi, chomesse quei foseno posti in algune abitacion son fate per receto di pellegrini
+         vano in pelligrinaço, né possandoillo vetare per la grandeça e possança del barone,
+         con grandissimo despiacere de cristiani, quelle furono de diti rexi piene. Cristiani,
+         facendo quello pregare (ch’era <term ref="#idolatri">idolatro</term>) che non dovesse ochupare le chaxe di pellegrini, con manace e despriexio i chaçavano.
+         Non i voiendo in alchuna cosa exaudire, i cristiani, non vedendo potersi prevalere
+         dala possança del barone <term ref="#idolatri">idolatro</term>, se messeno a far oracione».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

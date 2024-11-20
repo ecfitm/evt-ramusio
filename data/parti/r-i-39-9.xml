@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-39-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-39">
+      <note>
+	<p>Ramusio segue da vicino il dettato di <ref type="witlink" target="#z-null-36">Z 36 12-13</ref> «Sed prior uxor semper locum tenet maioris. Et si vident quod earum aliqua non bene
+         se gerat aut eis non placeat, ipsas posunt expelere et de eis facere quicquid volunt»,
+         a sua volta ben rispondente a <ref type="witlink" target="#f-null-61">F LXI 11-12</ref> «[…] mes {mes} si sachiés que la primere tent il por la meior. Et encore voç di que
+         se il voit qe aucune de sez femes ne soit bone e que ne li place, il la pout bien
+         cacer e fer a sa volunté».</p>
+	<p>Grosso modo in linea con i contenuti di F sono anche le altre fonti di R: vd. <ref type="witlink" target="#l-null-56">L 56 5</ref> «[…] verumtamen primam uxorem semper pro maiori et nobiliori retinent: quod si aliqua
+         de hiis uxoribus causa aliqua displiceat potest eam licite a matrimonio separare»,
+         <ref type="witlink" target="#p-i-49">P I 49 4</ref> «[…] prima tamen uxor dignior et magis legittima reputatur […] si uxor viro efficitur
+         odiosa, licitum est viro eam dimittere iuxta sue placitum voluntatis», <ref type="witlink" target="#v-null-33">V 33 7</ref> «[…] ma la prima moier da tute vien tegnuda mazor; et s’el avien che alguna de quele
+         moier sia vechia e non sia bona e non li piaqua, eli la puol deschazar al so piaxer»,
+         <ref type="witlink" target="#vb-null-45">VB XLV 6</ref> «[…] e lla prima moglie i lla tien molto più honorada che le alltre e, se alguna
+         dele moglie dapo’ tulte non ge piaqueno, e g’è licito a chaçarlle via».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

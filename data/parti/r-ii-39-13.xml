@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-39-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>Ramusio combina la lezione di due modelli, Z – che rispecchia, con qualche taglio,
+         il dettato di F – e P, che accorcia e rielabora notevolmente il testo: <ref type="witlink" target="#z-null-56">Z 56 22-23</ref> «Gentes vero comedunt carnes crudas galinarum, arietum, bovum et buffalorum [R «carni
+         crude di galline, montoni, buoi et buffali»]. Pauperes quoque homines [R «li poveri»]
+         pergunt ad macelum et emunt figatum crudum sicut tunc extrahitur de animali; et trucidant
+         minutim, et imponunt in salsam aleorum [R «le mettono cosí minute in salsa di aglio»],
+         et statim comedunt; sic vero faciunt de aliis carnibus quibuslibet; nobiles vero viri
+         [R «gentilhuomini»] etiam comedunt carnes crudas»; <ref type="witlink" target="#p-ii-39">P II 39 15</ref> «Homines regionis huius [R «In questo paese»] carnes crudas hoc modo [R «in questo
+         modo»] manducant: primo [R «prima»] eas minutatim terunt [R «le tagliano molto minutamente»];
+         postea, in saporem optime confectum, ex aliis plurimis speciebus [R «in un sapore
+         fatto di diverse sorti di lor specie»] ponunt desuper; postea comedunt, sicut apud
+         nos cocte comeduntur» [R «et le mangiano come facciam noi le cotte»]. È possibile
+         che Z1 fosse meno sintetico di Z toledano, e presentasse una lezione del tutto equivalente
+         a quella di F, soprattutto nell’ultima parte: <ref type="witlink" target="#f-null-117">F CXVII 13-14</ref> «Encore voç di qe il men‹j›uent la char crue de galine et de monton et de buef et
+         des bufal: car les povres homes se vont a la becarie et prenent le feie crue, tant
+         tost com se trai hors de la bestes, et le trence menu, puis le met en la sause de
+         l’aigle et le menuie mantenant. Et ausi font de toutes les autres chars. Et les gentilz
+         homes menuient encore la cars crue, mes il la font menussier menuemant, puis la metent
+         en la sause de l’aigle meslee con bone espece, puis la menuient, ausi bien com nos
+         faison la coite» [R «et le mangiano come facciam noi le cotte»]. Alcuni dettagli omessi
+         da Z si leggono invece in V, che reca però un testo spesso corrotto: <ref type="witlink" target="#v-null-56">V 56 24</ref> «E manzano charne chruda, e de moltoni, de buò e de bufalli; e puo’ quando i sono
+         piadi vano i omeni ala becharia, et tuolle el figado, grando sì chomo l’ese dela bestia,
+         et pestallo menudo; et sì l’ mete in salsa de hoio, et poi el manza; et chussì fano
+         de tute le altre bestie; et a questo muodo ogn’omo manzano de tute le charne, a questo
+         modo dito di sopra metando de bone spezie; et manzano de sì bon apetito chomo se le
+         fosse chote». Molto più stringato del testo di Z e di P è quanto si legge in <ref type="witlink" target="#l-null-96">L 96 8</ref> «Commedunt hee gentes carnes crudas sicut nos coctas: incidunt enim eas in parva
+         frustra easque admiscent sal‹s›e ex aleis facte, sicque eas commedunt», e in <ref type="witlink" target="#vb-null-83">VB LXXXIII 13</ref> «Questa giente mangiano la charne cruda in questo modo: la comuna giente taia la
+         charne menuda e mete quella in salle e del’agio e cossì quella cruda mangiano; altri
+         fa taiar la charne menuta e quella con specie mete nel’aiada e mangialla».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

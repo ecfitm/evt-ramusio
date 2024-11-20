@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-130</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-130">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 130</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="z-null-130_2_1" n="1"> <term ref="#calaiati">Calatu</term> est quedam magna civitas, que est in gulfo qui etiam appelatur <term ref="#calaiati">Calatu</term>, et distat a <term ref="#dulfar">Duffar</term> circa sexcenta miliaria versus magistrum. </seg>
+      <seg xml:id="z-null-130_2_2" n="2"> Ipsa |106r| est nobilis civitas sita
+         supra mare. </seg>
+      <seg xml:id="z-null-130_2_3" n="3"> Ipsius gentes Machometi legem observant. </seg>
+      <seg xml:id="z-null-130_2_4" n="4"> Et sunt Curmosi. </seg>
+      <seg xml:id="z-null-130_2_5" n="5"> Et quociescumque “<term ref="#melich">melic</term>” de <term ref="#ormus">Curmos</term> guerram habet cum potentiori, se ad istam civitatem recurit, quia multum est fortis
+         et in forti loco sita, ita quod non timet de aliquo. </seg>
+      <seg xml:id="z-null-130_2_6" n="6"> Nulas quidem segetes habe‹n›t,
+         sed ab alio loco ipsas percipiunt: nam illuc mercatores cum navibus ferrunt. </seg>
+      <seg xml:id="z-null-130_2_7" n="7"> Ista
+         civitas bonum portum habet. </seg>
+      <seg xml:id="z-null-130_2_8" n="8"> Et multi mercatores cum multis navibus accedunt illuc
+         de Indya, et in ista civitate optime vendunt, quoniam ab ista civitate feruntur mercimonia
+         et aromata infra terram ad multas civitates et castra. [9] Feruntur etiam ab ista
+         civitate multi boni sonipedes in Indyam, ex quibus mercatores magnum lucrum et profectum percipiunt. [10] Quoniam ab ista
+         contrata, et ab aliis quas supra diximus, ferruntur equi in tanta quantitate in Indyam quod vix credi posset. [11] Ista quidem civitas sita est in introitu et in ore gulfi
+         de <term ref="#calaiati">Calatu</term>, ita quod aliqua navis non valet intrare neque exire sine velle ipsius. [12] Et multociens
+         “<term ref="#melich">melic</term>” istius civitatis habet magna pacta cum rege de <term ref="#chermain">Chermam</term>, cui subditus est. [13] Quia, quando ille rex sive <term ref="#soldan">soldanus</term> de <term ref="#chermain">Chermam</term> imponit aliquod datium ipsi “<term ref="#melich">melic</term>” de <term ref="#ormus">Curmos</term> vel alicui alteri fratrum, et isti nollent dare, <term ref="#soldan">soldanus</term> |106v| vero transmitit suum exercitum ad ipsos viribus compellendum. [14] Ipsi discedunt
+         a <term ref="#ormus">Cormos</term> et intrantes naves ad istam civitatem <term ref="#calaiati">Calatu</term> veniunt; et ibi permanendo, non dimitunt aliquam navem transire; de quo <term ref="#soldan">soldanus</term> de <term ref="#chermain">Chermam</term> predictus percipit magnum dapnum. [15] Et ideo de necessitate oportet ut faciat pacem
+         cum ipso “<term ref="#melich">melic</term>” de <term ref="#ormus">Curmos</term>, et ei non infert tante peccunie quantitatem quantam petiverat. [16] Iste “<term ref="#melich">melic</term>” <term ref="#ormus">Curmos</term> habet quoddam castrum quod est fortius civitate et melius distringit gulfum et mare.
+         [17] Gentes istius contrate vivunt de dactalis et piscibus salitis: nam in magna quantitate
+         habent. [18] Verum est quod ibi sunt quam plures nobiles homines et divites qui utuntur
+         melioribus cibis. [19] Nunc de ista civitate <term ref="#calaiati">Calatu</term> diximus, et de gulfo et de eorum esse. [20] Discedemus ergo ab ipsa et dicemus de
+         <term ref="#ormus">Cormos</term>. [21] Nam quando disceditur a civitate <term ref="#calaiati">Calatu</term> et itur circa trecenta miliaria inter magistrum et ttramontanam, invenitur ergo civitas
+         <term ref="#ormus">Cormos</term>. [22] Et discedendo a <term ref="#calaiati">Calatu</term> et eundo inter ponentem et magistrum circa quingenta miliaria, invenitur <term ref="#chisi">Chis</term>. [23] Dimitemus ergo de <term ref="#chisi">Chis</term> et dicemus de <term ref="#ormus">Chormos</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

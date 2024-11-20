@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-34-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-34">
+      <note>
+	<p>L’affinità – peraltro generica – di R a V e F fa pensare che, come nelle pericopi
+         precedenti, Ramusio abbia seguito la testimonianza di un esemplare di Z più completo
+         di Z toledano, che in questo punto risulta molto carente (<ref type="witlink" target="#z-null-50">Z 50 7</ref> «Ibi habent de omnibus humano corpori opportunis»): <ref type="witlink" target="#v-null-53">V 53 6</ref> «Et sono de gran marchadanti et arte; et in quella se lavora drapi d’oro e de seda
+         et d’ogni maniere; et lavorasse de tute le monizion che partien al’exerzito del <term ref="#gran-can">Gran Chan</term>; et sono granda abondanzia d’ogni chossa che sono de bixogno al chorpo umano; et
+         sono gran marchado»; <ref type="witlink" target="#f-null-110">F CX 7</ref> «Ele est ville de grant merchandies et de grant arç. Il ont çoie en grant quantité.
+         Il hi se labor{r}ent dras d’or et de soie de toutes mainere. Il hi se laborent de
+         tous arnois que beiçoig‹n›ent a les hostes. Il ont des toutes chouses qe as cors d’omes
+         beiçongne por vivre en grant abondance et grant merchiés». Non si danno elementi che
+         autorizzino a pensare che l'editore si sia avvalso in questa pericope anche di L,
+         P o VB, che presentano perlopiù un testo abbreviato: <ref type="witlink" target="#l-null-90">L 90 2-3</ref> «[…] mercatores et artiste, et habent sericum in maxima habundantia: quare multos
+         laborant pannos ex auro et seta. Et de omnibus victualibus habent habundanter»; <ref type="witlink" target="#p-ii-32">P II 32 6</ref> «Ibi est serici copia maxima et omnia que pro vita hominum sunt necessaria, fiuntque
+         ibi mercaciones maxime»; <ref type="witlink" target="#vb-null-77">VB LXXVII 6</ref> «È citade de gran marchandantie: trovassi chuori in gran quantità e molto belli e
+         grandi; lavorase asai pani de oro et de seta».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

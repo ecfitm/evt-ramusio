@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-46-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-46">
+      <note>
+	<p>La pericope è perfettamente coerente con il dettato della tradizione, tranne che nell’<hi rend="italics">explicit</hi>: infatti, laddove tutti (tranne V, privo di questo dettaglio) concordano nel descrivere
+         la venerazione dei fedeli per l’intera famiglia degli idoli (vd. <ref type="witlink" target="#f-null-69">F LXIX 3</ref> «[…] et encore font la moillier de cest dieu et seç filz: la moiere metent de la
+         senestre partie et les filz devant, <hi rend="italics">et le honorent asseç</hi>»; <ref type="witlink" target="#l-null-60">L 60 11</ref> «[…] locantque uxorem istius dei a sinistris eius et eius filios ante eos,<hi rend="italics"> reverenturque eis valde</hi>»; <ref type="witlink" target="#p-i-58">P I 58 2</ref> «[…] credunt autem ipsum habere uxorem et filium quibus ydola similiter de filtro
+         faciunt: ydolum uxoris <term ref="#natigay">Nacigay</term> a sinistris ponunt, filii vero ydolum coram ipso; <hi rend="italics">hec ydola multum etiam venerantur</hi>»; <ref type="witlink" target="#va-null-55">VA LV 4</ref> «La moier meteno da lato sinestro e ’l figlio dinanzi, <hi rend="italics">e fa-li grande onore</hi>»; <ref type="witlink" target="#vb-null-56">VB LVI 18</ref> «E fano un’altra imagine femenile e dicono essere la moglie e quella meteno da man
+         sinistra; e fano alltre imagine picolle e dicono esser i llor figioli, le qualli meteno
+         apresso ale imagine grande e <hi rend="italics">tute tengono coperte onorevellemente e con gran reverencia</hi>»), nella versione di R sono gli idoli più piccoli, collocati in posizione subalterna,
+         a riverire i maggiori («pongongli […] li figliuoli avanti di lui, quali pare che li
+         facciano riverenza»). L’eccentrica lezione ramusiana può aver avuto origine, nella
+         fase di traduzione-adattamento del modello, da un’erronea attribuzione del soggetto
+         – gli <hi rend="italics">idoli più piccoli</hi> in luogo dei <hi rend="italics">fedeli</hi> – al verbo *<hi rend="italics">riveriscono</hi>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-1-35</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-1">
+      <note>
+	<p>Il racconto della presentazione di Marco a <term ref="#cublai-can">Cublai</term> e della sua permanenza a corte come uomo di fiducia dell’imperatore (parr. 35-41)
+         è svolto ancora giusta la lezione di <ref type="witlink" target="#p-i-7">P I 7</ref> («Ut autem ad regis curiam pervenerunt, ingressi ad regem prociderunt cum reverencia
+         maxima coram eo, qui alacriter eos suscipiens iussit ut surgerent et quomodo eis in
+         via fuerat quicque cum summo pontifice egerant enarrarent; quibus cuncta disserentibus
+         et exhibentibus litteras pape <term ref="#gregorio-decimo">Gregorii</term>, rex litteras summi pontificis letanter suscepit et eorum fidelem sollicitudinem
+         commendavit. Oleum autem de lampade sepulcri domini nostri Iesu Christi reverenter
+         accepit et cum honore reponi mandavit. Interrogavit vero rex de Marcho quis esset
+         et, audito quod filius erat domini Nicolai, ipsum facie leta suscepit, ipsos vero
+         tres inter familiares precipuos suos ac honorabiles computavit, propter quod ab omnibus
+         curialibus in multa reverentia habebantur») e <ref type="witlink" target="#p-i-8">P I 8</ref> («Marchus vero brevi in tempore mores didicit <term ref="#tartari">Tartarorum</term> nec non et linguas quattuor varias et diversas, ita quod in qualibet ipsarum scribere
+         sciebat et legere. Voluit autem rex experiri eius prudenciam direxitque eum pro quodam
+         regni negocio ad regionem remotam, ad quam ante sex menses pervenire non potuit: ipse
+         vero sic se prudenter gessit in omnibus, quod rex plurimum cuncta que gesserat acceptavit;
+         et quoniam rex delectabatur audire novitates, mores et consuetudines hominum condicionesque
+         terrarum, Marchus quacumque transibat sic studebat super huiusmodi novitatibus informari
+         ut posset regis beneplacito complacere: propter quod, annis decem et septem quibus
+         fuit familiaris ipsius, sic illi fuit acceptus ut ab eo continue pro magnis regni
+         negociis mitteretur. Hec igitur racio est quare prefatus dominus Marchus sic didicit
+         orientalium partium novitates que infra diligentius describentur»).</p>
+	<p>La lezione di P è parcamente integrata con quella di VB: ad es. «i quali havendogli
+         detto […] con sommo silentio» &lt; <ref type="witlink" target="#vb-null-8">VB VIII 1-2</ref> «[…] rechontòge molto ornatamente et chon gra‹n›de ordene quanto nel viagio loro
+         i aveano seguito. Fono ascholtati dal <term ref="#gran-can">Segnore</term> e da tuti baroni con grande e longo silencio […]»; «et facendo un memoriale di tutto
+         ciò che intendeva et vedeva» &lt; <ref type="witlink" target="#vb-null-8">VB VIII 9</ref> «[…] sì se avea fato uno memorialle de tute chosse l’avea vedute in questo suo viagio
+         […]». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

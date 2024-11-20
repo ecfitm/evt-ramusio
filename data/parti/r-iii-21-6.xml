@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-21-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-21">
+      <note>
+	<p>Il terzo <hi rend="italics">volet</hi> della caccia ai diamanti viene nuovamente da <ref type="witlink" target="#p-iii-29">P III 29 3</ref> «Si vero aquile carnes in valle comedunt, vadunt homines postmodum ad loca ubi aquile
+         noctibus dormiunt, et quia comedendo carnes deglutire solent adamantes carnibus adherentes
+         inveniunt eos in stercoribus aquilarum». Il modello di Pipino, VA CXXXVIII 12-14 («E forsi per aventura le aquile, bechando le charne, algune fiade va in luogo che
+         alguno non le pò chazar via. In quelle charne è fiti molti diamanti e l’aquila ne
+         ingiotisse bechando la charne; e queli homeni zerchano dove è state quelle aquille
+         la note e truovano i diamanti. E in questo muodo i se truova, e trova-sene in grandenisima
+         abondanzia […]»), è riconducibile a F CLXXIV 12 «Et encore en ont les homes des diamant en ceste mainere, car, quant les aigles mengient
+         de celle cars qe je voç ai dit elle mengient, ce est q’ele beche des diamant, puis,
+         la nuit, la ou l’aigle fait son retom, si gette celle diamant q’el a becchés con son
+         oisi, e les homes hi vont et cargient celle oisi de le aigle et en treuvent encore
+         diamant asez» (al pari di V 92 12 «E per questo muodo i àno i diamanti: perché quando le aquile à manzato le charne
+         le qualle ve ò dito, le manzano tal volte di diamanti; et i omeni vano dove la note
+         quelle se possa e zerchano lo so stercho e trovano molti diamanti»). Si distinguono
+         i resoconti di Z 108 12 «[…] et postmodum sciunt loca ubi de nocte manent – quia aquile ipsos adamantes non
+         digerunt, sed de nocte cum digestione evomunt –, et in mane homines ipsos inveniunt»,
+         e VB CXLIV 14 «Ecian quando l’aquilla becha la carne, i stano atenti se alchun diamante chadeno;
+         fano ecian gran guardie dove l’aquilla va âlbergare dapo’ l’à mangiato la charne e
+         va cerchare dove l’à smaltito: e trovane de diamanti».</p>
+	<p>Il resoconto di Ramusio sopprime l’osservazione conclusiva, variamente attestata in
+         tutta la tradizione a partire da F CLXXIV 13 «Or avés entendu comant, en trois maineres, se treuvent les diamans. E sachiés qe
+         en tout le monde ne se treuvent diamant for qe en ceste roiame solamant, mes iluec
+         se trevent en grant quantité et buens. E ne creés qe les buens diamant ne vient en
+         nostre contrees de cristienz, mes vont et sunt portés au <term ref="#gran-can">Grant Kaan</term> et a les rois e baronz de celz diverses regionz et regnes, car celz ont le grant
+         treçor et achatent toutes les cheres pieres»; vedi quindi Z 108 24-25; <ref type="witlink" target="#p-iii-29">P III 29 3</ref> (= VA CXXXVIII 14-15); L 162 5; V 92 13; VB 144 15.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-13-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-13">
+      <note>
+	<p>La pericope di R dipende da Z, come si evince dalla sua stretta coincidenza (anche
+         nell’<hi rend="italics">ajout</hi> avverbiale <hi rend="italics">continue</hi> &gt; <hi rend="italics">continovamente</hi>) con la lezione toledana, pure sfrondata del dettaglio geografico: cfr. <ref type="witlink" target="#z-null-12">Z 12 3</ref> «In hyeme tam intensum frigos h‹ab›etur, quod vix homo potest evadere continue portando
+         multas vestes et peles». Z è a sua volta fedelmente modellato su <ref type="witlink" target="#f-null-34">F XXXIV 11</ref> «Et de la cité de <term ref="#chermain">Crerman</term> jusque a cest descese ha si grant froit de yver que a poine eschanpe l’en portant
+         aséç dras et aséç pannes», e mostra qualche tangenza testuale con <ref type="witlink" target="#l-null-28">L 28 5</ref> «[…] Et a civitate <term ref="#chermain">Cremam</term> usque ad hunc descensum est tantum frigus in yeme, quod vix potest quis evadere eciam
+         cum multis pellibus et pannis».</p>
+	<p>Moderatamente parafrastiche rispetto a F sono invece <ref type="witlink" target="#vb-null-22">VB XXII 9</ref> «Dalla dita citade de <term ref="#chermain">Creman</term> fina a questa montagna v’è gran fredura l’inverno; e dificelle chossa è l’inverno
+         poder passar, e chi non sono ben forniti de pani e fodre di fredo pereria» e <ref type="witlink" target="#v-null-20">V 20 6</ref> «[…] e a questa desmontada sono gran fredo et l’inverno li omeni chonvieno portar
+         de molte vestimente e pelle, onde che molti non puono chanpar che non muora». Una
+         drastica riduzione si osserva infine in <ref type="witlink" target="#p-i-21">P I 21 6</ref> «Est autem ibi in hyeme intollerabile frigus».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

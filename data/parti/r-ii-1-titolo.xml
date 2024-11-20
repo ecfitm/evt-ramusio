@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-1-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-1">
+      <note>
+	<p><ref type="witlink" target="#f-null-75">F LXXV</ref> (Ci devise tous les fais dou <term ref="#gran-can">Grant Kaan</term> qe orendroit rengne, que <term ref="#cublai-can">Cublai Kaan</term> est apelés, et divise comant il tient cort et comant il mantent seç jens en grant
+         justice; et encore dit de son conqist) / <ref type="witlink" target="#f-null-76">F LXXVI</ref> (Ci devise de la grant bataille ke fu entre le <term ref="#gran-can">Grant Kaan</term> et le roi <term ref="#naiam">Nayan</term> son uncle) /<ref type="witlink" target="#f-null-77"> F LXXVII</ref> (Comant le <term ref="#gran-can">Grant Kaan</term> ala encontre <term ref="#naiam">Nayan</term>)  / <ref type="witlink" target="#f-null-78">F LXXVIII</ref> (Ci comance de la bataille dou <term ref="#gran-can">Grant Kaan</term> et de <term ref="#naiam">Nayan</term> son oncle), <ref type="witlink" target="#f-null-79">F LXXIX</ref> (Comant le <term ref="#gran-can">Grant Kaan</term> fist oncire <term ref="#naiam">Na‹i›an</term>); <ref type="witlink" target="#l-null-66">L 66 1-5</ref> (De <term ref="#cublai-can">Cublay</term> Magno Kane); <ref type="witlink" target="#p-ii-1">P II 1</ref> (De potencia et magnificencia <term ref="#cublai-can">Cublay</term> regis maximi <term ref="#tartari">Tartarorum</term>. Capitulum primum) / <ref type="witlink" target="#p-ii-2">P II 2</ref> (Qualiter <term ref="#naiam">Nayam</term> contra <term ref="#cublai-can">Cublay</term> regem presumpsit insurgere. Capitulum 2m.) / <ref type="witlink" target="#p-ii-3">P II 3</ref> (Qualiter <term ref="#cublai-can">Cublay</term> ad obviandum illi se preparavit. Capitulum 3m.) / <ref type="witlink" target="#p-ii-4">P II 4</ref> (Qualiter pugnaverunt similiter et quomodo devictus est <term ref="#naiam">Nayam</term>. Capitulum 4m.) / <ref type="witlink" target="#p-ii-5">P II 5</ref> (De morte <term ref="#naiam">Nayam</term>. Capitulum 5m.), <ref type="witlink" target="#p-ii-6">P II 6 1-2</ref> (Qualiter <term ref="#cublai-can">Cublai</term> rex silencium Iudeis et Saracenis imposuit qui salutifere crucis vexillo exprobrare
+         presumpserant. Capitulum 6m.), <ref type="witlink" target="#va-null-61">VA LXI</ref> (Dove chomenza tuti i fati del <term ref="#gran-can">Gran Chaan</term>) / <ref type="witlink" target="#va-null-62">VA LXII</ref> (Della bataia che fo dentro el <term ref="#gran-can">Gran Chaan</term> e <term ref="#naiam">Naian</term>); <ref type="witlink" target="#v-null-39">V 39 23-30</ref> (Dela nobel zitade e del magno palazo del <term ref="#gran-can">Gran Chan</term>) / <ref type="witlink" target="#v-null-40">V 40</ref> (Chomo el <term ref="#gran-can">Gran Chan</term> andò chontra <term ref="#caidu">Gaidin</term>, e dele gran bataie che fono tra una parte e l’altra); <ref type="witlink" target="#vb-null-67">VB LXVII</ref>.</p>
+	<p>Le fonti che contribuiscono alla costruzione del capitolo I sono fondamentalmente
+         tre. Il ruolo principale è senza dubbio svolto da un esemplare perduto che doveva
+         collocarsi nello <hi rend="italics">stemma</hi> in una posizione non lontana da V (vd. i parr. 1, 3, 5, 7-8, 10, 26) e, nel contempo,
+         recare una lezione prossima a quella di F (vd. i parr. 1-5, 7-8, 10, 14, 16, 19-20,
+         26). Vari elementi ci autorizzano a credere che tale fonte vada identificata con il
+         cosiddetto «codice Ghisi»  della redazione latina Z (Z1), latore di un testo più completo di quello del toledano, in cui mancano i capp.
+         1-22 e 24 del libro II. Nella sezione centrale e finale del capitolo (parr. 10, 13,
+         15, 17-18, 21) R appare caratterizzato da una serie rilevante di aggiunte e di varianti
+         che non trovano riscontro in nessun altro ramo della tradizione poliana.<hi rend="italics">  </hi>Purtroppo, la mancanza della testimonianza di Z toledano non ci permette di stabilire
+         con certezza se si tratti di interventi arbirtrari dell’editore, oppure di materiali
+         originali risalenti al perduto Z1. Le numerose coincidenze tra R e P lungo tutto il capitolo (vd. i parr. 4-6, 8, 14-17
+         e 21-24) dimostrano che Ramusio fece ampio ricorso alla versione di Pipino. Più sporadico,
+         ma pur sempre cospicuo, appare l’apporto di VB (vd. i parr. 4-5, 9, 20-24, 26), che
+         non di rado – in particolare nei paragrafi finali – viene usato in combinazione con
+         P  (parr. 4-5, 21-24). Pressoché nullo è il contributo di L, in questa sezione fortemente
+         lacunoso. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

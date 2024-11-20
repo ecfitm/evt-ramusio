@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>R segue prevalentemente <ref type="witlink" target="#p-ii-41">P II 41 10</ref> (che presenta alcune varianti rispetto al testo delle altre fonti ramusiane e di
+         F) «In hac provincia et in duabus aliis prenominatis, scilicet <term ref="#caidu">*Caydu</term> et <term ref="#carazan">Carayam</term>, medici non sunt, sed quando quis infirmatur convocant sui magos qui ydola colunt,
+         quibus infirmus suam infirmitatem exponit […]» (vd. <ref type="witlink" target="#f-null-119">F CXIX 17-18</ref> «Et si voç di qe toutes cestes provences qe je voç ai contés ne ont mire, ce sunt
+         <term ref="#carazan">Carajan</term> et <term ref="#vociam">Vocian</term> et <term ref="#iaci">Iacin</term>, mes, quant il sunt malaides, il se font venir lor magis, ce sunt les enchantaor
+         des diables et celz qe tient les ydres. Et quant cesti magis sunt venus et les malaides
+         dient lor les maus qu’il ont»). Da un altro esemplare (Z1?), R ricava i toponimi <term ref="#vociam">Vociam</term> e <term ref="#iaci">Iaci</term>, che vanno a sostituire la lezione «et <term ref="#carazan">Carayam</term>» di P. La variante «[qualche] grande uomo», che non trova riscontro in nessun’altra
+         redazione, è quasi sicuramente un’aggiunta di Ramusio. Non si danno indizi di ulteriori
+         contatti di R con altri relatori:  <ref type="witlink" target="#l-null-98">L 98 10</ref> «In hiis provinciis, scilicet <term ref="#carazan">Caraian</term>, <term ref="#vociam">Vocian</term> et <term ref="#iaci">Iaccin</term>, non sunt medici; sed dum quis eorum infirmatur, ad eorum magos vel incantatores
+         accedunt rogantque quod de infirmo providea‹n›t. Inquirunt ergo hii tales magi de
+         modo egritudinis infirmi […]»; <ref type="witlink" target="#v-null-57">V 57 11-12</ref> «Et tute queste provinzie non àno algun miedego, zoè Charavian, <term ref="#vociam">Vonoran</term> e <term ref="#iaci">Ziache</term>; ma quando i sono infermi i fano vegnir i lor miedegi, zoè inchantadori de diavoli
+         et queli che tien le idole. Et quando questi miedegi sono vegnudi, li infermi dixeno
+         la infermitade la qual i àno […]»; <ref type="witlink" target="#vb-null-85">VB LXXXV 11-12</ref> «Questa giente non àno né usa medichi; ma se alchuno di lloro se inferma, i àno alchuni
+         incantadori che per arte diabolicha sano inchantar i spiriti, et de questi la provincia
+         n’è bene fornita. Subitto l’amallado manda per questi inchantadori e, vegnuti a lui,
+         i domandano della soa mallatia». Tutta questa parte di testo è omessa in Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

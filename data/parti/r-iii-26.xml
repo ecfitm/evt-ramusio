@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-26</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-26" n="1">
+    <head>
+      <hi rend="bold">R, III 26</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-26_1_1" n="1"> Di <term ref="#cumari">Cumari</term>. Cap. 26.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-26_2_1" n="1"> <term ref="#cumari">Cumari</term> è una provincia nell’<term ref="#india">India</term>, dalla quale si vede un poco della stella della nostra tramontana, la quale non si
+         puol vedere dalla isola della <term ref="#giava">Giava</term> fino a questo luogo, dal quale, andando in mare trenta miglia, si vede un cubito
+         di sopra l’acqua. </seg>
+      <seg xml:id="r-iii-26_2_2" n="2"> Questa contrada non è molto domestica, ma salvatica, et vi sono bestie di diverse
+         maniere, specialmente simie, di tal sorte fatte et cosí grandi che pareno huomini.
+         </seg>
+      <seg xml:id="r-iii-26_2_3" n="3"> Vi sono anchora gatti maimoni, molto differenti in grandezza et piccolezza dagli
+         altri; hanno leoni, leonpardi et lupi cervieri in grandissimo numero.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

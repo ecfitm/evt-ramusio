@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-48-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-48">
+      <note>
+	<p>L’intento ordinatore già segnalato altrove spinge Ramusio alla <hi rend="italics">reductio ad unum</hi> di alcuni passaggi che potevano risultare ripetitivi: ad es., laddove buona parte
+         della tradizione antica descrive in maniera quasi formulare, ma conservandoli ben
+         distinti, il falò dei documenti nuziali e quello dei cartigli propiziatori (vd. su
+         tutti <ref type="witlink" target="#f-null-69">F LXIX 32-35</ref> «Sachiés tout{i} voirmant que quant il sunt deus homes que le un ait eu un filz masle
+         e soit mort de quatro anç, o quant il vuelt, et un autre home ait eu une file feme
+         et soit encor morte, il font mariajes ensenble, car il donent la feme morte a l’enfans
+         mors por moiler et en font faire carte: puis celle carte ardent, et le fume que vait
+         en l’air si dient que vunt a lor filz en l’autre monde et qu’il le sevent et que se
+         tenent a mari et a moier. Il font grant noisse et n’espandent cha et la et dient que
+         ce vont a lor enfanç en l’autre monde. Et encore font un autre chouse, car il font
+         e‹n›pindre et portraire en carte homes a similitude de sers et chevaus et dras et
+         biçanz et arnois; puis les font ardoir, et dient que toutes celles couses qu’il avoient
+         fait portraire et ardre auront lor enfans en l’autre monde. Et quant il ont ce fait,
+         il se tenent por parens et mantienent lor parenté ausi bien com il fuissent vif»,
+         cui si approssimano, nella struttura e nel dettato, <ref type="witlink" target="#v-null-36">V 36 31-33</ref>, <ref type="witlink" target="#va-null-55">VA LV 41-46</ref>), Ramusio semplifica accorpando, forse ispirato dalla struttura di <ref type="witlink" target="#p-i-58">P I 58 4</ref> «Si alicuius <term ref="#tartari">Tartari</term> moritur filius qui uxorem non habuit, et alterius filia iuvencula moriatur, pater
+         defuncti pueri puellam defunctam uxorem accipit filio, puelle patre consensum prebente;
+         de hoc enim conscribi faciunt instrumentum, pinguntque in carta puerum et puellam,
+         vestes, denarios et utensilia multa et supellectilem variam; deinde instrumentum et
+         picturas igni comburunt, creduntque, diabolica cecitate seducti, quod defuncti illi
+         in alia vita ad invicem contrahant quando fumus combustarum cartarum ascendit in aera;
+         faciunt etiam, pro hac re, solemnes nuptias de quibus partes huc illucque diffundunt
+         ut sponsus et sponsa portionem suam illarum comedant nuptiarum. Ex tunc vero parentes
+         et consanguinei defunctorum sic se reputant affines effectos ac si mathematice ille
+         nupcie in veritate celebrate fuissent». Oltre a questa peculiarità strutturale, Ramusio
+         eredita da P una tessera in chiusura di pericope: «come se veramente le nozze fossero
+         state celebrate» &lt; <ref type="witlink" target="#p-i-58">P I 58 4</ref> «ac si mathematice ille nupcie in veritate celebrate fuissent». Al netto degli apporti
+         di P, il dettato ramusiano mostra numerosi punti di contatto – sintattici, lessicali
+         –  con F (ad es. R «sia mancato di tre anni <hi rend="italics">o altramente</hi>» / F «soit mort de quatro anç, <hi rend="italics">o quant il vuelt</hi>», «fanno insieme le nozze» / «il font mariajes ensenble», «et <hi rend="italics">del fumo</hi> che indi viene <hi rend="italics">dicono che </hi>[...] nell'altro mondo» / «et <hi rend="italics">le fume</hi> que vait en l’air <hi rend="italics">si dient que </hi>[…] en l’autre monde» etc.), spiegabili, al solito, con la dipendenza di R da Z1.</p>
+	<p>Ricca di informazioni eccentriche, e in qualche luogo contraddittorie rispetto al
+         testo di tradizione, è <ref type="witlink" target="#vb-null-57">VB LVII 20-23</ref> «Àno questa gente questo crudel chostumo: che se ad algun citadino morano el figiolo
+         – çovene da etade de ani .VII. in sue – el padre subito fa cerchare una garçona conveniente
+         a l’etade del puto morto e contraçe matremonio dila garçona viva con el puto morto.
+         E trageno charte di questo matremonio e con gran leticia d’etranbi i parenti de una
+         parte e dil’altra, la meschina garçona i mete nel focho et arde quella e dicono: «Vae
+         su fumo! pregamo i dii che questo matremonio sia felice nel’altro sechullo». Et arssa
+         la meschinela, tuti i parenti rimangeno in gran festa et fano de gran convivii: e
+         fato do statue, una in forma de çovene e l’altra in forma de una garçona, et entranbe
+         queste statue meteno sopra una chareta adornate quanto più richamente i pono. E tirate
+         le charete da chavalli, menano queste do statue con gran festa e giochi per tuta la
+         tera; e poi le conducono al focho et arde quelle do statue e con gran pregi et oracione
+         ai dii, che faceno quel matremonio congionto nel’altro mondo con felecitade et da
+         quell giorno in avanti tuti tieno insieme gran parentado».  Il redattore di VB potrebbe
+         avere integrato il passo con descrizioni di riti consimili attestate altrove nel libro,
+         o con informazioni desunte da altre fonti: cfr. ad es. la digressione sulle vedove
+         del <term ref="#malabar">Maabar</term>, che si sacrificano gettandosi sulla pira del marito morto (F CLXXIII 34 «Et encore voç di qe en cest roiames ha encore un autre costume: que quant un home
+         est mors et son cors se fait ardo‹i›r, sa feme se gette en feu mesme et se laise ardre
+         avec son baron. Et ceste dame qe ce font sunt mout loés des je‹n›s; e si voç di tout
+         voiremant qe maintes dames font ce que je vos ai contés»). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

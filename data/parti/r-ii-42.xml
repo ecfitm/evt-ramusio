@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-42</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-42" n="1">
+    <head>
+      <hi rend="bold">R, II 42</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-42_1_1" n="1"> Come il <term ref="#gran-can">Gran Can</term> soggiogò il regno di <term ref="#mien">Mien</term> et di <term ref="#bangala">Bangala</term>. Cap. 42.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-42_2_1" n="1"> Prima che procediamo piú oltra, narreremo una memorabile battaglia che fu nel sopradetto
+         regno di <term ref="#vociam">Vociam</term>. </seg>
+      <seg xml:id="r-ii-42_2_2" n="2"> Avenne che nel 1272 il <term ref="#gran-can">Gran Can</term> mandò uno essercito nel regno di <term ref="#vociam">Vociam</term> et <term ref="#carazan">Carazan</term>, per custodirlo et defenderlo da genti strane che lo volessero offendere, imperoché
+         fino a quel tempo il <term ref="#gran-can">Gran Can</term> anchora non havea mandato alcuno de’ suoi figliuoli al governo de’ suoi reami, come
+         dapoi vi mandò, perché sopra questo regno ordinò in re <term ref="#centemur">Centemur</term> suo figliuolo. </seg>
+      <seg xml:id="r-ii-42_2_3" n="3"> Il re veramente di <term ref="#mien">Mien</term> et <term ref="#bangala">Bangala</term> dell’<term ref="#india">India</term>, ch’era potente di genti, terre et thesoro, udendo che l’essercito d’i <term ref="#tartari">Tartari</term> era venuto a <term ref="#vociam">Vociam</term>, deliberò di volerlo combattere et scacciare, accioché piú il <term ref="#gran-can">Gran Can</term> non ardisse di mandar genti alli suoi confini. </seg>
+      <seg xml:id="r-ii-42_2_4" n="4"> Però preparò un essercito grandissimo et gran moltitudine di elefanti (perché di
+         continuo ne teneva infiniti nelli suoi regni), sopra li quali fece far alcune baltresche
+         et castelli di legno, dove stavano huomini a saettare et combattere: et in alcuni
+         vi erano da dodici et sedici che commodamente potevano combattere. </seg>
+      <seg xml:id="r-ii-42_2_5" n="5"> Et oltra di questi messe insieme gran numero di cavalli armati et fanti a piedi,
+         et prese il cammino verso <term ref="#vociam">Vociam</term>, dove l’essercito del <term ref="#gran-can">Gran Can</term> si era fermato, et quivi s’accampò con tutto l’hoste per riposarlo alquanti giorni.
+         </seg>
+      <seg xml:id="r-ii-42_2_6" n="6"> Quando <term ref="#nestardin">Nestardin</term>, ch’era capitano dell’essercito del <term ref="#gran-can">Gran Can</term>, huomo prudente et valoroso, intese la venuta dell’hoste del re di <term ref="#mien">Mien</term> et <term ref="#bangala">Bangala</term> con tanto numero di genti, temette molto, perché non havea seco piú di dodicimila
+         huomini, ma essercitati et franchi combattitori, et il detto re ne havea sessantamila,
+         et da circa mille elefanti tutti armati, con castelli sopra. </seg>
+      <seg xml:id="r-ii-42_2_7" n="7"> Costui, come savio et esperto, non mostrò paura alcuna, ma discese nel piano di <term ref="#vociam">Vociam</term> et si pose alle spalle un bosco folto et forte di altissimi arbori, con opinione
+         che se gli elefanti venissero con tanta furia che non se li potesse resistere, di
+         ritirarsi nel bosco et saettarli al sicuro. [8] Però, chiamati a sé li principali dell’essercito, li confortò che non volessero esser
+         di minor virtute di quello ch’erano stati per avanti, et che la vittoria non consisteva
+         nella moltitudine ma nella virtú di valorosi et esperti cavallieri, et che le genti
+         del re di <term ref="#mien">Mien</term> et <term ref="#bangala">Bangala</term> erano inesperte et non pratiche della guerra, nella qual non si haveano trovato,
+         come haveano fatto loro, tante volte: et però non volessero dubitar della moltitudine
+         de’ nimici, ma sperar nella peritia sua esperimentata in tante imprese, che già il
+         nome loro era non solamente alli nimici, ma a tutto il mondo pauroso et tremendo,
+         promettendoli ferma et indubitata vittoria. [9] Saputo il re di <term ref="#mien">Mien</term> che l’hoste de’ <term ref="#tartari">Tartari</term> era disceso al piano, subito si mosse et venne ad accamparsi vicino a quel de’ <term ref="#tartari">Tartari</term> un miglio, et messe le sue schiere ad ordine, ponendo nella prima fronte gli elefanti
+         et dapoi di drieto i cavalli et i fanti, ma lontani come in due ali, lassandovi un
+         gran spatio in mezzo. [10] Et quivi cominciò ad inanimare i suoi, dicendoli che volessero valorosamente combattere,
+         perché erano certi della vittoria, essendo loro quattro per uno, et havendo tanti
+         elefanti con tanti castelli che li nemici non haveriano ardire d’aspettarli, non havendo
+         mai con tal sorte di animali combattuto. [11] Et fatti sonare infiniti stormenti, si mosse con gran vigore con tutto |39r| l’hoste
+         suo verso quello d’i <term ref="#tartari">Tartari</term>, quali stettero fermi et non si mossero, ma li lassorono venir vicini al suo alloggiamento;
+         poi immediate uscirono con grande animo all’incontro. [12] Et, non mancando altro che l’azzuffarsi insieme, avenne che i cavalli de’ <term ref="#tartari">Tartari</term>, vedendo gli elefanti cosí grandi et con quelli castelli, si spaurirono di maniera
+         che cominciavano di volere fuggire et voltarsi adietro, né vi era modo che li potessero
+         retenire, et il re con tutto l’essercito si avvicinava ogn’hora piú innanti. [13] Onde il prudente capitano, veduto questo disordine sopravenutoli all’improviso, senza
+         perdersi punto prese partito di far immediate smontar tutti dei cavalli, et quelli
+         mettere nel bosco, ligandogli agl’arbori. [14] Smontati adunque andorono a piedi alla schiera di elefanti et cominciorono fortemente
+         a saettarli; et quelli ch’erano sopra li castelli, con tutte le genti del re, anchor
+         loro con grande animo saettavano li <term ref="#tartari">Tartari</term>, ma le loro freccie non impiagavano cosí gravemente come facevano quelle de’ <term ref="#tartari">Tartari</term>, ch’erano da maggior forza tirate. [15] Et fu tanta la moltitudine delle saette in questo principio, et tutte a segno d’i
+         elefanti (che cosí fu ordinato dal capitano), che restorono da ogni canto del corpo
+         feriti, et subito cominciorono a fuggire et a voltarsi adrieto verso le genti sue
+         proprie, mettendole in disordine. [16] Né vi valeva forza o modo alcuno di quelli che li governavano, che, per il dolore
+         et rabbia delle ferite et per il tuono grande delle voci, erano talmente impauriti
+         che senza ritegno o governo andavano hor qua et hor là vagabondi, et alla fine con
+         gran furia et spavento si cacciorono in una parte del bosco dove non erano li <term ref="#tartari">Tartari</term>; et quivi entrando per forza, per la foltezza et grossezza di arbori, fracassavano
+         con grandissimo strepito et rumore li castelli et baltresche che haveano sopra, con
+         ruina et morte di quelli che vi erano dentro. [17] Alli <term ref="#tartari">Tartari</term>, veduta la fuga di questi animali, crebbe l’animo, et senza dimorar punto a parte
+         a parte con grande ordine et magisterio andavano montando a cavallo et ritornavano
+         alle loro schiere, dove cominciorono una crudele et horrenda battaglia. [18] Né le genti del re manco valorosamente combattevano, perché egli in persona le andava
+         confortando, dicendoli che stessero saldi et non si sbigottissero per il caso intravenuto
+         agl’elefanti. [19] Ma li <term ref="#tartari">Tartari</term>, per la peritia del saettare, li cargavano grandemente adosso et offendevano fuor
+         di misura, perché non erano armati come li <term ref="#tartari">Tartari</term>. [20] Et poi che l’un et l’altro essercito hebbero consumate le saette, posero mano alle
+         spade et mazze di ferro, faccendo empito un contra l’altro: dove vedevasi in uno instante
+         tagliare et troncar piedi, mani, teste, et dare et recever grandissimi colpi et crudeli,
+         cadendo in terra molti feriti et morti, con tanta uccisione et spargimento di sangue
+         che era cosa spaventevole et horribile a vedere; et era tanto il strepito et grido
+         grande che le voci andavano fino al cielo. [21] Il re veramente di <term ref="#mien">Mien</term>, come valoroso capitano, arditamente in ogni parte dove vedeva il pericolo maggiore
+         si metteva, inanimando et pregando che stessero fermi et constanti, et faceva che
+         le schiere di drieto, che erano fresche, venissero inanti a soccorrere quelle che
+         erano stracche. [22] Ma, vedendo che non era possibile da fermarsi né sostener l’empito d’i <term ref="#tartari">Tartari</term>, essendo la maggior parte del suo essercito o ferita o morta, et tutto il campo pieno
+         di sangue et coperto di cavalli et huomini uccisi, et che cominciavano a voltar le
+         spalle, si misse ancho lui a fuggire con il resto delle sue genti, le quali, seguitate
+         da’ <term ref="#tartari">Tartari</term>, furono per la maggior parte uccise. [23] Questa battaglia fu molto crudele da una banda et dall’altra, et durò dalla mattina
+         fino a mezzogiorno: et li <term ref="#tartari">Tartari</term> hebbero la vittoria, et la causa fu perché il re di <term ref="#bangala">Bangala</term> et <term ref="#mien">Mien</term> non havea il suo essercito armato come quello de’ <term ref="#tartari">Tartari</term>, et similmente non erano armati gli elefanti che venivano in la prima fila, che haveriano
+         potuto sostenere il primo saettamento delli nimici, et andarli adosso et disordinarli.
+         [24] Ma, quello che piú importa, detto re non doveva andare ad assaltar li <term ref="#tartari">Tartari</term> in quell’alloggiamento c’havea il bosco alle spalle, ma aspettarli in campagna larga,
+         dove non haveriano potuto sostener l’empito de’ primi elefanti armati, et poi con
+         le due ali de cavalli et fanti gli haveria circondati et messi di mezzo. [25] Raccoltisi i <term ref="#tartari">Tartari</term> doppo l’uccisione delli nimici, andorono verso il bosco nel quale erano gli elefanti
+         per pigliarli, et trovorono che quelle genti ch’erano campate tagliavano arbori et
+         sbarravano le strade per difendersi. [26] Ma i <term ref="#tartari">Tartari</term> immediate, rotti i loro ripari, ne uccisero molti et fecero prigioni, con il mezzo
+         delli quali che sapevano il maneggiar di detti elefanti, ne hebbero dugento et piú.
+         [27] Et dal tempo della presente battaglia in qua, il <term ref="#gran-can">Gran Can</term> ha voluto haver di continuo elefanti nelli suoi esserciti, che prima non ne haveva.
+         |39v| [28] Questa giornata fu causa che ’l <term ref="#gran-can">Gran Can</term> acquistò tutte le terre del re di <term ref="#bangala">Bangala</term> et <term ref="#mien">Mien</term>, et sottomessele al suo imperio.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

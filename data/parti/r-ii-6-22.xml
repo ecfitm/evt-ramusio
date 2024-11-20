@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-6-22</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>Il testo presenta varianti notevoli rispetto al resto della tradizione, perché organizza
+         le informazioni secondo un ordine originale e reca diverse lezioni («ben ordinata
+         […] detto monte», «et fa a modo […] bestie») che non trovano un preciso riscontro
+         negli altri relatori. Alcuni dettagli suggeriscono che l’editore abbia fatto ricorso
+         in questo punto a <ref type="witlink" target="#p-ii-9">P II 9 7</ref> «Ex parte autem <hi rend="italics">aquilonari</hi> [R «verso tramontana»] iuxta palatium hoc lacuna [R «cava»] est […]. In lacunam autem
+         ingreditur fluvius». Altri elementi denunciano l’apporto di una seconda fonte: <ref type="witlink" target="#f-null-83">F LXXXIII 27</ref> «Et de l’un chant dever maistre a un lac mout grant […]» [R «una gran […] larga et
+         profonda molto»] / <ref type="witlink" target="#f-null-83">F LXXXIII 28</ref> «Et si vos di que un grant [R «non molto grande»] flun hi met […]». La struttura
+         del periodo potrebbe riflettere quella di <ref type="witlink" target="#l-null-68">L 68 6</ref> «A parte huius versus maistrum est pulcer lacus, per quem transit quoddam flumen
+         […]». Sembra escluso il ricorso a V, che reca una versione molto concisa del passo:
+         <ref type="witlink" target="#v-null-41">V 41 25</ref> «Et sono uno bello lago […]». </p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

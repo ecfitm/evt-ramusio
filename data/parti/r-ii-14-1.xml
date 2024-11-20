@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-14-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-14">
+      <note>
+	<p>Nella prima parte delle pericope («Il <term ref="#gran-can">Gran Can</term> [...] fiere»), R reca una lezione più sintetica di quella che si legge nelle sue
+         fonti che trasmettono il capitolo (L P V) e in F. Nella seconda parte (che manca,
+         peraltro, in L), il testo riflette più fedelmente il dettato della redazione francoit.,
+         sebbene vada rilevato che anche nella prima sezione ci sono vari punti di contatto
+         tra le due versioni: <ref type="witlink" target="#f-null-91">F XCI 2-5</ref> «Enchore sachiés qe le <term ref="#gran-can">Grant Sire</term> a bien leopars aseç, qe tuit sunt bon da chacer et da prendre bestes. Il ha encore
+         bien grant quantité de leus cerver [R «lupi cervieri»] que tuit sunt afaités a beste
+         prandre  [R «che prendono le bestie»] et mout sunt bien a chacher. Il ha plosors lyons
+         grandisme, greingnors aseç qe celz de <term ref="#babilonia">Babilonie</term>: il sunt de mout biaus poil et de mout biaus coleor, car il sunt tout vergés por
+         lonc noir et vermoil et blance; il sunt afaités a prandre sengler sauvajes et les
+         buef sauvajes et orses et <term ref="#asini-salvatichi">asnes sauvajes</term> et cerf et cavriolz et autres bestes. Et si voç di qu’il est mout bielle chouse a
+         regarder les feres bestes qe les lions …†… [vd. TA: «quando ’l lione le prende»] 
+         [R «quando un leone prende simili animali»] qu’il les portent [R «quali leoni il signor
+         fa portar»] sus le charethe en une cuble et ho lui a un chien petit». Non si danno,
+         invece, significative coincidenze formali tra R e <ref type="witlink" target="#v-null-43">V 43 21-22</ref> «Anchora sapiate che ’l <term ref="#gran-can">Gran Chan</term> àno molti lionpardi li quali sono molto presti a piar i anemalli, ed ezian sono molti
+         presti a piar bestie e chazarle; et oltra questi àno molti lioni, mazor cha chavalli
+         de <term ref="#babilonia">Babilonia</term>, et sono de bel cholor vergadi; et le suo’ verge sono per longo bianche e negre e
+         rosse, et sono molto ati e amaestradi a piar zengiari e buò salvadegi, e orsi, zervi
+         e chavrioli et altre bestie; ed è bella chossa a veder le fiere bestie che brancha
+         questi lioni. Et quando el <term ref="#gran-can">Signor</term> vol andar in chaza chon li lioni, li vien metudi in cheba chon uno chavriol insenbre
+         suxo chari […]».</p>
+	<p>Il ricorso ad altre fonti da parte di Ramusio non è documentato con sicurezza. R,
+         per esempio, condivide con <ref type="witlink" target="#l-null-76">L 76 1-2</ref> l’ordine con cui vengono elencati i vari tipi di selvaggina: «Habet <term ref="#gran-can">Magnus Canis</term> ferocia animalia, cum quibus venatur: scilicet leopardos, linces, et leones multo
+         maiores babilonicis qui sunt pulcherrimi. Sunt enim virgati totaliter per longum,
+         nigro rubeo et albo colore; et sunt hec animalia optime venationibus doctrinata: venantur
+         enim cum eis silvestres porcos, boves et <term ref="#asini-salvatichi">asinos silvestres</term>, ursos, cervos, capriolos [R «cingiali, buoi et asini salvatici, orsi et cervi et
+         caprioli»] et quam plura alia animalia». Non sembra invece che l’editore si sia avvalso
+         in questa pericope anche della testimonianza di <ref type="witlink" target="#p-ii-17">P II 17 1-4</ref> «Habet <term ref="#gran-can">Magnus Kaam</term> pro sue venacionis solatio leopardos multos domesticos qui ad venacionem cum ho‹m›i‹n›ibus
+         assueti sunt et pro huius venacione optimi sunt multasque bestias capiunt. Linceos
+         similiter habet ad venandum industrios. Habet etiam leones maximos et pulcherimos,
+         maiores illis qui in <term ref="#babilonia">Babilonia</term> sunt, qui in pilo pellium virgulas habent per longum coloris varii, nigri coloris
+         scilicet albi et rubei, qui similiter docti sunt cum hominibus venari et apros, ursos,
+         cervos, capreas, <term ref="#asini-salvatichi">onagros</term>, bovesque silvestres cum venatoribus capere. Quando volunt venatores regis leones
+         secum ad venacionem ducere duos ex eis in caruca deferunt, quorum quilibet habet comitem
+         canem parvulum». In VB e Z manca l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

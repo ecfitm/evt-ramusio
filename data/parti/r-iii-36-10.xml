@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-36-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>Forma dell’espressione e struttura sintattica fanno di <ref type="witlink" target="#z-null-124">Z 124 21</ref> il modello più attendibile della pericope ramusiana: «Et naves non possunt amplius
+         navigare versus meridiem ad alias insulas, nisi solum ad hanc insulam et ad insulam
+         <term ref="#zenzibar">Zanghybar</term>, quia mare curit tam velociter versus meridiem quod vix posent redire» (la redazione
+         latina rende alla lettera F CXC 11 «Et si voç di qe les nes ne puent aler plus ver midi a les autres ysle for qe a ceste
+         ysle et a celle de <term ref="#zenzibar">Çanghibar</term>, por ce qe la mer hi cort si ver midi qe a poine s’en poroient venir, e por ceste
+         achaisonç ne i vent les nes» (<hi rend="italics">sic </hi>anche V 106 9 «[…] perché le nave non puol navegar più inverso mezodì ad altre ixolle, se no a
+         questa et a quella de <term ref="#zenzibar">Zungibar</term>, perché el mar vano sì forte al mezodì che apena che i possa tornar indriedo: et
+         per questa chaxon le nave non vano più avanti»). </p>
+	<p>Si allineano sullo stesso tenore informativo: P III 39 8 «Ad hanc insulam propter mercaciones innumeras conveniunt naves multe; ad alias vero
+         insulas ultra istam ad meridiem parvus concursus navium est, nisi ad insulam Camçimbar, propter cursum velocissimum aque maris: naves enim velociter currunt illuc, sed
+         cum difficultate nimia revertuntur […]» (versione di VA CXLIX 14 «Ale altre ixolle ch’è oltra questa versso mezodì va poche nave se nnon è de quelle
+         de <term ref="#zenzibar">Zangibar</term>, per chaxion che ’l mar chore sì forte verso mezodì che lle nave a gran pena pò tornar
+         indriedo»); L 177 10 «Ultra hanc insulam et insulam <term ref="#zenzibar">Çangibar</term> versus meridiem ad alias insulas nulle naves accedere audent: in tantum enim impetuose
+         mare continuo versus meridiem currit quod reverti nullo modo possent»; VB CLX 11 «Le nave che qui chapitano non ardisse andar più oltra verso meçodì alle altre isolle,
+         però che, per el gran corso dele aque verso meçodì, i non poriano tornar adrieto».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

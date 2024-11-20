@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-5" n="1">
+    <head>
+      <hi rend="bold">R, I 5</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-5_1_1" n="1"> |5r| Della provincia di <term ref="#zorzania">Zorzania</term> et de’ sui confini sopra il mar Maggiore et sopra il mar Hircano, hora detto di Abaccú, dove è quel passo stretto sopra il qual <term ref="#alessandro">Alessandro</term> fabricò le <term ref="#porta-di-ferro">Porte di Ferro</term>; et del miracol della fontana del monasterio di San Lunardo; della città di <term ref="#tiflis">Tiflis</term>. Cap. 5.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-5_2_1" n="1"> In <term ref="#zorzania">Zorzania</term> è un re che in ogni tempo si chiama David Melich, che in lingua nostra si dice re David; una parte della qual provincia è soggetta al re de’ <term ref="#tartari">Tartari</term>, et l’altra parte (per le fortezze che l’ha) al re <term ref="#david">David</term>. </seg>
+      <seg xml:id="r-i-5_2_2" n="2"> In questa provincia tutti i boschi sono di legni di bosso, et guarda duoi mari, uno
+         d’i quali si chiama il <term ref="#mar-maggiore">mar Maggiore</term>, quale è dalla banda di tramontana, l’altro di Abaccú verso l’oriente, che dura nel suo circuito per duomila et ottocento miglia et è come
+         un lago, perché non si mischia con alcun altro mare. </seg>
+      <seg xml:id="r-i-5_2_3" n="3"> Et in quello sono molte isole con belle città et castelli, parte dele qual sono habitate
+         dalle genti che fuggirono dalla faccia del <term ref="#gran-can">Gran Tartaro</term>, quando l’andava cercando pel regno o vero per la provincia di <term ref="#persia">Persia</term> qual città et terre si reggevano per commune, per volerle destruggere: et le genti
+         fuggendo si redussero a queste isole et ai monti, dove credevano star piú sicuri;
+         ve ne sono ancho di deserte di dette isole. </seg>
+      <seg xml:id="r-i-5_2_4" n="4"> Detto mare produce molti pesci, et specialmente storioni, salmoni alle bocche d’i
+         fiumi et altri gran pesci. </seg>
+      <seg xml:id="r-i-5_2_5" n="5"> Mi fu detto che anticamente tutti i re di quella provincia nascevano con certo segno
+         dell’aquila sopra la spalla destra; et sono in quella belle genti et valorose nell’arme,
+         et buoni arcieri et franchi combattitori in battaglia; et sono christiani che osservano
+         la legge de’ <term ref="#greci">Greci</term>, et portano i capelli corti a guisa d’i chierici di Ponente. </seg>
+      <seg xml:id="r-i-5_2_6" n="6"> Questa è quella provincia in la quale il re <term ref="#alessandro">Alessandro</term> non poté mai intrare quando volse andare alle parti di tramontana, perché la via
+         è stretta et difficile, et da una banda batte il mare, dall’altra sono monti alti
+         et boschi che non vi si può passar a cavallo: et è molto stretta intra il mare et
+         i monti, di lunghezza di quattro miglia, et pochissimi huomini si difenderebbono contra
+         tutto il mondo. </seg>
+      <seg xml:id="r-i-5_2_7" n="7"> Et per questo <term ref="#alessandro">Alessandro</term> appresso a quel passo fece fabricar muri et gran fortezze, acciò che quelli che habitano
+         piú oltra non li potessero venire a far danno: onde il nome di quel passo dipoi si
+         chiamò <term ref="#porta-di-ferro">Porta di Ferro</term>, et per questo vien detto <term ref="#alessandro">Alessandro</term> haver serrato i <term ref="#tartari">Tartari</term> fra duoi monti. [8] Ma non è vero che siano stati <term ref="#tartari">Tartari</term>, perché a quel tempo non erano, anzi fu una gente chiamata <term ref="#cumani">Cumani</term>, et di altre generation et sorti. [9] Sono anchora in detta provincia molte città et castelli, le quali abondano di seda
+         et di tutte le cose necessarie; quivi si lavorano panni di seda et d’oro, et vi sono
+         <term ref="#astorre">astori</term> nobilissimi, che si chiamano “<term ref="#avigi">avigi</term>”. [10] Gli habitatori di questa regione vivono di mercantie et delle sue fatiche. [11] Per tutta la provincia sono monti et passi forti et stretti, di modo che li <term ref="#tartari">Tartari</term> non gli hanno mai potuto dominare del tutto. [12] Qui è un monasterio intitolato di San Lunardo de’ monachi, dove vien detto esser questo miracolo, che essendo la chiesa sopra un
+         lago salso che circunda da quattro giornate de camino, in quello per tutto l’anno
+         non appareno pesci, salvo dal primo giorno di quaresima fino alla vigilia di Pasqua
+         della resurrettione del Signore, che ve n’è abondantia grandissima; et fatto il giorno
+         di Pasqua, piú non appariscono. [13] Et chiamasi il lago <term ref="#geluchalat">Geluchalat</term>. [14] In questo mare di Abaccú mettono capo <term ref="#herdil">Herdil</term>, <term ref="#geichon">Geichon</term> et <term ref="#cur">Cur</term>, <term ref="#araz">Araz</term> et molti altri grandissimi fiumi; è circondato da monti, et novamente i mercatanti
+         genovesi han cominciato a navicare per quello, et di qui si porta la seda detta “<term ref="#ghellie">ghellie</term>”. [15] In questa provincia è una bella città detta <term ref="#tiflis">Tiflis</term>, circa la quale sono molti castelli et borghi, et in quella habitano christiani,
+         Armeni, Giorgiani et alcuni Saraceni et Giudei, ma pochi. [16] Qui si lavorano panni di seda et di molte altre et diverse sorte; gli huomini vivono
+         dell’arte loro, et sono soggetti al gran re de’ <term ref="#tartari">Tartari</term>. [17] Et è da sapere che noi solamente scriviamo delle principal città delle provincie
+         due o tre, ma ve ne sono de molte altre, che saria lungo scriverle per ordine se non
+         havessero qualche spetial cosa maravigliosa: ma di quelle che habbiam pretermesse,
+         che si ritrovano ne’ luoghi preditti, piú pienamente di sotto si dichiarano. [18] Poi che s’ha detto de’ confini dell’<term ref="#armenia">Armenia</term> verso tramontana, hora diciamo degl’altri che sono verso mezzodí et levante.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

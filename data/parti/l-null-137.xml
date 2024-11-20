@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-137</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-137">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 137</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-137_2_1" n="1"> Ab hac civitate <term ref="#zengian">Cianscian</term> tribus dietis per loca habitata et pulcra – ubi sunt artiste multi |18bis| et mercatores,
+         qui sunt <term ref="#idolatri">ydolatre</term> et sub dominio de <term ref="#quinsai">Quinsay</term> (et habent victualia habundanter et venationes bonas) – tunc est pulcra et magna
+         civitas dicta <term ref="#gieza">Cugiu</term>, cuius gentes sunt <term ref="#idolatri">ydolatre</term>. </seg>
+      <seg xml:id="l-null-137_2_2" n="2"> Et est hec ultima civitatum que sunt sub dominio de <term ref="#quinsai">Quinsay</term>, quia tunc incipit aliud ex .IX. vicinis regnis provincie de <term ref="#mangi">Mangi</term>, quod dicitur <term ref="#fugiu">Fugiu</term>. </seg>
+      <seg xml:id="l-null-137_2_3" n="3"> Per totam provinciam de <term ref="#mangi">Mangi</term> non inveniuntur arietes sed boves, et capras et porcos habent multos.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

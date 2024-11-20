@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-33-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-33">
+      <note>
+	<p>Il dettato di R ribadisce <hi rend="italics">verbatim</hi> <ref type="witlink" target="#z-null-28">Z 28 7-8</ref> «Homines vivunt de artibus et mercimoniis. Ipsi vero hunc modum observant: nam si
+         mulier virum habeat, et ipsum virum contingat ad alium locum accedere ultra .XX. dies
+         mansurum, mulier secundum eorum consuetudines statim alium virum accipere potest,
+         si vult; et homines, quocumque vadant, similiter uxorantur» (nel sintagma «brutto
+         costume», l’aggettivo è licenza – moraleggiante – di Ramusio). Z rispecchia nella
+         sostanza <ref type="witlink" target="#f-null-54">F LIV 7-9</ref> «Il vivent de mercandies et d’ars. Et voç di qu’il ont un tel costumes com je voç
+         dirai: car quant une feme a un mari, et il se part d’elle por aler en voiajes et que
+         doie demorer da .XX. jors en sus, la feme, tant tost que son mari est parti por aler
+         en voiajes, elle prant mari, et ce puet elle bien faire por lor uçance. Et les homes,
+         la onques il aillent, prenent fames ausint» – cui nulla aggiunge se non una più esplicita
+         dichiarazione dell'opzionalità, per le donne, del nuovo matrimonio («alium virum accipere
+         potest, <hi rend="italics">si vult</hi>»).</p>
+	<p>Sostanzialmente conformi a F sono pure: <ref type="witlink" target="#l-null-49">L 49 5-6</ref> «Et sunt mercatores homines et artiste. Et habent talem consuetudinem. Si quis, habens
+         uxorem, iverit in viagium aliquod ita quod possit reverti usque ad .20. dies, statim
+         cum maritus recedit ex terra ‹uxor› licite alteri se maritat; vir eciam, ubicumque
+         fuerit, aliam summit uxorem»; <ref type="witlink" target="#v-null-29">V 29 2-3</ref> «[…] et questa zente vive de arte e de marchadantia. Et sono una uxanza in quelo
+         paexe: quando una femena sono maridada e che ’l suo marido se parta per andar in qualche
+         solazo, ch’el abia a star vinti zorni, la femena de prexente quando l’omo se parte
+         de chaxa ela puol tuor un altro marido, et questo sono segondo la lor leze; et li
+         omeni inn ogni luogo che li va se puol maridar, sì che infra lor sono tal uxanza»
+         (la lezione erronea <hi rend="italics">solazo</hi> dipende forse dalla cattiva interpretazione paleografica di un francoit. <hi rend="italics">voiajes</hi> letto *<hi rend="italics">solajes</hi>); <ref type="witlink" target="#vb-null-37">VB XXXVII 4</ref> «Viveno i abitanti per la maor parte de marchadantie e mestieri et àno fra loro questo
+         dicreto, che se alchuno homo che abia moglie vada in alchuno viaço, per stancia de
+         dì .XX. e ll’è licito alla moglie prendere uno alltro marito e per simel al marito
+         prender alltra moglie». Caratteristico, invece, di <ref type="witlink" target="#p-i-42">P I 42 4</ref> è un sottile moralismo (vd. «Est autem in provincia <term ref="#peym">Pein</term> consuetudo talis ut, si quispiam habens uxorem ad partes alias quacumque ex causa
+         se transferat, ultra diem vicesimum moraturus, post illius discessum uxori licitum
+         est, illo relicto, alteri nubere; vir etiam post discessum uxoris aliam liciter ducere
+         potest uxorem, iuxta errorem in ea patria consuetum»), riconoscibile nell’accentuazione
+         delle responsabilità femminili (<hi rend="italics">illo relicto</hi>, <hi rend="italics">post discessum uxoris</hi>) e, sul piano linguistico, nella traduzione connotata di <hi rend="italics">uxanza</hi> (vd. <ref type="witlink" target="#va-null-41">VA XLI 7</ref> «Et è lizita cossa, sechondo la sua uxanza, che l’omo che va in viazo può tuor moier
+         s’el vuol tuore») con <hi rend="italics">error consuetus</hi>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

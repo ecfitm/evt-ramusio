@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-III-49</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-iii-49">
+    <head>
+      <hi rend="bold">P, III 49</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-iii-49_2_1" n="1"> In finitimis partibus regni <term ref="#tartari">Tartarorum</term> immediate superius memorati, regio alia est in extremis habitacionibus septemtrionalis
+         plage, que <term ref="#regione-delle-tenebre">Obscuritas</term> nuncupatur pro eo quod, sole ibi non apparente maiori anni tempore, ibi tenebrosus
+         est aer in crepusculi modum. </seg>
+      <seg xml:id="p-iii-49_2_2" n="2"> Sunt autem regionis illius homines pulcri magni et
+         corpulenti, sed palidi sunt valde. </seg>
+      <seg xml:id="p-iii-49_2_3" n="3"> Regem non habent neque principem cuius sint
+         dictioni suditi, sed incultorum morum homines sunt bestialiterque viventes. </seg>
+      <seg xml:id="p-iii-49_2_4" n="4"> <term ref="#tartari">Tartari</term> vero qui huiusmodi hominibus sunt affines, sepe regionem illam obscuram invadunt:
+         ipsorum animalia et bona diripiunt multaque illis inferunt dampna; quia vero propter
+         aeris caliginem ad propria postmodum redire nescirent, equas pullos habentes equitant
+         earumque pullos faciunt in introitu regionis a custodibus detineri, cumque capta in
+         tenebris preda ad regionem lucis volue|91a|rint regredi, equabus suis frena laxantes,
+         ipsas libere quo volunt ire permittunt. Eque autem inhiantes ad filios locum ubi eos
+         dimiserant repetunt cessores suos quo redire non noverunt reducentes. </seg>
+      <seg xml:id="p-iii-49_2_5" n="5"> Huius regionis
+         incole capiunt in copia magna hermelinos, varios, herculinos, vulpes et alia huiusmodi
+         animalia habentia pelles admodum delicatas; deferunt pelles ad lucis terras finitimas,
+         ubi de eis faciunt lucra magna.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

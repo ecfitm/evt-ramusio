@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-19-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-19">
+      <note>
+	<p>Omettono il nome del sovrano P III 22 2-3 «Insula hec regem ditissimum habet qui nulli tributarius est. Homines insule <term ref="#idolatri">ydolatre</term> sunt […]» (come l’antigrafo VA CXXXVI 8, che nel relatore quattrocentesco sposta l’informazione in posizione successiva rispetto
+         a quella vulgata: «I àno uno re rechisimo, che non dà trabuto a niuno» – da VA viene
+         poi il fatto che P sposta alla pericope successiva l’informazione sull’idolatria degli
+         indigeni), e L 159 3 «Adest hic rex, nemini subiectus, cuius gentes sunt <term ref="#idolatri">ydolatre</term>».</p>
+	<p>Gli altri relatori si allineano (al netto della transizione iniziale) alla vulgata
+         stabilita da F CLXXII 4 «Or voç conteron des fait de ceste ysle. Ceste isle ont roi, qi est apellés <term ref="#sendernaz">Sendemain</term>. Il sunt <term ref="#idolatri">idules</term>; il ne font trëu a nulz […]»: <ref type="witlink" target="#z-null-106">Z 106 5-6</ref> «Ista insula habet regem qui vocatur Sendernam. Ipsius gentes <term ref="#idolatri">adorant ydola</term> et nulli redunt tributum»; VB CXLII 3 «Questa isolla à re per si el qualle se chiama <term ref="#sendernaz">Sendemain</term> et sono <term ref="#idolatri">idolatrii</term>; non rende tributo ad alchuno […]». V 90 3 introduce per inerzia il «<term ref="#gran-can">Gran Chan</term>»: «Questa ixola àno uno re, el qual sono chiamato <term ref="#sendernaz">Sandrean</term>; la zente de questa adora le idolle; et non dano trabuto al <term ref="#gran-can">Gran Chan</term> […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

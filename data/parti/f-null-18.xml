@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-18">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XVIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-18_1_1" n="1"> Ci devise coment messire Nicolau e mesere Mafeu e messier March se partirent dau
+         <term ref="#gran-can">Grant Kaan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-18_2_1" n="1"> Et quant le <term ref="#gran-can">Grant Kan</term> voit que meisere Nicolau et mesere Mafeu et meser March se doient partir, il les
+         fait venir tuit et trois devant soi et lor done deus tables con |8d| comandamant qu’il
+         fuissent franc por toute sa tere et, laonques il ailarent, deusent avoir la despense
+         por elç et por lor mesnee. </seg>
+      <seg xml:id="f-null-18_2_2" n="2"> Et encharge elç ‹l›’enbasee a l’apostoille et au roi
+         de Françe et au roi d’Espagne et aus autres roi de crestenté. </seg>
+      <seg xml:id="f-null-18_2_3" n="3"> Puis fist aparoiller
+         .XIIII. nes, les quelç avoit chascune quatre arbres et maintes foies aloient a .XII.
+         voiles: et voç poroie conter bien conmant, mes, por ce que trop{o} seroit longaine
+         matere, ne le voç mentovrai a cestui po‹i›nt. </seg>
+      <seg xml:id="f-null-18_2_4" n="4"> Et quant les nes furent aparoillés,
+         les trois baron et la dame et meser Nicolau et meser Mafeu et meser Marc pristent
+         conjé au <term ref="#gran-can">Grant Kan</term> et se recogent en les nes a mout grant gent. Et le <term ref="#gran-can">Chan</term> fist elz doner la despence por .X. anç. </seg>
+      <seg xml:id="f-null-18_2_5" n="5"> Et qe voç en diroi? Il se mistrent en
+         la mer et najerent bien trois mois, tant k’il vindrent a une ysle, qui est ver midi,
+         ki a non <term ref="#giava">Java</term>, en la quel ysle a maintes merveues couses les quelç voç conteroi en ceste livre.
+         </seg>
+      <seg xml:id="f-null-18_2_6" n="6"> Puis se partirent de cel isle et voç di qu’il najerent por la mer de <term ref="#india">Indie</term> bien .XVIII. mois avant ke il fuissent venus la ou il volient aler et trovent mantes
+         grant mervoiles qe encore le voç conteron en ce{l} livre. Et quant el furent la venu,
+         il trovent qe <term ref="#argon">Argon</term> estoit mors, dont la dame fu doné a <term ref="#casan">Caçan</term>, le filz <term ref="#argon">Argon</term>. </seg>
+      <seg xml:id="f-null-18_2_7" n="7"> Et voç di san fail que quant il entrarent es nes il furent |9a| bien .VIc. persones sanç le mariners: tuit morurent for solemant .XVIII. [9] Il treuvent ke
+         la seingnorie d’<term ref="#argon">Argon</term> tenoie <term ref="#chiacato">Chiato</term>. I’les recomandent la dame et firent toute lor enbasee et lor mesajarie. [10] Et
+         quant mesier Nicolao et meser Mafeu et mesere Marc ont faites toutes la biçong‹n›e
+         de la dame et les mesajerie ke le <term ref="#gran-can">Grant Kan</term> lor avoit enchargies, il pristrent conjé et se partirent et se mistrent a la voie.
+         [11] Et si sachiés tout voiramant qe <term ref="#chiacato">Achatu</term> done a celz trois mesajes dou <term ref="#gran-can">Grant Kan</term>, ce furent meser Nicolau et mesere Mafeu et meser Marc, .IIII. table d’or ‹dou› comandament:
+         les deus de gerfauc et le une de lion et l’autre estoit plaine, ke disoient en lor
+         letre qe cesti trois mesajes fuissent honorés et servi por tout sa tere comme son
+         cors meesme, et qe chevalz et toute despense et toute escorte fuisent lor doné. [12]
+         Et certes ensi fu fait, car il ont por tot sa tere chevalç et despense et toutes couses
+         biçognables, bien et largemant, car je voç di san faille qe mantes foies lor estoit
+         donés .CC. homes a chevalz, et plus et moin selon que b{r}içongnoit por lor escordre
+         et por aler seur de une tere ad autre, et ce estoit bien biçonç por ce que <term ref="#chiacato">Acatu</term> n’estoit lige seingnor et por ce les jens ne s’estudient de ne fer maus ausi com
+         il feistent se il aü|9b|sent seingnor lige. [13] Et encore voç di un’autre chouse
+         ke bien fait a mentovoir por le onor{e} de cest trois mesajes, car je voç di tout
+         voiramant qe meser Mafeu et meser Nicolao et meser Marc on‹t› si grant segnorie con
+         jeo vos dirai: car sachiés ke le <term ref="#gran-can">Grant Kan</term> se fioit tant d’elç et lor voloit si grant bien qu’il lor fie la roine Cocacin et, encor, fie la fille au roi dou <term ref="#mangi">Mangi</term>, qu’il le deusent mener ad <term ref="#argon">Argon</term>, le sire de tous le Levant. [14] Et il ensi le font, car il le moinent por la mer
+         ensi con je voç ai contés en ariers con tantes jens et con si grant despense. [15]
+         Et si voç di qe cest .II. grant dames estoient en la ma‹s›naies de cesti .III. mesajes,
+         car il le fasoient sauver et guarder ‹com› ce ele feussent lor files; et les dames,
+         que mout estoient jeune et belle, tenoient cesti trois por lor pere, et ensint les
+         obeient. Et cesti trois les mestrent en les mainç de lor baron. [16] Et si voç di
+         con toute verité que la roine Cocacin, que feme a <term ref="#casan">Casan</term> est que orendroit rengne, son baron <term ref="#casan">Casan</term> et elle vuelt si grant bien as trois mesajes qu’il n’est chouse que elle ne feisse
+         por elç come sien peres meesme, car sachiés ke quant cesti trois mesajes se partirent
+         de elle por retorner en lor païs, que ele lerme de pitié por lor departiment. </seg>
+    </p>
+    <p n="3"/>
+  </div>
+</body>
+</text>
+     </TEI>

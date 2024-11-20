@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-44-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-44">
+      <note>
+	<p>La presenza del lemma «ventiere» – «[…] torri di mattoni, suddivise all’interno in
+         compartimenti tubolari: aspirano l’aria dall’alto e la immettono nelle abitazioni»
+         (Barbieri 1998, p. 450 nota 1) – garantisce che l’antigrafo di Ramusio fosse nuovamente
+         <ref type="witlink" target="#z-null-131">Z 131 4-5</ref> «Ibi intensus calor est, et propter intensum calorem ordinaverunt domus eorum ad
+         recolligendum ventum, quia ab illa parte unde ventus flat, apponunt venterias, et
+         intrare faciunt ventum in domos eorum. Et hoc fatiunt quia non valerent intensum calorem
+         suffere qui ibi est» (resa fedele di F CXCVII 3 «Il hi a molt grant chalor, e, por le grant chalor q’il hi a, il ont ordree lor maison
+         a ventier, por recoire le vent, car, de cel part dont le vent vente, et il li metent
+         le ventier e font aler le vent en lor maison. E ce font il por ce que il ne poent
+         sofrir le grant calor qui hi a»).</p>
+	<p>Gli altri relatori omettono il lemma: L 187 4 «Est eciam hic tantus calor quod, nisi artificialiter per eorum domus ventum transire
+         facerent, vix quis vivere posset»; V 113 2 «[…] e là sono uno gran chaldo, perché el <term ref="#soldan">Soldan</term> àno fabrichado le suo’ chaxe le qual archoie el vento, perché da quella parte dove
+         el vento vien àno alguni muri che fano andar el vento in le suo’ chaxe: et questo
+         fano per el gran <term ref="#soldan">Soldan</term> che non puol sofrir el chaldo»; VB CLXIX 2-3 «[…] et è paese molto chaldo. Àno sì ordenade le suo’ stancie che con suo’ conduti
+         et incegni i core el vento, e quello se reduse nelle chase e nele chamere dove a lloro
+         piace; alltramente apena che per el chaldo i podesseno viver».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

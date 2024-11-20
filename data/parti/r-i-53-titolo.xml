@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-53-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-53">
+      <note>
+	<p><ref type="witlink" target="#f-null-73">F LXXIII 15-23</ref> (Ci devise de la grant provence de <term ref="#tenduch">Tenduc</term>); <ref type="witlink" target="#l-null-64">L 64 7-13</ref> (De provincia <term ref="#tenduch">Tenduc</term>); <ref type="witlink" target="#p-i-65">P I 65 4</ref> (De provincia <term ref="#tenduch">Tenduch</term> et <term ref="#og-et-magog">Og et Magog</term>, et civitate <term ref="#cianganor">Cyagamor</term>) / <ref type="witlink" target="#p-i-65">P I 65 6-8</ref> (De provincia <term ref="#tenduch">Tenduch</term> et <term ref="#og-et-magog">Og</term> et <term ref="#og-et-magog">Magog</term>, et civitate <term ref="#cianganor">Cyagamor</term>), <ref type="witlink" target="#va-null-59">VA LIX 12-19</ref> (De <term ref="#cianganor">Ciachamaor</term>, dove se truova de zinque mainiere de grue; et altre cosse); <ref type="witlink" target="#v-null-38">V 38 13-20</ref> (Dela provinzia de <term ref="#egrigaia">Argigaian</term> e dela zitade de <term ref="#tanguth">Trangut</term>); <ref type="witlink" target="#vb-null-62">VB LXII 8-9</ref>; <ref type="witlink" target="#vb-null-63">VB LXIII</ref>; Z 41 13-22.</p>
+	<p>Traendo ispirazione dalla struttura di VB, Ramusio suddivide in tre unità (capp. 52-54)
+         il lungo capitolo che F e la restante tradizione dedicano alla provincia di <term ref="#tenduch">Tenduc</term>. Come il precedente, anche questo capitolo traduce Z <hi rend="italics">verbum de verbo</hi>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-23-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-23">
+      <note>
+	<p>Ramusio riduce alla sostanza un intreccio ricco in dettagli nel resto della tradizione,
+         e così riassumibile: (1) il re cerca di convincere il figlio che lo attende un futuro
+         da signore assoluto (<ref type="witlink" target="#z-null-111">Z 111 8-9</ref> = F CLXXVII 6; V 95 5-6; manca in VB CXLVII) e patisce il suo rifiuto al regno (<ref type="witlink" target="#z-null-111">Z 111 10-11</ref> = F CLXXVII 7; V 95 6-7 ricorre al melodramma: al rifiuto il re «[…] ge disse gran inzuria […]»; abbrevia
+         VB CXLVII 4); (2) il re cerca di sedurre collocandolo in un palazzo colmo di fanciulle pronte
+         a soddisfare ogni suo piacere (<ref type="witlink" target="#z-null-111">Z 111 10-17</ref> = F CLXXVII 8-9; in VB 147 4-5 il re promette «[…] a quella che prima savesse indur el fiollo a çaser con lie, quella
+         seria sua moglie e raina»; in V 95 8-10 sono i <hi rend="italics">baroni</hi> a consigliare al re l’uso delle fanciulle: «Et ziò vedendo, molti baroni disse al
+         re se li piaxeva i farave sì fata chosa, che ’l fiol se achosterave ale chosse mondane
+         e ch’el torave la chorona del reame. Disse lo re ch’el farano zo che li chomanderano;
+         et elli disse: “Voi lo farete meter in uno palazo, et sì li darete in chonpagnia algune
+         donzele belle che se trova entro el reame […]”»); (3) ma il giovane si ostina nella
+         castità e nella vita santa (<ref type="witlink" target="#z-null-111">Z 111 18-19</ref> = F CLXXVII 9; V 95 11; VB CXLVII 5). </p>
+	<p>L 160 3 offre un resoconto accostabile a R solo per la medesima tensione alla <hi rend="italics">brevitas</hi>: «Fuit enim hic filius potentis cuiusdam regis et solus, qui in tantum mundana contempsit
+         quod eciam renuntiavit regnum, cum de iure patri succedere debuisset. Cum rex, valde
+         dolens de unico filio suo successore regni, cogitavit ipsum deliciis et maxime venereis
+         solaciis permutare (domicellas virgines et pulcherrimas omnibus eius secretis deputando
+         serviciis), et cum hic talibus corrumpi non posset, sed semper in sua bona opinione
+         ardentius permaneret […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-36-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>Ramusio si attiene al testo di Z, con minime varianti: Z 53 6-7 «Omnes vero isti tres fratres reges fuerunt, et habebat quilibet in parte sua teras
+         multas et magnas, et multum thesaurum, quia pater eorum fuerat valde potens et dives.
+         Et <term ref="#gran-can">Magnus Can</term> cepit istud regnum et destruxit istos reges tres, retinens regnum per se». Da rilevare
+         che la lezione «destrusse» ricorre anche in V 55 3 «[…] et questi tre fioli de questa fono re, et zaschaduno ebe gran tere perché el
+         padre de quelli iera stado molto possente, et aveva asà da spender; et el <term ref="#gran-can">Gran Chan</term> branchò questo reame e destrusse questi tre re, e puo’ tene questo reame per lui».
+         Si tratta di una lezione che isola Z V (e R) dal resto della tradizione. F – che per
+         il resto risulta molto vicino in lezione a V – e altre famiglie della tradizione (VA,
+         TA, ecc.) recano forme equivalenti a “diseredare”: <ref type="witlink" target="#f-null-113">F CXIII 5-6</ref> «Et vos di que tuit e trois cesti filz a celui roi furent rois et chascun avoit grans
+         terres et d’espendre aseç, car lor pere estoit mout poissant et riches. Et le <term ref="#gran-can">Grant Kan</term> prist cest roiame et deserite cesti trois rois et tient le roingne por soi» (vd.
+         pure <ref type="witlink" target="#va-null-92">VA XCII 4</ref>, TA 113 5).</p>
+	<p>Gli altri relatori compendiano notevolemente il testo (<ref type="witlink" target="#p-ii-35">P II 35 3</ref> «Magnus autem <term ref="#gran-can">Kaam</term> civitatem conquisivit et regnum per hunc modum […]»; <ref type="witlink" target="#vb-null-80">VB LXXX 2</ref>«[…] e per le divisiun loro fo prexa et segnoregiata per el segnor <term ref="#prete-gianni">Presto Çane</term>»), o lo omettono del tutto (L).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

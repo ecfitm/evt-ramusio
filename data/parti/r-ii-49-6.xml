@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-49-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-49">
+      <note>
+	<p>In questo punto è molto forte la vicinanza di R a <ref type="witlink" target="#vb-null-92">VB XCII 8</ref> «La natura dêleone è cerchare qualche alboro per apoço, açò i cani non i possa andar
+         da drieto ma che tuti doi i stia in faça; e però passo paso se ne va, né per algun
+         modo coreria perché non fia tegnuto êleone tema […]». Le parti aggiuntive che distinguono
+         R da VB («veduti i cani e conoscendoli», «tanta è la sua superbia e altezza d’animo»)
+         sono con ogni versosimiglianza delle aggiunte di Ramusio. </p>
+	<p>La versione che si legge nelle altre redazioni è molto diversa: <ref type="witlink" target="#p-ii-49">P II 49 7</ref> «[…] leo vero propter latratum metuit ne forte canes alii vel homines provocentur
+         ad eum, ideoque divertit sine cursu tamen; cum vero videt arborem grossam, posteriora
+         sua ad stipitem arboris appodiat ne ibi morderi possit a canibus et faciem suam ad
+         canes dirigit […]»; <ref type="witlink" target="#v-null-62">V 62 9</ref> «[…] e lo lion per el remor dî chani tendeno d’andar ad uno alboro alo qual el se
+         possa apuzar, azò ch’el mostra el volto ai chani […]» (vd. <ref type="witlink" target="#f-null-129">F CXXIX 11</ref> «Et qe voç en diroie? Le lion doute mout por le grant remor qe font les quienz et
+         adonc se met a la voie por trover aucun arbre ou il se poisse apoier por moustre‹r›
+         le vix a les chien […]»). In L e Z tale parte è omessa.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

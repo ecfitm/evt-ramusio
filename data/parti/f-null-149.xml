@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-149</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-149">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXLIX</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-149_1_1" n="1"> Ci devise de la cité de <term ref="#tinguigui">Tinghingui</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-149_2_1" n="1"> Quant l’en se part de la cité de <term ref="#cinghianfu">Cinghianfu</term>, il ala trois jornee ver ys{c}eloc, toutes foies trovant cités et castiaus aseç de
+         grant mercandies e de grant ars. </seg>
+      <seg xml:id="f-null-149_2_2" n="2"> Il sunt tuit <term ref="#idolatri">ydres</term> et sunt au <term ref="#gran-can">Grant Kan</term>, et ont monoie de carte. </seg>
+      <seg xml:id="f-null-149_2_3" n="3"> Et a chief de trois jornee, adonc treuve l’en la cité
+         de <term ref="#tinguigui">Tinghingui</term>, que mout est grant et noble. </seg>
+      <seg xml:id="f-null-149_2_4" n="4"> Et les jens |65c| sunt <term ref="#idolatri">ydres</term> et sunt au <term ref="#gran-can">Grant Kaan</term>; lor monoie est de carte; il vivent de mercandie e d’ars. Il hi a soie asez: il funt
+         dras dorés et de soie e de maintes faite. Il ont chacejonz et venejonz aseç, e des
+         bestes e de osiaus; il ont grant abondance de toutes couses de vivre, car mout est
+         planteuse tere. </seg>
+      <seg xml:id="f-null-149_2_5" n="5"> Et si vos dirai une mauvese chouse qe celz de celz cité firent
+         e comant il l’acat‹er›ent chieremant. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-149_3_1" n="1"> Il foi voir qe quant la provence dou <term ref="#mangi">Mangi</term> se pris por les homes dou <term ref="#gran-can">Grant Kan</term> et qe <term ref="#chinsanbaian">Baian</term> en estoit chief, il avint qe ceste <term ref="#chinsanbaian">Baian</term> envoié une partie de sez jens, qe Alani estoient, qe estoient cristienz, a ceste
+         cité por prandre. </seg>
+      <seg xml:id="f-null-149_3_2" n="2"> Or avint qe cesti Alani la pristent et entrerent dedens la cité
+         et hi treuvent si buen vin qe il en bevent tant qu’il furent tuit evries, si qe se
+         dormirent en tel mainere qe hil ne sentoient ne bien ne maus. [9] Et quant les homes
+         de la cité virent qe celz qe l’avoient pris estoient tiel atornés qe il senbloient
+         homes mors, il ne font deleament, mes tout maintenant en celle nuit les occirent tuit
+         qe ja un seul n’en escanpe. [10] Et quant <term ref="#chinsanbaian">Baian</term>, le sire de la grant host, soit qe celz de ceste cité avoient ocis sez homes si desloiaument,
+         il hi mande de sez jens aseç, e la pristent a force. Et si vos di toit voiremant qe,
+         puis qu’il l’ont |65d| prise, qu’il li ocistrent a le spee. [11] Et en tiel mainere,
+         com vos avés oï, furent tant homes mors a ceste cité. </seg>
+    </p>
+    <p n="4"/>
+  </div>
+</body>
+</text>
+     </TEI>

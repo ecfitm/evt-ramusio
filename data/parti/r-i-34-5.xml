@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-34-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-34">
+      <note>
+	<p>Nella prima parte della pericope («Da <term ref="#peym">Peym</term> […] arena») Ramusio – di propria iniziativa, o sulla scorta di uno dei modelli –
+         riduce notevolmente le ridondanze caratteristiche di buona parte della tradizione:
+         vd. <ref type="witlink" target="#f-null-55">F LV 6</ref> «Et toute ceste provence est sablun, et de <term ref="#cotam">Cotan</term> a <term ref="#peym">Pen</term> est ausi sablon, et da <term ref="#peym">Pem</term> ici est encore sablon […]», <ref type="witlink" target="#l-null-50">L 50 5</ref> «Et tota hec provincia est arena, ‹et› similiter de <term ref="#cotam">Cotan</term> usque ad <term ref="#peym">Pein</term>, et adhuc de <term ref="#peym">Pein</term> usque ad hanc provinciam», <ref type="witlink" target="#vb-null-38">VB XXXVIII 3</ref> «Et è questa provincia quaxi tuta sabionoxa e per simel fina a .II. alltre provincie
+         sono sabionoxe», <ref type="witlink" target="#p-i-43">P I 43 3</ref> «Hec provincia Ciarcia tota est sabulosa […] similiter, inter <term ref="#cotam">Coram</term> et <term ref="#peym">Pein</term>, terra tota arenosa ac sterilis est» (ma è evidente che qui Pipino traduca da un
+         esemplare VA ben più ricco di quelli noti, che invece presentano una lezione significativamente
+         scorciata: vd. <ref type="witlink" target="#va-null-42">VA XLII 5</ref> «Tuta questa provinzia è pur sabion»); tutto diverso è l’atteggiamento di V e Z toledano,
+         che eliminano alla radice l’intero passo, per giungere subito a trattare delle risorse
+         idriche del territorio. </p>
+	<p>Uno Z completo può essere la fonte di questa pericope di R (vd. <ref type="witlink" target="#z-null-29">Z 29 6-7</ref> «Sunt in ea multe aque male et amare. Et in pluribus locis sunt aque dulces et bone»),
+         ma neppure si può escludere che Ramusio abbia qui attinto da <ref type="witlink" target="#l-null-50">L 50 5-6</ref> («Et tota hec provincia est arena, ‹et› similiter de <term ref="#cotam">Cotan</term> usque ad <term ref="#peym">Pein</term>, et adhuc de <term ref="#peym">Pein</term> usque ad hanc provinciam. Et sunt hic multe aque male et amare, in pluribus tamen
+         locis dulces et bone»), opportunamente asciugato, come detto, nella prima parte.</p>
+	<p>Sembra infine denotare una particolare attenzione a VB, insieme all’agg. <hi rend="italics">triste</hi> [<hi rend="italics">acque</hi>], il sintagma di R «in pochi luoghi», dove la distorsione del dettato tradizionale
+         – che parla invece di “numerosi luoghi”: «in pluribus locis» Z, «en plosors leus» F, «in locis multis» P, «in pixor luogi» V etc. – può essere stata promossa dalla lezione erronea di <ref type="witlink" target="#vb-null-38">VB XXXVIII 4</ref> «Trovase amare e triste aque et poche ve ne sono de bone» (l’agg. <hi rend="italics">poche</hi> sarà scaturito <hi rend="italics">ad</hi> <hi rend="italics">sensum</hi> dal contesto, esattamente come la lezione aberrante di <ref type="witlink" target="#v-null-29">V 29 6 </ref>«Et in tuta questa provinzia sono male aque le qual sono amare in pixor luogi […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

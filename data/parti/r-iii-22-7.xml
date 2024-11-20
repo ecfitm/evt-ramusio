@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-22-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-22">
+      <note>
+	<p>La descrizione delle ricchezze del re manca in P III 30 1-2 (per soppressione della pericope in VA CXL 4-5). Ramusio riassume (sopprimendo più di un particolare sul commercio delle perle,
+         a cominciare dal toponimo della regione da cui sono importate) l’ampio resoconto di
+         <ref type="witlink" target="#z-null-110">Z 110 11-16</ref> «Ipsi habent regem divitem et potentem thesauro. Et iste rex acquirit libenter perulas
+         et lapides preciosos. Et ordinavit cum omnibus mercatoribus terrarum suarum  quod
+         de omnibus perulis quas portabunt ei de regno <term ref="#malabar">Maabar</term> quo appelatur Sali – et hec est melior et ditior provincia que reperiatur in <term ref="#india">India</term>, ubi preciosiores inveniuntur perule – eis dabit duplum eius quod constabunt. Et
+         isti mercatores <term ref="#bramini">abraaman</term> proficiscuntur ad regnum <term ref="#malabar">Maabar</term> et ementes omnes bonas perulas quas inveniunt, postmodum ad regem eorum portant et
+         dicunt per regalitatem eorum quantum constiterunt. Et rex statim facit eis impe‹n›di
+         duplum eius quod constiterint. Et nunquam de hoc minus habent; quare multam quantitatem
+         adduxerunt de bonis et grosis» (traduzione letterale di F CLXXVI 6-7 «E si voç di qu’il ont roi riche e poisant de tresors. E cestui rois acchatte mout
+         voluntieres perles et toutes autres pieres presioses; e si a establi con tuit les
+         mercaant de sa tere qe toutes les perles qe il li aportent dou roiames de <term ref="#malabar">Mabar</term> qe s’apele{nt} Soli, e ce est la meior provence e la plus jentilç qe soit en <term ref="#india">Yndie</term> e la ou le meior perles hi se trovent, qu’il en d‹o›ra lor deus tant que il ne l’acatent.
+         <term ref="#bramini">Abraiamain</term> vont eu roiame de <term ref="#malabar">Mabar</term> et acchatent toutes les bonnes perles qe il treuvent, e puis l’aportent a lor roi
+         et dient por lor verité ce que gostent. Et le roi en fait mantinant lor doner deus
+         tant de cel qe gostent, ne ne en vint onques lor moin. E por cest acaison ne li ont
+         aporté en grandisme quantité de mout bones et grosses».</p>
+	<p>Gli altri relatori. Riporta un testo in origine fedele a F, ma segnato da qualche
+         guasto e incomprensione, V 94 5: «Or questi àno uno possente re, e richo de texoro; et questo re volentiera chonprano
+         molte perle e piere prezioxe; et hordena che tuti i marchadanti dele suo’ tere i quali
+         portano tute perle del Menabra, reame che vien apelà Sali, ch’è la mior e la più richa provinzia che se trova in
+         l’<term ref="#india">India</term>, e dove se trova le mior perle del mondo, onde questo re i dano el dopio de quelo
+         le i chostano; e per questo i marchadanti vano al reame del Menabra e chonprano tute le mior perle che i possano avere; e dapuo’ le portano al re et
+         diseno sopra la so lialtà zo che le i chostano; e lo re i fano dar el dopio zo che
+         le i chosta; e per questo portano una bona quantità de bone e grose». Offre un resoconto
+         abbreviato VB CXLVI 8: «El re de questa provincia è richo segnor, el qual molto se delleta de belle çoie;
+         e però, quando i marchadanti de <term ref="#malabar">Maabar</term> ge pono portar qualche bella perla o altra çoia, questo segnor credendo alla parolla
+         del marchadante ge da do atanto de quelo le ge chosta: e per tal chaxon molte çoie
+         i fino portate e tiensse l’abia çoie in grandissima quantità». L 164 17 colloca la pericope alla conclusione del capitolo: «Adest in hoc regno rex potens
+         et dives valde; multum enim in margaritis et lapidibus thezauriçat. Cum mercatoribus
+         enim provincie sue taliter ordinavit: quoscumque bonos lapides magnasque margaritas
+         acquirere possunt ex regno quodam de <term ref="#malabar">Mahabar</term> dicto Soli – quod est nobilius et melius omnibus provinciis <term ref="#india">Yndie</term>, ubi maiores et meliores reperiuntur margarite –, secure emant eique portent, quia
+         ipsas in duplum emptionis persolvet».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

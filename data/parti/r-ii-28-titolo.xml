@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-28-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-28">
+      <note>
+	<p><ref type="witlink" target="#f-null-105">F CV</ref> (Ci devise de la grant cité de <term ref="#gouza">Giugiu</term>); <ref type="witlink" target="#l-null-85">L 85</ref> (De civitate <term ref="#gouza">Giogiu</term>); <ref type="witlink" target="#p-ii-28">P II 28</ref> (Brevis quedam descriptio partis unius provincie <term ref="#cataio">Cathay</term>. Capitulum XXVIII), <ref type="witlink" target="#va-null-84">VA LXXXIV</ref> (Della zità de <term ref="#gouza">Grongi</term> e della provinzia de <term ref="#cataio">Catai</term>); <ref type="witlink" target="#v-null-50">V 50 6-10</ref> (Qui chomenza dela gran provinzia del <term ref="#cataio">Chataio</term>, e primieramente del flume Palisangin); <ref type="witlink" target="#vb-null-74">VB LXXIV</ref>; <ref type="witlink" target="#z-null-47">Z 47</ref>.</p>
+	<p>R si attiene fedelmente alla testimonianza di Z in tutto il capitolo. Vari elementi
+         suggeriscono che l’esemplare della redazione Z usato da Ramusio (= Z1) fosse più completo di quanto risulti Z toledano. Ci sono ragioni per credere che
+         anche le informazioni contenute nelle due pericopi finali fossero presenti in Z1. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

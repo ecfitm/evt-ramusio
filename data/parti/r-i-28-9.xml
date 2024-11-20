@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-28-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-28">
+      <note>
+	<p>Ai parr. 9-10 Ramusio ribadisce con esattezza <ref type="witlink" target="#f-null-49">F XLIX 16-19</ref> «Et quant l’en est alés ces doçe jornees qe je vos ai dit, il convient qe l’en chavauchent
+         bien .XL. jornee entre grec et levant, toutes foies por montagnes et por couste et
+         por valee, et passent maintes fluns et maintes deçers leus, ne en toutes cestes jornee
+         ne ‹a› habitasion ne erbaiges, mes les vian‹d›ant convent qe portent les viandes.
+         Ceste contree est appellés <term ref="#beloro">Belor</term>. Les jens demorent es montagnes mout haut; il sunt <term ref="#idolatri">ydres</term> et mout sauvajes, et ne vivent for qe de chachagion de bestes. Lor vestiment sunt
+         de cuir de bestes, et sunt mauvés jens duremant».</p>
+	<p>La sostanziale sovrapponibilità al dettato di F e i numerosi punti di contatto sintattici
+         e lessicali tra il testo di Ramusio e quanto resta di Z nel codice toledano confermano
+         la dipendenza di R da uno Z completo: vd. <ref type="witlink" target="#z-null-24">Z 24 13-18</ref> «Hic nula habitacio est per dietas .XL. inter levantem et grecum, continue per montes,
+         costas et valles; et oportet transeuntes victualia secum ferre. Contrata ista <term ref="#beloro">Belor</term> appelatur. Gentes manent in montibus altis quasi disperse. <term ref="#idolatri">Adorant ydolla</term> et silvestres sunt. De aliis no‹n› vivunt quam de venationibus bestiarum. Vestiuntur
+         coriis; et gentes sunt inique».</p>
+	<p>Il segmento «Nelle sommità […] vi habitano huomini che sono <term ref="#idolatri">idolatri</term>» dipende non da Z ma da <ref type="witlink" target="#p-i-37">P I 37 13</ref> «In montibus vero altissimis habitaciones multe sunt hominum <term ref="#idolatri">ydolatrarum</term> […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

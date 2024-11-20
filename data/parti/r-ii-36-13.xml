@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-36-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>Ramusio si attiene abbastanza fedelmente a Z (che a sua volta rispecchia F), semplificandone
+         il testo in alcuni punti e riorganizzando in parte l’ordine delle informazioni: Z 53 16 «Et discedendo a dicta civitate, equitatur quinque dietis per planicies et vales,
+         inveniendo casamenta et castra multa et burgos, quorum homines vivunt de redditu et
+         profectu terrarum» / Z 53 18 «Vivunt etiam homines de artibus: nam ibi laborantur syndones et alii drapi» (<ref type="witlink" target="#f-null-113">F CXIII 19-20</ref> «Et de ceste cité se part l’en et chevauche .V. jornee por plain et por valee, et
+         treve l’en castiaus et casaus asseç. Les homes vivent dou profit qu’il traient de
+         la terre» / <ref type="witlink" target="#f-null-113">F CXIII 22</ref> «Il vivent d’ars, car il hi se laborent biaus sendal et autres dras»). Tranne che
+         in VB, negli altri relatori il testo viene accorciato: <ref type="witlink" target="#l-null-93">L 93 7</ref> «Et transitur per hanc provinciam ‹.5. dietis› per plana et per valles, ubi sunt
+         castra multa et loca habitata […]»; <ref type="witlink" target="#p-ii-35">P II 35 9</ref> «Ulterius autem procedentes per dietas .V. per quandam planiciem inveniunt castra
+         et villas multas, ubi fiunt syndones in copia maxima»; V 55 11 «E partendosse da questa zitade el se chavalcha zinque zornade per pianura e valle,
+         e trovasse chaxe, monti e chasteli, et omeni che lavora le tere; […] et viveno deli
+         lor fruti»; <ref type="witlink" target="#vb-null-80">VB LXXX 8</ref> «E partendosi da questa citade, se chamina per .V. giornatte senpre per pianure ben
+         choltivate et abitate ‹…› e viveno de fruti dela tera» / <ref type="witlink" target="#vb-null-80">VB LXXX 10</ref> «Lavorasi ecian in questo paexe drapi d’oro et de seta assai». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

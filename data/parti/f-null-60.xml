@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-60</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-60">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LX</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-60_1_1" n="1"> Ci devise de la provence de <term ref="#succuir">Suctiur</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-60_2_1" n="1"> Quant l’en s’en part de cest provence que dit voç ai, il ala .X. jornee entre
+         levant et grec, et en toute ceste voie ne a abitasion se pou non et ne i ha chouses
+         que a mentovoir face en nostre livre. </seg>
+      <seg xml:id="f-null-60_2_2" n="2"> Et a chief de .X. jornee l’en treuve une
+         provence qe est apellés <term ref="#succuir">Suctiur</term> en la quele a cité et castiaus asseç, et la mestre cité est apellés <term ref="#succuir">Suctiu</term>. </seg>
+      <seg xml:id="f-null-60_2_3" n="3"> Il hi a cristanz et <term ref="#idolatri">ydres</term>: il sunt au <term ref="#gran-can">Grant Can</term>. </seg>
+      <seg xml:id="f-null-60_2_4" n="4"> Et la gran provence jeneraus ou ceste provence est, et ceste deus que je voç
+         ai contés en arrieres, est apellés <term ref="#tanguth">Tangut</term>. </seg>
+      <seg xml:id="f-null-60_2_5" n="5"> Et por toutes les sien montangnes i se treuve le <term ref="#rheubarbaro">ribarbar</term> en grant abondance et iluec l’acatent les mercaant et le portent puis por le monde.
+         </seg>
+      <seg xml:id="f-null-60_2_6" n="6"> Il vivent dou frout qu’il traient de la terre, mes de mercandies ne se travailent
+         il guieres. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-60_3_1" n="1"> Or nos partiron de ci et vos conteron d’une cité |25d| que est apellés <term ref="#campion">Ca‹n›picion</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

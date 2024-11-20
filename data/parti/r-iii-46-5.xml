@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-46-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-46">
+      <note>
+	<p>Ramusio traduce <ref type="witlink" target="#p-iii-50">P III 50 7</ref> alla lettera, permettendosi solo poche deviazioni dal modello: la citazione autobiografica
+         a funzione veridittiva (stilema “poliano”, ma assente nella tradizione in questo luogo:
+         VA CLV 9-10,  Z 165 11, L 199 7 – come lo è in F CCXVIII 6 «[…] en <term ref="#rossia">Rosie</term> ha le greignor froit […]»); l’omissione di <hi rend="italics">herodii</hi> (assente del resto in tutta la tradizione) e la sostituzione del dettaglio «insule
+         quedam» – attestato in VA CLV 10 «arquante ixolle», Z 165 12 «insule multe sunt», L 199 7 «quam plures insule» – con l’analessi «come abbiamo detto di sopra».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

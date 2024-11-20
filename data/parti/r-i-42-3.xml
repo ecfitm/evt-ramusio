@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-42-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-42">
+      <note>
+	<p>In tutta la tradizione (tranne V) il nome <term ref="#prete-gianni">Prete Gianni</term> è presentato come la glossa romanza del termine mongolo <hi rend="italics">ongqan</hi>, che invece significa propriamente “re signore” (cfr. Cardona 1975, p. 698): la variante
+         – o vero e proprio errore congiuntivo? – occorre in F (cfr. f. 26 b: «Il ne avoient
+         seingnors, mes bien est il voir qu’il fasoient rente au <hi rend="italics">grant sire</hi>, que estoit appellés en lor lengajes <hi rend="italics">Une Can</hi>, qe vaut a dir en françois Prestor Johan […]»; Eusebi, come Benedetto, corregge sulla base di V [cfr. <hi rend="italics">infra</hi>]: si veda <ref type="witlink" target="#f-null-63">F LXIII 6</ref>), <ref type="witlink" target="#l-null-58">L 58 3</ref> «[…] et erant absque domino, ‹verumtamen reddebant tributum <hi rend="italics">uni</hi> <hi rend="italics">maximo domino</hi>› quem in lingua sua appellabant “<term ref="#umcan">Hunc Kan</term>” – quod sonat in latino “<term ref="#prete-gianni">Presbiter Iohannis</term>”[…]», <ref type="witlink" target="#p-i-51">P I 51 1</ref> «[…] nec habebant dominum de gente ipsorum, sed tributarii erant <hi rend="italics">magni regis</hi> qui dicebatur Uncham, quem Latini Presbiterum Johannem vocant […]» (e <ref type="witlink" target="#va-null-49">VA XLIX 4</ref> «E lì abitavano li <term ref="#tartari">Tartari</term> e non avevano signior, ma davano trabuto a uno grande segniore che era apellato in
+         soa lengua <term ref="#umcan">Mochan</term>, che è a dire in nostra lengua <term ref="#prete-gianni">Prete Zane</term> […]»), <ref type="witlink" target="#vb-null-48">VB XLVIII 3</ref> «Dicono questa giente tartara, che abitava in questa citade […] deva trabuto al <hi rend="italics">segnore</hi> <term ref="#umcan">Umechan</term> el qual nui chiamemo qui da nui <term ref="#prete-gianni">Presto Çane</term> […]», oltreché in Fr e TA; manca Z.</p>
+	<p>Soltanto in <ref type="witlink" target="#v-null-34">V 34 8</ref> <hi rend="italics">ongqan</hi> è glossato con “Gran Signor”, definizione più in linea con l’effettivo significato
+         del lemma, e quindi forse lezione buona riconducibile all’originale: «[…] et chostoro
+         non avea alguna signoria sovra chavo, ma dava per sua spontanea volontade trabuto
+         al <term ref="#prete-gianni">Prete Zane</term>, el qual in so lengua sono chiamato <term ref="#umcan">On Chan</term>, che tanto vien a dir chomo “el <term ref="#gran-can">Gran Signor</term>”». </p>
+	<p>Nell’insieme, R è particolarmente vicino per completezza a <ref type="witlink" target="#f-null-63">F LXIII 6-7</ref> «Il ne avoient seingnors […] .X. bestes le une»: ciò depone per una sua dipendenza
+         da Z1, ma non vanno escluse interferenze con <ref type="witlink" target="#l-null-58">L 58 3</ref> «et erant absque domino […] reddebant decimam bestiarum» e <ref type="witlink" target="#p-i-51">P I 51 1</ref>, dal quale sembra dipendere in particolare l’esordio della pericope «Fra loro non
+         haveano alcun signore» («[…] nec habebant dominum de gente ipso rum […]»). Parrebbe
+         un inserto ramusiano l’espressione del dubbio sul reale significato del termine <term ref="#umcan">Umcan</term>: «è opinion de alcuni che vogli dire nella nostra [lingua] <term ref="#prete-gianni">Prete Gianni</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Nella prima parte della pericope («Et queste […] <term ref="#gudderi">gudderi</term>»), R segue la versione di Z 53 46-47 «Et iste tales bestie vocantur in eorum lingua “<term ref="#gudderi">gudderi</term>”. Et homines illi quam plures habent bonos canes ad ipsas capiendas ydoneos» (Z riflette,
+         con qualche semplificazione, <ref type="witlink" target="#f-null-114">F CXIV 24-25</ref> «et s’apellent en lor langajes <term ref="#gudderi">gudderi</term>. Et cesti maveis homes ont maint buen chiens qe en prenent en grant abundance, et
+         por ce ont dou mostre en grant quantité»). Nella seconda parte del paragrafo R risulta
+         più conciso di Z, e trova parziale riscontro in <ref type="witlink" target="#vb-null-81">VB LXXXI 10</ref> «[…] le qual bestie se apella in soa lengua <term ref="#gudderi">gunden</term>, la charne dele qual è molto bona; e quelle i prendeno con chani molto chorenti».
+         A parte <ref type="witlink" target="#l-null-94">L 94 6</ref> (notevolmente abbreviato: «[…] quas nominant “<term ref="#gudderi">gudderi</term>” […]»), gli altri relatori recano un testo simile a quello di Z (e di F): <ref type="witlink" target="#p-ii-37">P II 37 6</ref> «[…] et dicuntur “<term ref="#gudderi">gudderi</term>”, habent autem incole loci canes venaticos multos qui ipsa animalia capiunt, propter
+         quod de muscato copiam habent»; V 55 27 «[…] et vieno chiamate in la lor lengua “<term ref="#gudderi">guderi</term>”; et questi de questo luogo zaschaduno àno boni chani i qualli piano de quelle bestie
+         in gran quantitade».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

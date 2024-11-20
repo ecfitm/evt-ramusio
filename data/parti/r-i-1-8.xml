@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-1-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-1">
+      <note>
+	<p>Ramusio traduce alla lettera <ref type="witlink" target="#p-i-1">P I 1 6</ref> «inde progredientes transierunt fluvium Tygridis, qui unus est de quattuor fluminibus Paradisi, pertransieruntque desertum per dietas
+         .XVII., necque civitatem necque oppida reperientes omnino […]».</p>
+	<p>La facile glossa scritturale sul fiume accomuna, forse per poligenesi, P (&lt; <ref type="witlink" target="#va-null-1-9-31">VA I 23</ref> «Et da <term ref="#ouchacha">Onchacha</term> se partì e pasàno el fiume che se chiama <term ref="#tigris">Tigri</term>, uno d’i quatro fiumi del paradixo, e andò per uno dexerto ch’è longo XVII zornate
+         […]») e <ref type="witlink" target="#vb-null-2">VB II 7</ref> «[…]n et de llì se partino et açonseno al fiume de <term ref="#tigris">Tigris</term>, ch’è uno di fiumi naturalli che fi dito desender dal Paradiso dele dilicie, et dapoi
+         chaminò per un diserto el qual è longo .XVII. zornade».</p>
+	<p>La chiosa del passo («[…] <term ref="#tartari">Tartari</term> che vivono alla campagna in alcune tende, con gli suoi bestiami»), mancante nei testimoni
+         pipiniani a noi noti, richiama alla lettera, specialmente nel sintagma «alla campagna»,
+         uno sviluppo di <ref type="witlink" target="#va-null-1-9-31">VA I 24</ref> «[…] <term ref="#tartari">Tartari</term> che abitàno <hi rend="italics">alle chanpagnie</hi> chon loro bestie»: forse il sintagma sopravviveva, ereditato <hi rend="italics">verbatim</hi> dal modello, nell’esemplare di P utilizzato da Ramusio; oppure Ramusio ha tradotto
+         qui da un’altra delle sue fonti, e la coincidenza con VA sarebbe dunque casuale (vd.
+         <ref type="witlink" target="#l-null-3">L 3 2</ref> «[…] ubi nulla adest civitas neque castrum, sed solum <term ref="#tartari">Tartari</term> in tentoriis cum eorum bestiis vagando manent», <ref type="witlink" target="#v-null-2">V 2 11</ref> «[…] et in quelo non trovò zitade né chasteli né ville, se non sollamente <term ref="#tartari">Tartari</term> chon le suo’ tende, i quali viveva delo late dele suo’ bestie», <ref type="witlink" target="#vb-null-2">VB II 7</ref> «[…] <term ref="#tartari">Tartari</term> che vivono alla campagna in alcune tende»; manca Z toledano).</p>
+	<p>La pericope di R corrisponde a <ref type="witlink" target="#f-null-2">F II 11-12</ref> «[…] et da <term ref="#ouchacha">Oucaca</term> si partirent et pasent le flum de <term ref="#tigris">Tigri</term> et alerent por un deçert ki estoit lonc .XVII. jornee. Il ne trovent villes ne castiaus,
+         fors seulemant <term ref="#tartari">Tartars</term> con lor tentes qui vivoent de lor bestes».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

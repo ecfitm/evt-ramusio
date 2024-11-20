@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-2-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-2">
+      <note>
+	<p>L’accenno alla capitale dell’<term ref="#armenia">Armenia Minore</term>, <term ref="#sevasta">Sebastoz</term>, non può che derivare da <ref type="witlink" target="#vb-null-11">VB XI 2</ref> «De l’<term ref="#armenia">Armenia Pichola</term> sì è un re el qual abita in una çitade nominata <term ref="#sevasta">Savasto</term> […]»: il toponimo risulta forse dall’indebito incrocio con <hi rend="italics">Sevastio</hi> [attuale Sivas], centro della Cappadocia citato in Z 1 26), essendo VB l’unica fonte ramusiana che ne parli. Non se ne fa menzione in <ref type="witlink" target="#p-i-11">P I 11 3</ref> («Armenie Minoris regnum <term ref="#tartari">Tartaris</term> tributarium est; ibi invenimus regem in iusticia servantem»), né in Z 1 19 («Sed quidam rex dominatur in parva, qui totam terram manutenet in iusticia et regi
+         <term ref="#tartari">Tartarorum</term> subditus est») o in <ref type="witlink" target="#v-null-9">V 9 1</ref> («[…] et uno signore signoriza la Pizola et tien tute le tere e mantienle chon grandissima
+         iustizia, ed è sudito alo re de <term ref="#tartari">Tartari</term>») – che seguono da vicino il dettato di <ref type="witlink" target="#f-null-19">F XIX 3</ref> («De la pitete en est sire un rois que mante‹n›t bien la tere en justice et est soutpost
+         au <term ref="#tartari">Tartar</term>») – né nell’informazione radicalmente ripulita di <ref type="witlink" target="#l-null-17">L 17 2</ref> («<term ref="#armenia">Parva Armenia</term> habet regem»). </p>
+	<p>Accanto agli apporti di VB si individua, qui e nel prosieguo del paragrafo, qualche
+         eco piuttosto precisa del testo di Pipino: le tessere ramusiane «osserva iustitia»
+         e «vero che non vi è troppo buono aere» rappresentano infatti emersioni, occasionali
+         ma precise, di <ref type="witlink" target="#p-i-11">P I 11 3-5 </ref>«[…] ibi invenimus regem in iusticia servantem. Regnum vero ipsum multas civitates
+         et oppida continet; patria fertilis est et iocunda. Venaciones bestiarum et avium
+         ibi sunt multe, aer autem non valde sanus est».</p>
+	<p>Per il resto, non è possibile scontornare una fonte sicura, giacché tutti i relatori
+         a disposizione di Ramusio offrono <hi rend="italics">grosso modo</hi> il medesimo bagaglio informativo, identicamente ordinato: vd. Z 1 20-21 «In ea sunt multe civitates et castra, et habundantia omnium habetur in eis. Et est
+         terra multum solatiosa in venationibus bestiarum et aucupationibus avium, sed non
+         sana provincia», <ref type="witlink" target="#v-null-9">V 9 2</ref> «E in quela sì è molte zitade e chasteli, ed è abondante de tute chosse, ed è tere
+         d’aver solazo de chazason de anemali e de oxelazione, ma nonn è sana provinzia», e
+         <ref type="witlink" target="#vb-null-11">VB XI 2-3</ref> «[…] et à molte citade et chastelli soto de si, et è abondante de tuti beni. Et è
+         deletevelle paexe, et abondante de tute chaçaxon de bestiame et de oxelli e nonn è
+         sana terra, anci molto inferma», tutti vicini a un testo simile a <ref type="witlink" target="#f-null-19">F XIX 4-5</ref> («Il hi a mantes viles et mantes castiaus, et hi a de toutes chouses en grant abundançe.
+         Encore est tere de grant solaçe de tute caçes, et de bestes et d’osiaus. Mes si voç
+         di k’ele n’est pas saine provence, mes enferme duramant […]»). Più sintetica, al solito,
+         l’esposizione di <ref type="witlink" target="#l-null-17">L 17 2</ref>: «[…] et est multum fertilis contrata et multi solatii, et pulcrarum venationum tam
+         bestiarum quam avium; sed est male sana provincia».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

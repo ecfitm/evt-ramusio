@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-87</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-87">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXXVII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-87_1_1" n="1"> ‹C›havalchandosse per .XV. giornate, trovasse senpre paexe molto sterille e quaxi
+         luogi deserti; e poi se trova la citade de <term ref="#mien">Mien</term>, ch’è bella e gran citade la qual è nel capo del regno. </seg>
+      <seg xml:id="vb-null-87_1_2" n="2"> I abitanti sono tuti
+         <term ref="#idolatri">idolatri</term> e soto la segnoria del <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="vb-null-87_1_3" n="3"> In questa citade è do tore degne de memoria: fo fate per sepoltura de uno antigamente
+         fu re dela provincia, |254r| potente e gran segnore e molto da tuti amato. </seg>
+      <seg xml:id="vb-null-87_1_4" n="4"> Per
+         sepoltura del chorpo suo fu fato do tore tonde alte .X. passa e grosse porpocionadamente,
+         choperte l’una de piastre de oro, l’altra de argiento, lavorate richissimamente e
+         tute atorno piene di canpanelle dorate per modo quando el vento traeva moveria queste
+         canpanelle con gran sono e de gran triunfo a vedere et aldire. </seg>
+      <seg xml:id="vb-null-87_1_5" n="5"> Deliberò el <term ref="#gran-can">Gran Can</term> avere el dominio de questa cità; mandò suo hoste sotto 1° valloroso chapitano, e
+         per la maor parte del’oste volse el ne andase tuti bufoni e çugullari dela corte soa
+         che ssono in grandissimo numero. </seg>
+      <seg xml:id="vb-null-87_1_6" n="6"> Andato l’oste dita ad assedio della dita çittà
+         in breve tenpo quella otene; et intratti nella cità de <term ref="#mien">Mien</term>, trovate le do tore tanto adornate e riche, e ssaputo era fatte per sepoltura e memoria
+         del re da loro per avanti tanto amato, delliberòno non guastar quelle. </seg>
+      <seg xml:id="vb-null-87_1_7" n="7"> Ma avixiòne
+         subito el <term ref="#gran-can">Gran Can</term> dela richeça e nobeltà de quelle, el <term ref="#gran-can">Gran Chan</term>, udito quelle esser fate per memoria e ssepoltura del suo segnore avegna fosseno
+         di tanta richeça, subito i fece comandamento che quelle non fosseno mosse anci ben
+         guardate e reverite, però ch’el non era laudabelle cossa el nome di signori meriti
+         di fama e gloria dovesse esser guasta et chassà e fin questo giorno le tore sono ornate
+         e ben guardate; e questo è costumo di <term ref="#tartari">Tartari</term> che à grandissimo pecato a movere alcuna cossa de’ morti. </seg>
+      <seg xml:id="vb-null-87_1_8" n="8"> À questa provincia
+         gran quantità d’elefanti e grandi; trovasse ecian homeni salvatichi e molte altre
+         bestie salvatiche. [9] Partendosse da questa provincia el se trova una gran desesa
+         la qual dura per .III. giornate: èt luogo sterile e deserto. [10] Trovasse una pianura
+         dove se fano el suo merchato .III. dì alla setimana, dove ne conchore gran quantità
+         de giente; e sul dito merchato se da saçi .V. argiento per saço 1° de oro, e vengono
+         de lutane parte molti merchadanti con argiento per conprare oro. [11] Et è vetatto
+         a tuti abitanti a portare oro fuori del paexe ma voleno marchadanti forestieri venga
+         a conprar quello açò quegli portano argiento et altre merchadarie e faciano bono el
+         paexe. [12] A chapo de .III. giornate versso meçodì se trova la provincia de <term ref="#bangala">Bangala</term>. </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

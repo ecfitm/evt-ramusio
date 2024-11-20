@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-18-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-18">
+      <note>
+	<p>Nella prima parte della pericope («Item […] carte»), R mostra di dipendere da un esemplare
+         che recava un testo affine a quello di <ref type="witlink" target="#f-null-95">F XCV 16-17</ref> «Et encore voç dirai une bielle raison qe bie‹n› fait a conter en notre livre: car,
+         se une home vuelt acather or ou arjent por fare son vaicelament ou seç centures et
+         seç autres evres [R «per far vasi o cinture o altri lavori»], il s’en vait a la secque
+         dou <term ref="#gran-can">Grant Sire</term> et porte de celles charte [R «li porta queste carte»] et les done por paiemant de
+         l’or et de l’arjent [R «in pagamento del’oro et del’argento»] qu’il achate dou seingnor
+         de la secque. Or voç ai contés la mainere et la raison por coi le <term ref="#gran-can">Grant Sire</term> doit avoir, et ha, plus tresor que nuls homes de ceste monde. Et si voç dirai une
+         greingnor chouse: qe tuit les seingnor del siecle ne ont si grant richese come le
+         <term ref="#gran-can">Grant Sire</term> a solemant». Meno forte è invece il legame di R con <ref type="witlink" target="#v-null-45">V 45 17</ref> (che per altro segue abbastanza fedelmente il dettato di F) «Anchora sono una altra
+         chossa che me par da dir, la qual hè bel fato: zoè che quando algun vol far chossa
+         d’arzento, chomo sono zentura, napi e chuxilier et altre chosse, elli vano ala zecha
+         del <term ref="#gran-can">Gran Signor</term>, et tuto quello arzento che li piaxe a pagamento de quelle monede de charta loro
+         ne àno quanto li vol, perché el <term ref="#gran-can">Gran Signor</term> àno più aver lui sollo cha signor che sia al mondo». Il passo manca in L e in VB.
+         Z omette l’intero capitolo.</p>
+	<p>Nella seconda parte della pericope, R si attiene prevalentemente alla testimonianza
+         di <ref type="witlink" target="#p-ii-21">P II 21 6-7</ref> (che, in principio, reca un testo notevolmente rimaneggiato) «De hac moneta suis
+         exercitibus et officialibus stipendia tribuit [R «et tutti li suoi esserciti vengono
+         pagati con questa sorte di moneta»] et quicquid pro curia necessarium est emitur.
+         Immensam igitur pecuniam pro nichilo habet et in hunc modum manifeste apparet quod
+         [R «et per questa causa si può certamente affermare che»] <term ref="#gran-can">Magnus Kaam</term> in expensis, divitiis et thesauris [R «piú thesoro] universos mundi principes [R
+         «che alcun altro signor del mondo»] superare potest; nam oportet omnes a curia eius
+         monetam emere, que ita continue custoditur, ut indeficienter ad omnes qui eam emere
+         volunt habundantissime diffundatur». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

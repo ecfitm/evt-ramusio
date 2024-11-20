@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-16">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 16</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-16_2_1" n="1"> <term ref="#thauris">‹T›oris</term> è una nobele zitade, et sono in la provinzia chiamata <term ref="#hirach">Irach</term>, in la qual sono molte zitade e chastele molto riche. </seg>
+      <seg xml:id="v-null-16_2_2" n="2"> Et questa <term ref="#thauris">Toris</term> sono la più nobele zitade de quela parte; onde quelli dela dita zitade viveno de
+         marchadantia, et fase in quela de beli pani d’oro e de seda de gran valor; et da questa
+         passa tuti li marchadanti del’<term ref="#india">India</term> e de <term ref="#baldach">Baldacha</term> et de <term ref="#moxul">Morsol</term> e de molti altri luogi; et in queste se trova molte pietre prezioxe et perle in gran
+         quantitade. </seg>
+      <seg xml:id="v-null-16_2_3" n="3"> Et sono nela dita molti christiani nosterini et iachopiti, Armini,
+         Zorzani et ‹zente› de <term ref="#persia">Persia</term> che adora <term ref="#macometto">Machometo</term>. </seg>
+      <seg xml:id="v-null-16_2_4" n="4"> El populo dela zitade vien chiamadi Taurizi, et hano la lengua per sí. </seg>
+      <seg xml:id="v-null-16_2_5" n="5"> La
+         zitade sono zirchondada da Zorzani, et in quela tròvasse molti boni fruti. </seg>
+      <seg xml:id="v-null-16_2_6" n="6"> Et
+         la zente dela zitade sono molto |17v<hi rend="italics">|</hi> malvaxia et fano molto mal ali christiani et a tute le altre zente che non sono de
+         lor leze; et se li christiani ferisse ho alzide algun Sarain, de quel i vien reputadi
+         martori, sì che per questa chaxon li fano de gran mali et molto più ne faria s’el
+         non fosse i suo’ signori. </seg>
+      <seg xml:id="v-null-16_2_7" n="7"> Et quando queli vien a morte vano el suo’ prevede da
+         lui, et domanda se lui chrede che <term ref="#macometto">Machometo</term> fosse messo de Dio: et s’elo responde de sì, i dixe che quello sono salvo, et per
+         questo li reduxeno li <term ref="#tartari">Tartari</term> et molta altra zente ala so leze, perché sono molto largi a pechar et segondo la
+         so leze nesun pechado li vien chontradito. </seg>
+      <seg xml:id="v-null-16_2_8" n="8"> Et da questa <term ref="#thauris">Toris</term> fina in <term ref="#persia">Persia</term> sono dodexe zornade.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

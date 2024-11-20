@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-99</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-99">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XCIX</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-99_1_1" n="1"> ‹P›er .III. giornate da Çingui inver meçodì se trova nel camino molte citade et
+         chastelli la qual contrada è dela provincia del <term ref="#cataio">Catay</term>. </seg>
+      <seg xml:id="vb-null-99_1_2" n="2"> Sono per tuto <term ref="#idolatri">idolatrii</term> et fano ardere i corpi dei llor morti, ‹…› soto la segnoria del <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="vb-null-99_1_3" n="3"> E spendeno dela moneta soa de carta; è abondante paexe de tute vituallie. </seg>
+      <seg xml:id="vb-null-99_1_4" n="4">
+         E nel capo de dite .III. giornate se trova la cità chiamata Pinguy, grande e magna
+         citade. </seg>
+      <seg xml:id="vb-null-99_1_5" n="5"> È citade de marchadantie; à gran quantità de seda et la dita citade è
+         al’intrada de Languy dela provincia del <term ref="#mangi">Mançi</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

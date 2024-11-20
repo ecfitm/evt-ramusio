@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-75</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-75" n="1">
+    <head>
+      <hi rend="bold">R, II 75</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-75_1_1" n="1"> Della città di <term ref="#unguem">Unguem</term>. Cap. 75.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-75_2_1" n="1"> Da <term ref="#quelinfu">Quelinfu</term> partendosi, fatte che si ha tre giornate, sempre vedendo et trovando città et castella,
+         dove sono genti <term ref="#idolatri">idolatre</term> et hanno seda in gran copia, della qual fanno gran mer|49r|cantie, si trova la città
+         di <term ref="#unguem">Unguem</term>, dove si fa gran copia di zuccharo, che si manda alla città di <term ref="#cambalu">Cambalú</term> per la corte del <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-ii-75_2_2" n="2"> Et prima che questa città fusse sotto il <term ref="#gran-can">Gran Can</term> non sapevano quelle genti far il zucchero bello, ma lo facevano bollire spiumandolo
+         et dapoi raffreddito rimaneva una pasta nera; ma, venuta all’obedienza del <term ref="#gran-can">Gran Can</term>, vi si trovorono nella corte alcuni huomini di <term ref="#babilonia">Babilonia</term> che, andati in questa città, gl’insegnorono ad affinarlo con cenere di certi arbori.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

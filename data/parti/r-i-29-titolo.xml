@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-29-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-29">
+      <note>
+	<p><ref type="witlink" target="#f-null-50">F L</ref> (Ci devise dou roiaume de <term ref="#caschar">Cascar</term>); <ref type="witlink" target="#z-null-25">Z 25</ref>; <ref type="witlink" target="#l-null-45">L 45</ref> (De provincia <term ref="#caschar">Cascar</term>); <ref type="witlink" target="#p-i-38">P I 38</ref> (De provincia <term ref="#caschar">Cascar</term>), <ref type="witlink" target="#va-null-37">VA XXXVII</ref> (De <term ref="#caschar">Chaxar</term>, dov’è la zente molto scharssa e avara); <ref type="witlink" target="#v-null-27">V 27 1-5</ref> (Dela provinzia de <term ref="#caschar">Chaschar</term> e dela zità de <term ref="#samarchan">Sanmarchan</term>); <ref type="witlink" target="#vb-null-33">VB XXXIII</ref>.</p>
+	<p>Su un testo che sostanzialmente traduce Z, Ramusio innesta qualche sviluppo desunto
+         da P e V.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

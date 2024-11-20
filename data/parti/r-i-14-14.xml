@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-14-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-14">
+      <note>
+	<p>Che la fonte della pericope ramusiana sia Z è garantito, oltreché dalla resa <hi rend="italics">verbatim,</hi> dal sintagma causale, peculiare alla versione latina, «per quell'oscurità» (&lt; «propter
+         obscuritatem illam»): cfr. Z 14 29-30 «Et dominus Marcus fere captus fuit ab eis propter obscuritatem illam, sed fugit
+         ad quoddam castrum. Sed aliqui ex eius sociis capti fuerunt et ve‹n›diti, aliqui vero
+         mortui». Alla lezione toledana manca l’indicazione toponomastica, presente con ogni
+         probabilità nello Z di Ramusio, in una forma molto simile a quella leggibile in <ref type="witlink" target="#v-null-20">V 20 18</ref> («Onde ve dicho che pocho manchò che non fosse prexo misier Marcho Polo da questa
+         zente in ’sta pianura, ma el schanpò in uno chastelo chiamato <term ref="#consalmi">Chansolmin</term>, mo alguni deli so chonpagni fo prexi e vendudi et altri ne fo morti»). Z e gli altri
+         modelli ramusiani ribadiscono, nella sostanza, il dettato di <ref type="witlink" target="#f-null-35">F XXXV 20</ref> («[…] Et se voç di que messier March meesme fu {cel} come pris da celle gens en celle
+         oscurité, mes il escampé a un castiaus qui est apellés <term ref="#consalmi">Canosalmi</term>; et de seç conpains furent pris aseç et furent vendus et de tielz mors»).</p>
+	<p>Il solo <ref type="witlink" target="#vb-null-22">VB XXII 21</ref> reca, attribuibile al rimaneggiatore, una nota elogiativa della destrezza di Marco
+         Polo nello sfuggire ai predoni:  «Per modo che io, Marcho, da quella giente fui quaxi
+         preso, ma io, con grandissima presteça, me redusi in uno chastello chiamato <term ref="#consalmi">Salimi</term> e fui salvo».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

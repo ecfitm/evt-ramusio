@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-93</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-93">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XCIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-93_1_1" n="1"> Ci devise comant le <term ref="#gran-can">Grant Kan</term> vait en chace por prandre bestes et oisiaus. </seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-93_2_1" n="1"> Et quant le <term ref="#gran-can">Grant Sire</term> ha demoré trois mois en la cité que je voç ai nomé desovre, et ce fu decembre et
+         jenner et fevrer, adonc se part de cest cité dou mois de mars et ala ver midi dusque
+         a la <term ref="#mare-oceano">mer Hosiane</term>, qui hi a deus jornee. </seg>
+      <seg xml:id="f-null-93_2_2" n="2"> Il moine avech lui bien .Xm. fauchoner et porte bie‹n› .Vc. gerfauç e fauchon pelerin et fauchon sagri en grant habundance; et encore portent
+         en grant quantité des hostor por oiçeler en rivier. </seg>
+      <seg xml:id="f-null-93_2_3" n="3"> Mes ne entendés qu’il le teingne
+         tuit ho soi en un leu, mes il les part sa et la, a .C. et a .CC. et a plus. Et cesti
+         oselent et les greingnors parties des osiaus qu’il prennent aportent au <term ref="#gran-can">Grant Sire</term>. </seg>
+      <seg xml:id="f-null-93_2_4" n="4"> Et voç di que quant le <term ref="#gran-can">Grant Sire</term> vait oiscelant cum |42a| sez jerfaus et con autre osiaus il ha bien .Xm. homes que sunt ordinés as .II. as .II. et s’apellent toscaor, qe vient a dire en
+         nostre lengue home qe demorent a garde, et il si font, car a .II. .II. demorent sa
+         et la si qe bien tienent de tere asez, et chascun a un reclan et un capiaus por ce
+         qe il peussent clamer les osiaus et tenir. </seg>
+      <seg xml:id="f-null-93_2_5" n="5"> Et quant le <term ref="#gran-can">Grant Sire</term> fait geter seç osiaus, il ne est mester qe celz qe les getent aillent elz derieres,
+         por ce qe les homes que je voç ai dit desovre, qe sunt sa et la, le gardent si bien
+         qu’il ne poit aler nulle part qe cesti homes ne ailent; et, se les osiaus ont mester
+         de secors, il le secorent mai‹n›tinant. </seg>
+      <seg xml:id="f-null-93_2_6" n="6"> Et tous les osiaus dou <term ref="#gran-can">Grant Sire</term>, et encore celz des autres baronç, ont une petite table d’arjent as piés en la quel
+         est ecrit les nom de cui il est et qui lle tient, e por ceste mainere est le osiaus
+         conneu tant tost qu’il est pris, et est rendu a celui de cui il est. </seg>
+      <seg xml:id="f-null-93_2_7" n="7"> Et se l’en
+         ne set de cui il est, ‹est› aporté a un baron qe est apellés <term ref="#bulangazi">bularguci</term>, qe vaut a dir le gardiens des couses qe ne treuvent seingnor, char je voç di qe
+         se l’en trouve un chevaus o une espee ou un osiauus ou autre couse, et il ne treuve
+         de cui il soit, …†… |42b| a ceste baronç, et cil la fait prendre et garder. Et celui
+         qu’il la trove, se il ne la porte tant tost, il est tenu por lairon. [9] Et celz qe
+         ont perdue les couses s’en vunt a ceste baronç et, ce lui le a, le la fait rendre
+         tout mantinant. [10] Et cestui baron demoire toutes foies eu plus aut leus de tote
+         l’ost con son confanon, por qe cele qe o‹n›t perdues les chouses les voient erament.
+         [11] Et en ceste mainere ne se poent perdre nulle chouse qe ne soient trouvee et rendues.
+         </seg>
+    </p>
+    <p n="3"/>
+    <p n="4"/>
+    <p n="5"/>
+    <p n="6"/>
+    <p n="7"/>
+    <p n="8"/>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-6-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>R presenta dei dettagli ignoti al resto della tradizione: «verso greco», «appresso
+         la città nuova nella parte verso mezzodí». Le altre informazioni si leggono in L –
+         che segue abbastanza fedelmente il dettato di F: <ref type="witlink" target="#l-null-68">L 68 1-2</ref> «Tribus mensibus anni – scilicet decembri, ianuario et februario, manet <term ref="#gran-can">Magnus Canis</term> in principaliori civitate de <term ref="#cataio">Cathay</term>, que dicitur <term ref="#cambalu">Cambaluch</term>, in qua suum maximum habet palatium. Est enim hoc pallatium tali modo formatum […]»
+         (vd. <ref type="witlink" target="#f-null-83">F LXXXIII 2-3</ref> «Sachiés tout voiramant qe le Grant Chan demore en la maistre vile dou <term ref="#cataio">Catai</term>, <term ref="#cambalu">Cabaluc</term> est appellés, trois mois de l’an, c’est dece‹n›bre et jenner et fevrer. En ceste
+         ville a son grant palais, et voç diviserai sa faison»). Omettono alcuni particolari
+         <ref type="witlink" target="#p-ii-9">P II 9 1</ref> «Tribus anni mensibus, scilicet decembri, ianuario et februario, <term ref="#cublai-can">Cublay</term> rex in regali civitate continue immoratur in qua est huius regale palatium», e <ref type="witlink" target="#v-null-41">V 41 17-18</ref> «Or abiamo dito del <term ref="#gran-can">Gran Chan</term> e de suo’ fioli e de so moier, ora diremo chomo el <term ref="#gran-can">Gran Chan</term> mantien la so chorte et dele lor maniere. El Gran Chan stano tre mexi del’ano in
+         una zitade chiamata <term ref="#cambalu">Charain Chabuer</term>, zoè dezenbrio, zener e frever; et in questa zitade sono el so gran palazo fato in
+         questo modo […]». </p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

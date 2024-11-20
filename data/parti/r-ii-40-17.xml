@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-40-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>In questa pericope Ramusio combina assieme a Z il testo di <ref type="witlink" target="#vb-null-84">VB LXXXIV 17</ref> «Ma dapoi [R «Ma, dapoi»)] la fo soiugata dal <term ref="#gran-can">Gran Chan</term> tal chostumo i è stà levato [R «li levò»], né più i è stà tolerato l’ocisiun de forestieri,
+         ançi fato n’è gran punicione» [R «per la gran punitioni che sono stà fatte»]; <ref type="witlink" target="#z-null-57">Z 57 41</ref> «Sed <term ref="#gran-can">Magnus Can</term> illam consuetudinem [R «quella maladetta consuetudine»] interdixit, quod timore ipsius
+         non fuit amplius observata» [R «piú non si osserva»]. La lezione di F «celle malle
+         aventure» [<ref type="witlink" target="#f-null-118">F CXVIII 28</ref> «Mes, puis qe le <term ref="#gran-can">Grant Kaan</term> les conquisté, qe est entor .XXXV. anz, ne font celle malle aventure por la doutance
+         dou <term ref="#gran-can">Grant Sire</term> qe ne le laisse faire mie»] suggerisce che la forma <hi rend="italics">maladetta</hi> di R non sia un’aggiunta ramusiana, ma fosse presente già in Z1.</p>
+	<p>Non emergono prove di contatti di R con altre redazioni: <ref type="witlink" target="#p-ii-40">P II 40 14</ref> «[…] Sed <term ref="#gran-can">Magnus Kaam</term>, postquam regnum prefatum suo dominio subiugavit, hanc impietatem et stultitiam de
+         illa patria penitus extirpavit»;<ref type="witlink" target="#v-null-56"> V 56 39</ref> «[…] mo dapuo’ ch’el fo signor i non feze quel mal per paura de lui, el qual non
+         i lo lassò far ». In L viene omesso tutto il passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

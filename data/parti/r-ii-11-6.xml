@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-11-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-11">
+      <note>
+	<p>Il testo di R riflette il dettato di V e, soprattutto, di <ref type="witlink" target="#f-null-87">F LXXXVII 5</ref> «Et en cestui jor toç les <term ref="#idolatri">ydres</term> et toç les cristienç e toç les saraçin et toç les generasion des jens font grant
+         orasion et grant progere a les <term ref="#idolatri">ydres</term> et a les lor dieu qu’il lor sauve lor seingnor et qui li donent longe vite et joie
+         et santé»;<ref type="witlink" target="#v-null-43"> V 43 6</ref> «Et in queli tuti i christiani, Zudei, e queli che adora le idole, Saraini, e tute
+         le altre zenerazion de zente priega le idole e li soi dii che salva e varda el <term ref="#gran-can">Signor</term>, e diali longa vita et sanitade et alegreza dela soa nativitade […]». Non si danno
+         indizi di contatti di R con le versioni più sintetiche di <ref type="witlink" target="#l-null-72">L 72 6</ref> «Hac eciam die quecumque gentium generaciones sub ipso existentes, tam <term ref="#tartari">Tartari</term> quam ydolatre, tam Sarraceni quam eciam christiani, maximis orationibus deum exorant
+         quatinus eius dominum <term ref="#gran-can">Magnum Canem</term> placeat conservare», e di <ref type="witlink" target="#p-ii-14">P II 14 5</ref> «Oportet etiam ut omnes populi, cuiuscumque sint fidei, sive Iudei sive christiani
+         sive etiam Saraceni, <term ref="#tartari">Tartari</term>, ceterique pagani, deos suos solemniter invocent pro vita et incolumitate et prosperitate
+         <term ref="#gran-can">Magni Kaam</term>». </p>
+	<p>VB e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

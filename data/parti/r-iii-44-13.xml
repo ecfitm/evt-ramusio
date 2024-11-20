@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-44-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-44">
+      <note>
+	<p>La descrizione delle slitte siberiane proposta da Ramusio riprende <ref type="witlink" target="#p-iii-48">P III 48 5</ref> «Hii autem canes assueti et docti sunt trahere <term ref="#tragule">trahas</term> que vulgariter in Ytalia dicuntur “<term ref="#tragule">tragule</term>”; est autem <term ref="#tragule">traha</term> seu <term ref="#tragule">tragula</term> vehiculum sine rotis, quo apud nos montium habitatores utuntur; ad unam igitur <term ref="#tragule">tragulam</term> sex canes ligant ordine congruo; <term ref="#tragule">tragule</term> autem supponuntur pelles ursorum supra quas homines duo sedent: negotiator scilicet
+         qui pro pellibus vadit et auriga qui canes regit et dirigit et viam optime novit.
+         Quia igitur hoc vehiculum est de ligno levissimo et subtus est planum et politum et
+         canes fortes sunt ad huiusmodi officium assueti, nec magna honera vehiculo imponunt;
+         canes illi per lutum illud faciliter satis trahunt, nec multum in lutum figitur <term ref="#tragule">tragula</term> in huius tractu […]» (l’antigrafo VA CLIII 20-21 «Ell è a zaschaduna de queste poste ben quaranta chani che sono puocho menor de’
+         axeni; questi chani sono uxi a tirar chome fano i buò in nostre contrà, et tirano
+         <term ref="#tragule">traze</term>. Queste <term ref="#tragule">traze</term> non àno ruode ma sono piane de soto e lleziere, sì che per eser do homeni sula <term ref="#tragule">traza</term> non sse ne ficha se non puocho in quel fango» si presenta semplificato rispetto alla
+         soluzione di Pipino). </p>
+	<p>Sono tratti che garantiscono a P il carattere di antigrafo di Ramusio il lemma «<term ref="#tragule">tragule</term>», il richiamo alle slitte montane in Italia, la descrizione della forma e dei materiali
+         delle slitte; e si capisce come ha lavorato Ramusio, separando le informazioni “morfologiche”
+         sulle slitte da quelle relative alla loro funzionalità.</p>
+	<p>La medesima separazione si riconosce in F: F CCXVI 9-10 è dedicato alla descrizione morfologica: «Or sachiés que por ce qe en toute celle
+         jornee ne poent aler chavalz por la glace et por la boe, car cest .XIII. jornee sunt
+         entre .II. montagnes en une grant valee, e por ce hi est la glace e la boe tel com
+         je voç ai conté. Or, por ceste caisonz ensi com je voç ai dit, les chevaus ne i puet
+         aler. E, por ce qe carette con roes ne i poroit alere, ont il fait faire une <term ref="#tragule">trejes</term> qe ne a roies, {n}e sunt faites en tel mainere q’eles alent {sor} por la glace e
+         por la boe e por le fanc, si qe ne i se fiche mie trop. E de ceste <term ref="#tragule">trejes</term> en a maintes en nostri païs, car elle sunt celle ou l’en aporte sus le fen e la paie
+         l’invern{o}, quant il est grant pluie e grant fanc»; gli altri relatori si allineano
+         a F, offrendo descrizioni meno perspicue: vedi Z 150 21-24, L 197 5-6, V 118 11 e VB CLXXII 15-16.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-4-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-4">
+      <note>
+	<p>Al netto di qualche sfrondatura (favorita forse dalle ridondanze del modello: ad es.
+         <hi rend="italics">simul et semel</hi>, <hi rend="italics">posunt honerari, et honerantur</hi>), e di un dettaglio minimo che pare derivare da V (vd. <hi rend="italics">infra</hi>), la fonte del paragrafo è perfettamente riconoscibile in <ref type="witlink" target="#z-null-3">Z 3 7-9</ref> «Versus vero tramontanam est <term ref="#zorzania">Iorgia</term>, de qua infra dicemus. Et in confinibus <term ref="#zorzania">Iorgie</term>, quidam fons est de quo scaturit oleum in tanta quantitate quod mile cameli simul
+         et semel ibi posunt honerari, et honerantur; sed nichil in comestione valet. Sed bonum
+         est ad ungendum homines et quelibet animalia propter scabiem». </p>
+	<p>R recepisce i due spunti originali di Z: il cenno alla possibilità di curare con il
+         petrolio animali di ogni tipo e persino uomini colpiti dalla scabbia, mentre la restante
+         tradizione parla soltanto di <hi rend="italics">cammelli</hi>; e l’informazione – condivisa anche da V – sull’utilizzo dei cammelli come animali
+         da soma per il trasporto dei barili (<hi rend="italics">mile cameli</hi> in Z, <hi rend="italics">molti camelli</hi> in R: diffrazione generata da un compendio *<hi rend="italics">ml</hi>, o simili, del testo latino?), laddove tutte le altre versioni del testo parlano
+         di <hi rend="italics">navi</hi>: <ref type="witlink" target="#l-null-19">L 19 6</ref>: «Et in hiis confinibus est fons oley, de ‹quo› tanta habetur quantitas quod aliquando
+         centum naves honerantur una hora […]»; <ref type="witlink" target="#p-i-13">P I 13 7</ref>: «[…] tanta enim de fonte emanat huius liquoris copia, ut de ipsa naves centum aliquando
+         onerentur»; <ref type="witlink" target="#vb-null-12">VB XII 7</ref>, più sintetico, tace il dettaglio.</p>
+	<p>Tolte le <hi rend="italics">lectiones singulares</hi> di cui sopra, il testo di Z segue piuttosto da vicino <ref type="witlink" target="#f-null-21">F XXI 8</ref>: «Dever tramontane confines con <term ref="#zorzania">Jorgiens</term>, des quelz voç en parlerai encore avant. Et a ceste confine dever <term ref="#zorzania">Jorjens</term> ha une fontane ke sorçe oleo en grant abundance, si que cent nes hi kargent a une
+         foies: mes il n’est pas bon a manger, me il est bon a ardoir et a onger les giamiaus
+         por la rogne et por le farbores […]». </p>
+	<p>Prossimo a F, ma con almeno un tratto di Z – il già discusso cenno ai cammelli da
+         carico – è anche <ref type="witlink" target="#v-null-11">V 11 7</ref> «Deverso tramontana, ale chonfin de <term ref="#zorzania">Zaonichi</term>, sì è una fontana la qual dà hoio in gran quantitade, che zento ganbeli si chargerebe
+         in uno trato; ma nonn è buono da manzar, ma vien adoperado ali ganbeli: quando li
+         à rogna vien onti chon quelo, ed anche son bono da bruxar […]». Lo spostamento in
+         avanti del sintagma «son bono da bruxar» si osserva anche in R: Ramusio l’ha recepito
+         da V, o da uno Z più completo del toledano ?</p>
+	<p>Una parola, infine, sulla forma che il toponimo “Georgia” assume in R. Tra le fonti
+         a disposizione di Ramusio, il tipo <hi rend="italics">Zorzania</hi> è in P (che, sulla scorta del modello VA, ha *<hi rend="italics">Çorçania</hi>) e in V (cfr. ad es. <ref type="witlink" target="#v-null-12">V XII 1</ref>), donde può essere stato attinto; è altresì probabile che il toponimo, in quella
+         forma particolare – forse retroformazione dall’etnonimo *<hi rend="italics">giorgiani</hi>, *<hi rend="italics">zorzani</hi> – fosse di uso corrente in area italiana accanto ai più corretti *<hi rend="italics">Zorza</hi>, *<hi rend="italics">Jorgia</hi> e simili. Per la distribuzione dei due tipi (*<hi rend="italics">Zorzania</hi> e *<hi rend="italics">Zorza</hi>) nella tradizione del <hi rend="italics">Milione</hi> e nella letteratura odeporica medievale, cfr. Pelliot (1959-1973, pp. 738-739, nn.
+         244 e 245).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

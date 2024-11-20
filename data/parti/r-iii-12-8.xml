@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-12-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>Ramusio traduce Z 99 29 «Est itaque in hac insula quedam maneries simiorum qui sunt valde parvi et habent
+         vultum similem vultui hominum» (versione di F CLXV 15 «Il est voir que en ceste ysle a une mainere de singes qe sunt mout pitetes et ont
+         les vix que senblent homes»). I relatori che conservano la transizione di <ref type="witlink" target="#r-iii-12">R III 12 7</ref> presentano una lezione affine: V 87 14 «[…] el è in questa ixola una maniera de simioti, i qualli sono molto pizolli et
+         àno el volto simele a quello del’omo […]»; VB CXXXV 9 «Trovasse lie alguna sorta de simie picolle le qual à el volto molto simelle al’omo
+         […]»; i relatori che ne sono privi richiamano in <hi rend="italics">incipit</hi> l’informazione sulla presenza delle scimmie nel regno riferita in <ref type="witlink" target="#r-iii-12">R III 12 6</ref>: così P III 15 4 («In hoc regno simie sunt diversarum manerierum, quarum quedam parvule sunt habentes
+         facies hominibus similes et in ceteris etiam menbris corporis multum hominibus similantur»
+         – Pipino rielabora VA CXXIX 6 «El ge n’è simie pizolle che àno el vixo chomo l’omo e àno altri menbri someianti
+         al’omo»), e L 152 4 «Sunt et simie multe diversarum‹que› manerierum, ex quibus alique sunt parve valde,
+         habentes vultus ‹ex› toto humanis similes».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

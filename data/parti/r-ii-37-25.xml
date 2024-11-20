@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-25</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Nella prima parte della pericope R segue alla lettera <ref type="witlink" target="#z-null-54">Z 54 17</ref> «Ibi nascuntur optimi falcones, laneri et sacri». Il confronto con V e soprattutto
+         con F suggerisce che anche la seconda parte sia stata ricavata da un esemplare di
+         Z (= Z1) che si presentava meno lacunoso di Z toledano: V 55 36 «Là non sono boni falchoni, ma sono zifalchi, i qualli sono valenti et chontinuamente
+         oxelano»;<ref type="witlink" target="#f-null-115"> F CXV 10</ref> «Il ont encore que hi naisent mout buen fauchon lainier, qe sunt volant et mout hoiselent
+         bien». Nelle altre redazioni il passo è tràdito in una forma più concisa: <ref type="witlink" target="#l-null-94">L 94 18</ref> «Nascuntur eciam in partibus hiis boni falcones laynerii»;<ref type="witlink" target="#p-ii-37"> P II 37 12</ref> «Falcones lanerii sive herodii multi et optimi sunt ibi»; <ref type="witlink" target="#vb-null-81">VB LXXXI 19</ref> «[…] anchor boni levrieri, falchoni assai e gran chaçaxone».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

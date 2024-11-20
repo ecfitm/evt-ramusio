@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-105</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-105">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, CV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-105_1_1" n="1"> ‹P›artendossi dala dita citade chavalchandossi per una çornada senpre se trova
+         chaxalli e lavoraxon assai. </seg>
+      <seg xml:id="vb-null-105_1_2" n="2"> Et dapo’ se trova una cità chiamata <term ref="#tingui">Tingui</term>, la qualle nonn è molto gran citade ma abondante de tuti beni. </seg>
+      <seg xml:id="vb-null-105_1_3" n="3"> E ssono <term ref="#idolatri">idolatri</term> et sottoposti al <term ref="#gran-can">Gran Chan</term> et spendeno della moneta soa di charta; et sono homeni marchadanti. </seg>
+      <seg xml:id="vb-null-105_1_4" n="4"> Àno gra‹n›de
+         navillii. </seg>
+      <seg xml:id="vb-null-105_1_5" n="5"> Àno animalli assai e chaçaxon de animalli salvaçi et oxelaxon, la qual
+         citade tende versso sirocho. </seg>
+      <seg xml:id="vb-null-105_1_6" n="6"> Et dala sinistra parte, verso levante, per .III. giornate alla longa, se trova
+         il <term ref="#mare-oceano">mar Oceano</term> et dal <term ref="#mare-oceano">mar Ociano</term> per fino alla terra si se fa salle in gran quantità. </seg>
+      <seg xml:id="vb-null-105_1_7" n="7"> E in quel chamin si se trova
+         una gran citade che se chiama <term ref="#cingui">Cingui</term> la qual è nobelle e gran citade. </seg>
+      <seg xml:id="vb-null-105_1_8" n="8"> E ffase lie tanto sale che ne fornisse tuta
+         la provincia, della qualle el segnor <term ref="#gran-can">Gran Can</term> ne traçe tanta utillità che è cossa mirabelle.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

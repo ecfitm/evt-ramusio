@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-52</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-52">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 52</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-52_1_1" n="1"> Cum vero equitatum est .XX. dietis superius nominatis per montes et vales, invenitur
+         quedam provincia nomine Acbaluch Mançi, que est tota plana. </seg>
+      <seg xml:id="z-null-52_1_2" n="2"> In ea sunt multe civitates et castra. </seg>
+      <seg xml:id="z-null-52_1_3" n="3"> Et provincia invenitur
+         versus ponentem eundo. </seg>
+      <seg xml:id="z-null-52_1_4" n="4"> Gentes vivunt de mercimoniis et artibus. </seg>
+      <seg xml:id="z-null-52_1_5" n="5"> In ista provincia
+         oritur çinçiber in magna quantitate, quod portatur per totam provinciam <term ref="#cataio">Cathay</term>. </seg>
+      <seg xml:id="z-null-52_1_6" n="6"> Habent frumentum, risum et alias segetes habundanter et pro bono foro.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="z-null-52_2_1" n="1"> Et itur bene .XX. dietis per ponentem, inveniendo multas civitates et castra.
+         </seg>
+      <seg xml:id="z-null-52_2_2" n="2"> Homines vero <term ref="#idolatri">adorant ydolla</term>; et de fructibus terre eorum vivunt et de venationibus silvestrium. [9] Ibi sunt
+         multi leones, ursi, linces, dayni, caprioli et cervi; et sunt ibi bestie in magna
+         quantitate que muscatum producunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

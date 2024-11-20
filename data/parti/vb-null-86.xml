@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-86</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-86">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXXVI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-86_1_1" n="1"> ‹N›el .MIIcLXXII. el <term ref="#gran-can">Gran Chane</term> mandò suo hoste nel reame de <term ref="#vociam">Utiam</term> per guardia de quello e fecene capitanio de quella giente <term ref="#centemur">Centimur</term> so nevodo, figio de 1° suo figio, el qualle el fece re de quel paexe. </seg>
+      <seg xml:id="vb-null-86_1_2" n="2"> El re de
+         <term ref="#mien">Mian</term> e <term ref="#bangala">Bangalla</term>, saputo dela venuta de <term ref="#centemur">Centemur</term>, ne ave despiacere e disposese oviar a quello; e quanto presto poté apariò grandissimo
+         hoste però ch’era potentisimo segnore. </seg>
+      <seg xml:id="vb-null-86_1_3" n="3"> Et apariati do millia elefanti con le tore
+         sopra, quelle nele qualle per cadauna v’era .XVI. omeni armati co‹n›batanti, ecian
+         apariò .XL. milia omeni d’arme a chavallo e molti pedoni; e con grandissima presteça,
+         vene al’incontro de <term ref="#centemur">Centemur</term> et aprosumòsse a quello a tre giornate et i ve messe el canpo suo per riposso de
+         quello. </seg>
+      <seg xml:id="vb-null-86_1_4" n="4"> <term ref="#nestardin">Nistradin</term> chapitanio de quele gente tartare, a chui el <term ref="#gran-can">Gran Can</term> aveva dato el governo del’oste, saputo dela venuta del re de <term ref="#mien">Mian</term> con tanto exercito, stete pauroxo però che lui non avea che omeni .XII. millia da
+         chavallo ma tutti prodomeni et esperti nel’arte dela millicia. </seg>
+      <seg xml:id="vb-null-86_1_5" n="5"> Et chome savio
+         et experto chapitano, desese nel piano de <term ref="#vociam">Utian</term> e messese al lato de 1° boscho folto e forte; e chiamati tuti suoi cavallieri, quelli
+         con ornatissime parolle confortò dovesseno esser non de meno vertute chome nel passato
+         erano stati e che la possança non stava nelle moltitudene dele gente ma sí nela vertù
+         di valoroxi et esperti chavallieri, e che la giente del re de <term ref="#mien">Mian</term> era giente inesperta e del’armi non praticha: e però i non dovevano dubitar dela
+         moltitudene di nemici ma sí sperar nella pericia soa (çà longamente esperta contra
+         moltitudene de nemici vinti in molte parte) perché el nome loro era – non sollamente
+         ai nemici ma a tuti quegli del mondo – pauroxo, che i dovesseno esser de quella vertude
+         senpre erano stati e che a quelli prometevano ferma et indubitata vitoria. </seg>
+      <seg xml:id="vb-null-86_1_6" n="6"> Sapu|253v|to
+         el re de <term ref="#mien">Mian</term> che l’oste tartara era desesa el pian de <term ref="#vociam">Utian</term>, subito moso l’oste sua, vene ad achanparse presso l’oste tartara a uno migio. </seg>
+      <seg xml:id="vb-null-86_1_7" n="7">
+         E messo le schiere soe in ordene et ordenate prima le schiere di iliofanti, confortati
+         i suo’ chavallieri a bene conbatere (però che certi erano dela vitoria essendo loro
+         tre per uno di nemici), i <term ref="#tartari">Tartari</term> non perdendo tenpo apariava l’oste soa con grandissimo ordene e vigoroxità. </seg>
+      <seg xml:id="vb-null-86_1_8" n="8"> Mosso
+         el Re de <term ref="#mien">Damian</term> le schiere soe vene con gran vigore contra l’oste tartara; i <term ref="#tartari">Tartari</term> non con minore virtude e vigoroxità d’animo mossese contra quegli: ma i chavalli
+         d’i <term ref="#tartari">Tartari</term> inpauriti dei liofanti non ardivano andar avanti. [9] El valloroxo et experto chapitano
+         tartaro, visto el pericollo dell’oste sua, feceno tuti smontare a piedi e i cavalli
+         metere nel boscho che al latto aveano; et a piedi con i archi et saete in mano, conminçò
+         a saetare nei illiofanti e con tanto vigore e strepito di voçe che i lliofanti, inspauriti
+         tra per le ferite e per el gran tuono delle voçe, si volse e messese a fugire versso
+         l’oste soa, non possendo esser da quegli retenuti metando in grandissima confusione
+         e desordene l’oste del Re de <term ref="#mien">Damian</term>. [10] La giente tartara, visto el desordene era nel’oste del re, cresutoge l’animo,
+         con grandissima audacia se misse fra nemici el re, confortando i soi stesseno constanti
+         nella bataglia. [11] Uno oste contra l’altro cominciò a conbatere con tanto vigore,
+         con tanta ucisione d’omeni con tanto spargimento di sangue ch’era cossa mirabille.
+         [12] I lliofanti, inspauriti, non possendo essere retenuti se misero a fugire versso
+         el boscho, et intrando in quello follto de spessisimi albori, ronpendo le tore che
+         sopra d’esse aveanno, non con picolla ucisione de quelli sopra le tore, erano tuti
+         vagabondi e desordenati, introròno nel boscho ch’era grande e molto forte. [13] La
+         giente tartara, visto la fuga de quelli animalli, montendo a parte a parte a chavallo
+         con grande ordene e maisterio e non con minore vigore entròno fra nemici; né vaiendo
+         persuasione del re, el qualle in ogni parte dove el pericollo era magiore se meteva
+         pregando steseno fermi e constanti a conbatere, se miseno in fuga. [14] El re, vedendo
+         non potere più sostenere l’inpeto di <term ref="#tartari">Tartari</term> et ucisione di soi, se mise a fugire, e seguitati da’ <term ref="#tartari">Tartari</term> furono per la maor parte morti non cessendo caçare et ucidere quelli fino alla sera.
+         [15] Ricolti i <term ref="#tartari">Tartari</term>, se reduse versso el boscho et sentendo che in quello era intrati i lleofanti, entròno
+         nel boscho e trovòno quelle gente chanpate ch’era sopra le tore tagliava albori e
+         sbaravano le strate per farsse securi. [16] Ma i <term ref="#tartari">Tartari</term>, ronpendo le forteçe çà per loro fate, molti de quelli ucisino e molti çà era fugiti
+         preseno cercha .IIc. leofanti; i altri parte fu morti e parte per el boscho se ne fugiro; per che dapoi
+         quella bataglia senpre el <term ref="#gran-can">Gran Can</term> usò de avere di liofanti nel’oste soe.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

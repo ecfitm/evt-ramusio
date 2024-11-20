@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-95</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-95">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XCV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-95_1_1" n="1"> ‹P›artendossi da <term ref="#ciangli">Cengli</term> per .VI. giornate se trova molti citade e chasteli versso meçodì. </seg>
+      <seg xml:id="vb-null-95_1_2" n="2"> È citade riche
+         et molto ate a merchadantie; et tuti per questo camino sono <term ref="#idolatri">idolatrii</term> et ardeno i corpi de loro morti. </seg>
+      <seg xml:id="vb-null-95_1_3" n="3"> È ssotoposti al <term ref="#gran-can">Gran Can</term> e spendeno dilla monetta soa di carta. </seg>
+      <seg xml:id="vb-null-95_1_4" n="4"> Àno abondantia de tute vituarie per el
+         viver. </seg>
+      <seg xml:id="vb-null-95_1_5" n="5"> Et a chapo de dite .VI. giornate se trova la nobelle e gran citade chiamata
+         <term ref="#tudinfu">Tondifu</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

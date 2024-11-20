@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-78</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-78">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LXXVIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-78_1_1" n="1"> Ci comance de la bataille dou <term ref="#gran-can">Grant Kaan</term> et de <term ref="#naiam">Nayan</term> son oncle.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-78_2_1" n="1"> Et que voç en diroie? Quant l’aube dou jor de la bataille fu venu, adonc aparut
+         le Grant Chan sor un tertres qui estoi{e}t en la plaingne: la, <term ref="#naiam">Naian</term> estoit atendés, qe demoroient mout seuramant com celz que ne creoent por ren dou
+         monde qe illuec venist nulles jens por lor fer domajes, et ce estoit l’achaison qe
+         il demoroient a si grant seurté et ne fasoient garder lor canp ne ne avoient nulle
+         |35a| eschar{a}gaite ne avant ne areres. </seg>
+      <seg xml:id="f-null-78_2_2" n="2"> Le <term ref="#gran-can">Grant Kaan</term> estoit sor le tertres que voç ai contés sor une bertresche ordree sor quatre leofans;
+         il avoit sor lui s’a‹n›seingne si haut qe bien pooit estre veue de toutes pars. </seg>
+      <seg xml:id="f-null-78_2_3" n="3">
+         Sez jens estoient tuit eschieré a .XXXm. a .XXXm., et environnent tout le canp en un moment. </seg>
+      <seg xml:id="f-null-78_2_4" n="4"> Et avech chascun home a cheval avoit
+         un home a pié derere a la crope dou cheval, con la{i}nce en main. </seg>
+      <seg xml:id="f-null-78_2_5" n="5"> En tel mainere
+         com vos avés hoï estoit le <term ref="#gran-can">Grant Kaan</term> con sez jens atiré, con sez esceles environ le canp de <term ref="#naiam">Naian</term> por conbatre con elz. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-78_3_1" n="1"> Et quant <term ref="#naiam">Naian</term> et sez homes on veu le <term ref="#gran-can">Grant Kaan</term> con sez jens environ lor canp, il en furent tuit esbaï: il corent as armes, il s’aparoilent
+         tostainemant et font lor eschiele bien et ordreement. </seg>
+      <seg xml:id="f-null-78_3_2" n="2"> Endementier qe andeus partes
+         estoient aparoillés qe ne avoient que dou ferir, adonc peust l’en veoir et oïr soner
+         maint estroment et maintes channes, et chanter a aute vois, car sachiés qe les uçance
+         des <term ref="#tartari">Tartars</term> sunt tielz: car, quant il sunt atiré et aschieré por conbatre, il ne seroient en
+         la bataile jusque a tant qe les naccar ne sonent, ce sunt celz de lor chevetain. [9]
+         Et endementier qe les naccar ne sonent, adonc tous les plosors des <term ref="#tartari">Tartars</term> sonent lor enstrumens et chantent. [10] Et ce estoit le porcoi le so|35b|ner e le
+         chanter hi estoit si grant, e d’une part et d’autre. [11] Et quant toutes les jens
+         furent bien aparoilliés d’andeus pars, atant comencent a soner les grant nacar dou
+         Grant Chan. [12] Et tantost que les nachar conmancent a soner, atant ne font deleament, mes
+         laisse corre les une jens vers le autre, con ars et con espee et con macque et pou
+         de lances, mes les homes a piés aveient bien abalestre et autre armaüres asseç. [13]
+         Et qe voç en diroie? Il conmancent la meslee mout cruele et felonese: or poit l’en
+         veoir voler sagites, car toit l’air n’estoit plein come ce il fuist pluie; or poit
+         bien veoir chevalers et chevaus mort caoir a la tere; il hi estoit si grant la grïé
+         et remoute que l’en ne oïst le dieu tonant. [14] Et sachiés que <term ref="#naiam">Naian</term> estoit cristienz bateiçieuç et a ceste bataille avoit il la crois de Crist sor la
+         enseingne. [15] Et por coi voç firoie je lonch conte? Sachiés tout voirement qe cele
+         fu la plus perilieuse bataile et la plus dotouse qe jamés fust veue, ne a nostre tens
+         ne furent tantes jens en un canp a bataille et propemant homes a chevaus. [16] Il
+         hi morurent tant homes et d’une part et d’autre qe ce estoit mervoille a veoir. [17]
+         Elle dure, ceste meslee, dou mai{n}tin jusque a midi, mes au dereain venqui la bataille
+         le <term ref="#gran-can">Grant Kaan</term>. [18] Quant <term ref="#naiam">Naian</term> et sez homes virent qu’il ne |35c| pooient plus sofrir, il se mistrent en fuie, mes
+         ce ne vaut lor rien, car <term ref="#naiam">Naian</term> fu pris et tous sez baronz et ses homes se rendirent con lor armes au Grant Chan.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

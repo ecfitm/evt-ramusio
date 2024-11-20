@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-40</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-40">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XL</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-40_1_1" n="1"> ‹C›havalchato se à a traversso el diserto per giornate .XXX., chome sopra ò dito,
+         alla fin del deserto se trova una citade chiamata <term ref="#sachion">Sasicicion</term> ch’è sotto al <term ref="#gran-can">Gran Chan</term>, ma la provincia fi apellata <term ref="#tanguth">Tangut</term>. </seg>
+      <seg xml:id="vb-null-40_1_2" n="2"> E questa giente sono <term ref="#idolatri">idolatri</term>: ène ecian molti cristiani et saracini. </seg>
+      <seg xml:id="vb-null-40_1_3" n="3"> I abitanti àno lengua da per si; et questa
+         provincia è fra griego e llevante. </seg>
+      <seg xml:id="vb-null-40_1_4" n="4"> Nonn è giente abiano mestieri né ussa marchadantie.
+         </seg>
+      <seg xml:id="vb-null-40_1_5" n="5"> Àno molti tenpli de’ suo’ idolli de molte sorte ai qualli i fano grande sacreficii
+         e rendege grande honor e reverencia. </seg>
+      <seg xml:id="vb-null-40_1_6" n="6"> Àno questo chostume: che chadauno che àno
+         figiuolli fano nudrigar montoni ad onor delli idoli et in chapo dill’ano, quando vien
+         la festa de quello idollo, a reverencia dil qual l’è nudrigato, fino menato el moltone
+         e i figuolli davanti l’idollo con grandissimo onor e reverencia. </seg>
+      <seg xml:id="vb-null-40_1_7" n="7"> E quivi el moltone
+         fi sacrifichato ad onore del’idolo e, con grandissima devocione, priegano l’idollo
+         ge conservano i figiolli per nome di qual el sacrificio è fato. </seg>
+      <seg xml:id="vb-null-40_1_8" n="8"> E sacrificato
+         el moltone, el mete davanti al’idollo et dicono che quel idollo mangia la sustancia
+         de quella charne, e possa porta el moltone a chaxa: e, chiamato a chaxa i parenti
+         et amici loro, con grande festa mangiano quella charne e con suma reverencia; mangiato
+         i àno la charne, i conservano bene le ossa et quando questi moreno, i fano insieme
+         arder i corpi. [9] Et quando i fano portar el corpo al luogo dove el de’ fir arso,
+         i fano |237v| far per la via in più parte alchune chasele de legname e falle coprire
+         dei più richi pani de seta et oro i pono; e quando quei portano el corpo, quando i
+         giongeno a chaduna de queste chasele, i metono el corpo in quele. [10] E quivi sono
+         aparechiate molte et delichate vivande le qual tute fino butate davanti el corpo:
+         et chusì fano in chadauna chaxella fate nella via, fino i sono gionti al luogo dove
+         se de’ arder el corpo. [11] E tengono per opinione che tante vivande nel’altro mondo
+         firà apresentate a l’anema del morto. [12] Et avanti el corpo, quando el è per arder,
+         i meteno molti chavalli fati de charta, ganbelli, omeni, denari, tuti però de charta;
+         e insieme con el corpo i ardeno tanti denari, chavalli, ganbelli et omeni i averano
+         all’altro mondo. [13] Et avanti al corpo fano sonar i strumenti assai, però che al’altro
+         mondo altretanti ne arà l’anema soa. [14] Subito morto el corpo, i parenti suo’ mandano
+         per alchuni suo’ negromanti et a quelli dicono l’ora e el dì dela natività del morto;
+         e queli negromanti (over astolegi) vedeno per l’arte soa qual dì è bon da arder el
+         corpo, e molte fiade ochore i comandano el corpo non sia portado ad arder fin a uno
+         mexe o più o meno secondo quei comandano, né per algun modo i parenti del morto preteririano
+         el comandamento loro. [15] E fin el corpo stano in chaxa, i mete el corpo in una chasa
+         de legname grosa e ben ciuxa e piena di cosse odorefere, açò el corpo non puça, e
+         ssenpre dal dì che ’l chorpo è morto fino al dì il portano ad arder, tuti i parenti
+         stano in chaxa a guardar quello. [16] Et senpre apariate de molte e delichate vivande
+         e mese tute avanti el corpo, dicono quella mangiar tuta la sustancia de quelle vivande;
+         daposa quelle con gran festa fino mangiate per i parenti. [17] E venuto l’ora deputada
+         a mandar el corpo ad ardere, i fano ronper el muro dela caxa e fano una porta nuova
+         per la qual i traceno el corpo de chaxa, né per alcun modo il caveria per la porta
+         maistra.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

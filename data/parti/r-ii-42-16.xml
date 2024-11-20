@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-42-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-42">
+      <note>
+	<p>Ramusio rielabora abbondantemente il testo delle sue fonti. Il debito maggiore è nei
+         confronti di <ref type="witlink" target="#vb-null-86">VB LXXXVI 9</ref> «[…] e con tanto vigore e strepito di voçe che i lliofanti, inspauriti tra per le
+         ferite e per el gran tuono delle voçe [R «per il dolore et rabbia delle ferite et
+         per il tuono grande delle voci, erano talmente impauriti»] […] non possendo esser
+         da quegli retenut» / <ref type="witlink" target="#vb-null-86">VB LXXXVI 12</ref> «I lliofanti, inspauriti, non possendo essere retenuti se misero a fugire versso
+         el boscho, et intrando [R «et quivi entrando»] in quello follto [R «foltezza»] de
+         spessisimi albori, ronpendo le tore che sopra d’esse aveanno, non con picolla ucisione
+         de quelli sopra le tore [R «haveano sopra, con ruina et morte di quelli che vi erano
+         dentro»], erano tuti vagabondi e desordenati, introròno nel boscho ch’era grande e
+         molto forte». Si danno però anche tracce di contatti con <ref type="witlink" target="#p-ii-42">P II 42 5</ref> «[…] ingressique sunt omnes cursu rapido [R «con gran furia»] in nemus proximum,
+         nec potuerunt ab ingressu nemoris a suis rectoribus prohiberi; divisi sunt in nemore
+         ab alterutro, huc et illuc et arbores nemoris omnia castra eorum lignea confregerunt,
+         nam arbores magne et dense erant [R «per la foltezza et grossezza di arbori»]», e
+         con <ref type="witlink" target="#v-null-58">V 58 14</ref> «Et li lionfanti mai non restò infina ch’i pervene al boscho, intrando in quello
+         ronpendo e vastando tuti i chastelli [R «li castelli»] che i aveva adosso, mo’ in
+         qua mo’ in là fuzendo chon gran strepido [R «con grandissimo strepito»]» (vd. <ref type="witlink" target="#f-null-122">F CXXII 6</ref> «[…] de si grant fraite qe il senbloit qe tout le monde se deust fendre: il ne s’arestent
+         jamés a les bois et hi se mestrent dedens et ronpent les cha{u}stiaus et gastent et
+         destruent toutes couses, car il aloient or ça or la por le bois, faisant trop grant
+         fraite et temoute»).</p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

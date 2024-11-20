@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-87-1-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-87-1-4">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 87 1-4</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-87-1-4_1_1" n="1"> Quando a <term ref="#quinsai">Qinsay</term> disceditur, itur una dieta versus syrocum, inveniendo domos et villas et viridaria
+         multum delectabilia, ubi invenitur de omnibus victualibus habundanter.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="z-null-87-1-4_2_1" n="1"> In capite vero diete invenitur civitas <term ref="#tapinzu">Tanpinçu</term>, valde pulcra et magna, que respondet civitati <term ref="#quinsai">Qinsay</term>; cuius gentes <term ref="#idolatri">adorant ydola</term>, monetam habent de cartis, comburunt funera et sunt sub dominio <term ref="#gran-can">Magni Can</term>. </seg>
+      <seg xml:id="z-null-87-1-4_2_2" n="2"> Vivunt de mercimoniis et artibus, et habent de omnibus victualibus habundanter.
+         </seg>
+      <seg xml:id="z-null-87-1-4_2_3" n="3"> Alia non sunt ibi digna relatu, et procedentes tractabimus de civitate [46v| <term ref="#uguiu">Vugui</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

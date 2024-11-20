@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-8-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-8">
+      <note>
+	<p>Ramusio traduce <ref type="witlink" target="#z-null-97">Z 97 6-9</ref> «In ista provincia nascitur <term ref="#berci">berci</term> domesticum in multa quantitate. Aurum quidem in habundantia tanta habent quod nemo
+         crederet quin videret. Habent elephantes, venationes et aucupationes multas. Et ab
+         isto regno portantur omnes porcellane que per alia regna feruntur». L’unica “deviazione”
+         dal dettato della redazione latina è nella frase finale «le porcellane che si portano
+         per gli altri paesi, et si spende per moneta, com’è detto di sopra», a fronte di «portantur
+         omnes porcellane que per alia regna feruntur». In effetti, l’antigrafo di Z, F CLXIII 5-7, allude all’uso monetario: «En ceste provence naist le <term ref="#berci">be‹r›çi</term> domesce en grandisime quantité. Il ont or en grant abondance, si grant qe nulz le
+         peust croir qui ne le veist. Il ont leofant e chacejonz e venajonz aseç. Et de ceste
+         reigne vont toutes les porcelaine qe s’espenent en toutes provences, com jeo vos ai
+         contés»; a F si allineano innanzitutto VA CXXV 4-5 «In questa chontrà nasie <term ref="#berci">birzi</term> domestegi che èno chome lovini, et sono molti boni. El ge n’è oro in grande abondanzia;
+         è alifanti asai; el se truova porzelane che se spendeno in le provinzie che ò dite
+         de sopra», e il suo apografo P III 11 4-5 «In hac provincia crescunt <term ref="#berci">birci</term> qui domestici sunt et magni ut limones, qui valde boni sunt; ibi aurum invenitur
+         in copia et sunt ibi elephantes multi. Est ibi porcellana que pro moneta expenditur
+         de qua dictum est supra». Si può ipotizzare che da P Ramusio abbia tratto l’informazione
+         per “completare” il più generico testo di Z (a meno di non voler pensare che la dittologia
+         ramusiana “portare/spendere” fosse nel relatore Z a lui disponibile).</p>
+	<p>Gli altri relatori oscillano tra i due verbi: “portare” in L 148 3-6 «Hic nascitur <term ref="#berci">verçi</term> domesticum in maxima quantitate. Adest eciam aurum ‹in› incredibili quantitate. Elefantes
+         habent et venationes optimas. Et hinc habentur omnes porcellane, que, ut diximus,
+         per diversas provincias expanduntur» e in V 85 4 «Et in questa nasse <term ref="#berci">orzi</term> demestizi in gran quantitade, et àno oio in gran quantitade; et in questa sono lionfanti
+         et chazaxon et oxelaxon; e da questo reame vieno portade tute le porzelane che vano
+         in le altre parte»; più ambigua la situazione in VB CXXXII 5-8 «In questa provincia nase <term ref="#berci">verçi</term> assai et ecian muschio e habano in gran quantitade. Àno oro in gran copia et tanta
+         quantità ch’è mirabelle cossa. Àno liofanti assai et molte altre bestie salvatiche,
+         però di chaçaxon sono bene forniti. Àno porcellane dele qual i spendeno e spendese
+         ecian per le tere circostante, spendendo per suo monetta quelle» (nel quale «spendeno
+         e spendese» si possono leggere come trivializzazione di «spandeno e spandese» – e
+         in tal caso Ramusio potrebbe aver trovato qui un appoggio al suo <hi rend="italics">bricolage</hi>).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

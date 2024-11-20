@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-47-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-47">
+      <note>
+	<p><ref type="witlink" target="#f-null-127">F CXXVII</ref> (Ci devise de la provençe de <term ref="#amu">Aniu</term>); <ref type="witlink" target="#l-null-102">L 102</ref> (De provincia <term ref="#amu">Amu</term>); <ref type="witlink" target="#p-ii-47">P II 47</ref> (De provincia <term ref="#amu">Amu</term>), <ref type="witlink" target="#va-null-103">VA CIII</ref> (Della provinzia de <term ref="#amu">Chamu</term>, dove i omeni e lle femene portano brazali d’oro); <ref type="witlink" target="#v-null-61">V 61 1-6</ref> (Dela provinzia de <term ref="#amu">Annui</term> e di quella di <term ref="#tholoman">Toloman</term>); <ref type="witlink" target="#vb-null-90">VB XC</ref>; <ref type="witlink" target="#z-null-62">Z 62</ref>.</p>
+	<p>Il modello principale del capitolo è un testimone della redazione Z. Nella parte centrale,
+         tuttavia, Ramusio ha collazionato la sua fonte con almeno altri due esemplari. Nella
+         seconda pericope, l’ordinamento delle informazioni riflette quello di P, e anche i
+         contenuti risentono dell’influsso della versione di Pipino. Nella terza pericope,
+         oltre all’apporto di Z e di P si riscontra anche quello di un terzo testimone, VB
+         o, meno probabilmente, L. Nella parte finale, l’editore torna a seguire fedelmente
+         il dettato di Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

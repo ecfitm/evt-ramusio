@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-127</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-127">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXXVII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-127_1_1" n="1"> Ci devise de la provençe de <term ref="#amu">Aniu</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-127_2_1" n="1"> <term ref="#amu">Aniu</term> est une provence ver levant qe est au <term ref="#gran-can">Grant Kaan</term>. </seg>
+      <seg xml:id="f-null-127_2_2" n="2"> Il sunt <term ref="#idolatri">ydules</term>; il vivent de bestiames et dou profit de la tere; il ont langajes por elz. </seg>
+      <seg xml:id="f-null-127_2_3" n="3"> Les
+         dames portent as jambes et es braces braciaus d’or et d’arjent de grandisme vailance,
+         et les homes les portent ausi et meilorç qe les dames et plus. </seg>
+      <seg xml:id="f-null-127_2_4" n="4"> Il ont chevaus
+         aseç et buens, et le vendent grandisme quantité a les yndiens que en font grant merchandie.
+         </seg>
+      <seg xml:id="f-null-127_2_5" n="5"> Il ont encore trop grant habondance de bufal e des b{e}uef e des vaches, por ce
+         che trop est buen leus e de bone pasture. Il ont grant abundance de toutes couses
+         de vivre. </seg>
+      <seg xml:id="f-null-127_2_6" n="6"> Et sachiés qe de ceste <term ref="#amu">Aniu</term> jusque a <term ref="#cangigu">Caugigu</term>, qe derer est, a .XV. jornee, et ‹de› <term ref="#cangigu">Caugigu</term> a <term ref="#bangala">Bangala</term>, qui est tierce provence en deriere, a .XXX. jornee. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-127_3_1" n="1"> Or noç partiron de <term ref="#amu">Aniu</term> et aleron a une autre provence qe a a non <term ref="#tholoman">Toloman</term>, qui est longe de ceste bien .VIII. jornee ver levant.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

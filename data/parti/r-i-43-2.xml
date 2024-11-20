@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-43-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-43">
+      <note>
+	<p>Il riferimento ai <term ref="#tartari">Tartari</term> armati di «archi et altre armi» non sopravvive in nessuna delle fonti di R (almeno
+         nelle copie superstiti), ma si trova identico in <ref type="witlink" target="#f-null-64">F LXIV 6-7</ref> «Et quant Cinchis Can voit que il avoit si grant jens, il s’aparoille con arc et con autres lor armeure
+         […]». È dunque probabile che Ramusio lo abbia ereditato da Z1.</p>
+	<p>Per il resto, la pericope di R è largamente debitrice dell’ampia riscrittura di <ref type="witlink" target="#vb-null-49">VB XLIX 1-4</ref>, che reinterpreta arbitrariamente lo scarno dettato poliano, rimodellandolo nella
+         lunga orazione militare di Chinggis alle tribù tartare radunate: «[…] vedendosse avere tanta moltitudene de valentissimi
+         homeni, i cresete el chore parendoge tanti valorosissimi homeni adunati essere suficienti
+         ad acquistare el mondo. Et preparate le chosse soe con grandissimo ordene et dilegiencia,
+         chiamato a sé i suo’ principalli, con ornata oracione ge parllò: “Amici e fratelli
+         charissimi, chome vedete nui siamo in questi logi selvestri et deserti adunati tanti
+         valorosissimi omeni alla vertude e magnanimità di qualle certo, al iudicio mio, el
+         mondo apena deba stare; non n’è adonque a tuti nui che abiamo el governo de questo
+         a nui sudito popolo de tanta excelencia, de vertude, forteça et magnanimitade, grandissimo
+         vilipe‹n›dio star rechiuxi in questi logi, solo degni da fir abitadi da animalli salvaçi
+         et non da tanta moltitudene de magnanimi homeni. Quanto per me, vostro segnore e chapitaneo,
+         io mi reputo questa nostra abitacione di tanta vergogna e che non ardischo alçare
+         i ochi a guardare vui, valorosisimi chavalieri, i quali cognoscho di tanta vertude
+         et excelencia, che già per molto tenpo aresti provato le valoroxe vostre arme in altri
+         paexi e in più nobelli esercici che in questi canpi selvestri contra i animali salvaçi.
+         Cognoscho el manchamento dela tardità fin qui esser in me ma, de qui avanti, per certo
+         io serò pari a vui et de uno animo ad usire de questi luogi salvaçi: reduniamo adunque,
+         fratelli charissimi, tutti insieme le forçe nostre et andiamo ad aquistarci abitacione
+         degne dele nostre vertù, né più perdiamo tenpo che tropo è el perduto, anci sforçamosi
+         con grandissima solicitudene per quanto se pò rechuperarlo”». Di questo brano Ramusio
+         seleziona alcuni sviluppi da innestare sull’intelaiatura fornita da Z, in parte riproponendoli
+         alla lettera (cfr. ad es. «<hi rend="italics">vedendosi</hi> signore di <hi rend="italics">tanti valorosi huomini</hi>, essendo <hi rend="italics">di gran core</hi>» R / «<hi rend="italics">vedendosse</hi> avere <hi rend="italics">tanta moltitudene de valentissimi homeni</hi>, i cresete <hi rend="italics">el chore</hi>» VB), in parte ritagliandoli a piacere e riscrivendoli («nui siamo in questi <hi rend="italics">logi selvestri et deserti</hi> […] io serò pari a vui et de uno animo ad <hi rend="italics">usire de questi luogi salvaçi</hi>» VB &gt; «volse <hi rend="italics">uscire</hi> di quelli <hi rend="italics">deserti et luoghi salvatichi</hi>» R, «già per molto tenpo aresti provato le valoroxe vostre arme in altri paexi e
+         in più nobelli esercici che in questi canpi selvestri contra i animali salvaçi» VB
+         &gt; «con gli archi erano valenti et bene ammaestrati, havendosi con quelli essercitati
+         mentre erano pastori» R).</p>
+	<p>Tra le altre fonti di R, <ref type="witlink" target="#v-null-35">V 35 2</ref> è quella che più si avvicina a F («[…] et ’sto signor vedendo tanta zente se messe
+         inn ordene de arme e de vituaria et andòe inn altre parte, chonquistando molte provinzie,
+         sì che in pocho tempo chonquistòe nuove provinzie al so dominio […]»), al netto di
+         qualche lezione particolare: ad es., sarà frutto di un fraintendimento – del copista
+         o del traduttore? – il sintagma «de arme e de vituaria», laddove F ha «con arc et
+         con autres lor armeure»; mentre il sintagma verbale «se messe inn ordene», confermato
+         da R («havendo ordinato che…»), potrebbe rimontare a un eventuale *<hi rend="italics">ordinavit</hi>  “ordinò, dispose” (traduzione del fr. <hi rend="italics">s’aparoille</hi> “si preparò, si predispose”: <hi rend="italics">AFW</hi>, I, p. 424) presente in Z. Sunteggiano da parte loro con decisione <ref type="witlink" target="#l-null-58">L 58 5</ref> «[…] Qui, dum se potentem ob eorum multitudinem cognovisset, incepit circumstantia
+         loca conquirere .VIII., que provincias non multo tempore sibi subiecit […]», e <ref type="witlink" target="#p-i-52">P I 52 2</ref> «[…] ipse autem subditum sibi populum prudentissime gubernavit; brevi vero in tempore
+         provincias octo cepit […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

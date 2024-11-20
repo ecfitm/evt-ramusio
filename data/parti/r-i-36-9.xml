@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-36-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-36">
+      <note>
+	<p>R specifica la natura “celeste” delle osservazioni degli indovini («Et se allhora
+         quel pianeta non regna», «[…] aspettando che ’l pianeta gli sia propitio et non contrario»),
+         diversamente dal resto della tradizione, che si mantiene sul vago (cfr. p. es. F,
+         dove si parla genericamente di <hi rend="italics">ars</hi> e <hi rend="italics">endevinaile</hi>).  Si tratta di lasciti di Z1, purtroppo non verificabili sul toledano, oppure di integrazioni autonome di Ramusio,
+         influenzato da un contesto ricco di riferimenti alla divinazione celeste (vd. p. es.
+         <ref type="witlink" target="#p-i-45">P I 45 4</ref> «illius hore constellacione perspecta», <hi rend="italics">ajout</hi> recepito in <ref type="witlink" target="#r-i-36">R I 36 8</ref>; o ancora <ref type="witlink" target="#l-null-52">L 52 12</ref>, <ref type="witlink" target="#v-null-31">V 31 12</ref>)?</p>
+	<p>Per il resto, la pericope presenta una probabile tessera di <ref type="witlink" target="#p-i-45">P I 45 4</ref> («fanno retener il corpo» = «corpus […] retineri faciunt») inserita in un contesto
+         molto vicino al dettato di <ref type="witlink" target="#f-null-57">F LVII 17</ref> «e voç di que de tielz fait demorer que ne s’ard une semaine, et de tielz un mois,
+         et de tielz .VI. mois: et adonc convient que les parens dou mort le{s} tegnent en
+         lor maison tant com je voç ai dit, car il ne firoient jamés ardoir jusque a tant que
+         les endevinz lor dient qu’il soit bien ardoir», ma non riconducibile a nessuna delle
+         fonti, almeno negli esemplari superstiti: vd. infatti <ref type="witlink" target="#l-null-52">L 52 11</ref> «Numquam enim eum comburerent nisi die debite ordinata; propter quod, advenit aliquando
+         quod per sepulturam aliquando per mensem, aliquando per .6. menses, corpora in eorum
+         domibus coguntur conservare»; <ref type="witlink" target="#v-null-31">V 31 8</ref> «e poi dixeno ali suo’ parenti quando li die’ bruxar quel chorpo, et ale fiade li
+         dà termene una domada e uno mexe, et ale fiade sie mexi, sì ch’è di nezeso che li
+         parenti dî morti tegna queli in chaxa fina che l’indivinadori li dà lo tempo quando
+         lo die’ bruxar»; <ref type="witlink" target="#vb-null-40">VB XL 14</ref> «e molte fiade ochore i comandano el corpo non sia portado ad arder fin a uno mexe
+         o più o meno secondo quei comandano, né per algun modo i parenti del morto preteririano
+         el comandamento loro». Z toledano non conserva il passo. </p>
+	<p>La prossimità di R a F fa supporre che Z1 sia stato anche qui il testo base di Ramusio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

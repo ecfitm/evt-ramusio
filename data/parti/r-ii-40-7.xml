@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-40-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>Ramusio si serve in questo punto di due modelli. <ref type="witlink" target="#z-null-57">Z 57 13-15</ref> presenta una lezione («bovem») che lo isola da tutti i relatori ramusiani e dal resto
+         della tradizione: «Os habent tam magnum quod deglutirent integrum unum bovem. Dentes
+         habent maximos. Ipsi sunt ita magni et feroces ultra modum quod omnis homo et bestia
+         ipsos timet»; vs. <ref type="witlink" target="#l-null-97">L 97 4</ref> «[…] os vero tante magnitudinis quod hominem integrum facile deglutirent. Dentes
+         habent maximos, suntque tante magnitudinis et feritatis quod eis omne terretur an‹imal»;<ref type="witlink" target="#p-ii-40"> P II 40 5</ref> «[…] os tante magnitudinis habet quod unum hominem de facili transglutiret; dentes
+         habet maximos, et quia ita terribilis est serpens ille, nullus homo est qui non paveat
+         appropinquare illi sed et animalia quecumque agrestia timent illum»;<ref type="witlink" target="#v-null-56"> V 56 28</ref> «[…] et sì àno la gola sì granda che ingioteria uno homo in un bochon, et sono sì
+         grandi et sì ferozi che ogni bestia li teme»; <ref type="witlink" target="#f-null-118">F CXVIII 7</ref> «[…] la boce si grant que bien engloiteroit un home a une foies; les dens a grandisme:
+         ele est si desmesuremant grandismes et fieres que ne est ne homes ne bestes qe ne
+         les dotent et que n’en aient paor» (<ref type="witlink" target="#vb-null-84">VB LXXXIV 6</ref> reca un testo fortemente compendiato: «[…] la bocha grandissima»). Pertanto, nella
+         parte iniziale, il suo influsso sul testo di R – sempre ammesso che la variante «bovem»
+         non sia da ascrivere al solo Z toledano – non è sicuro e comunque non si estende oltre
+         le prime parole della pericope («La bocca […] inghiottirebbe»). Nella parte centrale
+         e finale è nettamente riconoscibile l’apporto di P (R «non è huomo né animal alcuno
+         che approssimandosi», P «et quia ita terribilis est serpens ille, nullus homo est
+         qui non paveat appropinquare illi»), anche se le lezioni «huomo né animal» e «tutto»
+         rivelano che Ramusio ha collazionato la versione P con quella che si legge in Z («omnis
+         homo et bestia»). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

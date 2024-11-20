@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-1-25</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>Il dettaglio è riportato in P, in V e in VB, ma nessun relatore presenta affinità
+         significative con R: <ref type="witlink" target="#p-ii-6">P II 6 1</ref> «Iudei vero et Saraceni qui in exercitu <term ref="#cublai-can">Cublay</term> fuerant, ceperunt christianis qui cum <term ref="#naiam">Nayam</term> venerant exprobrare quod Christus suus, cuius crucem <term ref="#naiam">Nayam</term> habuerat in vexillo, ei et suis auxiliari non potuit […]»;<ref type="witlink" target="#v-null-40"> V 40 17</ref> «Queli che adora le idole, zudie, e tute le altre zente che ‹non› adora Christo fevano
+         grandissime befe de <term ref="#naiam">Nain</term> perché lui avea portado el segno dela Santa Chroxe […]»; <ref type="witlink" target="#vb-null-67">VB LXVII 24</ref> «Morto <term ref="#naiam">Naian</term>, i saracini e çudei che sono in quello paexe molto deliçava i cristiani dicendo:
+         “Echo el vostro Cristo, echo la fede cristiana che per el pechato à fato <term ref="#naiam">Naian</term> a farse cristiano crudelissimamente è morto per le mano del nobellisimo segnore <term ref="#cublai-can">Clobai</term>! echo la iusticia dela pessima fede cristiana”, né potea per tal inproperamenti parer
+         cristiani in alguna parte». Il fatto che in R si menzionino soltanto «Giudei et Saraceni»
+         potrebbe far pensare all’influsso di P o di VB, mentre la variante «si facevano beffe»
+         e la lezione «Vedete» suggeriscono l’apporto di un testimone simile a V, ma più prossimo
+         di questo al dettato di F.</p>
+	<p>L omette il passo. In Z manca tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-37-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>La prima parte della pericope («Alcune fiate… alla guerra ») è un’invenzione di Ramusio;
+         la seconda parte ripete informazioni presenti in tutta la tradizione (anche se la
+         dittologia «franchi combattitori e valorosi in battaglia» rende <ref type="witlink" target="#z-null-125-1-33">Z 125 27</ref> «Homines istius insule sunt fortes belatores et boni in prelio, quia sunt valentes
+         et quasi mortem non timent» preferibile come modello rispetto a P III 41 8 «Viri insule huius fortes valde sunt et bellicosi et mortem curare non videntur»).
+         Vedi: F CXCI 11 «Et encore sachiés que cesti homes de cest ysle sunt mout buen conbateor e conbatent
+         molt fort en bataille, car il sunt vailanz e ne d{e}otent gueires la mort»; VA CL 10 «I èno molto forti e boni chonbatatori in bataia e non àno quaxi paura della morte»;
+         L 178 13 «Homines huius insule sunt optimi bellatores et fortes: quasi enim non timent mortem
+         […]»; abbrevia V 107 11 «Et li homeni de questa ixola sono più forti chonbatidori, e in bataia boni e valenti
+         […]»; innova VB CLXI 19 «Sono boni conbatetori, non però ardidi, chome ò dito, segondo la grandeça, ma non
+         churano morire».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

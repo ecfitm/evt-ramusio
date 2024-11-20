@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-6-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>Ramusio adotta il testo di Z 95 22 «Et quando dominus Marcus Paulo fuit ibi, secundum quod dicebatur, habebat iste rex
+         trecentos et viginti sex filios, inter feminas et mares, quorum marium maior pars
+         ad exercitium armorum valebat» – le evidenze a favore sono il resoconto in terza persona
+         singVA CXXolare e la generica indicazione («maior pars») del numero dei figli maschi.
+         Non è peraltro spiegabile perché Ramusio indichi in 325 i figli del re (essendo tutta
+         la tradizione concorde su 326: si dovrà pensare a una cattiva lettura di un numerale
+         latino) e da quale fonte egli ricavi la data “1280”.</p>
+	<p>Il resoconto in terza persona è adottato anche da L 145 4 «In hac regione fuit dominus Marchus Paulo anno Christi .M°.CC°.LXXXV., quo tempore
+         aderant regi mares et femine filii .CCCXXVI., ex quibus ‹quam plures› poterant arma
+         ferre», e da V 83 9 «Et quando misier Marcho Pollo fo in questa ixola da ’sto re, questo re avea trexento
+         e vintisie fioli mascholli e femene, i qualli erano valenti nel’arme». </p>
+	<p>Alternativa alla soluzione di Z è quella attestata dalla redazione franco-veneta F CLXI 11 «E si vos di qe a les .M.CC.LXXXV. hi fui je, Marc Pol, et a celui tens avoit cestui
+         roi .CCC.XXVI. filz entre masles e femes, qe bien en avoit plus de .C.L. homes qui
+         poient porter armes»: essa è caratterizzata dal ricorso al discorso autobiografico,
+         e alla precisazione del numero dei figli maschi del re (150). Si vedano pure: P III 9 4 «Ego Marchus in hac provincia fui ubi regem antiquum inveni habentem uxorum multitudinem
+         magnam ex quibus filios mares et feminas habuerat numero .CCC. et .XXVI., quorum .C.
+         et .L. iam poterant arma deferre» (apografo di VA CXXIII 6 «E io, Marcho, fu’ in questa contrà ano domini MCCLXXV, e trovai quel re era molto
+         anticho e avea gran moltitudine de moiere, e aveva trexento e vintisìe figlioli dentro
+         maschi e femene, entro i quali era ben zento e zinquanta homeni da portar arme»);
+         VB CXXXI 10 «Nella qual citade, io Marcho Polo, fui nel .MIIcLXXXV. anni del nostro segnore e trovai questo segnore chome universal per tuti fia
+         dito avea .IIIcXXVI. fiolli di qualli ne era .CL. mascholli che vestivano arme tuti dele moiere e
+         femene ch’el tegniva».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

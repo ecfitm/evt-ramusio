@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-1-16-26</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-1-16-26">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 1 16-26</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-1-16-26_1_1" n="1"> Et hic describuntur omnes regiones, provincie, regna et civitates circa Asyam
+         Mediam et partem Europe firmate et omnes mores et consuetudines, generaliter et divisim,
+         omnium gentium habitantium in eisdem.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="z-null-1-16-26_2_1" n="1"> Et primo de Armenia Minori. </seg>
+      <seg xml:id="z-null-1-16-26_2_2" n="2"> Verum est quod due sunt <term ref="#armenia">Armenie</term>: una quidem parva, altera vero magna. </seg>
+      <seg xml:id="z-null-1-16-26_2_3" n="3"> Sed quidam rex dominatur in parva, qui
+         totam terram manutenet in iusticia et regi <term ref="#tartari">Tartarorum</term> subditus est. </seg>
+      <seg xml:id="z-null-1-16-26_2_4" n="4"> In ea sunt multe civitates et castra, et habundantia omnium habetur
+         in eis. </seg>
+      <seg xml:id="z-null-1-16-26_2_5" n="5"> Et est terra multum solatiosa in venationibus bestiarum et aucupationibus
+         avium, sed non sana provincia. </seg>
+      <seg xml:id="z-null-1-16-26_2_6" n="6"> Et antiquitus nobiles viri valentes erant et probi
+         pro armis, sed nunc sunt tristes et viles et sine aliqua bonitate. </seg>
+      <seg xml:id="z-null-1-16-26_2_7" n="7"> Sed potatores
+         sunt optimi. [24] Ittem est supra mare civitas quedam, <term ref="#giazza">Aiaç</term> nomine, que est terra magne mercationis. [25] Nam omnia aromata et omnes drapi et
+         alia mercimonia valoris per diversas partes ad civitatem istam portantur; et omnes
+         homines et mercatores qui volunt pergere infra terram ab illa civitate iter arripiunt.
+         [26] Cuius regni Armenie Minoris confines hii sunt: ab uno latere versus meridiem est Terra Promisionis, quam retinent
+         sarraceni; |3r| a latere tramontene sunt Turcomani, qui vocantur <term ref="#caramani">Caramani</term>; a levante et greco est <term ref="#gran-turchia">Turchia</term>, <term ref="#cayssaria">Chayseria</term> et <term ref="#sevasta">Sevastio</term> et multe alie civitates, que omnia subdita sunt <term ref="#tartari">Tartaris</term>; versus occidentem est mare, per quod navigatur ad partes christianorum.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

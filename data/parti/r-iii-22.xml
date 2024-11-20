@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-22</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-22" n="1">
+    <head>
+      <hi rend="bold">R, III 22</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-22_1_1" n="1"> Della provincia di <term ref="#lac">Lac</term> o vero <term ref="#lac">Loac</term> et <term ref="#lac">Lar</term>. Cap. 22.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-22_2_1" n="1"> Partendosi dal luogo dove è il corpo del glorioso apostolo <term ref="#san-tommaso">San Tommaso</term>, et andando verso ponente, si trova la provincia di <term ref="#lac">Lac</term>. </seg>
+      <seg xml:id="r-iii-22_2_2" n="2"> Di qui hanno origine li <term ref="#bramini">Bramini</term>, che sono sparsi poi per tutta l’<term ref="#india">India</term>: questi sono li miglior et piú veridici mercatanti che si trovino, né direbbono mai
+         una bugia per qualunque cosa che dir si potesse, anchor se vi andasse la vita. </seg>
+      <seg xml:id="r-iii-22_2_3" n="3"> Si guardano grandemente di rubare et tor la roba d’altrui; son anchora molto casti,
+         perché |55v| si contentano d’una moglie sola. </seg>
+      <seg xml:id="r-iii-22_2_4" n="4"> Et se alcuno mercatante forestiero et che non cognosca li costumi della contrada
+         si ricomandi a loro et li dia in salvo le sue mercantie, questi <term ref="#bramini">Bramini</term> le custodiscono, vendono et barattanle lealmente, procurando la utilità del forestiero
+         con ogni cura et sollicitudine, non li dimandando alcuna cosa per premio, se per sua
+         gentilezza il mercatante non gliela dona. </seg>
+      <seg xml:id="r-iii-22_2_5" n="5"> Mangiano carne et bevono vino; non uccideriano alcun animale, ma lo fanno uccidere
+         da’ Sarraceni. </seg>
+      <seg xml:id="r-iii-22_2_6" n="6"> Si conoscono i <term ref="#bramini">Bramini</term> per certo segnale che portano, che è un fil grosso di <term ref="#bambagio">bombaso</term> sopra la spalla, et leganlo sotto il braccio, di modo che quel filo appare avanti
+         il petto et dopo le spalle. </seg>
+      <seg xml:id="r-iii-22_2_7" n="7"> Hanno un re qual è molto riccho et potente, et che si diletta di perle et pietre
+         preciose; et quando i mercatanti di <term ref="#malabar">Malabar</term> gliene ponno portare qualcuna che sia bella, credendo alla parola del mercatante,
+         li dà due volte tanto quanto la gli costa: però li vengono portate infinite gioie.
+         [8] Sono grandi <term ref="#idolatri">idolatri</term>, et se dilettano d’indovinare, et massime negli augurii, et se vogliono comprare
+         alcuna cosa, riguardano subito nel sole la sua propria ombra, et faccendo le regole
+         della sua disciplina procedono nella sua mercantia. [9] Sono molto astinenti nel mangiare et vivono lungamente; i suoi denti sono molto buoni,
+         per certa herba che usano a masticare, la qual fa ben digerire et è molto sana alli
+         corpi humani. [10] Sono fra costoro in detta regione alcuni idolatri, quali sono religiosi et si chiamano
+         “<term ref="#tingui">*tingui</term>”, et a reverentia delli loro idoli fanno una vita asprissima. [11] Vanno nudi et non si coprono parte alcuna del corpo, dicendo che non si vergognano
+         di andare nudi, perché nacquero anchor nudi, et circa le parti vergognose dicono che,
+         non faccendo alcuno peccato con quelle, non si vergognano di mostrarle. [12] Adorano il bue, et ne portano un piccolo di latone o di altro metallo indorato legato
+         in mezzo la fronte. [13] Abbrucciano anchor l’ossa de’ buoi et ne fanno polvere, con la quale fanno una ontione
+         che si ongono il corpo in piú luoghi con gran riverentia; et se incontrano alcuno
+         che li facci buona cera, li mettono in mezzo la fronte un poco di detta polvere. [14] Non uccideriano animale alcuno, né mosche né pulici né pedocchi, perché dicono che
+         hanno anima, né mangiariano di animal alcuno, perché li pareria di commettere gran
+         peccato. [15] Non mangiano alcuna cosa verde, né herbe né radici, fino che non sono secche, perché
+         tutte le cose verdi dicono che hanno anima. [16] Non usano scodelle né taglieri, ma mettono le sue vivande sopra le foglie secche
+         di <term ref="#pomo-di-adamo">pomi di Adamo</term>, che si chiamano pomi di paradiso. [17] Quando vogliono alleggerire il ventre vanno al lido del mare, dove in la rena depongono
+         il peso naturale, et subito lo dispergono in qua et là, acciò che ’l non faccia vermini,
+         che poi morirebbono di fame, et loro farebbono grandissimo peccato per la morte di
+         tante anime. [18] Vivono lungamente sani et gagliardi, perché alcuni di loro arrivano fino a cento
+         et cinquanta anni, anchor che dormino sopra la terra: ma si pensa che sia per l’astinentia
+         et castità che servano. [19] Come sono morti abbrucciano i loro corpi.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-12">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 12 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-12_2_1" n="1"> Interim soldanus <term ref="#babilonia">Babilonie</term> nomine <term ref="#benhochdare">Andoch Bondoch Dayro</term> in partibus <term ref="#armenia">Armenie</term> cum magno venit exercitu, qua de causa cum iter arripuissent ad mortis periculum
+         pervenerunt; et cum tandem evasissent miseratione divina, penituit fratres ulterius
+         anteire ne forte ad similia pervenirent. </seg>
+      <seg xml:id="l-null-12_2_2" n="2"> Assumptis ergo papalibus litteris privilegiisque,
+         dominus Nycholaus et Mapheus predictos predicatores relinquentes tam diu terminatum
+         perrexerunt iter quousque ad Magnum pervenerunt Canem, qui tunc in <term ref="#clemenfu">Clemamfu</term> nobili civi‹tate› manebat. </seg>
+      <seg xml:id="l-null-12_2_3" n="3"> In hoc autem itinere tres annos cum dimidio occuparunt,
+         quia multis et diversis locorum et temporum impedimentis esse contingit. </seg>
+      <seg xml:id="l-null-12_2_4" n="4"> Et cum
+         ad <term ref="#gran-can">Magni Canis</term> noticiam pervenisset ambaxiatores de christianorum partibus revenire, nuntios suos
+         .XL. dietis obviam eis misit.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

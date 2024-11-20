@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-21-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-21">
+      <note>
+	<p>La struttura complessiva e i contenuti del passo sono quelli di <ref type="witlink" target="#f-null-40">F XL 8-10</ref> «Et fasoit le <term ref="#vecchio-della-montagna">Vielz</term> entendre a seç homes que cel jardin estoit paraïs. Et por ce l’avoit faite en tel
+         mainere que <term ref="#macometto">Maomet</term> ne fist entendre a les saraïn que celç que vont en paraïs hi aront belles femes tant
+         quant il voudront a lor voluntés et que hi treveront flum de vin et de lait et de
+         mel et d’eive; et por ce avoit fait fer cel jardin senblable au paraïs que <term ref="#macometto">Maomet</term> avoit dit a saraïn, et les saraïn de celle contree croient voiremant qe cel jardin
+         soit paraïs. Et en cest jardin ne introit nul homes jamés for solemant celz que il
+         voloit fer <term ref="#assassini">asisin</term>», ben rispecchiato da <ref type="witlink" target="#z-null-17">Z 17 5-7</ref> («Et ideo iste <term ref="#vecchio-della-montagna">Veglus</term> hoc viridarium in hunc modum construxit. Nam, cum <term ref="#macometto">Machometus</term> tempore suo dixerit saracenis quod paradisum intrantes mulieres pulcerimas invenirent
+         ad eorum libitum quotquot volent, ac invenirent flumina que in vino, lacte, melle
+         et aqua divisim in ubertate discurerent, dabat intelligere saracenis quod paradisus
+         esset ille; quod credebant firmiter. In quo‹d› viridarium nullus intrabat, nisi quem
+         <term ref="#vecchio-della-montagna">Veglus</term> volebat fieri satelitem et <term ref="#assassini">‹a›sassinum</term>»), <ref type="witlink" target="#v-null-21">V 21 3-4</ref> («[…] et anchora aveano molti nobeli zoveni, et devali questo <term ref="#vecchio-della-montagna">Vechio</term> int‹end›er a queli che questo zardino era el paradixo, et che in questo modo feva
+         <term ref="#macometto">Machometo</term>, el quale aveva dado ad intender ali Sarazini che quando li muore tuti entrano nel
+         paradixo e lì àno de bele femene quanto lor vol a tuta so volontade, e che lor trova
+         flumi de vin, de mel e de late e d’aqua, onde ognuno chredeno che chussì sia. Et questo
+         <term ref="#vecchio-della-montagna">Vechio</term> avea dado ad intender a molti che questo suo’ zardino era quel paradixo che ’l so
+         profeta <term ref="#macometto">Machometo</term> avea dito, onde ognuno quassi chredea ch’el fosse; et el dito <term ref="#vecchio-della-montagna">Vechio</term> non volea che nesun intrasse nel dito zardin se no homeni chativi e de mala vita»),
+         e, più in sintesi, da <ref type="witlink" target="#vb-null-26">VB XXVI 4-5</ref> («Questo <term ref="#vecchio-della-montagna">Vechio</term> dava ad intendere ai suo’ questo era el Paradiso chome <term ref="#macometto">Machometo</term> i avea dito, che quei faria la soa volontade troveria fiumere de vinno, late, miel
+         et aqua et femene di gran diletacione. Et questo el feva per indur i çoveni a far
+         far la soa voluntade per eser posti nel Paradisso de tanti piaceri»). Tace consapevolmente
+         <ref type="witlink" target="#l-null-35">L 35 2</ref> «[…] quia longum esset scribere dereliqui»).</p>
+	<p>È evidente anche qui un lavoro di <hi rend="italics">editing</hi> che passa attraverso l’intreccio di diverse fonti e lo spostamento di qualche tessera
+         testuale. Modello principale di Ramusio è Z1, come evidenziano alcune coincidenze testuali: ad es. R «<hi rend="italics">havea fabricato</hi> questo palazzo <hi rend="italics">per questa causa</hi>, che…» / Z «Et <hi rend="italics">ideo</hi> iste Veglus hoc viridarium in hunc modum <hi rend="italics">construxit</hi>. Nam…»; «voleva dar ad intender» / «dabat intelligere»; «[…] <hi rend="italics">ch’egli fosse propheta</hi> et compagno di <term ref="#macometto">Macometto</term>» / <ref type="witlink" target="#z-null-17">Z 17 9</ref> «[…] faciebat gentes simplices credere quod esset propheta […]» (ma quest’ultimo
+         passo potrebbe anche dipendere da <ref type="witlink" target="#p-i-28">P I 28 7</ref> «Ille autem tirannus, qui se Dei prophetam esse dicebat […]»). Il segmento «quelli
+         che facevano la sua volontà […] troverian» può essere traccia testuale di <ref type="witlink" target="#vb-null-26">VB XXVI 4</ref> «quei faria la soa volontade», mentre il riferimento alle «delicie et piaceri del
+         mondo», se non è manierismi stilistico, riecheggia <ref type="witlink" target="#p-i-28">P I 28 6</ref> «in vita alia huiusmodi […] <hi rend="italics">delectaciones</hi> habebunt».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

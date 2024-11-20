@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-37</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-37">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 37 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-37_2_1" n="1"> ‹Q›uando el se desparte da <term ref="#caracoran">Charachoron</term> e da <term ref="#altai">Batai</term>, là che se sopelisse li chorpi deli <term ref="#tartari">Tartari</term> chomo de soto nui ve diremo, el se va per una chontrada inverso tramontana che vien
+         chiamada la pianura de <term ref="#bargu">Bachu</term> e dura quaranta zornade. </seg>
+      <seg xml:id="v-null-37_2_2" n="2"> La zente che abita in quela vien chiamada <term ref="#mecriti">Meziti</term> et sono zente salvadega, e vive de bestie, la mazor parte de zervi; e chavalcha li
+         zervi, mo hoserva la chonsuetudine de <term ref="#tartari">Tartari</term>, ed è suditi al <term ref="#gran-can">Gran Chan</term>, e nonn à chanpi da semenar, né vin; e d’instade se trova molte chazaxon et oxelaxon
+         in gran chopia, ma d’inverno lì non demora bestie né hoxelo per la gran fredura. </seg>
+      <seg xml:id="v-null-37_2_3" n="3">
+         Et in chavo de queste quaranta zornade el se trova el Mar Ozean, e là sì è uno monte, là che li falchoni fano el so nido. </seg>
+      <seg xml:id="v-null-37_2_4" n="4"> Et chussì sono la planura,
+         e là non se trova homeni né bestie né hoxelo, salvo una maniera de hoxeli i qual sono
+         chiamati “<term ref="#bargelach">barcholach</term>”, deli qual li falchoni se passe; i qualli hoxeli sono grandi chomo pernixe et àno
+         li piè chomo papagà e la choda chomo le zexile, et valle molto ben. </seg>
+      <seg xml:id="v-null-37_2_5" n="5"> Et quando
+         el <term ref="#gran-can">Gran Chan</term> vol aver lo nido dî falchoni, lo manda infina quelo luogo a tuorli. </seg>
+      <seg xml:id="v-null-37_2_6" n="6"> In quelo
+         luogo nasse zifalchi, et tuto questo luogo sono inverso tramontana; li monti inverso
+         mezodì. </seg>
+      <seg xml:id="v-null-37_2_7" n="7"> Li zifalchi che nasse in quelo luogo sì sono in tanta chopia che ’l <term ref="#gran-can">Gran Chan</term> |39v| ne à quanti el ne vuol, al so piaxer. </seg>
+      <seg xml:id="v-null-37_2_8" n="8"> Et non chredé che li zifalchi che
+         chonpra li Tartari dali christiani sia portadi dal <term ref="#gran-can">Gran Chan</term>, ma vien portadi al Signor de Levante chomo sono <term ref="#argon">Argon</term> e li altri signori. [9] Nui avemo dito dela provinzia de tramontana fina al <term ref="#mare-oceano">Mar Hozian</term>; hora diremo dele altre provinzie le quale nel nostro libro sono schrite, chiamato
+         <term ref="#campion">Chapetin</term>. [10] Or partendosse da uno luogo chiamato <term ref="#campion">Chapetin</term> el se vano zinque zornade in le qual se trova molti spiriti fantaxichi, li quali
+         de note vien aldidi parlar molte fiade. [11] Et in chavo de queste zinque zornade
+         inverso levante el se trova uno reame chiamato <term ref="#erginul">Erguuil</term>, ed è sudito al <term ref="#gran-can">Gran Chan</term> dela gran provinzia de <term ref="#tanguth">Trangut</term> in la qualle sono pixor regnami, ma la zente sono Turchi e christiani nosterini e
+         <term ref="#idolatri">adora le idole</term> e <term ref="#macometto">Machometo</term>; in la quale sono molte zitade e chasteli. [12] Et la prinzipal zitade sono <term ref="#erginul">Arguuil</term>, et questa zitade sono inverso sirocho, et sì se trova diverse chontrade ‹…› del
+         <term ref="#cataio">Chataio</term>; sono una zitade che à nome <term ref="#singui">Bugiun</term>, et la provinzia sono chiamata <term ref="#singui">Siulagui</term>, in la qualle sono molte zitade e chasteli. [13] Et questa provinzia sono soto el
+         <term ref="#gran-can">Gran Chan</term>, et la zente di questa adora <term ref="#macometto">Machometo</term> e le idole, ed è alguni christiani. [14] Et in questa sono buoi salvadegi grandi
+         chomo lionfanti, et sono molti beli a veder, ed àno li piè peloxi, et sono bianchi
+         e negri; el suo’ pelo sono longo tre palmi, et sono in gran quantitade, e trovasse
+         ’nde anche de mestegi, benché li sono prexi salvadegi; et chàrgali e lavora chon esi,
+         et lavorano |40r| molto più deli altri, perché li àno mazor forza. [15] Et in questa
+         chontrada sono mior muschio che sia al mondo, et nasse per una gazela; e le suo’ fateze
+         sono che le àno lo pelo chomo quelo del zervo, molto groso, e li piè al muodo de gazela;
+         et àno quatro denti, zoè do de soto e do de sopra, longi zercha tre adedi ma sotil;
+         et sono molto bele bestie a vederle, ma el muodo che se trova questo muschio sì sono
+         che queste tal bestie soto el so chorpo, apresso el boligolo, fra charne e pele, el
+         se trova una vesiga de sangue che vien taiada chon tuta la pela, e quel sangue sono
+         muschio et sono de molto hodor. [16] E de questo in questa chontrada se ne trova gran
+         quantitade, e molto bon. [17] Li omeni de questa provinzia vive de marchadantia et
+         arte, e sono abondanzia de tute semenaxon. [18] Et questa provinzia sono longa vintizinque
+         zornade, in la qual sono faxani do a tanto de queli che sono in le nostre chontrade,
+         et sono grandi quaxi chomo pavoni, et àno la choda diexe palmi longa, e per el men
+         sete; et anchora sono faxani grandi chomo li nostri; et sono de molte maniere de hoxeli
+         chon molte bele pene e diversi cholori. [19] Ma la zente <term ref="#idolatri">adora idole</term>; e trovasse chavali negri; et la zente de questa sono molti grasi ed à picholo naxo
+         e li chaveli negri; et àno salvo quatro peli in lo mento dela barba. [20] La dona
+         nonn à algun pelo se no in chavo, et sono molti bianchi; ed àno molte bele charne
+         et li suoi menbri beli respondenti in tuto. [21] Et li omeni sono molto luxoriosi,
+         et per questo i tuono molte muier, perché la so leze il chonziede; e tuòne tante quante
+         |40v| li puol mantegnir. [22] Et quando el sono una bela femena e la sia de vil chondizion,
+         uno gran prinzipo ho baron la tuol per moglie, et questo per la suo’ beleza; et dano
+         ala madre tanto arzento ch’el se chonvien, segondo chomo li se achorda. [23] Mo’ de
+         questi lasseremo e diremo de una provinzia che sono verso levante.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

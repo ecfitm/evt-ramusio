@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-42</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-42" n="1">
+    <head>
+      <hi rend="bold">R, I 42</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-42_1_1" n="1"> Del principio del regno d’i <term ref="#tartari">Tartari</term>, et de che luogo vennero, et come erano sottoposti ad <term ref="#umcan">Umcan</term>, che chiamano un <term ref="#prete-gianni">Prete Gianni</term>, che è sotto la tramontana. Cap. 42.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-42_2_1" n="1"> Il modo adunque pel quale i <term ref="#tartari">Tartari</term> cominciorono primamente a dominare si dechiarirà al presente. </seg>
+      <seg xml:id="r-i-42_2_2" n="2"> Essi habitavano nelle parti di tramontana, cioè in <term ref="#ciorza">Ciorza</term> et <term ref="#bargu">Bargu</term>, dove sono molte pianure grandi et senza habitatione alcuna, cioè di città et castella,
+         ma vi sono buoni pascoli et grandi fiumi et molte acque. </seg>
+      <seg xml:id="r-i-42_2_3" n="3"> Fra loro non haveano alcun signore, ma davano tributo ad un gran signore che, come
+         intesi, nella lingua loro si chiamava <term ref="#umcan">Umcan</term>, qual è opinion de alcuni che vogli dire nella nostra <term ref="#prete-gianni">Prete Gianni</term>: a costui i <term ref="#tartari">Tartari</term> davano ogni anno la decima de tutte le lor bestie. </seg>
+      <seg xml:id="r-i-42_2_4" n="4"> Procedendo il tempo, questi <term ref="#tartari">Tartari</term> crebbero in tanta moltitudine che <term ref="#umcan">Umcan</term>, cioè <term ref="#prete-gianni">Prete Gianni</term>, temendo di loro si propose separarli per il mondo in diverse parti; onde, qualunche
+         volta gli veniva occasione che qualche signoria si ribellasse, eleggeva tre et quattro
+         per centenaro di questi <term ref="#tartari">Tartari</term> et mandavali a quelle parti: et cosí la loro potenza si diminuiva; et similmente
+         faceva nell’altre sue faccende, et deputò alcuni de’ suoi principali ad essequir questo
+         effetto. </seg>
+      <seg xml:id="r-i-42_2_5" n="5"> Allhora, vedendosi i <term ref="#tartari">Tartari</term> a tanta servitú cosí indegnamente soggiogati, non volendo separarsi l’un dall’altro,
+         et conoscendo che non si cercava altro che la sua ruina, si partirono dai luoghi dove
+         habitavano et andorno tanto per un lungo deserto verso tramontana che per la lontananza
+         li parse esser sicuri, et allhora denegorno di dare ad <term ref="#umcan">Umcan</term> il solito tributo.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

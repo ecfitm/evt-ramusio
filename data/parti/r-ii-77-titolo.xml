@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-77-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-77">
+      <note>
+	<p><ref type="witlink" target="#f-null-156">F CLVI</ref> (Ci devise de la cité de <term ref="#zaitum">Çaiton</term>); <ref type="witlink" target="#l-null-140">L 140</ref> (De nobili civitate Çayron) / <ref type="witlink" target="#l-null-141">L 141</ref> (De civitate <term ref="#tingui">Tinugiu</term>); <ref type="witlink" target="#p-ii-70">P II 70</ref> (De civitate <term ref="#zaitum">Cayram</term> et nobilissimo portu eius et de civitate <term ref="#tingui">Tinguy</term>), <ref type="witlink" target="#va-null-120">VA CXX</ref> (Della zità de <term ref="#tingui">Nigni</term>, ove se fa schudelle de porzelane); <ref type="witlink" target="#v-null-79">V 79</ref> (Dela zità de <term ref="#zaitum">Ziargati</term>); <ref type="witlink" target="#vb-null-122">VB CXXII</ref> / <ref type="witlink" target="#vb-null-123">VB CXXIII</ref> / <ref type="witlink" target="#vb-null-124">VB CXXIV</ref> / <ref type="witlink" target="#vb-null-125">VB CXXV</ref>; <ref type="witlink" target="#z-null-90">Z 90</ref>.</p>
+	<p>Ramusio si conforma alla tendenza generale delle sue fonti di raggruppare le informazioni
+         su <term ref="#zaitum">Zaitum</term> e su <term ref="#tingui">Tingui</term> in un unico capitolo. I soli testimoni che ripartiscono la materia in più sezioni
+         sono L e VB. </p>
+	<p>Il testo di R appare costruito fondamentalmente mediante il ricorso a due modelli.
+         Nella prima parte (parr. 1-5, 7-8) il prototipo principale è senza dubbio VB, mentre
+         gli apporti da altri fonti (Z, P) appaiono abbastanza contenuti (par. 6). A partire
+         dal par. 9 Ramusio cambia esemplare, recuperando da Z varie informazioni assenti dal
+         resto della tradizione e combinandone la lezione con quella di altri testimoni (P,
+         VB). L’opera di rielaborazione e riscrittura del testo da parte dell’editore appare
+         in alcuni punti particolarmente intensa.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

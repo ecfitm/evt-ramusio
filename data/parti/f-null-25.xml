@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-25</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-25">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XXV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-25_1_1" n="1"> De la grant mervaille, que avint en <term ref="#baldach">Baudach</term>, de la montangne.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-25_2_1" n="1"> Et encore voç volun conter une grant mervoie qe avint entre <term ref="#baldach">Baudac</term> et <term ref="#moxul">Mosul</term>. </seg>
+      <seg xml:id="f-null-25_2_2" n="2"> Il fu voir ke a les .M.CC.LXXV. anç de l’incarnasion de Crist avoit un <term ref="#califa">calif</term> en <term ref="#baldach">Baudac</term> qe, volent mout grant maus as cristians, et jor et noit pensoit comant il peuse tuit
+         cristianç de sa tere fer retorner saraçin ou, se ne, que |12b| il les peust tuit fer
+         metre a mort; et de ce se conseioit toç jorç cun seç regulés et cun seç cassés, car
+         tuit ensenble voloient grant maus a cristienç: et ce est couse veritables que tuit
+         les saracin dou monde velent grant maus a tuit les cristianç do munde. </seg>
+      <seg xml:id="f-null-25_2_3" n="3"> Or avint
+         que le <term ref="#califa">calif</term> con les sajes que entor lui estoient trevent un po‹i›nt{e} tel com je voç dirai:
+         il trevent qe en une evangelie dit qe se il fuse un cristienç que avese tant de foy
+         quant il est un gran de seneve, que por sa priere ke il feise a son segnor dieu, il
+         firoit jonger .II. montagnes ensenble. </seg>
+      <seg xml:id="f-null-25_2_4" n="4"> Et quant il ont ce trové, il ont grant
+         leese, por ce que il distrent que ce estoit couse de fer torner les cristianç saraçinç
+         ou de meter les a mort tuit ensenbles. </seg>
+      <seg xml:id="f-null-25_2_5" n="5"> Et adonc le <term ref="#califa">calif</term> mande por tuit les cristie‹n›z nestorin et jacopit que en sa tere estoient, que mout
+         furent grant quantité. </seg>
+      <seg xml:id="f-null-25_2_6" n="6"> Et quant il furent devant le <term ref="#califa">calif</term> venu, il lor mostre cel evangelie et le fait lor lire; et quant il l’ont leu, il
+         demande se il estoit ensi verités. Les cristienç distrent que voiramant estoit il
+         verité. </seg>
+      <seg xml:id="f-null-25_2_7" n="7"> «Donc dites vos, fait le <term ref="#califa">calif</term>, que un cristienz que aüsse tant de foy |12c| quant est un graniaus de seneve, que,
+         por seç prier qe il feisse a son dieu, il firoit jungere .II. montagnes ensenble».
+         [9] «Ce dison nos voirremente», feit les cristiens. [10] «Donc vos meterai je un parti
+         davant, fait le <term ref="#califa">calif</term>: puis que voç estes tant cristians, bien en doit avoir entre vos que aie une pou
+         de foy. Dont je voç di: ou voç ferés remuer celle montangne que voz la vees – et lor
+         moustre un mont que pres estoit – ou je voz firai tuit morir a male mors car, se voz
+         ne le faites movoir, adonc mostrereç voç ne aiés poi‹n›t de foy: je vos firai tuit
+         occire; o vos retornerés a la nostre bone loy, qe <term ref="#macometto">Maomet</term> nostre profi‹t›e nos doné, et au{t}rés foy et estré sauves; et a ce faire vos done
+         respit de ci a .X. jors. Et se a celui terme ne l’aurés fait, voç farai tuit metre
+         a mort». [11] Atant ne parole plus le <term ref="#califa">calif</term> et done conjé a cristians.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

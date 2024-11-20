@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-39</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-39">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XXXIX</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-39_1_1" n="1"> Comant l’en ala por un deçert.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-39_2_1" n="1"> Et quant l’en se part{e} de cest cité de <term ref="#cobinam">Cobian</term>, l’en vait por un decer bien .VIII. jornee, en quel a grant secchité et ne i a fruit
+         ne arbres, et les eive hi sunt ausi amer et mauveises; et ‹l’en› aporte tout ce qe
+         abisogne por mengier et pour boir, for l’eive qe les bestes bouvent a grant anvie.
+         </seg>
+      <seg xml:id="f-null-39_2_2" n="2"> Et a chief de ceste .VIII. |18a| jornee, l’en treuve une provence qui est apelés
+         <term ref="#timocaim">Tonocain</term>. Il hi a cité et cha{u}stiaus aseç, et est en le confines de <term ref="#persia">Persie</term> dever tramontane. </seg>
+      <seg xml:id="f-null-39_2_3" n="3"> Et hi a une grandisime plaingne en la quel est l’<term ref="#arbore-secco">Arbre Seul</term>, que les cristiens appellent l’<term ref="#arbore-secco">Arbre Seche</term>, et voç dirai comant il est fait: il est mout grant et mout gros; se{n}ç foilles
+         sunt de l’une part vers, e{s}t de l’autre blance; il fait ricci senbla‹b›le as ricci
+         de castaingne, mes ne i a dedens rien; il est fort leing et est jaune come bus; et
+         ne a nul arbres aprés a plus de .C. miles, for che d’une part que i a pres a .X. miles.
+         </seg>
+      <seg xml:id="f-null-39_2_4" n="4"> Et iluec dient celç de celle contree que fu la bataille entre <term ref="#alessandro">Alixandre</term> et <term ref="#dario">Dayre</term>. </seg>
+      <seg xml:id="f-null-39_2_5" n="5"> Les viles et les ca{u}staus ont grande abundance de toutes chouses bones et
+         beles, car le païs est trop bien conpasionés, ne trop caut ne trop froit. </seg>
+      <seg xml:id="f-null-39_2_6" n="6"> Les
+         jens aorent tuit <term ref="#macometto">Maomet</term>. Il hi a belle jens: propremant les femes i sunt belles outre mesure. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-39_3_1" n="1"> Et de ce nos partiron et voç conteron d’une contree que est apellé <term ref="#mulehet">Mulect</term>, la o le Viel{le} de la montagne soloit demorer.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

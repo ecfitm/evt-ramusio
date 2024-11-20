@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-33-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-33">
+      <note>
+	<p>Le informazioni della pericope di R (che omette, come VB<hi rend="italics">, </hi>l’<hi rend="italics">incipit</hi> della transizione) si presentano in ordine e in forma affini in tutta la tradizione,
+         a partire da F CLXXXVII 4-5 «E vos di qe cest reing‹n›e est la dreaine provence de <term ref="#india">Endie</term> alant entre ponent e meistre, car sachiés que da <term ref="#malabar">Mabar</term> jusque a ceste provence, et tous les roiames e provences que je voç ai contés de
+         <term ref="#malabar">Mabar</term> jusque ci, est de la <term ref="#india">gregnor Ynde</term> e la meior que soit au monde. E si sachiés tout voiremant que nos voç avon conté
+         de cest <term ref="#india">grant Ynde</term> par de les provences e delz cité qe sunt sor la mer, car de celz que sunt en fraterres
+         ne vos avonz pas contés por qe trop seroit longaine matiere a mentovoir»; <ref type="witlink" target="#z-null-121">Z 121 5-8</ref> resta la fonte più probabile di R. In questo luogo «Alia non sunt in eo que dicenda
+         sunt. Et istud regnum est ultima provincia <term ref="#india">Indie</term> eundo versus ponentem et magistrum. Nam usque ad hanc provinciam discedendo a <term ref="#malabar">Maabar</term>, et omnia alia regna et provincie quas nominavimus a <term ref="#malabar">Maabar</term> usque huc sunt de <term ref="#india">Indya Maiori</term>. Et descripsimus de hac Maiori Indya solum provincias et civitates supra mare existentes; et de hiis que infra terram
+         sunt non diximus, quoniam nimis esset longa materia» (ma non vanno sottaciute le affinità
+         lessicali con l’<hi rend="italics">explicit</hi> di <ref type="witlink" target="#p-iii-36">P III 36 2</ref> «[…] quia terras scribere que in <term ref="#india">Yndia</term> sunt infra terram laboriosum esset valde et adderetur libro nostro prolixitas nimia».</p>
+	<p> Vd. poi L 174 4 «Hoc autem regnum est ultimum tocius <term ref="#india">Indie Maioris</term>, eundo inter occidens et magistrum. Omnes enim provincie et regna nominata a <term ref="#malabar">Mahabar</term> usque ad hanc provinciam sunt <term ref="#india">Yndie Maioris</term>, et sunt supra mare site, quia de infra terram positis nichil penitus dictum est»;
+         V 103 3-4 (con la cattiva lettura <hi rend="italics">Amabat</hi> e l’invenzione di “re”) «In questo reame nonn è altro da dire; questa sono l’ultima
+         provinzia del’<term ref="#india">India</term> andando inverso ponente e a maistro da <term ref="#abascia">*Amabat</term> infina a questa provinzia; et tuti i re àno provinzie le qual ve ò mentovade: d’<term ref="#abascia">*Amabat</term> infina qua sono la <term ref="#india">Mazor India</term>, ed è la mior che se trova inel mondo. Or abiamo dito de questa <term ref="#india">India Mazore</term>, sollamente dele zitade che sono sopra el mar; e de quele che sono fra tera non abiamo
+         dito, perché sarave tropo longa materia»; VB 157 4-5 (con un problema sintattico nelle ultime frasi) «Questa è l’ultima provincia e reame
+         del’<term ref="#india">India Maçor</term>, la qual è fra ponente e maistro; et da <term ref="#malabar">Maabar</term> infino a questa provincia, tute quelle ò contate sono de <term ref="#india">India Maçor</term>. Della qual <term ref="#india">India Maçor</term> io non ve ò contado salvo delle tere e provincie sono sopra el mare, non de quelle
+         sono fra tera, le qual sono in grandissima quantità: non ve ne ò dito niente, però
+         ch’el seria tropo longo el mio scrivere […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

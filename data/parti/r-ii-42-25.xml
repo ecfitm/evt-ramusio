@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-42-25</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-42">
+      <note>
+	<p>Ramusio si attiene alla versione erronea di VB, che stravolge profondamente il significato
+         originale del passo (vd. F):<ref type="witlink" target="#vb-null-86"> VB LXXXVI 15</ref> «Ricolti i <term ref="#tartari">Tartari</term>, se reduse versso el boscho et sentendo che in quello era intrati i lleofanti, entròno
+         nel boscho e trovòno quelle gente chanpate ch’era sopra le tore tagliava albori e
+         sbaravano le strate per farsse securi» (<ref type="witlink" target="#f-null-122">F CXXII 15-16</ref> «Et quant il ont chaciés une pieces, il ne li vont plus caçant, mes alent por les
+         bois por prendre de les leofans. Et si vos di qe il trinchoient les grant arbres por
+         metre devant a les leofant, por coi il ne peusent aler avant. Mes tout ce ne valoit
+         noiant qe peussent prendre»). Il testo corretto non si conserva neppure in P e V,
+         che semplificano notevolmente il brano nella parte centrale: <ref type="witlink" target="#p-ii-42">P II 42 8</ref> «[…] quibus omnino mortuis vel fugatis redierunt ad nemus ut caperent elephantes,
+         sed non poterant quamquam ex ipsis capere nisi inuissent eos quidam ex hostibus […]»;
+         <ref type="witlink" target="#v-null-58">V 58 19</ref> «[…] et quando per gran hora li ave chazadi li lassò andar, et andò per lo boscho
+         per piar dî lionfanti, ma non potero andar oltra; e per niente i non ’de poté branchar
+         […]».</p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

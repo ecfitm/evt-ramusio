@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-82</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Il testo che si legge nel par. 82 presenta solo tenuissimi legami con la versione
+         tràdita dalle fonti e dal resto della tradizione poliana: <ref type="witlink" target="#l-null-130">L 130 2</ref> «[…] intusque sunt quam plura viridaria, optimis plantata fructibus. Suntque aliqui
+         lacus et fontes plurimi, in quibus piscium adest copia»; <ref type="witlink" target="#p-ii-64">P II 64 25</ref> «[…] intra quos muros sunt viridaria pulcra valde cum fructibus delicatis; ibi sunt
+         fontes et lacune in quibus multi et optimi pisces habentur»; <ref type="witlink" target="#vb-null-114">VB CXIV 35</ref> «Dentro da questa muraia v’è fontane, nobelissime çardini con frutari i più preciosi
+         abia el mondo; sòne peschiere con pessi excellentissimi»; <ref type="witlink" target="#z-null-85">Z 85 51-52</ref> «Est itaque altis muris valatum, et intra muros sunt multa pulcra viridaria omnimodos
+         producentia bonos fructus. Sunt et ibi pulcri fontes et lacus quam plures, in quibus
+         inveniuntur in habundantia boni pisces» (vd. <ref type="witlink" target="#f-null-151">F CLI 29</ref> «et dedens as mures sunt maint biaus jardis con tuit les buens fruit qe home seust
+         deviser. Il hi a maintes fontaines et plusors lac, la o il ‹a› maint buen peison»).
+         V omette il passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-63-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-63">
+      <note>
+	<p>Fino a circa la metà della pericope («Ma, havendo […] ricchezza») Ramusio segue abbastanza
+         fedelmente <ref type="witlink" target="#vb-null-109">VB CIX 5</ref> «Ma avendo sì longo chorsso et confinando su quello tante provincie con tante cità
+         non n’è meraveia se la marchadantia che per quelo core è in gran quantità et de gran
+         richeça […]». La relativa «dove riceve […] navigabili» riprende sinteticamente un
+         dettaglio riportato nel par. 3. Altri particolari («da ogni banda di tante città»)
+         che non figurano in VB parrebbero essere aggiunte ramusiane.</p>
+	<p>Nella seconda parte Ramusio inserisce un dettaglio che è trasmesso dal solo <ref type="witlink" target="#z-null-80">Z 80 7-12</ref> «[…] quia, undecumque ferrantur, mercimonia ad civitatem istam, tanquam ad portum,
+         applicant et perveniunt […] Et omnia predicta navigia mercimonia ad civitatem istam
+         <term ref="#singui">Sinçu</term> ducunt et referunt. Et maius mercimonium quod per flumen istud feratur est sal, quem
+         mercatores onerant in hac civitate et ferunt per quascumque contratas existentes supra
+         istud flumen, et etiam infra terram, exeundo flumen istud generale et navigando per
+         flumina intrantia in ipsum, replendo omnes contratas illis fluminibus circumstantes.
+         Quia undecumque per iuxta partem marinam, hac de causa, sal ad civitatem <term ref="#singui">Sinçu</term> predicta‹m› portatur, et ibi naves, onerantes de ipso, portant per loca predicta»
+         / <ref type="witlink" target="#z-null-80">Z 80 16</ref> «Et ideo <term ref="#gran-can">Magnus ‹Can›</term> ab hoc portu, sive civitate, multum sumit introitum».</p>
+	<p>La versione che si legge nelle altre redazioni (compreso F) appare molto diversa da
+         quella di VB e Z: <ref type="witlink" target="#l-null-121">L 121 2</ref> «[…] et plura mercimonia ‹portantur› quam per omnium christianorum flumina simul
+         et maria»; <ref type="witlink" target="#p-ii-59">P II 59 2</ref> «[…] pluresque mercaciones deferuntur per id quam per omnes terras citra marinas
+         in omnibus suis navibus deferantur […]»; <ref type="witlink" target="#v-null-72">V 72 3-4</ref> «[…] le qual porta per questo flume molte marchadantie; onde el <term ref="#gran-can">Gran Chan</term> da questa zitade àno gran trabuto. […] pluxor nave charge de gran valor […]»; <ref type="witlink" target="#f-null-146">F CXLVI 4-5</ref> «Et por achaison de cest flum cest cité a mout grandisme quantités des naves qui
+         portent por ceste flun maintes couses et maintes mercandies, et por ce est ville de
+         coi le Grant Chan en a grant rende et grant treü. Et si voç di qe ceste flun vait tant longe et por
+         tantes pars, […] e con plus chieres couses et de greignor vailançe […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

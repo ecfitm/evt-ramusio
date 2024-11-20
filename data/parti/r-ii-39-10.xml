@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-39-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>Per gran parte della pericope R riproduce quasi alla lettera <ref type="witlink" target="#z-null-56">Z 56 18-19</ref> «Habent etiam puteos salsos de quibus salem faciunt; quo sale gentes omnes de contrata
+         fruuntur. Et de isto sale consequitur rex multum redditum et profectum» (il cui testo
+         rispecchia nella sostanza  <ref type="witlink" target="#f-null-117">F CXVII 9</ref> «Il ont puis salmace, des quel il font sal et de cest sal vivent tuit celç de la
+         contree, et voç di qe le roi en a grant profit de cest sal»). Uno sporadico apporto
+         di una seconda fonte potrebbe essere documentato dalla lezione «grande entrata», che
+         si direbbe ricavata da <ref type="witlink" target="#p-ii-39">P II 39 12</ref> «In hac civitate fit de aqua puteorum sal in copia maxima, de quo rex magnus habet
+         introitus». Non pare invece che R abbia avuto contatti con <ref type="witlink" target="#v-null-56">V 56 21</ref> «Et in questa sono alguni pozi salsi in li qual i fano el sal, et de questo sal ne
+         àno tuti quelli dela provinzia; el re de questo ne à uno gran guadagno», né con <ref type="witlink" target="#vb-null-83">VB LXXXIII 10</ref> «Àno ecian aqua salsa dela qualle i ne fano salle; e del dito sale viveno tutto el
+         paexe che alltro salle non àno, del qual sale el re ne traçe grande utillitade». In
+         L il passo è del tutto omesso.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

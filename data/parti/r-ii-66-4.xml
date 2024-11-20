@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-66-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-66">
+      <note>
+	<p>Nella parte iniziale e centrale della pericope («Nel tempo […] gente») R segue la
+         testimonianza di <ref type="witlink" target="#vb-null-112">VB CXII 7-8</ref> «Nel tenpo che Baian cento ochi conquistò el paexe del <term ref="#mangi">Mangi</term>, quello mandò a conquisto dela dita cità de <term ref="#tinguigui">Tingigi</term> Alani cristiani con parte dela soa giente. E posto el canpo alla dita cità, finaliter
+         quella i conquistòno et, intrati nela tera […]». Sul testo di VB Ramusio innesta alcune
+         lezioni ricavate da <ref type="witlink" target="#p-ii-62">P II 62 3-4</ref> «Quando <term ref="#chinsanbaian">Baian</term> princeps exercitus <term ref="#gran-can">Magni Kaam</term> ‹mittebat exercitus suos ad debellandum et subiugandum [R «soggiogò»] civitates <term ref="#mangi">Mangi</term>› misit ad civitatem istam <term ref="#tinguigui">Tinghingui</term> [R «<term ref="#tinguigui">Tinguigui</term>»] christianos multos qui dicebantur Alani. Cum autem civitatem fortissime impugnarent,
+         hii qui in civitate erant, impugnancium virtute devicti, civitatem eis libere tradiderunt;
+         cunctus igitur exercitus pacifice ingressus est civitatem, neminem offendens ulterius,
+         ex quo ad <term ref="#gran-can">Magni Kaam</term> libere venire decreverunt mandata». Ricordiamo che anche la forma Chinsambaiam – che compare per la prima volta in <ref type="witlink" target="#r-ii-55">R II 55 10</ref> – è tratta da <ref type="witlink" target="#p-ii-54">P II 54 2</ref>. L’indefinito «alcuni» si legge anche in V, ma l’indizio è troppo debole per poter
+         ipotizzare un apporto anche di questa redazione: <ref type="witlink" target="#v-null-74">V 74 5 </ref>«Or advene che <term ref="#chinsanbaian">Baian</term> mandò una gran parte dela so zente, la qual iera alguni christiani; et essendo prexa
+         la zitade […]».</p>
+	<p>La parte finale della pericope («quali […] dentro»), che si allontana da VB, è stata
+         probabilmente rielaborata da Ramusio, anche se dietro alcune forme potrebbe esserci
+         l’influsso di altre fonti. Il sintagma «senza contrasto» ricorda il «pacifice» di
+         P, mentre l’espressione «entrorono dentro» potrebbe essere stata ricavata da un testimone
+         che presentava una lezione molto vicina a quella di F («entrerent dedens»): <ref type="witlink" target="#f-null-149">F CXLIX 7-8</ref> «Il foi voir qe quant la provence dou <term ref="#mangi">Mangi</term> se pris por les homes dou <term ref="#gran-can">Grant Kan</term> et qe <term ref="#chinsanbaian">Baian</term> en estoit chief, il avint qe ceste <term ref="#chinsanbaian">Baian</term> envoié une partie de sez jens, qe Alani estoient, qe estoient cristienz, a ceste
+         cité por prandre. Or avint qe cesti Alani la pristent et entrerent dedens la cité
+         […]». In questo punto Z toledano (come anche L) è lacunoso, ma non è escluso che Z1 recasse un testo completo, affine a quello che si legge in F.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

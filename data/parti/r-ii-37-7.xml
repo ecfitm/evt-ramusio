@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Ramusio combina assieme in questo punto la testimonianza di due modelli. Il testo
+         base è fornito da Z 53 23-26 (notevolmente compendiato) «Habent itaque gentes ille talem consuetudinem [R «hanno
+         una […] consuetudine»] in nubendo, videlicet quod nullus homo aliquam virginem modo
+         aliquo acciperet in uxorem. Nam mulier sive domicella, que non fuerit ab aliquo viro
+         cognita [R «sia stata cognosciuta da qualche huomo»], dicitur apud eos diis fore ingrata
+         [R «dicendo che questo piace alli loro idoli»]. Quare propter hoc homines abhorrent
+         eas et de ipsis non curant. Quia si eorum ydolis essent grate, eas homines concupiscerent
+         et affectarent». Gli alri relatori e F risultano meno ricco di dettagli: <ref type="witlink" target="#l-null-94">L 94 5</ref> «Adest eis talis maritandi consuetudo. Nullam quis sumeret in uxorem nisi primo a
+         pluribus viris habita foret, dicentes eas nichil valere nisi primo venereis actibus
+         et consuetudinibus ab aliis forent docte […]»; V 55 18 «Et in quello luogo sono una uxanza, chomo aldiré: ch’el nonn è alguno quando el
+         se marida che voia tuor una femena per moier che sia verzene per chossa del mondo,
+         s’ella nonn è uxada chon molti homeni»; <ref type="witlink" target="#vb-null-81">VB LXXXI 4</ref> «Àno i abitanti questo piacevole chostume». Sul testo di Z, Ramusio inserisce varie
+         lezioni tipiche di P – che, per il resto, nella sostanza testuale ricalca il dettato
+         di F: <ref type="witlink" target="#p-ii-37">P II 37 1</ref> «[…] ubi est absurda et valde detestabilis [R «vergognosa»] quedam abusio proveniens
+         ex ydolatrie cecitate [R «messagli nel capo dalla cecità della <term ref="#idolatri">idolatria</term>»]: in illa regione nullus vir uxorem vult accipere [R «vuol pigliar»] virginem nisi
+         prius [R «prima»] sit a viris pluribus cognita; dicunt enim mulierem aliter non esse
+         aptam coniugio».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

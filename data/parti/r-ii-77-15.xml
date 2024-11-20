@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-77-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-77">
+      <note>
+	<p>La fonte di tale pericope è con ogni evidenza un affine a <ref type="witlink" target="#z-null-90">Z 90 33-34</ref> «Sed scire debetis quod per totam provinciam Manci una servatur loquela et una maneries
+         litterarum. Tamen in lingua est diversitas per contratas, veluti apud laycos inter
+         Lonbardo‹s›, Provinciales, Francigenas, etcetera; ita tamen quod, in provincia <term ref="#mangi">Mançi</term>, gens cuiuslibet contrate potest gentis alterius intelligere ydioma». Gli altri relatori
+         appaiono molto più sintetici: <ref type="witlink" target="#l-null-141">L 141 2</ref> «Huius civitatis gentes sunt <term ref="#idolatri">ydolatre</term>, habentque proprium ydeoma»; <ref type="witlink" target="#p-ii-70">P II 70 6</ref> «In regione que una est de novem partibus <term ref="#mangi">Mangy</term> est lingua propria»; <ref type="witlink" target="#v-null-79">V 79 10</ref> «Et questi de questa zitade àno parlar per sí»; <ref type="witlink" target="#vb-null-124">VB CXXIV 3</ref> «E questa gente àno lenguaço da per si» (così anche in <ref type="witlink" target="#f-null-156">F CLVI 13</ref> «Et encore vos di qe cele de ceste cité ont lengajes por eles»).</p>
+	<p>Si noti che Ramusio “aggiorna” in parte i contenuti della sua fonte, sostituendo il
+         generico riferimento all’articolazione interna dello spazio linguistico romanzo medievale
+         («[…] veluti apud laycos inter Lonbardo‹s›, Provinciales, Francigenas […]»), con un
+         rimando esplicito alla differenziazione dialettale nell’Italia del Cinquecento («[…]
+         come saria a dir Genovesi, Milanesi, Fiorentini et Pugliesi […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

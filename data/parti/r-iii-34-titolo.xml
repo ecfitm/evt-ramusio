@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-34-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-34">
+      <note>
+	<p>F CLXXXVIII (Ci devise de l’isle Masles et Femes); P III 37 (De duabus insulis in quarum una habitant viri sine mulieribus, et in alia mulieres
+         sine viris. Capitulum XXXVII), VA CXLVII (De do ixolle dove in una abita pur homeni senza femene, et in l’altra pur femene);
+         Z 122; L 175 (De duabus insulis Ma‹sculus› et Fe‹mella›); V 104 (Del’<term ref="#isola-femmina-e-isola-mascola">Ixolla Mascholina et Feminina</term>); <ref type="witlink" target="#vb-null-158">VB CLVIII</ref>.</p>
+	<p>Si è scelto di dare a fronte di R la lezione di VB non tanto per la sua qualità, quanto
+         per ragioni di ordine strutturale. Nella tradizione si fronteggiano sostanzialmente
+         due ordini diversi delle informazioni: VA, P, VB e R impostano una disposizione delle
+         informazioni per parallelismo che si modella fin dall’inizio sulla natura oppositiva
+         delle due isole; F, Z e V (in parte L) prediligono una disposizione che dà la primazia
+         alle informazioni sui maschi. Di fatto l’ordine di R coincide quasi del tutto (e al
+         netto di due piccole omissioni – vedi le note ai parr. 2 e 6), con quello di VB. Il
+         tessuto discorsivo vede invece un ricorso equipollente a VB e a P, ma non è escluso
+         qualche innesto da Z (vedi la nota a par. 7). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

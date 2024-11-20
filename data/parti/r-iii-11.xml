@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-11" n="1">
+    <head>
+      <hi rend="bold">R, III 11</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-11_1_1" n="1"> Del regno di <term ref="#felech">Felech</term>, ch’è sopra la <term ref="#giava">Giava Minore</term>. Cap. 11.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-11_2_1" n="1"> Cominciamo adunque a narrare del regno di <term ref="#felech">Felech</term>, il quale è uno delli detti otto. </seg>
+      <seg xml:id="r-iii-11_2_2" n="2"> In questo regno tutte le genti <term ref="#idolatri">adorano gl’idoli</term>, ma per li mercatanti sarraceni, che del continuo ivi conversano, si sono convertiti
+         alla legge di <term ref="#macometto">Macometto</term>, cioè quelli che habitano nelle città; et quelli che habitano nei monti sono come
+         bestie, però che mangiano carne humana, et generalmente ogni sorte de carni monde
+         et immonde; et adorano diverse cose, perché quando alcuno si leva su la mattina adora
+         la prima cosa ch’ei vede per tutto quel dí.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

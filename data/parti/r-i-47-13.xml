@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-47-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-47">
+      <note>
+	<p>La pericope corrisponde a <ref type="witlink" target="#f-null-69">F LXIX 24</ref> «Tout ce que je voç ai contés, sunt le u‹sa›jes et les costumes des droit <term ref="#tartari">Tartars</term> […]». </p>
+	<p>L’eccentrico sintagma «rettori de’ <term ref="#tartari">Tartari</term>» presuppone un antecedente latino che traducesse il francoit. <hi rend="italics">des droit Tartars </hi>“dei <term ref="#tartari">Tartari</term> veraci” con *<hi rend="italics">rectorum Tartarorum</hi>, facilmente equivocato da Ramusio stante l’omografia, al genitivo plurale maschile,
+         tra <hi rend="italics">rectus</hi> “autentico” e <hi rend="italics">rector</hi> “rettore, governante”. L’antecedente latino di R è senz’altro Z, giacché non danno
+         adito a fraintendimenti le lezioni di <ref type="witlink" target="#p-i-61">P I 61 3</ref> «Hec sunt igitur communes consuetudines <term ref="#tartari">Tartarorum</term> […]» (&lt; <ref type="witlink" target="#va-null-55">VA LV 31</ref> «Queste è le chostume e lle uxanze de’ <term ref="#tartari">Tartari</term> […]») e  di <ref type="witlink" target="#l-null-60">L 60 24</ref> «Hec dicta de moribus <term ref="#tartari">Tartarorum</term> vera sunt de veris <term ref="#tartari">Tartaris</term> […]»).</p>
+	<p>Una <hi rend="italics">faute </hi>dall’identica eziologia («deli <hi rend="italics">Signor</hi> de Tartari») si registra in <ref type="witlink" target="#v-null-36">V 36 26</ref> «[…] et tuto questo che ve ò dito sono la veritade et li chostumi deli Signor de
+         <term ref="#tartari">Tartari</term> […]». L’altra particolarità di V (<hi rend="italics">veritade</hi> in luogo di <hi rend="italics">vita</hi>: cfr. F [lezione manoscritta]: «[…] sunt leuies et les costumes des dro/it <term ref="#tartari">tartars</term>»; R «[…] nella vita et costumi de’ rettori de’ <term ref="#tartari">Tartari</term>» può dipendere dall’interpretazione della scrizione latina *<hi rend="italics">vit</hi>(<hi rend="italics">a</hi>)<hi rend="italics">e </hi>come compendio per <hi rend="italics">veritate</hi>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

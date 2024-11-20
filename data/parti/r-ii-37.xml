@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-37" n="1">
+    <head>
+      <hi rend="bold">R, II 37</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-37_1_1" n="1"> Della gran provincia detta <term ref="#thebeth">Thebeth</term>. Cap. 37.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-37_2_1" n="1"> Questa provincia chiamata <term ref="#thebeth">Thebeth</term> è molto destrutta, perché <term ref="#mongu-can">Mangi Can</term> la destrusse al tempo suo, per la guerra ch’egli hebbe con quella: et vi si veggono
+         per questa provincia molte città et castella tutte rovinate et desolate, per lunghezza
+         di venti giornate. </seg>
+      <seg xml:id="r-ii-37_2_2" n="2"> Et perché vi mancano gli habitatori, però le fiere salvatiche, et massime i leoni
+         sono moltiplicati in tanto numero che è grandissimo pericolo a passarvi la notte:
+         et li mercatanti et viandanti, oltra il portar seco le vettovaglie, bisogna che alloggino
+         la sera con grande ordine et rispetto, per causa che non li siano devorati i cavalli.
+         </seg>
+      <seg xml:id="r-ii-37_2_3" n="3"> Et fanno in questo modo, che, trovandosi in quella regione, et massime appresso i
+         fiumi, canne di lunghezza di passa dieci et grosse tre palmi, et da un nodo all’altro
+         vi sono tre palmi, i viandanti fanno la sera fassi grandi di quelle che sono verdi,
+         mettendole alquanto lontane dall’alloggiamento, et vi appizzano il fuogo; le quali
+         sentendo il caldo si scorzano et sfendono schioppando terribilmente, et è tanto horribil
+         il schioppo che ’l rumor si sente per duoi miglia, et le fiere udendolo fuggono et
+         allontanansi. </seg>
+      <seg xml:id="r-ii-37_2_4" n="4"> Et li mercatanti portano seco pasture di ferro, con le quali inchiavano tutti quattro
+         i piedi alli cavalli, perché altramente, spaventati dal rumore, romperiano le corde
+         et fuggiriano via: et è accaduto che molti per negligenza gli hanno perduti. </seg>
+      <seg xml:id="r-ii-37_2_5" n="5"> Cavalcasi adunque per questa contrada venti giornate, continuamente trovando simili
+         salvatichezze, et non trovando alloggiamenti né vettovaglie, se non forse ogni terza
+         o quarta giornata, nelle quali si forniscono delle cose al viver necessarie. </seg>
+      <seg xml:id="r-ii-37_2_6" n="6"> In capo delle qual giornate si comincia pur a veder qualche castello et borghi, che
+         sono fabricati sopra dirupi et sommità de’ monti, et se intra in paese habitato et
+         coltivato, dove non vi è piú pericolo di animali salvatichi. </seg>
+      <seg xml:id="r-ii-37_2_7" n="7"> Gli habitanti di quei luoghi hanno una vergognosa consuetudine, messagli nel capo
+         dalla cecità della <term ref="#idolatri">idolatria</term>, che niuno vuol pigliar moglie che sia vergine, ma vogliono che prima sia stata cognosciuta
+         da qualche huomo, dicendo che questo piace alli loro idoli. [8] Et però, come passa qualche carovana di mercadanti, et che mettono le tende per alloggiare,
+         le madri c’hanno le figliuole da maritare le conducono subito fino alle tende, pregando
+         i mercadanti, a regatta una dell’altra, che voglino pigliar la sua figliuola et tenirsela
+         a suo buon piacere fino che stanno ivi: et cosí le giovani che piú gli aggrada vengono
+         elette dalli mercadanti, et le altre tornano a casa dolenti. [9] Queste dimorano con li detti fino al suo partire et poi le consegnano alle lor madri,
+         né mai per cosa al mondo le menarebbono via, ma sono obligati a farli qualche presente
+         di gioie, annelletto o vero qualche altro signale, qual portano |34v| a casa: et quando
+         si maritano portano al collo o vero adosso tutti li detti presenti, et quella che
+         ne ha piú viene riputata esser stata piú apprezzata dalle persone. [10] Et per questo sono richieste piú volentieri dalli giovani per moglie, né piú degna
+         dote ponno dare alli mariti che li molti presenti ricevuti, riputandosi quelli per
+         gran gloria a laude: et nelle solennità delle sue nozze li mostrano a tutti, et li
+         mariti le tengono piú care, dicendo che li loro idoli le hanno fatte piú gratiose
+         appresso gli huomini. [11] Et da indi innanzi non è alcuno che havesse ardire di toccare la moglie d’un altro,
+         et di tal cosa si guardano grandemente. [12] Queste genti <term ref="#idolatri">adorano gl’idoli</term>, et sono perfidi et crudeli, et non tengono a peccato il rubbare né il far male,
+         et sono i maggiori ladri che siano al mondo. [13] Vivono di cacciagioni et di uccellare et di frutti della terra. [14] Qui si trovano di quelle bestie che fanno il <term ref="#muschio">muschio</term>, et in tanta quantità che per tutta quella contrada si sente l’odore, perché ogni
+         luna una volta spandono il <term ref="#muschio">muschio</term>. [15] Nasce a questa bestia, come altre volte s’è detto, presso all’umbilico una apostema
+         in modo d’un bognone pieno di sangue, et quella apostema ogni luna per troppa repletione
+         sparge di quel sangue, qual è <term ref="#muschio">muschio</term>. [16] Et perché vi sono molti di simili animali in quelle parti, però in molti luoghi si
+         sente l’odore di quello. [17] Et queste tal bestie si chiamano in loro lingua “<term ref="#gudderi">gudderi</term>”, et se ne prendono molte con cani. [18] Essi non hanno monete, né anche di quelle di carta del <term ref="#gran-can">Gran Can</term>, ma spendono corallo, et vestono poveramente di cuoio et di pelle di bestie et di
+         canevaccia. [19] Hanno linguaggio da per sé et appartengono alla provincia di <term ref="#thebeth">Thebeth</term>, la qual confina con <term ref="#mangi">Mangi</term>, et fu altre volte cosí grande et nobile che in quella erano otto regni et molte
+         città et castella, con molti fiumi, laghi et monti; nelli quali fiumi si trova oro
+         in grandissima quantità di paiola. [20] In li regni di detta provincia si spende, come ho detto, il corallo per moneta, et
+         ancho le donne lo portano al collo; et <term ref="#idolatri">adorano li suoi idoli</term>. [21] Et si fanno molti zambellotti et panni d’oro et di seda, et vi nascono molte sorti
+         di spetie, che non si portano mai nelli nostri paesi. [22] Et quivi gli huomini sono grandissimi negromanti, imperoché fanno per arte diabolica
+         i maggior veneficii et ribalderie che mai fussero viste o vero udite: fanno venir
+         tempesta et fulguri, con saette, et molte altre cose mirabili. [23] Sono huomini de mali costumi. [24] Hanno cani molto grandi, come asini, che sono valenti a pigliar ogni sorte di animali,
+         et massime buoi salvatichi, che si chiamano “<term ref="#beyamini">beyamini</term>”, quali sono grandissimi et feroci. [25] Ivi nascono ottimi <term ref="#falconi-laneri">falconi laneri</term> et sacri, molto veloci al volare, et ottimamente uccellano. [26] Questa detta provincia di <term ref="#thebeth">Thebeth</term> è suddita al dominio del <term ref="#gran-can">Gran Can</term>, et similmente tutte le regioni et provincie soprascritte; doppo la quale si trova
+         la provincia di <term ref="#caindu">Caindú</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

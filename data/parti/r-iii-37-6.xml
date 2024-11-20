@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-37-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>La pericope si trova all’incrocio di due opposizioni. </p>
+	<p>La prima opposizione attiene la sua posizione nel capitolo. La sequenza di <hi rend="italics">effictiones</hi>, maschile e femminile, si ritrova, oltre che in R, in VA CL 8 «Le femene èno altrosì molto soza cossa: ele àno gran bocha, grossi ochi e grosso
+         naxo, e àno quatro chotanti grosse le mane che non àno le femene de nostra contrà»
+         (che cita solo le mani), nel suo apografo P III 41 5 «Mulieres vero similiter modo deformes sunt valde: os magnum habentes, nares grossas
+         et oculos prominentes; manus vero grossiores habent in quadruplo quam habeant aliarum
+         gentium mulieres» (che cita solo le mani), e L 178 5 «Simili modo earum mulieres eciam sunt turpissime, et insuper earum mamille aliis
+         mulieribus in quadruplo sunt maiores, quod in turpitudinem magis addit» (che cita
+         le mammelle, e non le mani); a tale serie si oppone quella aperta da F CXCI 8 «Et encore voç di que les femes de ceste ysle sunt mout laide cousse a veoir, car
+         elle ont grant boce e gros iaus et gros nes. Il ont les mamelles groses quatre tant
+         que ne ont les autres femes: elle sunt mout laide cousse a veoir» – in cui si parla
+         di mammelle, non di mani, e la “schedina” è collocata dopo la sequenza della descrizione
+         degli animali della regione (vedi le note ai parr. 8-11): vedi <ref type="witlink" target="#z-null-125-1-33">Z 125 21</ref> «Et mulieres istius insule sunt turpissime ad videndum, quoniam sunt grosse os, oculos
+         et nasum; et sunt grosse mamas quadruplo plus aliis mulieribus», V 107 8 «Le femene de questa ixolla sono brutissime da vedere, et àno la bocha granda, e
+         li ochi, el naxo grando e groso; e le mamele grande», VB CLXI 13-14 «Le femene de quela issolla sono la più bruta chosa a vederlle che parano diavoli.
+         Àno i ochi grandi e grossi, la bocha molto grande, el naso grando; le man, .IIII°.
+         à tanto grande quanto le alltre chomune femene; sono negre quanto mora e de gran statura»
+         (che, si noti, recupera qui il paragone coi demoni assente là dove la tradizione lo
+         richiede, nell’<hi rend="italics">effictio</hi> maschile – vedi la nota a <ref type="witlink" target="#r-iii-37">R III 37 5</ref>).</p>
+	<p>La seconda opposizione riguarda un dettaglio dell’<hi rend="italics">effictio</hi>. Solo VA-P parlano di “mani”, laddove tutti citano le “mammelle” – evidentemente
+         l’equivoco nasce all’altezza di VA, o del suo antigrafo franco-veneto. Ramusio si
+         è limitato a giustapporre i due dettagli (come registra pure Milanesi 1980, p. 288
+         nota 2), a partire da P (vista la posizione dell’<hi rend="italics">effictio</hi>).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

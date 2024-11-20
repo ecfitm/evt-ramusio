@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-9">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, IX</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-9_1_1" n="1"> ‹E›ssendo stati miser Nicholò miser Mafio e miser Marcho el tenpo aveti aldito,
+         deliberòno de lì partirsse per tornare a ponente. </seg>
+      <seg xml:id="vb-null-9_1_2" n="2"> Et deliberòno domandare licencia
+         al Segnor <term ref="#gran-can">Gran Chane</term>, el qual Segnore, amando quelli, più fiate il la denegò, né volea da loro i sse partiseno.
+         </seg>
+      <seg xml:id="vb-null-9_1_3" n="3"> Ochorsse che la raina <term ref="#bolgara">Bolgara</term> moier del re <term ref="#argon">Argon</term> morite; né voiendo quel re prender altra moier che del sangue dela raina <term ref="#bolgara">Bolgara</term> morta – chome par el re a quella raina avea promeso – mandò tre suo’ anbasatori al
+         <term ref="#gran-can">Gran Chan</term> per dimandare una dona apresso quel Segnor <term ref="#gran-can">Gran Chan</term> era. </seg>
+      <seg xml:id="vb-null-9_1_4" n="4"> Çonti i tre anbasatori, et esposto l’anbasata soa a quel Segnor <term ref="#gran-can">Gran Chan</term>, essendo el re Aragon suo amicissimo, fece a lui vegnire quella dona dil sangue dela raina <term ref="#bolgara">Bolgara</term> morta, çovene de etade de ani .XVIII. nobelle e belisima dona la qual ai tre anbasatori
+         aprese‹n›toe per suo reçina, la qual dona nomea <term ref="#cogatin">Cogiatim</term>. </seg>
+      <seg xml:id="vb-null-9_1_5" n="5"> E dai tre anbasatori nominati l’uno <term ref="#ulatay">Dulatay</term>, l’altro <term ref="#apusca">Iposcha</term>, el terço <term ref="#coza">Coia</term>, quella fu rec‹e›uta et açetatta per suo reçina. </seg>
+      <seg xml:id="vb-null-9_1_6" n="6"> Essendo miser Marcho in quello
+         tenpo retornato de una anbassata, et era stato e passato per la provincia del Re <term ref="#argon">Argon</term>, i tre anbassatori e per simel la regina pregòno el Segnor <term ref="#gran-can">Gran Chan</term> i conçedesse che i tre Latini andasseno con lloro et tanto fu l’instancia de quegli
+         e lla solicitude dei tre Latini che el Segnor licencia i concedete.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

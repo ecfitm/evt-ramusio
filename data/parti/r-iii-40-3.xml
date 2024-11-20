@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-40-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>La pericope è in R il risultato di un lavoro d’intarsio da parte di Ramusio. La base
+         è fornita da <ref type="witlink" target="#p-iii-46-1-6">P III 46 4</ref>: «negotiatores autem qui ibi emunt aromata ut in <term ref="#alessandria">Alexandriam</term> ea deferant, de navibus portus illius ea in naves parvas transferunt et per dietas
+         .VII. super flumen deducunt; postmodum super camelos ponunt et per dietas .XXX. cum
+         camelis vadunt donec ad flumen <term ref="#alessandria">Alexandrie</term> veniant: ibi ea rursum in naves alias transferentes usque ad <term ref="#alessandria">Alexandriam</term> deducunt. Hec via est facilior et brevior quam negotiatores facere possint qui mercaciones
+         et aromata de <term ref="#india">Yndia</term> in <term ref="#alessandria">Alexandriam</term> deferunt; per eandem vero viam multi equi a mercatoribus ducuntur in <term ref="#india">Yndiam</term>»; su di essa Ramusio innesta un primo segmento – «[…] con le quali attraversano un
+         colfo di mare per venti giornate, o piú o manco, secondo il tempo che fa […]» – che
+         non ha presenza nella tradizione (tutti gli altri relatori indicano con P in sette
+         giorni la durata della prima parte del viaggio: F CXCIII 3 «[…] en autres nes petites que vont por un flum entor de .VII. jornee et, a chief
+         de ceste .VII. jornee […]»; VA CLII 5 «[…] e sì lle portano per uno fiume intorno a sete zornade […]»; Z 127 6-7 «[…] que per quoddam flumen ducuntur circa .VII. dietas. Et in capite .VII. dietarum
+         […]»; V 109 4 «[…] et vieno menade per uno flume sete zornade; et in chavo de sete zornade […]»,
+         L 183 4 «[…] septemque dietis, vel circa, per quoddam flumen portant […]» (sei le giornate
+         in VB CLXV 3 «[…] le qual vano su per uno fiume .VI. çornade»). Il secondo segmento – «[…] fino
+         al fiume <term ref="#nilo">Nilo</term>, dove le cargano in navilii piccoli, chiamate <term ref="#zerme">zerme</term>, et con quelle vengono a seconda del fiume fino al <term ref="#cairo">Cairo</term>, et de lí per una fossa fatta a mano detta “<term ref="#calizene">calizene</term>” fino in <term ref="#alessandria">Alessandria</term> […]» – proviene da VB CLXV 4-5 «[…] fin giongono al fiume del <term ref="#nilo">Nillo</term>, dove i chargano le lor marchadantie in navilli picolli, chiamate <term ref="#zerme">çerme</term>: e giongeno per quel fiume del <term ref="#nilo">Nillo</term> fino al <term ref="#cairo">Chaiero</term>. E dal <term ref="#cairo">Chaiero</term> per el dito fiume vano mediante una fosa fatta a mano chiamata el <term ref="#calizene">chalicene</term> in <term ref="#alessandria">Allexandria</term>», unico relatore ad attestarlo.</p>
+	<p>Gli altri relatori seguono, in forma più o meno fedele, il dettato di F CXCIII 4: «Et de cest port li mercant metent le mercandies en autres nes petites que vont
+         por un flum entor de .VII. jornee et, a chief de ceste .VII. jornee, il traient les
+         mercandies de nes e les cargent sus gamiaus e le portent entor .XXX. jornee; a chief
+         de .XXX. jornee, il treuvent le flum d’<term ref="#alessandro">*Alexandre</term> e por cel flun se portent liçeramant jusque in <term ref="#alessandro">*Alexandre</term>. Et en tiel mainere et por ceste voie de ver <term ref="#adem">Aden</term> ont les saracin d’<term ref="#alessandro">*Alexandre</term> les pevre e les especeries e les chieres mercandies: ne por autre voie ne i pout
+         venir ad <term ref="#alessandro">*Alexandre</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

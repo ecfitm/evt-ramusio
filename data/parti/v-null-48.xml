@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-48</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-48">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 48</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-48_2_1" n="1"> ‹E›l <term ref="#gran-can">Gran Signor</term> mandano anche i suo’ mesi per tute le suo’ tere, regni e provinzie, per chaxon de
+         saver dali suo’ omeni s’i àno abudo dano dali suo’ bovi per difeto de tempo over per
+         tempesta over altra pestelenzia; et s’el trova se alguno abia abudo dano e non abia
+         abudo biava non li fa tuor trabuto el qualle li sol dar in quel’ano, ma i fano dar
+         dele suo’ biave, azò che i abia da semenar e da manzar: et questa sono gran bontade
+         del <term ref="#gran-can">Signor</term>. </seg>
+      <seg xml:id="v-null-48_2_2" n="2"> El <term ref="#gran-can">Gran Signor</term> fano far l’aventario al’instade dele suo’ bestie, perché s’el sono algun dî qualli
+         le suo’ bestie sia morte per la mortelitade, ge fa dar a quelli dele suo’, et in quel’ano
+         non li fa tuor algun trabuto; sì che per questo muodo chomo ve ò dito el <term ref="#gran-can">Gran Signor</term> sostien li suo’ omeni. </seg>
+      <seg xml:id="v-null-48_2_3" n="3"> Anchora el <term ref="#gran-can">Gran Signor</term> àno ordenado che in quelle vie maistre per le qual i mesi e i marchadanti et altra
+         zente vano, che in quel medemo luogo siano inpiantadi albori per mezo le vie, i qualli
+         sono do passi uno lutano dal’altro, et sono tanto grandi che se puol veder da lonzi.
+         </seg>
+      <seg xml:id="v-null-48_2_4" n="4"> Et questo sono fato che zaschadun veda ben et non se fali le strade, perché el
+         non se trova albori per le vie dexerte, li qualli sono gran chonfortazion de marchadanti
+         e de viandanti. </seg>
+      <seg xml:id="v-null-48_2_5" n="5"> Et questi albori sono per tute le vie le qualle ve ò dito, zoè
+         |59v| per tute le provinzie e reami qualli sono soto la lor signoria. </seg>
+      <seg xml:id="v-null-48_2_6" n="6"> Et anchora
+         la mazor parte dela zente dela provinzia sì beve tal vin, zoè i fano bevande de rixi
+         chon altre bone spezie, et sono sì bon bever cha val meio che altro vin; ed è chiaro
+         e luzente, et fano l’omo più tosto vivo che altro vin, perché è ’l tempo chaldo. </seg>
+      <seg xml:id="v-null-48_2_7" n="7">
+         Al prexente lasseremo de questo e torneremo ad altro. </seg>
+      <seg xml:id="v-null-48_2_8" n="8"> In tuta la provinzia del
+         <term ref="#cataio">Chataio</term> sono una maniera de pietre grande, le qualle se chavano de monti al modo de vene,
+         le qualle ardeno chomo bronze et tiene meraveioxamente fuogo molto forte; et se le
+         sono metude la ssera in fuogo et sia inpiado la note, le chonserva sì fatamente el
+         fuogo che lo se trova la maitina. [9] Per tuta la provinzia del <term ref="#cataio">Chataio</term> queste pietre se bruxano; ben è vero ch’el sono molte legne, mo de queste pietre
+         se ne bruxa molte perché le chosta mancho, et sì sono sparagnamento de legne. [10]
+         Or abiamo dito questo; or resta a dir chomo el <term ref="#gran-can">Gran Signor</term> provede azò che le biave non deventa chare. [11] Quando el <term ref="#gran-can">Gran Signor</term> vede che le biave sì àno in gran abondanzia et che dele dite biave sì àno gran marchado,
+         el ne fa sunar in grandissima quantitade, et fale meter in una gran chaxa, et fale
+         ben stadiare che per tre ní per quatro ani non se vasta, zoè formento, orzo, panizo
+         ed altre biave; et de queste ne àno in gran quantitade; et s’el avien che non ’de
+         sia blave e ch’el sia charestia, el <term ref="#gran-can">Gran Signor</term> fano tirar fuora de quelle, et sì le mexura et se le vende uno bixante le fano vender
+         mezo et fane tirar tante fuora che zaschadun ne pò avere. |60r| [12] E per questo
+         muodo el Signor provede a tuti li suo’ homeni sì che li non puol aver charestia; et
+         questo falo per tute le tere le qual ello signoriza.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

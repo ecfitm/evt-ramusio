@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-43-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-43">
+      <note>
+	<p>La prima parte della pericope («Et non permesso […] nella detta pianura») non trova
+         un parallelo in nessuna delle fonti ramusiane e parrebbe nascere da un travisamento
+         del testo originale, che si conserva, con varianti minime, in L P e V (vd. F): <ref type="witlink" target="#l-null-99">L 99 2</ref> «Nescitur ubi gentes huius provincie habitent: loca enim que ipse habitant sunt in
+         tantum fortia et difficilis accessus quod ad ipsa non accedunt forenses […]»; <ref type="witlink" target="#p-ii-43">P II 43 2</ref> «Ad montes alios fortissimos, ubi illi pro securitate sua habitant, nullus accedit
+         exercitus, quia loca valde invia sunt, nec ex hoc scitur ad aliis ubi illorum habitacio
+         sit […]»; <ref type="witlink" target="#v-null-59">V 59 3</ref> «Et nesun non puol andar ale suo’ chaxe per chaxon d’esser danifichadi da quelli,
+         perché el sono forte luogo, et le suo’ chaxe sono in luogo che nesun non va mai se
+         no lor solli […]» (<ref type="witlink" target="#f-null-123">F CXXIII 4</ref> «Et les jens de celle contree qe aportent lo or, nul ne poit aler a lor maison, la
+         o il demorent, por lor fer maus, tant demorent en for leu e des‹v›oiables: ne nul
+         set la ou il demorent por ce que nul hi ala for qu’elz»). Nella seconda parte («la
+         qual passata […] habitatione alcuna») il testo di R è aderente a quello degli altri
+         testimoni: <ref type="witlink" target="#l-null-99">L 99 3</ref> «Ultra vero has ‹duas› dietas cum dimidia huiusmodi descensus, invenitur provincia
+         magna versus meridiem dicta <term ref="#mien">Mien</term> – et est in confinibus <term ref="#india">Indie</term> –, per quam transitur .XV. dietis per devia nemorosa et inhabitata loca, ubi sunt
+         elefantes multi et unicorni, et multe et diverse species silvestrium animalium»; <ref type="witlink" target="#p-ii-43">P II 43 3</ref> «Post hec invenitur provincia <term ref="#mien">Mien</term> que affinis est <term ref="#india">Indie</term> ad meridiem, per quam itur diebus .XV. per loca silvestria et nemorosa ubi multi
+         sunt elephantes et unicornes alieque fere agrestes innumere, et nulla ibi habitacio
+         est»; <ref type="witlink" target="#v-null-59">V 59 4-5</ref> «Et quando el se àno desmontado ’ste do zornade el se trova una provinzia che sono
+         verso mezodì in le chonfine del’<term ref="#india">India</term>, chiamata <term ref="#mien">Mellicha</term>. Et vasse per quindexe zornade per luogi molti desuxadi e per boschi entro li qualli
+         sono de molti lionfanti, et li omeni àno diversi animalli molto salvadegi» (vd. <ref type="witlink" target="#f-null-123">F CXXIII 6-7</ref> «Et quant l’en a desendue cest .II. jornee et demi, adonc treuve l’en une provence
+         qe est ver midi et est a les confin de <term ref="#india">Yndie</term>: <term ref="#mien">Mien</term> est apelés. L’en ala .XV. jornee por mout desviable leu et por grant boscajes, la
+         ou il ha leofans asez, et unicorn aseç, et autres diverses bestes sauvajes. H‹o›mes
+         ne habitasion n’i a: et por ce voç laison de ce boscajes et voç conteron d’une estoire,
+         si con vos la pori oïr»). Va rilevato, tuttavia, che la lezione «né vi sono huomini
+         né habitatione alcuna» induce a ritenere che il modello di Ramusio fosse più vicino
+         a F («H‹o›mes ne habitasion n’i a») di quanto non siano L (om.), P («et nulla ibi
+         habitacio est») e V («et li omeni àno diversi animalli molto salvadegi»). Sicché è
+         ragionevole concludere che R in questo punto abbia seguito la testimonanianza del
+         perduto Z1. Ricordiamo che Z toledano omette il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

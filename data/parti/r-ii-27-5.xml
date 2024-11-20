@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-27-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-27">
+      <note>
+	<p>Questo passo manca in Z toledano, ma la vicinanza di R con F induce a ritenere che
+         Ramusio abbia ricavato l’intera pericope da Z1: <ref type="witlink" target="#f-null-104">F CIV 4</ref> «[…] il ha .XXIIII. arch et .XXIIII. moreles en l’eive, et est tout de marbre bis
+         mout bien ovrés et bien asetés […]». Le altre fonti risultano senz’altro meno affini
+         a R di quanto si mostri F: <ref type="witlink" target="#l-null-84">L 84 2</ref> «[…] et habet arcus .XXIIII. Estque totus marmoreus […]»; <ref type="witlink" target="#p-ii-27">P II 27 4</ref> «[…] habet vero pons arcus .XXIIII. et in aqua totidem pilas marmoreas»; <ref type="witlink" target="#v-null-50">V 50 3</ref> «[…] et el dito ponte àno vintiquatro archi e vintiquatro moreli in l’aqua; et sono
+         tuto de malmoro et molto artifiziado»; <ref type="witlink" target="#vb-null-73">VB LXXIII 4</ref> «Et è·defichato in .XXIIII. archi sopra .XXIIII°. morelli tuti de marmoro molto ben
+         lavorati […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

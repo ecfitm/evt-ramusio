@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-4-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-4">
+      <note>
+	<p>Ramusio recepisce un <hi rend="italics">ajout</hi> di Z: vd. infatti <ref type="witlink" target="#z-null-3">Z 3 4</ref> «Et in quodam castro, quod vocatur <term ref="#paipurth">Paperth</term>, est maxima argentera, et invenitur hoc castrum eundo de <term ref="#toscaol">Trapesunda</term> in <term ref="#thauris">Thauris</term>».</p>
+	<p>Un accenno, meno dettagliato, alle miniere d’argento armene è anche in <ref type="witlink" target="#v-null-11">V 11 4</ref> «Et in questa sono una zitade chiamada <term ref="#argiron">Argiron</term> la quale son granda, se trova gran quantità de arzenti», e, ricollocato qualche riga
+         indietro (probabilmente per iniziativa autonoma del compilatore dell’epitome), in
+         <ref type="witlink" target="#l-null-19">L 19 2</ref> («Est eciam <term ref="#argiron">Argiron</term> civitas, ubi foditur maxima quantitas argenti»).</p>
+	<p>Si noti come L e V – sulla scorta di una fonte comune non lontana da Z? – collochino
+         le miniere presso la città di <term ref="#argiron">Argiron</term>, mentre Z (da cui R) le localizza a <term ref="#paipurth">Paperth</term> (odierne <term ref="#argiron">Erzurum</term> e Bayburt, città della Turchia NE, distanti poco più di un centinaio di chilometri). La regione
+         di <term ref="#argiron">Erzurum</term> è a tutt’oggi nota per l’attività estrattiva dell’argento: non è da escludere che
+         Marco Polo abbia inteso precisare, in riscritture successive, la localizzazione delle
+         grandi miniere visitate, e che queste riscritture siano all’origine del sottile scarto
+         informativo tra L e V da un lato, e Z (e R). A meno di supporre un intervento interpolatorio
+         nel testo di Z, o nella (presunta) fonte comune di L e V.</p>
+	<p>In ultimo, la grafia <term ref="#paipurth">Paipurth</term> di R è forse dovuta a un intervento erudito dell’umanista, in direzione di una maggiore
+         aderenza al toponimo Bayburt, oppure a un’effettiva lezione migliore tràdita dal modello Z a disposizione di Ramusio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

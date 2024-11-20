@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-6-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>La fonte di R doveva seguire piuttosto fedelmente <ref type="witlink" target="#f-null-83">F LXXXIII 23-24</ref> «Et la covreture desovre sunt toute vermoile et vers et bloies et jaunes et de tous
+         colors; et sunt envernicé si bien et si soitilmant qu’il sunt respre‹n›disant come
+         crist{i}aus, si que mou {lou} loingne environ le palais luissent. Et sachiés qe cele
+         covreure est si fort et si fermeement faite qe dure maint anz». La variante «vi sono
+         vitreate nelle fenestre» si spiega a partire da <ref type="witlink" target="#v-null-41">V 41 22-23</ref> «[…] et la chovertura de queste sono verde, biave e zale e de molti altri diversi
+         cholori; et sono inveriadi sotilmente. Et quel pallazo intorno intorno sono molto
+         luzido e resplende chomo christalo; et sono tanto ben fato ch’el durerà più de mile
+         ani». È verosimile che la fonte di R (quasi sicuramente il perduto Z1) recasse la lezione «invetriatae», vale a dire “ricoperte di smalto lucido”, “rivestite
+         di pasta vetrosa”, che poi l’editore interpretò erroneamente come “vetrate”. La variante
+         «pavonazza» sembrerebbe un’innovazione arbitraria di R. Il  paragrafo è fortemente
+         compendiato in <ref type="witlink" target="#l-null-68">L 68 5</ref> «[…] et vernice taliter illuminata quod ad modum cristalli et longe valde resplendet».
+         P omette tutto il passo, mentre VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-23-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-23">
+      <note>
+	<p>Ramusio semplifica ulteriormente l’intreccio: elimina l’episodio della scoperta dei
+         mali del corpo (malattia, vecchiaia, morte) da parte del giovane principe fuori dal
+         palazzo (<ref type="witlink" target="#z-null-111">Z 111 20-29</ref> = F CLXXVII 11-13; V 95 11-14; VB CXLVII 6-14), a causa della quale egli sceglie la “fuga dal mondo” (<ref type="witlink" target="#z-null-111">Z 111 30-31</ref> = F CLXXVII 13; V 95 15-16; VB CXLVII 15). </p>
+	<p>In sostanza Ramusio riduce tutto alla resa di  <ref type="witlink" target="#z-null-111">Z 111 32-33</ref> «Discessit ergo a palatio patris sui, et ivi in montes multos devios et magnos, et
+         ibi permansit totis temporibus vite sue multum honeste et caste, et cum magna abstinencia»,
+         sopprimendo l’analogia inclusiva «Et pro certo, si fuisset christianus, magnus sanctus
+         exstitiset penes Dominum Yesum Christum» (l’intera pericope rende F CLXXVII 14 «Et adonc se parti dou palais et de son pere. Il s’en ala es montagnes mout grand
+         e desviables, et illuec demore toute sa vie mout onestamant et castemant, et molt
+         fait grant astinence, car certes, se il fuisse{nt} esté cristiens, il seroit estés
+         un grant sant avec Nostre Seingnor Jesucrist»); l’abbreviazione di Ramusio riecheggia
+         L 160 3, che sopprime gli stessi segmenti: «[…] et cum hic talibus [<hi rend="italics">i piaceri offerti dalle fanciulle</hi>] corrumpi non posset, sed semper in sua bona opinione ardentius permaneret, tandem
+         – mundanis omnibus derelictis – ad silvestria montana se transferens tam diu monasticam
+         duxit vitam donec persolveret debitum carnis sue».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

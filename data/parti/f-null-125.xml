@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-125</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-125">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXXV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-125_1_1" n="1"> Ci devise de la grant provence de <term ref="#bangala">Bangala</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-125_2_1" n="1"> <term ref="#bangala">Bangala</term> est une provence ver midi qe, as .M.CC.XC. anz de la nativité de Crist, quant je,
+         March, estoie a la cort dou <term ref="#gran-can">G‹r›ant Kan</term>, encore ne l’avoit pas conquisté, mes toutes foies les hostes et seç jens hi estoient
+         por conquister. </seg>
+      <seg xml:id="f-null-125_2_2" n="2"> Mes je voç di qe ceste provence ont rois e lengajes por elz. Il
+         sunt pesimes <term ref="#idolatri">ydres</term>, ce entendés ydules. Il sunt a les confin de <term ref="#india">Ynde</term>. Il hi a maint escuilés, et d’iluec les ont tuit les baronç et seingnors qe entor
+         celes provences sunt. </seg>
+      <seg xml:id="f-null-125_2_3" n="3"> Li buef ‹sunt› si aut con leofant, mes ne pas si gros. Il
+         vivent de chars e de lait e de ris. </seg>
+      <seg xml:id="f-null-125_2_4" n="4"> Il ont <term ref="#bambagio">banbance</term> aseç. </seg>
+      <seg xml:id="f-null-125_2_5" n="5"> Il font grant merchandie, car il ont espi e galanga et gengiber et succare
+         et de maintes autres chieres espices. </seg>
+      <seg xml:id="f-null-125_2_6" n="6"> Il hi vi‹e›nent les Yndien et hi achatent
+         de les escuilliés qe je voç ai dit, et esclaus hi achatent ausi aseç, car sachiés
+         qe les merchant achatent en cest provence esculiés et esclaus aseç et puis les moinent
+         a vendre por ma|58b|intes autres pars. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-125_3_1" n="1"> Or en ceste provence ne a autre couse qe a mentovoir face, et por ce noç en partiron
+         et voç conteron d’une provence qui est ver levant et est apelé <term ref="#cangigu">Caugigu</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

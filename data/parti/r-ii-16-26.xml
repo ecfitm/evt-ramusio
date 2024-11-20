@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-26</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>La forma sintetica del periodo e la lezione «alla campagna» suggeriscono un apporto
+         rilevante di P alla costituzione della pericope, ma alcune coincidenze indicano che
+         Ramusio ha tenuto conto anche di un esemplare simile a F e a V:<ref type="witlink" target="#p-ii-20"> P II 20 12</ref> «Post hec revertitur rex cum universo comitatu suo in civitate <term ref="#cambalu">Cambalu</term> per viam unde ad planiciem [R «alla campagna»] inierat, aves et animalia capiendo
+         […]»; <ref type="witlink" target="#f-null-93">F XCIII 41</ref> «En tel mainere com voç avés oï demore le <term ref="#gran-can">Grant Sire</term> en cestui leu jusque entor la Pasche de Resuresion. Et quant il hi est tant demorés
+         com vos avés hoï, adonc se part de luec a toutes sez jens et s’en torne tout droitemant
+         a la cité de <term ref="#cambalu">Canbalu</term> por celle voie meisme [R «per quella medesima via»] dont il estoie{n}t venu, et toutes
+         foies chaçant et hoicellant [R «uccellando et cacciando»] a grant seulas et a grant
+         joie»; <ref type="witlink" target="#v-null-44">V 44 20</ref> «Et lo <term ref="#gran-can">Gran Chan</term> stano in questo luogo infina ala Resurezion, dapuo’ se parte chon tuta la so zente
+         et vano per quela medema via [R «per quella medesima via»] in la zità de <term ref="#cambalu">Chanbalun</term>, chontinuamente chazando e oxelando [R «uccellando et cacciando»] chon gran festa
+         e solazo». Una versione assai accorciata è in <ref type="witlink" target="#l-null-77">L 77 6</ref> «[…] deinde vero ad <term ref="#cambalu">Cambaluch</term> ‹directe› revertitur unde venit». </p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

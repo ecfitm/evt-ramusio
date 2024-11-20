@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-III-46-1-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-iii-46-1-6">
+    <head>
+      <hi rend="bold">P, III 46 1-6</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-iii-46-1-6_2_1" n="1"> <term ref="#adem">Aden</term> provincia quem regem habet quem <term ref="#soldan">soldanum</term> vocant. </seg>
+      <seg xml:id="p-iii-46-1-6_2_2" n="2"> Incole provincie huius omnes Saraceni sunt et christianos supramodum
+         habent exosos. </seg>
+      <seg xml:id="p-iii-46-1-6_2_3" n="3"> Ibi sunt civitates multe et castra. </seg>
+      <seg xml:id="p-iii-46-1-6_2_4" n="4"> Ibi est portus optimus,
+         ad quem multe naves de <term ref="#india">Yndia</term> confluunt, aromata deferentes: negotiatores |88b| autem qui ibi emunt aromata ut
+         in <term ref="#alessandria">Alexandriam</term> ea deferant, de navibus portus illius ea in naves parvas transferunt et per dietas
+         .VII. super flumen deducunt; postmodum super camelos ponunt et per dietas .XXX. cum
+         camelis vadunt donec ad flumen <term ref="#alessandria">Alexandrie</term> veniant: ibi ea rursum in naves alias transferentes usque ad <term ref="#alessandria">Alexandriam</term> deducunt. Hec via est facilior et brevior quam negotiatores facere possint qui mercaciones
+         et aromata de <term ref="#india">Yndia</term> in <term ref="#alessandria">Alexandriam</term> deferunt; per eandem vero viam multi equi a mercatoribus ducuntur in <term ref="#india">Yndiam</term>. </seg>
+      <seg xml:id="p-iii-46-1-6_2_5" n="5"> Rex autem <term ref="#adem">Aden</term> introitus tam magnos recipit de mercacionibus que per suum territorium deducuntur
+         quod ob proventus innumeros ipse unus de ditioribus regibus est qui in mundo sint.
+         </seg>
+      <seg xml:id="p-iii-46-1-6_2_6" n="6"> Quando <term ref="#soldan">soldanus</term> <term ref="#babilonia">Babilonie</term> obsedit civitates <term ref="#acre">Accon</term> et expugna|88c|bat eam anno Domini .MCCLXX. soldanus de <term ref="#adem">Aden</term> misit in auxilium eius equitum .XXX. milia et .XL. milia camelorum: hoc autem non
+         ideo fecit quod <term ref="#soldan">soldanum</term> <term ref="#babilonia">Babilonie</term> sic diligeret intime sed solum quia amarissimo odio oderat christianos.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

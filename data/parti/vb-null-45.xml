@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-45</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-45">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XLV </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-45_1_1" n="1"> <term ref="#campion">‹C›apition</term> è una citade grande e nobelle et è dela provincia de <term ref="#tanguth">Tangut</term>, in chapo dela provincia. </seg>
+      <seg xml:id="vb-null-45_1_2" n="2"> I abitanti sono <term ref="#idolatri">idolatri</term>: avegna ecian el ne sia cristiani et saracini; et in dita citade, v’è .III. bele
+         chiexie de cristiani. </seg>
+      <seg xml:id="vb-null-45_1_3" n="3"> <term ref="#idolatri">Idolatri</term> àno assaisimi te‹n›pli nei qualli tengono i suo’ idoli, i qualli idoli ène de grandi
+         .X. passa e de menori e de picoli: et ène de quelli idoli de legno, de pietra e de
+         terra in grandissima quantitade e tutti sono coperti de oro et nobelmente ornate et
+         coverte; e le idolle grande sono molto più reverite che le piçole, ançi le idole piçole
+         par onorano e reverischa le grande. </seg>
+      <seg xml:id="vb-null-45_1_4" n="4"> E quelli serveno ai tenpli et ai soi idolli
+         viveno onestamente e molto pareno chasti e, se foseno trovadi usar con femene, seria
+         |239r| condenati a morte. </seg>
+      <seg xml:id="vb-null-45_1_5" n="5"> Àno lo lunar chome nui avemo li mexi, né non alcideria
+         per cossa del mondo bestia né oxello algun per dì .V. delo lunar, né per chossa del
+         mondo mançeria charne che fosse morta in queli .V. dì. </seg>
+      <seg xml:id="vb-null-45_1_6" n="6"> I altri, çoè al modo nostro
+         sechular, pono tuor .XXX. moier e meno segondo chome i ssono richi et dage in dotte
+         bestiame et schiavi e moneda segondo suo possança: e lla prima moglie i lla tien molto
+         più honorada che le alltre e, se alguna dele moglie dapo’ tulte non ge piaqueno, e
+         g’è licito a chaçarlle via e pò tuor per moglie la sorela dela moglie chaçada. </seg>
+      <seg xml:id="vb-null-45_1_7" n="7">
+         Et ecian no i è vetatto tuor la madregna (çoè la moglie) fose statta del padre, pur
+         non fose soa madre; ecian la moglie dil fratello et ogni alltra parente loro. </seg>
+      <seg xml:id="vb-null-45_1_8" n="8">
+         Viveno assai bestialmente sença legie alguna, et in questa tera io, Marcho Pollo,
+         demorai con mio padre et con mio barba per nostri afari cercha per uno ano.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

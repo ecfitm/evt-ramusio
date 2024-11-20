@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-19-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-19">
+      <note>
+	<p>La descrizione delle “virtù” militari degli indigeni (e delle loro conseguenze) ripete
+         <ref type="witlink" target="#z-null-106">Z 106 22-23</ref> «Homines istius insule non sunt pro armis, sed sunt tristes et viles. Et si homines
+         pro armis necessarii sibi sint, inveniunt de aliena patria, et proprie saracenos»
+         (resa di F CLXXII 8 «Les homes ne sunt pas d’armes, mes sunt chetif et vil. Mes se il avint qe il lor
+         beiçogne homes d’armes, si ont d’autre contree, et propemant saracins»). La versione
+         proposta da P III 22 7 – «Huius insule homines bellicosi non sunt, sed viles valde: quando autem bella cum
+         aliquibus habent de alienis partibus stipendarios advocant et specialiter Saracenos»
+         – rielabora nella seconda parte un modello che (stando a VA CXXXVI 5) doveva essere abbastanza vicino a F-Z: «E non sono valenti per arme, anzi sono chativi
+         e villi; e quando i bixognia zente per far fati d’arme, i toleno soldati d’altre contrade,
+         e spezialmente saraini, contra i suo’ inemixi» (si noti che la notazione «specialiter»
+         di P è già nell’antigrafo, e che nel relatore quattrocentesco di VA la pericope è
+         anticipata rispetto alla posizione vulgata). </p>
+	<p>Si allineano al tenore informativo della vulgata V 90 10 «I omeni de questa ixola non sono per arme, et sono vili e tristi; ma a lor bexogna
+         trovar homeni d’arme quando i àno guera chon qualche signor», e VB CXLII 12 «Questa gente sono villi e se a llor besogna gente per qualche sua defesa toiono
+         a suo soldo saracini». L 159 omette la pericope.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

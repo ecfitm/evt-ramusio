@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-41-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>La pericope è verosimilmente l’esito della compilazione di due fonti. La principale,
+         Z 128 17-20,  è utilizzata per i primi quattro quinti del testo: «Et pisces quos bestie comedunt
+         sunt parvi, et capiuntur in mense marcii, aprilis et madii in tanta quantitate quod
+         mirabile est. Quos desiccant et in domibus reponunt. Postmodum per totum annum dant
+         ad comedendum bestiis suis. Bestie etiam comedunt ipsos vivos […]» (Z 128 20-21 continua: «[…]  sicut de aqua trahuntur. Habent insuper magnos pisces et bonos in
+         magna quantitate et pro bono foro»);  l’ultima frase viene dalla conclusione di  <ref type="witlink" target="#p-iii-46-1-6">P III 46 16</ref> «Tribus autem anni mensibus fit ibi piscium captura mirabilis, scilicet martio, aprili
+         et madio, ita ut stupor sit maximus tam inextimabilem piscium copiam cernere: hos
+         pisces siccant et servant et per totum annum animalibus prebent. Similiter etiam animalia
+         prefata regionis illius pisces recentes et siccos comedunt, quamvis ad siccos magis
+         assueta sint» (versione di VA CLII 23-24 «El pesie che manzano le bestie è molto pizollo e prende-sse de marzo, d’april et
+         de mazio: el se ne prende alora sì gran quantitade ch’el è una meraveglia. I lo sechano
+         e possa lo salvano tuto l’ano, et dà-lo a manzar frescho e secho ale suo’ biestie
+         ch’elle manzano tropo ben»). A favore di questa ipotesi stanno, tra l’altro, l’omissione
+         da parte di P di ogni commento sulle dimensioni dei pesci, e il fatto che P insiste
+         sul carattere <hi rend="italics">mirabilis</hi> della pesca primaverile.</p>
+	<p>Z è traduzione esatta di F CXCIV 5 «E sachiés que les peisonç que les bestes menuient sunt molt petit e se prennent
+         de mars et d’avril e de may si grandismes quantités que ce est mervoille; e si voç
+         di que il le seqent et les metent es maisonz, puis le donent tout l’an a mangier a
+         lor bestes. Et encore vos di que les bestes les menjuent encore tuit vif, si com il
+         se traient d’aive» (testo che è lievemente abbreviato da V 110 8 «E sapié che del mexe de marzo, avril e mazo ne sono gran quantitade ch’el è una
+         chossa meraveioxa; et queli sechano, et sì li meteno in chaxa, e dapuo’ tuto l’ano
+         ne dà a manzar ale suo’ bestie; et le bestie manzano questi pesi»).</p>
+	<p>Sul testo di L 184 9-10 e VB CLXVI 10-12 vedi la nota a <ref type="witlink" target="#r-iii-41">R III 41 9</ref>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

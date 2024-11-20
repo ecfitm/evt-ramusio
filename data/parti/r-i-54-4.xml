@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-54-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-54">
+      <note>
+	<p>Nella maggior parte della tradizione antica il passo sull’allevamento delle coturnici
+         è grosso modo allineato all’andamento di <ref type="witlink" target="#f-null-73">F LXXIII 32-34</ref> «Et aprés cestes cité a une valee en la quel le <term ref="#gran-can">Grant Kaan</term> a fait fare plosor maisonnetes es queles il fait tenoir grandismes quantités de cators,
+         qe nos apellon les grant perdris. Il fait demorer a la garde de cesti osiaus plusors
+         homes, et hi ni a si grant habundance que ceste est mervoie a veoir. Et quant le <term ref="#gran-can">Grant Kaan</term> est et vient en cele contree, il a de cesti osiaus en grant habundance, tant quant
+         il en vuelt»: <ref type="witlink" target="#p-i-65">P I 65 9</ref> «Iuxta civitatem hanc vallis quedam est in qua in diversis domunculis perdices servantur
+         in copia maxima que ab hominibus custodiuntur ad hoc ministerium deputatis, ut earum
+         habeat copiam rex quandocumque ad supradictam venerit civitatem» (coerente con <ref type="witlink" target="#va-null-59">VA LIX 24</ref> «Apresso de questa zità è una valle in la qualle el <term ref="#gran-can">Gran Chaan</term> à fato fare molte chaxe pizolle, in le qual el fa tegnir grandisima quantitade de
+         pernixe, e fa star piuxor homeni ala guardia de quelle pernixe, e quando el ne vuole
+         el ge n’à in grande abondanzia»).</p>
+	<p>Ramusio rimpolpa in più punti il testo con una serie di <hi rend="italics">addenda</hi> in parte coincidenti con alcuni sviluppi di <ref type="witlink" target="#v-null-38">V 38 24-25</ref> («Apreso de questa zitade sono una vale in la qual el <term ref="#gran-can">Gran Chan</term> feze far pixor chasete in le qual lui fano tegnir chatorni in gran quantitade, le
+         quale nui dixemo pernixe; e de inverno lui se ne fa portar ala so chorte; et ala varda
+         de questi hoxeli sono pixor homeni, et sono in quel luogo gran quantitade che dè una
+         gran meraveia a vederle. Et quando el <term ref="#gran-can">Gran Chan</term> vien in questa zitade l’àno de questi hoxeli quanti el ne vuol in abondanzia; et
+         el <term ref="#gran-can">Gran Chan</term> fano semenà molto meio e panizo, azò che queste pernixe se noriga in quelo luogo
+         per poderle aver al suo’ chomando»): ad es., R «et l’inverno […] se ne fa portare
+         carghi i camelli» / V «e de inverno lui se ne fa portar ala so chorte»; «et pel nutrimento
+         […] si possano nudrire» / «et el Gran Chan fano semenà molto meio e panizo […] al
+         suo’ chomando».</p>
+	<p>Più che a una dipendenza diretta di R da V, si potrà pensare a un antecedente comune
+         a entrambi, forse uno Z: più ricco quello utilizzato da Ramusio (Z1), più stringato e prossimo a F quello alla base di V.</p>
+	<p>Le solite fioriture eccentriche caratterizzano <ref type="witlink" target="#vb-null-64">VB LXIV 6-7</ref> «Et apresso la cità è una valle nella quale el segnor à fato fare algune chaxete
+         de legname e de pietra nele qual lui fa tegnir grandissima quantitade de quatros,
+         li qual in lengua nostra chiamemo stornelli. Et ène altra generacion de salvadasine
+         guardate et nutrigate per la corte del segnore; però che quando quie i vene a stanciare
+         per paise e suo’ dilleti, tute queste et mollte alltre chosse i èno preperate per
+         la soa chorte in grandissima quantità de tute chosse per el viver e dela soa fameia,
+         in tanto ch’è una mirabelle chossa e stupenda a vedere la grandeça de tute soe bisogne»:
+         si tratta probabilmente di iniziative autonome del redattore, anche se sussiste il
+         dubbio di un contatto con Z nel riferimento alle «salvadasine guardate<hi rend="italics"> et nutrigate per la corte del segnore</hi>» (da confrontare con gli <hi rend="italics">addenda</hi> di R e V). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

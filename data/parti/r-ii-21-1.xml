@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-21-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-21">
+      <note>
+	<p>Il paragrafo presenta varie affinità formali con <ref type="witlink" target="#f-null-98">F XCVIII 1</ref> «Or sachiés encore por verité qe le <term ref="#gran-can">Grant Sire</term> envoie seç mesajes por toutes ses terres et reingnes et provences por savoir de seç
+         homes se il ont eu domajes de lor bles [R «danno delle loro biade»], ou por defaute
+         de tens [R «per difetto di tempo»] ou por grillis ou por autre pestilence», e con
+         <ref type="witlink" target="#v-null-48">V 48 1</ref> «E›l <term ref="#gran-can">Gran Signor</term> mandano anche i suo’ mesi per tute le suo’ tere, regni e provinzie, per chaxon de
+         saver dali suo’ omeni s’i àno abudo dano dali suo’ bovi per difeto de tempo [R «per
+         difetto di tempo»] over per tempesta [R «cioè per cagione di tempesta»] over altra
+         pestelenzia […]». Le ipotesi che si possono formulare, a tal proposito, sono fondamentalmente
+         tre: che R dipenda da un testimone della famiglia V che recava però un testo meno
+         corrotto e più prossimo di quest’ultimo a quello di F; che le affinità di R sia con
+         F che con V si spieghino con il fatto che la sua fonte apparteneva alla famiglia Z,
+         cioè a un capostipite molto autorevole, stemmaticamente non lontano da V; che R abbia
+         attinto sia da V che da Z. La seconda appare senz’altro la più economica, ma l’assenza
+         del capitolo in Z toledano non ci è d’aiuto.</p>
+	<p>R ha avuto sicuramente contatti con P, come prova la lezione «o per cavallette, vermi»:
+         <ref type="witlink" target="#p-ii-24">P II 24 1</ref> «Singulis annis <term ref="#gran-can">Magnus Kaam</term> suos nuncios per provincias sibi subiectas dirigit ut inquirant si qua regio occasione
+         locustarum aut vermium seu cuiuscumque sterilitati aut pestis illo anno perdidit blada
+         sua». Non si danno invece tracce di rapporti con <ref type="witlink" target="#vb-null-70">VB LXX 1</ref> «‹Q›uesto nobellisimo segnor <term ref="#gran-can">Gran Chan</term>, amado da tuti popoli, non altrementi che proprio idio, oserva questo nobel costumo:
+         che ogni ano el manda do fiade per tute suo’ provincie sindici (a nostro modo) con
+         chomandamento che intendano se alle gente di quelle provincie fuse fatto alchun torto».
+         </p>
+	<p>L omette l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

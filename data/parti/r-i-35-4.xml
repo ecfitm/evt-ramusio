@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-35-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-35">
+      <note>
+	<p>In esordio di pericope è ancora evidente il debito di R con <ref type="witlink" target="#vb-null-39">VB XXXIX 3</ref>: «Et in queste […] sterili» ripete praticamente alla lettera «Chome ò dito, se chamina
+         per 1o messe de giornate […] e senpre per arena e per montagne sterille». Da qui in avanti,
+         la sostanziale sovrapponibilità di R a <ref type="witlink" target="#f-null-56">F LVI 7-9</ref> («Mes jeo vos di que quant l’en est alés un jors et une noit l’en trove eive de boir,
+         mes mie aigue que peust avoir asez grant jens, mes cinquant ou cent homes con lor
+         bestes. Et por tout le deçert voç convent aler toutes foies un jor{no} et une nuit
+         avant que vos trovés eaues. Et si voç di qe en trois leus ou en quatre treuve l’en
+         eive amer et sause, et toutes les autres sunt bones, qe sunt entor de .XXVIII. eives»)
+         induce a credere, pure <hi rend="italics">in absentia</hi> della lezione toledana, che R dipenda da Z. </p>
+	<p>Quanto agli altri relatori, vanno segnalate un paio di <hi rend="italics">lectiones singulares</hi> di L e V che sembrano dipendere da <hi rend="italics">fautes</hi> dei modelli tradotti, o da una loro cattiva lettura. <ref type="witlink" target="#l-null-51">L 51 3</ref> reca un minimo dettaglio, privo di riscontro nella tradizione, sul fatto che il deserto
+         di <term ref="#lop">Lop</term> offra acqua potabile soltanto durante i mesi invernali: «[…] et est per totum arena,
+         montes et valles ubi nulla inveniuntur victualia. Et postquam quis iverit una die
+         et nocte yemis tempore invenit aquam dulcem»; si può pensare che il modello dell’estensore
+         di L recasse, all’altezza del segmento «l’en trove eive de boir», qualcosa di simile
+         a *<hi rend="italics">lenuer</hi> in luogo della stringa <hi rend="italics">len</hi> (&gt; <hi rend="italics">l</hi><hi rend="italics">’</hi><hi rend="italics">en</hi>). Laddove tratta delle fonti di acque amare, <ref type="witlink" target="#v-null-30">V 30 3</ref> sostituisce il dettato della tradizione («en trois leus» F, «in locis tribus aut
+         quatuor» P etc.) con un’indebita indicazione temporale: «[…] e passado tre dì e tre
+         note se trova aqua salada e amara […]»: si dovrà immaginare, ma con difficoltà, un
+         francoit. <hi rend="italics">leus</hi> letto <hi rend="italics">jors</hi>, o un lat. <hi rend="italics">locis</hi> letto <hi rend="italics">dietis</hi>, oppure una ripresa meccanica del soprastante «uno dì e una note». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

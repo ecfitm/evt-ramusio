@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-45-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-45">
+      <note>
+	<p>La prima parte della pericope – «Et per questo […] di quella nascono» – è un’ennesima
+         tessera di <ref type="witlink" target="#vb-null-56">VB LVI 12</ref> «[…] e ssenpre i mariti dano dota alla moglie et alla madre per aver quelle, e la
+         prima moglie tolta dal marito è lla più chiara e lla più legitima et simelle i figiuoli
+         che de quella naschono».</p>
+	<p>Il passo sul gran numero di figli («et perché […] l’altre genti») è invece prossimo,
+         nelle opzioni lessicali, al dettato di <ref type="witlink" target="#l-null-60">L 60 8</ref> «Et habent plures filios omnibus aliis gentibus, quod ex uxorum multitudine provenit»,
+         <ref type="witlink" target="#v-null-36">V 36 10</ref> «[…] Et chostor àno più fioli de zente del mondo, et questo sono per le tante moier
+         che loro àno […]», <ref type="witlink" target="#va-null-54">VA LIV 17</ref> «Egli àno plui figlioli che altra zente per chaxion che i àno chotante moier», non
+         distanti a loro volta da <ref type="witlink" target="#f-null-68">F LXVIII 21</ref> «‹Il ont plus filz› que ne a les autres gens, por ce qu’il ont toutes femes con je
+         voç ai contés». Qui, la fonte di R può essere Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

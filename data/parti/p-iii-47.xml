@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-III-47</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-iii-47">
+    <head>
+      <hi rend="bold">P, III 47</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-iii-47_2_1" n="1"> Terminatis hiis que de <term ref="#india">India</term> et quibusdam Ethyopie regionibus narrare disposui, nunc, antequam libro finem imponem, ad regiones quasdam
+         optimas que sunt in extremis partibus aquilonaris, de quibus in suo loco in superioribus
+         libri partibus narrare obmiseram, gratiam brevitatis redeamus. </seg>
+      <seg xml:id="p-iii-47_2_2" n="2"> In regionibus quibusdam
+         in aquilonaribus terminis constitutis ultra polum articum multi <term ref="#tartari">Tartari</term> habitant, regem habentes qui est de progenie regis maximi <term ref="#tartari">Tartarorum</term>, qui quidem <term ref="#tartari">Tartari</term> ritus et modos servant antiquorum predecessorum suorum, |89c| qui veri et recti <term ref="#tartari">Tartari</term> sunt. </seg>
+      <seg xml:id="p-iii-47_2_3" n="3"> Omnes autem <term ref="#idolatri">ydolatre</term> sunt et deum unum colunt quem <term ref="#natigay">Nagyçay</term> vocant, quam putant terre et omnium que producuntur ex ea habere dominium et id circo
+         nominant eum deum terre; huic deo falso simulacra et ymagines de filtro faciunt, prout
+         de aliis <term ref="#tartari">Tartaris</term> in superioribus dictum est. </seg>
+      <seg xml:id="p-iii-47_2_4" n="4"> Populus hic neque in castris aut opidis neque in
+         civitatibus habitat, sed in montibus et in campestribus regionis illius. </seg>
+      <seg xml:id="p-iii-47_2_5" n="5"> Sunt
+         autem <term ref="#tartari">Tartari</term> in copia maxima et nulla penitus blada habent, sed carnibus vescuntur et lacte. </seg>
+      <seg xml:id="p-iii-47_2_6" n="6">
+         In pace maxima vivunt quia rex eorum, cui omnes obediunt, eos in pace conservat. </seg>
+      <seg xml:id="p-iii-47_2_7" n="7">
+         Camelorum, equorum, boum, et animalium aliorum diversorum habent multitudinem copiosam:
+         ibi sunt ursi albi magni valde longitudinis ut plurimum .XX. palmorum; ibi sunt vulpes
+         nigre totaliter et magne |89d| valde; ibi sunt <term ref="#asini-salvatichi">onagri</term> in multitudine magna; ibi sunt etiam animalia parvula que dicuntur “<term ref="#rondes">rondes</term>”, que pellem habent delicatissimam supra modum: hec pelles “çambelline” vocantur,
+         de quibus supra in secundo libro capitulo vigesimo mentio facta fuit. Sunt etiam ibi
+         varii in copia maxima, quorum pelles delicate sunt valde; sunt etiam ibi animalia
+         magna valde iuxta genus suum que dicuntur “ratti pharaonis”, de quibus capiunt estatis
+         tempore in copia tanta ut vix ipso tempore carnibus aliis utantur in cibum; ibi etiam
+         copia maxima est omnium silvestrium animalium quia regio silvestris est valde.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

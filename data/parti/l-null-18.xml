@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-18">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 18 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-18_2_1" n="1"> <term ref="#turchomania">Turchomania</term> est provincia in qua sunt tria genera gentium, videlicet Turchomani, qui adorant
+         <term ref="#macometto">Machomet</term>. Et sunt simplices homines viventes solum ex bestiis (quare inhabitant montes et
+         valles, loca scilicet in quibus sunt bona pascua); sunt eciam ibi Armini et <term ref="#greci">Greci</term>, qui mixtim cum eis conversantur in civitatibus et castris, qui ex mercimoniis vivunt.
+         </seg>
+      <seg xml:id="l-null-18_2_2" n="2"> Fiunt etiam in hac provincia excellentiores tapeti quam in alia provincia; fiunt
+         eciam panni de serico nobiles carmosi et aliorum colorum. </seg>
+      <seg xml:id="l-null-18_2_3" n="3"> Nascuntur eciam hic
+         nobiles equi et muli magni valoris. </seg>
+      <seg xml:id="l-null-18_2_4" n="4"> Nominate civitates huius provincie sunt <term ref="#cogno">Leconio</term>, <term ref="#cayssaria">Casserie</term> et <term ref="#sevasta">Sevasto</term>; et multe sunt alie quas longum esset narrare. </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

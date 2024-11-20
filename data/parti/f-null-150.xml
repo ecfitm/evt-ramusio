@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-150</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-150">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CL</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-150_1_1" n="1"> Ci devise de la cité de <term ref="#singui">Sugiu</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-150_2_1" n="1"> <term ref="#singui">Sugiu</term> est une tre noble cité et grant. </seg>
+      <seg xml:id="f-null-150_2_2" n="2"> Il sunt <term ref="#idolatri">ydules</term> et au <term ref="#gran-can">Gran Chan</term>, et ont monoie de carte. Il ont soie ‹en› grandisme quantités. Il vivent de mercandies
+         et d’ars. Il font maint dras de soie por lor vestiment. </seg>
+      <seg xml:id="f-null-150_2_3" n="3"> Il hi a grant mercant
+         et riches. Il est si grant q’ele gire environ .XL. miles. Il ha si grandisme quantités
+         des jens que nulz en poroit savoir le nu‹n›bre. </seg>
+      <seg xml:id="f-null-150_2_4" n="4"> Et si voç di qe se il fuissent
+         homes d’armes, cel de la provence dou <term ref="#mangi">Mangin</term>, il conquistrént tout l’autre munde: mes il ne sunt pas homes d’armes. Mes je voç
+         di qe il sunt sajes mercant et sotil homes de toutes ars. Et si a grant filosofe et
+         grant mire naturel qe mout sevent bien nature. </seg>
+      <seg xml:id="f-null-150_2_5" n="5"> Et si voç di tout voirmant qe en
+         ceste cité a bien .VIm. pont de pieres qe bien hi paseroit por desout une galee et .II. </seg>
+      <seg xml:id="f-null-150_2_6" n="6"> Et encore voç
+         di que en celes montagnes de ceste ville naist le <term ref="#rheubarbaro">ribarbar</term> et gengibre en grant abondance, car je voç di qe por un venesian gros aurést bien
+         .XL. livre de gengibre fres, que mout |66a| est buen. </seg>
+      <seg xml:id="f-null-150_2_7" n="7"> Et sachiés qe elle a sot
+         sa seingnorie .XVI. cité mou grant et de gran mercandies e de grant ars. [9] Et sachiés
+         qe le non de ceste cité, qui est apellé <term ref="#singui">Sugiu</term>, vaut a dir en françois la tere; et un autre cité, que est pres de ci, est apellés
+         le ciel: et cesti non ont elles por lor grant nobilité. [10] Et voç conteron de l’autre
+         noble cité, qe le ciel est apellés. </seg>
+    </p>
+    <p n="3"/>
+    <p n="4"/>
+    <p n="5"/>
+  </div>
+</body>
+</text>
+     </TEI>

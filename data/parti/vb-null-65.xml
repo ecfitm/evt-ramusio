@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-65</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-65">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXV </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-65_1_1" n="1"> ‹L›utano dala dita citade de <term ref="#cianganor">Çianganor</term>, per .III. giornate, se trova la citade de <term ref="#xandu">Çiandu</term> nela qual citade <term ref="#cublai-can">Clobai</term> <term ref="#gran-can">Gran Chan</term> à fato fare de nobellisimi palaxi lavorati di marmoro sotilmente: le chamere, salle
+         e portichi loro sono ornatissimi orati e pinti meraviglioxamente; e i ornamenti de
+         quelli per certo è chossa mirabelle. </seg>
+      <seg xml:id="vb-null-65_1_2" n="2"> Et a’ lladi ‹de› questo pallaço è defichato
+         uno muro el qual circonda per miglia .XVI., entro del qual muro v’è fontane asai e
+         fiumi de aqua corente et bellisime chanpagne e boscheti. </seg>
+      <seg xml:id="vb-null-65_1_3" n="3"> Nel qual luogo v’è tute
+         le salvadasine se pò dire et in grandissima quantità; et in questo luogo el segnore
+         fa tegnir a mudar tuti suo’ falchoni e cisfalchi, e de dite salvadasine nutrigano
+         quelli. </seg>
+      <seg xml:id="vb-null-65_1_4" n="4"> Et in questo luogo el segnore <term ref="#gran-can">Gran Chan</term> ogni setimana va a vedere questi suo’ falchoni cisfalchi. </seg>
+      <seg xml:id="vb-null-65_1_5" n="5"> E chavalcha per questa
+         muraia, per le chanpagne, senpre con uno liopardo in gropa del chavallo e di qual
+         animal a llui piaçe con e·liopardo prende con grandissimo piacere; e de certo questo
+         luogo è tanto ben tenuto et ornato ch’è una gentillissima cossa e de grande piaçere.
+         </seg>
+      <seg xml:id="vb-null-65_1_6" n="6"> Nela pianura de questo circhuito de muro, nella più bella parte v’è uno nobele
+         palaço per abitacione del segnore, tuto fato de chane et è la più mirabelle cossa
+         del mondo da fir intexa a chui non l’à veduto. </seg>
+      <seg xml:id="vb-null-65_1_7" n="7"> Le chane che |244v| se fano quelle
+         chase sono grose e volge .III. spane e llonge .XX. spane; e dite chane i fendeno per
+         meço da uno nodo all’altro, e sano sì ben conponer e conçoncer queste chane ch’è bella
+         cossa a vedere. </seg>
+      <seg xml:id="vb-null-65_1_8" n="8"> Per che el palasio del segnore, ch’è nela canpagna dita, èt sì
+         ben fatto e perporcionato che quello se pò metere e levare; e quando el se vol metere
+         fi sostenuto da più de duçento chorde di seta et è sì ben condicionato che con picholla
+         faticha se lieva e mete. [9] Et è quelle chane depinte et dorate molto bele e qui
+         dimora el segnor per mesi .III. di l’ano: l’instate − çugno, luio et agosto − parendoge
+         l’aire più tenperato et diletevelle più che in alltra parte e piacevelle de ogni paissa.
+         [10] Et subito che el segnore se parte, el palaço fi desfato e rifato; quando el segnore
+         abita, chome ò dito, e partesi senpre el segnore cercha per tuto agosto.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-49-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-49">
+      <note>
+	<p>La fonte del passo va identificata in <ref type="witlink" target="#z-null-64">Z 64 5-6</ref> «Vivunt de mercimoniis et artibus. Et faciunt drappos de corticibus arborum, qui
+         sunt valde pulcri; et illos drapos vestiunt in estate» (molto vicino a<ref type="witlink" target="#f-null-129"> F CXXIX 3-4</ref> «[…] Il vivent de mercandie et d’ars. Et si voç di qu’il font dras d’escorses d’arbres,
+         et sunt mout biau, et vestent celz dras d’estee […]»). Il sintagma «di alcune sorti»
+         potrebbe essere un riflesso della forma <hi rend="italics">quarumdam</hi> che si legge in <ref type="witlink" target="#l-null-104">L 104 2</ref> «[…] mercatores et artiste: faciunt enim pannos pulcherrimos ex corticibus quarumdam
+         arborum, quibus vestiuntur estate». Gli altri testimoni hanno lezioni più sintetiche:<ref type="witlink" target="#p-ii-49"> P II 49 2</ref> «In hac regione fiunt panni pulcri valde de corticibus arborum, quibus utuntur estate»;
+         <ref type="witlink" target="#v-null-62">V 62 4</ref> «Et viveno de marchadantie; et fano drapi de schorzi d’albori i qualli sono molto
+         belli, et sì sse vesteno de quelli drapi l’instade […]»; <ref type="witlink" target="#vb-null-92">VB XCII 2-3</ref> «[…] e viveno de marchadantie et mestieri. E vesteno l’instate tuti vestimenti fati
+         de schorça d’alboro, i qualli sono molto belli». L’espressione «cosí uomini come donne»
+         che si legge alla fine della pericope, è quasi sicuramente un’aggiunta di Ramusio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-75-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-75">
+      <note>
+	<p>Il testo di R risulta in questo punto un po’ meno ricco di quello di L V VB e Z (che
+         riflettono abbastanza fedelmente la lezione di F), ma senz’altro più dettagliato di
+         quello di P: <ref type="witlink" target="#l-null-138">L 138 10-12</ref> «In reliquis vero tribus dietis sunt adhuc plures civitates et castra. Gentes sunt
+         <term ref="#idolatri">ydolatre</term>, mercatores et artiste; et habent sericum multum, venationes optimas [...] In fine
+         vero harum trium dietarum, .XV. tamen miliaribus ultra, est provincia dicta <term ref="#unguem">Vucquem</term>, in qua fit maxima quantitas zuccari; quantumcumque enim zuccari consumitur in curia
+         <term ref="#gran-can">Magni Canis</term> hec civitas prebet totum, quod incredibilis est valoris»; <ref type="witlink" target="#p-ii-68">P II 68 6</ref> «Ultra sex vero dietas predictas ad miliaria .XV. est civitas <term ref="#unguem">Unquem</term>, ubi est çucarum in copia maxima et inde defertur ad civitatem <term ref="#cambalu">Cambalu</term> pro curia Magni <term ref="#gran-can">Kaam</term>»; <ref type="witlink" target="#v-null-78">V 78 11-14</ref> «Altre chosse in questa nonn è da dire, e però anderemo più avanti e diremo dele
+         chosse che se trovano, che sono molte zitade e chastelli in le qualle sono molti marchadanti
+         et molte marchadantie,  et homeni artexani i qualli àno sede in gran quantitade. La
+         zente de queste <term ref="#idolatri">adorano l’idolle</term>; et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>. Et àno molti oxelamenti; [...]. Et al fin de queste sie zornade, lutan quindexe
+         mia, el se trova una zitade chiamata <term ref="#unguem">Uquen</term>, in la qual nasse gran quantità de zucharo; e da questa zitade el <term ref="#gran-can">Gran Chan</term> àno tuto el zucharo che se dovra in la sso chorte, el qual val una gran chossa che
+         nonn è da dire»; <ref type="witlink" target="#vb-null-120">VB CXX 18-20</ref> «In le sopra dite .III. giornate se trova molte citade et chastelle tuti <term ref="#idolatri">idolatrii</term>. Àno sete assai et molti merchadanti et mestieri assai; […]. Alle fine delle .III.
+         giornate se trova la citade se chiama <term ref="#unguem">Inquin</term>, nella qual se fano gran quantità de çuchari: i qual fino adoperati per tuti quegi
+         paexi e masime nella corte del <term ref="#gran-can">Gran Can</term>, la qual ne vole gran suma»; <ref type="witlink" target="#z-null-88-1-16">Z 88 26-30</ref> / <ref type="witlink" target="#z-null-88-1-16">Z 88 32-33 </ref>«Alia vero non sunt ibi digna relatu; quare ult‹er›ius procedemus, referendo de aliis
+         dietis tribus ex sex supradictis. Inveniuntur itaque in eis multe civitates et castra,
+         in quibus sunt mercatores et artifices multi, et mercimonia quam plura. Habetur ibi
+         habundantia syrici. Gentes adorant ydola et sunt sub dominio <term ref="#gran-can">Magni Can</term>. Habent insuper venationes et aucupationes multas. [...] Et in fine istarum trium
+         dietarum, per .XV. miliaria, quedam civitas invenitur nomine <term ref="#unguem">Vuiaen</term>, in qua fit multum çuchari. Et ab ista civitate habet <term ref="#gran-can">Magnus Can</term> totum çucharum qui in sua curia operatur, qui multum valet» (<ref type="witlink" target="#f-null-154">F CLIV 16-18</ref> «Et si voç di qe en l’autre trois jornee, ce est de le .VI. jornee ‹qe je voç ai
+         dit› desoure, trouve l’en encore maintes cités e maintes castiaus, la ou il ‹i a›
+         merchaanz e mercandies asez et homes d’ars. Il ont soie aseç et sunt <term ref="#idolatri">ydules</term> et au <term ref="#gran-can">Grant Kan</term>. Il ont cacejonz e venejonz asez [...] Et au d‹e›rean de ceste trois jornee, a .XV.
+         miles, treuve l’en une cité qui est apelé <term ref="#unguem">Vuqen</term>, qe hi se fait grandisme quantité de succar, e de ceste cité a le <term ref="#gran-can">Grant Kan</term> tot le succar qe il fait ovrer en sa cort, qe bien est tant qe vaut treçor aseç»).</p>
+	<p>Ramusio combina assieme e in parte rielabora materiali provenienti da VB e da P. L’influsso
+         di VB è percepibile nella prima parte della pericope (VB «se trova molte citade et
+         chastelle tuti <term ref="#idolatri">idolatrii</term>. Àno sete assai et molti merchadanti et mestieri assai» ~ R «sempre vedendo et trovando
+         città et castella, dove sono genti <term ref="#idolatri">idolatre</term> et hanno seda in gran copia»), quello di P nella seconda (P «est civitas <term ref="#unguem">Unquem</term>, ubi est çucarum in copia maxima et inde defertur ad civitatem <term ref="#cambalu">Cambalu</term> pro curia Magni <term ref="#gran-can">Kaam</term>» ~ R «si trova la città di <term ref="#unguem">Unguem</term>, dove si fa gran copia di zuccharo, che si manda alla città di <term ref="#cambalu">Cambalú</term> per la corte del <term ref="#gran-can">Gran Can</term>»). Anche l’omissione di vari dettagli che si incontrano nelle altre fonti (i riferimenti
+         alla pratica dell’artigianato, alla sottomissione della regione al Gran Can e all’abbondanza
+         di selvaggina di penna e di pelo) potrebbe essere stata ispirata a Ramusio dalla versione
+         fortemente scorciata di P.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

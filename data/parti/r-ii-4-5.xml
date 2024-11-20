@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-4-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-4">
+      <note>
+	<p>Nella prima parte della pericope («Et ha oltre [...] bianchissime») la fonte di R
+         doveva riflettere sostanzialmente il dettato di <ref type="witlink" target="#f-null-81">F LXXXI 7-8</ref> «Il ha encore maintes amie, et voç dirai [R «et dirovi»] en quel mainere. Il est
+         voir qu’il est une generasion de <term ref="#tartari">Tartarç</term>, que sunt apellés <term ref="#ungut">Ungrac</term>, que mout sont belles jens […]». Si noti, però, che le lezioni «è una provincia nella
+         quale habitano», «et la città similmente», «et bianchissime» non trovano riscontro
+         né in F né nelle altre redazioni: <ref type="witlink" target="#l-null-67">L 67 4</ref> «Habet insuper quam plures concubinas […]»; <ref type="witlink" target="#p-ii-8">P II 8 3</ref> «Insuper habet rex concubinas multas: est enim inter <term ref="#tartari">Tartaros</term> nacio quedam, que dicitur <term ref="#ungut">Ungrac</term>, mulieres habens valde decoras et moribus optimis adornatas […]»; <ref type="witlink" target="#v-null-41">V 41 11</ref> «[…] e tiene molte altre chonchubine, perché el sono gienerazion de <term ref="#tartari">Tartari</term> che vien chiamadi <term ref="#ungut">Urigat</term> che sono molto bele zente […]».</p>
+	<p>La seconda parte della pericope è ignota al resto della tradizione, che riferisce
+         dei dettagli molto più generici: <ref type="witlink" target="#f-null-81">F LXXXI 8</ref> «[…] et onnes anz sunt elleue .C. pucelles les plus belles qe soient en toutes celles
+         jenerasion et sunt amenés au Grant Chan […]»; <ref type="witlink" target="#l-null-67">L 67 4</ref> «[…] ex quibus habet .C. electas que deputate sunt servire domino […]»; <ref type="witlink" target="#p-ii-8">P II 8 3</ref> «[…] de quibus tenet in palatio uno numero .C. […]»; <ref type="witlink" target="#v-null-41">V 41 11-12</ref> «[…] tra le qual zente vieno eleto zento donzele le più bele che se possa trovar
+         in quela gienerazione, et viene aprexentate al <term ref="#gran-can">Gran Chan</term> […]». </p>
+	<p>In VB e Z manca tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

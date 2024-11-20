@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Il segmento iniziale della pericope trova un riscontro soltanto parziale nelle fonti
+         ramusiane: <ref type="witlink" target="#l-null-128">L 128 7</ref> «[…] est ‹enim› tota hec civitas in aqua sita totaque circumdata aquis […]»; <ref type="witlink" target="#p-ii-64">P II 64 4</ref> «[…] est autem civitas in lacunis ut civitas Venetiarum […]»; <ref type="witlink" target="#v-null-76">V 76 4</ref> «[…] et algun non se faza meraveia s’el sono tanti ponti, perché questa zitade sono
+         tuta edifichada in aqua […]»; <ref type="witlink" target="#vb-null-114">VB CXIV 5</ref> «[…] però che quella è hedifichata in aqua […]»; <ref type="witlink" target="#z-null-85">Z 85 8</ref> «Et nullus miretur si tot sunt ibi pontes: nam civitas tota est sita in aquis, et
+         circumdata aquis […]» (vd. <ref type="witlink" target="#f-null-151">F CLI 7</ref> «[…] Et nulz se face mervoille se il ha tant de pont, por ce qe je vos di qe ceste
+         ville est toute en eve et est environ‹é› de eve […]»). Ramusio anticipa in questo
+         punto alcuni dettagli – i riferimenti al fiume, al lago e all’<term ref="#mare-oceano">Oceano</term> – che nel resto della tradizione vengono introdotti più avanti (vd. la nota ai parr.
+         42, 87, 88).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

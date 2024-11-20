@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-38-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-38">
+      <note>
+	<p>In questo paragrafo Ramusio pare aver cambiato modello. La lezione di <ref type="witlink" target="#z-null-107">Z 107 40-41</ref> («Nunc dimittemus de <term ref="#india">Indya Maiori</term>, que continet a <term ref="#malabar">Maabar</term> usque ad <term ref="#chesmacoran">Kesmacoran</term>, in qua sunt tresdecim regna valde magna, de quibus nominavimus decem. Minor vero
+         Indya continet a <term ref="#ziamba">Çamba</term> usque ad <term ref="#murphili">Muthphyli</term>, in qua sunt .viij. regna magna, exceptis semper illis de insula, que sunt in magna
+         quantitate»: resa fedele di F CXCI 16 «Or voç lairon atant de l’<term ref="#india">Endie greignor</term>, qe est da <term ref="#malabar">Mabar</term> jusque a <term ref="#chesmacoran">Kesmacora</term>, que hi a .XIII. roiames grandismes, des quelz voç en avon contee des .X. La <term ref="#india">menor Yndie</term> est da <term ref="#ziamba">Çinaba</term> jusque a <term ref="#murphili">Montifi</term>, que hi a .VIII. grant roiames. E toutes foies entendés †{qe je ne voç}† sanz celz
+         de l’isle, que sunt grandismes quantités des roiames») pare, come fonte, assai più
+         attendibile di <ref type="witlink" target="#p-iii-43-1">P III 43 1</ref> «Descriptis igitur summarie principalioribus insulis et regionibus maioribus insule
+         que protenditur a provincia <term ref="#malabar">Maabar</term> usque ad regnum <term ref="#chesmacoran">Resmacoram</term> et <term ref="#india">Minoris Yndie</term>, cuius termini sunt a regno <term ref="#ziamba">Ciamba</term> usque ad regnum Murfili […]» (la cui <hi rend="italics">brevitas </hi>informativa dipende dal modello VA CL 24 «Dapoi che ò dito de <term ref="#india">India Mazor</term>, che dura dala provinzis de <term ref="#malabar">Maabar</term> defina a <term ref="#chesmacoran">Rischomorchoran</term>, et della Menor, che dura de Zimba fina <term ref="#murphili">Anruessil</term> […]»). </p>
+	<p>Il diverso trattamento di alcuni dettagli rende improbabile che Ramusio si avvalesse
+         di VB CLXII 2-3: «Questa <term ref="#india">India Maor</term> è da <term ref="#malabar">Maabar</term> fino a Chesmechoran quanto è sopra mar alla tera ferma. Et avemovi  contato che son .XIIII. reami di
+         qual ò chontato de .X. et infra el tereno; et òve contado de alquante dele isolle
+         e de alquanti reami che son .VIII. grandisime, oltra quelli delle issolla che ssono
+         in gran quantitade», o di V 107 17 «Or nui lassemo del’India Granda, la qual sono d’<term ref="#abascia">*Amabat</term> infina <term ref="#chesmacoran">Rismachoran</term>, i qualli son tre reami molto grandi, dei qualli nui avemo menzonadi; la <term ref="#india">Menor India</term> sono da <term ref="#ziamba">Ezanbam</term> infina a <term ref="#murphili">Motisili</term>, in la qual sono hoto reami grandi, fuora de quelli de l’ixola che sono in quantitade
+         […]».  abbreviato L 179 4 «<term ref="#india">Minor vero India</term> durat a <term ref="#ziamba">Ciambu</term> usque ad <term ref="#murphili">Motisi</term>, ‹in qua sunt .VIII. magna regna, absque regnis insularum, que sunt multa›».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

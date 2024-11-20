@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-6-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-6">
+      <note>
+	<p>R non è distante da <ref type="witlink" target="#v-null-13">V 13 4</ref> «Et tuti i drapi d’oro e de seda vien apeladi “<term ref="#mossulini">mosolini</term>” che vien fati in quel luogo; et dichove che li gran marchadanti che vien chiamati
+         mosolini sono queli che porta la gran quantità de spezie», per quanto la <hi rend="italics">dispositio textus</hi> e la presenza di alcune tessere mancanti in V lo avvicinino più a <ref type="witlink" target="#f-null-23">F XXIII 6-7 </ref>«Et tout les dras de soie et dorés que sunt apellés <term ref="#mossulini">mosulin</term> se font iluec. Et encore voç di qe les mercaanç, que sunt apelés mosulin, que aportent
+         les grandisme quantités de toutes cheres espices, sunt de cestui roiaumes desovre».</p>
+	<p>L, P e VB presentano qui un testo ampiamente scorciato e un bagaglio informativo drasticamente
+         ridotto (vd. <ref type="witlink" target="#l-null-21">L 21 2</ref>: «Et omnes panni de auro et de seta dicti “<term ref="#mossulini">mosulini</term>” fiunt in hac provincia, et similiter magni mercatores dicti mosulini sunt de hac
+         regione»; <ref type="witlink" target="#p-i-15">P I 15 2</ref>: «Ibi fiunt panni pulcherimi de auro et serico»; <ref type="witlink" target="#vb-null-14">VB XIV 3-4</ref>: «Viveno de marchadantia e ssòne gran quantità de marchadanti e richi. Fasse gran
+         quantitade de pani de seda e de oro, che fino chiamadi <term ref="#mossulini">monsolini</term>»): per questa ragione Ramusio non li ha utilizzati.</p>
+	<p>Tace il toledano, al solito lacunoso, ma non è detto che lo Z utilizzato da Ramusio
+         fosse privo del passo. Nel contesto di un capitolo interamente desunto da Z, e mancando
+         appigli testuali che permettano di inferire una discendenza di R da V, pare economico
+         pensare che anche qui Ramusio abbia tradotto dal codice Ghisi. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

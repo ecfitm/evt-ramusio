@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-29</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-29" n="1">
+    <head>
+      <hi rend="bold">R, I 29</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-29_1_1" n="1"> Della città di <term ref="#caschar">Caschar</term>, et delle mercantie che fanno gli habitanti. Cap. 29.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-29_2_1" n="1"> Dapoi si perviene a <term ref="#caschar">Caschar</term>, che (come si dice) già fu reame, ma ora è sottoposto al dominio del <term ref="#gran-can">Gran Can</term>, le cui genti osservano la legge di <term ref="#macometto">Macometto</term>. </seg>
+      <seg xml:id="r-i-29_2_2" n="2"> La provincia è grande, et in quella sono molte città et castella, delle quali <term ref="#caschar">Caschar</term> è la piú nobile et maggiore; sono tra levante et <term ref="#greco">greco</term>. </seg>
+      <seg xml:id="r-i-29_2_3" n="3"> Gli habitanti di questa provincia hanno parlar da per sé, vivono di mercantie et
+         arti, et specialmente de’ lavoreri di <term ref="#bambagio">bambagio</term>. </seg>
+      <seg xml:id="r-i-29_2_4" n="4"> Hanno belli giardini et molte possessioni fruttifere et vigne; vi nasce <term ref="#bambagio">bambagio</term> in grandissima quantità, lino et <term ref="#canevo">canevo</term>. </seg>
+      <seg xml:id="r-i-29_2_5" n="5"> La terra è fertile et abondante di tutte le cose necessarie. </seg>
+      <seg xml:id="r-i-29_2_6" n="6"> Da questa contrata si partono molti mercatanti che vanno per il mondo, et nel vero
+         sono genti avare et misere, perché mangiano male et peggio bevono. </seg>
+      <seg xml:id="r-i-29_2_7" n="7"> Oltra li macomettani vi habitano alcuni christiani nestorini, che hanno la loro legge
+         et chiese. [8] Et la sopradetta provincia è di lunghezza di cinque giornate.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

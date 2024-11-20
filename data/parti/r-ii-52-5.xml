@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-52-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-52">
+      <note>
+	<p>Nella prima parte della pericope («Ha sotto […] seda») R segue in modo abbastanza
+         fedele il testo di <ref type="witlink" target="#z-null-68">Z 68 11-13</ref> «Ista civitas <term ref="#tudinfu">Tundinfu</term> sub eius iurisdictione habet .xi. civitates imperiales, videlicet nobiles et magnas.
+         Nam civitates sunt magnarum mercationum, quia habent syricum ultra modum. <term ref="#gran-can">Magnus Can</term> miserat suum baronem nomine <term ref="#lucansor">Liitan Sangon</term> ad istam civitatem et dedit isti octuaginta milia equitum ad custodiam» (che a sua
+         volta rispecchia la versione di <ref type="witlink" target="#f-null-133">F CXXXIII 6-7</ref> «Et sacqiés tout voiremant qe ceste cité de <term ref="#tudinfu">Tondinfu</term> a sout sa segnorie .XI. cité imperiaus, ce est a dire qe sunt noble et ‹de› grant
+         vailance car il sunt cité de grant mercandie et de grant profit, car elle ont soie
+         outre mesure. Et voç di que as .MCCLXXII. anz de l’a‹n›carnasion de Crist le <term ref="#gran-can">Grant Kan</term> avoit mandé un sien baronz, qe avoit a non Liitam Sangon, a ceste cité et a ceste provence ‹por› coi il la deust garder et sauver. E si done
+         a cestui <term ref="#lucansor">Liitan</term> .LXXXm. homes a chevaus a ceste garde faire»).</p>
+	<p>Nella seconda parte («qual nel 1272 […] cavalli») Ramusio cambia modello e riproduce
+         quasi alla lettera <ref type="witlink" target="#vb-null-96">VB XCVI 2-4</ref> «Et sotto a si .XII. belle e gran citade […]. Nel .MIIcLXXII. el <term ref="#gran-can">Gran Can</term> mandò a governo de questa cità et a vardia de quel paexe uno suo barone chiamato
+         <term ref="#lucansor">Luchansagor</term> e chapitano di .LXXX. millia omeni da cavallo». Tra le due sezioni viene inserita
+         una frase di raccordo («et soleva […] <term ref="#gran-can">Gran Can</term>») che non figura in nessuna redazione, ma è ricavata dalle righe precedenti (corrispondenti
+         al par. 2 di R).</p>
+	<p>Sembra escluso che R abbia  avuto contatti con L, P e V, che recano un testo più conciso:
+         <ref type="witlink" target="#l-null-108">L 108 2</ref> «Et sub hac civitate sunt .XI. civitates magne et multorum mercimoniorum: habent
+         enim sericum in maxima quantitate»; <ref type="witlink" target="#p-ii-51">P II 51 2</ref> «Habet autem sub suo iure civitates .XI. […]»; <ref type="witlink" target="#v-null-64">V 64 5</ref> «Et questa zitade àno soto d’esa diexe nobelle e gran zitade; et inperò in questa
+         zitade sono de molti marchadanti, onde el <term ref="#gran-can">Gran Chan</term> avea mandado uno suo’ baron chiamato <term ref="#lucansor">Lufa</term>, azò el governasse questa zitade e provinzia, nela qual sono molti miera d’omeni
+         da chavallo».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

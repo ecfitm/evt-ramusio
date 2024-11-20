@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-48-1-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-48-1-6">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 48 1-6</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-48-1-6_1_1" n="1"> Posquam equitatum est supradictis .X. dietis discedendo a <term ref="#gouza">Çonçu</term>, invenitur quoddam regnum nomine <term ref="#tainfu">Tayanfu</term>. </seg>
+      <seg xml:id="z-null-48-1-6_1_2" n="2"> Et capud provincie, sive regni, est civitas quam intravimus, que nominatur similiter
+         <term ref="#tainfu">Tayanfu</term>. </seg>
+      <seg xml:id="z-null-48-1-6_1_3" n="3"> Est magna et pulcra valde; in qua fiunt magna mercimonia et artes multe. </seg>
+      <seg xml:id="z-null-48-1-6_1_4" n="4">
+         Fit in ea magna quantitas muniminum, que sunt exercitibus Magni Domini oportuna. </seg>
+      <seg xml:id="z-null-48-1-6_1_5" n="5">
+         Habentur insuper ibi vinee multe, de quibus in magna habundantia colligitur vinum.
+         </seg>
+      <seg xml:id="z-null-48-1-6_1_6" n="6"> Habent etiam ibi syricum in habundantia, quia multos habent moros et vermes syricum
+         producentes.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

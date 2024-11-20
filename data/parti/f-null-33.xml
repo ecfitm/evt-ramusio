@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-33</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-33">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XXXIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-33_1_1" n="1"> Ci devise de la cité de <term ref="#iasdi">Yasdi</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-33_2_1" n="1"> <term ref="#iasdi">Iasdi</term> est en <term ref="#persia">Persie</term> meisme, molt bone cité et noble et de grant marchandies. </seg>
+      <seg xml:id="f-null-33_2_2" n="2"> Il se laborent maint
+         dras de soie que s’apele{s} <term ref="#iasdi">iasdi</term>, que les merchant les portent en maintes pars por fer lor profit. </seg>
+      <seg xml:id="f-null-33_2_3" n="3"> Il aorent <term ref="#macometto">Maomet</term>. </seg>
+      <seg xml:id="f-null-33_2_4" n="4"> Et quant l’en s’en part de ceste tiere por aler avant, il chevache .VII. jornee
+         toute plaine, et n’i a for que {que} en trois leus habitasion la ou l’en peust herbergier.
+         </seg>
+      <seg xml:id="f-null-33_2_5" n="5"> Il hi a maint biaus boscet que se puent bien chavacher. </seg>
+      <seg xml:id="f-null-33_2_6" n="6"> Il hi a maintes chachajon
+         de bosces. Il ha pernis et quatornis aseç, et les merchant que por iluec chevauchent
+         en prenent grant seulas. Il hi a encore <term ref="#asini-salvatichi">asne savajes</term> mout biaus. </seg>
+      <seg xml:id="f-null-33_2_7" n="7"> Et a chief de ceste .VII. jornee, se treuve u‹n› roiame que est apellé
+         <term ref="#chermain">Crerman</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

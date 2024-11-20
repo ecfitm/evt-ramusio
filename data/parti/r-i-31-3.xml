@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-31-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-31">
+      <note>
+	<p>R traduce alla lettera <ref type="witlink" target="#z-null-26-2-7">Z 26 5</ref> («Copiosi sunt in necesariis»), che nella sostanza ribadisce il dettato <ref type="witlink" target="#f-null-52">F LII 5</ref> («Il ont grant habundance de toutes chouses») e di tutta la tradizione antica: cfr.
+         <ref type="witlink" target="#l-null-47">L 47 4</ref> («Et est hec fertilis contrata»), <ref type="witlink" target="#p-i-40">P I 40 2</ref> («Omnium vero victualium copiam habet»), <ref type="witlink" target="#v-null-28">V 28 2</ref> («E lì sono granda bondanzia de tute chosse»), <ref type="witlink" target="#vb-null-35">VB XXXV 3</ref> («Et è provincia abondante de vituallie»).</p>
+	<p>L’<hi rend="italics">ajout</hi> sulla produzione di <term ref="#bambagio">bambaso</term>, sconosciuto alla tradizione, può rimontare come i successivi (per i quali cfr. <ref type="witlink" target="#r-i-31">R I 31 4</ref>) a Z1. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

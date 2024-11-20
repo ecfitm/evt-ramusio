@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-1-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>Le informazioni contenute nella prima parte («Et furono […] insieme») trovano riscontro
+         in V e, soprattutto, in F: <ref type="witlink" target="#v-null-40">V 40 2-3</ref> «Et in vintido zorni feze tuto el suo’ aparechiamento, che nesuni non se podea achorzer
+         se no queli del suo’ chonseio, et chongregò ben duxento e sesantamilia homeni da chavalo
+         e zentomilia pedoni; et dal’altra parte erano diexe a tanto. Ed era molto lutan l’exerzito
+         per aquistar luogi e zitade, ed erano sparti in pixor luogi, sì che a questo ponto
+         non poté aver apreso de sí molte zente; et quele ch’el avea in questa bataia fono
+         duxento e sesantamilia homeni da chavalo et infiniti pedoni, li qualli non fo altri
+         cha li suo’ falchonieri et altri homeni che iera romaxi chon lui»; <ref type="witlink" target="#f-null-77">F LXXVII 3-4</ref> «Et sachiés qe le <term ref="#gran-can">Gran Kaan</term> fist{i} tout son aparoillamant en .XXII. jors si priveemant que null en savoit rien
+         for celz de son consoil. Il oit asenblé bien .CCCLXm. homes a chevauz et bien .Cm. a piés» / <ref type="witlink" target="#f-null-77">F LXXVII 7</ref> «Et cesti .‹C›CCLXm. homes a chevaus qu’il fist, furent sez fauchoner et autres homes qui estoient entor
+         lui». Nelle altre fonti tali dettagli sono riportati in modo più sintetico: <ref type="witlink" target="#p-ii-3">P II 3 2</ref> «In viginti autem duobus diebus congregavit trecenta et .LX. millia millitum et peditum
+         centum millia de hiis qui erant vicini civitati <term ref="#cambalu">Cambalu</term> […]»;<ref type="witlink" target="#vb-null-67"> VB LXVII 6 </ref>«[…] .IIIcLXm. omeni da cavalo et oltra .Cm. pedoni de elleta gente e tuti homeni ati al mestiero dele armi; et in çorni .XII.,
+         messa questa giente in ordene, prevegendo ai nemici suo’ […]». L omette questa parte.</p>
+	<p>Il contenuto della seconda parte («perché, se egli havesse […] accompagnato») appare,
+         invece, notevolmente diverso da quello che si legge nelle altre redazioni: <ref type="witlink" target="#f-null-77">F LXXVII 5-6</ref> «Et por ce fist si poi de jens: por ce qe cesti furent de sez ost qui estoient pres
+         de lui. Les autres seç hostes, qe doce estoient, qe mout estoient grandisme quantité,
+         estoient tant loingne en ost por conquister teres en plusors parties, qu’il ne li
+         poroit avoir eu a tens et a leu […]»; <ref type="witlink" target="#p-ii-3">P II 3 2</ref> «[…] causa autem hec fuit quare non convocavit maiorem exercitum: quia subito voluit
+         in hostes ex insperato irruere, ne si diutius fuisset in congregacione amplioris exercitus
+         immoratus ad <term ref="#naiam">Nayam</term> noticiam pervenisset et ex hoc aut retrocessisset omnino aut ad tutiora loca suum
+         exercitum transtulisset. Ideoque noluit exercitus suos, quos ad expugnandas diversas
+         provincias miserat, revocare […]»;<ref type="witlink" target="#v-null-40"> V 40 3</ref> «Ed era molto lutan l’exerzito per aquistar luogi e zitade, ed erano sparti in pixor
+         luogi, sì che a questo ponto non poté aver apreso de sí molte zente; et quele ch’el
+         avea in questa bataia fono duxento e sesantamilia homeni da chavalo et infiniti pedoni
+         […]». </p>
+	<p>L e VB omettono questo passo. Z omette l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

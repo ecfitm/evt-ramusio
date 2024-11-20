@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-41-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-41">
+      <note>
+	<p>Il passo traduce alla lettera <ref type="witlink" target="#z-null-38">Z 38 1</ref> «<term ref="#caracoran">Caracoron</term> est quedam civitas que in circuitu durat per tria miliaria, et fuit primus locus
+         ad quem antiquitus <term ref="#tartari">Tartari</term> se primitus reduxerunt»), coerente a sua volta con <ref type="witlink" target="#f-null-63">F LXIII 2</ref> («<term ref="#caracoran">Caracoron</term> est une cité que gire trois miles, le quel fu le primer sciec que les <term ref="#tartari">Tartar</term> ont quant il oisent de lor contree»). Eusebi 2010 corregge in <hi rend="italics">sciec</hi> “sede” la lezione del ms., <hi rend="italics">sire </hi>(“signore”), chiaro errore paleografico per <hi rend="italics">site</hi> (“sito, luogo”: vd. Z): da esemplari intaccati dallo stesso errore dipenderanno gli
+         svolgimenti di <ref type="witlink" target="#l-null-58">L 58 1</ref> «<term ref="#caracoran">Caracoron</term> est civitas que circuit miliaria tria, que est tota de lignamine et terra; et ex
+         hac fuit primus dominus quem <term ref="#tartari">Tartari</term> habuerunt, cum de suis partibus recesserunt», <ref type="witlink" target="#va-null-48">VA XLVIII 25</ref> «In le fin de questo dexerto, in chavo de quaranta zornate, truova l’omo la zità
+         de Caroccoran – et è verso tramontana –, in la qual fo fato fugire el primo signior che ave mai
+         i <term ref="#tartari">Tartari</term> de soa zente» (da cui <ref type="witlink" target="#p-i-51">P I 51 1</ref> «pervenitur ad civitatem <term ref="#caracoran">Carocoram</term>, que est ad aquilonarem plagam, ubi dominium <term ref="#tartari">Tartarorum</term> habuit originem […]»), <ref type="witlink" target="#vb-null-48">VB XLVIII 1-2</ref> «<term ref="#caracoran">‹C›aracoron</term> si è citade la qualle al mio giudicio volge .III. miara e, segondo dicono, el suo
+         primo segnor fo tartaro, per loro medemi fato, el qualle aquistò molte de quelle provincie.
+         È dita citade verso tramontana».</p>
+	<p>Da un modello latore della variante corretta dipende invece la lezione di V <hi rend="italics">seza</hi> “sede”: vd. <ref type="witlink" target="#v-null-34">V 34 6</ref> «Et essendo passado questo dexerto el se trova una provinzia nela qual sono una zitade
+         chiamata <term ref="#caracoran">Charachoron</term> la qual volta tre amia, et in questa fo la prima seza che avesse <term ref="#tartari">Tartari</term>» (sul rilievo stemmatico della questione, e per un’ulteriore interpretazione della
+         forma <hi rend="italics">sire</hi>, vd. Burgio, Eusebi 2008, pp. 29-30).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

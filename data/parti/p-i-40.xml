@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-40</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-40">
+    <head>
+      <hi rend="bold">P, I 40</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-40_2_1" n="1"> Rursus inde progressi invenimus provinciam <term ref="#carchan">Carchan</term>, que quinque dierum |18d| itinere in longum protenditur, que etiam legem <term ref="#macometto">Machometi</term> habet et subiecta est dominio <term ref="#gran-can">Magni Kaam</term> nepotis, ubi sunt etiam christiani aliqui nestorini. </seg>
+      <seg xml:id="p-i-40_2_2" n="2"> Omnium vero victualium copiam
+         habet.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

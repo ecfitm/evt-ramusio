@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-21-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-21">
+      <note>
+	<p>A parte l’avverbio iniziale, il testo ramusiano non presenta particolari affinità
+         con P (adottato come modello nelle pericopi precedenti): <ref type="witlink" target="#p-ii-24">P II 24 4</ref> «Similiter etiam quando epythimia fuerit animalium, remittit huiusmodi dampna patientibus
+         ipsius anni tributum magis tantum aut minus, iuxta quod eorum fuerit detrimentum,
+         quibus etiam vendi facit de suis gregibus et armentis». Maggiori – benché abbastanza
+         generiche – appaiono le somiglianze con la versione di <ref type="witlink" target="#v-null-48">V 48 2</ref> «El <term ref="#gran-can">Gran Signor</term> fano far l’aventario al’instade dele suo’ bestie, perché s’el sono algun dî qualli
+         le suo’ bestie sia morte per la mortelitade [R «per mortalità»], ge fa dar a quelli
+         dele suo’ [R «et gli fa dare delle sue»], et in quel’ano non li fa tuor algun trabuto
+         […]» (vd. <ref type="witlink" target="#f-null-98">F XCVIII 4</ref> «Ceste fait faire l’estee; et de yver fait faire tout autretel a celz des bestiames,
+         car ce il treuvent un homes que sez bestes soient mortes por mortailités qe soient
+         lor venues, il li fait doner de sez bestes et le fait aidier et ne li fait tolir treü
+         en cel an»). Pare invece escluso che Ramusio si sia avvalso anche di <ref type="witlink" target="#vb-null-70">VB LXX 3</ref> «E questo medemo fano nel bestiame, se la mortalità fose nel bestiame, o per fredura
+         fosse morto fa provedere a quella cità del suo propio e de bestiame e de biave da
+         mangiare et da semenare». </p>
+	<p>La lezione «che egli ha per decima dell’altre provincie» non trova riscontro in nessuna
+         delle fonti ramusiane, ma non è escluso che fosse contenuta nel perduto Z1 – si ricordi che Z toledano, come L, omette l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

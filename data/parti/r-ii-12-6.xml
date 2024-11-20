@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-12-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>R presenta una lezione caratteristica e alcune varianti formali che lo uniscono a
+         <ref type="witlink" target="#v-null-43">V 43 6</ref> «Anchora vieno molti chavali choverti de drapi, chargi dele chosse nezesarie [R «carichi
+         delle cose […] necessarii»] ala chorte [R «per la corte»]; e tute queste chosse pasa
+         davanti del <term ref="#gran-can">Signor</term>, le quale sono dele bele chosse che fo mai vezude». Va rilevato, d’altro canto, che,
+         a parte la forma «corte», R non presenta le innovazioni testuali tipiche di V, ma
+         si attiene generalmente alla versione di <ref type="witlink" target="#f-null-88">F LXXXVIII 9</ref> «Et encore hi vienent grandissime quantité de gamiaus ([R «camelli»], ausi covert
+         de dras, et sunt chargés des chouses beçugnables a scele feste, et tuit [R «et tutti»]
+         passent por devant le <term ref="#gran-can">Grant Sire</term>: et ce est la plus belle viste a veoir que fust jamés veue». Ramusio non ha tenuto
+         conto delle informazioni (riportate in forma sintetica) di <ref type="witlink" target="#l-null-73">L 73 5</ref> «[…] Similiter coram <term ref="#gran-can">Magno Cane</term> ducuntur cameli in maxima quantitate, et ipsi cohoperti honeratique rebus necessariis
+         huic festo», o di <ref type="witlink" target="#p-ii-15">P II 15 4</ref> «[…] omnia autem animalia coram regem ducuntur quoniam videre hec omnia est admirabile
+         et iocundum». </p>
+	<p>In VB e Z manca l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

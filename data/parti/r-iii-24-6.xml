@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-24-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-24">
+      <note>
+	<p>Dopo un <hi rend="italics">incipit </hi>che riproduce i modi del prototesto («Si vero aliquis iniurietur alicui, et velit
+         ipsum contempnere, et improperium sibi facere, dum obviat sibi in via, mastigationem
+         illam de ore accipiens, in faciem eius prohicit et dicit…»), la pericope rielabora,
+         abbreviandolo drasticamente, l’episodio narrato in <ref type="witlink" target="#z-null-112">Z 112 21-37</ref>. Una volta indicato l’insulto (par. 21 «Tu non vales isto») rivolto dall’offensore,
+         Z riferisce che il duello conseguente (ammesso dal consenso regio) può essere di due
+         tipi: tra famiglie (se l’offensore ha allargato l’offesa anche ai congiunti dell’offeso)
+         o tra i singoli contendenti da soli (parr. 23-24). Nel primo caso i contendenti combattono
+         alla presenza del re e di una gran folla, e «curacie quas ad defensionem induunt et
+         portant est pellis quam matres eorum sibi primitus donaverunt» (par. 25 – con l’effetto
+         che lo scontro è sanguinoso e mortale, dato che «[…] leviter eorum gladiis se infingunt,
+         et cuilibet ipsorum facilis patet introitus» [par. 26]); non appena ci sono morti
+         sul campo e una parte sembra avere la meglio, il re interrompe lo scontro: «ponet
+         ad dentes faldam unam cuiusdam pani quem circum se habebit, et ab alia parte tenebit
+         cum manu» (par. 28). Nel secondo caso il duello vede i contendenti combattere nudi
+         con il coltello – e «sciunt quidem cum cultellis illis optime tutaminari: nam valde
+         bene se cum ipsis cohoperiunt et adversarium offendunt» (par. 32 – e anzi si sfidano
+         a colpire solo all’interno di un cerchio disegnato in bianco sulla pelle dell’avversario…
+         [parr. 34-37]).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

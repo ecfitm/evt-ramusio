@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-13-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-13">
+      <note>
+	<p>L’<hi rend="italics">etcetera</hi> dello Z toledano (<ref type="witlink" target="#z-null-100">Z 100 19</ref> «Comedunt etiam generaliter omnes carnes bonas et malas, etcetera») fa pensare che
+         nel modello di Ramusio ci fosse un avverbio o un aggettivo che permettesse la resa
+         in «senza farli differenza alcuna»: come in P III 16 8 «Habitatores huius patrie omnibus et indifferenter carnibus utuntur in cibum» (non
+         attestato nel testo di VA a nostra disposizione) o in  L 153 8 «Et ex omni genere carnium indifferenter commedunt»; il testo di F CLXVI 9 non prevede la qualificazione indicata: «Il menuient de toutes chars, e bones e mauvesses»
+         (a questa soluzione si allinea VB CXXXVI 12 «Questa gente mangiano charne d’ogni sorta et de animalli bruti et inmondi». Sull’esito
+         di V 87 21 vd. la nota a <ref type="witlink" target="#r-iii-13">R III 13 8</ref>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

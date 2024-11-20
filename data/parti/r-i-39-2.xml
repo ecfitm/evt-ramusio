@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-39-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-39">
+      <note>
+	<p>Ramusio traduce <hi rend="italics">verbatim</hi> <ref type="witlink" target="#z-null-36">Z 36 3</ref> «Gentes eius <term ref="#idolatri">adorant ydola</term>; aliqui legem <term ref="#macometto">Macometi</term> observant; et aliqui sunt etiam christiani, qui in dicta civitate .III. habent ecclesias
+         magnas et pulcras» (versione fedele di un testo vicinissimo a <ref type="witlink" target="#f-null-61">F LXI 3</ref> «Les jens sunt <term ref="#idolatri">ydres</term> et hi a de celz qe aorent <term ref="#macometto">Maomet</term>; et encore hi a cristienç, et ont en ceste ville trois eglise grant et belles»).</p>
+	<p>L’informazione sulla presenza di tre chiese nestoriane è conservata soltanto da <ref type="witlink" target="#v-null-33">V 33 4</ref> «et la zente de quela provinzia alguni sono christiani, altri adora <term ref="#macometto">Machometo</term>, et altri idole; et in questa zitade sono tre giexie de christiani molto bele e grande»,
+         e  da <ref type="witlink" target="#vb-null-45">VB XLV 2</ref> «I abitanti sono <term ref="#idolatri">idolatri</term>: avegna ecian el ne sia cristiani et saracini; et in dita citade, v’è .III. bele
+         chiexie de cristiani»).</p>
+	<p>Si limitano all’informazione sulla distribuzione dei culti <ref type="witlink" target="#l-null-56">L 56 2</ref> («Hee gentes sunt <term ref="#idolatri">ydolatre</term>, et aliqui adorant <term ref="#macometto">Machoment</term>; sunt eciam aliqui christiani») e <ref type="witlink" target="#p-i-49">P I 49 1</ref> («ubi sunt christiani quidam et alii habentes <term ref="#macometto">Machometi</term> legem; reliqui vero cives <term ref="#idolatri">ydolatre</term> sunt»: mentre la fonte di P è al solito pedissequa a F: <ref type="witlink" target="#va-null-48">VA XLVIII 2-3</ref> «La zente <term ref="#idolatri">adorano le idolle</term>; el ge n’è de quelli ch’à la leze de <term ref="#macometto">Machometo</term> e deli cristiani. E àno li cristiani tre giexie molto belle e grande in quela zità»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-1-22</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>La fonte principale è <ref type="witlink" target="#vb-null-67">VB LXVII 19-20</ref> «Ma <term ref="#cublai-can">Clobai</term>, avendo çà circondato [R «circondato»] per la gran moltitudene dele giente soe el
+         canpo de <term ref="#naiam">Naian</term>, né posendo più <term ref="#naiam">Naian</term> sopra stare ale force del nemicho, se mise in fuga [R «si misse in fuga»] ma essendo
+         çà per tuto circhondato non poté fugire ch’el fu preso e subito conduto alla presencia
+         de <term ref="#cublai-can">Clobai</term> [R «ma subito fu preso et condotto alla presentia di <term ref="#cublai-can">Cublai</term>»]. Biaxemato la infedelità del parente e ringraciato la giusticia dei dii, fece quello
+         ligare e chusire fra do tapedi [R «cucito fra due tapeti»] e queli tanto menare su
+         o giò [R «fossino tanto alzati su et giú»] che ’l spirito usì del chorpo [R «che ’l
+         spirito gli uscisse del corpo»] a <term ref="#naiam">Naian</term>: e tal morte volse quello el fesse açò che sangue alchuno non podesse, per alchun
+         chaxo spargierse in tera, però ch’el non seria conveniente che ’l sangue de tanto
+         inperio tochasse tera né per alchun animal tochato». Nella parte finale Ramusio si
+         è avvalso anche di <ref type="witlink" target="#p-ii-4">P II 4 8</ref> «[…] tandem deficiente ac terga vertente populo <term ref="#naiam">Naiam</term> <term ref="#cublai-can">Cublay</term> rex victor extitit, et in fuga ipsa multitudo mirabilis est occisa; <term ref="#naiam">Naiam</term> vero captus et regi oblatus est» / <ref type="witlink" target="#p-ii-5">P II 5 1</ref> «Rex autem <term ref="#cublai-can">Cublay</term> precepit ut confestim <term ref="#naiam">Naiam</term> occideretur sicut sui domini proditor et rebellis, sed quia de progenie eius erat,
+         noluit ut sanguis sue stirpis regie funderetur, ne terra sanguinem regium biberet
+         aut sol vel aer quisquam de regali prosapia videret occidi [R «accioché il sol et
+         l’aria non vedesse sparger il sangue imperiale»], fecitque eum in tappeto involvi,
+         involutum ligari, ligatumque tam diu huc illucque deduci et agitari, donec sedulo
+         anelitu necaretur». Non si danno invece coincidenze significative che provino il contatto
+         di R con altre redazioni: <ref type="witlink" target="#l-null-66">L 66 4</ref> «[…] cepitque <term ref="#naiam">Nayam</term>, quem revolutum in tapeto uno tam diu huc et illuc duci fecit quousque debitum carnis
+         persolvit (fecitque tali morte perire ne imperialis sanguis spanderetur in terram»;
+         <ref type="witlink" target="#v-null-40">V 40 12-13</ref> «[…] ma finalmente el <term ref="#gran-can">Gran Chan</term> fo venzidor, perché <term ref="#naiam">Nain</term> e la so zente vezando non se poder sostegnire chomenzò a schanpar, et ale fin <term ref="#naiam">Nain</term> chon li mazor del chanpo se rexe al <term ref="#gran-can">Gran Chan</term>. Et sapiando el <term ref="#gran-can">Gran Chan</term> che <term ref="#naiam">Nain</term> iera stato prexo, de prexente ordenò la so morte in questo modo: zoè che lui fosse
+         revolto in uno tapedo molto streto et fosse strasinado tanto in qua, in là, ch’el
+         fosse morto; sì che <term ref="#naiam">Nain</term> a questo muodo fenì la soa vita» (vd. <ref type="witlink" target="#f-null-78">F LXXVIII 18</ref> «Quant <term ref="#naiam">Naian</term> et sez homes virent qu’il ne |35c| pooient plus sofrir, il se mistrent en fuie, mes
+         ce ne vaut lor rien, car <term ref="#naiam">Naian</term> fu pris et tous sez baronz et ses homes se rendirent con lor armes au Grant Chan» / <ref type="witlink" target="#f-null-79">F LXXIX 2-4</ref> «Et quant le <term ref="#gran-can">Grant Kan</term> soit que <term ref="#naiam">Naian</term> estoit pris, il comande qu’il soit mis a mort. Et adonc fu mort en tel mainere com
+         je voç dirai: car il fu envolupé en un tapis et illuec fu tant moinés sa et la si
+         estroitemant qu’il se morut. Et por ce le fist morir en tel mainere: que il ne vuelen
+         que le sanc dou leingnajes de l’enperer soit espandu sor la tere, ne que le soleil
+         ne l’air le voie»). </p>
+	<p>Z omette l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

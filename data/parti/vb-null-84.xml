@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-84</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-84">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXXIV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-84_1_1" n="1"> ‹P›artitosi dela citade de <term ref="#iaci">Iaci</term> e chaminando per ponente per .X. çornade se trova la nobel citade nominata <term ref="#carazan">Caraxan</term>, come è nominata la provincia. </seg>
+      <seg xml:id="vb-null-84_1_2" n="2"> Sono i abitanti tuti <term ref="#idolatri">idolatri</term> e soto el dominio del <term ref="#gran-can">Gran Can</term> ma segnoregiata per 1° fo fiol del <term ref="#gran-can">Gran Chan</term> el qual |252r| à nome <term ref="#cogatin">Çiogatim</term>. </seg>
+      <seg xml:id="vb-null-84_1_3" n="3"> Trovase in questa provincia oro de paiolla assai et ancho oro più groso che
+         de paiolla; e per la gran quantitade de oro ànno, dano saçi vi d’argiento per saço
+         1° de oro. </seg>
+      <seg xml:id="vb-null-84_1_4" n="4"> Spendeno per suo moneta menuta porcellane, le qual però non se trova
+         in suo paexe ma fino portate per merchadanti de alltri luogi. </seg>
+      <seg xml:id="vb-null-84_1_5" n="5"> In questa provincia
+         se trova grandissimi serpenti i qual sono longi pasi .X. e grosi spane .X.; àno do
+         ganbe davanti apreso la testa; non àno nel piede sollo una ongia quasi come ongia
+         de falchone. </seg>
+      <seg xml:id="vb-null-84_1_6" n="6"> La testa à molto grossa con do ochi grossi, la bocha grandissima.
+         </seg>
+      <seg xml:id="vb-null-84_1_7" n="7"> Fino pigliati de diti serpenti in questo modo: el giorno quelli stano nele chaverne
+         soto tera; la note eschono fuori e quante bestie i trovano i devorano e vano poi al
+         fiume a bere. </seg>
+      <seg xml:id="vb-null-84_1_8" n="8"> E per la grandeça soa, quando i vano per l’arena, i llaseno el segno
+         per el sabiun chome se una bota fose voltada per l’arena. [9] I caçadori, vedendo
+         el segnalle, et inteso per quello dove el serpente ussa, àno molti feri taienti e
+         quelli i copreno sotto el sabiun atachadi e ligadi ad alguni palli fichadi soto tera:
+         e tal feri i meteno molto spesi et in diversi luogi per modo quando el serpe va a
+         bere el se ferise in questi feri e feridi de legier moreno. [10] I chaçadori, visto
+         el sangue, siegue quello e trovallo morto e subito ge traçe el fielle però che quello
+         molto è aprixiato; però che molto el valle a uno che fose morso da alchun animal venexoso,
+         et ancho in parto de una dona molto è çovevelle a far quella parturire; e molto mitiga
+         el dollore çova molto a ogni nasiun et in più suo’ medessine fi adoperato, e però
+         se vende molto caro. [11] Vendeno ecian la charne del serpente però che quella da
+         quelle giente volentieri fi mangiata, e dicono essere molto diletevelle e bona da
+         mangiare. [12] Dicono questi serpenti molte fiade, trovendo i llioni et orsi, quei
+         i prendono e devoralli. [13] Trovasi quivi molti e belli chavalli di qualli i marchadanti
+         molti ne portano in <term ref="#india">India</term>; et a tuti i chavano do over tre ossi dela coda, açò che quando el chavallo core
+         el non meni la coda parendoge bruto chostume de 1° chavallo chorendo menar la coda.
+         [14] Quella giente chavalchano longo, e le arme suo’ de doso sono de chuoro de bufallo
+         coto; portano lançe e schudo. [15] Àno balestre ‹et› atosegano tute suo’ arme. [16]
+         Dicono prima che ’l <term ref="#gran-can">Gran Can</term> segnoregiase questa provincia, questa giente avevano questo costume et opinione;
+         che, se alchuno forestiero de bon aspeto e de bona eficie albergava in chaxa soa,
+         el patrone dela chaxa cerchava de amaçar quello per questa opinione che l’anema de
+         quello nobelle forestiero non se partiva de quella chaxa e che, per el stanciar de
+         quella anima in chaxa, tegniva tute soe chosse sociederge con gran fellecità; e però
+         beato se reputava chadauno de quelli citadini quando i potevano avere l’anema de qualche
+         |252v| persona: e quanto più nobelle et de mior aspeto tanto più beati se reputavano
+         et tanto più fellici in chadauna soa operacione. [17] Ma dapoi la fo soiugata dal
+         <term ref="#gran-can">Gran Chan</term> tal chostumo i è stà levato, né più i è stà tolerato l’ocisiun de forestieri, ançi
+         fato n’è gran punicione.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

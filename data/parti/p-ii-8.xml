@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-8">
+    <head>
+      <hi rend="bold">P, II 8</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-8_2_1" n="1"> Rex magnus <term ref="#cublai-can">Cublay</term> pulcher est valde, statura mediocris, non pinguis nimium neque macilentus; faciem
+         habet rubicundam et candidam, oculos nigros, nasum pulcherri|38b|mum, atque per singula
+         corporis sui membra proporcionis est optime. </seg>
+      <seg xml:id="p-ii-8_2_2" n="2"> Habet autem uxores quatuor quas vocat
+         legittimas; primogenitus eius ex prima ei debet in regno succedere; quelibet harum
+         quatuor curiam per se regalem habet in palacio proprio, habet enim unaqueque earum
+         ancillas trecentas electas multosque ministros eunuchos aliosque familiares innumeros,
+         adeo ut in cuiuslibet ipsarum familia sint viri et mulieres circiter decem milia.
+         </seg>
+      <seg xml:id="p-ii-8_2_3" n="3"> Insuper habet rex concubinas multas: est enim inter <term ref="#tartari">Tartaros</term> nacio quedam, que dicitur <term ref="#ungut">Ungrac</term>, mulieres habens valde decoras et moribus optimis adornatas, de quibus tenet in palatio
+         uno numero .C., que sunt sub cura nobilium matronarum que circa ipsarum custodiam
+         curam adhibent diligentem, et oportet ut videant si |38c| infirmitatem aut maculam
+         habent; que autem huius defectum corporis carent pro rege servantur; sex autem ex
+         ipsis tribus diebus ac noctibus regali camere custodiam habent, et dum ingreditur
+         rex ad quietem et quando surgit ei assistunt et in eius cubiculo dormiunt; quarta
+         vero die sex alie primis succedunt, et tribus diebus ac noctibus in simili ministerio
+         occupantur, et sic alternatim de tercio in tercium diem sex alie precedentibus sex
+         succedunt, donec centenarius earum numerus compleatur. </seg>
+      <seg xml:id="p-ii-8_2_4" n="4"> De quatuor vero prefatis
+         uxoribus habet rex filios .XXII.: primogenitus autem prime vocatus est <term ref="#cingis-can">Chinchin</term> qui succedere imperio debuerat, sed quia premortuus est patri, filio eius, <term ref="#themur">Temur</term> nomine, debetur successio quia filius primogeniti est. </seg>
+      <seg xml:id="p-ii-8_2_5" n="5"> Est autem <term ref="#themur">Temur</term> |38d| probus et strenuus et prudens valde, pluresque victorias in bellis obtinuit.
+         </seg>
+      <seg xml:id="p-ii-8_2_6" n="6"> De ancillis habet <term ref="#cublai-can">Cublay</term> rex .XXV. probos filios valde, qui omnes magni barones sunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

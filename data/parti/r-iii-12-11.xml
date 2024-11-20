@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-12-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>La transizione conclusiva (originaria, come garantisce F CLXV 17 «Or ne voç conteron plus de ceste roiame, qe ne i ha autre couse que a mentovoir
+         face: e por ce laieron de ce e voç conteron do autre roiame que est apellé <term ref="#samara">Samatra</term>») è attestata soltanto da V 87 16 «Or in questo reame non sono alguna chossa da dire, e però anderemo al’altro reame»,
+         e da Z 99 33-34 «Nunc de isto regno amplius non dicemus, quoniam alia dicenda non sunt. Et ideo dicemus
+         de alio regno nomine <term ref="#samara">Sumatra</term>». Risulta evidente come Z sia il modello utilizzato da Ramusio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

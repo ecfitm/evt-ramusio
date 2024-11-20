@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-34-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-34">
+      <note>
+	<p>Ramusio combina in questa pericope la testimonianza di almeno due fonti. La prima
+         doveva essere molto vicina a V, ma al tempo stesso più fedele di questa al dettato
+         di F, e va quasi sicuramente identificata con Z1 (ricordiamo che in questo punto Z toledano è lacunoso): <ref type="witlink" target="#v-null-53">V 53 8-9</ref> «[…] primamente sono uno muro grosso et alto [R «Primamente vi è un muro grosso et
+         alto»], el qualle volta zinque mia, et sono tuto ben fato. Et de mezo de questo muro
+         sì sono el pallazo grando e bello, che algun no ’l porave meio ordenare [R «niuno
+         lo potrebbe meglio ordinare»]; et in quel pallazo sono de molte salle e chamere tute
+         depente di cholor d’oro» [R «tutte depinte d’oro»]; <ref type="witlink" target="#f-null-110">F CX 9</ref> «[…] Il a tout avant un mur mout gros et haut, qe gire environ .V. miles, tout merlés
+         [R «con merli a torno a torno»] et bien fait. Et en le mileu de cest mur est le palais,
+         si grant et si biaus qe [R «cosí bello che»] nulz le poroit miaus deviser. Il a maintes
+         beles sales et ma{n}intes belles canbres toute portraite et paintes a or batu». L’altra
+         fonte di R è riconducibile a <ref type="witlink" target="#vb-null-77">VB LXXVII 9-11</ref> «Et in questa pianura, in uno luogo molto alto, v’è una muraia alta e grossa tutta
+         merllada la qual çira miglia .V. E nel meço de dita muraia [R «in mezzo di questa
+         muraglia»], è fondato un pallaxio nobelle e grande, con molte sale et chamere adornate,
+         e molto ornate e depinte e lavorate di gran magnificencia, e de chollone e marmori
+         assai [R «con azzurri finissimi et con infiniti marmori»]: et al iudicio mio è fabricha
+         degna de memoria. E fra la dita muraia v’è molti animalli salvaçi et ecian osselli
+         [R «dove sono tutti gli animali selvaggi et uccelli»] de paisa […]».</p>
+	<p>Non sembra invece che Ramusio abbia tenuto conto anche delle versioni abbreviate di
+         <ref type="witlink" target="#l-null-90">L 90 4</ref> «[…] viridarium circumdatum muro circuitus .V. miliariorum; in medio cuius est pallacium
+         maximum et pulcherrimum in quo manet rex», e di <ref type="witlink" target="#p-ii-32">P II 32 8-9</ref> «[…] intra murum illum flumina, lacus et fontes sunt. In platea media civitatis palatium
+         pulcherrimum est, totum interius deauratum».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

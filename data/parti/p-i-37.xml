@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-37</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-37">
+    <head>
+      <hi rend="bold">P, I 37</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-37_2_1" n="1"> Si vellem ulterius recto tramite progredi oporteret me in <term ref="#india">Indiam</term> ingredi, sed in libro III de <term ref="#india">India</term> prosequar: idcirco per viam aliam ibimus rursum inferentes a confinio altero provincie
+         <term ref="#bascia">Bascie</term>. </seg>
+      <seg xml:id="p-i-37_2_2" n="2"> Post recessum de <term ref="#bascia">Bascie</term> provincia, inter plagam orientalem |17b| et aquilonarem itur per dietas duas super
+         crepidinem fluminis ubi preest frater regis <term ref="#balaxiam">Balascie</term>; inveniuntur autem ibi castra et ville multe, virique locorum probi sunt et in armis
+         strenui et <term ref="#macometto">Machometum</term> adorant. </seg>
+      <seg xml:id="p-i-37_2_3" n="3"> Post dietas autem duas invenitur provincia <term ref="#vochan">Vocam</term>, que linguam habet propriam et subiecta est regi <term ref="#balaxiam">Balascie</term>, habens in longitudine et latitudine tres dietas. </seg>
+      <seg xml:id="p-i-37_2_4" n="4"> Ibi etiam habetur lex pessimi
+         <term ref="#macometto">Machometi</term>. </seg>
+      <seg xml:id="p-i-37_2_5" n="5"> Viri autem loci illius sunt strenui bellatores. </seg>
+      <seg xml:id="p-i-37_2_6" n="6"> Ibi sunt venaciones maxime,
+         quia regio silvestres bestias habet innumeras. </seg>
+      <seg xml:id="p-i-37_2_7" n="7"> Demum, post discessum a regione
+         predicta, itur per dietas tres ad orientalem plagam semper ascendendo per montes,
+         donec ad montem maximum perveniatur, qui dicitur esse altior mundi locus, ubi invenitur
+         inter montes duos quedam pulcra |17c| planicies ubi fluvius pulcherrimus est, suntque
+         ibi peroptima pascua: si equus aut bos macilentus vel quodcumque animal ibi ponatur
+         ad pastum, in decem diebus valde pinguescit. </seg>
+      <seg xml:id="p-i-37_2_8" n="8"> Silvestria animalia multa ibi sunt:
+         inveniuntur etiam ibi silvestres arietes maximi, habentes cornua longa palmis sex
+         aut quatuor sive tribus, de quibus scutelle et vasa alia fiunt, insuper etiam pastores
+         sibi de cornibus illis concludunt domunculas. [9] Habet autem illa planicies in longitudine
+         dieta‹s› .XII. et vocatur <term ref="#pamer">Pamer</term>, sed in progressu vie deserta est nullaque ibi est habitacio, neque herba reperitur
+         ibidem: oportet autem ut viatores inde transitum facientes victualia secum deferant.
+         [10] Avis ibi nulla apparet propter frigus et altitudinem nimiam, et quia ibi victum
+         habere nequiret. [11] Ignis, |17d| quando ibi accenditur, propter frigiditatem maximam
+         regionis neque ita lucidus est ut apparet alibi, neque ita efficax ad coquendum. [12]
+         Post hec oportet itinerantes inter plagam orientalem et aquilonarem ambulare per montes,
+         colles et valles .XLta. dietis, ubi multa inveniuntur flumina; vocatur autem regio <term ref="#beloro">Belor</term>; in via autem illarum .XL. dietarum habitacio nulla est, neque etiam herba aliqua
+         crescit ibi: oportet igitur ut transeuntes inde victualia secum deferant. [13] In
+         montibus vero altissimis habitaciones multe sunt hominum <term ref="#idolatri">ydolatrarum</term>, crudelium et pessimorum qui de venacionibus vivunt et corio vestiuntur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

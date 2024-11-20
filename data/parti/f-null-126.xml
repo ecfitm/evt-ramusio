@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-126</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-126">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXXVI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-126_1_1" n="1"> Ci devise de la grant provençe de <term ref="#cangigu">Caugigu</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-126_2_1" n="1"> <term ref="#cangigu">Caugigu</term> est une provence ver levant. Il hi a rois. Les jens ‹sunt› ydules et ont langajes
+         por elz. Il se renderent au <term ref="#gran-can">Grant ‹Kan›</term> et li font chascunz anz treü. Et si voç di qe cest roi est si luxuros qu’il a bien
+         .IIIc. feme, car, quant il ont aucune belle feme en la contré, la prant a feme. </seg>
+      <seg xml:id="f-null-126_2_2" n="2"> Il
+         se treuve en cest provence or aseç. Il ont chieres espiceries de maintes faites en
+         grant habundance. Mes il sunt molt loinge dou mer, e por ce ne vailent gueire lor
+         mercaandie, mes i ni a grant merchiés. </seg>
+      <seg xml:id="f-null-126_2_3" n="3"> Il ont leofant asez et autres bestes de
+         maintes faisonz. Il ont venesionz asez. </seg>
+      <seg xml:id="f-null-126_2_4" n="4"> Il vivent de char et de la‹i›t et de ris.
+         </seg>
+      <seg xml:id="f-null-126_2_5" n="5"> Il ne ont vin de vigne mes le font de ris et de espices molt bien. </seg>
+      <seg xml:id="f-null-126_2_6" n="6"> Les jens
+         toutes comunemant, masles et femes, {s}unt toutes lor charç pintes en tel mainere
+         con je voç dirai: car il se font por toutes lor chars pintures con aguiles, a lions
+         et a drag et ausiaus et a maintes ymajes, et sunt fait con les a{n}guiles en tiel
+         mainere qe jamés ne s’en vont. </seg>
+      <seg xml:id="f-null-126_2_7" n="7"> Ce ausi le font au vix et ‹a›u cuel et au ventre
+         et a les manz et a les janbes et por tout les cors. [9] Et ce funt por grant |58c|
+         gentilise; e celui qui plus n’ot de ceste poi‹n›ture s’en ti{n}ent a graingnor et
+         a plus biaus. </seg>
+    </p>
+    <p n="3"/>
+  </div>
+</body>
+</text>
+     </TEI>

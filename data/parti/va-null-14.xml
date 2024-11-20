@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-14">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XIV</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-14_2_1" n="1"> Ancora in quella contrà è uno monestier de munexi che è apellato san Lionardo. </seg>
+      <seg xml:id="va-null-14_2_2" n="2"> A pe’ de quel monestier è uno gran lago che vien d’una montagnia, e in quella
+         aqua non se trova mai pesie in tuto l’ano se non de quarexema. </seg>
+      <seg xml:id="va-null-14_2_3" n="3"> E chomenza-se a
+         trovar el primo dì della quarexema e dura perfina ’l sabado santo: in tuto questo
+         tenpo se trova pesse asai. </seg>
+      <seg xml:id="va-null-14_2_4" n="4"> Quello gran lago è apellà <term ref="#abbacu">Mar de Gheluchelan</term>, e volze atorno ben VIIC mia, ed è da lonzi da ogni mare ben XII zornade; e vien
+         d[entr]o el fiume de Eufrates, ch’è uno d’i quatro fiumi del Paradixo, e molti altri
+         fiumi, ed è tuto zircondado da montagnie e de tera. </seg>
+      <seg xml:id="va-null-14_2_5" n="5"> De llì vien la seda ch’è apellata
+         <term ref="#ghellie">ghella</term>. </seg>
+      <seg xml:id="va-null-14_2_6" n="6"> Or avemo dito delle confine d’<term ref="#armenia">Armenia</term> deverso tramontana, mo’ ve diremo delle altre confine dentro mezodì e llevante.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

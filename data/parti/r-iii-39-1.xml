@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-39-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p><ref type="witlink" target="#p-iii-43-1">P III 43 1-2</ref> («Descriptis igitur summarie principalioribus insulis et regionibus maioribus insule
+         que protenditur a provincia <term ref="#malabar">Maabar</term> usque ad regnum <term ref="#chesmacoran">Resmacoram</term> et <term ref="#india">Minoris Yndie</term>, cuius termini sunt a regno <term ref="#ziamba">Ciamba</term> usque ad regnum Murfili, nunc de regionibus medie seu <term ref="#india">Mediane Yndie</term> breviter disseramus, que speciali nomine dicitur <term ref="#abascia">Abascia</term>. <term ref="#abascia">Abascia</term> ergo est provincia maxima […]») inizia il capitolo con una lunga precisazione che
+         Ramusio ha rifuso in <ref type="witlink" target="#r-iii-38">R III 38 3</ref> (vedi la nota). Il modello di Pipino, VA CLI 1,  ha un<hi rend="italics"> incipit </hi>affine a R: «<term ref="#abascia">Albaxia</term> è una grandenisima provinzia ch’è apellata <term ref="#india">India Mezana</term>», che dipende in sostanza da F CXCII 2 «Or sachiés que <term ref="#abascia">Abasce</term> est un grandissme provence que est la <term ref="#india">meçaine Yndie</term>». L’attacco di Z 126 1 traduce F: «Noveritis itaque quod <term ref="#abascia">Abasce</term> est quedam valde magna provincia que Mediocris India appellatur» (ed è la fonte più probabile di R). Si differenziano dal contenuto di
+         F-Z (sia pur lievemente) L 180 1 «‹<term ref="#abascia">Abasce</term> est maxima provincia, et ipsa est <term ref="#india">India Mediana</term>›», V 108 1 «Sapié che <term ref="#abascia">Abaste</term>, la qual viene chiamada <term ref="#ethiopia">Etiopia</term>, la qual sono una provinzia molto granda, la qual sono in l’<term ref="#india">India Mezana</term>» e in VB CLXIII 1 «<term ref="#abascia">‹A›besia</term> è una grandissima provincia dela segonda India […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

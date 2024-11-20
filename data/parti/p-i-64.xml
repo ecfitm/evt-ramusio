@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-64</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-64">
+    <head>
+      <hi rend="bold">P, I 64</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-64_2_1" n="1"> Deinde pertransitis .VIII. dietis ultra provinciam <term ref="#erginul">Ergimul</term>, ad orientem |30a| occurrit provincia <term ref="#egrigaia">Egrigaia</term>, in qua sunt civitates multe et oppida; est autem de provincia magna Tenguth, cuius principalior civitas <term ref="#calacia">Calacia</term> dicitur. </seg>
+      <seg xml:id="p-i-64_2_2" n="2"> Incole <term ref="#idolatri">ydolatre</term> sunt, preter aliquos christianos qui tres ibi basilicas habent. </seg>
+      <seg xml:id="p-i-64_2_3" n="3"> Sunt autem subiecti
+         omnes <term ref="#gran-can">Magno Kaam</term>. </seg>
+      <seg xml:id="p-i-64_2_4" n="4"> In civitate <term ref="#calacia">Calacia</term> sunt panni qui “çambelloti” dicuntur, de lana alba et camelorum pilis, pulcriores
+         qui in mundo fiant, qui ad provincias alias a negotiatoribus deferuntur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

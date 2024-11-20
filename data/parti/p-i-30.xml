@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-30</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-30">
+    <head>
+      <hi rend="bold">P, I 30</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-30_2_1" n="1"> Post di‹s›cessum de loco prefato, invenitur regio pulcra, colles habens et planicies
+         et pascua optima multosque fructus, que et in omnibus victualibus fertilis est, nisi
+         quia aliquando per miliaria .L. aut .LX. aqua inveniri non potest, sed oportet ut
+         eam secum deferant viatores: equi autem vel iumenta alia potus ibi patiuntur multam
+         penuriam, ideoque necesse |15a| est festinanter in illa arriditate transire, aut pro
+         animalibus aquam deferre. </seg>
+      <seg xml:id="p-i-30_2_2" n="2"> Longitudo vero regionis illius protenditur ad dietas
+         sex; extra loca sterilitatis aque, regio ipsa civitates multas habet et oppida, omnes
+         autem <term ref="#macometto">Machometum</term> adorant. </seg>
+      <seg xml:id="p-i-30_2_3" n="3"> Post hoc pervenitur ad civitatem <term ref="#sapurgan">Sopurgam</term>, ubi est omnium victualium copia, precipue vero pepones habet habundantissime quos,
+         per fila seu corrigias, circumquaque scindunt sicut fit de cucurbitis, quas cum desiccate
+         fuerint ad proximas terras venales mittunt in copia maxima; acceptantur autem valde
+         in cibum a populo, quia mellis habent dulcedinem. </seg>
+      <seg xml:id="p-i-30_2_4" n="4"> In illa regione venaciones multe
+         sunt bestiarum et avium.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

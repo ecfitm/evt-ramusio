@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-42</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Per questa brevissima pericope l’aderenza a <ref type="witlink" target="#z-null-107">Z 107 117</ref> «Ittem luxuriam peccatum non reputant» (versione semplificata di  F CLXXIII 45 «Mes si sachiés qe il ne tienent a pechiés nule luxurie») risulta l’ipotesi più economica,
+         a fronte della soluzione più articolata di P III 24 8 «Homines regionis huius nullam luxurie speciem putant esse peccatum» (elaborazione
+         di VA CXXXVII 50 «I non àno per pechato niguno luxuria»).</p>
+	<p>L 161 29 «In nullo modo luxurie peccare credunt: luxuriam enim non numerant pro peccato» è
+         insolitamente ridondante; VB CXLIII 52 «Non àno per pecatto alchuna lusuria» si allinea al tenore informativo della pericope;
+         V 91 44-45 è lacunoso.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

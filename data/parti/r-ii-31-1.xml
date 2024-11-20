@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-31-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-31">
+      <note>
+	<p>R presenta alcune innovazioni in comune con <ref type="witlink" target="#v-null-51">V 51 7</ref> «Or partandosse da questa zitade dita di sopra, andando per ponente do zornade, el
+         se trova uno bello chastello chiamato <term ref="#thaigin">Chugiun</term> [R «<term ref="#thaigin">Thaigin</term>»] el qualle fexe edifichar segondo el se dixe uno re chiamato <term ref="#dor">Dor</term>» [R «un re chiamato <term ref="#dor">Dor</term>»]. Si noti in ogni modo che l’errata interpretazione del sintagma «d’Or» non è tipica
+         del solo V, ma interessa anche P e VB.</p>
+	<p>La fonte di R doveva però essere più ricca di informazioni di V, come si evince dalla
+         lezione «anticamente», che non trova rispondenza in nessuna fonte ramusiana ma ha
+         un parallelo («jadis») in <ref type="witlink" target="#f-null-107">F CVII 2</ref> «Et quant l’en se part de <term ref="#pianfu">Pianfu</term> et il ala por ponent deus jornee, adonc treuve l’en un biaus castel, qui est apellés
+         <term ref="#thaigin">Caiciu</term>, le quel fist faire jadis un rois qe fu apellés le <term ref="#dor">roi d’Or</term>». Si profila pertanto l’ipotesi che Ramusio non abbia attinto direttamente da V,
+         ma da un esemplare che recava alcune lezioni in comune con tale famiglia ma risultava
+         più prossimo di questa alla redazione originaria. Z omette tutto il capitolo, ma è
+         probabile che questa fonte vicina a F e V vada identificata con Z1. Non sussistono, invece, indizi che provino il contatto di R con qualcun’altra delle
+         sue fonti: <ref type="witlink" target="#p-ii-30">P II 30 1</ref> «Ultra vero civitatem <term ref="#pianfu">Pianfu</term> ad dietas duas est castrum pulcherrimum <term ref="#thaigin">Caycuy</term>, quod edificavit rex quidam *Darius nomine […]»; <ref type="witlink" target="#l-null-88">L 88 1</ref> «Duabus dietis per occidens ultra predictam civitatem est ‹pulcrum› castrum dictum
+         <term ref="#thaigin">Caiciu</term> […]»; <ref type="witlink" target="#vb-null-76">VB LXXVI 1</ref> «‹E›sendo partito da <term ref="#pianfu">Pianfu</term> e chaminando per .II. giornate, trovassi uno chastello nominato <term ref="#thaigin">Cangiafu</term>, el qual se dice fece far el re <term ref="#dor">Doro</term> nobellissimo segnore nel suo tenpo».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

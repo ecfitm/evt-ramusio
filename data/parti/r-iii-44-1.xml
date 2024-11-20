@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-44-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-44">
+      <note>
+	<p>L’<hi rend="italics">explicatio nominis </hi>di «melich» evidenzia come Ramusio abbia attinto la pericope da <ref type="witlink" target="#z-null-131">Z 131 1-2</ref> «<term ref="#ormus">Curmos</term> est quedam magna civitas et nobilis, sita supra mare, et habet “<term ref="#melich">melic</term>”, quod est nomen dignitatis, sicut diceretur marchyo vel dux. Et quam plures civitates
+         et castra sub dominio suo habet». F CXCVII 2 si limita a «<term ref="#ormus">Curmos</term> est une grant cité et noble qui est sor la mer. Il ont <term ref="#melich">melic</term> et ont plusor cités e castiaus sout soi»; sulla linea di F si attestano L 187 2 «Et iterum, a civitate <term ref="#calaiati">Calatu</term> .CCC. miliaribus inter magistrum et septemtrionem est civitas super mare, nobilis
+         et magna, dicta <term ref="#ormus">Curmos</term>, cuius dominus “<term ref="#melich">melich</term>” dicitur; et sub ipsa sunt plures civitates et castra», V 113 1 «<term ref="#ormus">‹C›urmos</term> sono una gran zitade nobelle, et sono sopra el Mar de Milia; et àno soto la suo’
+         signoria pixor zitade e chastelli» e VB CLXIX 1-2 «<term ref="#ormus">‹O›rmes</term> si è nobelle et gran citade et è sul mar. E tene segnor el <term ref="#melich">Melech</term> et à altre citade et chastelli […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

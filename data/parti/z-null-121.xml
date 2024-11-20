@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-121</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-121">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 121</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-121_1_1" n="1"> <term ref="#chesmacoran">Kesmacoran</term> est quoddam regnum magnum quod regem habet |93v| et loquelam per se. </seg>
+      <seg xml:id="z-null-121_1_2" n="2"> Alique gentes
+         adorant ydola, sed maior pars sunt saraceni. </seg>
+      <seg xml:id="z-null-121_1_3" n="3"> Vivunt de mercimoniis et artibus,
+         et habent risum et frumentum in magna quantitate: nam risum, lac et carnes comedunt.
+         </seg>
+      <seg xml:id="z-null-121_1_4" n="4"> Illuc multi mercatores per mare et per terram accedunt cum multis mercimoniis,
+         et postmodum reportant de mercimoniis huius regni. </seg>
+      <seg xml:id="z-null-121_1_5" n="5"> Alia non sunt in eo que dicenda
+         sint. </seg>
+      <seg xml:id="z-null-121_1_6" n="6"> Et istud regnum est ultima provincia <term ref="#india">Indie</term> eundo versus ponentem et magistrum. </seg>
+      <seg xml:id="z-null-121_1_7" n="7"> Nam usque ad hanc provinciam discedendo a
+         <term ref="#malabar">Maabar</term>, et omnia alia regna et provincie quas nominavimus a <term ref="#malabar">Maabar</term> usque huc sunt de <term ref="#india">Indya Maiori</term>. </seg>
+      <seg xml:id="z-null-121_1_8" n="8"> Et descripsimus de hac Maiori Indya solum provincias et civitates supra mare existentes; et de hiis que infra terram
+         sunt non diximus, quoniam nimis esset longa materia. [9] Et ideo, ab ista provincia
+         discedentes, dicemus de quibusdam insulis, quarum una nuncupatur <term ref="#isola-femmina-e-isola-mascola">Mascula</term>, altera vero <term ref="#isola-femmina-e-isola-mascola">Insula Feminina</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

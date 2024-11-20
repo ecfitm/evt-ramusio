@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-17-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-17">
+      <note>
+	<p>In nessuna delle fonti che trasmettono il capitolo (L P V VB), le informazioni contenute
+         in R trovano riscontro preciso:<ref type="witlink" target="#l-null-77"> L 77 8</ref> «Et similiter hic adducuntur undique mercimonia in maxima quantitate, ‹et maxime
+         nobilia›, et hoc propter essentiam domini multitudinisque gentis: apportantur enim
+         ex <term ref="#india">India</term> lapides preciosi, margarite et universe species et reliqua cara – et breviter ad
+         hanc civitatem confluit mercimoniorum maxima multitudo. Et inter alia qualibet fere
+         die intrant civitatem .M. carruce onerate serico; laborantur enim ibi multi panni
+         ex auro et seta»; <ref type="witlink" target="#p-ii-11">P II 11 4-5</ref> «Ad hanc urbem mercaciones tam multe et tam maxime deferuntur ut quamlibet tocius
+         orbis civitas in quantitate negotiacionum excedat; deferuntur autem illuc preciosi
+         lapides et margarite et sericum et aromata in copia maxima de <term ref="#india">India</term>, <term ref="#mangi">Mangy</term> et <term ref="#cataio">Cathay</term> et aliis regionibus infinitis: est enim civitas in situ optimo posita et ad ipsam
+         de facili concursum habent finitime regiones. Est enim in meditullio provinciarum
+         multarum diligenti habita extimatione per negotiatores terre non enim est in anno
+         dies in qua ultra mille carucas de serico negotiatores extranei illuc non deferant;
+         fiunt enim ibi de auro et serico opera infinita»; <ref type="witlink" target="#v-null-45">V 45 5-6</ref> «Et in questa zitade vieno portade le robe de <term ref="#india">India</term>, zoè pie‹re› prezioxe et altre zoie de gran prexio, et sono più chare cha in parte
+         che sia: et questo per el <term ref="#gran-can">Signor</term> e per la molta zente che ne chonpra. Et per el simel se trova gran chopia de tute
+         marchadantie, et ogni zorno vano nela zitade gran quantità de seda, et lì se lavora
+         drapi de seda e d’oro»; <ref type="witlink" target="#vb-null-68">VB LXVIII 8</ref> «Non credo tera al mondo sia dove chapita più marchadantie de tute parte: et tute
+         le nobelle cosse se pò per lo mondo trovare, per respeto dela gran corte de moltitudene
+         de baroni, nobellissimi homeni et tuti de grandissima richeça, a questa nobelle citade
+         fi portate». </p>
+	<p>Si danno invece numerose coincidenze formali e contenutistiche tra R e <ref type="witlink" target="#f-null-94">F XCIV 10-14</ref> «Et sachiés tuit voiremant qe en ceste ville de <term ref="#cambalu">Canbalu</term> vienent plus chieres chouses et de greingnor vailance [R «le piú care cose et di
+         maggior valuta»] qe en nule cité dou monde [R «che siano in tutto il mondo»], et voç
+         dirai quelz. Tout avant voç ‹di› qe toutes les chieres chouses qe vienent de <term ref="#india">Y‹n›die</term>, ce sunt pieres presiouses et perles et toutes autres chieres chouses, sunt aportés
+         a cestes villes. Et encore, toutes les belles chouses et toutes les chieres [R «item
+         tutte le cose di valuta»] qe sunt en le provence dou <term ref="#cataio">Catay</term> et de toutes autres provences [R «della provincia del <term ref="#cataio">Cataio</term> et che sono in tutte le altre provincie»], hi sunt aportés ausint. Et ce avint por
+         le seingnors qui hi demore, et por les dames et por les baronz et por la grant habundançe
+         de la moutitude de les jens, de{s} les hostes et d’autres jens qe hi vienent por achaison
+         de la cort [R «per causa della corte»] qe le <term ref="#gran-can">Grant Sire</term> hi tien{en}t. Et por ce qe je voç ai contés, a ceste ville vienent plus chieres chouses
+         et de greingnor vailance, et les greignor quantités que en nulle ville [R «che in
+         alcuna altra città»] dou munde; et plus merchandies [R «piú mercantie»] hi se vendent
+         et achatent, car sachiés de voir qe chascun jor hi entre en ceste ville plus de .M.
+         [R «ogni giorno v’entrano piú di mille»] charete chargiés de soie, car il se laborent
+         maint dras d’ors et de soie». Un dettaglio assente in F che Ramusio potrebbe aver
+         recuperato da P o, più probabilmente da L, è il riferimento alle spezie: R «et tutte
+         le speciarie», P «et aromata», L «et universe species». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

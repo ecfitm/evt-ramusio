@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-140</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-140">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXL</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-140_1_1" n="1"> Ci dit de la cité de <term ref="#paughin">Pauchin</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-140_2_1" n="1"> Quant l’en se part de <term ref="#coiganzu">Coigangiu</term>, il ala ver yseloc une jornee por une chaucie qe est a l’entree dou <term ref="#mangi">Mangi</term>; et ceste caucie est faite de mout belles pieres, et, dejouste la chaucie, et de
+         le un les et de l’autre, ha eive; et en la provence ne se puet entrer for qe por ceste
+         chaucie. </seg>
+      <seg xml:id="f-null-140_2_2" n="2"> A chief de ceste jornee, treuve l’en une cité, qe est apelés <term ref="#paughin">Pauchin</term>, qe mout est bielle cité et grant. Il sunt <term ref="#idolatri">ydules</term> et font ardoir les cors mors. Il sunt au <term ref="#gran-can">Grant Kan</term>. Lor monoie ont de carte. Il vivent de mercandies et d’ars; soie ont en grant |63a|
+         abundance, dras de soie et dorés de maintes faisonz hi se font asez. Des chouses de
+         vivre ont a grant plantee. </seg>
+      <seg xml:id="f-null-140_2_3" n="3"> Mes autres couse ne i ha qe face a mentovoir, e por
+         ce laieron de ceste et voç parleron d’une autre cité qe est apellés <term ref="#caim">Caiu</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-36-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>P III 40 2 attribuisce il catalogo degli animali ai messi: «[…] dixerunt […] et quod ibi erant
+         girarfe et onagri in copia magna et alia animantia multa quorum species in nostris
+         regionibus non habemus» (VA CXLIX 24 presenta una formula puramente referenziale: «El ge n’è zirafe e asini salvadegi
+         assai e molte bestie devixà dalle nostre»). La soluzione di P appare pure in VB CLX 23 «Contòno quei mesaci che sula dita isolla i àno çirafe assai e alltre molto diverse
+         bestie e aseni salvatichi asai».</p>
+	<p>L’andatura referenziale della pericope ramusiana si ritrova negli altri relatori,
+         a partire da F CXC 16 «Il hi a giraffe aseç et asnes sauvajes ausint. Il ont si divissement bestes et oisiaus
+         des nostres que ce seroit mervoille a oïr et greingnor a veoir»: vedi <ref type="witlink" target="#z-null-124">Z 124 38-39</ref> «Ibi sunt multe giraffe et asini silvestres. Et habent bestias et aves tam diversas
+         a nostris quod est mirabile ad videndum»; L 177 13 «Sunt eciam ibi ziraffe multe, et asini silvestres similiter; et breviter bestie
+         ille et aves omnes sunt in tantum a nostris differentes, quod mirabile esset audire
+         mirabiliusque videre »; V 106 16 «[…] anchora lì sono molte zirafe et axeni salvadegi; et àno bestie et oxelli molti
+         diversi dai nostri […]». Si può quindi ipotizzare che Ramusio abbia qui rielaborato
+         un frammento di Z. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-74</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-74">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, LXXIV</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-74_2_1" n="1"> Ancora sapiate che ’l <term ref="#gran-can">Gran Chaan</term> à lionpardi asai afaitadi a prender bestie a chaza, e anchora lovi zervieri afaitati
+         a chaza, et sono tropo boni a ziò. </seg>
+      <seg xml:id="va-null-74_2_2" n="2"> Anchora sì à lioni grandisimi, maziori cha
+         queli de <term ref="#babilonia">Babilonia</term>, et sono bellisimi, e àno el suo pello vergato per longo, negro e vermeglio ‹e› biancho,
+         et sono tropo bella cossa a vedere. </seg>
+      <seg xml:id="va-null-74_2_3" n="3"> Quelli lioni sono alchuni afaitadi a prender
+         zengiari, orsi, buò salvadegi, zervi, chavrioli e <term ref="#asini-salvatichi">axeni salvadegi</term> e tute altre bestie salvadege. </seg>
+      <seg xml:id="va-null-74_2_4" n="4"> E quando i voleano chazar chon i lioni, i portano
+         do de quelli lioni su una chareta, e zaschuno lion à ‘l suo chanuol pizolo. </seg>
+      <seg xml:id="va-null-74_2_5" n="5"> E
+         anchora à el <term ref="#gran-can">Gran Chaan</term> moltitudine de aquille che èno afaitade a prendere lievore, volpe, chapriuole, daineti
+         e lupi. </seg>
+      <seg xml:id="va-null-74_2_6" n="6"> Quelle che prendeno i lupi sono grandenisime e forte, sì che el nonn è
+         lupo ch’elle non prendano.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

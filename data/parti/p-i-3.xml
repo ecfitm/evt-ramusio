@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-3">
+    <head>
+      <hi rend="bold">P, I 3</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-3_2_1" n="1"> Cum autem <term ref="#gran-can">Magni Kaam</term> conspectui sunt oblati, ipse rex qui summe benignus erat, eos suscepit alacriter.
+         </seg>
+      <seg xml:id="p-i-3_2_2" n="2"> Inquisivit vero ab eis per multas vices de condicionibus occidentalium regionum,
+         de imperatore romano et de regibus et principibus christianis et qualiter in eorum
+         regnis fuerant iusticia et qualiter in rebus bellicis se haberent; inquisivit etiam
+         diligenter de moribus latinorum, super omnia autem interrogavit diligenter de Papa
+         christianorum et de cultu fidei christiane. Ipsi autem, ut viri prudentes, sapienter
+         et seriatim ad singula responderunt propter quod sepe eos ad se introduci iubebat
+         habueruntque graciam in oculis eius.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

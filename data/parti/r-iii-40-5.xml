@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-40-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>La pericope di R si compone di due elementi, il secondo dei quali – «[…] perché questa
+         […] con le sue navi» – non ha attestazione nella tradizione (e pare una glossa esplicatrice/amplificatrice);
+         nel primo, Ramusio focalizza come <hi rend="italics">topic</hi> la ricchezza del signore di  <term ref="#adem">Adem</term>, indicandone la causa nel reddito che gli viene dai diritti di passaggio ­ – in tutta
+         la tradizione l’ordine dei termini è invertito, giusta F CXCIII 6 «Et si voç di que le <term ref="#soldan">sodan</term> de <term ref="#adem">Aden</term> a mout grant rente e grant treçor dou grant droit qu’il prent des nes e des mercaans
+         qe vont et vi‹ene›nt en sa tere. Et si voç di tout voir‹mant› que, por ceste acaison
+         que je voç ai dit dou gran droit qu’il a des mercant que vienent en sa terre, il est
+         un des plus riches rois dou monde».</p>
+	<p>Ramusio insiste sui caratteri marinareschi del commercio della regione, tratto assente
+         in <ref type="witlink" target="#p-iii-46-1-6">P III 46 5</ref> «Rex autem <term ref="#adem">Aden</term> introitus tam magnos recipit de mercacionibus que per suum territorium deducuntur
+         quod ob proventus innumeros ipse unus de ditioribus regibus est qui in mundo sint»
+         (modellato su VA CLII 8 «Lo <term ref="#soldan">soldan</term> de <term ref="#adem">Aden</term>, per la gran intrada e per el gran texoro ch’el rezeve chontinuamente da’ marchadanti
+         che menano le merchadantie per le sue contrade, è uno de plui richi che sia al mondo»);
+         per questa ragione il modello più probabile risulta, ancora una volta, Z 127 12-13: «Et <term ref="#soldan">soldanus</term> <term ref="#adem">Aden</term> habet magnam rectitudinem a mercatoribus qui in suam terram cum navibus veniunt.
+         Et propter magnam rectitudinem quam percipit a mercatoribus venientibus ad terram
+         suam, ditissimus est thesauro»; più generiche (per modificazioni / omissioni di dettagli)
+         sono le lezioni di V 109 7 «Et el <term ref="#soldan">Soldan</term> àno gran dazio da questi marchadanti che in le suo’ tere portano le lor marchadantie
+         chon le suo’ nave, per la gran lialtà ch’el fano ai marchadanti: et per questo el
+         sono deli più richi re del mondo» (<hi rend="italics">lialtà</hi> pare un chiaro errore di traduzione), L 183 7 «Et hic est portus maximi redditus, qua re <term ref="#soldan">soldanus</term> iste est ex ditioribus mundi dominis» e VB CLXV 6 «El soldan de <term ref="#adem">Aden</term> traçe grande utillità de’ dreti delle marchadantie chapitano de <term ref="#india">India</term> ai suo’ porti».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

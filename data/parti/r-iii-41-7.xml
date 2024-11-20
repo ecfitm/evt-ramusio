@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-41-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>La pericope (che Ramusio anticipa di posizione rispetto ai suoi modelli: vedi nota
+         alla rubrica di <ref type="witlink" target="#r-iii-41">R III 41</ref>) nasce dalla unione di due tessere distinte: (1) un’informazione affine a <ref type="witlink" target="#p-iii-46-1-6">P III 46 15</ref> «In hac regione sunt verveces statura parvi, qui neque aures habent omnino, neque
+         formam aliquam [<hi rend="italics">sic</hi>?] loco aurium, sed ubi animalia cetera aures habent, habent duo cornua parvula» (<hi rend="italics">formam aliquam</hi> è, nei codici da noi consultati, probabile deformazione di *<hi rend="italics">foramen</hi>, attestato in VA CLII 20 – «El ge n’è moltoni pizolli che non àno orechie nì forame in la testa, ma in luogo
+         delle orechie àno do chornexelle pizole» – e negli altri relatori); (2) la lezione
+         eccentrica di VB CLXVI 9 «Àno moltoni che àno l’orechie dove i altri à el naso, el naso dove i altri àno le
+         orechie».</p>
+	<p>Si noti, a conferma della dipendenza di R da P, che l’una ricava dall’altra (e da
+         VA) l’assenza della valutazione estetica dei montoni che caratterizza le altre redazioni:
+         F CXCIV 4 «Et si voç di encore un autre couse: car sachiés tuit voiremant que il ont montonz
+         que ne ont orilles ne{s} les pertuis des oreilez, mes, la on les oreilz dovoit estre,
+         a un peitet cornet; il sunt petites bestes et beles»; Z 128 15 «Arietes quidem sine auribus habent, neque aliquod foramen aurium habent, sed ubi
+         aures esse debent est unum parvum cornu; et parve bestie sunt et pulcre»; L 184 8 «Arietes habent pulcherrimos valde et parvos, qui carent auribus neque enim foramen
+         aurium videntur habere, sed in loco aurium habent parvos corniculos»; V 110 6 «Et àno moltoni senza rechie, et non àno negun buxo ale rechie, et dove di’ esser
+         el buxo sì sono uno chorno, et sono pizolle bestie e belle».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

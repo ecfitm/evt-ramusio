@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-6" n="1">
+    <head>
+      <hi rend="bold">R, III 6</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-6_1_1" n="1"> Della contrada di <term ref="#ziamba">Ziamba</term>, et del re di detto regno, et come si fece tributario del <term ref="#gran-can">Gran Can</term>. Cap. 6.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-6_2_1" n="1"> Hor ritorniamo al primo trattato, cioè che partendosi da <term ref="#zaitum">Zaitum</term>, poi che si ha navigato al traverso di questo colfo (come si ha detto di sopra) millecinquecento
+         miglia, si trova una contrada nominata <term ref="#ziamba">Ziamba</term>, la quale è molto ricca et grande. </seg>
+      <seg xml:id="r-iii-6_2_2" n="2"> Reggesi dal proprio re, et ha favella da per sé. </seg>
+      <seg xml:id="r-iii-6_2_3" n="3"> Le sue genti <term ref="#idolatri">adorano gl’idoli</term>, et danno tributo al <term ref="#gran-can">Gran Can</term> di elefanti et legno d’<term ref="#aloe">aloe</term> ogni anno: et narraremovi il come et perché. </seg>
+      <seg xml:id="r-iii-6_2_4" n="4"> Avvenne che <term ref="#cublai-can">Cublai</term> <term ref="#gran-can">Gran Can</term> nel 1268, intesa la gran ricchezza di questa isola, volse mandar un suo barone nominato
+         <term ref="#sagatu">Sagatu</term>, con molte genti a piedi et a cavallo, per acquistarla, et mosse gran guerra a quel
+         regno. </seg>
+      <seg xml:id="r-iii-6_2_5" n="5"> Et il re, ch’era molto vecchio, nominato <term ref="#accambale">Accambale</term>, non havendo genti con le quali potesse far resistenza alle forze di esso <term ref="#gran-can">Gran Can</term>, si ridusse alle fortezze de’ castelli et città, ch’erano sicurissime et difendevasi
+         francamente. </seg>
+      <seg xml:id="r-iii-6_2_6" n="6"> Ma i casali et habitationi ch’erano per le pianure furono rovinate et guaste, et
+         il re, vedendo che queste genti distruggevano et rovinavano del tutto il suo regno,
+         mandò ambasciadori al <term ref="#gran-can">Gran Can</term>, isponendoli che essendo egli huomo vecchio et havendo sempre tenuto il suo regno
+         in tranquilla pace, li piacesse di non volere la destruttione di quello, ma che, volendo
+         indi rimovere detto barone con le sue genti, li farebbe honorati presenti ogni anno,
+         con il tributo di elefanti et di legno aloe. </seg>
+      <seg xml:id="r-iii-6_2_7" n="7"> Il che intendendo il <term ref="#gran-can">Gran Can</term>, mosso a pietà, comandò subito al detto <term ref="#sagatu">Sagatu</term> che dovesse partirsi et andare ad acquistar altre parti, il che fu eseguito immediate.
+         [8] Et da quel tempo in qua il re manda al <term ref="#gran-can">Gran Can</term> per tributo ogni anno grandissima quantità di legno di <term ref="#aloe">aloe</term>, et venti elefanti de’ piú belli et maggiori che trovar si possano nelle sue terre:
+         et in tal modo questo re si fece suddito del <term ref="#gran-can">Gran Can</term>. [9] Hora, lasciando di questo, diremo delle conditioni del re et della sua terra. [10] Et prima, in questo regno alcuna donzella di conveniente bellezza non si può maritare
+         se prima non è presentata al re, et se la gli piace se la tiene per alcuno tempo,
+         et poi le fa dare tanti danari che, secondo la sua conditione, la si possa honorevolmente
+         maritare. [11] Et messer Marco Polo nel 1280 fu in questo luogo, et trovò che ’l detto re havea
+         trecento et venticinque figliuoli tra maschi et femmine, i quali maschi per la maggior
+         parte erano valenti nell’armi. [12] Sono in questo regno molti elefanti et gran copia di legno di <term ref="#aloe">aloe</term>; sonvi anchora molti boschi di <term ref="#ebano">ebano</term>, il qual è molto nero, et fannosi di quei bellissimi lavori. [13] Altre cose degne di relatione non vi sono, onde, partendoci di qui, narreremo dell’isola
+         chiamata <term ref="#giava">Giava Maggiore</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

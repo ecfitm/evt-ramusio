@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-28-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-28">
+      <note>
+	<p>Il passo di R dipende da Z, come dimostra la corrispondenza, esatta seppur incompleta,
+         con la versione scorciata di Z toledano (<ref type="witlink" target="#z-null-24">Z 24 8-9</ref> «Ibi habundant silvestria multa, et specialiter arietes maximi. Et illic sunt lupi
+         infiniti, qui multos ex illis arietibus comedunt et occidunt»).</p>
+	<p>Il riferimento ai branchi di lupi (R e Z toledano), e quello ai mucchi d’ossa di montone
+         utilizzati come segnaletica stradale (solo R, &lt; Z1) sono <hi rend="italics">addenda</hi> del tutto privi di riscontro altrove: vd. infatti <ref type="witlink" target="#f-null-49">F XLIX 10-11</ref> («Il hi a grant abondance de toutes sauvagines; il hi a grant moutitude de mouton
+         sauvages qe sunt grandisme, car ont les cornes bien .VI. paumes et ao main .IIII.
+         ou .III.; et de cest cornes font le pastore grant escueles la o il mengiunt. Et encore,
+         les pastres, de ceste cornes encludent les leus ou il tienent lor bestes»), <ref type="witlink" target="#l-null-44">L 44 6-7</ref> («[…] et est hic maxima habundantia silvestrium bestiarum. Est enim inter alia multitudo
+         maxima arietum silvestrium, qui sunt maximi. Et habent cornua aliqui longitudinis
+         .VI. palmorum aliqui quatuor aliqui tribus, ex quibus pastores faciunt magnas et multas
+         perasides in quibus commedunt; de hiis eciam cornibus claudunt loca ubi conservant
+         suas bestias in modum stabulorum»), <ref type="witlink" target="#p-i-37">P I 37 8</ref> («Silvestria animalia multa ibi sunt: inveniuntur etiam ibi silvestres arietes maximi,
+         habentes cornua longa palmis sex aut quatuor sive tribus, de quibus scutelle et vasa
+         alia fiunt, insuper etiam pastores sibi de cornibus illis concludunt domunculas»),
+         <ref type="witlink" target="#v-null-26">V 26 11</ref> («Et lì sono gran abondanzia de salvadexine, et sono gran chopia de buò salvadegi,
+         ed à le chorne grande sie palmi, e de queste chorne li pastori se ne fa gran schudele
+         e chadini neli qual i manza dentro; et anchora li pastori sera chon queste chorne
+         là dove i tien li animali»), <ref type="witlink" target="#vb-null-32">VB XXXII 8</ref> («Ène abondancia de tutte salvadessine; sòne moltoni salvatechi estremi grandi: ànno
+         le chorna grandissime, longe mesurate spana .VI. e molto grosse, dele qual i abitanti
+         se ne fano schudele da mangiare, e vèndesene in quantità che fino portatti in alltri
+         paexi»).</p>
+	<p>R «fanno scodelle <hi rend="italics">et vasi</hi>» pare debitrice di P («scutelle et vasa»), ma non è detto che la coppia, attestata
+         anche in V («se ne fa <hi rend="italics">gran schudele e chadini</hi>»), non fosse pure in Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

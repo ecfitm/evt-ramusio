@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-74-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-74">
+      <note>
+	<p>Le fonti di R – a parte P, che reca un testo abbreviato – non presentano in questo
+         punto varianti significative: <ref type="witlink" target="#l-null-138">L 138 8</ref> «Et sunt gentes mercatores et artiste, et habent sericum in maxima quantitate, et
+         zinziber et galangam […]»; <ref type="witlink" target="#p-ii-68">P II 68 2</ref> «Ibi est sericum, çinçimber et galanga in maxima copia»; <ref type="witlink" target="#v-null-78">V 78 8</ref> «La zente di quela viveno de marchadantie et arte; […] lì non sono zenzero ní galanga»;
+         <ref type="witlink" target="#vb-null-120">VB CXX 15-16</ref> «e viveno de mestieri e marchadantie. Àno gengero e gallanga in gran quantitade»;<ref type="witlink" target="#z-null-88-1-16"> Z 88 19</ref> / <ref type="witlink" target="#z-null-88-1-16">Z 88 21</ref> «Vivunt gentes de mercimoniis et artibus. […] Ibi nascitur çinçiber et galanga» (corrispondente
+         per larga parte a <ref type="witlink" target="#f-null-154">F CLIV 11-12</ref> «Il vivent de mercandies et d’ars; […] Il hi nasent gengibre et galenga aseç»). Alcune
+         rispondenze nella seconda parte della pericope (VB «<hi rend="italics">Àno</hi> gengero e gallanga in <hi rend="italics">gran</hi> quantitade» ~ R «et <hi rend="italics">hanno</hi> zenzero et galanga in <hi rend="italics">gran</hi> quantità») suggeriscono che qui Ramusio si sia attenuto a VB.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

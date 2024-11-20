@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-38</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-38">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XXXVIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-38_1_1" n="1"> Ci devise de la grant cité et noble de <term ref="#cobinam">Cobinan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-38_2_1" n="1"> <term ref="#cobinam">Cobinan</term> est une grant cité. </seg>
+      <seg xml:id="f-null-38_2_2" n="2"> Les gens aore <term ref="#macometto">Maomet</term>. </seg>
+      <seg xml:id="f-null-38_2_3" n="3"> Il hi a fer et acer et ondanique aseç. </seg>
+      <seg xml:id="f-null-38_2_4" n="4"> Et hi se font mireor d’accer mout
+         biaus et grant. </seg>
+      <seg xml:id="f-null-38_2_5" n="5"> Et iluec se fait la tutie, qui est mout bone as iaus; et encore
+         hi se fait le spodio: et voç dirai comant il le font. </seg>
+      <seg xml:id="f-null-38_2_6" n="6"> Il prenent une voi‹n›e de
+         tere que est boine a ce faire; il la metent en une fornace de feu ardan, et desus
+         la fornace a graticule de fer; et le fum et le humidor qui oisse de celle terre que
+         si prent a la graticule de{l} fer, ce est tutia; et cel que de celle terre remest
+         el feu, est spodio. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-38_3_1" n="1"> Et or laison de cest cité et alon avant.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

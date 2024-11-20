@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-69</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-69">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, LXIX</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-69_2_1" n="1"> Ancora sapiate che li <term ref="#tartari">Tartari</term> fano tuti festa de soa natività de Chublai. </seg>
+      <seg xml:id="va-null-69_2_2" n="2"> El <term ref="#gran-can">Gran Chaan</term> naque a dì |35v| vintioto setenbrio. </seg>
+      <seg xml:id="va-null-69_2_3" n="3"> In quel dì fa ’lo la mazior festa ch’el
+         faza in tuto l’ano, trato quella ch’el fa in chavo del’ano sechondo che nui ve diremo.
+         </seg>
+      <seg xml:id="va-null-69_2_4" n="4"> Or sapiate che ’l dì della natività soa lo <term ref="#gran-can">Gran Chaan</term> se veste de drapo nobelisimo ch’è tuto d’oro batuto; e ben dodexemilia baroni e chavalieri
+         se vesteno chon lui de uno cholor a una maniera, sechondo el muodo della vestimenta
+         del segnior, ma non tanto bella; ma tuti sono drapi de seta e d’oro. </seg>
+      <seg xml:id="va-null-69_2_5" n="5"> E piuxor
+         de queste vestimente valle, chon le priede e chon le perle che èno suxo, più de diexemillia
+         bexanti d’oro. </seg>
+      <seg xml:id="va-null-69_2_6" n="6"> E sapiate che ’l <term ref="#gran-can">Gran Chan</term> dona tredexe fiade al’ano riche vestimente a dodexe‹milia› baroni e chavalieri; e
+         quelli dodexe‹milia› baroni e chavalieri sì li vesteno tuti de una senbianza chon
+         esso si. </seg>
+      <seg xml:id="va-null-69_2_7" n="7"> E ‹a› questo podé chreder chome è ’l <term ref="#gran-can">Gran Segnior</term>, ch’el non [è re] al mondo che podesse mantegnir continuamente una chussì grande
+         chossa chome è questa.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

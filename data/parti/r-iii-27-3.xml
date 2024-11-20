@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-27-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-27">
+      <note>
+	<p>La collocazione della pericope dipende – come s’è detto nella nota a <ref type="witlink" target="#r-iii-27">R III 27 1</ref> – dall’adozione da parte di Ramusio dell’ordine di <ref type="witlink" target="#p-iii-33">P III 33 2</ref>; la forma dell’espressione congiunge «Incole regionis» di P con «<term ref="#idolatri">adorant ydola</term>» di Z 115 1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

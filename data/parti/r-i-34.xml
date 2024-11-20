@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-34</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-34" n="1">
+    <head>
+      <hi rend="bold">R, I 34</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-34_1_1" n="1"> Della provincia di <term ref="#ciarcian">Ciarcian</term>, et delle pietre de <term ref="#diaspri">diaspri</term> et <term ref="#calcedonio">calcedonii</term> che si trovano nei fiumi et sono portati in <term ref="#aucata">Aucata</term>; et come gli habitanti fuggono nei diserti come passa l’essercito de’ <term ref="#tartari">Tartari</term>. Cap. 34.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-34_2_1" n="1"> <term ref="#ciarcian">Ciarcian</term> è una provincia della <term ref="#gran-turchia">Gran Turchia</term>, intra <term ref="#greco">greco</term> et levante; già fu nobile et abondante, ma da’ <term ref="#tartari">Tartari</term> è stata destrutta. </seg>
+      <seg xml:id="r-i-34_2_2" n="2"> Le sue genti osservano la legge di <term ref="#macometto">Macometto</term>. </seg>
+      <seg xml:id="r-i-34_2_3" n="3"> Sono in detta provincia molte città et castelli, ma la città maestra del regno è
+         <term ref="#ciarcian">Ciarcian</term>. </seg>
+      <seg xml:id="r-i-34_2_4" n="4"> Vi sono molti fiumi grossi, nelli quali si trovano molti <term ref="#diaspri">diaspri</term> et <term ref="#calcedonio">calcedonii</term> che si portano fino ad <term ref="#aucata">Ouchach</term> a vendere, et di quelli ne fanno gran mercantia, per esservene gran copia. </seg>
+      <seg xml:id="r-i-34_2_5" n="5"> Da <term ref="#peym">Peym</term> fino a questa provincia et ancho per essa è tutta arena, et sonvi molte acque triste
+         et amare, et in pochi luoghi ve n’è de dolci et buone. </seg>
+      <seg xml:id="r-i-34_2_6" n="6"> Et quando avviene che qualche essercito de’ <term ref="#tartari">Tartari</term>, cosí di amici come de nimici, passa per quelle parti, se sono nimici depredano tutti
+         i suoi beni, et se sono amici uccidono et mangiano tutte le loro bestie: et però,
+         quando sentono che deono passare, subitamente con le mogli, con figliuoli et bestie
+         fuggono nell’arena per due giornate, a qualche luogo dove siano buone acque et che
+         possino vivere. </seg>
+      <seg xml:id="r-i-34_2_7" n="7"> Et sappiate che, quando raccoglieno le loro biade, le ripongono lontano dalle habitationi
+         in quelle arene, in alcune caverne, per paura degli esserciti, et d’indi riportano
+         le cose necessarie a casa di mese in mese; né altri che essi cognoscono que’ luoghi,
+         né mai alcuno può sapere dove vadano, perché soffiando il vento subito cuopre le loro
+         pedate con l’arena. [8] Et poi, partendosi da <term ref="#ciarcian">Ciarcian</term>, si va per cinque giornate per l’arena, dove sono cattive acque et amare, et in alcuni
+         luoghi sono buone et dolci, ma non vi sono altre cose che siano da dire. [9] Et al fine delle cinque giornate si trova una città detta <term ref="#lop">Lop</term>, la quale confina col gran deserto.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

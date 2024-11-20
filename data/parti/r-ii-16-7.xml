@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>Anche in questa pericope, come nelle precedenti, il testo di R rispecchia <ref type="witlink" target="#f-null-93">F XCIII 11</ref> «Et en ceste mainere ne se poent perdre nulle chouse qe ne soient trouvee et rendues»,
+         piuttosto che quello di <ref type="witlink" target="#p-ii-19">P II 19 6</ref> «[…] et sic nichil ibi potest amitti […]», o di <ref type="witlink" target="#v-null-44">V 44 5</ref> «[…] e per questo muodo nesuna chossa se perde». L omette il passo, mentre VB e Z
+         omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

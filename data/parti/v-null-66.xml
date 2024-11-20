@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-66</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-66">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 66</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-66_2_1" n="1"> ‹Q›uando el se parte da questa zitade el se va do zornade inverso el mezodì per
+         belle chontrade, abondante de ogni fruti et de chazaxon de tute maniere, de bestie
+         salvadege et oxelli. </seg>
+      <seg xml:id="v-null-66_2_2" n="2"> Et in chavo de do zornade se trova una zità chiamata <term ref="#vagiu">Vigui</term>, la qualle sono molto richa, ed è gran marchadantia et arte; la zente dela qualle
+         <term ref="#idolatri">adora le idolle</term>, et fano bruxar i chorpi morti; et le lor monede sono de charta; et sono soto la
+         ssignoria del <term ref="#gran-can">Gran Chan</term>. </seg>
+      <seg xml:id="v-null-66_2_3" n="3"> Et questa zitade sono in una bella pianura et sono abondante de formenti. </seg>
+      <seg xml:id="v-null-66_2_4" n="4">
+         Or in questa nonn è altro da dire, ma anderemo più avanti. </seg>
+      <seg xml:id="v-null-66_2_5" n="5"> Partendosse da questa
+         zitade se vano do zornade per mezodì, trovando molte oxelaxon e chazaxon; et sono
+         abondanzia de formento e de tute blave. </seg>
+      <seg xml:id="v-null-66_2_6" n="6"> Et in chavo de queste do zornade se trova
+         el gran flume de <term ref="#caramoran">Charamoran</term>, che viene ale tere del <term ref="#prete-gianni">Prete Zane</term>; et sono molto grando e largo: la suo’ largeza sono uno mio, et sono sì fondido che
+         per quello puol andar gran nave; et in quello sono de molti gran pessi, et in questo
+         sono tante nave del <term ref="#gran-can">Gran Chan</term> che temo de |80v| dir lo numero azò che non para boxaro. </seg>
+      <seg xml:id="v-null-66_2_7" n="7"> Ma in queste nave porta
+         el suo’ exerzito al’ixola del mar, perché el mar è apreso questo luogo per una zornada;
+         et zaschaduna de queste nave bexogna ben vinti marinari, e porta quindexe chavalli,
+         e vituarie da una zitade al’altra, e dal’altra al’altra; l’una dele qualle nome <term ref="#coiganzu">Guagui</term>, l’altra <term ref="#quanzu">Zinguagui</term>. </seg>
+      <seg xml:id="v-null-66_2_8" n="8"> Et quando el se passa questo fiume se trova la gran provinzia de <term ref="#mangi">Mangin</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

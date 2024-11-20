@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-26-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-26">
+      <note>
+	<p>Ramusio traduce <hi rend="italics">verbatim</hi> <ref type="witlink" target="#z-null-22">Z 22 5</ref> «Sunt gentes perfide et crudeles, ac sapientes secundum mores eorum», ma l’agg. <hi rend="italics">astute</hi> – laddove Z ha <hi rend="italics">sapientes </hi>(&lt; francoit. <hi rend="italics">sajes</hi>) – è probabile ripescaggio da <ref type="witlink" target="#p-i-35">P I 35 2</ref> «Homines habet nigros, astutos et malos […]» (&lt; <ref type="witlink" target="#va-null-34">VA XXXIV 4</ref> «Et è zente molto malizioxa e schaltrita […]»). </p>
+	<p>L’endiadi di Z «perfide et crudeles» amplifica F <hi rend="italics">malisieuse</hi>  “malignamente astuta” (<hi rend="italics">AFW</hi>, V, s. v.): vd. <ref type="witlink" target="#f-null-47">F XLVII 5</ref> «Il sunt molt malisieuse jens et sajes de lor costumes». L’aggettivo è tradotto con
+         <hi rend="italics">perfida</hi> (<hi rend="italics">zente</hi>) anche in <ref type="witlink" target="#v-null-25">V 25 3</ref> «[…] et sono perfida zente asai in li lor chostumi», mentre perde la connotazione
+         negativa in <ref type="witlink" target="#vb-null-30">VB XXX 2</ref> «[…] è bruta giente e sono grandissimi negromanti; sono omeni savii et molto schaltridi».
+         <ref type="witlink" target="#l-null-42">L 42 3</ref>, infine, segue da vicino F anche nelle opzioni lessicali: «[…] et sunt malitiosi
+         ‹et sapientes› secundum eorum consuetudines».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

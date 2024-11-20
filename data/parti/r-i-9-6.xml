@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-9-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-9">
+      <note>
+	<p>Al netto di qualche sviluppo glossatorio (<hi rend="italics">possint</hi> <hi rend="italics">detrahere</hi> Z &gt; <hi rend="italics">tolgono e robbano</hi> R; <hi rend="italics">cogerentur</hi> Z &gt; <hi rend="italics">fossero proibiti e ritenuti</hi> R; <hi rend="italics">dominio</hi> Z &gt; <hi rend="italics">il suo signore che governa</hi> R) Ramusio traduce esattamente <ref type="witlink" target="#z-null-8">Z 8 7-9</ref> «Saraceni autem <term ref="#thauris">Thoris</term> perfidi sunt et mali: nam ex lege sui <term ref="#macometto">Macometi</term> habent quod, quomodocumque possint detrahere gentibus non inherentibus sue legi,
+         ad nulum eis imputatur peccatum. Et si Christiani eos occiderent vel aliquod gravamen
+         eis infferrent, inter sse martires reputantur. Et ob ista‹m› causa‹m›, nisi cogerentur
+         dominio, quam plura mala comiterent». La lezione del toledano è piuttosto vicina 
+         a <ref type="witlink" target="#f-null-29">F XXIX 8</ref> «Les saraïn de <term ref="#thauris">Toris</term> sunt mout mauveis et desloiaus, que la loi qe lor profete <term ref="#macometto">Maomet</term> a lor doné comande que tout le maus qu’il puent faire a toutes jens qe ne soi{n}ent
+         de lor loy et tout cel qe il puent lor tolir ne n’unt nul pechiés, et por cest couse
+         feroient il mout maus se no fuse por la segnorie», dal quale si differenzia per una
+         lieve sfrondatura delle ridondanze e per l’aggiunta dell’accenno ai martiri islamici,
+         condiviso, oltreché da R, anche da <ref type="witlink" target="#v-null-16">V 16 6</ref> «[…] et se li christiani ferisse ho alzide algun Sarain, de quel i vien reputadi
+         martori […]».</p>
+	<p>Le altre fonti ramusiane eliminano radicalmente il passo (L, P) o lo sunteggiano drasticamente
+         (<ref type="witlink" target="#vb-null-18">VB XVIII 5</ref>: «Chiamasse el popolo de quella cità Tauriti, i qual sono crudellissima çente di
+         pocha bontade et men fede»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

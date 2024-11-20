@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-66</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-66">
+    <head>
+      <hi rend="bold">P , II 66</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-66_2_1" n="1"> Progrediendo autem ulterius a civitate <term ref="#quinsai">Quinsay</term> per syrocum continue inveniuntur per dietam unam viridaria pulcra et optima cultura
+         terrarum; post dietam vero invenitur civitas <term ref="#tapinzu">Tampinguy</term> que magna nobilis et pulcra est valde. </seg>
+      <seg xml:id="p-ii-66_2_2" n="2"> Ultra civitatem <term ref="#tapinzu">Tampinguy</term> ad tres dietas est civitas <term ref="#uguiu">Uguy</term>. </seg>
+      <seg xml:id="p-ii-66_2_3" n="3"> Per duas dietas alias per syrocum inveniuntur civitates et castra que tantam contiguitatem et continuacionem habent
+         ut videatur viatori per unicam civi|68a|tatem transitum facere. </seg>
+      <seg xml:id="p-ii-66_2_4" n="4"> Ibi est omnium
+         victualium copia magna. </seg>
+      <seg xml:id="p-ii-66_2_5" n="5"> Ibi sunt arundines grossiores quam in tota illa provincia
+         habeantur: habent enim latitudinis palmos quatuor et longitudinis passus .XV. </seg>
+      <seg xml:id="p-ii-66_2_6" n="6">
+         Ultra duas dietas est civitas <term ref="#gengui">Ghengui</term> grandis et pulchra. </seg>
+      <seg xml:id="p-ii-66_2_7" n="7"> Postmodum itur dietas quatuor per syrocum et inveniuntur
+         continue civitates et castra. </seg>
+      <seg xml:id="p-ii-66_2_8" n="8"> In hac regione multi leones sunt feroces valde et
+         fortes et magni; in hac regione et etiam in provincia <term ref="#mangi">Mangy</term> non verveces sed boves, capre, yrci et sues ibi sunt in copia maxima. [9] Post illas
+         quatuor dietas invenitur civitas Ciangiam grandis valde, que in monte sita est, qui mons in duas partes flumen dividit, que
+         postmodum ad oppositas sibi plagas tendunt. [10] Rursus itur per dietas tres et invenitur
+         civitas <term ref="#singui">Cinguy</term> que ultima est in dominio civitatis <term ref="#quinsai">Quinsay</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

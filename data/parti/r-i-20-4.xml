@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-20-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-20">
+      <note>
+	<p>R ribadisce alla lettera <ref type="witlink" target="#z-null-16">Z 16 7</ref> «Civitates et castra abundant in omnibus pulcris et bonis, quia patria bone complexionis
+         est, videlicet non multum calida et non multum frigida, sed temperata», fin nella
+         chiosa pleonastica <hi rend="italics">sed temperata</hi>, priva di riscontro nella tradizione. Z è, come al solito, il più vicino alle movenze
+         di <ref type="witlink" target="#f-null-39">F XXXIX 6</ref> «Les viles et les ca{u}staus ont grande abundance de toutes chouses bones et beles,
+         car le païs est trop bien conpasionés, ne trop caut ne trop froit». </p>
+	<p>Assai prossimi a F, ma con qualche elemento di scarto, sono pure <ref type="witlink" target="#v-null-20">V 20 45</ref> («Et in le zitade e chasteli sono abondanzia de tute chosse perché la patria sono
+         in bel luogo, et nonn è ní gran chaldo ní gran fredo») e <ref type="witlink" target="#vb-null-25">VB XXV 6</ref> («In questa provincia v’è molte citade et chasteli et è provincia de tute chosse
+         abondantisima; à l’aiere molto tenperado: non v’è gran chaldi né gran fredi»); meno
+         allineati sono gli svolgimenti di <ref type="witlink" target="#l-null-34">L 34 5</ref> («Et hec regio est satis fructifera et fertilis propter bonam complexionem aeris,
+         neque enim calore neque multum superhabundat frigore») e <ref type="witlink" target="#p-i-27">P I 27 6</ref> («Tota terra habitabilis regni <term ref="#timocaim">Timochayn</term> fertilis et habundans est aerisque gaudet temperie»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

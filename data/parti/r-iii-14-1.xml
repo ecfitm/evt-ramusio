@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-14-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-14">
+      <note>
+	<p>P III 17 1 omette il riferimento alla sudditanza del re all’impero mongolo: «Regnum vero <term ref="#dragoian">Dragoiam</term>, ubi <term ref="#idolatri">coluntur ydola</term>, regem proprium et propriam linguam habet, ubi homines sunt valde silvestres» (così
+         anche il suo modello VA CXXXI 1 «L’altro regniame de questa ixolla à nome <term ref="#dragoian">Dagroian</term>. La zente àno el suo re, à el suo lenguazio et è <term ref="#idolatri">idolatra</term> e salvadega zente»; così pure in L 154 1-2 «<term ref="#dragoian">Dagroyan</term> est regnum in insula eadem. Adest hic rex, cuius gentes habent ydeoma proprium; et
+         sunt <term ref="#idolatri">ydolatre</term>, silvestres et pessimorum morum»). Il dettaglio è attestato da F CLXVII 2 «<term ref="#dragoian">Dagroian</term> est roiame por soi, et encore ont lor langajes. Il sunt de ceste ysle et ont roi.
+         Les jens sunt mout sauvajes et s’apellent por le <term ref="#gran-can">Grant Kaan</term>. Il sunt <term ref="#idolatri">ydres</term>»: alla redazione franco-veneta si allineano V 83 23 «<term ref="#dragoian">Dragaian</term> sono uno reame el qualle àno loquela per sí, et sono in questa ixola, et àno re;
+         la zente del qualle <term ref="#idolatri">adorano idolle</term>; et sono zente salvadega, et sì se apela per el <term ref="#gran-can">Gran Chan</term>» e VB CXXXVII 1-2 «<term ref="#dragoian">‹A›gragoiam</term> è el quarto reame dela dita isolla, el qualle à lingua per si et è reame per si.
+         I qualli sono come giente salvaticha e chiamassi soto el <term ref="#gran-can">Gran Can</term>; sono <term ref="#idolatri">idolatrii</term> […]».</p>
+	<p>Il modello di Ramusio è <ref type="witlink" target="#z-null-101">Z 101 1-2</ref> «<term ref="#dragoian">Dagroyan</term> regnum est per se, regem et loquelam habens. Gentes ipsius silvestres sunt, <term ref="#idolatri">adorant ydola</term> et appelantur per <term ref="#gran-can">Magnum Can</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

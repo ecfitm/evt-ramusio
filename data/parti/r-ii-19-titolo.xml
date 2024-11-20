@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-19-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-19">
+      <note>
+	<p><ref type="witlink" target="#f-null-96">F XCVI</ref> (Ci devise des .XII. baronç que sunt sor tous les fais dou <term ref="#gran-can">Gran Kan</term>); <ref type="witlink" target="#l-null-79">L 79</ref> (De .XII. regentibus imperium totum <term ref="#gran-can">Magni Canis</term>); <ref type="witlink" target="#p-ii-22">P II 22</ref> (De duodecim prefectis provinciarum et officio ac pallacio eorum. Capitulum XXII),
+         <ref type="witlink" target="#va-null-79">VA LXXIX</ref> (Dei dodexe baroni ch’àno a proveder sopra la corte del <term ref="#gran-can">Grande Chaan</term>); <ref type="witlink" target="#v-null-46">V 46</ref> (Delli dodexe baroni deputadi sopra li fati del <term ref="#gran-can">Gran Signor</term>); <ref type="witlink" target="#vb-null-68">VB LXVIII 18-23</ref>.</p>
+	<p>La lezione di R appare in questa sezione profondamente originale. Nei primi 4 parr.
+         R trasmette delle informazioni che non sono documentate né in L P V VB (Z omette il
+         capitolo) né nelle altre testimonianze poliane. Nei parr. 5, 8-10 il testo presenta
+         una serie di varianti notevoli che ugualmente lo isolano del resto della tradizione
+         del <hi rend="italics">Milione</hi>. La vicinanza con F in vari punti (parr. 5-7) suggerisce che la fonte principale
+         di Ramusio vada identificata col perduto Z1, sebbene l’assenza di Z toledano non permetta di avvalorare tale ipotesi. Anche alcune
+         affinità con V (nei parr. 5-6) potrebbero essere il riflesso, più che di un suo apporto
+         diretto, della dipendenza di R da un esemplare di Z. È probabile che alla famiglia
+         Z vada attribuita la serie di varianti originali tràdite esclusivamente dalla redazione
+         ramusiana – in particolare la distinzione tra <term ref="#thai">thai</term> e <term ref="#singh">singh</term>  R (vd. parr. 5 e 9) – che le fonti orientali coeve confermano per larga parte (vd.
+         Pelliot 1959-1973, pp. 851-852 n. 359; Bernardini, Guida 2012, pp. 130-141). Va rilevato,
+         tuttavia, che la distinzione parrebbe rispecchiare l’ordinamento dello stato di età
+         Ming (1368-1644), piuttosto che quello dell’epoca Yuan (1279-1368). Se così fosse,
+         le varianti caratteristiche di R sarebbero da considerare spurie.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

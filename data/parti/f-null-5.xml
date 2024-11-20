@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-5">
+    <head corresp="#f_body">
+      <hi rend="bold">F, V</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-5_1_1" n="1"> Comant les .II. frers vindrent au <term ref="#gran-can">Grant Kaan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-5_2_1" n="1"> Et quant mesere Nicolau et mesere Mafeu furent venu au <term ref="#gran-can">Grant Seingnor</term>, il les recevi honorablemente et fait elç grant joie et grant feste. Il a mout grant
+         leesse de lor venue; il les demande de maintes coses: primermant de les emperaors,
+         comant il mantent lor segnorie et lor tere in justice et comant il vont a bataile
+         et tous leur afer. Et aprés lor demande des rois et des princes et d’autres baron.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

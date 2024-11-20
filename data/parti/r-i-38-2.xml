@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-38-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-38">
+      <note>
+	<p>Il dettato di R, nella sua prossimità alla lezione di <ref type="witlink" target="#f-null-60">F LX 4-5</ref> – «[…] il sunt au <term ref="#gran-can">Grant Can</term>. Et la gran provence jeneraus ou ceste provence est, et ceste deus que je voç ai
+         contés en arrieres, est apellés <term ref="#tanguth">Tangut</term>» – dipende verosimilmente da Z1: manca purtroppo la conferma del lacunoso toledano, che si ferma prima (<ref type="witlink" target="#z-null-35">Z 35 4</ref> «Subduntur dominio <term ref="#gran-can">Magni Canis</term>»; lo stesso fanno <ref type="witlink" target="#p-i-48">P I 48 2</ref> e <ref type="witlink" target="#vb-null-44">VB XLIV 2</ref>). </p>
+	<p> Buona parte della tradizione antica conserva qui l’appunto geografico sulla sudditanza
+         di questa e delle due provincie descritte nei capitoli appena precedenti, alla macroregione
+         del <term ref="#tanguth">Tangut</term>: è quanto si legge in F (vd. <hi rend="italics">supra</hi>), <ref type="witlink" target="#l-null-55">L 55 3</ref> («Et magna provincia †Jereraus† in qua est hec dicta provincia, et eciam due statim
+         ante dicte, nominatur <term ref="#tanguth">Tangut</term>»; la <hi rend="italics">crux</hi> è relitto di un modello francoit.: <hi rend="italics">jereraus</hi> &lt; fr. <hi rend="italics">jeneraus</hi>), <ref type="witlink" target="#v-null-33">V 33 2</ref> («[…] et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>, chomo sono le altre provinzie dito avanti»), <ref type="witlink" target="#va-null-47">VA XLVII 6</ref> («La grande provinzia gieneral, là dove è questa provinzia de <term ref="#succuir">Fechur</term> e lle do altre provinzie che e’ ho dite de sopra, zioè <term ref="#chamul">Chamul</term> e <term ref="#chinchintalas">Chinguitalis</term>, à nome <term ref="#tanguth">Tanguett</term>»), TA (vd. Bertolucci Pizzorusso 1975, p. 82) ecc.</p>
+	<p>Conserva il dettaglio anche R, che però riferisce «questa provincia, et altre due
+         provincie <hi rend="italics">subsequenti</hi>». L’agg. <hi rend="italics">subsequenti</hi>, del tutto improprio – <term ref="#succuir">Succuir</term>  è infatti l’ultima provincia del <term ref="#tanguth">Tangut</term> descritta da Marco – è privo di riscontro nella tradizione: si può pensare che derivi
+         da un’errata interpretazione dell’avv. <hi rend="italics">avanti</hi> (inteso come “dopo”) di V; oppure, se davvero qui R dipende da Z1, il suo dettato potrebbe muovere da una stringa latina di questo tipo: *«duas proximas
+         provincias», con l’agg. <hi rend="italics">proximus</hi> inopportunamente tradotto con il significato di “seguente, successivo”.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

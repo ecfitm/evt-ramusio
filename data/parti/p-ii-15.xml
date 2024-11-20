@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-15">
+    <head>
+      <hi rend="bold">P, II 15</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-15_2_1" n="1"> In die vero Kalendarum februarii, die scilicet primo anni secundum <term ref="#tartari">Tartarorum</term> computum, <term ref="#gran-can">Magnus Kaam</term> et omnes <term ref="#tartari">Tartari</term>, ubicumque sunt, festum maximum faciunt; rex autem et barones ac milites eius, nec
+         non et reliqui Tartari, mares et femine, si possunt die illo vestibus albis induuntur
+         et vocant illius diei solemnitatem “festivitatem albam”, dicuntque vestem albam bonum
+         habere fatum et quod ex hoc anno ipso fortunam bonam habituri sunt. </seg>
+      <seg xml:id="p-ii-15_2_2" n="2"> Hac die cuncti
+         terrarum domini et rectores qui prefecturas tenent a rege, offerunt ei munera auri
+         et argenti et margaritas et gemmas vel pannos pulcherimos albi coloris, aut equos
+         albos pulcherimos; quandoque enim oblati sunt regi in hoc festo equi albi numero centum
+         milia. </seg>
+      <seg xml:id="p-ii-15_2_3" n="3"> Similiter etiam ceteri <term ref="#tartari">Tartari</term> hac die sibi invicem dona |42a| transmittunt, et multum letantur ad invicem ut ex
+         hoc ipso anno postmodum leti vivant. </seg>
+      <seg xml:id="p-ii-15_2_4" n="4"> In hoc etiam festo omnes elephantes regis
+         ducuntur ad curiam qui sunt numero circiter quinque milia, qui omnes subvestiti sunt
+         coopertura pulcherrima et varia, super quam consute sunt de panno ymagines bestiarum
+         et avium; defert autem quilibet elephas duas maximas ac pulcherimas capsas in quibus
+         sunt ‹vasa› aurea et argentea regis ali‹a›que multa pro festo albo necessaria; omnia
+         autem animalia coram regem ducuntur quoniam videre hec omnia est admirabile et iocundum.
+         </seg>
+      <seg xml:id="p-ii-15_2_5" n="5"> Mane autem scilicet die festi albi, ante quam mense parentur, omnes reges, duces,
+         barones, milites, medici, astrologi, prefecti, officiales ad magnam regis aulam conveniunt,
+         et qui in ea locari pre multitudine nequeunt in aulis collateralibus congregantur,
+         |42b| ubi a rege qui in trono residet videri optime possent, sedentque singuli ordine
+         debito iuxta sui gradus et officii dignitatem. Tunc surgens unus in medium clamat
+         voce altissima: «Inclinate et adorate»; facta hac voce consurgunt omnes celeriter
+         et genuflectunt et, fronte ad terram demisso, regem quasi deum adorant, et hoc quatuor
+         vicibus faciunt. </seg>
+      <seg xml:id="p-ii-15_2_6" n="6"> Adoracione completa, vadunt omnes suo ordine ad altare quod in
+         aula positum est, super quod tabula una est rubro colore depicta, in qua scriptum
+         est nomen <term ref="#gran-can">Magni Kaam</term> et thuribulum pulcherimum ibi preparatum accipiunt, in quo redolentia thura sunt,
+         et ad honorem <term ref="#gran-can">Magni Kaam</term> cum multa reverentia thurificant tabulam et ad sua redeunt loca. </seg>
+      <seg xml:id="p-ii-15_2_7" n="7"> Hac nepharia
+         thurificacione completa, quilibet |42c| in conspectu regis offert propria enzenia
+         de quibus est dictum supra. </seg>
+      <seg xml:id="p-ii-15_2_8" n="8"> Post hoc mense parentur et fit solemnissimum prandium
+         cum leticia maxima. [9] Post prandium autem per ioculatores solatia magna fiunt. [10]
+         In huiusmodi etiam festis leo unius domesticus ante regem adducitur qui ad pedes ipsius
+         mansuetus iacet ut catulus, quasi eum pro domino recognoscat.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

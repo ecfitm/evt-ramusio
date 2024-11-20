@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-62-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-62">
+      <note>
+	<p>Nella prima parte Ramusio segue abbastanza fedelmente <ref type="witlink" target="#vb-null-108">VB CVIII 3-4</ref> «Àno ecian gran quantità di sete e fassene de bellissimi pani de seta e de oro. Àno
+         nobellissime chaçaxon et oxellaxon […]». Nella seconda parte, l’aderenza di R al modello
+         è meno forte. La lezione «belle» deriva con ogni probabilità dal «nobelissime» di
+         VB, ma il sintagma «in gran copia» – che trova parziale riscontro in L, V e Z – dimostra
+         l’apporto anche di una seconda fonte, che tuttavia non è possibile identificare con
+         sicurezza: <ref type="witlink" target="#l-null-120">L 120 3-4</ref> «[…] faciunt enim pannos aureos et ex serico multos: habent enim sericum multum.
+         Et ‹habent› venationes multas, et breviter quecumque conveni‹un›t nobili civitati»;
+         <ref type="witlink" target="#v-null-71">V 71 2-3</ref> «Et àno seda in gran quantitade, et fano molti drapi d’oro e de seda. Et sono molte
+         chazaxon […]»; <ref type="witlink" target="#z-null-79">Z 79 4-5</ref> «Habent h‹ab›undantiam syrici et laborant drapos aureos et de syrico. Habent venationes
+         multas» (vd. <ref type="witlink" target="#f-null-145">F CXLV 3-4</ref> «[…] Il ont soie asez e font dras doré et de maintes faisonz. Il ont venejonz et
+         chaçajonç asez […]»). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

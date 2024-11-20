@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-111</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-111">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 111</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="z-null-111_2_1" n="1"> <term ref="#zeilan">Seylam</term> est quedam insula magna, prout supra retulimus in libro. </seg>
+      <seg xml:id="z-null-111_2_2" n="2"> In hac quidem insula
+         est quidam mons valde altus, ita diruptus in suis ruperibus et grotis quod nullus
+         supra ipsum asendere potest, nisi per hunc modum quem vobis dicemus. </seg>
+      <seg xml:id="z-null-111_2_3" n="3"> Quoniam ab
+         isto monte pendent multe catene de fero, taliter ordinate quod homines posunt ascendere
+         per ipsas catenas usque ad summitatem montis. </seg>
+      <seg xml:id="z-null-111_2_4" n="4"> Dicunt enim quod super ilum montem
+         est monumentum Ade, primi patris. </seg>
+      <seg xml:id="z-null-111_2_5" n="5"> Saraceni quidem dicunt quod illud sepulcrum
+         est Ade, <term ref="#idolatri">ydolatri</term> vero dicunt quod sit sepulcrum <term ref="#sogomonbarchan">Sogomoni Burghan</term>. </seg>
+      <seg xml:id="z-null-111_2_6" n="6"> Et iste <term ref="#sogomonbarchan">Sogomoni</term> fuit primus homo ad cuius nomen ydola fuerunt primitus inventa, quia, secundum eorum
+         consuetudinem et opinionem, iste fuit melior homo qui nunquam fuisset inter eos, et
+         fuit primus homo quem retinerent sanctum, ad cuius nomen ydola statuerunt. </seg>
+      <seg xml:id="z-null-111_2_7" n="7"> Iste
+         <term ref="#sogomonbarchan">Sogomoni</term> fuit filius |84v| cuiusdam magni regis, divitis et potentis, et fuit tam bone vite
+         quod noluit intendere aliquibus mundanis et noluit esse rex. </seg>
+      <seg xml:id="z-null-111_2_8" n="8"> Et cum pater vidit
+         quod filius nolebat esse rex nec aliquibus intendere mundanis, multum doluit, et ut
+         ipsum posset a proposito et voluntate huiusmodi revocare, grandia sibi promisit, videlicet
+         quod ipsum coronare ‹regem› volebat de regno et ipsum statuere dominum ad libitum
+         suum. [9] Volebat etiam refutare coronam et nichil precipere, sed solus ipse esset
+         dominus et magister. [10] Filius quidem dicebat quod nichil volebat. [11] Et cum pater
+         vidit quod filius nolebat dominium aliqua causa mundi, doluit ad mortem. [12] Et hoc
+         mirum non erat, quoniam plures filios non habebat nec habebat cui dimiteret regnum.
+         [13] Tunc rex, precogitans, dixit quod talem medicinam inducet quod filius libenter
+         inherebit mundanis, et regnum et coronam similiter acceptabit. [14] Fecit ergo eum
+         reponi in quoddam palatium et dedit ei multas puelas valde pulcras que ei serviebant.
+         [15] Nam ibi non audebat permanere aliquis masculus, nisi solummodo ille puele. [16]
+         Nam puelle ipsum ducebant ad lectum, et ei serviebant in mensa et continuo assotiabant
+         ipsum. [17] Ipse canebant, et sonabant instrumenta et faciebant ei omnia solatia que
+         poterant, secundum quod preceperat eis rex. [18] Et tamen omnes ille puele non potuerunt
+         tantum operari quod ipsum ad luxuriam |85r| provocarent. [19] Sed magis quam a principio
+         caste et firme permanebat, et ducebat sanctam vitam, secundum consuetudinem eorum.
+         [20] Et iste domicellus nunquam de palatio exiverat, et nunquam viderat aliquem virum
+         mortuum neque alium qui non fuisset sanus de membris suis, quia pater non dimitebat
+         accedere coram ipso aliquem senem vel aliquem hominem defectuosum in membris. [21]
+         Accidit enim quod quadam die iste domicellus equitabat per civitatem, et vidit quemdam
+         mortuum. [22] Quesivit ergo ab illis qui penes ipsum erant quid hoc esset; qui responderunt
+         quod erat homo mortuus. [23] Dixit itaque filius regis: «Et quomodo? ergo moriuntur
+         omnes homines?». [24] Qui responderunt quod sic. [25] Tunc domicellus nichil dixit,
+         sed equitabat ultra cogitando multum. [26] Et post hec, cum aliquantulum equitasset,
+         invenit quemdam hominem valde senem, qui ire non poterat et propter senium dentes
+         non habebat in hore. [27] Et cum filius regis hunc senem vidisset, quesivit quid esset
+         et quare ire non poterat. [28] Et illi qui secum erant dixerunt quod propter senium
+         ire non poterat, et propter senium dentes amiserat. [29] Et tunc, cum filius regis
+         bene intellexisset de sene et mortuo, reversus est ad palatium suum. [30] Et dixit
+         quod ‹non› permanebit amplius in hoc seculo |85v| fraudolenti et defectivo. [31] Sed
+         dixit quod ibit perscrutatum illum qui nunquam moritur et qui ipsum creavit. [32]
+         Discessit ergo a palatio patris sui, et ivit in montes multum devios et magnos, et
+         ibi permansit totis temporibus vite sue multum honeste et caste, et cum magna abstinencia.
+         [33] Et pro certto, si fuisset christianus, magnus sanctus exstitiset penes Dominum
+         Yesum Christum. [34] Et cum iste filius regis decessit, portatus fuit ad regem patrem
+         suum; qui, cum vidisset mortuum quem plus se dilligebat, magnum habuit dolorem. [35]
+         Et fecit statuere quamdam ymaginem ad similitudinem sui, totam de auro et lapidibus
+         preciosis. [36] Et omnes de patria honoraverunt et adoraverunt ipsum tanquam deum.
+         [37] Et dicebant quod erat deus et quod mortuus erat octuaginta quatuor vicibus. [38]
+         Nam dicebant quod quando homo in prima vice moritur eficitur bos, et postmodum iterum
+         moritur equusque efficitur. [39] Et ita dicunt quod octuaginta quatuor vicibus moritur,
+         et semper efficitur aliquod animal, vel canis vel aliquid aliud. [40] Sed in octuagesima
+         quarta vice dicunt quod mortuus est et effectus est deus. [41] Et istum habent ydola
+         adorantes pro meliori deo et pro maiori aliquo aliorum. [42] Et sic iste primus fuit
+         pro quo ydola descenderunt. [43] Et hoc |86r| fuit in insula <term ref="#zeilan">Seylan</term>, in Indya. [44] Intellexistis ergo qualiter ydola descenderunt. [45] Et illi qui adorant ydola
+         illuc veniunt de multum longinquis partibus propter devotionem, quemadmodum christiani
+         vadunt ad sanctum Iacobum. [46] Isti quidem qui adorant ydola dicunt quod illud est
+         sepulcrum filii illius regis, de quo dictum ‹est›, quod est super istum montem, et
+         quod capili, dentes et parascis, que omnia ibi sunt, fuerunt filii regis, qui nominabatur
+         <term ref="#sogomonbarchan">Sogomoni Burchan</term>, quod est dicere <term ref="#sogomonbarchan">Sogomoni</term> Sanctus. [47] Et saraceni qui illuc propter devotionem veniunt dicunt quod hoc est
+         sepulcrum Ade, nostri primi patris, et quod capilli, dentes et parascis fuerunt Ade.
+         [48] Intellexistis ergo qualiter adorantes ydola dicunt quod est iste filius regis,
+         qui fuit primus deus eorum, et saraceni dicunt quod est Adam, noster primus pater.
+         [49] Sed Deus novit quis est et quis fuit, quia nos non credimus quod in illo loco
+         sit Adam, quoniam Sancta Scriptura testatur quod sit in alia parte mundi. [50] Accidit
+         quod <term ref="#gran-can">Magnus Can</term> audivit qualiter super illum montem erat monumentum Ade et quod ibi erant dentes
+         et capilli ipsius, et parascis in qua comedebat. [51] Dixit ergo quod de necesse oportebat
+         ut haberet dentes, parascidem et capillos. [52] Et misit illuc nuncios suos, qui cum
+         magna societate arripuerunt iter, |86v| et tantum iverunt per terram et aquam quod
+         pervenerunt ad insulam <term ref="#zeilan">Seylan</term>. [53] Et iverunt ad regem et tantum procuraverunt quod habuerunt dentes maxillares,
+         qui multum erant magni et grossi. [54] Habuerunt et capillos et parascidem. [55] Parascis
+         quidem erat de quodam profilio viridi valde pulcro. [56] Et cum nuntii <term ref="#gran-can">Magni Can</term> res istas habuissent, arripuerunt iter et reversi fuerunt ad eorum Dominum. [57] Et cum fuerunt prope magnam civitatem <term ref="#cambalu">Cambalu</term>, notificaverunt <term ref="#gran-can">Domino</term> eorum adventum et ‹quod› portabant id propter quod iverant. [58] <term ref="#gran-can">Magnus Dominus</term> tunc precepit quod omnes gentes, tam religiose quam seculares, irent obviam illis
+         reliquiis, quas credebant fore Ade. [59] Et ita omnes gentes de <term ref="#cambalu">Cambalu</term> iverunt obviam reliquiis illis, et religiosi receperunt ipsas cum magna reverentia
+         et ad <term ref="#gran-can">Magnum Dominum</term> portaverunt, qui ipsas recepit cum gaudio magno et festo, et cum reverentia multa.
+         [60] Et inveniunt per eorum scripturas quod parascis illa talem habet virtutem, quod
+         si quis poneret in eam victualia solum pro uno homine oportuna, ad sufficientiam homines
+         quinque haberent. [61] Et <term ref="#gran-can">Magnus Dominus</term> dixit quod volebat facere experiri, et ita repertum est esse verum. [62] Per hunc
+         vero modum habuit <term ref="#gran-can">Magnus Dominus</term> illas reliquias |87r| quas audivistis, que ei constiterunt magno thesauro. [63] Nunc
+         diximus hanc ystoriam totam per ordinem. [64] Admodo dicemus de aliis rebus, et primo
+         de nobili civitate <term ref="#cael">Cail</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

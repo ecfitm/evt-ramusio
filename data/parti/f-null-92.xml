@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-92</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-92">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XCII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-92_1_1" n="1"> Ci dit des .II. frers qe sunt sor les chienç de la chace.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-92_2_1" n="1"> Il est voir que le <term ref="#gran-can">Grant Sire</term> a deus baronç que sunt freres charnaus, qe le u‹n› a a non <term ref="#chinsanbaian">*Baian</term> et le autre <term ref="#mingan">Mingan</term>. </seg>
+      <seg xml:id="f-null-92_2_2" n="2"> Il sunt apellés cuiuci, qe vaut a dire celz qe tienent le chien mastin. </seg>
+      <seg xml:id="f-null-92_2_3" n="3"> Chascun de cest freres a .Xm. homes sout elz et tuit les .Xm. sont vestu do un coleur et les autres .Xm. sunt do un autre, ce est vermoil et bloie. </seg>
+      <seg xml:id="f-null-92_2_4" n="4"> Et, toutes les foies qu’il vont con
+         le <term ref="#gran-can">Grant Sire</term> en chace, il portent celles vestimens que je voç ai contés. </seg>
+      <seg xml:id="f-null-92_2_5" n="5"> Et en ceste .Xm. en a deus miles que chascun a un grant chien mastin ou deus ou plus, si que il sunt
+         grandisme moutitudes. </seg>
+      <seg xml:id="f-null-92_2_6" n="6"> Et quant le <term ref="#gran-can">Grant Sire</term> vait a chace, adonc le un de cesti deus freres, con seç .Xm. homes et con bien .Vm. chienz, li vait delé une part, et le autre frer, con les sien .Xm. et con lor chienz, li vait de l’autre. </seg>
+      <seg xml:id="f-null-92_2_7" n="7"> Il vont tuit jouste le un le autre, auque
+         loingne, si qu’il tienent plus d’une jornee: il ne treuvent nulles bestes sauvajes
+         |41d| que ne soit prese. [9] Il est trop bielle couse a voire la chace et la mainere
+         de celle chienz et de celz chacheors, car je voç di que quant le <term ref="#gran-can">Grant Sire</term> chevache con seç baronz por mi le landes oiselant, adonc vees venir de cesti chienz
+         chachant orses et cerf et autres bestes, et d’une part et d’autre, si qe mout est
+         bi‹e›lle viste a veoir. </seg>
+    </p>
+    <p n="3"/>
+  </div>
+</body>
+</text>
+     </TEI>

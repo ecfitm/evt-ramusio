@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-35-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-35">
+      <note>
+	<p>R si attiene anche in questo punto alla testimonianza di Z, che appare per larga parte
+         coincidente con quella di F: <ref type="witlink" target="#z-null-52">Z 52 9</ref> «Ibi sunt multi leones, ursi, linces, dayni, caprioli et cervi; et sunt ibi bestie
+         in magna quantitate que muscatum producunt» (<ref type="witlink" target="#f-null-112">F CXII 10</ref> «Il hi a lionz et ors et leus cerver, dain, cavriolz et cerf; et si hi a grant quantité
+         de cel bestiuole qe font le moustre»). Da notare che la lezione «lupi cervieri» –
+         forma antica per “linci” – trova una rispondenza più precisa nel «leus cerver» di
+         F che nel «linces» di Z. Si può pensare che Z1 fosse più prossimo a F di Z toledano e leggesse «lupi cervarii» o qualcosa di simile.
+         Una versione molto vicina a quella di R Z si legge anche in <ref type="witlink" target="#l-null-92">L 92 7</ref> «[…] Adsunt enim in partibus illis leones, ursi, linces, dayni, caprioli, cervi;
+         et de besti‹ol›is que faciunt muscum adest magna quantitas». Nelle altre fonti ramusiane
+         si assiste in genere alla semplificazione della lezione originaria mediante la soppressione
+         di dettagli di maggiore o minore rilevanza: <ref type="witlink" target="#p-ii-34">P II 34 5</ref> «Ibi enim sunt leones, ursi et cervi, damule, caprioli, lincei et bestiole ille de
+         quibus muscatum habetur, ut superius dictum est»; <ref type="witlink" target="#v-null-54">V 54 8</ref> «[…] et là sono molti lioni, orsi e zervi e chavrioli et altre salvadexine et animalli
+         li qual fa muschio»; <ref type="witlink" target="#vb-null-79">VB LXXIX 6</ref> «E trovassi leoni grandissimi e gran quantità et molti animalli salvaçi e gacelle
+         çoè animalli che fano el muschi‹o›».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

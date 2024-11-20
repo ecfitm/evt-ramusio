@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-43-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-43">
+      <note>
+	<p>Le informazioni in <ref type="witlink" target="#z-null-130">Z 130 19-23</ref> (resa di F CXCVI 9 «Or vos avon contés de ceste cité de <term ref="#calaiati">Calatu</term> e dou gouf e de lor afer. Adonc nos en partiron e voç conteron de <term ref="#ormus">Curmos</term>, car je voç di que quant l’en se part de la cité de <term ref="#calaiati">Calatu</term> et il ala .IIIc. miles entre meistre e tramontaine, adonc treuve l’en la cité de <term ref="#ormus">Curmos</term>. Et encore voç di qe, partent de <term ref="#calaiati">Calatu</term> et il ala entre meistre e ponent  .Vc. miles, il treuve <term ref="#chisi">Quis</term>. Et atant laieron de <term ref="#chisi">Quis</term> e vos parleron de <term ref="#ormus">Curmos</term>») mancano in VB CLXVIII (che chiude in par. 6) e in L 186; sono presenti per ordine e contenuto in V 112 9-10 (con una differenza significativa nelle misure) «Or nui abiamo dito de questa zitade,
+         che l’atende, del cholfo, e del so esser; or nui se partiremo de quella, e diremo
+         dela zitade de <term ref="#ormus">Churmos</term>: perché quando se parte dala zità de <term ref="#calaiati">Chalatu</term> el se va zercha trenta mia entro maistro e tramontana, e trovasse la zità de <term ref="#ormus">Churmos</term>; e desendando da <term ref="#calaiati">Chalatu</term>, andando entro ponente e maistro zercha mia zinquezento, el se trova una zitade.
+         Or lasseremo questa, diremo de <term ref="#ormus">Churmos</term>».</p>
+	<p>Ramusio seleziona le informazioni del passo; il dettaglio di scarto tra testo volgare
+         e il suo modello è «verso greco e tramontana» vs. «inter magistrum et tramontanam».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

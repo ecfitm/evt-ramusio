@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-146</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-146">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXLVI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-146_1_1" n="1"> Ci devise de la cité de <term ref="#singui">Singiu</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-146_2_1" n="1"> Or sachiés qe quant l’en se part de la cité de <term ref="#saianfu">‹Y›angiu</term> et il ala por yseloc .XV. miles, adonc treuve une cité qe est apelés <term ref="#singui">Singiu</term>: ne est mie trop grant, mes ele est de grant naives e de grant mercandies. Il sunt
+         <term ref="#idolatri">ydres</term> et sunt au <term ref="#gran-can">Grant Kaan</term>; lor monoie est de carte. </seg>
+      <seg xml:id="f-null-146_2_2" n="2"> Et sachiés qe elle est sus le greingnor flum qe soit
+         au monde, qe est apellés <term ref="#quian">Quian</term>: il est large, en tel leu hi a .X. miles et en tel .VIII. et en tel .VI., et long
+         est plus de .C. jornee. </seg>
+      <seg xml:id="f-null-146_2_3" n="3"> Et por achaison de cest flum cest cité a mout grandisme
+         quantités des naves qui portent por ceste flun maintes couses et maintes mercandies,
+         et por ce est ville de coi le Grant Chan en a grant rende et grant treü. </seg>
+      <seg xml:id="f-null-146_2_4" n="4"> Et si voç di qe ceste flun vait tant longe et
+         por tantes pars, et tantes cités hi sunt sovre, qe je voç di voiremant qe por ceste
+         flun ala plus naives, e con plus chieres couses et de greignor vailançe, qe ne vont
+         por tus les flu‹n›s de cristiens ne por tout lor mer, car je voç di qe je hi vi a
+         cest cité bien …†… nes a une foies, qe toutes najent |64d| por ceste flum. </seg>
+      <seg xml:id="f-null-146_2_5" n="5"> Or
+         donc poés vos bien penser, puis que ceste cité qe ne est mie trop grant a tantes nes,
+         quant sunt le autres, car je voç di qe cest flun ala por plus de .XVI. provences,
+         e si hi a sor lui plus de .IIc. cités grant qe toute ont plus naives de ceste. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-146_3_1" n="1"> Les nes sunt coverte et ont un arbre, mes elle sunt de grant porter, car je voç
+         di q’eles portent da .IIIIm. cantar jusque en .XIIm. de peis au conte de notre contré. </seg>
+    </p>
+    <p n="4">
+      <seg xml:id="f-null-146_4_1" n="1"> Or nos partiron adonc de ci, qe bien nos en avon conté le fait; et aprés vos conteron
+         d’une autre cité qui est apelé <term ref="#thaigin">Caiciu</term>. Mes avant vos voil conter une couse, que je avoie dementiqué, que por ce qe bien
+         fait a nostre livre. </seg>
+    </p>
+    <p n="5"/>
+    <p n="6"/>
+  </div>
+</body>
+</text>
+     </TEI>

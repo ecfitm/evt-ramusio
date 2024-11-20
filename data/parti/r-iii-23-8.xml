@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-23-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-23">
+      <note>
+	<p>Ramusio si limita alla mera definizione della posizione islamica, sopprimendo <ref type="witlink" target="#z-null-111">Z 111 48-49</ref>, in cui la <hi rend="italics">querelle </hi>religiosa sull’identità della tomba è risolta a favore dei cristiani («Intellexistis
+         ergo qualiter adorantes ydola dicunt quod est iste filius regis, qui fuit primus deus
+         eorum, et saraceni dicunt quod est Adam, noster primus pater. Sed Deus novit quis
+         est et quis fuit, quia nos non credimus quod in illo loco sit Adam, quoniam Sancta
+         Scriptura testatur quod sit in alia parte mundi». Il passo traduce F CLXXVII 20 «Or avés entandu comant les <term ref="#idolatri">ydres</term> dient qu’il est le filz au roi, qe fu lor primer ydres e lor primiere dieu. E les
+         saraçinz dient qu’il est Adam nostre primer p{i}ere: mes Dieu set qui est et quel
+         fu, car nos ne creon pas que en celui leu est Adam, car nostre escriture de sainte
+         eglise dit q’el est en autre partie dou monde»; V 95 23 lo ripropone, mentre  L 160 8 «[…] sicque inter eos diversa cadit opinio», al pari di VB CXLVII 25 «[…] questo iudicio voio lasar ad alltri».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

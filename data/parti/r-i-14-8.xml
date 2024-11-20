@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-14-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-14">
+      <note>
+	<p>La lezione ramusiana, per struttura sintattica e opzioni lessicali, è alquanto vicina
+         alle linee di <ref type="witlink" target="#f-null-35">F XXXV 10</ref> («En ceste plaingne a plusor castiaus et viles que unt les mur de tere hautes et
+         groses por defendre{s} elç des <term ref="#caraunas">Caraunas</term>, ce sunt berovierç que vont corant les païs»), ribadite con buona prossimità – ma
+         con una lieve variazione nella <hi rend="italics">dispositio</hi> – anche in <ref type="witlink" target="#v-null-20">V 20 12</ref> («Et in questa pianura sono molti chasteli e zitade le qualle àno i muri de tera
+         grosi e alti per defenderse dali robadori li quali schore tuta la patria; e questi
+         vien chiamati <term ref="#caraunas">Charaunas</term>»). </p>
+	<p>Come altrove, la vicinanza R/F potrebbe suggerire, pure <hi rend="italics">in absentia</hi> del testo toledano, che la fonte di Ramusio sia stata Z1.</p>
+	<p>Prossimo al dettato di F è anche <ref type="witlink" target="#l-null-29">L 29 8</ref>, che però, rispetto al testo francoit., anticipa l’informazione etimologica sull’etnonimo
+         <term ref="#caraunas">Caraunas</term> «In hac planicie sunt quam plures civitates et castra, habentia muros grossos ‹et›
+         altos a terra, ut tute se conservent a gentibus dictis <term ref="#caraunas">Caraunas</term>. Que ‹gentes› ideo sic dicuntur quia eorum patres sunt Tartari et eorum matres Indiane. Et hee gentes sepe currunt et depredantur hanc contratam»,
+         ed evidenzia una <hi rend="italics">faute</hi> traduttiva nel sintagma <hi rend="italics">a terra</hi> “da terra” (moto da luogo), chiaro fraintendimento di un <hi rend="italics">de tere</hi> “di terra” (specific.) del modello francoit.</p>
+	<p>Meno aderenti alle linee di F sono <ref type="witlink" target="#p-i-22">P I 22 7</ref> («In hac planice multe sunt civitates et oppida, et habent muros luteos grossos valde
+         et fortes, quia in regione illa multi predones sunt, qui dicuntur “<term ref="#caraunas">caraonas</term>” […]») e la lezione, alquanto approssimativa, di <ref type="witlink" target="#vb-null-22">VB XXII 13</ref> («In questo piano v’è molte forteçe: àno i llor muri di terra per difexa loro; e
+         chiamasi questa çente <term ref="#caraunas">Caraor</term> […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-62-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-62">
+      <note>
+	<p>R si mostra per vari dettagli affine a <ref type="witlink" target="#z-null-79">Z 79 2-3</ref> «Ibi fiunt multe mercationes et artes. Gentes <term ref="#idolatri">adorant ydola</term>, monetam expendunt de cartis, funera comburunt et sunt sub dominio <term ref="#gran-can">Magni Can</term>» (che a sua volta rispecchia <ref type="witlink" target="#f-null-145">F CXLV 2</ref> «[…] Il hi se fait grant mercandies et grant ars. Il sunt <term ref="#idolatri">ydres </term>et ont monoie de carte, et funt ardoir lor cors mors. Il sunt au <term ref="#gran-can">Grant Kan</term> […]»). L’ordine con cui R presenta le informazioni nella parte centrale («abbruciano
+         […]; spendeno […]; sono <term ref="#idolatri">idolatri</term>») non coincide con quello di Z F, che è lo stesso che si incontra anche in <ref type="witlink" target="#l-null-120">L 120 2-3</ref> «Gentes sunt <term ref="#idolatri">ydolatre</term>, mortuorum corpora comburentes, expenduntque monetam de cartis. Et sunt mercatores
+         et artiste […]» e in <ref type="witlink" target="#v-null-71">V 71 1</ref> «[…] et in questa se fano molte marchadantie et arte; la zente dela qualle <term ref="#idolatri">adora le idolle</term>; et spendeno monede de charta; et fano bruxar i chorpi morti; et sono soto la signoria
+         del <term ref="#gran-can">Gran Chan»</term>. L’alterazione della struttura originaria del paragrafo potrebbe essere stata suggerita
+         a Ramusio da <ref type="witlink" target="#vb-null-108">VB CVIII 1-2</ref>, che, per quanto lacunoso, sposta il riferimento all’<term ref="#idolatri">idolatria</term> dopo l’informazione concernente la moneta: «[…] le qual tutte fano gran marchadantie
+         et ecian fase mestieri assai d’ogni sorta. Spendeno moneta di carta e tuti sono <term ref="#idolatri">idolatrii</term> e sotoposti al <term ref="#gran-can">Gran Chan</term>». Alcune affinità formali – seppure molto generiche – sembrerebbero confermare tale
+         ipotesi (R «spendono moneta di carta; sono <term ref="#idolatri">idolatri</term>», VB «Spendeno moneta di carta e tuti sono <term ref="#idolatri">idolatrii</term>»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

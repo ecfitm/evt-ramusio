@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-21-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-21">
+      <note>
+	<p>La fonte del passo è, con ogni evidenza <ref type="witlink" target="#p-ii-24">P II 24 2-3</ref> «[…] sicque de omni blado sollicite providetur ut semper regis horrea piena sint,
+         ut possit indigentibus sterilitatis tempore providere. Cum autem blada regis in hoc
+         casu venduntur, tantum pretii de quatuor mensuris ab ementibus recipit, quantum ab
+         aliis vendentibus de unica mensura recipitur». La lezione di V (che segue in sostanza
+         quella di F) è in parte diversa, mentre VB reca un testo notevolmente accorciato:
+         <ref type="witlink" target="#v-null-48">V 48 11</ref> «[…] et s’el avien che non ’de sia blave e ch’el sia charestia, el <term ref="#gran-can">Gran Signor</term> fano tirar fuora de quelle, et sì le mexura et se le vende uno bixante le fano vender
+         mezo et fane tirar tante fuora che zaschadun ne pò avere» (vd. <ref type="witlink" target="#f-null-102">F CII 4-5</ref> «Et quant il avint qe de les bles ne soient et qe la charestie soit grant, adonc
+         le <term ref="#gran-can">Grant Sire</term> fait traire hors de seç bles, qe en a tant com je voç ai contés. Et se la mesure
+         se vendent un beçant, ce voç di forment, il ne fait doner .IIII., et en trait tant
+         hors qe tous en puet avoir, si qe chascun a devise et abundance des bles»); <ref type="witlink" target="#vb-null-72">VB LXXII 5</ref> «E quando l’ochore charestia, fa dar dele biave di suo’ granari per molto meno precio
+         de quel valeno per i marchadanti». In L e in Z il capitolo è assente.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

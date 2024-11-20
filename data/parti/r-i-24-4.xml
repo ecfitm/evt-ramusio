@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-24-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-24">
+      <note>
+	<p>Sebbene la lezione largamente compendiosa del toledano non consenta di verificarlo,
+         è probabile che anche qui alla base di R ci sia Z: in effetti, l’unico segmento della
+         pericope conservato nel ms. Zelada – l’<hi rend="italics">ajout</hi> in chiosa di periodo – corrisponde <hi rend="italics">verbatim</hi> al testo ramusiano: <ref type="witlink" target="#z-null-20-1-23">Z 20 11</ref> «Hic non sunt montes saxosi sed de terra sunt» (&gt; «[…] i monti sono di terra et non
+         sassosi»). </p>
+	<p>Al netto dell’<hi rend="italics">ajout </hi>senz’altro desunto da Z, non va però esclusa una dipendenza di R da V, il cui dettato
+         è molto vicino alle linee ramusiane: vd. <ref type="witlink" target="#v-null-23">V 23 14</ref> «Et questa sono una gran provinzia, e li homeni che àno anemali stano entro li monti
+         in grande chaverne, e questi liziermente li puol fare perché li monti sono de tera».
+         </p>
+	<p>Sul piano del lessico, invece, proviene forse da P la scelta del sost. <hi rend="italics">pastori</hi> (<hi rend="italics">vilan</hi> F, <hi rend="italics">homeni</hi> V, <hi rend="italics">villani</hi> VB) per designare, opportunamente, gli allevatori di bestiame: cfr. <ref type="witlink" target="#p-i-33">P I 33 3-4</ref> «Gens ista propriam linguam habet. Pastores patrie huius morantur in montibus, ubi
+         in cavernis sibi habitacula faciunt».</p>
+	<p>In tutti i casi, la versione di Ramusio è sostanzialmente coerente con <ref type="witlink" target="#f-null-45">F XLV 11-12</ref> «Ceste Scasen est une grant provences et a langajes por soi. Et le vilan ke ont lor bestiames demorent
+         ex montagnes, car il hi font belles abitasion et grant, car il li font cavernes, et
+         le puent faire legermant por ce les montagnes sunt de tere».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

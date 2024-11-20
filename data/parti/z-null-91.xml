@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-91</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-91">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 91</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="z-null-91_2_1" n="1"> Postquam naravimus de tot provinciis et teris, prout |53v| superius audivistis,
+         dimitemus ergo de illarum materia et incipiemus intrare in <term ref="#india">Indiam</term> causa referendi omnia mirabilia que ibi sunt. </seg>
+      <seg xml:id="z-null-91_2_2" n="2"> Et primo narabimus de esse navium
+         mercatorum euntium et redeuntium de <term ref="#india">India</term>. </seg>
+      <seg xml:id="z-null-91_2_3" n="3"> Sunt enim naves ille taliter ordinate. </seg>
+      <seg xml:id="z-null-91_2_4" n="4"> Primo noveritis quod constructe sunt
+         de ligno abietis et çapini; et habent coperturam unam pro qualibet. </seg>
+      <seg xml:id="z-null-91_2_5" n="5"> Et super coperturam,
+         sunt in aliquibus plures .LX. cameris et in aliquibus pauciores, secundum quod naves
+         su‹n›t maiores et minores; et in singulis cameris potest unus mercator ad suum comodum
+         permanere. </seg>
+      <seg xml:id="z-null-91_2_6" n="6"> Habent unum amplustre et arbores quatuor, et multociens addunt arbores
+         duas que levantur et ponuntur quociescumque volunt. </seg>
+      <seg xml:id="z-null-91_2_7" n="7"> Habent insuper alique naves,
+         videlicet que maiores sunt, bene tresdecim colcos, id est divisiones, ab interiori
+         parte, cum firmis aseribus factos simul incastratis; itaque, si accidat navem casu
+         fortuito in aliquo loco frangi, videlicet quod aut feriat in saxo aut cete piscis,
+         propter escam in eam percuciens, ipsam frangat – quod sepe contingit: nam, dum navis
+         in nocte navigans aquam faciens inundare prope cete transeat, cete, videns aquam dum
+         movetur albere, putat sibi fore cibum, et velociter progrediens, ferit in navem et
+         sepe navem frangit in aliqua parte sui –, et tunc aqua, intrans per fracturam, discurit
+         ad sintinam, que nunquam permanet aliquibus ocupata. </seg>
+      <seg xml:id="z-null-91_2_8" n="8"> Et tunc inveniunt marinarii
+         in qua parte fracta sit navis. |54r| [9] Et tunc colcus vacuatur in alios qui illi
+         fracture responde‹n›t: nam aqua non valet de uno colco ad alium pertransire, tam sunt
+         fortiter intraclusi. [10] Et tunc aptant ibi navim et mercimonia evacuata ibi reponunt.
+         [11] Naves vero taliter sunt clavate: nam omnes sunt duple, videlicet quod habent
+         tabulas duas una supra aliam circumcirca ipsas. [12] Et sunt calcate intus et extra,
+         et sunt bene clavate cum clavis fereis. [13] Inpegolate non sunt, quia non habent
+         picem, sed taliter ipsas ungunt. [14] Accipiunt calcem et canapum, quod minutim incidunt,
+         et pistant simul omnia ista cum quodam oleo arboris mixta. [15] Et posquam ista tria
+         simul pistata sunt, simul se retinent ad modum visci; et de istis ungunt naves, et
+         valet melius quam pix. [16] Iste quoque naves requirunt alique marinarios trecentos,
+         alique ducentos, alique .CL., alique plures alique pauciores secundum quod naves sunt
+         maiores et minores. [17] Ipse quoque multo maius portant pondus quam nostrates. [18]
+         Et iam tempore preterito erant naves maiores quam sint nunc ad presens, quia maris
+         inpetus insulas taliter in pluribus locis dirupit quod aqua non inveniebatur in multis
+         locis suficiens navibus illis tam grandibus. [19] Quare sunt facte nunc minores. [20]
+         Ducuntur quidem cum remigibus, et cum quolibet remige vogant quatuor vogatores. [21]
+         Ittem naves iste maiores secum ducunt duas et tres minores, quarum alique ducuntur
+         a .LX. marinariis, alique a .LXXX., alique a .C., que multas |54v| mercationes portant.
+         [22] Et iste minores sepius iuvant trahere maiores cum funibus, id est sartiis, quando
+         remigiis ducuntur, et etiam cum ducuntur velis, si ventus regnet aliquantulum ex traverso,
+         quia minores precedunt maiorem et ligate cum funibus trahunt ipsam. [23] Sed si ventus
+         spiret ex directo non: nam vela maioris navis impedirent ne ventus feriret in vela
+         minorum, et sic maior supracederet minores. [24] Item ducunt iste naves batellos parvos
+         bene decem, propter ancoram, et causa capiendi de piscibus, et faciendi servitia queque
+         navis; et omnes istos batellos navis ducit iuxta se ligatos per aquam. [25] Et quando
+         navis debet aptari – et navigaverit uno anno vel pluri et reparatione indigeat –,
+         taliter ipsam aptant. [26] Affigunt itaque, circumcirqua navim, tabulam unam supra
+         predictas duas priores, ita quod sunt tres; et calcant ipsas et ungunt. [27] Et hec
+         aptatio quam faciunt. [28] Ad aliam vero aptationem, aliam afigunt tabulam, sic procedendo
+         de reparatione ad reparationem usque ad numerum sex tabularum. [29] Et abinde navis
+         contempnitur nec amplius cum ipsa navigatur per mare. [30] Dicemus itaque vobis qualiter,
+         quando navis aliqua debet iter pergere, experitur utrum in illo itinere negotia sibi
+         succedant prospera vel adversa. [31] Homines vero navis habebunt unam cratem, id est
+         unum graditium, de viminibus; et in quolibet angulo et latere ipsius cratis erit ligata
+         una funis, ita quod erunt |55r| octo funes, et omnes ligate erunt ab alio capite cum
+         una sartia longa. [32] Item invenient aliquem stultum vel ebrium, et ipsum ligabunt
+         super cratem, quia nullus sapiens nec sincerus ad periculum illud se exponeret. [33]
+         Et hoc fit quando ventus regnat intensus. [34] Ipsi quidem errigunt cratem in opositum
+         venti, et ventus cratem elevat et portat ipsam in altum. [35] Et homines per sartiam
+         longam tenent. [36] Et si cratis, dum est in aere, versus cursum venti declinet, ipsi
+         aliquantulum sartia‹m› ad se trahunt, et tunc cratis erigitur; et ipsi sartie cedunt,
+         et cratis ascendit. [37] Et si iterum declinet, tanto sartiam trahunt donec cratis
+         erigitur et ascendit, et ipsi sartie cedunt; ita quod, per hunc modum, tantum ascenderet
+         quod videri non posset, dummodo foret sartia tam longa. [38] Per hunc modum experientia
+         ista fit, videlicet quod, si cratis directe asendens tendat in altum, dicunt quod
+         navis, pro qua illa experientia facta erit, iter faciet expeditum et prosperum; et
+         ad illam omnes mercatores concurunt causa nauliçandi et eundi cum ea. [39] Et si cratis
+         ascendere non valuerit, in navem, pro qua expertum fuit, nullus mercator volet intrare,
+         quia dicunt quod iter suum perficere non posset et sibi incumberent multa mala. [40]
+         Quare navis illa in portu remanet illo ano. [41] Nunc diximus de navibus in quibus
+         mercatores in Indiam vadunt et redeunt. [42] Nunc dicemus de <term ref="#india">Yndia</term>. [43] Sed tamen prius dicere volumus de quibusdam insulis existentibus in <term ref="#mare-oceano">Mari Occeano</term>, ubi sumus ad presens.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

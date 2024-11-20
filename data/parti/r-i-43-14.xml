@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-43-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-43">
+      <note>
+	<p>La stretta coincidenza sintattica e lessicale con <ref type="witlink" target="#v-null-35">V 35 23</ref> in «continuamente acquistando regni et cittade» (vd. «chontinuamente aquistando zitade
+         e reami») farebbe subito pensare a una dipendenza diretta di R dalla versione veneziana.
+         Ma a separare nettamente i due testi c’è la diversa descrizione del ferimento di Chinggis: in <ref type="witlink" target="#v-null-35">V 35 24</ref> «fo ferido de una freza <hi rend="italics">in la chosa</hi>», laddove R, con tutta la tradizione, parla di un colpo al ginocchio; inoltre, nel
+         complesso, R si avvicina piuttosto a <ref type="witlink" target="#f-null-67">F LXVII 4</ref> «Et si voç di que <term ref="#cingis-can">Cinchin Chan</term>, puis celle bataille, regna .VI. anz et ala conquistant maint castiaus et mant provinces;
+         mes a chief de .VI. anz ala a un chastiaus qe avoit a nom <term ref="#thaigin">Caagiu</term> et iluec fu feru d’une sagite eu genoeilz et de celui coux morut […]» (con il quale
+         concorda, ad es., nel sintagma «Doppo questa battaglia» e nell’indicazione del nome
+         della fortezza presso la quale Chinggis morì  – il castello di <term ref="#thaigin">Thaigin</term>). Vista la prossimità di R al testo francoit., si potrebbe concludere che la versione
+         di Ramusio dipenda qui da Z1. È infine desunta da <ref type="witlink" target="#p-i-53">P I 53 4</ref> l’indicazione «et fu sepolto nel monte Altay» («[…] post dies paucos mortuus est sepultusque est in monte <term ref="#altai">Alchay</term>»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

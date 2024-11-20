@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-26</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-26">
+    <head>
+      <hi rend="bold">P, II 26</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-26_2_1" n="1"> Per totam provinciam <term ref="#cataio">Cathay</term> inveniuntur quidam lapides nigri qui de montibus exciduntur et, missi in ignem, ardent
+         ut ligna, denique ignem servant cum accensi fuerint; nam si accenduntur sero per totam
+         noctem ignem servant et, quamvis in ipsa provincia ligna multa sint, multi tamen utuntur
+         illis lapidibus ut plurimum, quia ligna cariora sunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

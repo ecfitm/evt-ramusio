@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-32</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-32">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XXXII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-32_2_1" n="1"> E in cavo de queste do zornade, se trova uno chastello che è apellato <term ref="#thaican">Taichan</term>. </seg>
+      <seg xml:id="va-null-32_2_2" n="2"> Là si è gran merchato de biava et è molto bela chontrata. </seg>
+      <seg xml:id="va-null-32_2_3" n="3"> E lle suo’ montagnie
+         sono deverso mezodì, e sono molto alte e grande et sono tute de sal. </seg>
+      <seg xml:id="va-null-32_2_4" n="4"> Le contrate
+         d’intorno ge vien fina a XXX zornate per tuor de quel sal, el qual è lo mior del mondo;
+         ell è sì duro che i no ’l pò aver se non chon pichoni de fero, ed èno sì grande abondanzia
+         che tuto el mondo ne averìa asai defina ala fin del sechullo.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-32_3_1" n="1"> E quando ‹l’omo› se parte da questo chastello, el se va tre zornate tra griego
+         e levante, tuta fiata trovando belle contrate e grande abondanzia d’abitazion. </seg>
+      <seg xml:id="va-null-32_3_2" n="2">
+         El ge n’è vignie e biava e frute asai. </seg>
+      <seg xml:id="va-null-32_3_3" n="3"> Àno la leze e lla fe’ de <term ref="#macometto">Machometo</term>, et sono malvaxia zente et gran bevatori e tuto el dì vorìa ber; et àno molto bon
+         vino choto. </seg>
+      <seg xml:id="va-null-32_3_4" n="4"> Egli non tien niente in testa se non una cordella longa ben diexe
+         spane, et quella si volzeno atorno la testa; et sono molto boni chazatori, et trova-sse
+         chazaxion assai. [9] E non àno altre vestimente se non de chuori de bestie che i prende.</seg>
+    </p>
+    <p n="4"/>
+    <p n="5"/>
+  </div>
+</body>
+</text>
+     </TEI>

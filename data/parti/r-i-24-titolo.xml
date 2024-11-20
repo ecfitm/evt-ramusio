@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-24-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-24">
+      <note>
+	<p><ref type="witlink" target="#f-null-45">F XLV 8-14</ref> (Ci devise de la montaingne dou sal); <ref type="witlink" target="#z-null-20-1-23">Z 20 8-11</ref>;<ref type="witlink" target="#l-null-40"> L 40 4-8</ref> (De civitate <term ref="#scassem">Scassan</term>); <ref type="witlink" target="#p-i-33">P I 33</ref> (De civitate <term ref="#scassem">Scassen</term>), <ref type="witlink" target="#va-null-32">VA XXXII 10-15</ref> (Del chastello de <term ref="#thaican">Taichan</term>, là dove è le montagnie de sal e li porzispini); <ref type="witlink" target="#v-null-23">V 23 12-15</ref> (Dela zità de <term ref="#balach">Balabach</term>); <ref type="witlink" target="#vb-null-28">VB XXVIII 5-10</ref>.</p>
+	<p>Sul piano dei contenuti, il capitolo ramusiano è sostanzialmente una versione di Z,
+         integrata in più punti con tessere di P (del quale, come spesso avviene, Ramusio conserva
+         la macrostruttura: in R come in P  – e in L –  il paragrafo su <term ref="#scassem">Scassem</term> costituisce un capitolo autonomo).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

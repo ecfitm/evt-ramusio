@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-11-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-11">
+      <note>
+	<p>La fonte di R doveva presentare in questo punto un testo analogo a quello di <ref type="witlink" target="#f-null-87">F LXXXVII 7</ref> «Or voç laison de ceste, que bien la voç avon contés, et voç diron d’un autre grant
+         feste qu’il fait en lor chief d’an, qui est appellé la blance feste». Tutti i relatori
+         che contengono il capitolo (L P V) omettono il passaggio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

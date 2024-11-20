@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-14-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-14">
+      <note>
+	<p>R accoglie nuovamente un <hi rend="italics">ajout</hi> di <ref type="witlink" target="#z-null-13">Z 13 2</ref>, relativo alla coltivazione cerealicola della regione di <term ref="#camandu">Qāmadīn</term>: «Planicies vero calidissima est; producit frumentum et alia blada». Rispetto a R,
+         mancano al testo toledano – ma forse non mancavano a Z1 – l’indicazione toponomastica («Et la region si chiama <term ref="#reobarle">Reobarle</term>») e il cenno all’orzo.</p>
+	<p>Gli altri relatori (tranne VB, che tace) ribadiscono a grandi linee il dettato di
+         <ref type="witlink" target="#f-null-35">F XXXV 3-4</ref> «Et voç di qu’il est ‹en› celle plaingne mout chaut. Et la proense de coi nos comi‹n›son
+         hore est apellé <term ref="#reobarle">Reobar</term>»: sostanzialmente pedissequo al testo francoit. è <ref type="witlink" target="#v-null-20">V 20 8</ref> «In la pianura sono molto chaldo, et la provinzia dela qual nui chomenzassemo a parlar
+         è chiamata <term ref="#reobarle">Erchobant </term>[…]»), mentre <ref type="witlink" target="#l-null-29">L 29 1-2</ref>, allacciandosi alla pericope precedente, produce una lieve innovazione descrittiva
+         («[…] cuiusdam planiciei magne que est valde concava et depressa. Et est hec provincia
+         quam modo incipimus dicta <term ref="#reobarle">Reobar</term>») e <ref type="witlink" target="#p-i-22">P I 22 2</ref>, propenso alla sintesi, conserva solo l’indicazione toponomastica («Regio autem illa
+         dicitur <term ref="#reobarle">Reobarle</term>»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-32-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-32">
+      <note>
+	<p>La soluzione di R semplifica una fonte che per economia di ipotesi è possibile identificare
+         in <ref type="witlink" target="#z-null-120">Z 120 2-4</ref> «[…] sed vivunt de mercimoniis et artibus. Nam in isto regno fiunt magna mercimonia.
+         Et illuc mercatores de multis partibus accedunt cum multis mercimoniis que in isto
+         regno vendunt, de mercimoniis regni secum postmodum reportantes» (resa di F CLXXXVI 3 «[…] et hi vienent les mercant des maintes pars con maintes mercandies, e d’une main‹er›e
+         e d’autre, e les vendent en ce rengne et enportent de celes dou reingne»). Gli altri
+         relatori presentano un’informazione in diversa misura scorciata: lievemente VB CLVI 4 «È locho di gran marchadantia; et chapitano quie assai merchadanti de più lochi e
+         provincie con assai loro marchadantie, et fano mestieri assai»; pesantemente V 102 7 «[…] perché in questo reame se fano gran marchadantie; e portano e vendeno suo’ robe»
+         e soprattutto L 173 3 «Et sunt mercatores homines et artiste». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

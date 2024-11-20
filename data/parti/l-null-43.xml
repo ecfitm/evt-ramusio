@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-43</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-43">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 43</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-43_2_1" n="1"> Longe a dicta civitate versus syrochum .VII. dietis est provincia dicta <term ref="#chesmur">Kesimur</term>. </seg>
+      <seg xml:id="l-null-43_2_2" n="2"> Eius gentes habent ydeoma proprium, et sunt ydolatre. </seg>
+      <seg xml:id="l-null-43_2_3" n="3"> Et sunt tam perfidi
+         incantatores quod mirabile est: faciunt enim ydola loqui, faciunt mutari tempus ad
+         eorum velle et obscurari aerem, et quam plura alia que credere vix quis posset. </seg>
+      <seg xml:id="l-null-43_2_4" n="4">
+         Et sunt capud et origo omnium adorantium ydola, et ab hiis de|7|scenderunt. </seg>
+      <seg xml:id="l-null-43_2_5" n="5"> Et
+         ab hoc loco posset quis ire ad <term ref="#mare-dindia">mare Indie</term>. </seg>
+      <seg xml:id="l-null-43_2_6" n="6"> Et sunt homines bruni et macri; mulieres vero sunt pulcre, licet sint brune.
+         </seg>
+      <seg xml:id="l-null-43_2_7" n="7"> Eorum cibaria sunt carnes et riçi. </seg>
+      <seg xml:id="l-null-43_2_8" n="8"> Et est temperata provincia, in qua sunt
+         civitates ‹et› castra multa, et nemora multa et deserta aliqua, et multi stricti passus
+         et fortes. [9] Et si quis ulterius procederet .XII. dietis perveniret ad partes ubi
+         nascitur piper, que sunt prope regnum de <term ref="#bramini">Brahaman</term>. [10] Non intendit ‹auctor› ulterius procedere ad partes istas, quia perveniret ad
+         partes <term ref="#india">Yndie</term> de quibus infra per ordinem determinare intendit; et ideo revertitur ad supradictas
+         partes, incipiens a <term ref="#balaxiam">Balascian</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

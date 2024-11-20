@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-18-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-18">
+      <note>
+	<p>R riflette nella sostanza la lezione di <ref type="witlink" target="#f-null-95">F XCV 2-3</ref> «Il est voir que en ceste ville de <term ref="#cambalu">Canbalu</term> est la secque dou <term ref="#gran-can">Grant Sire</term> et est establi en tel mainere qe l’en poet bien dir que le <term ref="#gran-can">Grant ‹Sire›</term> ait l’arquimie parfetement, et le voç mostrerai orendroit. Or sachiés qu’il fait
+         faire une tel monoie cum je voç ‹dirai›. Il fait prendre escorses d’arbres, ce est
+         des morieres que les vermes que font la soie menuient lor frondes, et les bouces soutil
+         qui est entre l’escorses et les fust de l’albre; et de celes sotil buces fait fer
+         chartre come celle de papir, et sunt toutes noires». Andrà rilevato, tuttavia, che
+         la versione di R, a parte qualche semplificazione («il quale veramente ha l’alchimia»),
+         si mostra in genere più ricca, in quanto possiede dei dettagli che non figurano né
+         in F né nel resto della tradizione («et le tritano et pestono, et poi con colla»;
+         «et sono forme di moneta quadra, et piú longhe che larghe»).</p>
+	<p>In L, P, V e VB il passo risulta perlopiù accorciato (L P VB) oppure sfigurato da
+         molteplici fraintendimenti (V): <ref type="witlink" target="#l-null-78">L 78 1-2</ref> «In hac dicta civitate <term ref="#cambalu">Cambaluch</term> facit <term ref="#gran-can">Magnus Canis</term> suum fabricare nummisma, eoque utuntur universe sibi subiecte gentes. Faciunt autem
+         hanc monetam ex tali materia, ex corticibus enim arborum mori, ex medianis videlicet
+         subtilibus que prope lignum manent. Faciunt cartas ad modum cartarum bombicinarum,
+         et sunt totaliter nigre. Has ergo ad modum monete diversimode secant […]»; <ref type="witlink" target="#p-ii-21">P II 21 1</ref> «Moneta regalis <term ref="#gran-can">Magni Kaam</term> hoc modo fit: de tribus corticibus arboris mori accipiunt cortices medianos qui conficiuntur
+         et solidantur ut folia de papiro, deinde per particulas magnas et parvas ad denariorum
+         similitudinem inciduntur […]»; <ref type="witlink" target="#v-null-45">V 45 10</ref> «In questa zitade de <term ref="#cambalu">Chanbelun</term> sì è l’archa del <term ref="#gran-can">Gran Signor</term>, et questa sono fata a questo muodo: ello fano tuor li schorzi deli meloni, de quelli
+         che li vermi fa la seda; et quelli schorzi ch’è soto lo primo schorzo che sono molto
+         sotil, el qualle sono apreso lo fruto del mare, et in suo’ lenguazo vien chiamato
+         “buzian”; lo qualle schorzo sono sotil chomo charta, ed è negro […]»; <ref type="witlink" target="#vb-null-68">VB LXVIII 9</ref> «La moneta si spende è de schorça de alboro, çoè de morari; è fata a modo di charta
+         […]». Sebbene R dipenda chiaramente da un esemplare più completo e corretto di L P
+         V VB, è possibile che in alcuni punti abbia subito l’influsso di qualcuna di queste
+         redazioni: cfr. R «in forma di carta bombacina», L «ad modum cartarum bombicinarum»
+         (ma cfr. anche l’erroneo «buzian» di V); R «le fa tagliare in parti grandi et picciole»,
+         P «per particulas magnas et parvas […] inciduntur».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

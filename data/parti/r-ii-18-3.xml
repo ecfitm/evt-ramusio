@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-18-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-18">
+      <note>
+	<p>La minuziosa descrizione delle fasi di preparazione della moneta cartacea che si legge
+         in R non trova riscontro in nessun’altra testimonianza poliana. Nelle altre redazioni
+         il processo viene illustrato in modo molto più sintetico: <ref type="witlink" target="#l-null-78">L 78 2</ref> «[…] Hec vero frustra bullantur omnia imperiali bulla: aliter enim nullatenus expendi
+         posset»; <ref type="witlink" target="#p-ii-21">P II 21 1</ref> «[…] atque regali signo cuduntur, et imprimuntur eis signa varia iuxta que huiusmodi
+         pecunia valitura est»; <ref type="witlink" target="#v-null-45">V 45 11</ref> «Et tute queste tal charte sono bolade del segno del <term ref="#gran-can">Signor</term> […]»; <ref type="witlink" target="#vb-null-68">VB LXVIII 11</ref> «[…] tute sono dela schorça d’alboro dito chiamata del chugno del segnore […]» /
+         <ref type="witlink" target="#vb-null-68">VB LXVIII 9</ref> «[…] et è stampita sopra el nome del segnore […]» (<ref type="witlink" target="#f-null-95">F XCV 5</ref> «Et toutes cestes charte sunt seellés dou seel dou <term ref="#gran-can">Grant Sire</term>»). L’unico testimone in cui, alcune righe più avanti, si fa menzione dei funzionari
+         del Can preposti alla fabbricazione delle monete è <ref type="witlink" target="#p-ii-21">P II 21 3</ref> «soli autem officiales regis monetam hanc faciunt de regis mandato». Non è escluso
+         che la lezione di R «molti officiali che a questo sono deputati» dipenda da tale riferimento.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

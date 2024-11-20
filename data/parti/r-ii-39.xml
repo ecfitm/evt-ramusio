@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-39</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-39" n="1">
+    <head>
+      <hi rend="bold">R, II 39</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-39_1_1" n="1"> Delle conditioni della gran provincia di <term ref="#carazan">Caraian</term>, et de <term ref="#iaci">Iaci</term>, città principale. Cap. 39.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-39_2_1" n="1"> Dapoi che s’è passato il fiume predetto, si entra nella provincia detta <term ref="#carazan">Caraian</term>, cosí grande et larga che quella è partita in sette regni, et è verso ponente. </seg>
+      <seg xml:id="r-ii-39_2_2" n="2"> Le genti <term ref="#idolatri">adorano gl’idoli</term> et sono sotto il dominio del <term ref="#gran-can">Gran Can</term>: ma suo figliuolo, nominato <term ref="#centemur">Centemur</term>, è constituto re di detta provincia, il qual è gran riccho et potente, et mantiene
+         la sua terra con molta giustitia, perché egli è ornato di molta sapientia et integrità.
+         </seg>
+      <seg xml:id="r-ii-39_2_3" n="3"> Et partendosi dal sopradetto fiume si cammina verso ponente per cinque giornate,
+         et trovasi tutto habitato et castelli assai. </seg>
+      <seg xml:id="r-ii-39_2_4" n="4"> Vivono di bestie et de frutti della terra; qui si trovano i migliori cavalli che
+         naschino in quelle parti. </seg>
+      <seg xml:id="r-ii-39_2_5" n="5"> Hanno linguaggio per sé, il quale non si può facilmente comprendere. </seg>
+      <seg xml:id="r-ii-39_2_6" n="6"> A capo delle cinque giornate si trova la città maestra, capo del regno, nominata
+         <term ref="#iaci">Iaci</term>, che è grandissima et nobile. </seg>
+      <seg xml:id="r-ii-39_2_7" n="7"> Sono in quella molti mercatanti et artefici et molte sorti di genti: sonvi <term ref="#idolatri">idolatri</term> et christiani, nestorini et Sarraceni et macomettani, ma i principali sono quelli
+         che <term ref="#idolatri">adorano gl’idoli</term>. [8] Et è la terra fertile in produr riso et formento; ma quelle genti non mangiano pane
+         di formento, perché è malsano, ma il riso, del quale ne fanno vino con specie, che
+         è chiaro et bianco et molto delettevole a bere. [9] Spendono per moneta porcellane bianche, le quali si trovano al mare, et ne pongono
+         anche al collo per ornamento: et ottanta porcellane vagliono un <term ref="#sazzo">sazzo</term> d’argento, il quale è di valuta di duoi grossi venetiani, et otto <term ref="#sazzo">sazzi</term> di buon argento vagliono un <term ref="#sazzo">sazzo</term> d’oro perfetto. [10] Hanno anchora pozzi salsi de’ quali fanno sale, il qual usano tutti gli habitanti:
+         et di questo sale il re ne conseguisce grande en|trata |35v| et profitto. [11] Le genti di questa provincia non reputano esserli fatta ingiuria se uno tocca la
+         sua moglie carnalmente, pur che sia con volontà di quella. [12] Vi è anchora un lago, che circuisce circa cento miglia, nel quale si piglia gran
+         quantità di buoni pesci di ogni maniera, et sono pesci molto grandi. [13] In questo paese mangiano carni crude di galline, montoni, buoi et buffali, in questo
+         modo, che le tagliano molto minutamente, et le mettono prima in sale, in un sapore
+         fatto di diverse sorti di lor specie: et questi sono gentilhuomini; ma li poveri le
+         mettono cosí minute in salsa di aglio, et le mangiano come facciam noi le cotte.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-47-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-47">
+      <note>
+	<p>L’informazione è attestata ovunque: <ref type="witlink" target="#f-null-69">F LXIX 18</ref> «[…] il portent une petite tende, la ou il demorent por la pluie»; <ref type="witlink" target="#l-null-60">L 60 21</ref> «[…] et tendam unam parvam qua ab ymbribus se tuentur»; <ref type="witlink" target="#p-i-59">P I 59 2</ref> «[…] nichil secum […] deferunt, nisi tabernaculum parvum sub quo latitant quando
+         pluit […]»; <ref type="witlink" target="#v-null-36">V 36 23</ref> «Et anchora li porta chon siego una tenda chon la qual eli sta soto quando el piove»,
+         <ref type="witlink" target="#va-null-55">VA LV 21</ref> «[…] egli non portano niente de suo’ arnixe se non una pizolla tenda dove egli stano
+         soto quando el piove»; <ref type="witlink" target="#vb-null-57">VB LVII 12</ref> «[…] chadauno àno […] una pignatella da chuoxere e una picholla tenda […]».</p>
+	<p>Riferendo di «picciol casette di feltro», Ramusio sembra identificare le tende di
+         cui parla qui Marco Polo con le <hi rend="italics">yurte</hi> descritte in <ref type="witlink" target="#r-i-45">R I 45 3</ref>. Sua deduzione, o retaggio del modello?</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

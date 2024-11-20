@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-27-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-27">
+      <note>
+	<p>Traduzione esatta di <ref type="witlink" target="#z-null-23">Z 23 3</ref> «A contrata ista potest iri ad <term ref="#mare-dindia">Mare Indorum</term>», a sua volta versione di un testo prossimo a <ref type="witlink" target="#f-null-48">F XLVIII 6</ref> «Et de ceste l’en poroit l’en aler a la mer de Endie».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-17-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-17">
+      <note>
+	<p>P III 20 (da VA CXXXIV) e L 157 omettono la transizione conclusiva del capitolo. R riproduce le movenze di <ref type="witlink" target="#z-null-104">Z 104 10</ref> «Non sunt ibi aliqua alia dicenda; et ideo, ulterius procedentes, dicemus de insula
+         que nominatur <term ref="#angaman">Angaman</term>» (ancora una volta fedele traduzione di F CLXX 4 «N’i a autre qe ‹a› mentovoir face; e por ce ‹e›n partiron et voç conteron de l’autre
+         ysle qe est apelé <term ref="#angaman">Angaman</term>»); modificano il dettato in maniera indipendente V 88 4 «Or in questa nonn è altro da dire, et imperò anderemo ad un’altra ixola» e VB CXL 4 «Non più parllerò de questa isolla et dirò del’altra chiamata in suo lingua <term ref="#angaman">Agaman</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

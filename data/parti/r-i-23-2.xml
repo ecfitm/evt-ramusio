@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-23-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-23">
+      <note>
+	<p>Ramusio modella il proprio testo sul dettato di <ref type="witlink" target="#z-null-20-1-23">Z 20 2-3</ref> «Montes eius versus meridiem sunt magni, quorum aliqui in totum sunt sal; pro quo
+         sale accipiendo omnes circumstantes a .XXX. dietis accedunt. Est enim melior qui reperiatur
+         in mundo, sed tam durus quod ex eo nisi cum piconibus ‹non› potest toli; ibique in
+         tanta copia reperitur quod universus mundus ad sui usum inde uberius fulciretur»),
+         traduzione piuttosto fedele di quanto si legge in <ref type="witlink" target="#f-null-45">F XLV 3</ref> «[…] et les sien montagnes dever midi sunt mult grant et sunt toute sal, et tout
+         la contree environ trointe jornee vienent por cel sal, ki est le meior do monde: il
+         est si dur{o} qe ben n’en pout prendre se no con grant pigon de fer; et voç di qu’il
+         est en si grant abundance qe tout lo monde enn’aurént aseç jusque a la fin dou secle»);
+         minimo, ma significativo, è lo scarto che separa Z da F nella relativa «quorum [montium]
+         <hi rend="italics">aliqui</hi> in totum sunt sal» (&gt; «<hi rend="italics">alcuni</hi> de’ quali sono […]» R) a fronte del francoit. «les sien montagnes […] sunt mult grant
+         et sunt <hi rend="italics">toute</hi> sal»: l'estensore di Z informa – sulla base di dati di prima mano? – che soltanto
+         alcune (non tutte!) le montagne della regione di <term ref="#thaican">Thaican</term> forniscono il sale.</p>
+	<p>La traduzione di Z è integrata in qualche punto con lezioni peculiari di P e – soprattutto
+         – VB: «i suoi monti sono grandi <hi rend="italics">et</hi> <hi rend="italics">alti</hi>» R &lt; <ref type="witlink" target="#p-i-32">P I 32 3</ref> «Montes habet […] altos et maximos» (&lt; <ref type="witlink" target="#va-null-32">VA XXXII 3</ref> «[…] lle suo’ montagnie […] sono molto alte e grande»); «sale <hi rend="italics">bianco </hi>et durissimo» R &lt; <ref type="witlink" target="#vb-null-27">VB XXVII 7</ref> «[…] et è salle molto biancho e saporito et duro chome saso»; «rompendolo <hi rend="italics">con pali di ferro</hi>» R &lt; <ref type="witlink" target="#vb-null-27">VB XXVII 7</ref> «se conven ronpere e tagliare con palli de fero».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

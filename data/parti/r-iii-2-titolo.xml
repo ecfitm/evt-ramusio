@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-2-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-2">
+      <note>
+	<p>F CLVIII (Ci devise de l’isle de <term ref="#zipangu">Cipingu</term>) / F CLIX (Comant les gens dou <term ref="#gran-can">Grant Kan</term> eschampoie de la tenpeste de la mer et pristrent puis la cité de lor enimis); P III 2 (De insulis Cypangu. Capitulum II) / P III 3 (Qualiter <term ref="#gran-can">Magnus Kaam</term> misit exercitum suum ut sibi conquireret insulam <term ref="#zipangu">Çipangu</term>. Capitulum III) / P III 4 (Qualiter confracte sunt naves <term ref="#tartari">Tartarorum</term> et quomodo multi de exercitu evaserunt. Capitulum IIII) / P III 5 (Qualiter <term ref="#tartari">Tartari</term> sagaciter redierunt <term ref="#zipangu">Çimpangu</term> et civitatem principalem ceperunt. Capitulum V) /  P III 6 (Qualiter obsessi fuerunt <term ref="#tartari">Tartari</term> et civitatem quam ceperant reddiderunt. Capitulum VI), VA CXXII 1-20 (Dell’ixolla de <term ref="#zipangu">Zinpagu</term>, dove è cotanto oro); Z 92 / Z 93 (Qualiter gentes <term ref="#gran-can">Magni Can</term> a tempestate maris evaserunt et postmodum ceperunt civitatem inimicorum); L 143 1-14 (De insula Cimpingu); V 81 (Del’ixolla chiamata <term ref="#zipangu">Zipugu</term>); VB CXXVII. </p>
+	<p>Forse sull’esempio di VB, Ramusio riunisce in una sola unità il materiale che, nella
+         tradizione, è normalmente disposto in due capitoli (P rappresenta un caso eccentrico
+         di frammentazione). La prassi del <hi rend="italics">bricoleur</hi> dà qui un esito che non può essere rappresentato nell’indicazione di una fonte univoca
+         da porre a fronte del testo di R: la descrizione delle ricchezze dell’isola e l’inizio
+         della narrazione del conflitto nippo-mongolo (parr. 1-10) seguono la lettera di Z 92; il resto del resoconto segue P III 3 e sgg. (assai più breve di quello in Z, e caratterizzato da una significativa innovazione:
+         vedi le note a par. 11 e sgg.), con innesti tratti dal testo di Z 92  e Z 93.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

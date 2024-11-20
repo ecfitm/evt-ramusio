@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-30</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>L’informazione – assente nell’assoluta maggioranza dei testimoni del <hi rend="italics">Milione </hi>– si legge soltanto in <ref type="witlink" target="#z-null-85">Z 85 60-61</ref> «In civitate <term ref="#quinsai">Quinsay</term> examinatum est quod, die qualibet, pro eius usu .XLIII. saume piperis expenduntur,
+         et quelibet sauma ponderis est librarum .CCXXIII. Ergo considerare potestis ex hoc
+         quot sunt alie species que ibi expenduntur, et etiam ad universas expensas quot necessaria
+         requiruntur».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

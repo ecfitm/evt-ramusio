@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-51</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-51">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 51</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-51_2_1" n="1"> <term ref="#lop">Lop</term> est maxima civitas in principio et introytu maximi deserti quod dicitur desertum
+         de <term ref="#lop">Lop</term>, et est inter oriens et grecum. </seg>
+      <seg xml:id="l-null-51_2_2" n="2"> Et gentes adorant <term ref="#macometto">Machomet</term>. </seg>
+      <seg xml:id="l-null-51_2_3" n="3"> Oportet autem eos qui volunt hoc desertum transire aliquibus diebus in hac refici
+         civitate, deinde sumere victualia pro se et animalibus suis pro uno mense. Et dicitur
+         quod est hoc desertum tante longitudinis quod in anno perambulari non posset, et ubi
+         minoris est latitudinis vix uno mense transitur; et est per totum arena, montes et
+         valles ubi nulla inveniuntur victualia. Et postquam quis iverit una die et nocte yemis
+         tempore invenit aquam dulcem, tamen in modica quantitate, que forte sufficeret .C.
+         hominibus cum suis animalibus, ‹et fere›; et isto modo quasi continue per diem et
+         noctem invenitur aqua. In pluribus tamen locis inveniuntur aque amare et salse, et
+         omnes relique que sunt circa .28. milia sunt bone. </seg>
+      <seg xml:id="l-null-51_2_4" n="4"> Nulla avis neque bestia apparet:
+         carent enim cibo. </seg>
+      <seg xml:id="l-null-51_2_5" n="5"> In transitu ‹autem› huius deserti tale mirandum apparet: quod
+         si aliquis forte a sociis deviaverit, dum de nocte perambulat, et voluerit ad socios
+         pervenire, audit spiritus ad modum sociorum qui aliquando suo ‹proprio› nomine clamant;
+         et tali modo multociens taliter homines deviant quod numquam sociis coniunguntur.
+         Et non solum hec de nocte apparent, sed multociens de die tales voces audiuntur; et
+         aliquando audiuntur multa sonare instrumenta et maxime campanelle, et hoc ideo quia
+         homines transeuntes appendunt bestiis suis campanellas, ut ipsas sentiant et ne deviare
+         possint. </seg>
+      <seg xml:id="l-null-51_2_6" n="6"> Hoc desertum hiis maximis transitur incommodis.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

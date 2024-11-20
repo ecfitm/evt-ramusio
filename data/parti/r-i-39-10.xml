@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-39-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-39">
+      <note>
+	<p>R rispecchia bene il dettato di <ref type="witlink" target="#z-null-36">Z 36 14</ref> «Ittem in uxores accipiunt consanguineas et novercas» e <ref type="witlink" target="#l-null-56">L 56 5</ref> «Consanguineas eciam et uxores patris licite in uxores accipiunt»; il sost. <hi rend="italics">consanguineas</hi>, che Ramusio svolge in endiadi («le parente et congiunte di sangue»), traduce in
+         termini più generici <hi rend="italics">cousines</hi> “cugine” di <ref type="witlink" target="#f-null-61">F LXI 13</ref> «Il prenent le cousines por feme et prenent la feme sun pere».</p>
+	<p><ref type="witlink" target="#p-i-49">P I 49 4</ref> («Consanguineas secundi gradus uxores accipiunt, similiter etiam novercas») allontana
+         – forse con intenti censori – il grado di parentela, <ref type="witlink" target="#v-null-33">V 33 8</ref> («Anchora queli tuol per moier suo’ chuxine e so amede») sostituisce impropriamente
+         – per <hi rend="italics">faute</hi> di traduzione? – le <hi rend="italics">matrigne</hi> (F <hi rend="italics">feme sun pere</hi>, L <hi rend="italics">uxores patris</hi>, Z <hi rend="italics">novercas</hi>) con le <hi rend="italics">amede</hi> “zie paterne”, <ref type="witlink" target="#vb-null-45">VB XLV 6-7</ref> sviluppa a piacere, come di consueto, la lezione del modello («[…] se alguna dele
+         moglie dapo’ tulte non ge piaqueno, e g’è licito a chaçarlle via e pò tuor per moglie
+         la sorela dela moglie chaçada. Et ecian no i è vetatto tuor la madregna (çoè la moglie)
+         fose statta del padre, pur non fose soa madre; ecian la moglie dil fratello et ogni
+         alltra parente loro»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

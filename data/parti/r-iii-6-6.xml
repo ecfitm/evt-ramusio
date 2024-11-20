@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-6-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>Il resoconto di Ramusio segue fedelmente Z 95 13-15 «Sed omnia casalia et habitationes, per planicies existendo, dirupte erant et vaste.
+         Et cum rex videret quod gentes iste regnum suum taliter destruebant, ad <term ref="#gran-can">Magnum Can</term> nuncios suos transmisit ut, cum homo senex eset et regnum suum semper in tranquilla
+         pace tenuerit, sibi non placeret destructio regni sui, removendo dictum baronem cum
+         eius gente abinde. Nam singulis anis volebat ipsum tributo elephantum et ligni aloe
+         honorifice presentare». </p>
+	<p>L’ambasceria del re – riferita da Z in forma indiretta – si presenta nella forma della
+         citazione diretta in F CLXI 5-7 «[…] mes tous les plaingnes e les casaus estoient toutes gastee e destruites. Et
+         quant ceste roi voit que cestui li aloit ensi gastant e destruant son roigne, il en
+         a grant doleur: il prant mantinant seç mesajes e les mande au <term ref="#gran-can">Grant Kan</term> con tel mesajarie com vos oirés. Les mesajes s’esproitent tant qu’il furent venu
+         au <term ref="#gran-can">Grant Kan</term> e li distrent: “Sire, li roi de <term ref="#ziamba">Cianba</term> vos salue come a son seingnor lige, e vos mande qu’il est home de grant aajes e qe
+         lonc tens a tenu sun regne en pais, e vos mande qu’il vuelt estre votre home et voç
+         velt rendre por trëu chascun an leofanz asez, e vos prie doucemant e vos crie merci
+         que voç votre baron et vestre jens qe destruent son reingne faites partir de sa tere”.
+         E ‹a›tant se taient le mesajes, que ne dit plus». La forma scelta da F si conserva
+         <hi rend="italics">tel quel</hi> in V 83 4-6 «[…] ma tuta la pianura e chaxalli ierano destruti e guasti. Et quando questo re
+         vete che questa zente vastava el so reame ebe gran dolore, et subito mandò suo’ anbasadori
+         al <term ref="#gran-can">Gran Chan</term>, i qualli essendo lì davanti disse: “El nostro re de Zianban ve manda molti saluti chomo suo’ Signor, e mandave a dire ch’el vol tegnir el suo’
+         reame in paxe, et zaschadun ano ve vol dar diexe lionfanti per trabuto. E priegave
+         charamente che vui fazate partir el vostro baron chon le suo’ zente, le qual vastano
+         el so reame”»; si allinea a Z VB CXXXI 4-5 «[…] ma el paexe dal’esercito tutto fia guasto. <term ref="#accambale">Acianballe</term>, vedendo la destrucione del suo paexe, mandò suo’ anbasiatori al <term ref="#gran-can">Gran ‹Can›</term> con benigne et umane ‹parolle› che senpre, per tutti i çorni della vita soa, el se
+         avea chiamatto suo servitore; e senpre vivesto con el <term ref="#gran-can">Gran Can</term> pacificha e quietamente et aveallo senpre reverito et amato chome suo segnore e disponea
+         senpre cossì fare; e che lo ’l pregava che, ora che l’era vechio et pocho avea a vivere,
+         lo ’l volesse lasare con riposso fenire i çorni suoi, e ch ’ell era contento chome
+         da suo segnore rechognossere la segnoria di quello paexe e darge ogni ano quella quantità
+         de leofanti i parea coveniente». P III 9 3 adotta una forma ancora più sintetica: «[…] sed quia regionis villas et arbores devastabant,
+         promisit rex Cimba annuatim <term ref="#gran-can">Magno Kaam</term> tributa persolvere si eum volebat in pace dimittere» (soluzione mutuata dall’antigrafo
+         VA CXXIII 5 «[…] ma perzioché i feano gran guasto per la contrà, lo re promesse de render trabuto
+         ogni ano al <term ref="#gran-can">Gran Chaan</term> vinti alifanti, li mior ch’el podeva trovar in soa contrà». Su L 145 2-3 vedi la nota a <ref type="witlink" target="#r-iii-6">R III 6 4</ref>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

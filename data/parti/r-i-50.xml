@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-50</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-50" n="1">
+    <head>
+      <hi rend="bold">R, I 50</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-50_1_1" n="1"> Come, partendosi da <term ref="#campion">Campion</term>, si vien al regno de <term ref="#erginul">Erginul</term>; et della città di <term ref="#singui">Singui</term>; et delli buoi, che hanno un pelo sottilissimo; et della forma dell’animal che fa
+         il <term ref="#muschio">muscho</term>, et come lo prendono; et de’ costumi degl’habitanti, et bellezza delle lor donne.
+         Cap. 50.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-50_2_1" n="1"> Partendosi dalla provincia di <term ref="#campion">Campion</term> si va per cinque giornate, nelle quali si odono piú volte la notte parlar molti spiriti,
+         con gran paura de’ viandanti; et in capo di quelle, verso levante, si trova un regno
+         nominato <term ref="#erginul">Erginul</term>, qual è sottoposto al <term ref="#gran-can">Gran Can</term>, et contiensi sotto la provincia di <term ref="#tanguth">Tanguth</term>. </seg>
+      <seg xml:id="r-i-50_2_2" n="2"> In detto regno sono molti altri regni, le cui genti <term ref="#idolatri">adorano gli idoli</term>; vi sono alcuni christiani nestorini et Turchi, et molte città et castella, de’ quali
+         la maestra città è <term ref="#erginul">Erginul</term>. </seg>
+      <seg xml:id="r-i-50_2_3" n="3"> Dalla qual partendosi poi verso <term ref="#sirocco">sirocco</term> si può andare alle parti del <term ref="#cataio">Cataio</term>, et andando per <term ref="#sirocco">sirocco</term> verso ’l <term ref="#cataio">Cataio</term> si trova una città nominata <term ref="#singui">Singui</term>, et anchor la provincia si chiama <term ref="#singui">Singui</term>, nelle quale sono molte città et castella: et contengonsi in detta provincia di <term ref="#tanguth">Tanguth</term> et sotto il dominio del <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-i-50_2_4" n="4"> Le genti di questa provincia <term ref="#idolatri">adorano gli idoli</term>; alcuni osservano la legge di <term ref="#macometto">Macometto</term>, et alcuni sono christiani. </seg>
+      <seg xml:id="r-i-50_2_5" n="5"> Ivi si trovano molti buoi salvatichi, i quali sono della grandezza quasi degl’elephanti
+         et bellissimi da vedere, però che sono bianchi et neri. </seg>
+      <seg xml:id="r-i-50_2_6" n="6"> I loro peli sono in cadauna
+         parte del corpo |16r| bassi, eccetto che sopra le spalle, che sono lunghi tre palmi;
+         qual pelo o vero lana è sottilissima et biancha, et piú sottile et biancha che non
+         è la seta: et messer Marco ne portò a Venetia come cosa mirabile, et cosí da tutti
+         che la viddero fu reputata per tale. </seg>
+      <seg xml:id="r-i-50_2_7" n="7"> Di questi buoi molti si sono dimesticati,
+         che furon presi salvatichi. [8] Et fanno coprire le vacche domestiche, et i buoi che
+         nascono di quelle sono maravigliosi animali, et atti a fatiche piú che niun altro
+         animale: et gli huomini gli fanno portare gran carichi, et lavorano con quelli la
+         terra il doppio piú di quello che lavorano gli altri, et sono molto forti et gagliardi.
+         [9] In questa contrata si trova il piú nobile et fino <term ref="#muschio">muschio</term> che sia nel mondo, et è una bestia picciola come una gazella, cioè della grandezza
+         di una capra, ma la sua forma è tale: ha i peli a similitudine di cervo, molto grossi,
+         li piedi et la coda a modo di una gazella; non ha corne come la gazella. [10] Ha quattro
+         denti, cioè duoi dalla parte di sopra et duoi dalla parte di sotto, lunghi ben tre
+         dita et sottili, bianchi come avolio, et duoi ascendono in su et duoi descendono in
+         giú, et è bello animale da vedere. [11] Nasce a questa bestia, quando la luna è piena,
+         nel’umbilico sotto il ventre una apostema di sangue, et i cacciatori nel tondo della
+         luna escono fuori a prender di detti animali, et tagliano questa apostema come la
+         pelle et la seccano al sole: et questo è il piú fin <term ref="#muschio">muschio</term> che si sappi. [12] Et la carne del detto animal è molto buona da mangiare, et pigliasene
+         in gran quantità, et messer Marco ne portò a Venetia la testa et i piedi di detto
+         animale secchi. [13] Gli huomini veramente vivono di mercantie et di arti; hanno abondanza di biade. [14] Il transito della provincia è di venticinque giornate, nella quale si trovano fagiani
+         il doppio maggiori de’ nostri, ma sono alquanto minori de’ pavoni, et hanno le penne
+         della coda lunghe otto o dieci palmi. [15] Ne sono ancho della grandezza et statura
+         come sono li nostri, et vi sono anchor altri uccelli di molte altre maniere, che hanno
+         bellissime penne di diversi colori. [16] Quelle genti <term ref="#idolatri">adorano gli idoli</term>, et sono grassi et hanno il naso picciolo; i loro capelli sono neri, et non hanno
+         barba, salvo che quattro peli nel mento. [17] Le donne honorate non hanno similmente
+         pelo alcuno eccetto i capelli, et sono bianche, di belle carne et ben formate in tutti
+         i membri, ma molto lussuriose. [18] Gli huomini molto si dilettano di star con quelle,
+         perché, secondo le lor consuetudini et leggi, possono haver quante mogli vogliono,
+         purché possino sustentarle. [19] Et se alcuna donna povera è bella, li ricchi per
+         la sua bellezza la pigliano per moglie, et danno alla madre et parenti molti doni
+         per haverle, perché non apprezzano altro che la bellezza. [20] Hora si partiremo de qui, et diremo di una provincia verso levante.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

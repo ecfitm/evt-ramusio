@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-89</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-89">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXXIX</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-89_1_1" n="1"> <term ref="#cingui">‹C›ingui</term> è una provincia versso levante vecina alla sopra dita, la qualle à re e linguaço
+         per si, sotoposta però al <term ref="#gran-can">Gran Can</term>, et sono tuti <term ref="#idolatri">idolatrii</term>. </seg>
+      <seg xml:id="vb-null-89_1_2" n="2"> Questo segnore è molto libidinoxo: tiene oltra iiic femene e dove sa essere nella provincia alchuna bella femina la volle per moglie.
+         </seg>
+      <seg xml:id="vb-null-89_1_3" n="3"> In questa provincia se trova più sorte specie e oro assai, et è molto lutana dal
+         mare et però è bon marchato de quelle. </seg>
+      <seg xml:id="vb-null-89_1_4" n="4"> Sòne molti liofanti e molte altre bestie
+         salvatiche de molte facion. </seg>
+      <seg xml:id="vb-null-89_1_5" n="5"> Viveno de late, rixi e charne; beveno vin de rixi
+         fato con specie ch’è bello e deletevolle a bere. </seg>
+      <seg xml:id="vb-null-89_1_6" n="6"> Tuta questa giente, sì mascholli
+         come femine, àno tuta la persona su per la carne depinte e per modo per lavare né
+         per alltro non vano via; sono depinti ad algune soe opere con oselli et alltre bestie
+         e quanto sono più gentilli tanto sono meio depinti e tengono quele deponture per gentille
+         e bella cossa.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

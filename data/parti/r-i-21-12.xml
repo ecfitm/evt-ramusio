@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-21-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-21">
+      <note>
+	<p>Ramusio sunteggia il dettato della tradizione selezionando ciò che realmente gli interessa:
+         la descrizione delle vittime illustri del <term ref="#vecchio-della-montagna">Vecchio</term> e la sua costruzione di un dominio territoriale basato sul terrore. Il lavoro redazionale
+         di selezione e montaggio è molto fitto.</p>
+	<p>Tangenze significative ed esclusive con F (in particolare il riferimento ai «duoi
+         suoi vicarii», per cui vd. <ref type="witlink" target="#f-null-42">F XLII 9</ref> «Et encor voç vuoil dir un’autre chouse que je avoi laissé de lui, car je voç di
+         qe cest vielz …†… qui estoient sotopost a lui et tenoient toute sa mainere et sez
+         costumes: et le un envoie e’les parties de <term ref="#damasco">Domas</term>, et le autre envoie en <term ref="#curdistan">Cordistan</term>») suggeriscono che la fonte principale di R sia stata anche qui Z, la cui lezione
+         originale è purtroppo irrecuperabile, stante la versione ampiamente compendiosa del
+         toledano: cfr. <ref type="witlink" target="#z-null-17">Z 17 9-10</ref> «[…] et sic promitebat eis paradisum si velent occidere aliquos magnates, et sic
+         multos fecit occidi. Quare quam plures reges ei redebant tributum; et hoc erat quia
+         gentes tunc non erant in unitate dominii, sed divise cordibus et voluntatibus».</p>
+	<p>Il testo di Z è integrato con tessere di P e VB: a P rimontano, ad es., i segmenti
+         «per questa causa […] come un tiranno» (&lt; <ref type="witlink" target="#p-i-28">P I 28 8</ref> «ob quam causam […] effecti sunt illi tributarii et subiecti»), «et si esponevano
+         ad ogni manifesto pericolo» (&lt; <ref type="witlink" target="#p-i-28">P I 28 7</ref> «illi autem, omni periculo se exponentes […]») etc.; a VB, «niuno temeva la morte,
+         pur che facessero il comandamento et volontà del detto <term ref="#vecchio-della-montagna">Vecchio</term>» (&lt; <ref type="witlink" target="#vb-null-26">VB XXVI 12-13</ref> «[…] et chomandavai l’andasse ad alcider quello, prometendoi el non dubitasse de
+         morire perché lo i prometeva l’anderia nel Paradisso. Et a questo modo i paci sença
+         alchun dubio di morte se ne andava come rabiosi, fin i metevano el chomandameto del
+         Vegio a sechucione»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

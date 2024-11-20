@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-34-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-34">
+      <note>
+	<p><ref type="witlink" target="#f-null-55">F LV</ref> (Ci comance de la provence de <term ref="#ciarcian">Ciarcian</term>); <ref type="witlink" target="#l-null-50">L 50</ref> (De provincia <term ref="#ciarcian">Ciarcian</term>); <ref type="witlink" target="#p-i-43">P I 43</ref> (De provincia <term ref="#ciarcian">Ciarciam</term>), <ref type="witlink" target="#va-null-42">VA XLII</ref> (De <term ref="#ciarcian">Ciarcian</term>, dove la tera è pur sabion);  <ref type="witlink" target="#v-null-29">V 29 4-10</ref> (Dela provinzia de <term ref="#peym">Pin</term> e de quela de <term ref="#ciarcian">Zarzian</term>); <ref type="witlink" target="#vb-null-38">VB XXXVIII</ref>; <ref type="witlink" target="#z-null-29">Z 29</ref>.</p>
+	<p>L’esame sinottico conferma la stretta dipendenza del capitolo di R da Z almeno per
+         le pericopi 1, 2 e 5; per il resto, la versione estremamente <hi rend="italics">abrégée</hi> del toledano rende impossibile ogni confronto. Tuttavia, il costante parallelismo
+         di R con F, abbinato alla mancata rispondenza con il testo degli altri modelli (ad
+         eccezione di qualche probabile inserto da L e VB), consente di ipotizzare che Z sia
+         stata la fonte principale anche per questo capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

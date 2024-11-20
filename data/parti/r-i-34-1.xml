@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-34-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-34">
+      <note>
+	<p>L’esordio del capitolo è tradotto <hi rend="italics">verbatim</hi> da <ref type="witlink" target="#z-null-29">Z 29 1-2</ref> «<term ref="#ciarcian">Ciarcian</term> est quedam provincia <term ref="#gran-turchia">Magne Turchie</term>. Iam nob‹i›lis contrata fuit et fecunda, sed multum per <term ref="#tartari">Tartaros</term> est deserta», dove mancano soltanto, per lacuna, le coordinate geografiche della
+         provincia («intra greco et levante»). Z segue grosso modo  <ref type="witlink" target="#f-null-55">F LV 2</ref> «<term ref="#ciarcian">Ciarcian</term> est une provence de la <term ref="#gran-turchia">Grant Turchie</term>, entre grec et levant», con l’aggiunta di un dettaglio sulle devastazioni prodotte
+         in quei territori dalle incursioni dei <term ref="#tartari">Tartari</term>.</p>
+	<p>Gli altri relatori sono sostanzialmente coerenti con F; va segnalata solto l’identità
+         di L e VA (fonte di P) nell’inserzione – probabilmente poligenetica (in quanto facilmente
+         dettata dal contesto) – dell’avv. <hi rend="italics">adhuc</hi> (L) / <hi rend="italics">altrosì </hi>(VA), privo di riscontro nella restante tradizione: vd. <ref type="witlink" target="#l-null-50">L 50 1</ref> «<term ref="#ciarcian">Ciarcian</term> est provincia quedam adhuc de <term ref="#gran-turchia">Grandi Turchia</term> inter oriens et grecum», <ref type="witlink" target="#va-null-42">VA XLII 1</ref> «<term ref="#ciarcian">Ciarcian</term> è una provinzia ‹ch’›è altrosì della <term ref="#gran-turchia">Gran Turchia</term>, ‹et› è dentro griego e levante».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

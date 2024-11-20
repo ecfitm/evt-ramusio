@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-30-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-30">
+      <note>
+	<p>Ramusio segue quasi alla lettera <ref type="witlink" target="#z-null-48-1-6">Z 48 9-11</ref> «Et cum itum est septem dietis,  invenitur queda‹m› civitas nomine <term ref="#pianfu">Pyanfu</term>, que est valde magna et magni valoris. Sunt in ea multi mercatores. Vivunt de mercimoniis
+         et artibus» (che riflette da vicino  <ref type="witlink" target="#f-null-106">F CVI 8</ref> «Et quant il a alés .VII. jornee, adonc treuve une cité, qe est apellés <term ref="#pianfu">Pianfu</term>, qe mout est grandissme et de grant vailance, en la quel a mercaanç asez. Il vivent
+         de merchandie et d’ars […]»). Le coincidenze di R con V – che risulta  prossimo a
+         Z e F – sono abbastanza generiche, e meno puntuali di quelle che lo legano a Z: vd.
+         <ref type="witlink" target="#v-null-51">V 51 5</ref> «Et quando el se sono andado sete zornade el se trova una zitade chiamata <term ref="#pianfu">Pufun</term>, la qual sono molto granda e de gran valor, in la qual abita molti marchadanti i
+         qual viveno de marchadantie e d’arte […]». Il passo è più o meno accorciato in <ref type="witlink" target="#l-null-87">L 87 1</ref> «[…] tunc invenitur nobilis et magna civitas dicta <term ref="#pianfu">Pianfu</term>, in qua sunt mercatores quam plurimi, et artiste […]», <ref type="witlink" target="#p-ii-29">P II 29 5</ref> «Ultra .VII. dietas predictas invenitur civitas <term ref="#pianfu">Pianfu</term> grandis valde et magna opum […]», e <ref type="witlink" target="#vb-null-75">VB LXXV 7</ref> «Et a chapo de dite .VII. giornate se trova una citade chiamata <term ref="#pianfu">Pianfu</term> che è bella e gran citade e vive de marchadantie et de arte […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

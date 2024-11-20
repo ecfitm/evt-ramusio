@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-65</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-65">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 65</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-65_2_1" n="1"> ‹Q›uando el se parte dela zità de <term ref="#singuimatu">Segui</term> el se va per mezozorno hoto zornade, trovando zitade e chastelli de gran richeze
+         e marchadantie; la zente dele qualle <term ref="#idolatri">adora l’idolle</term>, et fano bruxar li chorpi morti, ed è soto la signoria del <term ref="#gran-can">Gran Chan</term>; le suo’ monede sono de charta. </seg>
+      <seg xml:id="v-null-65_2_2" n="2"> Et in chavo de hoto zornade se trova una zitade
+         chiamata <term ref="#iangui">Angui</term>, et per el simel se chiama la provinzia. </seg>
+      <seg xml:id="v-null-65_2_3" n="3"> Et a chavo dela provinzia sono questa
+         zitade, la qualle sono nobelle et molto richa; et i omeni de quella sono valenti nel’arme
+         et fano molte marchadantie et arte, et molte chazaxon de bestie salvadege et oxelli
+         in abondanzia; et àno de tute vituarie in gran quantitade. </seg>
+      <seg xml:id="v-null-65_2_4" n="4"> Et questa sono sopra
+         el fiume ve ò dito di sopra; et chostor àno mazor nave de quelle ve ò dito di sopra,
+         et entro quelle sono portade de gran marchadantie. </seg>
+      <seg xml:id="v-null-65_2_5" n="5"> Et partendosse da questa zitade
+         el se va tre zornade per mezozorno, trovando chontinuamente molte belle zitade e chastelli;
+         et la zente de quelle <term ref="#idolatri">adora le idole</term>, et fano bruxar i chorpi morti; et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>; et la lor moneda sono de charta. </seg>
+      <seg xml:id="v-null-65_2_6" n="6"> Et sono mior chazaxon del mondo de bestie salvadege
+         e de oxelli; ed è abondanzia de tute vituarie. </seg>
+      <seg xml:id="v-null-65_2_7" n="7"> Et in chavo de queste tre zornade
+         se trova una zitade chiamata Pingui, et sono nobelle e granda e de gran marchadantie
+         ed arte; et sono seda in gran quantitade. </seg>
+      <seg xml:id="v-null-65_2_8" n="8"> Et questa zitade sono |80r| chapo dela
+         provinzia; et in questa zitade i marchadanti charga li chari de molte marchadantie
+         et quelle porta in <term ref="#mangi">Mangi</term>; sì che questa zitade rende molto profito al <term ref="#gran-can">Gran Chan</term>. [9] Or de questa nonn è altro che dire, però de qui se partiremo et anderemo in
+         una altra zitade.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

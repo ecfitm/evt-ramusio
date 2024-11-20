@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-14-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-14">
+      <note>
+	<p>L’espressione «[…] secondo la risposta che fanno li diavoli» suggerisce che in questo
+         passaggio Ramusio abbia rinunciato a <ref type="witlink" target="#z-null-101">Z 101 4-8</ref> («[…] mititur per consanguineis et magis; quos magos perscrutari et videre faciunt
+         utrum eger debeat liberari. Et isti magi, propter eorum veneficia, artem dyabolicam
+         et ydola, dicunt se scire et cognoscere utrum liberari debeat eger vel mori. Et non
+         credatis quod, quia dicitur «per artem diabolicam», sic esse demonstrent. Ymo dicunt
+         quod virtute deorum, mediante arte sua»), che contiene un lungo intermezzo metadiegetico,
+         a favore della più secca soluzione di P III 17 2 «[…] consanguinei eius magos et incantatores ad illum adducunt, interrogantes an
+         ille valeat liberari; illi autem magi secundum responsa demonum sibi facta de ipsius
+         convalescencia vel morte respondent»  (il suo modello, VA CXXXI 3 «[…] i parenti so mandano per i maistri e domandano se quel’infermo die’ guarir,
+         e i maistri fano suo’ inchantamenti de demonii», risponde alla soluzione di F CLXVII 3-4 «[…] et adonc mandent lor parens por les maguis et font veoir se le malaides doit
+         guarir. Et cesti maguis, por lor encantament et por lor ydres, sevent se il doit guerir
+         ou morir»). Sulla stessa linea di P etc. si pongono V 83 24-25 «[…] i mandano per i parenti et amixi. Et quelli fano veder se lo infermo se die’
+         liberar a zerti magi per inchantaxon et arte diabolicha; et sì sano dalo infermo s’el
+         die’ varir ho morir […]»;VB CXXXVII 3 «[…] subito i mandano per i parenti loro et poi manda per i magici, over inchantadori,
+         ai qual i fano vedere l’infermo. Et quelli, dapo’ fato i ssuo’ incanti, se i vedeno
+         l’infermo debia guarire quello fi studiato […]»; e (in forma più abbreviata) L 154 3 «[…] eorum magos et astrologos consulunt utrum ex tali infirmitate mori debeat, vel
+         liberari possit».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

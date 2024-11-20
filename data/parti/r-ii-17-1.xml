@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-17-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-17">
+      <note>
+	<p>R riflette in sostanza il dettato di V e di F. Alcune varianti formali suggeriscono
+         che la sua fonte fosse più prossima al secondo: vd. <ref type="witlink" target="#f-null-94">F XCIV 2-3</ref> «Et quant il est venus a sa mestre vile de <term ref="#cambalu">Cambalu</term>, il demore en son maistre palais .III. jors et ne plus. Il tient grant cort et riche
+         tables, il fait grant joie et grant feste avech seç femes, car je voç di qu’il est
+         merveilose chouse a veoir [R «è cosa mirabile a vedere»] la grant solenpnité qe le
+         Grant Sire fait en cest .III. jors» [R «la solennità che egli fa in questi tre giorni»];<ref type="witlink" target="#v-null-45"> V 45 1</ref> «‹E›t zonto che sono el <term ref="#gran-can">Gran Chan</term> in <term ref="#cambalu">Chanbalun</term> el vano al suo’ palazo, et là stassene tre zornade et niente più chon la suo’ chorte,
+         et fano gran festa et solazo; et in questi tre zorni fano gran solenitade ch’el sono
+         chossa meraveioxa a vedere […]». Non si danno indizi di contatti con P, che reca un
+         testo fortemente accorciato: <ref type="witlink" target="#p-ii-20">P II 20 12</ref> «[…] et cum ad civitatem pervenitur curiam maximam et iocundissimam tenet tribus
+         diebus in suo regali palatio, deinde qui ad hec vocati fuerant ad propria revertuntur».
+         L e VB omettono il passo. </p>
+	<p>L’intero capitolo manca in Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

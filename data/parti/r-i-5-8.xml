@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-5-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-5">
+      <note>
+	<p>Il paragrafo ripete pedissequamente le linee di <ref type="witlink" target="#z-null-4">Z 4 13-14</ref> «[…] sed quod <term ref="#tartari">Tartari</term> fuerint non est verum, quia tunc temporis non erant. Ymo gens quedam fuit nomine
+         <term ref="#cumani">Cumani</term>, et alia genera multa fuerunt». Identica nei contenuti, ma differente nella distribuzione
+         delle tessere è la testimonianza di <ref type="witlink" target="#f-null-22">F XXII 5</ref> («[…] et ce ne fu pas voir qu’il fu{i}ssent <term ref="#tartari">Tartar</term>, mes furent une jens qui estoient apellés <term ref="#cumari">Comain</term> et autres jenerasion asseç, car <term ref="#tartari">Tartarç</term> n’estoient a celui tens»), ribadita con esattezza, tra le fonti ramusiane, dal solo
+         <ref type="witlink" target="#v-null-12">V 12 10</ref>: «Et questo non fo vero che li fosse <term ref="#tartari">Tartari</term>, ma de una zenerazione che nomeva <term ref="#cumani">Cumani</term>, ed ora hè un’altra zenerazion, perché a quel tempo non iera <term ref="#tartari">Tartari</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

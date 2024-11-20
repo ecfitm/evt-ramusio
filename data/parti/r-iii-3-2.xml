@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-3-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-3">
+      <note>
+	<p>A questo punto Ramusio cambia relatore: al discorso indiretto (privo dell’indicazione
+         dell’interlocutore cristiano) di P III 7 2 «Cum autem ab incolis <term ref="#zipangu">Çimpangu</term> horum causa vel racio queritur, nichil aliud respondere sciunt, nisi quod sic ab
+         eorum patribus est creditum et talem ab illis tradicionem habent, voluntque imitari
+         et credere quod imitati sunt patres eorum» (esito di VA CXXII 33 «E quando i èno dimandati perché i fano idole chusì diverse, diseno ch’i voleno far
+         chusì chome fexeno i suo’ antezesori») si preferisce la struttura dialogica, più mossa
+         (una sorta di micro-<hi rend="italics">disputatio</hi>), di Z 94 7 «Et quando christiani ab eis inquirunt cur eorum ydola faciunt sic diversa, respondent:
+         “Sic reliquerunt nobis predecessores nostri, et nos nostris filiis et successoribus
+         relinquemus”» (che ripete il dettato di F CLX 3 «Et le cristie‹n›s disoient elz por coi il fasoient lor ydres si deviseement. Il
+         respongent: “Nostres ancestres les nos laiserent et furent telz, et nos les lairon
+         a nostre filz et a celz que vindront aprés nos”»). </p>
+	<p>Gli altri relatori hanno attitudini diversificate. L 143 16 attesta una soluzione allineata a P: «Et dum queritur ab eis quare ydola tante diversitatis
+         habent, respondent talia ab eorum patribus derelicta fore, que et ipsi suis posteris
+         derelinquent»; V 82 4 passa dal discorso indiretto al diretto: «E quando i christiani i dixeno perché i
+         fano le lor idolle sì diverse, respondeno che i so prezesori chussì li lassò, “et
+         nui chussì lasseremo ai nostri fiolli et suzessori”»; VB CXXVIII 4 si permette una transizione incipitaria dall’evidente carattere amplificatorio, omette
+         l’interlocutore cristiano e conserva la risposta in discorso diretto: «Et questa giente
+         àno in grandissima reverencia i lloro idolli et, essendo quelli domandati perché i
+         ffano i suo’ idolli de tanta deversitade, respondeno: “L’alteça de queste nostre legie
+         ne furono lasate per nostri antecessori et padri: quelle vollemo conservare e llasarlle
+         a’ nostri figiolli”».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

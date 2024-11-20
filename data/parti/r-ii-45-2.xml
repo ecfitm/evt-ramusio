@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-45-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-45">
+      <note>
+	<p>R segue quasi alla lettera la versione stravagante di VB, prodottasi a causa del fraintendimento
+         della lezione originaria <hi rend="italics">escuilés </hi>“castrati” (vd. <ref type="witlink" target="#f-null-125">F CXXV 3</ref>): <ref type="witlink" target="#vb-null-88">VB LXXXVIII 2-3</ref> «[…] avea […] lenguaço per si. La giente sono pessimi <term ref="#idolatri">idolatri</term>; àno mastri che tengono schuolle et insegnano suo’ incanti et idolatrie: et questa
+         dotrina è molto universal a tuti, dicho ecian nei segnori et baroni». Reca un testo
+         corrotto anche <ref type="witlink" target="#v-null-60">V 60 2-3</ref> («E la zente di questa à loquela per sí, et <term ref="#idolatri">adora le idolle</term>» «[…] e là sì sono molti lioni che sono chastradi […]»), mentre <ref type="witlink" target="#l-null-100">L 100 2</ref> accorcia drasticamente: «Et sunt gentes <term ref="#idolatri">ydolatre</term> […]». </p>
+	<p>Il testo originale si conserva in Z e – solo in parte – in P:  <ref type="witlink" target="#z-null-60">Z 60 2-4</ref> «[…] et loquelam per se. Genttes <term ref="#idolatri">adorant ydola</term> […]» / «Sunt ibi multi eunuchi, qui sunt castrati; et inde barones et domini circumstantes
+         illi provincie multos habent ex eis, quos retinent ad suarum custodiam dominarum»
+         (vd. <ref type="witlink" target="#f-null-125">F CXXV 3</ref> «Mes je voç di qe ceste provence ont rois e lengajes por elz. Il sunt pesimes <term ref="#idolatri">ydres</term>, ce entendés ydules. […] Il hi a maint escuilés, et d’iluec les ont tuit les baronç
+         et seingnors qe entor celes provences sunt»);<ref type="witlink" target="#p-ii-45"> P II 45 2-3</ref> «Ibi autem est rex proprius et propria lingua. <term ref="#idolatri">Ydolatre</term> sunt omnes de provincia» (ma vd. pure <ref type="witlink" target="#p-ii-45">P II 45 7</ref> «[…] quorum plurimi eunuci fiunt, qui postmodum emuntur a baronibus per diversas
+         provincias»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

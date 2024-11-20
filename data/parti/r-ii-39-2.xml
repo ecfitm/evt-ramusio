@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-39-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>Come nella pericope precedente, R si mostra molto vicino <ref type="witlink" target="#z-null-56">Z 56 4-7</ref> «Gentes ipsius <term ref="#idolatri">adorant ydola</term>. Et sunt sub dominio <term ref="#gran-can">Magni Can</term>. Et filius eius est rex constitutus in ea; qui est dives, magnus et potens. Et terram
+         suam in multa iusticia manutenet, quia sapientia et probitate multa ornatus». Si potrebbe
+         ritenere che il nome del figlio del <term ref="#gran-can">Gran Can</term>, che manca in Z toledano, figurasse originariamente in Z1. Ma va rilevato che la lezione «di detta provincia» suggerisce uno sporadico ricorso
+         alla testimonianza di <ref type="witlink" target="#vb-null-83">VB LXXXIII 2-3</ref> «I abitanti sono <term ref="#idolatri">idolatri</term> e tuti sotto la segnoria del <term ref="#gran-can">Gran Can</term>. Et de dita provincia è segnore 1° di fiolli del <term ref="#gran-can">Gran Cane</term>, il qualle à nome <term ref="#centemur">Setemur</term>, et è posentisimo segnor e valoroxo et iusto segnore e con grande iusticia governa
+         el paese suo». La forma «<term ref="#centemur">Centemur</term>» di R, pertanto, potrebbe spiegarsi come un tentativo di Ramusio di traslitterare
+         secondo il sistema grafico-fonologico toscano la forma – all’apparenza venetizzante
+         – di VB: «<term ref="#centemur">Se‹n›temur</term>» ⭢«<term ref="#centemur">Centemur</term>».</p>
+	<p>Il nome del sovrano mongolo si presenta in una forma simile a quella di F in<ref type="witlink" target="#p-ii-39"> P II 39 2-3</ref> «Est autem subiecta dominio <term ref="#gran-can">Magni Kaam </term>ubi rex est filius <term ref="#cublai-can">Cublay </term>nomine <term ref="#centemur">Essentem‹iur›</term>, vir prudens et strenuus, potens et ditissimus, qui optime in suo regno servat iusticiam.
+         Habitatores patrie <term ref="#idolatri">ydolatre</term> sunt» e in <ref type="witlink" target="#v-null-56">V 56 13</ref> «[…] la zente dela qualle adora le idolle et sono soto la ssignoria del <term ref="#gran-can">Gran Chan</term>, et el re sono chiamato <term ref="#centemur">Asen</term>, ed è molto richo e grando; et tieno le so tere in gran iustixia, perché l’è valente
+         e gaiardo» (vd.  <ref type="witlink" target="#f-null-117">F CXVII 2</ref> «[…] et sunt <term ref="#idolatri">ydres</term> et sunt au <term ref="#gran-can">Grant Kan</term>; mes roi en est son fil, qe a a non <term ref="#centemur">Esentemur</term>, que mout est grant rois et riche et poisant: il mantient bien sa tere en grant justice,
+         car il est sajes et pr{e}odonmes»). La forma non compare, invece, in <ref type="witlink" target="#l-null-96">L 96 2</ref>, che reca un testo fortemente abbreviato: «Gentes sunt <term ref="#idolatri">ydolatre</term> […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

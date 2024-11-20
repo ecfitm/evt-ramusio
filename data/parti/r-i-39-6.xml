@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-39-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-39">
+      <note>
+	<p>Il passo è versione letterale di <ref type="witlink" target="#z-null-36">Z 36 7-8</ref> «Religiosi igitur <term ref="#idolatri">idolatres</term> magis honeste, secundum se, vivunt quam alii: nam a certis se abstinent, videlicet
+         a luxuria et aliis inhonestis, licet luxuriam non reputent magnum fore peccatum. Nam
+         hec est eorum conscientia, ut si mulier eos amore requirat, possunt cum ea absque
+         pecato coire, si vero ipsi primo mulierem requirant, tunc reputant ad peccatum». La
+         prima parte del testo di Z – «Religiosi […] peccatum» – corrisponde sostanzialmente
+         a quanto si legge in <ref type="witlink" target="#f-null-61">F LXI 7-8</ref> a proposito della retta condotta di vita dei monaci buddisti e della loro complessiva
+         tolleranza riguardo ai comportamenti sessuali («[…] Or sachiés que les regulés de{s}
+         les <term ref="#idolatri">ydules</term> vivent plus honestemant que les autres <term ref="#idolatri">ydres</term>. Il se gardent de luxurie, mes ne l’ont pas por grant pechiés […]»). Nella seconda
+         parte, laddove si entra nello specifico delle prescrizioni in materia, F, Fr, TA,
+         VB da un lato, e Z (&gt; R) dall’altro, divergono radicalmente nell’esemplificazione
+         proposta: i primi riferiscono della pena capitale prevista per i rapporti eterosessuali
+         giudicati contro natura (<ref type="witlink" target="#f-null-61">F LXI 8</ref> «[…] mes si voç di que se il treuvent aucun home que aie jeu con feme contre nature,
+         il condanent a mort», Fr «[…] s’il truevent aucun [qui ait] geu contre nature [avec]
+         autre, il le jugent a mort» [ed. Ménard 2001-2009, II, p. 22], TA «se truovano alcuno
+         uomo che sia giaciuto con femina contra natura, egli lo condanna a morte» [ed. Bertolucci
+         Pizzorusso 1975, p. 83], <ref type="witlink" target="#vb-null-45">VB XLV 4</ref> «E quelli serveno ai tenpli et ai soi idolli viveno onestamente e molto pareno chasti
+         e, se foseno trovadi usar con femene, seria condenati a morte»); Z e R, invece, evidenziano
+         il discrimine tra comportamento lecito («si mulier eos amore requirat, possunt cum
+         ea absque pecato coire») e peccato (viceversa).</p>
+	<p>La divaricazione F/Z può essere spiegata, cautamente, con l’ipotesi di varianti redazionali?</p>
+	<p>Non si diffondono in particolari, forse per ragioni di censura, l’epitome L, che elimina
+         l’intero passo sui costumi dei monaci, e le versioni <ref type="witlink" target="#v-null-33">V 33 6</ref> «Et la vita de questi monexi dele idole vive più honorevelmente che non fano i mondani,
+         perché lor se varda dala luxuria, ma non reputa quel esser gran pechato […]» e <ref type="witlink" target="#va-null-48">VA XLVIII 7</ref> «Li religioxi <term ref="#idolatri">idollatri</term> viveno plui onestamente che non fa l’altra zente, e molti de llor viveno chastamente
+         e guarda-sse de pechar contra sua leze» (&gt; <ref type="witlink" target="#p-i-49">P I 49 3</ref> «Sunt etiam ibi religiosi quidam <term ref="#idolatri">ydolatre</term> qui ceteris <term ref="#idolatri">ydolatris</term> honestius vivant, quorum quidam castitatem servant, multumque cavent ne deorum suorum
+         legem pretereant»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

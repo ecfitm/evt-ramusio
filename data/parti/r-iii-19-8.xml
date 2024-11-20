@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-19-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-19">
+      <note>
+	<p>La descrizione di Ramusio si ritrova <hi rend="italics">verbatim</hi> in V 90 7 «El re de questa ixola àno el più bello rubin che se trova al mondo, né che mai fosse
+         vezuto; e diròve la suo’ grandeza: el sono longo uno palmo, e grosso chomo el brazo
+         del’omo; ed è più luzito cha chosa del mondo, et non àno alguna machula, ed è rosso
+         chomo fuogo; ed è de tanto valor che apena el se poria chonprar per pechunia», e in
+         <ref type="witlink" target="#z-null-106">Z 106 14-18</ref> «Et rex istius insule habet pulcriorem rubinum qui reperiatur in mundo neque qui
+         unquam visus fuisset. Et declarabimus qualiter factus est. E‹s›t quidem longus uno
+         palmo et grosus ut brachium hominis. Splendidissima res est; nullam maculam in se
+         habet. Et est rubeus ut est ignis; et est tanti valoris quod vix posset pro pecunia
+         comparari» (entrambe le redazioni ripetono il discorso di F CLXXII 6 «Et si voç di qe le roi de cest provence a le plus biaus rubin qe soit en tout le
+         monde ne que unques fust veu ne qe se doit veoir, e vos deviserai comant il est fait.
+         Or sachiés qu’il est lonc entor un paum e gros bien tant come le bras de l’ome. Il
+         est le{s} plus espiendent cousse dou monde a veoir: il ne a tecce nulle; il est vermoile
+         come feu; il est de si grant vaillance qe a poine se poroit accater por monoie»).
+         Ramusio aveva a disposizione un testo affine a Z, e si limitò nella traduzione a omettere
+         la transizione metadiscorsiva e a semplificare la dittologia «[…] qui reperiatur in
+         mundo neque qui unquam visus fuisset […]»).</p>
+	<p>Gli altri relatori omettono la notazione conclusiva sul prezzo della pietra: vedi
+         P III 22 6 «Rex insule huius pulcriorem robinum habet qui unquam visus fuerit in mundo: habet
+         enim unius palmi longitudinem et grossitiem ad mensuram grossitiei brachii hominis,
+         est autem splendidum supra modum, omni macula carens, adeo ut ignis ardens esse videatur»
+         (e il suo antigrafo VA CXXXVI 11 «Lo re de questa ixolla à el plui bello rubin che mai fosse vezudo al mondo: ell
+         è ben longo una spana e grosso chome el brazo d’un homo; è respiendente e senza alchuna
+         machulla, et è vermeglio chome fuogo, et è la plui bella cossa del mondo a veder»);
+         L 159 9 «Huius insule rex lapidem mirabilis nobilitatis et pulcritudinis habet; est enim
+         longitudinis unius palmi, cuius grossicies brachio adequatur, omni‹que› carens macula»
+         (pericope su cui si chiude la “scheda” dell’epitome latina); VB CXLII 7 «El re de questa isolla à el più nobelle, el maor rubin abia el mondo né che mai
+         fosse visto, la grandeça del qualle è llongo uno somesso e grosso quanto el braço
+         de chadaun iusto homo; el qualle è neto sença alchuna macholla de prefetissimo e bon
+         chollore».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-28-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-28">
+      <note>
+	<p>R dipenderà qui da Z, giacché corrisponde pressoché esattamente a <ref type="witlink" target="#f-null-49">F XLIX 12</ref> («Et por cest plain ala l’en bien doçe jornee, et est apellé{e} <term ref="#pamer">Pamier</term>; ne en toutes cestes .XII. jornee ne ‹a› abitasion ne herbages, mes convent qe les
+         viandant portent les viandes con elz»).</p>
+	<p>Coerente con F è anche la restante tradizione.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-31</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-31" n="1">
+    <head>
+      <hi rend="bold">R, III 31</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-31_1_1" n="1"> Del regno di <term ref="#cambaia">Cambaia</term>. Cap. 31.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-31_2_1" n="1"> Questo è un gran regno verso ponente, il qual ha re et favella da per sé; non danno
+         tributo ad alcuno; <term ref="#idolatri">adorano le genti gl’idoli</term>. </seg>
+      <seg xml:id="r-iii-31_2_2" n="2"> Et da questo regno si vede la stella della tramontana piú alta, perché quanto piú
+         si va verso <term ref="#maestro">maestro</term> tanto meglio la si vede. </seg>
+      <seg xml:id="r-iii-31_2_3" n="3"> Si fanno quivi molte mercantie, et vi è <term ref="#endego">endego</term> molto et in grande abondanza; hanno <term ref="#bochassini">boccassini</term> et <term ref="#bambagio">bombaso</term> in gran copia. </seg>
+      <seg xml:id="r-iii-31_2_4" n="4"> Si traggono di questo regno molti cuoi ben lavorati per altre provincie, et da quelle
+         si riportano per il piú oro, argento, rame et <term ref="#tucia">tucia</term>. </seg>
+      <seg xml:id="r-iii-31_2_5" n="5"> Et non vi essendo altre cose degne da essere intese, procederò a dir del regno di
+         <term ref="#servenath">Servenath</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

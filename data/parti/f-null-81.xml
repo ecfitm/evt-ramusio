@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-81</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-81">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LXXXI </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-81_1_1" n="1"> Ci devise le fassion dou <term ref="#gran-can">Grant Kaan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-81_2_1" n="1"> Le grant seingnors des seingnors que <term ref="#cublai-can">Cublai Kan</term> est apellés est de tel fasionz: il est de belle grandesse, ne petit ne grant, mes
+         est de meçaine grandesse; il est carnu de bielle mainere; il est trop bien taliés
+         de toutes menbres; il a son vis blance et vermoille come rose; les iaus noir et biaus;
+         le nes bien fait et bien seant. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-81_3_1" n="1"> Il a quatre femes, les quelz il tient toutes foies por sez moilier droite, et
+         le greingnor filz que il aie de ceste quatre femes doit estre por raisonz seingnor
+         de l’enpere quant il se morust le <term ref="#gran-can">Grant Kaan</term>. </seg>
+      <seg xml:id="f-null-81_3_2" n="2"> Elle sunt apelé e‹m›poraïces et chascune por son non. </seg>
+      <seg xml:id="f-null-81_3_3" n="3"> Et chascune de ceste
+         dame tient cort por soi: il n’i a nule que ne aie .IIIc. damoiselles mout belles et avenant; elle ont maint vallez esculiés et maint autres
+         homes et femes, si que bien a chascune de ceste dame en sa cort .Xm. persones. </seg>
+      <seg xml:id="f-null-81_3_4" n="4"> Et toutes foies qu’il vult jeçir avec aucune de ces quatre femes,
+         il la fait |36d| venir en sa chambre, et tel foies il vait a la canbre sa feme. </seg>
+    </p>
+    <p n="4">
+      <seg xml:id="f-null-81_4_1" n="1"> Il ha encore maintes amie, et voç dirai en quel mainere. </seg>
+      <seg xml:id="f-null-81_4_2" n="2"> Il est voir qu’il
+         est une generasion de <term ref="#tartari">Tartarç</term>, que sunt apellés <term ref="#ungut">Ungrac</term>, que mout sont belles jens, et onnes anz sunt elleue .C. pucelles les plus belles
+         qe soient en toutes celles jenerasion et sunt amenés au Grant Chan, et il le fait garder a les dames dou palais et le fait jezir con elles en un lit
+         por savoir s’elle ha bone aleyne et por savoir s’ell’est pucelle et bien saine de
+         toutes choses. [9] Sunt mises a servir le seingnor en tel maineres com je voç dirai.
+         [10] Il est voir qe ogne trois jors et trois nuit .VI. de cestes dameiselles servent
+         le seingnor et en chanbre et au lit et a tout ce qe beçogne. [11] Et le <term ref="#gran-can">Grant Kaan</term> en fait de celes ce k’el velt. [12] Et a chief de trois jors et de trois noit vienent
+         les autres .VI. damoiselles, et ensi vait tout le anz: que ogne trois jors et trois
+         nuit se müent de .VI. en .VI. dameselles.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

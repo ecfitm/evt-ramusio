@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-30-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-30">
+      <note>
+	<p>Qui R non è distante da <ref type="witlink" target="#f-null-51">F LI 3 </ref>«Les jens sunt cristiens et saraçins; il sunt au neveu dou <term ref="#gran-can">Grant Can</term>, et ne est pas son ami mes plusors foies a nimisté cun lui», cui aderisce quasi letteralmente
+         <ref type="witlink" target="#vb-null-34">VB XXXIV 1-2</ref> «[…] e lla giente in quella abitano sono cristiani et saracini. El segnor suo è nevodo
+         del <term ref="#gran-can">Gran Chane</term> ma non è però suo amicho, anci continue sono nemici e fra loro v’è stato gran guere
+         », che è la fonte di Ramusio per questo passo, come dimostrano alcune spie lessicali:
+         «di continuo» R &lt; «continue» VB,  «inimicitia et guerra» &lt; «v’è stato gran guere».</p>
+	<p>Prossimo a F e R è pure <ref type="witlink" target="#v-null-26">V 26 7</ref>, che però tace (per banalizzazione?) il dettaglio relativo al nipote del <term ref="#gran-can">Chan</term> («<term ref="#samarchan">Sanmarchan</term>, la zente dela qual sono christiani e Saraxini ed è soto el dominio del <term ref="#gran-can">Gran Chan</term>, ma non sono suo’ amigo, et molte fiade àno abudo chon loro inemistade»);  rivisitando
+         la propria fonte volgare, <ref type="witlink" target="#p-i-39">P I 39 1</ref> cancella il riferimento agli screzi tra il <term ref="#gran-can">Chan</term> e suo nipote («<term ref="#samarchan">Samarchan</term> nobilis civitas est et magna, in regione illa que tributaria est nepoti <term ref="#gran-can">Magni Kaam</term>, ubi simul habitant christiani et qui <term ref="#macometto">Machometum</term> adorant, qui se Saracenos vocant»), mentre Z toledano e L, conservato il dato etnografico,
+         eliminano radicalmente quello geopolitico relativo alla dominazione tartara (<ref type="witlink" target="#l-null-46">L 46 1-2</ref> «<term ref="#samarchan">Sanmarcan</term> est maxima civitas et nobilis; et est versus maistrum<hi rend="italics">.</hi> Gentes sunt christiani et Sarraceni», <ref type="witlink" target="#z-null-26-2-7">Z 26 1</ref> «<term ref="#samarchan">Samarcan</term> est quedam maxima civitas et nobilis, cuius gentes christiane sunt et sarracene»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

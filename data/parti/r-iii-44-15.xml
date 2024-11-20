@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-44-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-44">
+      <note>
+	<p>Ramusio rielabora il testo di <ref type="witlink" target="#p-iii-48">P III 48 5-6</ref> «[…] cum autem perveniunt ad vicum alium qui est in fine diete, tunc negotiator accipit
+         ductorem alium pro secunda dieta, quoniam canes laborem illum per dietas .XIII. sustinere
+         non possent; auriga igitur primus cum suis canibus ad propriam regreditur mansionem
+         et negotiator ille in qualibet dieta mutat canes, vehiculum et ductorem. Sic igitur
+         ad montes accedens pelles emit et supradicto modo per planiciem remeat ad propria.
+         De huius pellibus in regionibus illis fiunt lucra maxima» (Pipino a sua volta elabora
+         VA CLIII 24-26 «Chon queste <term ref="#tragule">traze</term> va senpre uno de queli che stano ala posta aziò che i guidi i chani per la mior via.
+         Questi chani non vano se non da una posta al’altra, e a zaschaduna posta chanbiano
+         <term ref="#tragule">traza</term> e chani. E queste poste è albergi per albergar quelli che vano e pasano per quella
+         contrà».</p>
+	<p>Si noti che P (e quindi R) omette l’informazione che negli altri relatori chiude il
+         capitolo (ne resta un frammento in VA CLIII 27 «El g’è tropo gran fredura»): Z 150 36 «Et propter intensum frigus quod ibi est, omnes domus eorum sub terra sunt; et sub
+         terra continuo permanent» (esito di F CCXVI 13 «Mes si voç di qe por la grant fredoure qe hi a toutes lor maisonz ont sout tere
+         et sut tere demorent toutes foies»); L 197 8 «Harum gentium habitationes sunt totaliter subtus terram: propter enim immensam loci
+         frigiditatem aliter vix vivere possent»; V 118 15 «E là i fano le suo’ chaxe soto tera, et chontinuamente stano soto tera»; VB CLXXII 19 «Per la gran fredura è in questo paexe le suo’ chaxe sono sotto tera et soto tera
+         senpre demorano».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

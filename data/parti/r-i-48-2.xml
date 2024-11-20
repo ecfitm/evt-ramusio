@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-48-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-48">
+      <note>
+	<p>Qualche spia lessicale riconduce il dettato ramusiano a <ref type="witlink" target="#p-i-61">P I 61 1</ref> «[…] si quis furatus fuerit rem parvi valoris propter quam non mereatur occidi, septem
+         vicibus fuste ceditur, aut .XVII., aut .XXVII., aut .XXXVII., aut .XLVII., pro mensura
+         enim peccati est percussionum numerus usque ad C, semper addendo decem; aliqui tamen
+         ex huiusmodi percussionibus moriuntur […]»: p. es. R «per la qual <hi rend="italics">non meriti la morte</hi>» / P «propter quam <hi rend="italics">non mereatur occidi</hi>»), «lo battono […] <hi rend="italics">con un bastone</hi>» / «<hi rend="italics">fuste</hi> ceditur», «fino a cento» / «usque ad C» (mentre è sempre “107” nella restante tradizione).</p>
+	<p>Per l’impostazione complessiva, invece, il fatto che R segua da vicino <ref type="witlink" target="#f-null-69">F LXIX 26</ref> «Il est voir qe quant un{o} home ha enblé aucune peitite chouse que n’en doie ‹perdre
+         persone›, il li est doné .VII. bastonee ou .XVII. ou .XXVII. ou .XXXVII. ou .XLVII.,
+         et in ceste mainere vait jusque in .CVII., croisent toutes foies .X. selonc qe il
+         ha enblé, et plusor en morent de ceste bastonee» ne suggerisce la dipendenza da Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

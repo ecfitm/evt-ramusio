@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-29-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-29">
+      <note>
+	<p>La pericope nasce dalla rielaborazione di <ref type="witlink" target="#z-null-117">Z 117 16-18</ref> «Fiunt etiam in hoc regno multi nasteri de corio rubeo, <hi rend="italics">sculptis in eo avibus et bestiis</hi>, cum filo aureo et argenteo sutis multum subtiliter. <hi rend="italics">Et sunt tam pulcri quod est mirabile ad videndum</hi>. Et illi nasteri de quibus diximus sunt de corio; super quibus dormiunt saraceni,
+         et est ibi optimum dormire». (Segnalo con il corsivo le sezioni soppresse; «azzurro»
+         è tocco dell’invenzione ramusiana. Si noti poi che Ramusio ha deciso di omettere anche
+         l’ultima informazione fornita da <ref type="witlink" target="#z-null-117">Z 117 20</ref> «Et de nasteriis supradictis fiunt aliqua talia quod sunt bene valoris decem marcharum
+         argenti»). La redazione latina traduce F CLXXXIII 6-7 «Et encore voç di que en ceste regne se font maintes belles nattes de cu‹i›re vermoil
+         entaillés a oisiaus et a bestes, et sunt cuisie con fil d’or e d’arjent mout sotilment.
+         Elle sunt si belles qe ce est mervoille a veoir le. Et entendés que celle nates qe
+         je voç di sunt cuir, la ou les saraçinz dorment sus, et hi a trop buen dormir. […]
+         E de celes nates que je vos ai dit en font de tielz que bien valent .X. mars d’arjent».
+         </p>
+	<p>L 170 6 presenta le stesse informazioni in ordine diverso: «‹Et› fiunt eciam in hoc regno
+         ex coriis rubeis, avibus et bestiis et aliis mirabiliter insignitis, narces pulcerrime
+         aureo et argenteo filo consutos: et sunt culcitre in quibus accubunt Sarraceni, et
+         sunt alique ex hiis valoris .X. marcharum argenti». VB CLIII 10 è meno dettagliato: «Quie se lavora de bellisime stuore de chuoro vermeio intaiade
+         e llavorade molto sotilmente, sopra le qual dormeno saracini; e dichono esser diletevelle
+         dormire». </p>
+	<p>V 100 8 riduce le pericopi 6-8 a una sola, parziale, frase: «Et fa-sse in questo reame più
+         belle traponte et meio fate che se possa trovar, chon arzenti et chon bestie schorpide
+         molto belle da veder». </p>
+	<p>Sul silenzio di <ref type="witlink" target="#p-iii-35">P III 35</ref> e VA CLXLV vedi la nota al par. 5.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

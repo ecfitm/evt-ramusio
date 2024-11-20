@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-74</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-74">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 74</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-74_2_1" n="1"> ‹Q›uando el se parte dela zità sopradita vasse tre zornade per sirocho, chontinuamente
+         trovando zitade e chastelli de molte marchadantie et arte; la zente dele qualle <term ref="#idolatri">adora le idolle</term>; e sono soto la signoria del <term ref="#gran-can">Gran Chan</term>, e spendeno pechunia de charta. </seg>
+      <seg xml:id="v-null-74_2_2" n="2"> Et a chavo de queste tre zornade se trova la
+         zità de <term ref="#tinguigui">Guinguagui</term>, la qual sono molto granda e nobelle; la zente dela qualle <term ref="#idolatri">adora l’idolle</term>; e sono soto la signoria del <term ref="#gran-can">Gran Chan</term>, e spendeno moneda de charta. </seg>
+      <seg xml:id="v-null-74_2_3" n="3"> Et sono seda in gran abondanzia; et fano drapi
+         d’oro e de seda in gran quantitade; et sono molte chazaxon et oxelaxon, et abondanzia
+         de tute vituarie; et sono una tera molto ubertoxa, </seg>
+      <seg xml:id="v-null-74_2_4" n="4"> E diròve una chossa che feno
+         quelli dela zitade quando la provinzia del <term ref="#mangi">Mongin</term> fo prexa da quelli del <term ref="#gran-can">Gran Chan</term>, e |86v| <term ref="#chinsanbaian">Baian</term> chapetanio de quelli. </seg>
+      <seg xml:id="v-null-74_2_5" n="5"> Or advene che <term ref="#chinsanbaian">Baian</term> mandò una gran parte dela so zente, la qual iera alguni christiani; et essendo prexa
+         la zitade, intrando i∙quella trovò molto vin; onde quelli tanto ne bevé che tuti se
+         inbriagò, per tal muodo che i se indormenzò sì fatamente che i non sentia alguna chossa.
+         </seg>
+      <seg xml:id="v-null-74_2_6" n="6"> Et quando quelli dela zitade veteno che quelli che l’avea prexa ierano chussì
+         chonzi, non induxiò; ma subito tuti in quella note i alzixe per sì fato muodo che
+         algun non schanpò. </seg>
+      <seg xml:id="v-null-74_2_7" n="7"> Et quando <term ref="#chinsanbaian">Baian</term>, zoè el signor delo exerzito, sape che quelli dela zità aveano morti i suo’ homeni
+         chussì iniquamente, mandò del’altra zente, la qual valloroxamente prexe la zitade,
+         e tuti fono morti e malmenati. </seg>
+      <seg xml:id="v-null-74_2_8" n="8"> Or nui se partiremo de qua et anderemo plui avanti.
+         </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

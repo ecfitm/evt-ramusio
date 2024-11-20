@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-28</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-28">
+    <head>
+      <hi rend="bold">P, II 28</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-28_2_1" n="1"> Cum vero ultra pontem proceditur per miliaria .XXX., inveniuntur continue palatia
+         multa et alie domus pulchre, vinee pulcre et agri fertiles. </seg>
+      <seg xml:id="p-ii-28_2_2" n="2"> Terminatis .XXX. miliaribus
+         invenitur civitas <term ref="#gouza">Gyn</term>, magna et pulcra, ubi multa sunt monasteria ydolorum, ubi etiam fiunt panni aurei
+         optimi et sericei et sindones optimi. </seg>
+      <seg xml:id="p-ii-28_2_3" n="3"> Sunt etiam |48d| ibi pro viatoribus hospitia
+         communia multa. </seg>
+      <seg xml:id="p-ii-28_2_4" n="4"> Cives communiter artifices et mercatores sunt. </seg>
+      <seg xml:id="p-ii-28_2_5" n="5"> Ultra civitatem
+         hanc, ad miliare unum, vie due sunt, quarum una transit per provinciam <term ref="#cataio">Cathay</term>, altera vero, ad circium sita, ducit ad mare versus regiones <term ref="#mangi">Mangy</term>. </seg>
+      <seg xml:id="p-ii-28_2_6" n="6"> Per provinciam autem <term ref="#cataio">Cathay</term> itur per plagam illam per dietas decem, continueque reperiuntur civitates et castra
+         ubi agri multi optimi sunt et viridaria pulcra valde. </seg>
+      <seg xml:id="p-ii-28_2_7" n="7"> Multique negotiatores ibi
+         sunt et artifices. </seg>
+      <seg xml:id="p-ii-28_2_8" n="8"> Homines autem regionis illius domestici valde sunt et affabiles.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-63</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-63">
+    <head>
+      <hi rend="bold">P, I 63</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-63_2_1" n="1"> Oportet nos hic redire iterum ad civitatem <term ref="#campion">Campition</term>, de qua superius mencio facta est, ut alias affines eius provincias describamus.
+         </seg>
+      <seg xml:id="p-i-63_2_2" n="2"> Post recessum a civitate <term ref="#campion">Campition</term> |29b| versus orientem itur ad .V. dietas et, in via, in locis pluribus de nocte voces
+         demonum audiuntur; post dietas .V. invenitur regnum Ergismul, quod est in provincia magna <term ref="#tenduch">Tenduch</term>, quod regnum <term ref="#gran-can">Magno Kaam</term> subiectum est. </seg>
+      <seg xml:id="p-i-63_2_3" n="3"> Ibi ‹sunt› christiani nestorini, <term ref="#idolatri">ydolatre</term> et alii sectatores legis <term ref="#macometto">Machometi</term>. </seg>
+      <seg xml:id="p-i-63_2_4" n="4"> Multe civitates et multa castra ibi sunt. </seg>
+      <seg xml:id="p-i-63_2_5" n="5"> Inde versus syrochum, id est inter
+         orientalem et meridianam plagam, itur ad provinciam <term ref="#cataio">Cathai</term>; prius tamen invenitur civitas <term ref="#singui">Singiu</term>, <term ref="#gran-can">Magno Kaam</term> tributaria, ubi similiter sunt christiani nestorini et <term ref="#idolatri">idolatre</term> et qui <term ref="#macometto">Machometum</term> adorant. </seg>
+      <seg xml:id="p-i-63_2_6" n="6"> Ibi sunt boves silvestres pulcherimi, grandes velut elephantes, pilos
+         habentes per corpus preter dorsum albos et nigros, longitudinis palmorum trium, multique
+         ex his bobiis domestici sunt et domiti et ad defe|randum |29c| onera maxima assueti;
+         alii autem alligantur ad aratra qui, pre mirabili fortitudine, multum operis in brevi
+         perficiunt tempore in aratura terre. </seg>
+      <seg xml:id="p-i-63_2_7" n="7"> In hac patria muscatum melius est quod habeatur
+         in mundo quod ab animali quodam habetur; est enim animal quoddam pulcrum valde, magnitudinem
+         habens gatte, pilos grossos ut cervus et pedes ut gatta; dentes quatuor habet, duos
+         superiores et duos inferiores, longitudinis digitorum trium; hoc animal iuxta umbilicum,
+         inter cutem et carnem, vesicam habet sanguine plenam: ille sanguis est muscatum de
+         quo tantus odor exalat. De his animalibus est ibi maxima multitudo. </seg>
+      <seg xml:id="p-i-63_2_8" n="8"> Incole regionis
+         <term ref="#idolatri">ydolatre</term> et sectatores libidinis sunt, pingues communiter sunt, nasum parvum et nigros capillos
+         habentes; viri imberbes sunt, sed pilos |29d| solum circa labia habent; mulieres pulcre
+         sunt et albe. [9] Viri uxores querunt magis pulcras quam nobiles aut divites: nam
+         nobilis et magnus vir uxorem accipit mulierem pauperam si pulcra est, et matri illius
+         dotem dat. [10] Negotiatores et artifices multi ibi sunt. [11] Habet autem provincia
+         in longitudine dietas .XXV. et est fertilis valde. [12] Ibi sunt fagiani in duplo
+         maiores quam in Ytalia, et habent caudas longitudinis .X. vel .IX. palmorum, aut .VIII.
+         sive .VII. ad minus; habent etiam fagianos qui in magnitudine nostris similes sunt;
+         multas alias aves habent pulcherimas diversarum specierum, pennas habentes pulcherimis
+         coloribus variatas.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-34</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Nelle fonti di Ramusio, eccetto che in VB, l’informazione contenuta all’inizio della
+         pericope («Il medemo […] mogli») è riportata nel periodo precedente, laddove si parla
+         della condizione dei padroni delle botteghe (vd. la nota al par. 33): <ref type="witlink" target="#l-null-128">L 128 4</ref> «[…] Principales vero stationum, tam viri quam mulieres, nichil laborant […]»; <ref type="witlink" target="#p-ii-64">P II 64 7</ref> «[…] et neque ipsi neque uxores ipsorum manibus propriis operantur […]»; <ref type="witlink" target="#v-null-76">V 76 6</ref> «[…] e tuti sono grandi homeni; e femene sono maistre de botege, et non fano alguna
+         chossa chon le suo’ man […]»; <ref type="witlink" target="#z-null-85">Z 85 14</ref> «Et omnes magni homines et mulieres […] nullum opus propris manibus operantur […]»
+         (così anche in <ref type="witlink" target="#f-null-151">F CLI 9</ref> «Et encore voç di que les grant homes et lor femes […] ne font nulle rien de lor
+         main […]. Et lor dames sunt ausi mout deliés et angelique chouse […]»). </p>
+	<p>Nella seconda parte R fonde la versione di P (R «et allevate […] con gran delicatezze»)
+         con quella di VB (R «et vestono […] quelli»): vd. <ref type="witlink" target="#p-ii-64">P II 64 8</ref> «In hac civitate sunt mulieres formose valde et communiter sunt multis delitiis enutrite»;
+         <ref type="witlink" target="#vb-null-114">VB CXIV 8</ref> «Àno le done loro dilichatissime et adornate richissimamente in modo che non potresti
+         credere la richeça et gran valuta dei adornamenti de quelle; sono belissime done».
+         Gli altri testimoni sono più sintetici: <ref type="witlink" target="#v-null-76">V 76 6</ref> «[…] et sono done molto bele»; <ref type="witlink" target="#z-null-85">Z 85 15</ref> «Et eorum uxores etiam sunt multum angelice» (vd. <ref type="witlink" target="#f-null-151">F CLI 9</ref> «Et lor dames sunt ausi mout deliés et angelique chouse […]»). L omette l’intero
+         passo. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

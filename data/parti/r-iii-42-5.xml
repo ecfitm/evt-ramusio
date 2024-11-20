@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-42-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-42">
+      <note>
+	<p>La chiusa di <ref type="witlink" target="#z-null-129">Z 129 13-14</ref> («Alia ibi non sunt dicenda. Quare, ulterius procedentes, tractabimus de gulfo <term ref="#calaiati">Calatu</term>») ripete la mossa di F CXCV 6 «Autre couse que a mentovoir face n’i a, e por ce nos en partiron e voç conteron
+         dou gouf de <term ref="#calaiati">Calatu</term>»; V 111 7 omette il nome della località di destinazione: «In questa non sono altro da dire,
+         e però de qui se partiremo e diremo d’un’altra zitade». VB CLXVII e L 185 omettono del tutto la transizione.</p>
+	<p>Ramusio omette la transizione odeporica «ulterius procedentes»; la grafia <hi rend="italics">Calaiati</hi> non ha altra attestazione nella tradizione poliana.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

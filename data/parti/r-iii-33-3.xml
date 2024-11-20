@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-33-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-33">
+      <note>
+	<p>Ramusio manipola lievemente (per sottrazione) un testo le cui informazioni dovevano
+         coincidere con quelle di <ref type="witlink" target="#z-null-121">Z 121 3</ref> «Vivunt de mercimoniis et artibus, et habent risum et frumentum in magna quantitate:
+         nam risum, lac et carnes comedunt». F CLXXXVII 2 è affine: «Il vivent de mercandies e d’ars. Il ont ris aseç, car sachiés qe il menuient
+         ris, char et la‹i›t»: vd. L 174 2 «[…] mercatores et artiste; et vivunt ex lacte, riço, et carnibus»; V 103 1-2 modifica: «[…] et viveno de marchadantie et arte. In questo nasse sorgo in gran quantitade,
+         sì che i manzano sorgo, late e charne […]». VB CLVII 1-2 «[…] e viveno de marchadantia. Viveno de rixi, charne e llate dele qual ne àno quantitade»
+         presenta un’interessante analogia nella forma dell’espressione con R.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

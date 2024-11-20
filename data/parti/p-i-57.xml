@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-57</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-57">
+    <head>
+      <hi rend="bold">P, I 57</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-57_2_1" n="1"> Communia <term ref="#tartari">Tartarorum</term> cibaria sunt carnes et lac; carnes animalium que in venacionibus capiunt comedunt;
+         similiter etiam aliorum animalium mundorum et immundorum: nam equos et canes edunt,
+         similiter et reptilia quedam, que vulgo dicuntur “ratti pharaonis”, que in planiciebus
+         illis inveniuntur in copia magna. Bibunt etiam lac equarum, quod taliter parare noverunt,
+         ut vinum album esse videatur, quod etiam valde sapidum est; vocatur autem in eorum
+         lingua “<term ref="#chemurs">chemus</term>”.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

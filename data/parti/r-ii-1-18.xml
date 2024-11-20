@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-1-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>La lezione di R appare abbastanza diversa da quella delle altre redazioni: <ref type="witlink" target="#p-ii-4">P II 4 2</ref> «[…] cunctosque sui exercitus milites distinxit in .XII. acies, ita ut quelibet acies
+         triginta millia militum contineret: pedites vero iuxta milites tali ordine collocavit
+         ut in quibusdam aciebus duo pedites tenentes lanceas hinc inde ad unius militis latera
+         ponerentur donec peditum numerus compleretur» / <ref type="witlink" target="#p-ii-4">P II 4 4</ref> «[…] rex autem <term ref="#cublai-can">Cublay</term> in circuitu exercitus <term ref="#naiam">Nayam</term> disposuit acies»; <ref type="witlink" target="#v-null-40">V 40 9-10</ref> «[…] et avea hordenado la suo’ zente e per zaschaduna schiera iera trentamilia persone,
+         et aveano zirchondado tuto el chanpo de <term ref="#naiam">Nain</term> in uno monte; et zaschadun homo da chavalo aveano uno pedon chon una lanza in man
+         per mezo le grope dî chavali. Et chussì erano el <term ref="#gran-can">Gran Chan</term> hordenadamente chon le suo’ zente, et sì era nel chanpo de <term ref="#naiam">Nain</term> per darli bataia […]»; <ref type="witlink" target="#vb-null-67">VB LXVII 12-13</ref> «<term ref="#cublai-can">Clobai</term>, venendo con l’oste suo, segondo suo costuma, avea fato per chadaun chapo una schiera
+         di .XLc. chavalli et chadauno avea in gropa el suo pedon con la lança. E fermòse apreso el
+         canpo de <term ref="#naiam">Naian</term> con grandissimo ordine però che nei suo’ giorni niuno de maisterio del’arme quello
+         avançò» (vd. <ref type="witlink" target="#f-null-78">F LXXVIII 4-6</ref> «Sez jens estoient tuit eschieré a .XXXm. a .XXXm., et environnent tout le canp en un moment. Et avech chascun home a cheval avoit
+         un home a pié derere a la crope dou cheval, con la{i}nce en main. En tel mainere com
+         vos avés hoï estoit le <term ref="#gran-can">Grant Kaan</term> con sez jens atiré, con sez esceles environ le canp de <term ref="#naiam">Naian</term> por conbatre con elz»). L omette questa parte. </p>
+	<p>In Z manca l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

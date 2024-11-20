@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>Ramusio segue con ogni probabilità il testo di un esemplare della redazione Z (che
+         riflette in sostanza il dettato di F), abbreviandolo sul modello delle versioni più
+         sintetiche di VB o, più probabilmente, di P (vd. R «la qual è sottoposta al <term ref="#gran-can">Gran Can</term>», P «que subiecta est <term ref="#gran-can">Magno Kaam</term>»):<ref type="witlink" target="#z-null-58"> Z 58 1-2</ref> «Quando vero itum est versus ponentem .V. dietis a provincia Caraiam discedendo, invenitur quedam provincia nomine <term ref="#cardandan">Çardandan</term>, cuius gentes adorant ydola et sunt subdite <term ref="#gran-can">Magno Can</term>. Magistra civitas huius provincie <term ref="#vociam">Vocian</term> appelatur» (<ref type="witlink" target="#f-null-119">F CXIX 2-3</ref> «Quant l’en s’en part de <term ref="#carazan">Carajan</term>, il ala por ponent  .V. jornee, adonch treuve l’en une provence qe s’apelle <term ref="#cardandan">Çardandan</term>, qe sunt <term ref="#idolatri">ydres</term> et sunt au Grant Chan. La mestre cité de ceste provence est apellé <term ref="#vociam">Vocian</term>»); <ref type="witlink" target="#vb-null-85">VB LXXXV 1</ref> «‹O›ltra la provincia de <term ref="#carazan">Caiaran</term>, chaminando per levante per giornate .V. se trova la provincia de <term ref="#cardandan">Ardidan</term>: sono sotoposti al <term ref="#gran-can">Gran Can</term> et è chiamata la maistra citade <term ref="#vociam">Votion</term>»;<ref type="witlink" target="#p-ii-41"> P II 41 1</ref> «Cum vero receditur a provincia <term ref="#carazan">Carayam</term> ad dietas ‹.V.› invenitur provincia <term ref="#cardandan">Ardandam</term> que subiecta est <term ref="#gran-can">Magno Kaam</term>, cuius principalior ac nobilior urbs dicitur <term ref="#vociam">Unciam</term>». Non emergono indizi di contatti con <ref type="witlink" target="#l-null-98">L 98 1-2</ref> «Ultra predictam provinciam <term ref="#carazan">Caraian</term> .V. dietis per occidens invenitur provincia dicta Ç<term ref="#cardandan">ardandan</term>, cuius gentes sunt <term ref="#idolatri">ydolatre</term>. Principalis civitas dicitur <term ref="#vociam">Voccian</term>», o con <ref type="witlink" target="#v-null-57">V 57 1-2</ref> «‹Q›uando el se parte da <term ref="#carazan">Chataian</term> vasse per ponente zinque zornade et trovasse una provinzia la qualle sono chiamata
+         <term ref="#cardandan">Chardadan</term>. La zente de quella <term ref="#idolatri">adora le idolle</term>, et la zitade maistra de quella provinzia sono chiamata <term ref="#mare-oceano">*Ozian</term> […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

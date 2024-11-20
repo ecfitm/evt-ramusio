@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-38-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-38">
+      <note>
+	<p>La fonte principale di questa sezione di R è rappresentata da <ref type="witlink" target="#z-null-55">Z 55 33</ref>, che però presenta un testo incompleto, soprattutto nella parte finale: «In ista
+         provi‹n›cia nascuntur garofali multi, quia quedam arbor est que ipsos producit; que
+         habet folia ad modum orbace». È ragionevole ritenere che in origine la fonte di Ramusio
+         (Z1) recasse una lezione analoga a quella di <ref type="witlink" target="#f-null-116">F CXVI 13</ref> «Et en cestes provence naisent garofol aseç, car il est un arbre petit qe il fait,
+         que a fronde come orbeque, aucune chouse plus longue et plus estroit; le flor fait
+         blanc, peitet come le garoufle». La lezione di L e P, per quanto coincidente nella
+         sostanza con F, appare in qualche punto condensata: <ref type="witlink" target="#l-null-95">L 95 8</ref> «Gariofoli nascuntur in hac provincia multi; est arbor parva, habens folia sicut
+         laurus (strictiora tamen et aliquantulum longiora); eorum flores sunt parvi et albi,
+         ut in gariofilis apparet»; <ref type="witlink" target="#p-ii-38">P II 38 8</ref> «Ibi sunt gariofoli in copia maxima qui colliguntur ex arbusculis parvis habentibus
+         ramuscolos parvulos, florem album faciunt et parvum, sicut est gariofoli granum […]».
+         Molto più compendioso risulta <ref type="witlink" target="#v-null-56">V 56 9</ref> «In quella provinzia se trovano noxe muschiade e garofalli […]» / <ref type="witlink" target="#v-null-56">V 56 11</ref> «In quella provinzia sono gran quantità d’albori chon foie, i qualli fano garofalli
+         […]».</p>
+	<p>Nella parte finale Ramusio ha inserito un dettaglio («et quando sono maturi sono negri
+         et foschi») che si legge solo nella versione, fortemente rimaneggiata, di <ref type="witlink" target="#vb-null-82">VB LXXXII 13-14</ref> «Àno questi garofalli i qualli naschono su picho‹li› albori, i qualli àno fronde
+         e foie a modo de rubaghe alquanto più longe et più strete. Parono le dite fogie de
+         garofalli quaxi chome fogie do laurano, le qualle fogie qui nui apellemo folio, il
+         qualle fa el fiore biancho e picolo chome garofallo e quando è maduro quello è negro
+         foscho».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

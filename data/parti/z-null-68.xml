@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-68</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-68">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 68</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-68_1_1" n="1"> Quando quidem disceditur a civitate <term ref="#ciangli">Çiangli</term>, itur versus meridiem per sex dietas, continuo inveniendo multas civitates et castra
+         magni valoris et nob‹i›litatis, gentes quarum <term ref="#idolatri">adorant ydola</term>, comburunt funera et sunt sub dominio <term ref="#gran-can">Magni Can</term>. </seg>
+      <seg xml:id="z-null-68_1_2" n="2"> Habent etiam peccuniam de cartis. </seg>
+      <seg xml:id="z-null-68_1_3" n="3"> Vivunt de mercationibus et artibus. </seg>
+      <seg xml:id="z-null-68_1_4" n="4">
+         Habent habundantia‹m› omnium victualium. </seg>
+      <seg xml:id="z-null-68_1_5" n="5"> Sed ibi non sunt alia dicenda, quare
+         dicemus de <term ref="#tudinfu">Tindifu</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="z-null-68_2_1" n="1"> <term ref="#tudinfu">Tindifu</term> est quedam magna civitas, que iam fuit regnum nobile et magnum, sed <term ref="#gran-can">Magnus Can</term> ipsum armorum viribus suo dominio subiugavit. </seg>
+      <seg xml:id="z-null-68_2_2" n="2"> Et tamen nobilior civitas que in
+         illis partibus habeatur. </seg>
+      <seg xml:id="z-null-68_2_3" n="3"> Ibi sunt homines magne mercationis. [9] Et habent de
+         syrico quod est mirabile. [10] Item habent, in circuitu civitatis, multa viridaria
+         cuiuslibet maneriei bonos producencia fructus. [11] Ista civitas <term ref="#tudinfu">Tundinfu</term> sub eius iurisdictione habet .xi. civitates imperiales, videlicet nobiles et magnas.
+         [12] Nam civitates sunt magnarum mercationum, quia habent syricum ultra modum. [13]
+         <term ref="#gran-can">Magnus Can</term> miserat suum baronem nomine <term ref="#lucansor">Liitan Sangon</term> ad istam civitatem et dedit isti octuaginta milia equitum ad custodiam. [14] Iste,
+         considerans habilitatem dominii, fuit proditoria ymaginatione infectus; et sic, aloquens
+         |34v| sapientibus, fraudulenti suggestione subduxit; et hoc de consensu et voluntate
+         omnium. [15] Et cum <term ref="#gran-can">Magnus Can</term> hoc intellexit, misit duos barones, bene centum milibus equitum sociatos, qui subito
+         devicerunt <term ref="#lucansor">Liitan</term> cum suo exercitu. [16] Et tunc principales fautores huius facinoris existebant. [17]
+         Iussit dire mortis suplicio terminare; reliquis vero pepercit, qui postmodum continue
+         fuerunt fideles. [18] Cognoscere debetis itaque quod domicele provincie <term ref="#cataio">Cathay</term> pre aliis sunt honeste et pudicicie decorem servantes. [19] Non equidem coreiçant
+         et tripudiant; non saltant; non seviunt; non fenestris inherent aspectum transeuntium
+         contemplantes vel eorum aspectum prebentes eisdem. [20] Nullis incongruis sermonibus
+         habilem prestant auditum; festa et solatia non frequentant. [21] Et si contingit quod
+         ad aliquem decentem locum accedant, sicut forte ad ydolorum templa, consanguineorum
+         et parentum visitandum hospitia, earum matribus pergerent comitate, non gentes inhoneste
+         mirantes, sed quedam earum pulcra galeria ferentes in capite, que superiorem defendunt
+         intuitum, unde in eundo semper in itinere protendunt oculos ante pedes. [22] Sunt
+         coram earum maioribus verecunde; nunquam verba locuntur supervacua, ymo nulla coram
+         eis, nisi quando fuerint requisite. [23] In earum cameris ad laboreria sua manent,
+         et raro se conspectui patrum et fratrum et maiorum de domo presentant. [24] Et procatoribus
+         non intendunt. [25] Et similiter dici‹m›us de pueris, iuvenibus domicelis quod nunquam,
+         nisi requisiti, coram eorum maioribus loqui presumunt. [26] Et quid plus? |35r| tanta
+         est verecundia inter eos, videlicet inter consanguineos et affines, quod nullo modo
+         duo simul ad balneas sive termas accedere atemptarent. [27] Si vero quis velit filiam
+         maritare aut sibi ab alio requiretur, pater filiam suam virginem proferet sponso futuro.
+         [28] Et in hoc pater et sponsus simul convenient obligationibus et pactis: nam, si
+         reperiretur contrarium, matrimonium non teneret. [29] Pactis quoque et conventionibus
+         solempniter inter eos habitis et firmatis, ad experientiam virtutis domicella ducitur
+         ad balneas sive termas, ubi erunt matres et consanguinee sue et sponsi, et, pro utraque
+         parte, certe matrone ad huiusmodi oficium specialiter deputate, que virginitatem domicele
+         cum uno ovo columbe primitus scrutabuntur. [30] Et si mulieres que pro parte sponsi
+         erunt, experientia huiusmodi contente non fuerint, quoniam bene potest mulieris natura
+         opere medicinali restringi, matrona una ex predictis, digitum unum alba et subtili
+         syndone involutum sapienter nature imponens, aliquantulum de virginali corumpet vena,
+         ut syndon illa de virginali sanguine aliquantulum intingatur. [31] Nam tante proprietatis
+         et virtutis sanguis ille existit quod eius macula nulla locione potest a pano ubi
+         infingitur removeri; et si removeatur, signum est quod corupta fuerit, nec sit proprie
+         ille sanguis. [32] Facta quoque experientia, si virgo reperiatur, valet matrimonium;
+         sin autem, non; et pater puele, ex conventione quam fecerit, per dominium penam suffert.
+         [33] Et debetis scire quod ad huius virginitatis conservantiam, semper virgines, |35v|
+         in earum progresione itineris, tam suaviter gradiuntur quod nunquam unus pes ultra
+         unum digitum alium antecedit, quia sepius adaperitur virginis natura cum se nimium
+         lasive deducit. [34] Item hoc intt‹e›ligendum est de <term ref="#cataio">Cathay</term> provincia oriundis. [35] Nam <term ref="#tartari">Tartari</term> de huiusmodi solepnitate non curant, quia eorum filie cum eis equitant et uxores:
+         unde credib‹i›le est quod aliqualiter corumpantur. [36] Gentes itaque provincie <term ref="#mangi">Manci</term> consuetudinem conservant cum <term ref="#cataio">Cathay</term>. [37] Item fit aliud in <term ref="#cataio">Cathay</term> quod debetis scire: quod apud ydolatros octuaginta quatuor sunt ydola, quelibet suo
+         nomine nominata. [38] Et dicunt ydolatri quod a deo superno est propria virtus cuilibet
+         ydolo atributa, videlicet uni super inveniendis rebus perditis, uni super provisione
+         fertilitatis terrarum et eis temperiem exhibendo, uni super conservatione bestiarum,
+         et sic de singulis, tam in prosperis quam adversis. [39] Et quolibet ydolum est proprio
+         nomine nominatum; et cuiuslibet ydoli cognoscunt et dicunt tale esse officium et virtutem.
+         [40] Ydola quidem quorum est perdita invenire, in statuas duas parvas de ligno statuunt,
+         ad modum puerorum qui .XII. sint anorum, quas pulcris ornamentis decorant. [41] In
+         quarum templo, manet continue una vetula apud eas, ut sacrista. [42] Si vero quis
+         aliquam rem amiserit, vel quia aliquis eam furatus fuerit, vel quia ignoraverit in
+         quo loco eam deposuerit, aut aliquo modo eam non valeat invenire, accedet vel mitet
+         ad vetulam predictam ut inquirat ab ydolis illis de re amissa. [43] Cui vetula precipiet
+         quod debeat ydola incensare; et ille |36r| incensabit. [44] Porecto incenso, vetula
+         tunc inquiret de re amissa, et illa respondebunt ei secundum quod erit de ea. [45]
+         Tunc vetula dicet illi qui rem amiserit: «Perscrutare in tali loco et eam invenies».
+         [46] Et si quis eam acceperit, dicet: «Talis habet eam; dicas quod tibi det. [47]
+         Et si denegabit, revertaris ad me, quia faciam quod omnino tibi restituet. [48] Alioquin,
+         procurabo quod incidetur manum vel pedem, aut cadens frangetur brachium vel crus,
+         vel aliter sibi male contingat, ita quod vi tibi restituere compeletur». [49] Et sic
+         invenitur expertum: quod si qua persona furata fuerit aliquid alicui, et ex quo sibi
+         factum fuerit preceptum, denegans restituere contemserit, si mulier erit, dum aliquid
+         operetur cum cultello iuxta coquinam, vel aliud faciendo, se manum incidit, vel in
+         ignem cadit, aut aliud sibi contingit adversum; si sit vir, dum ligna incidit, similiter
+         et pedem incidit, et frangitur brachia vel crura vel aliud membrum. [50] Et quia iam
+         ex experto homines sciunt quod hoc propter furtorum denegationes sibi contingat, statim
+         ablata restituunt. [51] Si vero statim non respondeant, dicet tunc vetula: «Spiritus
+         non sunt hic. [52] Vade et reverteris tali hora, quia interim venient et eos inquiram».
+         [53] Ille revertetur tunc hora sibi imposita, et spiritus responsum dederint vetule
+         interim: quod responsum cum quadam voce subtili et depressa, ad modum unius sibilli,
+         susurando proferrunt. [54] Vetula tunc eis multas ‹agit› gratias in hunc modum: nam
+         manus coram eis elevat, dentes ter repercutiet, quasi dicat: «O res quam digna, quam
+         sancta et quam virtuosa!». [55] Et dicet illi qui equos amiserit: «Vadas ad talem
+         locum, |36v| et ibi eos invenies», vel: «Latrones in tali loco eos invenerunt et secum
+         ipsos abducunt per talem partem; curras et invenies eos». [56] Et ad punctum sicut
+         dixerit invenitur. [57] Ita quod per hunc modum nichil amititur quod non valeat reperiri.
+         [58] Et inventis amissis, homines tunc offerunt ydolis, propter reverentiam et devotionem,
+         forte brachium unum alicuius pani subtilis, sicut esset syndonis de syrico vel deaurati.
+         [59] Et ego, Marcus, inveni quemdam meum anulum perditum isto modo; sed non quod eis
+         aliquam fecerim oblationem vel homagium.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

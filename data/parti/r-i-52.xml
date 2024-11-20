@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-52</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-52" n="1">
+    <head>
+      <hi rend="bold">R, I 52</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-52_1_1" n="1"> Della provincia di <term ref="#tenduch">Tenduc</term>, dove regnano quelli della stirpe del <term ref="#prete-gianni">Prete Gianni</term>, et la maggior parte sono christiani; et come ordinano li loro preti; et de una sorte
+         de huomini detti <term ref="#argon">*Argon</term>, che son piú belli et savi di quel paese. Cap. 52.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-52_2_1" n="1"> <term ref="#tenduch">Tenduc</term> del <term ref="#prete-gianni">Prete Gianni</term> è una provincia verso levante, nella quale sono molte città et castella, et sono
+         sottoposti al dominio del <term ref="#gran-can">Gran Can</term>, perché tutti i Preti Gianni che vi regnano sono sudditi al <term ref="#gran-can">Gran Can</term>, dapoi che <term ref="#cingis">Cingis</term>, primo imperatore, la sottomesse. </seg>
+      <seg xml:id="r-i-52_2_2" n="2"> La maestra città è chiamata <term ref="#tenduch">Tenduc</term>, et in questa provincia è re uno della progenie del <term ref="#prete-gianni">Prete Gianni</term>, nominato <term ref="#georgio">Georgio</term>, et è prete et christiano, et la maggior parte degli habitanti sono christiani. </seg>
+      <seg xml:id="r-i-52_2_3" n="3"> Et questo re <term ref="#georgio">Georgio</term> mantien la terra per il <term ref="#gran-can">Gran Can</term>, non però tutta quella c’havea il <term ref="#prete-gianni">Prete Gianni</term>, ma certa parte; et li <term ref="#gran-can">Gran Cani</term> danno sempre in matrimonio delle sue figliuole et altre che discendono dalla sua
+         stirpe ai re che siano discesi dalla progenie delli Preti Gianni. </seg>
+      <seg xml:id="r-i-52_2_4" n="4"> In questa provincia si trovano pietre delle quali si fa l’azzurro; et ve ne sono
+         molte et buone. </seg>
+      <seg xml:id="r-i-52_2_5" n="5"> Quivi si fanno i <term ref="#zambellotto">zambellotti</term> molto buoni de peli de camelli. </seg>
+      <seg xml:id="r-i-52_2_6" n="6"> Gli huomini |16v| vivono di frutti della terra et di mercantie et arti. </seg>
+      <seg xml:id="r-i-52_2_7" n="7"> Et il dominio è de’ christiani, perché ’l re è christiano (come s’è detto), quantunque
+         sia soggetto al <term ref="#gran-can">Gran Can</term>; ma vi sono molti che <term ref="#idolatri">adorano gl’idoli</term>, et osservano la legge macomettana. [8] Vi è ancho una sorte di genti che si chiamano <term ref="#argon">*Argon</term>, perché sono nati di due generazioni, cioè da quelli di <term ref="#tenduch">Tenduc</term>, che <term ref="#idolatri">adorano gli idoli</term>, et da quelli che osservano la legge di <term ref="#macometto">Macometto</term>: et questi sono i piú belli huomini che si trovino in quel paese, et piú savi et
+         piú accorti nella mercantia.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

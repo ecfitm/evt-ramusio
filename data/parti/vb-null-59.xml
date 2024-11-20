@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-59</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-59">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LIX </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-59_1_1" n="1"> ‹P›artendosi da <term ref="#campion">Capitui</term>, chaminando per .V. giornate, in questo chamino se alde la note molti spiriti parlare.
+         </seg>
+      <seg xml:id="vb-null-59_1_2" n="2"> Et a chapo dele dite .V. giornate, ver levante, se trova 1° reame che fi apellatto
+         <term ref="#erginul">Argul</term>, sotoposto ala segnoria del <term ref="#gran-can">Gran Chan</term>; et è nella gran provincia de <term ref="#tanguth">Tangut</term>. </seg>
+      <seg xml:id="vb-null-59_1_3" n="3"> La giente che vi stano sono <term ref="#idolatri">idolatrii</term>, e songe molti cristiani nestorini et ecian molti Saracini che adorano <term ref="#macometto">Machometo</term>. </seg>
+      <seg xml:id="vb-null-59_1_4" n="4"> Sono in questa provincia de belle et nobelle citade fra le quali è <term ref="#erginul">Anchorino Argul</term>; et da questa citade, ver sirocho, se va nele contrade del <term ref="#cataio">Chatay</term> et trovasi una provincia che se chiama <term ref="#singui">Cinguy</term>. </seg>
+      <seg xml:id="vb-null-59_1_5" n="5"> Et questa à molte citade et ville soto si, et è dela provincia grande de <term ref="#tanguth">Tangut</term>, soto la segnoria del <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="vb-null-59_1_6" n="6"> In questa provincia se trova buoi et vache salvatichi, grandi chome ellefanti,
+         et àno el pello longo per tre spane; sono ecian demestegi che àno el pello longo ma
+         non sì longo chome i salvatechi, e sono sopra el doso bianchi e negri belisimi a vedere
+         et dicho mirabelli. </seg>
+      <seg xml:id="vb-null-59_1_7" n="7"> El pello, over lana soa, è sotillisima e biancha et de quella
+         lana bianchissima et sotille più de seta io Marcho Polo ne dussi qui a Venexia chome
+         mirabele chossa et chosì da tuti fo reputata. </seg>
+      <seg xml:id="vb-null-59_1_8" n="8"> De’ diti buoi salvatichi ne fino
+         demestichati et fano de quelli coprire le lor vache mestiche, et i mançi de quele
+         escono sono meravegliosi animalli et ati a fati che più de ogni alltro animalle.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

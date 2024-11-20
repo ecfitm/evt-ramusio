@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-13-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-13">
+      <note>
+	<p>Pur mancando la conferma del toledano, qui silente, si può supporre che anche per
+         questo passo Ramusio si sia servito di Z: le linee di R, infatti, ribadiscono per
+         completezza la lezione di <ref type="witlink" target="#f-null-34">F XXXIV 6</ref> «Et lor dames et damoiseles labourent mout noblemant de aguigle sor dras de soie
+         de tous colors a bestes et a osiaus et a{u} moutes autres ymajes; elle laborent les
+         cortines des barons et des granç homes si bien et si ricamant qe c’est une grant mervoille
+         a veoir; et coltres et coisin et horeiler laborent ausi mout sotilment».</p>
+	<p>Può essere invece un’eco di V ‒ se non era anche nello Z di Ramusio ‒ l’accorpamento
+         dell’ultima tessera di F («et coltres […] mout sotilment») alle informazioni sull’arte
+         del ricamo fornite poco sopra: cfr. infatti <ref type="witlink" target="#v-null-20">V 20 2</ref> «[…] et le done e donzele lavora degnamente chon ago sopra li drapi de seda, et fano
+         bestie e oxeli suxo queli d’ogni cholor, et simelmente choltre e chortine et chussini
+         sotilmente».</p>
+	<p>Tendono alla sintesi tutte le altre redazioni: <ref type="witlink" target="#l-null-28">L 28 2</ref> «mulieres nobiliter laborant valde de auro et seta», <ref type="witlink" target="#p-i-21">P I 21 4</ref> «Mulieres etiam civitatis huius opere plumario nobilissime operantur, faciuntque
+         cultras pulcherimas et cervicalia magni decoris», <ref type="witlink" target="#vb-null-22">VB XXII 4</ref> «Le done loro lavorano meio de opera de ago che alltre done abia quelle parte, l’opere
+         dille qual per tute quelle parte fino portatte».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

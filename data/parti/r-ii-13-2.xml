@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-13-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-13">
+      <note>
+	<p>Nella prima parte della pericope («Et tengono […] uccidono») R trasmette delle informazioni
+         che non si trovano in nessun altro ramo della tradizione del <hi rend="italics">Milione</hi>. Nella seconda parte («et a quelle […] carri»), R segue piuttosto fedelmente il dettato
+         di <ref type="witlink" target="#f-null-90">F XC 3-4</ref> «Et en tel mainere chachoient toutes les jens qe je voç ai dit. Et celles bestes
+         qu’il vuelent mander au <term ref="#gran-can">Grant Sire</term>, il font traire toutes l’ent{e}railles dedent le ventre, puis le mettent sus les
+         charrettes et l’envoient au seingnors […]». Non si notano coincidenze, invece, con
+         <ref type="witlink" target="#p-ii-16">P II 16 1</ref> «[…] qui tenentur [...], abstractis interioribus bestiarum mittere <term ref="#gran-can">Magno Kaam</term> in caruca vel navi […]» e con <ref type="witlink" target="#v-null-43">V 43 19</ref> «Et quando queli li manda li fano trazer tuti interiori de diti animali et meteli
+         sopra li chari, et chussì li manda al <term ref="#gran-can">Gran Signor</term> […]». </p>
+	<p>L, VB e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

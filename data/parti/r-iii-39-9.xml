@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-39-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>Le pericopi 9-13 sono dedicate alla narrazione del conflitto del 1288 fra il re cristiano
+         d’Abissinia e il sultano: Ramusio segue in maniera nel complesso piuttosto fedele i suoi modelli, salvo accelerare
+         nell’ultima pericope, dando una versione assai stringata del conflitto vero e proprio.</p>
+	<p>La serie iniziale degli avvenimenti (e la loro datazione: 1288 – ma 1289 in P e nessuna
+         indicazione in V Z) è la medesima in tutti i relatori (al netto dell’esclusione generalizzata
+         della transizione di F CXCII 4 «E si vos en dirai une bielle estoire qe avint a les .M.CC.LXXXVIII. anz de l’a‹n›carnasionz
+         de Cristi», registrata dal solo Z 126 12 – <hi rend="italics">sui generis </hi>quella di V 108 8 «Or questo re ave de bexogno, perché l’ave guera chon el <term ref="#soldan">Soldan</term>, de andar chon el re de <term ref="#nubia">Anabat</term> chon molta altra zente, chome intenderete in questa storia»): volontà di pellegrinaggio
+         del re abissino, opposizione dei baroni. Così narrano F CXCII 5 «Il fu voir qe cestui roi qui est sire de toute la provence de <term ref="#abascia">Abasce</term>, qui est cristiens, dist que il voloit alere en pellerinjes por aorer le sepolcre
+         de Crist en <term ref="#hierusalem">Jerusalen</term>. Les baronç li distrent qe trop seroit de grant perilz se il hi alast […]», L 181 1 (con l’<hi rend="italics">hapax</hi> di una nominazione incomprensibile) «Anno Christi .M.CC.LXXXVIII. rex de †Rauce†
+         et tocius provincie <term ref="#abascia">Abasce</term> proposuit velle ad Sepulcrum Christi peregre ire; sed, dum ab eius baronibus maxime
+         desuasum foret, maxime quia dicebant regi et regioni maximum imminere periculum […]»,
+         V 108 9-10 (lievemente amplificato) «El adevene che questo, il qualle signorizava tuta la provinzia
+         de <term ref="#abascia">Abaste</term>, il qual era christian, se mese in chuor di voler andar in pelegrinazo al Sepulchro
+         de Iesu Christo in <term ref="#hierusalem">Ieruxalem</term>. Allora i suo’ baroni el deschonseiò, digandolli che l’era tropo pericholoxa chosa
+         andar là, e che mai el non torneria indriedo s’el andasse […]», e Z 126 13-14 «Accidit enim quod iste rex qui dominatur toti provincie <term ref="#abascia">Abas</term>, qui christianus est, dixit quod volebat ire in peregrinagium ad sepulcrum Yesu Christi
+         in <term ref="#hierusalem">Ierusalem</term>. Cui nobiles et barones sui dixerunt quod nimis periculosum esset si illuc accederet
+         […]». Il gruppo VA-P e VB introducono l’esplicitazione del pericolo, ovvero i Saraceni:
+         VA CLI 10 «Ano domini MCCLXXXVIII, lo re cristiano che signiorizià tuta la provinzia voleva
+         andar in <term ref="#hierusalem">Ieruxalem</term> a vixitar el santo sepulchro del nostro segnior misier Iesu Cristo, e li baroni del
+         so regniame, temando non i podesse incontrar perìcollo perché el doveva passar per
+         tere de saraini, non lo lasò andar […]»; P III 44 1 «Anno Domini .MCCLXXXVIIII. rex principalior huius provincie voluit in <term ref="#hierusalem">Iherusalem</term> Sepulcrum Domini visitare; cumque propositum sue devotionis baronibus declarasset,
+         dissuasum illi ab omnibus extitit ne personaliter illuc iret: metuebant enim ne sinistrum
+         aliquid ei in via accideret, quia erat transiturus per terras Saracenorum et infidelium»;
+         VB CLXIII 9 «Nel .MIIcLXXXVIII. anni del nostro Segnor, el re segnor dela provincia de <term ref="#abascia">Abesia</term> avea deliberato andar a vixitacion del santo sepulcro in <term ref="#hierusalem">Ierusalen</term>; ma per el conforto e persuasiun di suo’ baroni, per el grande pericollo quel segnor
+         chorea a passar per sì longo chamin e per tanti lochi e tere de saracini nemicissimi
+         de cristiani (e questo era non sollamente pericollo espressisimo della soa persona
+         ma ecian de tuta quella provincia) vedendo quel segnor che tuti soi oviava a questa
+         soa andata, deliberò mandarne uno in suo nome».</p>
+	<p>Dunque Ramusio dipende, per l’architettura informativa complessiva, dal secondo gruppo;
+         si sarà notato che il segmento «Or nel 1288… <term ref="#hierusalem">Ierusalem</term>» è ricalcato sull’attacco di VB, e che i verbi «deliberare» e «disconfortare» ricorrono
+         nella stessa fonte, al pari del sintagma «passar per tanti luoghi e terre di saraceni
+         suoi nemici».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

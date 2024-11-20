@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-39-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>Ramusio continua a utilizzare Z 126 2-3 «Maior quidem rex istius provincie est christianus, et omnes alii reges provincie
+         sunt subditi isti regi. Qui sunt sex, de quibus tres christiani sunt, tres vero sarraceni»
+         (versione di F CXCII 2 «Or sachiés que le greingnor roi de toute ceste provence est cristiens, et tuit les
+         autres rois de la provence sunt sotpost a lui, et sunt .VI., entres les quelz en a
+         .III. cristienz et .III. saraçinz»). <ref type="witlink" target="#p-iii-43-1">P III 43 2</ref> («[…] que in .VII. regna dividitur, ubi sunt reges .VII., quorum unus qui ceteris
+         preeminet est christianus, alii vero .VI. in duabus divisi sunt partes, tres quidam
+         ex ipsis sunt christiani, tres vero alii Saraceni») sceglie una soluzione che, per
+         volontà di maggior precisione, rende più complicato il discorso della sua fonte, VA CLI 2 «El mazior re de questa provinzia è cristiano; tutti i altri re de questa provinzia
+         sono sotoposti a lui, et sono sìe, entro i qual n’èno tre cristiani et altri tre saraini»
+         </p>
+	<p>V 108 2 si confonde sul numero dei re, e offre un dettaglio (erroneo) non attestato altrove:
+         «El re de questa provinzia sono christian; e tuti i altri re sono suditi a questo
+         re, i quali sono sete, di quali tre sono christiani e tre sono iachopiti». Non troppo
+         chiaro neppure VB CLXIII 2 «Et sono in questa provincia .VI. reami, çoè .III. cristiani, el resto saracini e
+         tuti però sotoposti al primo re cristian». Nella sua abituale volontà di riunire informazioni
+         consimili in un solo luogo, L 180 1 anticipa l’informazione posta, nel resto della tradizione, in corrispondenza di <ref type="witlink" target="#r-iii-39">R III 39 5</ref> (vedi la nota) «[…] in qua sunt .VI. regna magna: ex quibus tres reges sunt christiani
+         tre‹s›que Sarraceni. Verumptamen rex principalis totius provincie – cui reliqui alii
+         sunt subiecti – christianus existit; et ipse rex in medio provincie commoratur, Sarraceni
+         vero versus <term ref="#adem">Aden</term> stant».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-21</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-21" n="1">
+    <head>
+      <hi rend="bold">R, II 21</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-21_1_1" n="1"> Delle provisioni che il <term ref="#gran-can">Gran Can</term> fa in tutte le provincie in tempo di carestia o mortalità d’animali. Cap. 21.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-21_2_1" n="1"> Il <term ref="#gran-can">Gran Can</term> manda sempre ogni anno suoi nuntii et proveditori per vedere se le sue genti hanno
+         danno delle loro biade per difetto di tempo, cioè per cagione di tempesta o di molte
+         pioggie et venti, o per cavallette, vermi o altre pestilentie. </seg>
+      <seg xml:id="r-ii-21_2_2" n="2"> Et se in alcuno luogo vi troveranno esser tal danno, il signore non fa scoder da
+         quelle genti il solito tributo quell’anno, anzi le fa dare tanta biada d’i suoi granai
+         quanto lor bisogna per mangiare et per seminare, conciosiacosaché, nei tempi della
+         grande abondanza, il <term ref="#gran-can">Gran Can</term> fa comprare grandissima quantità di biade della sorte che loro adoperano, et le fa
+         salvare nei granari che sono deputati in ciascuna provincia, et con gran diligentia
+         le fa governar, che per tre et quattro anni non si guastano. </seg>
+      <seg xml:id="r-ii-21_2_3" n="3"> Et sempre vuole che li detti granari siano pieni, per proveder nei tempi di carestia;
+         et quando in detti tempi egli fa vendere le sue biade a dinari, riceve di quattro
+         misure da quelli che le comprano quanto se ne riceve di una misura dagl’altri che
+         ne vendono. </seg>
+      <seg xml:id="r-ii-21_2_4" n="4"> Similmente fa proveder di bestie, che in qualche provincia per mortalità fossero
+         perse, et gli fa dare delle sue, che egli ha per decima dell’altre provincie. </seg>
+      <seg xml:id="r-ii-21_2_5" n="5"> Et tutto il suo pensiero et intento principal è di giovar alle genti che sono sotto
+         di lui, che possino viver, lavorare et moltiplicare i loro beni. </seg>
+      <seg xml:id="r-ii-21_2_6" n="6"> Ma vogliamo dire un’altra proprietà del <term ref="#gran-can">Gran Can</term>, che se per caso fortuito la saetta ferisse alcun greggie di pecore o montoni o altri
+         animali di qualunque sorte, che fosse d’uno o piú persone, et sia il greggie quanto
+         si voglia grande, il <term ref="#gran-can">Gran Can</term> non torrebbe per tre anni la decima. </seg>
+      <seg xml:id="r-ii-21_2_7" n="7"> Et parimente, se egli avviene che la saetta ferisca qualche nave piena di mercantie,
+         lui non vuole alcuna rendita o portione da quella, perché reputa cattivo augurio quando
+         la saetta percuote nei beni di alcuno; et dice il <term ref="#gran-can">Gran Can</term>: «Dio haveva in odio colui, però l’ha percosso di saetta», onde non vuole che tali
+         beni da ira divina percossi entrino nel suo thesoro.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

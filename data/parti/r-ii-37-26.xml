@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-26</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Il confronto con F, con L e con V induce a ritenere che – come nella pericope precedente
+         – anche qui il testo di R dipenda da un esemplare di Z meno conciso del toledano<ref type="witlink" target="#z-null-54"> Z 54 18</ref> «Provincia <term ref="#thebeth">Thebet</term> est subdita dominio <term ref="#gran-can">Magni Can</term>» [R «Questa detta provincia di <term ref="#thebeth">Thebeth</term> è suddita al dominio del <term ref="#gran-can">Gran Can</term>»];  <ref type="witlink" target="#f-null-115">F CXV 11</ref> «Or noç lairon de cest provence de <term ref="#thebeth">Tebet</term>, qe bien voç avon contés sommeemant le fait, et voç parleron d’une autre provence,
+         qe est apellé <term ref="#caindu">Gandir</term>; mes de ceste <term ref="#thebeth">Tebet </term>entendés qu’il est au <term ref="#gran-can">Grant Kan</term>, e toutes autres reingnes et provences et regionç, qe en ceste livres sunt escrites
+         (R «et […] tutte le regioni et provincie soprascritte»), sunt ausi au <term ref="#gran-can">Grant Kan</term>, for seulemant celles provences, qe sunt au començamant de nostre livre, qe sunt
+         au fil d’<term ref="#argon">Argo‹n›</term>, ensi com je voç ai escrit. Et por ce, da cele provences en for, toutes les autres
+         que sunt escriptes en ceste livre sunt au Grant Chan, et por coi voç ne le trovez escrit: si l’entendés en tel mainere com je voç ai dit»;
+         <ref type="witlink" target="#l-null-94">L 94 19</ref> «Hec provincia est obediens <term ref="#gran-can">Magno Cani</term>, Similiter omnes nominate in hoc libro [R «et similmente tutte le […] provincie soprascritte»],
+         dicte similiter vel dicende – exceptis aliquibus in principio nominatis, que sunt
+         obedientes <term ref="#argon">Argon</term>»; V 55 37 «Or lassiamo al prexente questa provinzia dela qual apieno abiamo dito, et diremo
+         de un’altra provinzia chiamata <term ref="#caindu">Gauidun</term>; et questa <term ref="#thebeth">Tebet</term> abiamo dito sono soto la ssignoria del <term ref="#gran-can">Gran Chan</term> et simelmente tuti i reami e provinzie le qualle sono schrite in questo libro (R
+         «et similmente tutte le […] provincie soprascritte») sono soto la dita signoria, fuora
+         le provinzie abiamo dito al prenzipio del nostro libro, le qual sono del fiol de <term ref="#argon">Argon</term>, chomo avete intexo».</p>
+	<p>In P il testo viene notevolmente abbreviato:<ref type="witlink" target="#p-ii-37"> P II 37 15</ref> «Tota autem provincia hec <term ref="#gran-can">Magno Kaam</term> subiecta est». VB omette del tutto il passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

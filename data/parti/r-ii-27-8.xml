@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-27-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-27">
+      <note>
+	<p>Nella prima parte  della pericope («Verso […] marmo») R reca una lezione che lo accomuna
+         specificamente a V e a F, e lo isola dal resto dei suoi modelli: <ref type="witlink" target="#v-null-50">V 50 5</ref> «Et lonzi dala cholona uno passo e mezo [R «per un passo et mezzo»] son un’altra
+         chollona chussì fata, chon do lioni; da una chollona al’altra sono serado chon tolle
+         de marmaro» (<ref type="witlink" target="#f-null-104">F CIV 4</ref> «[…] et longe de cest colone un pas et mi en a un autre toute ausi fait con deus
+         lions, et de le une colone a l’autre est clous de table de marbre bis […]»); vs. <ref type="witlink" target="#l-null-84">L 84 2</ref> «[…] distantes ab invicem uno passu  […] Estque ‹inter› columpnam et columpnam tabulis
+         marmoreis bene clausum […]»; <ref type="witlink" target="#p-ii-27">P II 27 5</ref> «[…] ultra quam columpnam ad spacium passus unius est columpna alia, duos similiter
+         marmoreos leones habens ut prima. Inter columpnas vero duas est cortina marmorea coloris
+         grisei […]»; <ref type="witlink" target="#vb-null-73">VB LXXIII 8</ref> «[…] grando per 1° paso. Et chosì tuto è serado de colone con do lioni per una; e
+         da una cholona al’altra è serado de tole de marmoro […]». Purtroppo in questo punto
+         Z è lacunoso, ma, considerata la sua vicinanza a V (e a F), appare lecito domandarsi
+         se la lezione «per un passo et mezzo» provi realmente un contatto di R con V, so se
+         si tratti di una lezione che figurava originariamente anche nella redazione Z e che
+         Ramusio ha ricavato dalla sua fonte Z1. </p>
+	<p>Nella seconda parte della pericope («tutta lavorate […] fine») R trasmette delle informazioni
+         che non compaiono in F e negli altri rami, ma sono sicuramente originali. L’affermazione
+         secondo cui le lastre che formano la balaustra sarebbero tutte «lavorate a diverse
+         scolture» trova parziale riscontro in uno degli <hi rend="italics">excerpta</hi> poliani copiati da Meo Ceffoni nelle ultime carte del ms. Riccardiano 1036 (Benedetto
+         1928, p. CCXII), ed è inoltre confermato dalla descrizione realizzata nel 1668 dal
+         gesuita Gabriel de Magalhães (in <hi rend="italics">Nouvelle relation de la Chine</hi>, Paris, Claude Barbin, 1668, p. 16).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

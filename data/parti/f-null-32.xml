@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-32</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-32">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XXXII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-32_1_1" n="1"> Ci devise de .VIII. roiaumes de <term ref="#persia">Perse</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-32_2_1" n="1"> Or sachiés que en <term ref="#persia">Persie</term> a .VIII. roiames, por ce qu’el est grandisme provence, et si le voç contrai por lor
+         nom tuit. </seg>
+      <seg xml:id="f-null-32_2_2" n="2"> Le primer roiames, ce est dou conmencement, a nom <term ref="#casibin">Casum</term>; le segond, ke ‹est› dever midi, est appelés <term ref="#curdistan">Curdistan</term>; le terç est apelés <term ref="#lor">Lor</term>; le quart <term ref="#suolistan">Cielstan</term>; le quint <term ref="#spaan">Istanit</term>; le se‹s›isme <term ref="#siras">Ceraçi</term>; le septisme <term ref="#soncara">Soncara</term>; le oitisme <term ref="#timocaim">Tunocain</term>, qui est a l’esue de <term ref="#persia">Persie</term>. </seg>
+      <seg xml:id="f-null-32_2_3" n="3"> Tuit cesti roiames sunt dever medi, for le un solemant: ceste e‹st› <term ref="#timocaim">Tunocain</term>, qui est pres a l’<term ref="#arbore-secco">A‹r›bre Seul</term>. </seg>
+      <seg xml:id="f-null-32_2_4" n="4"> En cesti roiames a maint biaus destrer, et mant e‹n› moinent en <term ref="#india">Yndie</term> a vendre. Et sachiés qu’il sunt chevaus de grant vailance, car il vendent le un bien
+         .CC. libre de tornis, et tous les plusors sunt |15a| de ceste vailance. </seg>
+      <seg xml:id="f-null-32_2_5" n="5"> Encore
+         hi a asne, li plus biaus du monde, que bien vaut le un trointe mars d’argent, car
+         il sunt grande coreor et bien portant a l’anblaüre. </seg>
+      <seg xml:id="f-null-32_2_6" n="6"> Les gens de cesti roiames
+         moinent les cavaus qe je vos ai dit jusque a <term ref="#chisi">Chisi</term> et a <term ref="#ormus">Curmosa</term>, qe sunt deus cité que sunt sour la rive dou <term ref="#mare-dindia">mer d’Endie</term>, et iluec trovent les mercant que les acatent et les moinent en <term ref="#india">Yndie</term> et la li vendent si cher cum je voç ai contés. </seg>
+      <seg xml:id="f-null-32_2_7" n="7"> En cestes roiames a de mai‹n›tes
+         cruel jenç et homisidiaus, car il se ocient tout jor ensenble; et se ne fust por doutre
+         de la segnorie, ce est del tartar do Levant, il faroient grant maus as mercaant{e}
+         viandant. [9] Et por tout la segnorie ne laisent il mie qu’il ne facent elz domajes
+         plusors fois, car, se les merchaant ne sunt bien aparoillés d’armes et d’arc, il les
+         occient et maumenent malemant. [10] Et vos di san faille que il tinent tuit la loy
+         <term ref="#macometto">Maomet</term> lor profete. [11] En la cité a mercaans et homes d’ars aseç que vivent de mercandies
+         et de labor, car il font dras doré et dras de soie de toutes fassionç. [12] Il hi
+         naist <term ref="#bambagio">banbace</term> aseç; il ont abundance de forment et d’ors et de milio et de pani et de toutes blait,
+         et de vin et de toutes fruit. </seg>
+    </p>
+    <p n="3"/>
+  </div>
+</body>
+</text>
+     </TEI>

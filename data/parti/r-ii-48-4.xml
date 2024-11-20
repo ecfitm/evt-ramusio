@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-48-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-48">
+      <note>
+	<p>Varie affinità («giusti et valenti nell’armi», «grandi et alti monti») suggeriscono
+         che in questo punto Ramusio abbia seguito un testimone affiine a <ref type="witlink" target="#z-null-63">Z 63 3-5</ref> «Sunt homines probi et valentes ad arma. Multas habent civitates. Castrorum habent
+         quantitatem multam in magnis et arduis montibus et fortiliciis» (vd. <ref type="witlink" target="#f-null-128">F CXXVIII 2-3</ref> «[…] Il sunt bien homes d’armes. Il ont cités asseç; mes chastiaus ont il grant quantité
+         en grandismes montagnes et fortreses»). Gli altri testimoni omettono uno o più dettagli
+         presenti in R (L, V e VB), oppure organizzano le informazioni in modo diverso (P):<ref type="witlink" target="#l-null-103"> L 103 2</ref> «Et ‹habent› civitates multas et castra plurima in maximis et asperrimis montibus»;<ref type="witlink" target="#v-null-61"> V 61 7</ref> «[…] et sono prod’omeni nel’arme. Et in questa provinzia sono molte zitade e chastelli,
+         et sono in monti et in forteze»; <ref type="witlink" target="#vb-null-91">VB XCI 4</ref> «Sono tuti homeni d’arme; àno molti chastelle, ville e tere sotto si»; <ref type="witlink" target="#p-ii-48">P II 48 5</ref> «Viri armis strenui sunt et probi» / <ref type="witlink" target="#p-ii-48">P II 48 4</ref> «Civitates ibi multe sunt et castra multa, montes magni et fortes».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

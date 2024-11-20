@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-122</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-122">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, CXXII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-122_1_1" n="1"> ‹P›artendosi da <term ref="#fugiu">Cangui</term> e passi el fiume chaminando per sirocho per .V. giornate, senpre se trova tere et
+         chastelli e grande abitacion, e riche et molto abondante de ogni vituallia. </seg>
+      <seg xml:id="vb-null-122_1_2" n="2"> Chaminasi
+         molto per monti et ancho per pian e boschi assai, nei qualli boschi se trova alborselli
+         che fano la canfora. </seg>
+      <seg xml:id="vb-null-122_1_3" n="3"> È molto abondante de salvadesine. </seg>
+      <seg xml:id="vb-null-122_1_4" n="4"> Sono tuti <term ref="#idolatri">idolatri</term> et sotto el <term ref="#gran-can">Gran Can</term> et è delle iusridicion de <term ref="#fugiu">Fugui</term>. </seg>
+      <seg xml:id="vb-null-122_1_5" n="5"> Passato le .V. giornate se trova la citade chiamata <term ref="#zaitum">Caiten</term> la quale è nobelle e bella citade.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

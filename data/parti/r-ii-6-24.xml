@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-6-24</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>Le espressioni «molte sorti di pesci» e «quando vuole» inducono a ipotizzare il ricorso,
+         da parte di Ramusio, a un esemplare affine a V (e a F), anche se la lezione «abondanza»
+         farebbe pensare allo sporadico apporto di P (ma si veda anche L più avanti): <ref type="witlink" target="#v-null-41">V 41 25</ref> «[…] in lo qual sono molte maniere de pese, et quando el <term ref="#gran-can">Gran Chan </term>vuol de quel pese el ne à al suo’ piaxer […]» (<ref type="witlink" target="#f-null-83">F LXXXIII 27</ref> «[…] eu quel a de plosors maineres de poisonç, car le <term ref="#gran-can">Grant Sire</term> hi a fait metre de maintes maineres peisonç, et toute le foies qe le <term ref="#gran-can">Grant Sire</term> velt de celz pesonz en a a sa volunté»);<ref type="witlink" target="#p-ii-9"> P II 9 7</ref> «[…] in quo pisces nutriuntur multi et optimi qui aliunde deferuntur illuc; de quibus
+         piscibus copiam habet rex pro suo libito voluntatis […]». Risulta abbastanza sintetica
+         la versione di <ref type="witlink" target="#l-null-68">L 68 6</ref> «[…] sunt enim in ipso diverse species piscium habundanter». </p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

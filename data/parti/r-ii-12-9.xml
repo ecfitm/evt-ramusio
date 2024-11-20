@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-12-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>R rispecchia, seppure in modo più sintetico, la lezione di <ref type="witlink" target="#f-null-88">F LXXXVIII 12</ref> «Et quant il sunt tuit asetés, chascun en son leu, adonc se leve un grant prolés
+         et dit a haute vos: “Enclinés et adorés!”. Et tant tost qe celui a ensi dit, il s’enclinent
+         maintinant et metent lor front en tere et font lor orassion ver le seingnor et l’aorent
+         ausi com ce il fust dieu […]». Non si notano invece affinità con <ref type="witlink" target="#v-null-43">V 43 12-13</ref> (che reca un testo corrotto in più punti) «[…] et essendo tuti chussì hordenadamente
+         seradi; et sopra tuti sentano el Gran Papa, zoè el gran parlato, et ad alta voxe dise:
+         “Or tuti quanti adorate de prexente el vostro Signore”. Allora ognuno inchina la testa
+         infina in tera verso el Signore et adora quello chomo so dio […]». L’espressione «un
+         grande huomo, come sarebbe a dire» è con ogni probabilità una glossa introdotta di
+         Ramusio. Non sembrano aver contribuito alla costruzione del testo <ref type="witlink" target="#l-null-73">L 73 6</ref> «[…] Assurgitque tunc antiquus aliquis, alta voce proclamans: “Inclinetis et adoretis!”;
+         et tunc omnes, inclinati faciebus terram tangentibus versus dominum, eum tamquam deum
+         adoran […]» e <ref type="witlink" target="#p-ii-15">P II 15 5</ref> «[…] Tunc surgens unus in medium clamat voce altissima: “Inclinate et adorate”; facta
+         hac voce consurgunt omnes celeriter et genuflectunt et, fronte ad terram demisso,
+         regem quasi deum adorant […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

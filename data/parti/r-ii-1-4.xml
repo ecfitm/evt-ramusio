@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-1-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>Ramusio fonde qui la testimonianza di P e di VB:<ref type="witlink" target="#p-ii-1"> P II 1 2</ref> «[…] et est sextus, ut ex supradictis apparet; cepit autem regnare [R «cominciò a
+         regnar nel 1256»] anno domini nostri Iesu Christi .MCCLVI. et sapiencia ac probitate
+         [R «bontà», ma vd. pure L] sua regnum obtinuit: nam quidam ex fratribus et consanguineis
+         eius ipsum ne regnaret conati sunt impedire, sibi autem de iure regni successio debebatur»
+         [R «ma a lui la succession del regno apparteneva giustamente»];<ref type="witlink" target="#vb-null-67"> VB LXVII 1</ref> «[…] et chomençò a regnare nel .MCCLVI.; et aquistò la segnoria per suo gran prodeça
+         e seno, e contra la volontà di frateli et molti altri baroni suo’ parenti [R «contra
+         la volontà d’i fratelli et di molti altri suoi baroni et parenti»], de etade de ani
+         .XXVII. [R «essendo d’anni 27»]; et de pressente è in etade de anni .LXXXV.». L’attacco
+         del paragrafo («Questo <term ref="#cublai-can">Cublai Can</term> è il sesto <term ref="#gran-can">Gran Can</term>») farebbe pensare all’apporto anche di un esemplare affine a <ref type="witlink" target="#f-null-76">F LXXVI 3-8</ref> «Et cestui <term ref="#cublai-can">Cublai Kan</term> est le seisme <term ref="#gran-can">Grant Kan</term>, ce vaut a dire qu’il est sesme grant seingnor des tous les <term ref="#tartari">Tartars</term>. Et sachiés qu’il ot la segnorie as .M.CC.LVI. anz que avoit qe Crist avoit nasqu,
+         et en celui an comancé a reingner. Et sachiés q’il ot la segnorie por son valor et
+         por sa proece et por son grant senz, car sez parenz et seç freres la le defendoient.
+         Mes il, por grant proesse, l’ot, et sachiés qe droitemant venoit a lui por raisonz
+         la seingnorie. Il a, qu’il comance a regner, .XLII. anç jusque a cestui point qe core
+         .M.CC.LXXXXVIII. Il puet bien avoir d’aajes quatrevins et cinq anz». Non si notano
+         particolari affinità di R con <ref type="witlink" target="#l-null-66">L 66 2-3</ref> «Et hic est <term ref="#cublai-can">Cublai</term> sextus magnus canis […]; et licet ad eum directe perveniret dominium, quia tamen
+         a suis parentibus occupabatur, ipsum de eorum manibus sensu et probitate eripuit.
+         Incepitque regnare anno Christi .M°.CC°.LVI°., et regnabat tempore domini Marchi Paulo,
+         scilicet .M°.CC°.LXXX‹X›VIII°.; et erat tunc etatis circa .LXXXV. annorum», e con
+         <ref type="witlink" target="#v-null-39">V 39 25-26</ref> «Chorando l’ano del nostro signor Iexu Christo milezento e sesantasie aquistò la
+         signoria per la suo’ granda industria e seno, che suo’ frateli tegnia la signoria
+         et raxonevelmente vegnia a questo <term ref="#cublai-can">Choli Chan</term>. Dapuo’ ch’el chomenzò a regnar infina qua fono quarantado ani, che sono mileduxento
+         e hotantahoto». </p>
+	<p>Z omette tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

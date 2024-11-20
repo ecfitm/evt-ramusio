@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-25-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-25">
+      <note>
+	<p>Benché l’affinità tra le due versioni sia molto forte, R e Z presentano varie differenze,
+         che si concentrano in particolare nell’ultima parte della pericope: <ref type="witlink" target="#z-null-44">Z 44 3-6</ref> «Omni itaque anno supradicti christiani, saraceni et cathayci astrologi, videlicet
+         quelibet secta per se, in isto astrologio cursum et dispositionem totius ani secundum
+         cursum lune cuiuslibet intuentur [R <hi rend="italics">add</hi>. «secondo il corso di ciascuna luna»]: nam vident et inveniunt cuiusmodi temperies
+         [R «che temperanza debbe esser dell’aere»], secundum naturalem cursum et dispositionem
+         planetarum et signorum ac eorum proprietates, quelibet luna ilius anni producet. Videlicet
+         in tali luna erunt tonitrua et tempestates; in tali teremotus; in tali fulgura, coruscationes
+         et pluvie multe; in tali infirmitates et mortalitas et guere et discordie infinite
+         [R «discordie et insidie»]; et sic de singulis, secundum quod invenient. Et dicent
+         [R «secondo che troveranno, diranno»] sic debere consequi secundum cursum et rationem
+         nature. Sed Deus potest facere plus et minus» [R «aggiungendovi che Dio può far piú
+         et manco, secondo la sua volontà»].</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-17-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-17">
+      <note>
+	<p>La fonte principale di R sembra essere qui <ref type="witlink" target="#p-i-24">P I 24 2</ref> «Quando reditur de <term ref="#ormus">Cormos</term> ad civitatem <term ref="#chermain">Crerman</term> per viam aliam, invenitur pulcra magnaque planicies ubi est victualium copia, triticum
+         enim habundanter habent, sed panis illius patrie comedi non potest ab aliis qui non
+         sunt ad eum per multa tempora assueti eo quod, propter aquas amaras, amarus est».
+         La ripresa di P pare evidente, anzitutto, nel rispecchiamento di alcune sue lezioni
+         peculiari (<hi rend="italics">per viam aliam</hi> &gt; <hi rend="italics">per un</hi><hi rend="italics">’</hi><hi rend="italics">altra strada;</hi> <hi rend="italics">per multa tempora</hi> &gt; <hi rend="italics">per longo tempo</hi>); sul piano strutturale, poi, R segue P nel sopprimere, o dislocare più avanti, le
+         informazioni sulle tipicità della regione di <term ref="#ormus">Hormuz</term> (acque termali, frutti, cacciagione), che nella restante tradizione trovano spazio
+         già qui: vd. infatti <ref type="witlink" target="#f-null-36">F XXXVI 24-25</ref> «Et en retorner da <term ref="#ormus">Cremosa</term> a <term ref="#chermain">Crerman</term> a mout biaus plain et abundançe de viandes. Il hi a maint bangn chaut; ill’i a pernis
+         aseç et grant merchiés; fruit et datal hi a aseç; li pain de forment qui est si amer
+         que nul en puet mangier, se ne en est costumés, et ce avent por ce que l’eive hi est
+         amer»; <ref type="witlink" target="#l-null-31">L 31 2-3</ref> «Et veniendo a Carmosa non per supradictam viam ad <term ref="#chermain">Creman</term> invenitur maxima habundantia victualium; et sunt ibi multa balnea naturalia, et perdices
+         in maxima quantitate et dactala multa. Et panis qui ibi invenitur, eciam de frumento,
+         in tantum est amarus quod nemo ex eo commedere potest nisi forte fuerit assuetus:
+         quod accidit ratione aquarum, que amare sunt valde»; <ref type="witlink" target="#v-null-20">V 20 34</ref> «Alo retorno de <term ref="#ormus">Chremoso</term> sì è una bela pianura ed è abondanzia de vituaria, et in quela se trova de molte
+         pernixe, e bon marchado de datali ed altri fruti; et el pan de formento sì è molto
+         amaro, et non se può manzare se l’omo nonn è uxo, et questo sono per le aque amare»;
+         <ref type="witlink" target="#vb-null-23">VB XXIII 2-3</ref> «Andando da <term ref="#ormus">Cremosa</term> a <term ref="#chermain">Creman</term>, se trova una granda et bella pianura abondante de tutte chosse. Et trovasse de beletissimi
+         et boni bagni de aqua chalda; e qui se trova pernixe sença numero, grandissima quantità
+         de datalli et altri fruti, abondante di formento, el qualle èt tanto amaro che non
+         se pò apena mangiare e chovensi usarllo tenperadamente, et questo è per le aque che
+         sono amare»; Z 14 18-19 (dove però sopravvive il solo dato sulle acque termali) «Et veniendo de <term ref="#ormus">Cormos</term> ad <term ref="#chermain">Chermam</term>, multe planities inveniuntur pulcre et magne, habundantes in victualibus et balneis
+         calidis ex terra scaturientibus. Panis vero frumenti est ibi tam amarus, quod nullus
+         qui consuetus non sit ex eo comedere potest: et hoc est propter terram infusam ab
+         aquis dictarum balnearum, que quidem amare sunt».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-46</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-46">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 46</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-46_2_1" n="1"> <term ref="#samarchan">Sanmarcan</term> est maxima civitas et nobilis; et est versus maistrum. </seg>
+      <seg xml:id="l-null-46_2_2" n="2"> Gentes sunt christiani
+         et Sarraceni. </seg>
+      <seg xml:id="l-null-46_2_3" n="3"> Fuit in hac civitate mirabile pulcrum hiis temporibus. Dominus huius
+         civitatis, nomine <term ref="#zagathai">Cigatai</term> (frater carnalis <term ref="#gran-can">Magni Canis</term>), christianus baptiçatus fuit. Christiani vero huius civitatis, maxime congaudentes
+         d‹e› hoc, fecerunt ad huius memoriam fieri magnam ecclesiam ad honorem sancti Iohannis Baptiste. </seg>
+      <seg xml:id="l-null-46_2_4" n="4"> In cuius medio positus fuit lapis quidam, valde pulcer, super quem erat columpna
+         substentans totam cooperturam; hunc vero lapidem christiani acceperant Sarracenis,
+         quod valde grave Sarraceni ferebant. </seg>
+      <seg xml:id="l-null-46_2_5" n="5"> Post vero non multum tempus dominus iste,
+         qui christianus erat, mortuus est. Tunc vero Sarraceni, qui primo timore domini quiete
+         steterant, proposuerunt ex toto hunc lapidem vi tollere christianis – quod leviter
+         facere poterant: erant enim longe plures, ymo decies tantum. Dixerunt enim christianis
+         quod lapidem suum volebant, omni causa remota; sed quia lapis absque destructione
+         ecclesie auferri non poterat, obtulerunt christiani se daturos quantum monete placuerit
+         pro merito talis petre: quod nullatenus Sarracenis placuit consentire. </seg>
+      <seg xml:id="l-null-46_2_6" n="6"> Per dominum
+         ergo statuta est dies christianis in qua lapis reddatur omnimode Sarracenis. Dum ergo
+         die ordinata ad auferendum lapidem in ecclesia pervenissent, invenerunt columpnam
+         elevatam supra lapidem bene tribus palmis, et per se in aere cohoperturam ecclesie
+         nichilominus substinentem: sicque ex tunc permansit, et usque in hodiernum permanet
+         diem.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

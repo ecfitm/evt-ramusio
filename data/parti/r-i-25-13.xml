@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-25-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-25">
+      <note>
+	<p>Alle informazioni condivise con la tradizione e con <ref type="witlink" target="#f-null-46">F XLVI 16</ref> «[…] olio ne ont d’olive, mes il le font de susiman et de noce» (vd. <ref type="witlink" target="#l-null-41">L 41 10</ref> «[…] non habent oleum olivarum, sed faciunt ipsum ex sisamo et nucibus», <ref type="witlink" target="#p-i-34">P I 34 9</ref> «[…] olivis carent, sed de nucibus et sosiman oleum faciunt», <ref type="witlink" target="#vb-null-29">VB XXIX 9</ref> «[…] non àno ollio de oliva: fano de olio de noxe e quello i adoperano»), R aggiunge
+         un <hi rend="italics">ajout</hi> di taglio erudito sulle proprietà dei semi di lino e dell’olio che se ne ricava.
+         La fonte è probabilmente Z, ma il toledano, qui silente, impedisce di verificare l’ipotesi.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

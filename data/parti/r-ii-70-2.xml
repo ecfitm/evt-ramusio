@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-70-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-70">
+      <note>
+	<p>Le informazioni tràdite in R e <ref type="witlink" target="#z-null-87-1-4">Z 87 2-3</ref> si trovano anche, ma disposte in un ordine diverso, in <ref type="witlink" target="#f-null-153">F CLIII 4</ref> «Il sunt au Grant <term ref="#gran-can">Kaan</term> et ont monoie de charte. Il sunt <term ref="#idolatri">ydres</term> et font ardoir lor cors por la mainiere qe je voç ai dit desovre. Il vivent de mercandies
+         et d’ars; il ont grant habondance de toutes chouses de vivre». Versioni analoghe a
+         quella di F, ma più succinte, si trovano in <ref type="witlink" target="#v-null-77">V 77 2</ref> «la zente dela qualle sono sotoposta ala signoria del <term ref="#gran-can">Gran Chan</term>; e spendeno moneda de charta; et fano bruxar i chorpi morti per el muodo ve ò dito
+         di sopra; et viveno de marchadantie et arte; et àno abondanzia de tute vituarie»,
+         e in <ref type="witlink" target="#vb-null-115">VB CXV 3-4 </ref>«Sono <term ref="#idolatri">idolatri</term> e spendeno moneta di carta et ardeno i corpi de’ lor morti. Àno abondancia de tute
+         chose da vivere et sono homeni de mestieri et ancho di merchadantia».</p>
+	<p>Un ordine dei contenuti più prossimo a quello di Z e R si incontra in <ref type="witlink" target="#l-null-133">L 133 2-3</ref> («Gentes sunt <term ref="#idolatri">ydolatre</term>, comburentes corpora mortuorum, monetam ex cartis habentes. Et sunt mercatores et
+         artiste, habentes victualia copiose»), che appare comunque abbreviato.</p>
+	<p>P (analogamente alla sua fonte VA) omette tutta questa parte di testo.</p>
+	<p>R segue Z nell’ordine e nei contenuti, omettendo tuttavia la frase «et habent de omnibus
+         victualibus habundanter», attestata, per altro, nella maggior parte delle sue fonti
+         (L, V e VB).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

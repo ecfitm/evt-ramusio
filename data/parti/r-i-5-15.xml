@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-5-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-5">
+      <note>
+	<p>Pur con qualche scorciatura, il paragrafo ricalca pressoché letteralmente un <hi rend="italics">ajout</hi> testimoniato dal solo <ref type="witlink" target="#z-null-4">Z 4 20</ref>: «Penes istam provinciam quedam civitas est pulcra et magna valde, nomen cuius <term ref="#tiflis">Tyflis</term>, circa quam multa sunt castra et burgi que isti civitati obediunt; in qua habitant
+         Christiani, scilicet Armenii et Iorgienses, et aliqui Saraceni et Iudei, sed pauci».</p>
+	<p>La lezione toledana marca precisamente, mediante l’avv. <hi rend="italics">scilicet</hi>, la distinzione tra i cristiani di rito armeno e quelli, ortodossi, di rito georgiano;
+         nel testo ramusiano, per iniziativa personale del compilatore o in ossequio a un modello
+         Z non esatto, la sottigliezza sfuma nella giustapposizione indifferenziata di gruppi
+         religiosi (<hi rend="italics">christiani</hi>, <hi rend="italics">Saraceni</hi>, <hi rend="italics">Giudei</hi>) ed etnie (<hi rend="italics">Armeni</hi>, <hi rend="italics">Giorgiani</hi>).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

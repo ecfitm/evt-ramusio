@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-21</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-21" n="1">
+    <head>
+      <hi rend="bold">R, III 21</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-21_1_1" n="1"> Del regno di <term ref="#murphili">Murphili</term>, o vero <term ref="#moxul">*Monsul</term>. Cap. 21.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-21_2_1" n="1"> Il regno di <term ref="#murphili">Murphili</term> si trova quando si parte da <term ref="#malabar">Malabar</term> et si va per tramontana cinquecento miglia. </seg>
+      <seg xml:id="r-iii-21_2_2" n="2"> <term ref="#idolatri">Adorano gl’idoli</term> et non danno tributo ad alcuno; vivono di risi, carne, latte, pesce et frutti. </seg>
+      <seg xml:id="r-iii-21_2_3" n="3"> Ne’ monti di questo regno si trovano i diamanti, perché quando piove l’acqua descende
+         da quelli con grande impeto et ruina per le rupi et caverne, et poi che è scorsa l’acqua
+         gli huomini li vanno cercando per li fiumi, et ne trovano molti. </seg>
+      <seg xml:id="r-iii-21_2_4" n="4"> Et fu detto al prefato messer Marco che la state, ch’è grandissimo caldo et non piove,
+         montano sopra detti monti con gran fatica, et per la moltitudine de’ serpi che si
+         trovano in quelli, et in le sommità vi sono alcune valli circondate da grotte et caverne
+         dove si trovano detti diamanti, et vi pratticano di continuo molte aquile et cigogne
+         bianche, che si cibano di detti serpi. </seg>
+      <seg xml:id="r-iii-21_2_5" n="5"> Quelli adunque che vogliono haverne buttano, stando sopra le grotte, molti pezzi
+         di carne in dette valli, et l’aquile et cigogne, vedendo le carni, le vanno a pigliare
+         et portano a mangiar sopra le grotte o vero sommità di monti, dove immediate corrono
+         gli huomini et le discacciano, tolendoli le carni: et spesse fiate trovano attaccati
+         in quelle i diamanti. </seg>
+      <seg xml:id="r-iii-21_2_6" n="6"> Et se l’aquile mangiano le carni, vanno al luogo dove dormono la notte, et trovano
+         alle fiate di diamanti nel sterco et immonditie di quelle. </seg>
+      <seg xml:id="r-iii-21_2_7" n="7"> In questo regno si fanno i migliori et piú sottili boccascini che si trovino in tutta
+         l’<term ref="#india">India</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

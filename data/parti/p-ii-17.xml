@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-17">
+    <head>
+      <hi rend="bold">P, II 17</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-17_2_1" n="1"> Habet <term ref="#gran-can">Magnus Kaam</term> pro sue venacionis solatio leopardos multos domesticos qui ad venacionem cum ho‹m›i‹n›ibus
+         assueti sunt et pro huius venacione optimi sunt multasque bestias capiunt. </seg>
+      <seg xml:id="p-ii-17_2_2" n="2"> Linceos
+         similiter habet ad venandum industrios. </seg>
+      <seg xml:id="p-ii-17_2_3" n="3"> Habet etiam leones maximos et pulcherimos,
+         maiores illis qui in <term ref="#babilonia">Babilonia</term> sunt, qui in pilo pellium virgulas habent per longum coloris varii, nigri coloris
+         scilicet albi et rubei, qui similiter docti sunt cum hominibus venari et |43a| apros,
+         ursos, cervos, capreas, <term ref="#asini-salvatichi">onagros</term>, bovesque silvestres cum venatoribus capere. </seg>
+      <seg xml:id="p-ii-17_2_4" n="4"> Quando volunt venatores regis leones
+         secum ad venacionem ducere duos ex eis in caruca deferunt, quorum quilibet habet comitem
+         canem parvulum. </seg>
+      <seg xml:id="p-ii-17_2_5" n="5"> Simili modo aquilas habet rex multas domesticas que adeo feroces
+         sunt ut lepores, capreas, damulas et vulpes capiant, inter quas plurime tante audacie
+         sunt ut impetu magno in lupos insiliant nec ab earum se possint lupi virtute deffendere
+         quin capiantur ab eis.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

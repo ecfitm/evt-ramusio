@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-42-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-42">
+      <note>
+	<p><ref type="witlink" target="#f-null-120">F CXX</ref> (Comant le <term ref="#gran-can">Grant Kaan</term> conquisté le roiaume de <term ref="#mien">Mien</term> et de <term ref="#bangala">Bangala</term>) / <ref type="witlink" target="#f-null-121">F CXXI</ref> (Ci devise de la bataile que fu entre le host dou <term ref="#gran-can">Grant Kaan</term> et le roi de <term ref="#mien">Mien</term>) / <ref type="witlink" target="#f-null-122">F CXXII</ref> (Ci dit encore de la bataille meisme); <ref type="witlink" target="#p-ii-42">P II 42</ref> (De prelio magno quod fuit inter <term ref="#tartari">Tartaros</term> et regem <term ref="#mien">Mien</term> et victoria <term ref="#tartari">Tartarorum</term>. Capitulum XLII), <ref type="witlink" target="#va-null-98">VA XCVIII</ref> (De una bataia che fo tra uno gran baron del <term ref="#gran-can">Gran Chaan</term> et d’uno grande re); <ref type="witlink" target="#v-null-58">V 58</ref> (Chomo el <term ref="#gran-can">Gran Chan</term> sotomese el regno de <term ref="#mien">Ruen</term> e <term ref="#bangala">Bangala</term>); <ref type="witlink" target="#vb-null-86">VB LXXXVI</ref>. </p>
+	<p>Ramusio si avvale fondamentalmente di due relatori. Soprattutto nella prima parte
+         (parr. 1-6, 12 e 20) R riflette il dettato di V e di F, e presenta sporadicamente
+         lezioni caratteristiche di V. Poiché, tuttavia, in diversi punti non presenta le innovazioni
+         di V ma si mostra affine a F, se ne deduce che la sua fonte dovesse essere più vicina
+         al testo originale di quanto si mostri V. L’ipotesi più verosimile è che tale esemplare
+         vada identificato con Z1 (il relatore di Z più completo del toledano). L’altra fonte abbondantemente attestata
+         nella parte centrale del capitolo (parr. 7-11, 13-18, 21-22 e 25-26) è VB. Il contributo
+         di P appare invece alquanto contenuto, e – se si eccettuano brevi sintagmi nei paragrafi
+         centrali e finali – si limita quasi eslcusivamente alle ultime due pericopi. Giova
+         ricordare, infine, che, come succede in altre sezioni di impianto narrativo, in questo
+         capitolo gli interventi di rielaborazione, riscrittura, amplificazione e interpolazione
+         di Ramusio sono particolarmente marcati. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

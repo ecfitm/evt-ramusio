@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-102</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-102">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, CII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-102_1_1" n="1"> <term ref="#cingui">‹C›ingui</term> si è nobelle e bella citade e richa et è posta nel’intrada del <term ref="#mangi">Manci</term> verso sirocho e levante. </seg>
+      <seg xml:id="vb-null-102_1_2" n="2"> La giente sono <term ref="#idolatri">idolatri</term> et fano arder i corpi de’ llor morti, et sono so‹to›posti al <term ref="#gran-can">Gran Can</term> et è posta la cità sopra el fiume de <term ref="#caramoran">Caramoran</term> per avanti nominato. </seg>
+      <seg xml:id="vb-null-102_1_3" n="3"> Questa cità àno grandissime |257r| nave che navegano per
+         el fiume. </seg>
+      <seg xml:id="vb-null-102_1_4" n="4"> Èt gran quantitade per le gran marchadantie chapitano ive, per el bon
+         sito dela tera la qual molto ben marcha con assai alltri paexi et ecian per la gran
+         quantitade de salle se fa in quella dela qual se fornise tuti i pa‹e›xi circostanti:
+         e per dite chaxone adoperano nave assai. </seg>
+      <seg xml:id="vb-null-102_1_5" n="5"> E del dito salle el segnor <term ref="#gran-can">Gran Can</term> ne à grandissima utillitade et olltra grande utelle dele gabelle dele molte marchadantie
+         core per la tera. </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

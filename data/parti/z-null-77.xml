@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-77</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-77">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 77</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-77_1_1" n="1"> Quando vero, discedendo a civitate <term ref="#tingui">Tinçu</term>, itum est versus syrocum una dieta per valde pulcras contratas, in quibus sunt multe
+         civitates et castra, invenitur quedam civitas nobilis et grandis nomine <term ref="#iangui">Yançu</term>. </seg>
+      <seg xml:id="z-null-77_1_2" n="2"> Et tam potens est quod sub se habet viginti septem civitates nobiles et bonas,
+         et magnarum mercationum. </seg>
+      <seg xml:id="z-null-77_1_3" n="3"> In ista quidem civitate residet, sive sedem habet, unus
+         de duodecim baronum Magni <term ref="#gran-can">Can</term> qui in alciori gradu dignitatum sunt. </seg>
+      <seg xml:id="z-null-77_1_4" n="4"> Nam ista electa est una de sedibus duodecim.
+         </seg>
+      <seg xml:id="z-null-77_1_5" n="5"> Gentes civitatis huius <term ref="#idolatri">ydolatre</term> sunt, pecuniam habent de cartis et sunt sub dominio <term ref="#gran-can">Magni Can</term>. |39v| </seg>
+      <seg xml:id="z-null-77_1_6" n="6"> Vivunt de mercimoniis et artibus: nam faciunt munimina militum et hominum
+         ab armis in magna quantitate, quia circa istam civitatem et in civitate, et in eius
+         pertinentiis sunt homines multi pro armis.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

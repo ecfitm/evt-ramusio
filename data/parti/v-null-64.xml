@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-64</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-64">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 64</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-64_2_1" n="1"> ‹Q›uando el se parte da <term ref="#ciangli">Ziangli</term> el se chavalcha sie zornade inverso mezodì, trovando molte zitade e chastelli de
+         gran valor et nobeltà de zente; e la zente dele qual <term ref="#idolatri">adora le idolle</term>, et bruxano li chorpi morti; et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>, et le lor monede sono de charta. </seg>
+      <seg xml:id="v-null-64_2_2" n="2"> Et vive de marchadantie e d’arte, et sono abondanzia
+         de tute vituarie; ma in queste nonn è alguna chossa da dire, ma diremo di <term ref="#tudinfu">Chandifu</term>, la |78v| qual sono una gran zitade et fono gran reame, mo el <term ref="#gran-can">Gran Chan</term> l’asediò ed avela. </seg>
+      <seg xml:id="v-null-64_2_3" n="3"> Et fo la più nobel tera che se trovasse in quelle parte, onde
+         in questa sono molte marchadantie et molti marchadanti, et sono granda abondanzia
+         de seda; et intorno de questa zitade sono molti zardini, li qualli sono pieni de belli
+         fruti. </seg>
+      <seg xml:id="v-null-64_2_4" n="4"> Et questa zitade àno soto d’esa diexe nobelle e gran zitade; et inperò
+         in questa zitade sono de molti marchadanti, onde el <term ref="#gran-can">Gran Chan</term> avea mandado uno suo’ baron chiamato <term ref="#lucansor">Lufa</term>, azò el governasse questa zitade e provinzia, nela qual sono molti miera d’omeni
+         da chavallo. </seg>
+      <seg xml:id="v-null-64_2_5" n="5"> Or quando questo baron fono stato in questa provinzia zerto tempo,
+         chomo traditor pensò de far uno tradimento, chomo arete aldido: onde el se chonseiò
+         chon tuti i più savi homeni de quella zitade, chon li qualli ave chonseio de esser
+         revello del <term ref="#gran-can">Gran Signor</term>, e questo feze de volontà de quelli dela zitade. </seg>
+      <seg xml:id="v-null-64_2_6" n="6"> Et quando el <term ref="#gran-can">Gran Chan</term> sape questo, el mandò do provedadori, uno chiamato <term ref="#angul">Giel</term>, l’altro <term ref="#mongatai">Mogata</term>; et mandò molti miera d’omeni a chavallo. </seg>
+      <seg xml:id="v-null-64_2_7" n="7"> Et questi do provedadori chonbaté chon
+         questo <term ref="#lucansor">Lufa</term>, el qualle iera rebello ed era chon tute le suo’ zente ch’el poté chongregar, i qualli
+         iera molti miera de homeni da chavallo e molti miera de pedoni. </seg>
+      <seg xml:id="v-null-64_2_8" n="8"> Or ale fin questo
+         <term ref="#lucansor">Lufa</term> fo schonfito e morto chon molti altri; e dapuo’ che questo <term ref="#lucansor">Lufa</term> fo morto el <term ref="#gran-can">Gran Chan</term> feze zerchar tuti quelli che iera cholpevelli de questo tradimento, et tuti fono
+         morti chrudelmente; et a tuti i altri fo perdonado, li qual dapuo’ fo fedeli chontinuamente.
+         [9] Mo’ de questa |79r| zitade lasseremo e diremo d’un’altra zitade. [10] Quando el
+         si parte da questa zitade el se vano tre zornade inverso mezodì, chontinuamente trovando
+         chastelli e zitade nobelle e grande, de molte marchadantie et arte, in le qualle sono
+         molte chazaxon et oxelaxon, orsi, zervi et chadaun animal e tute maniere de bestie
+         in gran quantitade. [11] Et quando el se à chavalchado queste tre zornade el se trova
+         una nobelle zitade chiamata <term ref="#singuimatu">Segui</term>, la qual sono molto richa e granda, e vive de marchadantie et arte; la zente dela
+         qualle <term ref="#idolatri">adora idolle</term>, ed è soto al <term ref="#gran-can">Gran Chan</term>; le monede de queli è de charta. [12] Et a questa sono uno flume delo qualle i àno
+         gran profito; questo flume vien deverso mezodì infina a questa zitade, ma i omeni
+         de questa zitade fano de questo fiume do parte: una vano verso levante, l’altra verso ponente; et questo vano per altre parte, una a <term ref="#mangi">Magi</term>, l’altra al <term ref="#cataio">Chataio</term>. [13] Et questa zitade àno tanta multitudine de navi che apena algun poria chredere
+         chi non vedesse; et non chredé che le sia gran nave, ma sono segondo che i àno nezesitade
+         per quel flume. [14] E queste nave porta e vien a <term ref="#mangi">Magi</term> e al <term ref="#cataio">Chataio</term>, et duxeno gran moltitudine de marchadanti che hè mirabel chossa; et quando le torna
+         chargade le par meraveioxa chossa a veder, li marchadanti che per quel flume vien
+         portadi. [15] Or lasseremo questa zitade et diremo d’un’altra chontrada.  </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

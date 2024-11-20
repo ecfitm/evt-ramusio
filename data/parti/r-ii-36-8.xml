@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-36-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>R segue Z 53 12 «Et per longum cuiuslibet pontis, ab utraque parte sunt pulcerime stationes et ypothecarie,
+         in quibus fiunt et exercentur quelibet artes et mercimonia». La versione che si legge
+         negli altri relatori e in F appare nel complesso meno dettagliata di quella di R Z:
+         <ref type="witlink" target="#p-ii-35">P II 35 7</ref> «Super pontem hunc sunt domuncule seu staciones lignee multe pro operariis diversarum
+         artium que eriguntur mane, sero autem deponuntur et complicantur […]»; V 55 8 «Et sopra questo ponte sono pixor chasteli, in li qualli se fano molte arte e marchadantie;
+         li qualli chasteleti sono de fusti, li se mete la matina e lievasse la ssera»; <ref type="witlink" target="#vb-null-80">VB LXXX 6</ref> «E su per questo ponte ve son edifichate molte chaxete le qual se pono fare et disfare
+         […]» (<ref type="witlink" target="#f-null-113">F CXIII 14</ref> «[…] et encore ha sus ceste pont maintes maiçonnet, es quelz se font mercandies et
+         ars asez. Mes si voç di q’ele sunt de fust, que se moinent la maitine et se lievent
+         le soir»). L omette tutto il passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

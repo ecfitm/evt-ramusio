@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-15">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-15_1_1" n="1"> <term ref="#baldach">‹B›aldach</term> è citade grandissima et abitada per saraini nel meço dila qual ne core un gran fiume,
+         el qual mete in mar dala parte dever meçodì; et à de chorso el dito fiume da <term ref="#baldach">Baldach</term> fina el <term ref="#mare-dindia">Mar Indian</term> çornade .XVIII., apresso una citade che se chiama <term ref="#chisi">Ochosi</term>. </seg>
+      <seg xml:id="vb-null-15_1_2" n="2"> E fra <term ref="#baldach">Baldach</term> et <term ref="#chisi">Ochosi</term> su per el fiume n’è una gran citade chiamada <term ref="#balsara">Bastra</term>, dove naschono i mior datalli abia el mondo. </seg>
+      <seg xml:id="vb-null-15_1_3" n="3"> In <term ref="#baldach">Baldach</term> è gran mestier de pani de seda, de ormesi e pani d’oro; e lì è ’l <term ref="#califa">chalifa</term> de’ saraini el qual fia dito esser el più richo homo se sapia per tuto el levante,
+         el qual nela fin fu fato morire da fame in questo modo. </seg>
+      <seg xml:id="vb-null-15_1_4" n="4"> Nel .MIIcLXXX. el Gran Segnor di <term ref="#tartari">Tartari</term> chiamato <term ref="#ulau">Alau</term>, con grandissima possança de çe‹n›te da chavallo et da pé, mosse guera ala citade
+         de <term ref="#baldach">Baldach</term>, a guardia dela qual era olltra .Cm. chavalieri, olltra grandissima quantità de pedoni; pur finaliter quella el prese,
+         che fu mirabele cossa. </seg>
+      <seg xml:id="vb-null-15_1_5" n="5"> Nela qual citade era la tore del <term ref="#califa">chalifa</term>, nela qual era tuto l’oro et aver suo; el qual era in tanta quantità che ’l Segnor Alau, visto quello, ne rimaxe stupefatto apena credendo che tanto oro fosse nel mondo.
+         </seg>
+      <seg xml:id="vb-null-15_1_6" n="6"> Fecese vegnir ala so presencia el <term ref="#califa">chalifa</term> che era prixone e domandòllo donde et chome tanto oro et aver l’avea potuto aquistar,
+         e quel di tanto oro el volea far; al qual el <term ref="#califa">califa</term> nula respose. </seg>
+      <seg xml:id="vb-null-15_1_7" n="7"> Replichò <term ref="#ulau">Alau</term>: «Che ne volevetu far? Non savevi che io me apariava con l’oste mio per farte guera?
+         E chome fosti sì dolente che con tanto oro podevi adunar tanta giente che non sollo
+         eri suficiente a defenderte ma a segnore‹ç›are el mondo?». </seg>
+      <seg xml:id="vb-null-15_1_8" n="8"> Al qual el <term ref="#califa">chalifo</term> atonito e spauroso nula respoxe; replichò <term ref="#ulau">Alau</term>: «Tu non parli! Io çudego che più el texoro che te amavi, nel qual forssi speravi
+         esser la sustancia dela vita toa. [9] E però io delibero farte intendere chome bene
+         ài iudichato: e se questo tesoro da te tanto è più di te amato, serà quello dia sustancia
+         al tuo viver». [10] Chomandò el <term ref="#califa">chalifa</term> fose messo nela tore sollo aconpagnato con el suo tesoro sença alltra vitualia da
+         mangiare. [11] El misero <term ref="#califa">chalifo</term>, aveduto tardi del suo erore, non posendo avere alguna sustancia dal tesoro suo,
+         in chapo de çorni .IIII°. morite. [12] Io iudicho el nostro Segnore Ihesu Cristo volse
+         far vendeta di cristiani suo’ dal <term ref="#califa">chalifa</term> tanto odiati però che nel .MCCLXXV. el califa de <term ref="#baldach">Baldach</term>, che molto odiava cristiani e che d’ognora pensava chome el potese robar quelli e
+         spoiarli dele robe et aver loro, mandò per tuti cristiani era in <term ref="#baldach">Baldach</term>, et a quelli preposse: «Vui sete qui grandissima quantità et multitudene de cristiani
+         et de tute naciun ve chiamate vui tuti cristiani?». [13] Ai qual tuti resposeno che
+         i erano e chiamavase cristiani; ai qual el <term ref="#califa">chalifa</term> disse: «Se vui sete tuti boni et fedel cristiani chome dite, io iudicho uno sollo
+         de vui fra tanta moltitude se debia trovar posi adenplir l’evancellio di Cristo›.
+         [14] E feçege lecer l’evançelio in quel paso dove Cristo dise «Se vui averete tanta
+         fede quanto è un gran de senavro e digate all monte moveti |232r| el se moverà». [15]
+         «E però andate et abiate termene dì .X. e fra vui trovate uno sollo abia questo pocho
+         de fede quanto è uno grano di senavro, e che chomandando a uno monte ch’el se movi,
+         se io vederò l’esperimento de questa fede in vui, io çudegerò tuti vui esser fedel
+         cristiani chome vui dite. [16] Quando questo experemento io non veda, io çudegerò
+         tutti vui esser infedelissimi e faròve tuti crudelmente morire chome falsi cristiani.
+         [17] Andativene adonqua, et al termene inpostovi ritornati açò l’esperimento dela
+         fede vostra a tuti fia manifesto». [18] Udito ebe cristiani el chomandamento del <term ref="#califa">chalifa</term>, cognosendo cristiani la crudel natura soa e che sollo questo el faxea per spoiarlli
+         dele soe sustancie, dolente se partino. [19] E tuti, sì picholi chome grandi, se messeno
+         prostati in tera chon grandisime lagrime a far oracione al nostro <term ref="#gran-can">Segnore</term> Idio che, per la sua misericordia e gracia, se degnase concieder questa gracia ai
+         suo’ servi, açò che lui sia chognosuto esser Idio eterno, e che loro non portino tanto
+         crudel tormento per el nome suo dal crudele <term ref="#califa">chalifo</term>. [20] Stando tuti cristiani in oracione asiduamente con amarissime lacrime et deçuni,
+         a chapo de dì .VIII. aparve l’angello in sonio al veschovo, el qual era homo de santa
+         e bona vita; et dise: «Çercha el çavataro, homo açeto a Dio però che colui è quello
+         per la fede soa adenplirà l’evançellio e libereràve dal’insidie del <term ref="#califa">chalifo</term>». [21] Disparuto l’angello e svegliatto el veschovo, con grande gaudio mandato per
+         tuti parlati cristiani, a queli revellò quanto dal’agnollo l’avea udito; per che tuti
+         prostati in terra con grandissime lagrime de gaudio referì sume gracie al nostro Segnore
+         Idio che se avea dignato exaudir le lacrimoxe oraciun del popullo cristiano. [22]
+         Et subito dato opera di trovar el çavataro, el qualle senpre stava in oraciun nele
+         chiexie e santi luogi, homo de santissima vita, chasto e de sengulare fede: al qual
+         esendo andato una femena per conprar un par de scharpe, e mostrando el pé al maistro
+         per provar quele, quella femena se alçò i pani per modo el maistro ge vete la ganba,
+         per beleça dila qual el maistro se comese in desonesti pensieri. [23] Ma subito, ritornato
+         nela soa usata vertù, chaçò la femena fuori dela botega e, redutosse a memoria l’evancelio
+         dove se leçe «se l’ochio tuo te schandaliça lievete quello però che l’è meio andar
+         con 1° ochio in paradixo che con do ochi nel’inferno», et dolente del schandollo del
+         veder dela ganba dela femena, subito prese una dele steche che i adoperano nele lor
+         botege: con quella el se strapò l’ochio dela testa, dicendo: «Tu che m’ài schandolicato,
+         ceserai più de schandalicarme». [24] Esendo raunati tuti parlati e tuti fedel cristiani,
+         el çavataro a quelli con grandissima reverencia se apresentono, dai qual con grandissime
+         lacrime de gaudio fo receuto contando a quello la visione del’angello e confortato
+         el dovesse far segular oracione al nostro Segnore Idio chavaseno i suo’ fedel cristiani
+         dal prosimo pericollo. [25] Ai qual el çavataro con gran umillità et reverencia respose:
+         «Chognossendo io esser pecador, padri diletissimi, io credo non eser quel homo alla
+         nostra paternità per l’ancello revellato però che in mi nonn è quella senciera fede,
+         non quella fervente obediencia verso el nostro Segnore Idio che doveria; anci dolente
+         e missero pechador io me chiamo. [26] Però abiate bona avertencia che io fra tanti
+         patri de optima vita et chostumi non debo esser quel elleto di tanta fede». [27] A
+         chui, el santisimo veschovo afermando lui esser sollo cholui mostrato dal’angello,
+         da tuti chon piatose e dolcissime lacrime pregato, se offersse obediente ai comandamenti
+         del veschovo.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

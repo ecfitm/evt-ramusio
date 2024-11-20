@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>Nella prima parte della pericope («Et non […] guerra») R segue, con una certa libertà,
+         <ref type="witlink" target="#z-null-58">Z 58 4</ref> «Homines itaque, secundum eorum consuetudinem, milites sunt omnes, et ad nil aliud
+         intendunt [R «Et non attendono ad altro»] quam ad aucupationes, venationes et res
+         ad exercitus pertinente» [R «et a cose che appartengono all’armi et essercitii di
+         guerra»]. Il diverso ordine dei riferimenti a caccia e uccellagione che isola Z dal
+         resto della tradizione potrebbe essere un’innovazione tipica del solo toledano, che
+         non figurava nella fonte di Ramusio.</p>
+	<p>Le informazioni contenute nella seconda parte mancano in Z, ma alcuni dettagli formali
+         suggeriscono che R rifletta <ref type="witlink" target="#vb-null-85">VB LXXXV 3</ref> «I homeni loro non àno altro mestiero che andar in oste et in chaçe e paise; tuto
+         el resto dele besogne [R «tutti gli altri officii»] loro lasano a far et chura alle
+         done» [R «lasciano la cura alle loro donne»].</p>
+	<p>Non si danno tracce di contatti di R con altre redazioni: <ref type="witlink" target="#l-null-98">L 98 4</ref> «Et sunt omnes milites more suo, nichil aliud facientes quam in exercitibus et venationibus
+         continue commorari; sed eorum mulieres in domibus commorantur, omnia necessaria facientes
+         ‹una› cum eorum servis»; <ref type="witlink" target="#p-ii-41">P II 41 5</ref> «Viri omnes militares sunt, armis tantummodo et militie vacantes et venationi bestiarum
+         et volucrum; mulieres autem curam rei familiaris in omnibus gerunt […]»; <ref type="witlink" target="#v-null-57">V 57 3-4</ref> «I omeni tuti sonno chavallieri segondo la lor uxanza; et non fano mai altro, andando
+         in exerzito chomo andar oxelando e chazando. Le done li fano tute chosse […]» (vd.
+         <ref type="witlink" target="#f-null-119">F CXIX 5-6</ref> «Et les homes sunt tuit chevalers, selonc lor usance, et ne font rien for qe aler
+         en host et aler chaçant et oselant. Les dames font toutes chouses […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

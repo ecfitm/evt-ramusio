@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-105</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-105">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, CV</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-105_2_1" n="1"> <term ref="#cintigui">Dingin</term> è una provinzia verso levante la qual truova l’omo quando el se parte de <term ref="#tholoman">Toloman</term>. </seg>
+      <seg xml:id="va-null-105_2_2" n="2"> L’omo chavalcha ben dodexe zornade sopra uno fiume e trova piuxor zità e chastelle.
+         </seg>
+      <seg xml:id="va-null-105_2_3" n="3"> In chavo de queste dodexe zornade se truova la zità de <term ref="#cintigui">Suruglu</term>, ch’è molto grande e nobelle chontrà, e sotoposta al <term ref="#gran-can">Gran Chaan</term>. </seg>
+      <seg xml:id="va-null-105_2_4" n="4"> La zente è <term ref="#idolatri">idolatra</term> et sono molto valenti per arme. </seg>
+      <seg xml:id="va-null-105_2_5" n="5"> In questa provinzia è seda asai; el se ge fa
+         drapi de schorzo d’arbori – et sono molto belli –, li quali portano l’instade.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-105_3_1" n="1"> E sì n’è tanti lioni che non olsa dormir nesuno la note fuor de chaxa, perché
+         i lioni devorano zaschuno che i truovano. </seg>
+      <seg xml:id="va-null-105_3_2" n="2"> Le nave, che vano per el fiume che ò
+         dito de sopra, per lo qual se traze molte merchadantie, non olsano star la note apresso
+         ala riva, ché i lioni vano la note ale barche, e sse i truovano alchun homo dentro
+         sì ’l manzano; ma i ligano le barche lonzi dalla riva, sì che i lioni non i pò noxer.
+         </seg>
+      <seg xml:id="va-null-105_3_3" n="3"> Li lioni de questa provinzia sono grandenisimi e pericholoxi, ma in questa chontrà
+         è tanti chani et de tanto ardimento che i vano arsaglire i lioni, purché i siano almeno
+         do chani e uno homo. [9] Sapiate che uno homo ardito chon do chani alzideno uno lion
+         a tal modo: l’omo, chavalchando per la foresta chon suo archo et chon do de quelli
+         chani, s’el truova el lion i chore sopra arditamente e li chani i dàno de morso ale
+         chosie e alla choda. [10] E se lo lione se volze, i chani sano sì fuzir e schivar
+         che ’l lion non pò tochar; e s’el se mete alla soa via, li chani ve vano drieto morsegando-llo
+         e perseguando-lo, sì che ’l lion, per quelli morsi e per el gran bagliar che fano
+         i chani, à paura e va ad alchun arboro grosso per apuzar la gropa e mostrar la testa
+         ai chani, azò i no ’l possa morsegar de driedo. [11] E alora l’omo ch’è a chavalo
+         non fa fin de saitar, sì che spesse fiate inira lo lion fortemente. [12] E tanto atende
+         lo lion ai chani che l’omo el pò bonamente saitar a suo seno; e alle fine lo lion
+         muor dalle saite.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-64</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>La fonte principale della pericope è senza dubbio <ref type="witlink" target="#vb-null-114">VB CXIV 18-19</ref> «[…] se fa le guardia et non sollo per el focho chome ancho per varda dilla tera,
+         sì per ladri chome ecian per rebeliun dila tera. Ecian el segnore senpre ne tien infiniti
+         soldati da pè et da chavallo però che questa è lla principal tera della provincia
+         et in quella senpre ve tien molti di suo’ baroni i più fedel l’abia però che neuna
+         chossa l’à più chara che la dita provincia; e massime questa nobellissima cità, chapo
+         de tuta la provincia, èt la più richa abia tuto el mondo». Non si rilevano prelievi
+         da V (che riflette in sostanza il testo di F), né dalle altre fonti, che trasmettono
+         in genere un testo compendioso o rimaneggiato: <ref type="witlink" target="#v-null-76">V 76 12-14</ref> «[…] perché algun non la fesse revelar. […] sì che el <term ref="#gran-can">Gran Chan</term> fa vardar questa zitade degnamente, perché l’è chavo e sedia de tute le provinzie
+         del <term ref="#mangi">Mongin</term>. Et de questa zitade el <term ref="#gran-can">Gran Chan</term> àno sì gran texoro che apena el se potria chredere, e per questo la fano tanto guardare,
+         azò che la non possa revelare» (<ref type="witlink" target="#f-null-151">F CLI 15-17</ref> «[…] e cesti sunt por garder la cité qe nul hi feist{i} mauvés couse, ne qe nul fuisse
+         ardis de reveler sa ville […]. Le <term ref="#gran-can">Grant Kan</term> fait mout bien garder ceste ville et a grandisme jens, por ce qu’ele est chief et
+         seje de toute la provence dou <term ref="#mangi">Mangi</term>, e por ce que en ceste cité a grant teçor, et grant rente n’a le <term ref="#gran-can">Grant Kan</term>, si grant qe qui l’oïst dir a poine le poroit croire. Et encore la fait garder le
+         <term ref="#gran-can">Gra‹n›t Sire</term> si bien et a tantes jens por doute que il ne se revelent»); <ref type="witlink" target="#l-null-128">L 128 11</ref> «Et est principalis civitas, et sedes tocius regni de <term ref="#mangi">Mangi</term>»; <ref type="witlink" target="#p-ii-64">P II 64 15</ref> «In hac civitate custodia maxima fit ex mandato <term ref="#gran-can">Magni Kaam</term> ne vel civitas rebellare presumat aut ibi furta vel homicidia fiant»; <ref type="witlink" target="#z-null-85">Z 85 31</ref> «Et ista civitas est capud et sedes totius provincie <term ref="#mangi">Manci</term>, et ideo preeminentior et magis solicita pretenditur curra in ipsa».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-29</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-29">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XXIX</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-29_2_1" n="1"> Ano domini MCCLXII, <term ref="#ulau">Allau</term>, che era re de’ <term ref="#tartari">Tartari del Levante</term>, aldando questa cossa che feva el <term ref="#vecchio-della-montagna">Vechio della montagnia</term>, mandò el suo oste sora el suo castello, ove stava el <term ref="#vecchio-della-montagna">Vechio</term>. </seg>
+      <seg xml:id="va-null-29_2_2" n="2"> E durò l’asedio tre ani, perché el castello era sì fortisimo che per bataglia
+         non porave eser prexo. </seg>
+      <seg xml:id="va-null-29_2_3" n="3"> E l’oste era de fuora grandisimo e meraveioxo, e però non
+         l’averìa mai prexo se non fusse che li manchò la vituaria al castello. |17v| </seg>
+      <seg xml:id="va-null-29_2_4" n="4"> Sì
+         che, chonpidi i tre ani, per difeto de vituaria el fo prexo e fo morto el <term ref="#vecchio-della-montagna">Vechio</term> che avea nome <term ref="#aloadin">Alodin</term> e tuta soa zente e tuti quelli <term ref="#assassini">asasini</term>. </seg>
+      <seg xml:id="va-null-29_2_5" n="5"> E da quello <term ref="#aloadin">Alodin</term> in zia nonn è nesuno <term ref="#vecchio-della-montagna">Vechio</term> né de quelli assasini in quel luogo. </seg>
+      <seg xml:id="va-null-29_2_6" n="6"> E in chotal modo fenì la segnioria quel malvaxio <term ref="#vecchio-della-montagna">Vechio</term> e quelli <term ref="#assassini">asasini</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

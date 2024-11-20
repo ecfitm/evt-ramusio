@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>Pur dimostrandosi molto vicino a <ref type="witlink" target="#f-null-93">F XCIII 12</ref> – «Et quant le <term ref="#gran-can">Grant Sire</term> ala ceste voies qe je voç ai contés propes a la <term ref="#mare-oceano">mer Osiane</term> [R «presso al <term ref="#mare-oceano">mare Oceano</term>»], en celes voies poet l’en veoir maintes belles vistes [R «si veggono molte cose
+         belle»] de prendre bestes et osiaus (R «in prendere gli uccelli»): el ne a seulas
+         au monde qe ce vaile» – R presenta alcuni dettagli che lo accomunano a <ref type="witlink" target="#v-null-44">V 44 6</ref> «Et quando el <term ref="#gran-can">Gran Chan</term> vano per questa via e ch’elo veda alguna chossa da piar, elo la piglia, sì che [R
+         «di modo che»] in tuto el mondo nonn è più bel sollazo che se possa achonparar a questo»
+         [R «a questo possa aguagliarsi»]. Da questi dati esce rafforzata l’impressione che
+         la fonte perduta di R (verosimilmente Z1) si collocasse nello stemma in una posizione prossima al capostipite di V. In L e
+         P il passo è assente. </p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

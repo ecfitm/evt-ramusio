@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-28-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-28">
+      <note>
+	<p>Tra le fonti superstiti di R, la presenza di un “conte” è sottolineatea solo da <ref type="witlink" target="#v-null-26">V 26 8</ref> «[…] ed àno uno chonte per signor, ma sono suditi a Balsian». L’informazione è pure in <ref type="witlink" target="#f-null-49">F XLIX 6</ref> «Non on‹t› seingnor …†…, que vaut a dir en langue françois cuenz, et sunt sutpost
+         au seingnor de Badausiam», Fr «ont un leur seigneur que il apelent <hi rend="italics">none</hi>, qui vaut a dire en françois quens» [Ménard 2001-2009, II, p. 8]), mentre viene soppressa
+         altrove, forse anche per le difficoltà create dalla presenza del forestierismo <hi rend="italics">none</hi> (probabile traslitterazione del mong. <hi rend="italics">noyan</hi> “dignitario”: cfr. Pelliot 1959-1973, p. 797 n. 303), conservato in Fr ma certo responsabile
+         della corruzione di F.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

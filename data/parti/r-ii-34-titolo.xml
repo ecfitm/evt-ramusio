@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-34-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-34">
+      <note>
+	<p><ref type="witlink" target="#f-null-110">F CX</ref> (Ci dit de la grant cité de <term ref="#quenzanfu">Quengianfu</term>); <ref type="witlink" target="#l-null-90">L 90</ref> (De civitate <term ref="#quenzanfu">Quengia‹n›fu</term>); <ref type="witlink" target="#p-ii-32">P II 32</ref> (De civitate <term ref="#quenzanfu">Quengienfu</term>. Capitulum XXXII), <ref type="witlink" target="#va-null-89">VA LXXXIX</ref> (Del regniame de <term ref="#mangalu">Margara</term>, dove abita el fiol del <term ref="#gran-can">Grande Chaan</term>); <ref type="witlink" target="#v-null-53">V 53</ref> (Dela zità de <term ref="#quenzanfu">Chandianfo</term>); <ref type="witlink" target="#vb-null-77">VB LXXVII</ref>; <ref type="witlink" target="#z-null-50">Z 50</ref>.</p>
+	<p>La dipendenza di R da Z1 è evidente in quelle parti del capitolo in cui la versione del manoscritto Zelada
+         non è lacunosa (ovvero i parr. 1-2, 4 e 6). Le molteplici affinità tra il testo ramusiano
+         e V o F nei punti in cui la testimonianza di Z è abbreviata o del tutto assente (i
+         parr. 3, 5, 7-9) inducono a ritenere che Ramusio abbia seguito in tutto il capitolo
+         Z1  – dunque più completo di Z toledano. Tale testo è stato in più punti collazionato
+         con VB, in particolare nella parte finale del capitolo (parr. 4, 7-9). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-55-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-55">
+      <note>
+	<p>Ramusio riproduce quasi alla lettera <ref type="witlink" target="#vb-null-101">VB CI 8</ref> «Lasato la moglie a guardia de Quinquitia e dicesse che ’l re <term ref="#fanfur">Fatur</term> era da suo’ astrolegi amunito che la soa signoria non i podeva esser tolta salvo
+         da uno chapitano avea çento ochi; e dicesse che essendo la r‹a›ina ogni çorno più
+         streta e stando pur con sperança non poter perder la tera però che inpossibelle ge
+         pareva uno homo avesse cento ochi […]». La versione che si legge in <ref type="witlink" target="#p-ii-54">P II 54 7</ref> risulta abbastanza vicina a quella di R e VB nei contenuti, ma se ne discosta in
+         vari punti: «Civitatem <term ref="#quinsai">Quinsay</term> regine custodie dereliquit cum exercitu maximo; regina vero, prudenter se gerens
+         in omnibus, ad defensionem terre cum suis baronibus intendebat sollicite. […] quoniam
+         a suis astrologis et magis audierat quod civitas <term ref="#quinsai">Quinsay</term> a nullo unquam expugnari posset, nisi ab eo qui centum oculos haberet, et quia impossibile
+         videbatur omnino ut quisquam hominem esset unquam centum oculos habiturus, ideo neminem
+         formidabat […]». Molto lontani da R VB e P sono <ref type="witlink" target="#v-null-67">V 67 5</ref> «El re de <term ref="#mangi">Mongin</term> trovò per astronomia ch’el non podea perder el suo’ reame se no per uno homo che
+         avea nome Zento homeni» / <ref type="witlink" target="#v-null-67">V 67 12</ref> «E la raina, la qualle iera romaxa chon gran zente in la zitade, se prochurava de
+         difenderse al meio che la saveva» (ma vd. pure <ref type="witlink" target="#v-null-67">V 67 10</ref> «[…] e mandò per i suo’ astrologi dubiando del nome e del’essere de <term ref="#chinsanbaian">Baian</term>, ed ezian mandò i suo’ prochuratori a investigar del suo’ essere e statura; de che
+         li fo dito dal suo’ exerzito ch’el nomea Zento homeni»); e<ref type="witlink" target="#f-null-138"> F CXXXVIII 4</ref> «[…] et si voç di qe ‹le› roi dou <term ref="#mangi">Mangi</term> trovoit por sa astreunomie qu’il ne poit perdre son regne for qe por un home qe aüse
+         .C. oilz» / <ref type="witlink" target="#f-null-138">F CXXXVIII 11</ref> «Et la raine, qe remés estoit en la cité con grant jens, se porchachoit de defendre
+         au miaus qu’il puet». </p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

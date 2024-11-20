@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-23</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-23" n="1">
+    <head>
+      <hi rend="bold">R, III 23</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-23_1_1" n="1"> Dell’isola di <term ref="#zeilan">Zeilan</term>. Cap. 23.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-23_2_1" n="1"> Non voglio restare di scrivere alcune cose che ho lassato di sopra quando ho parlato
+         dell’isola di <term ref="#zeilan">Zeilan</term>, le quali intesi ritrovandomi in quei paesi quando ritornava a casa. </seg>
+      <seg xml:id="r-iii-23_2_2" n="2"> Nell’isola di Zeilam dicono esservi un monte altissimo, cosí dirupato nelle sue rupi et grotte che niuno
+         vi puol ascendere se non in questo modo, che da questo monte pendono molte catene
+         di ferro, talmente ordinate che gli huomini possono per quelle ascendere fino alla
+         sommità, dove dicono esservi il sepolchro di Adamo primo padre. </seg>
+      <seg xml:id="r-iii-23_2_3" n="3"> Questo dicono i Sarraceni, ma gl’<term ref="#idolatri">idolatri</term> dicono che vi è il corpo di <term ref="#sogomonbarchan">Sogomonbarchan</term>, che fu il primo huomo che trovasse gl’idoli, et lo hanno per un huomo santo. </seg>
+      <seg xml:id="r-iii-23_2_4" n="4"> Costui fu figliuolo d’un re di quell’isola, et si dette alla vita solitaria, et non
+         voleva né regno né alcuna altra cosa mondana, anchor che ’l padre, con il mezzo di
+         bellissime donzelle, con tutte le delitie che imaginar si possa, si sforzasse di levarlo
+         da questa sua ostinata opinione. </seg>
+      <seg xml:id="r-iii-23_2_5" n="5"> Ma non fu mai possibile, di modo che ’l giovane nascosamente si fuggí sopra questo
+         altissimo monte, dove castamente et con somma astinentia finí la sua vita: et tutti
+         gl’<term ref="#idolatri">idolatri</term> lo pongono per santo. </seg>
+      <seg xml:id="r-iii-23_2_6" n="6"> Il padre, desperato, ne hebbe grandissimo dolore, et fece far una imagine a similitudine
+         sua, tutta d’oro et di pietre preciose, et volse che tutti gli huomini di quella isola
+         l’honorassero et adorassero come iddio: et questo fu principio dell’adorare gl’idoli,
+         et gli <term ref="#idolatri">idolatri</term> hanno questo <term ref="#sogomonbarchan">Sogomonbarchan</term> per il maggior di tutti gli altri, et vengono di molte parti lontane in peregrinaggio
+         a visitare questo monte dove l’è sepolto. </seg>
+      <seg xml:id="r-iii-23_2_7" n="7"> Et quivi si conservano anchor d’i suoi capelli, denti |56r| et un suo catino, che
+         mostrano con gran cerimonie. [8] Li Sarraceni dicono che sono di Adam, et vi vanno anchor loro a visitarlo per devotione.
+         [9] Et accadette che nel 1281 il <term ref="#gran-can">Gran Can</term> intese da’ Sarraceni che erano stati sopra detto monte, come vi si trovano le cose
+         sopradette del nostro padre Adam, per il che li venne tanto desiderio di haverne che
+         ’l fu forzato di mandar ambassadori al detto re di <term ref="#zeilan">Zeilan</term> a dimandargliene; quali vennero doppo gran cammino et giornate al re, et impetrorono
+         duoi denti massellari, che erano grandi et grossi, et un catino, ch’era di porfido
+         molto bello, et anchora delli capelli. [10] Et inteso il <term ref="#gran-can">Gran Can</term> come li suoi ambassadori ritornavano con le dette reliquie, li mandò ad incontrare
+         fuori della città da tutto il popolo di <term ref="#cambalu">Cambalú</term>, et furono condotte alla sua presentia con gran festa et honore. [11] Et havendo parlato di questo monte di <term ref="#zeilan">Zeilan</term>, ritorniamo al regno di <term ref="#malabar">Malabar</term> et alla città di <term ref="#cael">Cael</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

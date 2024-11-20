@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-28-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-28">
+      <note>
+	<p>Il dettaglio sull’assenza degli uccelli – «Ivi <hi rend="italics">non appare</hi> sorte alcuna de uccelli […]» – ha coincidenze lessicali con la formulazione di <ref type="witlink" target="#p-i-37">P I 37 10</ref> («Avis ibi nulla apparet propter frigus et altitudinem nimiam»). Per il resto, la
+         pericope è chiaramente debitrice di <ref type="witlink" target="#z-null-24">Z 24 11-12</ref> «Et noveritis quod propter frigoris intensitatem non ita clarus est ignis, nec illius
+         coloris ut in aliis locis est. Nec aliquid ibi decoqui bene potest». </p>
+	<p>Il passo corrisponde a <ref type="witlink" target="#f-null-49">F XLIX 13-14</ref> «Oisiaus volant ne i a nul por l’aut leu et froit qe est. Et si voç di qe le feu
+         por cel grant froit ne est si cler ne de cel color come en autre leu et ne se cuient
+         bien les couses», cui Z è pedissequamente allineato.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

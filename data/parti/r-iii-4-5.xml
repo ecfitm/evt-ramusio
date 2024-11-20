@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-4-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-4">
+      <note>
+	<p>La spiegazione sulle partizioni/nominazioni dell’<term ref="#mare-oceano">Oceano</term> sciorinata da Ramusio viene direttamente da Z 94 22-23 «Et quia vobis diximus quod mare hoc “<term ref="#cin">Çin</term>” nuncupatur, tamen volumus vos scire quod hoc <term ref="#mare-oceano">Mare Occeanum</term> est. Sed quemadmodum nos dicimus <term ref="#mare-anglico">Mare Anglicum</term> et <term ref="#mare-egeo">Mare Egeum</term>, sic dicunt ipsi <term ref="#mare-cin">Mare Cin</term> et <term ref="#mare-dindia">Mare Indum</term>, sed omnia ista nomina sub <term ref="#mare-oceano">Mari Occeano</term> continentur». La prova diretta è la dittologia «il <term ref="#mare-anglico">mare Anglico</term> et il <term ref="#mare-egeo">mare Egeo</term>», che R condivide in esclusiva con Z; altro mare (oltre a quello inglese) richiama
+         nella comparazione F CLX 15 «Et encore vos di que, por qe je voç ai dit que ceste mer est apellé le mer de Cin, si voil je que voç sachiés qe ce est le <term ref="#mare-oceano">mer Osiane</term>, mes l’en dit come diroit le <term ref="#mare-anglico">mer d’Engletere</term> e lle mer de Rocelle: ausi dit l’en en celle contree le mer de Cin et le <term ref="#mare-dindia">mer de Indie</term> e le tel mer, mes toutes foies tuit cesti non ce sunt dou <term ref="#mare-oceano">mer Osiane</term>». Gli altri relatori si muovono lungo l’indicazione di F (talvolta ampliandola):
+         L 144 6 «Et licet hoc dicatur <term ref="#mare-cin">mare de Cin</term>, est tamen <term ref="#mare-oceano">Occeanum mare</term>; sicud enim dicimus in partibus nostris <term ref="#mare-anglico">mare de Engelterra</term> et de Flandria ‹et de †Rizolla†›, propter diversas provincias quas inundat, est tamen
+         unum mare, sic et dicitur <term ref="#mare-cin">mare de Cin</term> et <term ref="#mare-dindia">mare Yndie</term>, cum secundum veritatem sit unum mare, scilicet <term ref="#mare-oceano">Occeanum</term>»; V 82 12 (con le abituali deformazioni dell’onomastica) «[…] et voio che sapiate che questo
+         sono el <term ref="#mare-oceano">Mar Ozian</term>, chomo nui dixemo el <term ref="#mare-anglico">Mar d’Anglia</term> zoè el Mar de Bachu, et chussì dixeno lor el Mar de Chuigi el <term ref="#mare-dindia">Mar Idomo</term>, e tuti questi sono nomi del <term ref="#mare-oceano">Mar Ozian</term>»; VB CXXIX 8 «[…] e benché i dichano chome qui da nui disemo el Mar d’Ingelltera, tamen tuto el mare prociede dal’<term ref="#mare-oceano">Oceano</term>; e questo medemo in quelle parte bene i abiano diverssi nomi tutto è <term ref="#mare-oceano">Mar Oceano</term> però che tuto prociede dal’<term ref="#mare-oceano">Oceano</term>».</p>
+	<p>P III 8 omette la pericope, assente del resto nell’antigrafo VA CXXII.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

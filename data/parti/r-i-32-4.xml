@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-32-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-32">
+      <note>
+	<p>Ramusio riproduce con la massima aderenza il dettato di <ref type="witlink" target="#z-null-27">Z 27 4-5</ref> «Habitantes in ea provincia vineas habent, possessiones et viridaria multa. De mercimoniis
+         vivunt et artibus, et non sunt homines pro armis»), a sua volta vicino a <ref type="witlink" target="#f-null-53">F LIII 6-8</ref> «[…] il ont vignes et possesion de jardinz assez. Il vivent de marchandies et de
+         ars. Il ne sunt pas homes d’armes». </p>
+	<p>Assai prossimo a F è anche <ref type="witlink" target="#v-null-28">V 28 3</ref> «[…] et sono de molte vigne, posesion e zardini, e viveno de marchadantie e d’arte
+         et non sono homeni d’arme», mentre <ref type="witlink" target="#vb-null-36">VB XXXVI 4-5</ref>, al solito, applica qualche fioritura alla traccia del modello («I citadini àno de
+         belle posesione e viveno de mestieri et de marchadantie. Sono asai vili homeni et
+         molto pusilanimi et inexperti alle bataglie […]»), <ref type="witlink" target="#p-i-41">P I 41 2-4</ref> riassume («Vinee multe et optime ibi sunt. Homines ibi imbecilles sunt. Artifices
+         vero sunt et negociatores»), <ref type="witlink" target="#l-null-48">L 48 4</ref> opera un taglio radicale («Et sunt mercatores homines et artiste»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-50</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-50">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 50</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-50_2_1" n="1"> ‹O›r sapiate che ’l <term ref="#gran-can">Gran Signor</term> mandò per anbassador missier Marcho Polo inverso ponente, |60v| onde nui nareremo
+         tuto quello ch’el vete in quel chamino, andando e tornando. </seg>
+      <seg xml:id="v-null-50_2_2" n="2"> Or quando el se desparte
+         dela zitade sopradita et abiasse chaminado diexe mia, el se trova uno flume chiamato
+         Palisangin, el qual flume vano infina el <term ref="#mare-oceano">Mar Ozian</term>; et per quello el vano molti marchadanti chon le suo’ marchadantie. </seg>
+      <seg xml:id="v-null-50_2_3" n="3"> Et sopra
+         questo flume el ne sono uno ponte de pietra molto bello, che pochi ne sono al mondo
+         sì beli; la longeza de quello sono trexento passa, e la largeza nuove pasa; et pu‹o›no
+         andar per quello diexe chavalieri l’uno apresso l’altro; et el dito ponte àno vintiquatro
+         archi e vintiquatro moreli in l’aqua; et sono tuto de malmoro et molto artifiziado.
+         </seg>
+      <seg xml:id="v-null-50_2_4" n="4"> Et da uno ladi al’altro sono uno ponte armato di tole de malmoro chomo io ve narerò:
+         el sono in chavo del ponte una chollona de marmoro, et soto la cholona sono uno lion
+         de marmoro et de sopra ne sono un altro plu grando, molto degnamente fato. </seg>
+      <seg xml:id="v-null-50_2_5" n="5"> Et
+         lonzi dala cholona uno passo e mezo son un’altra chollona chussì fata, chon do lioni;
+         da una chollona al’altra sono serado chon tolle de marmaro, azò che la zente non possa
+         chazer in aqua, et sono chussì fato infina in chavo, la qual sono una nobel chossa
+         da veder. </seg>
+      <seg xml:id="v-null-50_2_6" n="6"> Et quando el se parte da questo ponte el se vano trenta mia per ponente
+         trovando chontinuamente erbe, vigne e chanpi; et trovasse una zitade chiamata <term ref="#gouza">Chuigion</term>, granda e bela, in la qual sono molte abadie de idole a modo de orti. </seg>
+      <seg xml:id="v-null-50_2_7" n="7"> Et in quella
+         se lavora drapi de seda e de zendado; et in quello luogo sono de beli albergi ‹e›
+         de hostarie, in le qual |61r| si alberga homeni viandanti. </seg>
+      <seg xml:id="v-null-50_2_8" n="8"> Et quando el se desparte
+         da questa zitade et andado uno mio, el se trova do vie, una dele qual vano a ponente
+         e l’altra a sirocho: et per quela de ponente se va al <term ref="#cataio">Chataio</term>, e quella de sirocho se va ala provinzia d’<term ref="#mangi">Anangon</term>. [9] Et sapié chi chavalcha per ponente per la provinzia del <term ref="#cataio">Chataio</term> ben diexe zornade senpre va trovando belle zità e chastelli, che in quelle sono de
+         gran marchadantie, ed ezian vigne e chanpi, et spesega molta zente. [10] Or in questo
+         luogo non sono chosse da dir, et inperzò non diremo, ma diremo de altre chosse.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

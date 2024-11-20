@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-44-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-44">
+      <note>
+	<p>La pericope riprende <ref type="witlink" target="#z-null-131">Z 131 3</ref> «In ea sunt saraceni, legem <term ref="#macometto">Machometi</term> observantes» (libera resa di F CXCVII 2 «Il sont saracinç que aorent <term ref="#macometto">Maomet</term>»).</p>
+	<p>Gli altri relatori conservano il medesimo tenore informativo: il sintetico L 187 3 «Habitantes sunt sarraceni»; V 113 2 «Et in quella sono Saraxini, et adorano <term ref="#macometto">Machometo</term> […]»; VB CLXIX 2 «[…] et sono saraini che adorano <term ref="#macometto">Machometo</term> […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

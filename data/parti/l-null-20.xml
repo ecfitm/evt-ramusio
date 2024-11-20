@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-20</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-20">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 20 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-20_2_1" n="1"> <term ref="#zorzania">Çorçia</term> est provincia cuius rex semper nominatur <term ref="#david">David Mellic</term>, id est <term ref="#david">David rex</term>; et sunt homines huius regionis pulcri et multum valentes in armis, et sunt christiani
+         more Grecorum et portant capillos breves more clericorum. </seg>
+      <seg xml:id="l-null-20_2_2" n="2"> Et est hec provincia
+         fortissima et strictorum passuum, plena maximis montibus. Sunt etiam quedam loca montana
+         quibus nemo dominari potest; in quibus locis nascitur lignum bussus. </seg>
+      <seg xml:id="l-null-20_2_3" n="3"> Et tendit
+         hec provincia super duo maria, quia ab una parte est <term ref="#mar-maggiore">Mare Maius</term> et ab alia est mare quod dicitur <term ref="#abbacu">Geluchelam</term> vel <term ref="#abbacu">Abacho</term>, quod est in circuitu bene duo milia octingenta milia; et est hoc mare in modum stagni,
+         quia nullo mari miscetur. Et sunt in eo multe insule bene habitate in quibus sunt
+         multe civitates; et in hoc mari est multa quantitas piscium, et maxime ‹sturionum›
+         et aliorum piscium magnorum. Et est hoc mare elongatum ab omni alio mari .12. dietis;
+         et in ipso ei in‹gre›ditur flumen Eufrates et alia multa flumina, et est totum circumdatum
+         montibus et terra. </seg>
+      <seg xml:id="l-null-20_2_4" n="4"> Et hec <term ref="#zorzania">Çorçia</term> est provincia illa quam magnus <term ref="#alessandro">Alexander</term>, dum ad septemtrionem transire voluisset, transire non potuit. Est enim stricta via
+         et dubia: ab una enim parte est mare quod diximus de <term ref="#abbacu">Abacho</term>, et ab alia nemora invia et montes unde non est possibile equitare; et remanet via
+         valde stricta inter mare et montes, durans usque in tali strictura quatuor dietis.
+         Et in hac strictura fecit <term ref="#alessandro">Alexander Magnus</term> fieri maximam fortiliciam que usque in hodiernum diem dicitur <term ref="#porta-di-ferro">Porte Ferree</term>, ubi dicitur inclusisse <term ref="#tartari">Tartaros</term>. </seg>
+      <seg xml:id="l-null-20_2_5" n="5"> Et sunt in hac provincia multe civitates et castra, et maxima habundantia serici:
+         quare ibi fiunt panni de auro et de serico in maxima quantitate. </seg>
+      <seg xml:id="l-null-20_2_6" n="6"> Inveniuntur eciam
+         ibi optimi austures dicti “<term ref="#avigi">avigi</term>”; et est habundans et fertilis provincia, et vivunt hee gentes de mercimoniis et
+         artibus. </seg>
+      <seg xml:id="l-null-20_2_7" n="7"> In hac regione est monasterium quoddam <term ref="#san-lunardo">Sancti Leonardi</term>, ubi est mirabile quoddam. Est enim lacus quidam magnus qui descendit ex magno monte
+         iuxta ecclesiam: in quo lacu nullo tempore anni possunt inveniri pisces; verum quod
+         prima die Quadragesime incipiunt apparere, et continue singulis diebus usque ad ultimam
+         diem Quadragesime inveniuntur in bona quantitate, et nusquam ulterius. </seg>
+      <seg xml:id="l-null-20_2_8" n="8"> Et de partibus
+         istis apportatur seta dicta “<term ref="#ghellie">gelle</term>”.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Parr. 1-59: F CLXXIII (Ci devise de la grant provence de <term ref="#malabar">Maabar</term>); P III 23 (De provincia <term ref="#malabar">Maabar</term> que est in <term ref="#india">Yndia Maiori</term>. Capitulum XXIII.) / P III 24 (De regno <term ref="#malabar">Var</term> et erroribus et <term ref="#idolatri">ydolatria</term> incolarum eius. Capitulum XXIIII.) / P III 25 (De diversis consuetudinibus regionis illius. Capitulum XXV.) / P III 26 (De aliis conditionibus et novitatibus patrie eiusdem. Capitulum XXVI.), VA CXXXVII (Della provinzia de <term ref="#malabar">Maabar</term>, ove se truova perlle in grande quantità); <ref type="witlink" target="#z-null-107">Z 107</ref> (Hic naratur de provincia <term ref="#malabar">Maabar</term>);  L 161 (De maxima provincia <term ref="#malabar">Mahabar</term> ‹que› dicitur <term ref="#india">Maior India</term>); V 91 (Dela provinzia de <term ref="#malabar">Manbut</term>); VB CXLIII. </p>
+	<p>Parr. 60-70: F CLXXV (Ci devise de la u est le cors de meser saint Thomeu l’apostre); <ref type="witlink" target="#p-iii-27">P III 27</ref> (De civitate ubi corpus beati Thome apostoli requiescit et de miraculis que ibi fiunt ob merita ipsius. Capitulum XXVII.) / <ref type="witlink" target="#p-iii-28">P III 28</ref> (De <term ref="#idolatri">ydolatria</term> paganorum regni illius. Capitulum XXVIII.), VA CXXXIX (Del corpo de misier san Tomaxio); Z 109 (Hic naratur ubi est corpus beati Thome apostoli); L 163 (De corpore sancti Thome apostoli); V 93 (Del luogo dove sono el chorpo de misier San Tomado Apostollo); VB CXLV.</p>
+	<p>Questo capitolo (il secondo per lunghezza nel <hi rend="italics">Milione</hi> ramusiamo, dopo <ref type="witlink" target="#r-ii-68">R II 68</ref>, dedicato alla citta di <term ref="#quinsai">Quinsai</term>) nasce dalla fusione di due unità autonome  in tutta la tradizione (P escluso) –
+         fusione generata dalla localizzazione nella stessa <term ref="#india">India Maggiore</term> della tomba dell’apostolo <term ref="#san-tommaso">Tommaso</term>. Ramusio mette al servizio di una composizione così ampia tutta la sua tecnica di
+         <hi rend="italics">bricoleur</hi> delle fonti.</p>
+	<p>I parr. 1-59 (corrispondenti alla prima delle due unità) sono scomponibili in sequenze
+         quasi sempre monotematiche: (1) generalità (parr. 1-2); (2) ricerca e commercio delle
+         perle (parr. 3-10); (3) costumi del sovrano della regione (parr. 11-19); (4) commercio
+         dei cavalli (parr. 20-23); (5) prassi penale nella regione (parr. 24-27); (6) credenze
+         religiose (parr. 28-31); (7) costumi degli indigeni i (parr. 32-37); (8) trattamento
+         dei debitori (parr. 38-40); (9) costumi degli indigeni ii (parr. 41-43); (10) le arti
+         divinatorie (parr. 44-47); (11) attitudine verso i figli (parr. 48-50); (12) catalogo
+         degli animali della regione (parr. 51-52); (13) <hi rend="italics">ierodulia</hi> (parr. 53-56); (14) uso delle «lettiere di canne». L’ordine qui registrato è quello
+         attestato da quasi tutti i relatori – a partire da F CLXXIII –, ma non da P, che riorganizza i materiali secondo una classificazione <hi rend="italics">sui generis</hi>, riconoscibile dalle rubriche dei quattro capitoli. Ramusio adotta l’ordine vulgato,
+         attestato da VB e da Z: <ref type="witlink" target="#z-null-107">Z 107 </ref>è la fonte nettamente maggioritaria, in diversi casi relatrice esclusiva di intere
+         sequenze – la (8), la (11) e la (12) –, o di singole tessere (vedi p.es. le note a
+         <ref type="witlink" target="#r-iii-20">R III 20 13</ref>, <ref type="witlink" target="#r-iii-20">R III 20 36</ref> etc.); ma in due casi, le sequenze (2) e (4) egli preferisce la soluzione proposta
+         da Pipino (vedi le note a <ref type="witlink" target="#r-iii-20">R III 20 3</ref> e <ref type="witlink" target="#r-iii-20">R III 20 20</ref>). </p>
+	<p>Nei parr. 60-70 Ramusio decide di utilizzare la redazione di Pipino: <ref type="witlink" target="#r-iii-20">R III 20 68-70</ref> traduce senza troppe deviazioni <ref type="witlink" target="#p-iii-28">P III 28</ref>; <ref type="witlink" target="#p-iii-27">P III 27</ref> è la fonte di <ref type="witlink" target="#r-iii-20">R III 20 60-65</ref>, a cui si sommano due integrazioni provenienti da altre fonti. Da VA 139 1-14 Pipino aveva ricavato una <hi rend="italics">legenda</hi> dell’apostolo <term ref="#san-tommaso">Tommaso</term> concentrata sul miracolo dell’apparizione del santo a un signore della regione, e
+         priva del resoconto della sua morte: per questo Ramusio ricorre alle altre due fonti
+         presenti sul suo tavolo, Z 109 29-34 e VB 145 11-12 (vedi la nota a <ref type="witlink" target="#r-iii-20">R III 20 67</ref>); solo in Z 109 5-12 si legge poi una ricca digressione sulle <term ref="#noci-dindia">noci d’India</term>: Ramusio ne ricava una breve nota, che pone a intermezzo tra la <hi rend="italics">legenda</hi> e il racconto della morte del santo (<ref type="witlink" target="#r-iii-20">R III 20 66</ref>).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

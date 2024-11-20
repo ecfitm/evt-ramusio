@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-14-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-14">
+      <note>
+	<p>Il paragrafo inaugura la breve digressione storica sulle origini dei predoni <term ref="#caraunas">Caraunas</term>. Le informazioni offerte in R trovano riscontro soltanto in V e VB. Che ne fosse
+         provvisto anche Z1 è ipotizzabile, tacendo il toledano, sulla base delle solite coincidenze tra R e
+         F. Nessuna traccia della digressione, invece, in L e P. Rispetto alla tradizione,
+         la lezione ramusiana si caratterizza per qualche minimo <hi rend="italics">ajout</hi> e soprattutto per una notevole inversione strutturale: in R, infatti, la glossa all’etnonimo
+         (2) è collocata in coda alla digressione storica che ne costituisce il necessario
+         presupposto (1), e prima della parentesi etnografica sulle abitudini criminali di
+         quel popolo (3). Che vada attribuita a Ramusio stesso o a Z1, si tratta comunque di una <hi rend="italics">dispositio</hi> dei materiali senz’altro più lineare e consequenziale rispetto all’ordine (2)-(3)-(1)
+         offerto dalla tradizione nota.</p>
+	<p>Sono infine peculiari del dettato di R, e forse riconducibili a un intento esegetico
+         del compilatore, l’anticipazione del rapporto di parentela tra <term ref="#nugodar">Nugodar</term> e <term ref="#zagathai">Ciagatai</term> («<term ref="#nugodar">Nugodar</term>, nepote di <term ref="#zagathai">Zagathai</term>») e la specificazione didascalica del ruolo istituzionale di <term ref="#zagathai">Ciagatai</term> («qual […] <term ref="#gran-turchia">Turchia Maggiore</term>»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

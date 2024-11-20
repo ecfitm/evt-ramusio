@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-88</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>R presenta cospicue differenze rispetto alle sue fonti, che non fanno alcun riferimento
+         al porto sulla foce del fiume, e invece alludono alla lunghezza del suo corso: <ref type="witlink" target="#l-null-129">L 129 1</ref> «[…] ubi est portus bonus et flumen magnum, quod venit a supradicta civitate […]»;
+         <ref type="witlink" target="#p-ii-64">P II 64 20</ref> «[…] a civitate autem usque ad mare est fluvius maximus per quem naves ad civitatem
+         veniunt, qui fluvius transit per plurimas alias regiones»; <ref type="witlink" target="#vb-null-114">VB CXIV 23</ref> «Ecian per dita citade core 1° fiume per el qual pono andar le nave fina la gran
+         citade e più oltra, chorendo el fiume per più altre citade» (vd. <ref type="witlink" target="#f-null-151">F CLI 20</ref> «[…] e da ceste cité au port a un grant flun dont les nes poent venir dusqe a la
+         cité, et encore vait ceste flun por autres pars plus longe qe a ceste cité»). V omette
+         il passo. In Z c’è soltanto un rapido accenno a «quoddam maximum flumen, latum et
+         profundum, quod transit ab uno latere civitatis»  in una parte di testo assente dal
+         resto della tradizione (<ref type="witlink" target="#z-null-85">Z 85 62</ref>). </p>
+	<p>Una corrispondenza di ordine sintattico e lessicale (L «quod venit a supradicta civitate
+         […]», R «che viene dalla città di <term ref="#quinsai">Quinsai</term>») fa pensare che qui Ramusio abbia adottato come testimone base un esemplare L.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

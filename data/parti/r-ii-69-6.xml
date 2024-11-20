@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-69-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-69">
+      <note>
+	<p>Mentre nella prima parte della pericope la testimonianza delle fonti di Ramusio è
+         – eccetto che nell’uso della prima persona – fondamentalmente concorde, nella seconda
+         parte, invece, le lezioni relative alle rendite annue del <term ref="#gran-can">Gran Can</term> e al loro valore in oro spesso appaiono divergenti: <ref type="witlink" target="#l-null-132">L 132 4-5</ref> «Habetque ex universis aliis annuatim .CC.X. <term ref="#toman">thomain</term> auri, quod est †.Xm.CCCCC.LXX.† exagia auri. Hanc rationem redditus propriis auribus audivit fieri dominus
+         Marchus Paulo, existens in curia <term ref="#gran-can">Magni Canis</term>»; <ref type="witlink" target="#p-ii-65">P II 65 9</ref> «Ego Marchus audivi computare summam reddituum quos <term ref="#gran-can">Magnus Kaam</term> recipit de regno <term ref="#quinsai">Quinsay</term>, quod est nona pars provincie <term ref="#mangi">Mangy</term>, et inventum fuit quod ascendebant annuatim proventus huiusmodi preter ‹salem› ad
+         .XV. milia milium et sexcenta milia sagiorum auri»; <ref type="witlink" target="#v-null-76">V 76 24</ref> «E misier Marcho Polo, el qual più volte oldì far la suma de tute queste chose senza
+         el sal ‹…› per zaschadun ano i àno duxento e diexemilia <term ref="#cumani">chumani</term> d’oro, che sono quindexemilia miera e setantamilia sazi d’oro: e questo sono el mazor
+         rendedo de pechunia che fo mai aldido […]»; <ref type="witlink" target="#vb-null-114">VB CXIV 53</ref> «[…] e per che io, Marcho Pollo, sono stato a far le raxon dele intrate del segnore
+         del dito reame de tute chosse eçeto che del salle, trovai la rendita del segnore del
+         dito reame [...] è <term ref="#toman">tomani</term> .IIcX. d’oro, che valle .XVImVIIIIc miara de saci d’oro»; <ref type="witlink" target="#z-null-86">Z 86 11</ref> «Ita quod de istis omnibus dominus Marcus Paulo, qui pluries audivit fieri rationem
+         introitus, absque sale, dicit quod valet continuo, anis singulis, .CCX. “<term ref="#toman">thoman</term>” sadiorum aureorum» (molto vicina a Z è la testimonianza di <ref type="witlink" target="#f-null-152">F CLII 9</ref>: «[…] si qe jeo, March Pol, qe plusor foies hoï faire le conte de la rende de tous
+         cestes couses, ‹vos di que›, senç le sal, conseetademant, por chascun an, vaut .CC.X.
+         <term ref="#toman">tomain</term> d’or, que vailent .XVm. miaia et .DCCm., et ce est bien des plus desmesuré e’ nonbre de rente de monoie qe se hoïst unque
+         conter, et ce est de les .VIIII. part de le une de la provence»). </p>
+	<p>Nel segmento iniziale Ramusio si attiene alla lezione di Z, anche se forme come «fu
+         trovado» e «ascende» fanno pensare a uno sporadico ricorso a P («et <hi rend="italics">inventum fuit</hi> quod <hi rend="italics">ascendebant</hi>»). Nella sezione conclusiva Z è lacunoso e viene integrato con la testimonianza di
+         un’altra fonte che, a giudicare dai dati, parrebbe essere VB. Tra tutte le varianti,
+         infatti, quella che risulta più vicina alla lezione di R («vale ottantamila sazzi
+         d’oro, che saria da sedeci millioni d’oro et ottocentomila») è quella attestata in
+         VB: «è <term ref="#toman">tomani</term> .IIcX. d’oro, che valle .XVImVIIIIc miara de saci d’oro». È possibile, tuttavia, che Ramusio abbia modificato il testo
+         autonomamente, eseguendo una banale moltiplicazione: 80.000 × 210 = 16.800.000.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-22-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-22">
+      <note>
+	<p>Nessuna delle fonti presenta la stessa disposizione delle informazioni che si legge
+         in R. Alcuni dettagli che sono solo in V F (R «quali siano della sorte che venghino
+         grandi et alti», F «il su‹n›t si grant qe bien se poet veoir de longe», V «et sono
+         tanto grandi che se puol veder da lonzi», ma cfr. anche VB «grandi e spesi»; R «il
+         che è di grande aiuto et consolatione a quelli che camminano», F «qui sunt grant confort
+         as mercant et as viandant», V «li qualli sono gran chonfortazion de marchadanti e
+         de viandanti»), inducono a ritenere che il modello principale del passo non possa
+         essere identificato in L P VB: <ref type="witlink" target="#l-null-81">L 81 1-2</ref> «Per vias vero principales et ordinatas, quibus itur per quascumque provincias, iuxta
+         ipsas vias, plantate sunt arbores ‹distantes› inter se per duos passus […]. Quod quidem
+         ideo fieri fecit <term ref="#gran-can">Magnus Canis</term> ut a longe videntes viam, tam mercatores quam alii, deviare non possint»; <ref type="witlink" target="#p-ii-24">P II 24 5</ref> «In principalioribus viis per provinciam <term ref="#cataio">Cathay</term> et per provincias adiacentes facit rex plantari arbores in distantia modica ab invicem,
+         ut ne viatores a via recta oberrare contingat, nam per metas huius diriguntur»; <ref type="witlink" target="#v-null-48">V 48 3-4</ref> «Anchora el <term ref="#gran-can">Gran Signor</term> àno ordenado che in quelle vie maistre per le qual i mesi e i marchadanti et altra
+         zente vano, che in quel medemo luogo siano inpiantadi albori per mezo le vie, i qualli
+         sono do passi uno lutano dal’altro, et sono tanto grandi che se puol veder da lonzi.
+         Et questo sono fato che zaschadun veda ben et non se fali le strade […] li qualli
+         sono gran chonfortazion de marchadanti e de viandanti»; <ref type="witlink" target="#vb-null-70">VB LXX 5</ref> «Per remedio dei viandanti à fato piantare nel chamin albori grandi e spesi che dimostra
+         le vie per tuto el suo paexe e massime per la suo provincia e reame de <term ref="#cataio">Chamalina</term>.» (vd. <ref type="witlink" target="#f-null-99">F XCIX 2-3</ref> «Or sachiés tout voiremant qe le <term ref="#gran-can">Grant Sire</term> ha ordree celle mestres voies por dont les mesajes et les merchant et les autres
+         jens vont: il hi a fait planter arbres joste les voies deus pas loingn le un da l’autre;
+         et voç di qu’il su‹n›t si grant qe bien se poet veoir de longe. Et ce a fait faire
+         le <term ref="#gran-can">Grant Kaan</term> por ce que chascun voie les voies et qu’il ne desvoient, car vos troverés cesti arbres
+         por desers voies [...] qui sunt grant confort as mercant et as viandant […]»). Sporadici
+         contatti con P (cfr. R «la dritta strada», P «via recta») non sono esclusi, ma tutto
+         lascia supporre che in questo punto Ramusio abbia seguito un esemplare molto vicino
+         alla lezione di V e F. Ma poiché R non presenta le lezioni singolari tipiche di V
+         (cfr. per es. «per mezo le vie»), è probabile che l’editore si sia avvalso della testimonianza
+         del perduto Z1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

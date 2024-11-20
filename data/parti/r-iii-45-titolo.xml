@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-45-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-45">
+      <note>
+	<p>F CCXVII (Ci devise de la <term ref="#regione-delle-tenebre">provence de Oscurité</term>); <ref type="witlink" target="#p-iii-49">P III 49</ref> (De <term ref="#regione-delle-tenebre">regione tenebrarum</term>. Capitulum XLIX); VA CLIV (Della <term ref="#regione-delle-tenebre">Oschurità</term>, dove non àno mai la luxe del sol); Z 151 (Hic naratur de <term ref="#regione-delle-tenebre">provincia Obscuritatis</term>); L 198 (De <term ref="#regione-delle-tenebre">provincia obscura</term>); V 119 (Qua se narerà dela <term ref="#regione-delle-tenebre">provinzia dela Schuritade</term>); VB manca.</p>
+	<p>Ramusio segue in maniera sostanzialmente fedele il suo modello, la versione di Pipino.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

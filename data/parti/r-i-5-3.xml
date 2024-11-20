@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-5-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-5">
+      <note>
+	<p>Prosegue la traduzione quasi letterale del lungo <hi rend="italics">ajout</hi> di Z, che occupa i parr. 2-7 del testo toledano: vd. <ref type="witlink" target="#z-null-4">Z 4 5-6</ref> «Et in eo sunt multe insule bene habitate in quibus sunt pulcre civitates. Et habitate
+         sunt iste insule a gentibus que fugerant a facie Magni Tartari, quando ibat conquirendo
+         per regnum sive provinciam <term ref="#persia">Persie</term>, cuius civitates et terre regebantur a comuni: que quidem gentes fugiendo reduxerunt
+         se ad istas insulas et ad montes, ubi tutiores esse credebant; et sic habitate sunt
+         insule ille». </p>
+	<p>Il tratto iniziale dell’innovazione di Z si rinviene, in una forma sostanzialmente
+         identica a quella del testo toledano, anche in <ref type="witlink" target="#l-null-20">L 20 3</ref> («Et sunt in eo multe insule bene habitate in quibus sunt multe civitates») e <ref type="witlink" target="#v-null-12">V 12 3</ref> («[…] ed è in quelo molte ixole ben abitade, nele qual sono de molte zitade»). L’unica
+         differenza è nell’aggettivo che accompagna <hi rend="italics">civitates</hi>/<hi rend="italics">zitade</hi>: <hi rend="italics">pulcre </hi>in Z (e R), <hi rend="italics">multe</hi>/<hi rend="italics">molte </hi>in L e V. </p>
+	<p>Lo scarto tra il testo di R e il nostro Z si misura, oltreché in minimi aggiustamenti,
+         nella glossa «per volerle destruggere», con cui Ramusio intende esplicitare gli scopi
+         della campagna del «Gran Tartaro» contro le città libere d’<term ref="#armenia">Armenia</term>. Della glossa non ci sarebbe stato bisogno se il traduttore avesse reso il sintagma
+         <hi rend="italics">ibat conquirendo</hi> con “andava conquistando/facendo conquiste” (cfr. Du Cange, s.v. «conquirere»: “armis
+         comparare”), invece che con ‘andava cercando’, che rende necessaria l’integrazione
+         (ed è causa, altresì, di una forzatura sintattica: <hi rend="italics">cuius civitates et terre</hi> Z &gt; <hi rend="italics">qual città et terre</hi> R).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

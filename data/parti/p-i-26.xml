@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-26</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-26">
+    <head>
+      <hi rend="bold">P, I 26</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-26_2_1" n="1"> <term ref="#cobinam">Cobinam</term> est civitas grandis, ubi copia est ferri calibis et andanici. </seg>
+      <seg xml:id="p-i-26_2_2" n="2"> Ibi fiunt specula
+         de calibe pulcra. </seg>
+      <seg xml:id="p-i-26_2_3" n="3"> Ibi fit tucia que medetur oculis similiter et expodium. </seg>
+      <seg xml:id="p-i-26_2_4" n="4">
+         Modus autem hoc faciendi est talis: in mineris invenitur ibi vena terrea que ponitur
+         in furnace crate ferrea cooperta; vapor elevatus a terra succensa et conglutinatus
+         ad cratam est tuscia, materia vero grossior que in igne remanet vocatur espodium.
+         </seg>
+      <seg xml:id="p-i-26_2_5" n="5"> Huius terre habitatores sectantur legem <term ref="#macometto">Machometi</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

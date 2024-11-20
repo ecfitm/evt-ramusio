@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-36-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>R si attiene a Z 53 11 «Per longitudinem itaque pontium, ab utraque parte sunt pulcre columpne de marmore;
+         que columpne substinent pontium coperturas, quia omnes pontes pulcerima habent tecta
+         de lignamine toto pulcerimis picturis rubei coloris depicto, quorum copertura est
+         cum tegulis». La lezione «delli fiumi» si spiega probabilmente come un errore di Ramusio
+         o della sua fonte. Si noti che la versione che si legge in V (a sua volta molto vicino
+         a F) e nelle altre fonti ramusiane differisce per vari dettagli da quello di R Z:
+         V 55 7 «[…] e da una parte e l’altra del ponte sono chollone de marmoro, le qual chollone
+         sostien la chovertura del ponte, perché el ponte sono choverto d’una bella chovertura
+         de pietre negre chon penture rosse» (<ref type="witlink" target="#f-null-113">F CXIII 14</ref> «De lonc a lonc dou pont, de chascun les, a colunne de marbres, les quelz colones
+         sostienent la covreures dou pont, car voç di qe le pont est covert de trop bielle
+         covreure de leingne tout portrait et pinte a riche pinture […]»); <ref type="witlink" target="#p-ii-35">P II 35 6</ref> «[…] est autem tectum desuper coopertura lignea nobilissime picta que columpnis marmoreis
+         sustentatur»; <ref type="witlink" target="#vb-null-80">VB LXXX 5</ref> «[…] tuto de malmoro belo e ben lavorato, largo pasa .VIIII. dale sponde del ponte;
+         è cholone de marmoro che sostene la copertura del ponte la qual tuta è de pietra e
+         richamente lavorata e depinta». Il passo manca in L. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

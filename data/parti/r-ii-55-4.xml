@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-55-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-55">
+      <note>
+	<p>Nella struttura e nei contenuti R si attiene a <ref type="witlink" target="#p-ii-53">P II 53 5</ref>, che combina e rimaneggia informazioni che nel testo originale non si trovavano a
+         contatto: «Ad nichil igitur vacabat rex nisi ut delitiose viveret: in curia sua domicellos
+         habebat circiter mille et honorabiliter valde vivebat». Vd. <ref type="witlink" target="#v-null-67">V 67 2 </ref>«[…] et deletavasse molto de done […]»; <ref type="witlink" target="#f-null-138">F CXXXVIII 2</ref> «[…] mes sun delit estoit de fenmes […]» / <ref type="witlink" target="#f-null-138">F CXXXVIII 18</ref> «Et encore voç di qe cest roi se fasoit tutes foies servir a plus de .M. entre damoisaus
+         et damoisielles […]». Il passo è assente in VB. </p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

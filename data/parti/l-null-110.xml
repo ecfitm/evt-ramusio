@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-110</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-110">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 110</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-110_2_1" n="1"> Ultra predictam civitatem versus meridiem .VIII. dietis – ubi continue sunt civitates,
+         et castra multa nobilia, et multorum mercimoniorum (et gentes sunt <term ref="#idolatri">ydolatre</term> mortuorum corpora comburentes, et sunt mercatores et artiste, expendentes monetam
+         ex cartis) – tunc invenitur nobilis civitas dicta Ligiu; et ipsa est principalis civitas
+         regni, quare sic eciam provincia nominatur. </seg>
+      <seg xml:id="l-null-110_2_2" n="2"> Et est super predicto flumine, quare
+         ibi adest maxima navium multitudo. </seg>
+      <seg xml:id="l-null-110_2_3" n="3"> Hee gentes sunt armigeri; adest tamen maxima
+         copia mercatorum et eciam artistarum. </seg>
+      <seg xml:id="l-null-110_2_4" n="4"> Et victualium adest copia multa, et venacionum
+         similiter, tam bestiarum quam avium. </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

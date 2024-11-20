@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-49-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-49">
+      <note>
+	<p>Ramusio rispecchia con buona esattezza il dettato della tradizione, pedissequa a <ref type="witlink" target="#f-null-70">F LXX 8</ref> «[…] car sachiés qu’il n’i a homes ne femes ne bestes ne osiaus for che une mainere
+         d’osiaus qe sunt apelés bargherlac, des qeles les fauconz se passent: il sunt grant come perdis, il ont fait les piés
+         come papagaus, la coe come rondiaus, il sunt mout volant» (vd.: <ref type="witlink" target="#l-null-61">L 61 5</ref> «[…] ibique nulle habitant bestie neque homines neque aves, preterquam maneriem quamdam
+         avium ‹nomine› “<term ref="#bargelach">bag‹er›lach</term>”, quibus pascuntur falcones: et sunt magnitudinis perdicum, et pedes habent in modum
+         papage, caudam vero per modum yrundinis, et sunt optime volantes»; <ref type="witlink" target="#p-i-62">P I 62 7</ref> «[…] in montibus illis nulle alie reperiuntur aves nisi herodii predicti et avium
+         species altera que dicuntur “<term ref="#bargelach">bargelac</term>”, quibus pascuntur herodii: aves ille grandes sunt ut perdices, pedes papagalli similes,
+         caudam vero habent ut rodii et sunt velocis magnique volatus […]»; <ref type="witlink" target="#v-null-37">V 37 4</ref> «[…] e là non se trova homeni né bestie né hoxelo, salvo una maniera de hoxeli i
+         qual sono chiamati “<term ref="#bargelach">barcholach</term>”, deli qual li falchoni se passe; i qualli hoxeli sono grandi chomo pernixe et àno
+         li piè chomo papagà e la choda chomo le zexile, et valle molto ben» (<hi rend="italics">valle</hi> è naturalmente errore per “vola”, <hi rend="italics">zexile</hi> è forma veneta per “rondini” [<hi rend="italics">DEI</hi>, s.v. «cesila»]); <ref type="witlink" target="#va-null-56">VA LVI 6-7</ref> «[…] non ‹ge› abita homo, nì bestia, nì oxello se non solamente falchoni pellegrini
+         e un’altra gienerazione d’oxieli ch’àno nome <term ref="#bargelach">bargolai</term>. De questi oxieli pasieno questi falchoni; egli sono grandi chome perdixe e àno i
+         pie’ chome papagali e volano molto»; <ref type="witlink" target="#vb-null-58">VB LVIII 5-6</ref> «[…] sule qual montagne non abitano persona né bestia alguna salvo alguni oçelli
+         de quali i falchoni se notricha. Et chiamase questi ocelli <term ref="#bargelach">barghelar</term>, i qualli <term ref="#bargelach">barghelar</term> sono grandi come bone pernixe et àno i ochi come rondene, i piedi chome di papagalo;
+         e sono diti oçelli molto volanti […]»). In R, «volano velocemente»  può dipendere
+         dalla versione di P («et sunt <hi rend="italics">velocis</hi> magnique volatus»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

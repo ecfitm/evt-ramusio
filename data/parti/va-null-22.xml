@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-22</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-22">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XXII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-22_2_1" n="1"> E quando l’omo se parte dala zità de <term ref="#chermain">Chrerina</term>, el chavalcha sete zornade trovando senpre zità e chastelle e abitazion asai. </seg>
+      <seg xml:id="va-null-22_2_2" n="2">
+         Et è tropo bon chavalchar per quela contrà, et è bon solazo; el se ge prende pernixe
+         assai. </seg>
+      <seg xml:id="va-null-22_2_3" n="3"> E quando l’omo à chavalchato sete zornate per quella pianura, e alora si
+         trova una grandenisima disexa, sì se chavalcha ben do zornate pur al declino – trovando
+         tuta fiata grande abondanzia d’arbori asai che fano fruti –, che per anticho tenpo
+         ne fo de gran abitazion, ma non ne abita niun se non alchun che paseno suo bestiame.
+         </seg>
+      <seg xml:id="va-null-22_2_4" n="4"> Della zità de <term ref="#chermain">Chrerina</term> defina questa desexa è sì gran fredo l’inverno che apena se ne pò schanpar, chon
+         tuto ziò che l’omo abia de molti pani.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-22_3_1" n="1"> Quando l’omo è disexo quelle do zornate che ò dite de sopra, trova una grandenisima
+         pianura, e [al] chomenzamento de quel pian è una zità che à nome <term ref="#camandu">Chomandi</term>, la qual fu ‹per› anticho tenpo molto nobille e grande, ma ora nonn è chusì: perché
+         i Tartari d’altro paixe li àno fato spesse fiate gran dalmazo. </seg>
+      <seg xml:id="va-null-22_3_2" n="2"> Quello piano è
+         molto chaldo luogo. </seg>
+      <seg xml:id="va-null-22_3_3" n="3"> La provinzia à nome Irobarle; soi fruti sono datali e pomi
+         del paradixo e pistachi, e trova-sse altri fruti assai, i qual non se trova in nostre
+         chontrade per la fredura ch’è in le parte de zia. </seg>
+      <seg xml:id="va-null-22_3_4" n="4"> In questo piano è una zenerazion
+         d’oxelli che sono apellati francholini, ch’è molto divixati da questi de nostra parte.
+         [9] Egli sono negri e bianchi mesedatamente, e àno rossi li pie’ e ’l becho. [10]
+         Le bestie de quella contrà altrosì sono molto deuixati dali nostri: inprimamente i
+         buò sono grandisimi, tuti bianchi chomo neve, lo pello pizollo e piano, le chorne
+         churte e grosse et sono achute; entro le spalle àno un g[o] nbo ritondo alto ben do
+         spane: elli èno ben la plui bella cossa del mondo da veder. [11] E quando egli i vuol
+         chargar, i se inzenochia in tera chome fano i ganbelli, e quando egli sono chargadi,
+         sì se lievano in pie’ e portano molto ben el pexo sì che i sono forti ol|14v|tramodo.
+         [12] El ge n’è moltoni molto grandi chome axeni, e àno la choda sì grossa e sì larga
+         ch’ella pexa ben XXX livre; e sono molto grassi et èno tropo boni da manziar.</seg>
+    </p>
+    <p n="4"/>
+    <p n="5"/>
+  </div>
+</body>
+</text>
+     </TEI>

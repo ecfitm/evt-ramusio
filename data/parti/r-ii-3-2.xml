@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-3-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-3">
+      <note>
+	<p>La prima parte della pericope («Dovete [...] referir al <term ref="#gran-can">Gran Can</term>») non trova riscontro in nessun’altra testimonianza poliana. La seconda parte dipende
+         da un esemplare prossimo a <ref type="witlink" target="#f-null-80-4-11">F LXXX 4</ref> «[…] Je voç di qe a celz qe bien se provent, celui qui estoit seingnor de .C. homes
+         le fait seingnor de .M. e li fait grant donemant de vaicelement d’argent [R «dona
+         molti vasi di argento»] et de table de comandemant de seingneurie […]» [R «di comandamento
+         et signoria»]. Gli altri relatori che conservano il capitolo non si mostrano così
+         vicini a R come F: <ref type="witlink" target="#l-null-66">L 66 5</ref> «[…] Quia si fuerat quis ‹primo› dominus .C. militum dabat ei dominium .M., et si
+         fuerat primo dominus .M. faciebat eum dominum .Xm .; et insuper donabat vasa argentea unicuique secundum eorum esse, et tabulas habentes
+         sive denotantes dominium, scilicet habentes preceptum dominii»; <ref type="witlink" target="#p-ii-7">P II 7 1</ref> «[…] eum enim qui preerat .C. militibus, .M. militibus preficit, et sic gradatim
+         promovet reliquos, donatque illis dona aurea et argentea, vasa atque tabulas privilegiorum
+         et gratiarum aureas vel argenteas, quod illis concedatur gratie in sculptura impressa
+         tabule continentes […]»; <ref type="witlink" target="#v-null-41">V 41 3</ref> «[…] ‹queli› che iera signori, zoè chavi de zento homeni, ello li messe sovra mile
+         homeni, et donòli molti zoieli d’oro e d’arzento, et donòli tole de chomandamento
+         […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

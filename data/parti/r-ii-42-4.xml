@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-42-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-42">
+      <note>
+	<p>R presenta alcune varianti caratteristiche («gran moltitudine di elefanti», «da dodici»)
+         in comune con <ref type="witlink" target="#v-null-58">V 58 4-5</ref> «Or questo re inchontinente feze far gran munizion, la qual ve nareremo. Or questo
+         aveva una gran moltitudine de lionfanti, et sopra zaschadun de quelli feze far uno
+         chastello de legno molto forte e ben fato per chaxon de chonbater; et sopra zaschadun
+         chastello ierano almancho da dodexe in quindexe homeni […]» (V riflette abbastanza
+         fedelmente <ref type="witlink" target="#f-null-120">F CXX 5-6</ref> «Et adonc cest roi fait mout grant aparoilemant, et voç deviserai quelz. Or sachiés
+         tuit voiremant qe il ot .IIm. leofant mout grant, et fist faire sovre chascun de cesti leufanti un chastiaus de
+         fust mult fort et molt bien fait et ordree por conbatre; et sor chascun chastiaus
+         avoit au moin .XII. homes por conbatre, et en tiel hi avoit .XVI., et en tiel plus»).
+         Il fatto che in almeno due passaggi («preparò», «sedici») R si attenga alla lezione
+         di F e non a quella di V potrebbe suggerire che Ramusio abbia ricavato il testo da
+         Z1, cioè da un esemplare di Z che condivideva alcune lezioni tipiche di V, ma che, rispetto
+         a questo, risultava più corretto e dunque più prossimo a F.</p>
+	<p>È da escludere che Ramusio abbia tenuto in considerazione la testimonianza (notevolmente
+         abbreviata) di <ref type="witlink" target="#p-ii-42">P II 42 2</ref> «[…] congregantes igitur suos exercitus habuerunt equites et pedites circiter .XL.
+         milia, elephantes autem cum singulis castris bellicis circa duo milia et in quolibet
+         castro erant viri bellatores .XV. vel .XVI. […]»; <ref type="witlink" target="#vb-null-86">VB LXXXVI 3</ref> «Et apariati do millia elefanti con le tore sopra, quelle nele qualle per cadauna
+         v’era .XVI. omeni armati co‹n›batanti […]».</p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

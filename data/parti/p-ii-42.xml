@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-42</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-42">
+    <head>
+      <hi rend="bold">P, II 42</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-42_2_1" n="1"> Occasione regni Caraiam superius memorati et regni <term ref="#vociam">Unciam</term> fuit prelium magnum in regione immediate predicta: anno Domini .M‹CC›LXXII. <term ref="#gran-can">Magnus Kaam</term> misit unum de principibus suis, nomine <term ref="#nestardin">Nescardyn</term>, cum .XII. milibus equitum ad custodiam provincie <term ref="#carazan">Carayam</term>; erat autem predictus <term ref="#nestardin">Nescardyn</term> vir prudens et strenuus, et hii qui cum illo erant milites probi et fortissimi bellatores.
+         </seg>
+      <seg xml:id="p-ii-42_2_2" n="2"> Reges autem <term ref="#mien">Mien</term> et <term ref="#bangala">Bangala</term> audito eorum adventu preterriti sunt, metuentes ne forte terras eorum venissent invadere;
+         congregantes igitur suos exercitus habuerunt equites et pedites circiter .XL. milia,
+         elephantes autem cum singulis castris bellicis circa duo mi|57a|lia et in quolibet
+         castro erant viri bellatores .XV. vel .XVI.; venit autem rex <term ref="#mien">Mien</term> cum predicto exercitu versus civitatem <term ref="#vociam">Vociam</term> ubi erat prenominatus exercitus <term ref="#tartari">Tartarorum</term> quievitque cum ipso exercitu in campestribus ad dietas .III. versus <term ref="#vociam">Vociam</term>. </seg>
+      <seg xml:id="p-ii-42_2_3" n="3"> Audiens hec <term ref="#nestardin">Nescardyn</term> timuit, quia parvum habebat exercitum, pretendit se nihil omnino timere quia secum
+         habebat viros fortes et strenuos bellatores, et egressus est obviam illis ad planiciem
+         <term ref="#vociam">Vociam</term> et ibi castrametatus est iuxta nemus quoddam magnum in quo erant arbores maxime,
+         quia sciebat quod elephantes in nemus illud nullatenus ingredi poterant. </seg>
+      <seg xml:id="p-ii-42_2_4" n="4"> Rex autem
+         <term ref="#mien">Mien</term> venit ut exercitum illius invaderet; <term ref="#tartari">Tartari</term> vero audacter occurerunt illis. </seg>
+      <seg xml:id="p-ii-42_2_5" n="5"> Cum igitur equi <term ref="#tartari">Tartarorum</term> viderunt elephantes cum castris qui erant in prima acie constituti, tanto fuerunt
+         pavore perterriti quod sessores eorum nulla |57b| vi vel ingenio poterant eos illis
+         proximos facere; tunc descendentes omnes de equis ligaveru‹n›t eos ad arbores nemoris,
+         et pedestres ad elephantum aciem redierunt ceperuntque in eos sagittas indesignanter
+         iacere; hii autem qui in campestribus elephantum erant, pugnabant contra eos, sed
+         <term ref="#tartari">Tartari</term> probiores illis erant et magis assueti ad pugnam. Vulneraverunt igitur ad pugnam
+         graviter cum sagittis multitudinem elephantum, propter quod elephantes sagittarum
+         metu fugam arripuerunt, ingressique sunt omnes cursu rapido in nemus proximum, nec
+         potuerunt ab ingressu nemoris a suis rectoribus prohiberi; divisi sunt in nemore ab
+         alterutro, huc et illuc et arbores nemoris omnia castra eorum lignea confregerunt,
+         nam arbores magne et dense erant. </seg>
+      <seg xml:id="p-ii-42_2_6" n="6"> Videntes hoc <term ref="#tartari">Tartari</term> cucurrerunt ad equos, quibus ascensis di|57c|visisque elephantibus in regis acies
+         irruerunt, quas non modicum invaserat timor eo quod videbant elephantum aciem dissipatam.
+         </seg>
+      <seg xml:id="p-ii-42_2_7" n="7"> Fuit autem prelium durum valde: cum vero uterque exercitus sagittas suas quas
+         habebat omnes eiecerunt, arripuerunt omnes gladios cum quibus durissime pugnaverunt,
+         multique undique sunt occisi. </seg>
+      <seg xml:id="p-ii-42_2_8" n="8"> Tandem autem rex <term ref="#mien">Mien</term> cum suis fugam arripuit, quos insequentes <term ref="#tartari">Tartari</term> multos ex fugientibus occiderunt quibus omnino mortuis vel fugatis redierunt ad nemus
+         ut caperent elephantes, sed non poterant quamquam ex ipsis capere nisi inuissent eos
+         quidam ex hostibus quos ceperunt quorum auxilio circiter ducentos habuerunt. [9] Ab
+         hoc prelio in antea cepit <term ref="#gran-can">Magnus Kaam</term> elephantes habere pro exercitibus suis, quos prius pro exercitu non habebat. [10]
+         Post hec devicit <term ref="#gran-can">Magnus Kaam</term> terras regis <term ref="#mien">Mien</term> et |57d| eas suo dominio subiugavit.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

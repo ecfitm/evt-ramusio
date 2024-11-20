@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-42-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-42">
+      <note>
+	<p><ref type="witlink" target="#z-null-129">Z 129 1</ref> «<term ref="#dulfar">Duffar</term> est quedam civitas nobilis et magna, que distat a civitate <term ref="#erginul">Scier</term> circa ducenta miliaria versus magistrum» (che ripete fedelmente F CXCV 2 «<term ref="#dulfar">Dufar</term> est une belle cité et grant et noble que est longe de la cité de <term ref="#erginul">Escer</term> .Vc. miles ver maistre») è il solo relatore a indicare una distanza affine per misura
+         a R (vd. <hi rend="italics">contra </hi>L 185 1 «<term ref="#dulfar">Duffar</term> est pulcra, nobilis et magna civitas in provincia <term ref="#adem">Aden</term>, longe ab <term ref="#escier">Escier</term> .CCCCC. miliaribus versus magistrum […]»; V 111 1 «<term ref="#dulfar">‹D›ufar</term> sono una zitade granda et nobelle, la qual zitade sono mia zinquezento inverso maistro»;
+         VB CLXVII 11 «<term ref="#dulfar">‹D›ufar</term> si è una nobellisima citade e grande, lutan dala citade Ester migia Vc verso maistro»). Non trova spiegazione negli altri relatori la modificazione imposta
+         da Ramuso alla coordinata geografica.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

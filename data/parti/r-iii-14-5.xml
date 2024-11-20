@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-14-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-14">
+      <note>
+	<p>Il resoconto della sepoltura proposto da Ramusio si allinea nei dettagli a <ref type="witlink" target="#z-null-101">Z 101 12</ref> «Et cum ipsum comederint in toto, accipientes ossa, in quamdam pulcram archam parvam
+         ipsa reponunt; quam archam taliter, in montium cavernis, appendunt ad saxa quod aliqua
+         mala res illuc non valet attingere» (che ripete F CLXVII 7 «Et aprés ce le ont mangiés, il prenent les hoses e le metent en une belle archete
+         et puis le portent et l’apennent en grant cavernes des montagnes, en tel leu qe nulle
+         beste ne autre mauvese chouse le peusse t{h}ochere»). Una descrizione <hi rend="italics">brevis</hi> è offerta da P III 17 2 «Ossa autem in cavernis montium sepeliunt, ne possint ab homine vel a bestia tangi»
+         (ripetizione di VA CXXXI 7 «Le osse meteno in chaverne de montagnie, azò che omo né bestia non le possa tochar»).</p>
+	<p>Gli altri relatori sono allineati su F-Z: L 154 5 «Reliquias ossium in parvis locant capsulis, quas in cavernis montium taliter pendent
+         et locant quod ab animali aliquo tangi non possunt»; V 87 27 «Et quando i l’àno manzado, i tuono tute le suo’ osse e metele in una bela archa
+         pizola, et quella meteno in la chavana dî morti, la qual sono molto granda, che alguna
+         bestia né ria chossa non li puol andar, né puol branchar algun homo che non sia dela
+         sua patria […]»; VB CXXXVII 7 «Et çuça tuto; e lle ossa che sopra avança, tute le coie e quelle mete in una cassa
+         e sì la pone in una montagna, la più grande in una chaverna et in parte animali non
+         ne possa andare, açò quelle da alcuna bestia non sia toche né guaste».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-21</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-21">
+    <head>
+      <hi rend="bold">P, II 21</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-21_2_1" n="1"> Moneta regalis <term ref="#gran-can">Magni Kaam</term> hoc modo fit: de tribus corticibus arboris mori accipiunt cortices medianos qui conficiuntur
+         et solidantur ut folia de papiro, deinde per particulas magnas et parvas ad denariorum
+         similitudinem inciduntur atque regali signo cuduntur, et imprimuntur eis signa varia
+         iuxta que huiusmodi pecunia valitura est. </seg>
+      <seg xml:id="p-ii-21_2_2" n="2"> Valet autem parvus denarius ad valorem
+         vel precium parvuli turonensis; alius maior ad valorem dimidii grossi; tertius ascendit
+         ad venetos duos; alius ad quinque; alius vero ad decem. </seg>
+      <seg xml:id="p-ii-21_2_3" n="3"> De hac igitur pecunia
+         facit fieri rex in copia maxima in civitate <term ref="#cambalu">Cambalu</term>, nullique sub pena mortis in omnibus fere |45d| regnis sue ditioni subditis monetam
+         aliam facere aut expendere licitum est aut hanc recusare; nullus etiam de aliis regnis
+         intra terras <term ref="#gran-can">Magni Kaam</term> monetam aliam potest expendere, soli autem officiales regis monetam hanc faciunt
+         de regis mandato. </seg>
+      <seg xml:id="p-ii-21_2_4" n="4"> Sepissime vero negotiatores de diversis regionibus venientes
+         <term ref="#cambalu">Cambalu</term> deferunt aurum et argentum, margaritas et lapides pretiosos que omnia rex per suos
+         officiales emi facit, et de moneta sua solucio fit; si negotiatores sunt de extraneis
+         nacionibus ubi hec moneta non currit, quandoque commutant in alias mercaciones et
+         ad suas deferunt naciones et regiones, propter quod ipsa moneta a nullis negotiatoribus
+         recusatur. </seg>
+      <seg xml:id="p-ii-21_2_5" n="5"> Insuper etiam sepe mandat rex in civitate <term ref="#cambalu">Cambalu</term> ut quicumque aurum ‹vel› argentum habent aut lapides preti|osos |46a| suis officialibus
+         quam citius exhibere studeant, et eis de moneta illa secundum extimationem debitam
+         providetur quod absque dilatione fit et sine eorum detrimento; sicque eorum indempnitati
+         cavetur et rex potest per hunc modum thesauros infinitos et admirabiles congregare.
+         </seg>
+      <seg xml:id="p-ii-21_2_6" n="6"> De hac moneta suis exercitibus et officialibus stipendia tribuit et quicquid pro
+         curia necessarium est emitur. </seg>
+      <seg xml:id="p-ii-21_2_7" n="7"> Immensam igitur pecuniam pro nichilo habet et in
+         hunc modum manifeste apparet quod <term ref="#gran-can">Magnus Kaam</term> in expensis, divitiis et thesauris universos mundi principes superare potest; nam
+         oportet omnes a curia eius monetam emere, que ita continue custoditur, ut indeficienter
+         ad omnes qui eam emere volunt habundantissime diffundatur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-11-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-11">
+      <note>
+	<p>L’unico testimone che, oltre a R, reca questo passaggio è <ref type="witlink" target="#v-null-43">V 43 2</ref> «Et quando el <term ref="#gran-can">Gran Signor</term> se veste alguna vesta, queli zintilomeni se veste anchora lor de veste de quel cholor,
+         non perché li se le faza hogni ano, mo le ssono senpre apariade, perché le dura diexe
+         ani e plui; et queste tal veste se porta tredexe fiade all’ano». La frase «ma quelle
+         […] ornate» che figura in R ma non in V, potrebbe essere la ripresa di un dettaglio
+         introdotto in precedenza (vd. <ref type="witlink" target="#r-ii-11">R II 11 2</ref> «non che siano drappi di tanto prezzo»).</p>
+	<p>Nelle altre fonti ramusiane, come anche in F, le informazioni contenute nel par. 3
+         non trovano precisa rispondenza: <ref type="witlink" target="#f-null-86">F LXXXVI 5</ref> «[…] et li veste tuit de une senblable vesteure com lui et de grant vailance» /<ref type="witlink" target="#f-null-89"> F LXXXIX 7</ref> «Et ausi le <term ref="#gran-can">Grant Sire</term> en a .XIII. senblable a seç baronç, ce est de coleur, mes il sunt plus nobles et
+         de greingnor vaillance et mielz aornés, et toutes foies se vest d’un senblable com
+         sez baronç»; <ref type="witlink" target="#l-null-72">L 72 4</ref> «Hiis autem vestimentis ad velle <term ref="#gran-can">Magni Canis</term> utuntur: quociens enim aliquo induitur vestimento et ipsi similiter induuntur» /<ref type="witlink" target="#l-null-74"> L 74 2-3</ref> «[…] Habet eciam <term ref="#gran-can">Magnus Canis</term> .XIII. vestimenta predictis similia, licet sint valoris valde maioris […] ita quod
+         dum dominus aliquo solempnium festorum determinato vestimento vestitus est, .XIIm. predictorum simili induuntur vestimento»; <ref type="witlink" target="#p-ii-14">P II 14 3</ref> «[…] hos omnes simili veste secum induit, quocienscumque festa celebrat, que sunt
+         in anno .XIII. […], quamvis autem vestis pretiosior sit […]». </p>
+	<p>In VB e Z viene omesso il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

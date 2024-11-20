@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-62-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-62">
+      <note>
+	<p>Ramusio combina assieme la testimonianza di almeno due modelli. Vari dettagli sono
+         chiaramente attinti da <ref type="witlink" target="#vb-null-108">VB CVIII 11-12</ref> «[…] per che, aldito el segnore el penssier dei diti doi centilomeni, molti l’ave
+         charo [R «hebbelo molto charo»]. E, dato a quelli quei maistri [R «subito ordinò che
+         li fussero dati fabri eccellenti et maestri di legnami»] a lloro piaque […]». Il riferimento
+         ai «christiani nestorini» trova riscontro solo in F e, molto alla lontana, in P: <ref type="witlink" target="#f-null-145">F CXLV 5-6</ref> «Le <term ref="#gran-can">Grant Sire</term> dit a meser Nicolau et son frere et a so{i}n filz qe ce voloit il mout voluntier,
+         et dist qe il feissent fere cel mangan au plus tost{o} qu’il poront. Adonc mesere
+         Nicolao e seç freres e son filz, qe avoient en lor masnee un alamainz et un cristien
+         nestorin qe bon mestre estoient de ce faire […]»;<ref type="witlink" target="#p-ii-58"> P II 58 5</ref> «[…] Habebamus enim nobiscum fabros lignarios christianos […]». È probabile che Ramusio
+         leggesse tale dettaglio in un testimone della famiglia Z più completo e più prossimo
+         a F di Z toledano. A parte una generica coincidenza lessicale (R «piacque», V «piaxeva»),
+         non si danno tracce di contatti di R con V, che in questo punto risulta notevolmente
+         accorciato: <ref type="witlink" target="#v-null-71">V 71 9</ref> «Allora el <term ref="#gran-can">Gran Signor</term> disse che li piaxeva molto, e ch’elo ’l fesse far più presto ch’el potesse». In L
+         e Z questa parte è omessa.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

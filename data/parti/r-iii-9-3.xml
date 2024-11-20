@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-9-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-9">
+      <note>
+	<p>Ramusio rielabora con relativa libertà (ma mantenendosi aderente alla sostanza dell’informazione)
+         <ref type="witlink" target="#z-null-98">Z 98 3-4</ref> «Nunc vero, hinc discedendo, itur per istas duas insulas per miliaria sexaginta,
+         in quibus non invenitur in pluribus locis aqua, nisi per .IIII. passus est alta. Et
+         propter hoc expedit quod illac navigantes altius levent amplustre: nam de aqua circa
+         quatuor passus trahunt» (che traduce F CLXIV 3-4 «Or noç partiron de ci et aleron por mi cest .II. isles entor .LX. miles. E ne i
+         a qe quatre pas d’eive, e convient qe les grant nes ‹qe› hi pasent ausent le timon,
+         por ce qe il tirent d’eive propes a .IIII. pas»). Si avvicina a F VB CXXXIII 3 «Partendosi da questa isolla, pocho lutano se trova .II. alltre isolle, et a queste
+         .II isolle a .LX. miglia non se trova salvo .LXIIII°. passa de via: e qua, convene
+         che le gran nave che passa alça i timoni, per che li tirano di là apresso .IIII°.
+         pasi». </p>
+	<p>P III 12 3 offre un resoconto essenziale («Intra provinciam <term ref="#locach">Loath</term> et <term ref="#pentan">Penthayn</term> per miliaria .XL. [<hi rend="italics">sic</hi>] non invenitur altitudo maris ultra passus quatuor, propter quod oportet nautas elevare
+         gubernacula seu temones»), che dipende direttamente dal suo antigrafo, VA CXXVI 3 («Per mezo queste do ixolle zercha sesanta meglia, nonn è plui de passa quatro d’aqua,
+         e chonviene che lle nave grande che pasano lì alza i timoni»); abbreviato è pure L 149 3 «Relinquamus hec. Eundo inter has ‹duas› insulas circa miliaria .LX., ubi non sunt
+         ultra quatuor passus aque […]». Lacunoso risulta V 86 2 «Andando per questa ixola mia quaranta, zoè per mare, non sono se no quatro passi
+         d’aqua, onde el bexogna che le gran nave ‹…› […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

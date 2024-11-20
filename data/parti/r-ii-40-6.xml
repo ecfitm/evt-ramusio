@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-40-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>Ramusio si attiene a <ref type="witlink" target="#z-null-57">Z 57 11-12</ref>, semplificandolo nella parte centrale e integrandolo nella parte finali con dettagli
+         innovativi («di quattro danari, tutti lucenti»): «Ipsi habent a partte anteriori,
+         iuxta capud, duo crura brevia, que pedes non habent, sed habent tres ungues, videlicet
+         duas parvas et unam maiorem, factas in modum unguium falconum vel leonum. Capud habent
+         maximum et oculos qui sunt maiores uno pane». L’eliminazione della lezione caratteristica
+         di Z «videlicet duas parvas et unam maiorem», potrebbe essere stata suggerita a Ramusio
+         dalle altre sue fonti, che, analogamente a F, in questo punto presentano un testo
+         meno ricco di dettagli:  <ref type="witlink" target="#l-null-97">L 97 4</ref> «[…] Habent autem tibias duas ad partem anteriorem, propinquas capiti, et in ipsis
+         absque pedibus aliquibus habent ungulam unam, pro qualibet tibia, arcuatam et acutam
+         ad similitudinem unguium leonum vel falchonum; caput habent magnum valde, et oculos
+         pane uno maiores […]»; <ref type="witlink" target="#p-ii-40">P II 40 5</ref> «[…] habent autem quidam illorum magnorum serpentium iuxta caput duo crura carentia
+         pedibus, sed loco pedis habet ungulam unam ad modum leonis ungule vel falconis, caput
+         valde magnum habet; oculi eius pregrandes sunt veluti duo panes […]»; <ref type="witlink" target="#v-null-56">V 56 28</ref> «[…] li àno do ganbe davanti apreso el chavo, et nonn à i piè; et àno una rechia
+         chomo quella del falchon over quela de lion; et àno el chavo grando, et i ochi a forma
+         de pan»; <ref type="witlink" target="#vb-null-84">VB LXXXIV 6</ref> «[…] àno do ganbe davanti apreso la testa; non àno nel piede sollo una ongia quasi
+         come ongia de falchone. La testa à molto grossa con do ochi grossi […]» (vd. <ref type="witlink" target="#f-null-118">F CXVIII 7</ref> «[…] elle ont .II. janbes devant, pres au chef, qe ne ont piés for une ongle faite
+         come de faucon ou come de lion; le{s} chief ha mout grant et les iaus tielz que sunt
+         greingnor que un pain […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

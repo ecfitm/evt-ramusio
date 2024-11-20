@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-24</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Ramusio segue (abbreviando in più punti) <ref type="witlink" target="#z-null-54">Z 54 15-16</ref> «Habent insuper magnos canes molosos, qui sunt magnitudinis asinorum, optimi ad feras
+         quaslibet capiendum; et abiles sunt ad capiendos boves silvestres. Boves sunt maximi
+         et feroces; et multi sunt ibi». La lezione di R «che si chiamano “<term ref="#beyamini">beyamini</term>”», che non trova un parallelo in nessuna redazione poliana, parrebbe nascere da una
+         cattiva lettura di un passo del suo modello.</p>
+	<p>Gli altri relatori (F compreso) non trasmettono l’informazione concernente i “buoi
+         selvatici”: <ref type="witlink" target="#l-null-94">L 94 17</ref> «Sunt eciam diversa genera canum pro venationibus, quibus maxime utuntur; et inter
+         alios sunt quidam mastini magnitudinis asinorum»;<ref type="witlink" target="#p-ii-37"> P II 37 11</ref> «In hac regiones <term ref="#thebeth">Thebeth</term> sunt canes maximi velut asini, qui silvestres capiunt bestias; aliosque canes habent
+         venaticos diversarum manerierum»; V 55 35 «Onde in questa ne sono bestie ch’àno gran chavi peloxi, i qual sono de grandeza
+         de axeni, sono boni da piar bestie salvadege; et àno de pixor maniere de chani da
+         chazar»;<ref type="witlink" target="#vb-null-81"> VB LXXXI 19</ref> «Àno i maçor cani mastini vedese mai […]» (<ref type="witlink" target="#f-null-115">F CXV 9</ref> «Il ont grandismes chenz mastin qe sunt grant come asnes et sunt mout buen a prendre
+         bestes sauvajes. Il ont encore de plusors maineres de chiens de cace»). Non ci sono
+         tracce di contatti di R con redazioni diverse da Z, anche se va detto che la lezione
+         «come asini» potrebbe riecheggiare il «velut asini» di P.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

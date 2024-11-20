@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-45-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-45">
+      <note>
+	<p>I contenuti della pericope sono in linea con il dettato della tradizione. </p>
+	<p>L’esordio – «Le donne […] suoi mariti» – deriva senz’altro – come testimoniano le
+         precise corrispondenze testuali – da <ref type="witlink" target="#vb-null-56">VB LVI 8</ref> «Le done loro sono le più oneste done del mondo et quelle più amano i lloro mariti
+         […]»; per il resto – «et si guardano […] vituperio» – la lezione ramusiana dipende
+         probabilmente da Z, considerata l’aderenza formale alle linee di <ref type="witlink" target="#f-null-68">F LXVIII 17</ref> «Il se gardent que por rien dou monde ne cocheroit le un a la feme de l’autre, car
+         trop l’ont por mauveis chousse et vilaine».</p>
+	<p>Si segnala per un’ennesima <hi rend="italics">faute</hi> traduttiva <ref type="witlink" target="#v-null-36">V 36 8</ref> «Et guardé che non tochase le lor moier, perché le se reputa esser gramadege, ma
+         sono done molto liale ali lor mariti et molto se fadiga in le chosse nezesarie dela
+         soa fameia» – che sposta indebitamente sulle donne tartare il giudizio negativo attribuito
+         dalla tradizione alla pratica dell’adulterio (vd. F «l’ont por mauveis chousse et
+         vilaine»; <ref type="witlink" target="#l-null-60">L 60 6</ref> «Uxores vero alterius nullo modo quis tangeret: habent enim pro turpi et inconvenienti
+         valde […]»; <ref type="witlink" target="#p-i-55">P I 55 3</ref> «[…] apud eos absurdum valde est et intollerabile penitus ut vir quispiam ad uxorem
+         proximi sui presumat accedere […]»; <ref type="witlink" target="#va-null-54">VA LIV 11</ref> «[…] e àno per tropo gran male e per pesima cossa ch’i atendesse a moier d’altri»,<ref type="witlink" target="#vb-null-56"> VB LVI 8</ref> «[…] sse l’ochoresse che algun homo fosse trovato con alltra femina fi reputatto
+         de grandissimo suo inchargo et da tuti svilito»,  mentre V «[…] <hi rend="italics">le lor moier</hi> […] le se reputa esser <hi rend="italics">gramadege</hi>»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

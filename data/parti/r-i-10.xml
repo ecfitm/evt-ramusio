@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-10" n="1">
+    <head>
+      <hi rend="bold">R, I 10</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-10_1_1" n="1"> Del monasterio del <term ref="#barsamo">Beato Barsamo</term>, che è nelli confini di <term ref="#thauris">Thauris</term>. Cap. 10.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-10_2_1" n="1"> Ne’ confini di <term ref="#thauris">Thauris</term> è uno monasterio intitolato il <term ref="#barsamo">Beato Barsamo Santo</term>, molto devoto: quivi è uno abbate con molti monachi, i quali portano l’habito a guisa
+         di carmelitani. </seg>
+      <seg xml:id="r-i-10_2_2" n="2"> Et questi, per non darsi all’ocio, lavorano continuamente cintole
+         di lana, le qual poi mettono sopra l’altare del <term ref="#barsamo">Beato Barsamo</term> quando si celebrano li officii. </seg>
+      <seg xml:id="r-i-10_2_3" n="3"> Et quando vanno per le provincie cercando (come
+         li frati di San Spirito), donano di quelle alli loro amici et agli huomini nobili,
+         perché sono buone a removere il dolore che alcun havesse nel corpo: et per questo
+         ognuno ne vuole havere per devotione.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

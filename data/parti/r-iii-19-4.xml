@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-19-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-19">
+      <note>
+	<p>La dittologia incipitaria «Gli huomini et le donne» è (come il nesso “eccetto che”)
+         propria di <ref type="witlink" target="#z-null-106">Z 106 7</ref> «Homines et mulieres semper manent nudi, excepto quod eorum coperiunt naturam» (rielaborazione
+         di F CLXXII 4 «[…] il vont tuit nus, for qe il se cu‹v›rent lor nature») –  ma rispetto al testo
+         tràdito dal codice toledano R presenta due scarti: «ambulano» (che è il verbo della
+         vulgata) e l’aggiunta del dettaglio «con un drappo», tassello estratto da P III 22 3 «[…] et omnes nudi ambulant, mares et femine, sed quilibet verenda operit panno uno»
+         (a sua volta proprio dell’antigrafo VA CXXXVI 4 «La zente de questa ixolla vano tuti nudi se non che zaschuno àno davanti una peza
+         che i chuovre»).</p>
+	<p>Si allineano alla vulgata di F-Z gli altri relatori: L 159 4 «Inceduntque nude, solummodo earum verenda tegentes»; V 90 3 «[…] e vano tuti nudi, se no solamente se choverze la natura» VB CXLII 3 (eufemistico) «[…] i qualli tutti vano nudi e ssollo davanti se copre».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

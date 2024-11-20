@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-66</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-66">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LXVI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-66_1_1" n="1"> Comant le <term ref="#prete-gianni">Prestre Johan</term> con sez jens ala a l’encontre de <term ref="#cingis-can">Cinchin Kaan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-66_2_1" n="1"> Or dit li contes qe quant le <term ref="#prete-gianni">Prestre Johan</term> soit que <term ref="#cingis-can">Cinchins Chan</term> con toutes sez jens venoient sor lui, il ala con toutes sez jens contre lui, et alent
+         tant qu’il furent venu en ceste plain de <term ref="#tenduch">Tanduc</term>, et iluech mistrent canp pres a cel de Cingins Chan a .XX. miles. </seg>
+      <seg xml:id="f-null-66_2_2" n="2"> Et cascunes parties se repoussent por estre fresces et haitierç
+         le jor de la meslee. </seg>
+      <seg xml:id="f-null-66_2_3" n="3"> En tel mainer, com voç avés hoï, estoient le deus grandisme
+         hostes en cel plain de <term ref="#tenduch">Tanduc</term>. </seg>
+      <seg xml:id="f-null-66_2_4" n="4"> Et un jor <term ref="#cingis-can">Cinchins Chan</term> fait venir devant soi astronique, qui estoient cri|27c|stienz et saraçin, et conmande
+         elz qu’il le seussent a dire qui doit vincre la bataille entre lui et le <term ref="#prete-gianni">Prestre Johan</term>. </seg>
+      <seg xml:id="f-null-66_2_5" n="5"> Le stroliche le virent por lor ars: les saracin nen li en sevent dir verité,
+         mes les cristiens le hi mostrent apertemant, car il ont devant lui une channe et la
+         trenchent por mi por lonc et puis mistrent le une d’une part et l’autre d’autre, et
+         ne la tenoit nelui; puis mistrent nom a une part de la canne <term ref="#cingis-can">Cinchins Can</term> et a l’autre canne <term ref="#prete-gianni">Prestre Johan</term>, et distrent a Cingins Can: </seg>
+      <seg xml:id="f-null-66_2_6" n="6"> «Sire, or regardés cestes cannes et veés que ceste est votre nom et l’autre
+         est le nom dou <term ref="#prete-gianni">Prestre Johan</term>, et por ce, quant nos auron fait nostre encantemant, celui que sa canne vendra sor
+         l’autre vencra la bataille». </seg>
+      <seg xml:id="f-null-66_2_7" n="7"> <term ref="#cingis-can">Cinchins Can</term> dit que cel vuelt il bien voir et dist a les astronique qu’il le li mostrent au plus
+         tost que il porunt. Et adonc les astronique cristienç on le salterie et legent certes
+         salmes et font lor enchantemant, et adonc la chane, la ou estoit le nom de <term ref="#cingis-can">Cinchins Can</term>, san que nulle le tocchast, se jont a l’autre et monte sor cele dou <term ref="#prete-gianni">Prestre Johan</term>, et ce fui voiante tuit celz que illuec estoient. [9] Et quant <term ref="#cingis-can">Cingin Can</term> voit ce, il en ha grant joie, et, por ce qu’il treuve les cristiens en verité, il
+         fist puis toutes foies grant honor as cristiens et les out |27d| por homes de verité
+         et veritables, et ont puis toites foies.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

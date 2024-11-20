@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-1-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>F CLVII (Ci comance le livre de <term ref="#india">Indie</term> e devisera toutes les mervoilles que i sunt et les maineres des jens) – P III 1 (Descriptio navium <term ref="#india">Indie</term>. Capitulum I), VA CXXI (Delle nave et dele maniere d’<term ref="#india">India</term>); <ref type="witlink" target="#z-null-91">Z 91 </ref>(Hic incipit liber tractare de <term ref="#india">India</term>, in quo declarantur mores et consuetudines habitantium in ea, et mirabilia multa);
+         L 142 (De diversis provinciis que sunt in <term ref="#india">India</term> et eorum moribus; et eorum navibus); V 80 (Qui chomenza el libro del’<term ref="#india">India</term>, de tute le maniere e chondizion dele zente); VB CXXVI. </p>
+	<p>Ramusio segue fedelmente nella traduzione <ref type="witlink" target="#z-null-91">Z 91</ref>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-43</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Nella descrizione del clima della regione Ramusio segue fedelmente <ref type="witlink" target="#z-null-107">Z 107 118-120</ref> «Ibi est tam intensus callor quod mirabile est; et ideo vadunt nudi. Non habent pluviam
+         nisi solummodo de mensibus iunii, iulii et augusti. Et nisi foret aqua quam pluvit
+         istis tribus mensibus, esset ita intensus callor quod nullus posset evadere; sed propter
+         illam pluviam calor aliquantulum temperatur» (versione di F CLXXIII 46 «Il hi est si grant calor qe ce est mervoie, et por ce vont nu. Il n’i a pluie for
+         qe de jungn et de jungnet et d’aost, et, ce ne fust l’eive qe vient celz trois mois
+         qe renfrescent les air, il hi seroit si grant chaut que nulç i poroit escanper; mes
+         por celle pluie ne ont si grant calor»).</p>
+	<p>Si allineano al tenore informativo di F (e alla soluzione sintattica “se non… allora…”):
+         P III 26 3 «Ibi est intentissimus calor et ideo nudi vadunt; pluviam numquam habent nisi iunio,
+         iulio et augusto et, nisi esset pluvia trium mensium predictorum que aeri refrigerium
+         tribuit, nullus ibi vivere posset pre caloris angustia» (in questo aderente al suo
+         modello VA CXXXVII 52-53 «El ge n’è grandenisimo chaldo et perziò vano nudi. El non ge [p]i[o]ve se non de
+         zugnio et de luio et de agosto, e s’el non fosse la piova de questi tre mexi che refrescha
+         l’aiere e lla tera, el ge serave sì gran chaldo che niuno non ge porìa viver»); L 161 30 «Adest in hac regione calor immensus. Carent enim pluvia, preterquam in iunio et
+         iulio et augusto (tunc enim aliquando pluit). Nisi enim tali pluvia temperaretur aer,
+         vix aliquis ob nimium calorem manere posset»; VB CXLIII 53 «In questo paese non piuove mai salvo .III. mesi del’ano, çoè çugno luio et agosto;
+         e sse non fosseno dite piuoçe che nei diti mesi refreschano l’aire, tiensse di caldo
+         quel paexe nei diti tre mesi non se potria abitar però che tuti di caldo se ne moreriano».
+         Si attiene al contenuto offerto dalla tradizione V 91 45 «Or in questo luogo non àno pioba se no solamente el mexe de zugno, luio et avosto;
+         et l’aqua che piove questi tre mexi sono de gran utele a cholor, ché algun non porave
+         chanpar; mo pur per quela pioba che i àno non lassa esser sì gran chaldo».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

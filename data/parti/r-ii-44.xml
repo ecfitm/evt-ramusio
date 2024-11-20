@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-44</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-44" n="1">
+    <head>
+      <hi rend="bold">R, II 44</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-44_1_1" n="1"> Della città di <term ref="#mien">Mien</term> et d’un bellissimo sepolchro del re di quella. Cap. 44.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-44_2_1" n="1"> Dapoi le dette quindeci giornate, si trova la città di <term ref="#mien">Mien</term>, la qual è grande et nobile et capo del regno, et sottoposta al <term ref="#gran-can">Gran Can</term>; gli habitatori sono <term ref="#idolatri">idolatri</term>, et hanno lingua propria. </seg>
+      <seg xml:id="r-ii-44_2_2" n="2"> Fu in questa città (come si dice) un re molto potente et riccho, qual venendo a morte
+         ordinò che appresso la sua sepoltura vi fossero fabricate due torri a modo di piramidi,
+         una da un capo et l’altra dall’altro, tutte di marmo, alte passa dieci et grosse secondo
+         la convenientia dell’altezza et di sopra vi era una balla ritonda. </seg>
+      <seg xml:id="r-ii-44_2_3" n="3"> Queste torri, una era coperta tutta di una lama d’oro grossa un dito, che altro non
+         si vedeva che oro, et l’altra di una lama d’argento della medema grossezza, et haveano
+         congegnate campanelle d’oro et d’argento a torno la balla, che ogni fiata che soffiava
+         il vento sonavano, che era cosa molto stupenda a vedere; et similmente la sepoltura
+         era coperta parte di lame d’oro et parte d’argento: et questo fece far detto re per
+         honore dell’anima sua, acciò che la memoria sua non perisse. </seg>
+      <seg xml:id="r-ii-44_2_4" n="4"> Hor, havendo il <term ref="#gran-can">Gran Can</term> deliberato di haver quella città, vi mandò un valoroso capitano, et la maggior parte
+         dell’essercito volse che andassero giocolari o vero buffoni della corte sua, che ne
+         sono di continuo in gran numero. </seg>
+      <seg xml:id="r-ii-44_2_5" n="5"> Hor, entrati nella città et trovate le due torri tanto ricche et adorne, non le volsero
+         toccare senza saputa del <term ref="#gran-can">Gran Can</term>, qual, inteso che hebbe ch’erano stà fatte per quella memoria dell’anima sua, non
+         permesse che le toccassero né guastassero, per esser questo costume d’i <term ref="#tartari">Tartari</term>, che reputano gran peccato il movere alcuna cosa pertinente a’ morti. </seg>
+      <seg xml:id="r-ii-44_2_6" n="6"> Qui si trovano molti elefanti, buoi salvatichi grandi et belli, cervi et daini, et
+         ogni sorte di animali in grande abondanza.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

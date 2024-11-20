@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-20-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-20">
+      <note>
+	<p>Ramusio integra il testo di <ref type="witlink" target="#z-null-16">Z 16 8-9</ref> «Gens <term ref="#macometto">Macometi</term> legem observant. Sunt in ea pulcre gentes, et precipue mulieres» con uno spunto originale,
+         ripreso testualmente, di <ref type="witlink" target="#vb-null-25">VB XXV 7</ref> «[…] le qual al mio iodicio sono le più belle femene che credo abia el mondo […]»,
+         sorta di parafrasi del dettato di <ref type="witlink" target="#f-null-39">F XXXIX 7</ref> «Les jens aorent tuit <term ref="#macometto">Maomet</term>. Il hi a belle jens: propremant les femes i sunt belles outre mesure».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

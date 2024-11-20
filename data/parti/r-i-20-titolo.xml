@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-20-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-20">
+      <note>
+	<p><ref type="witlink" target="#f-null-39">F XXXIX</ref> (Comant l’en ala por un deçert); <ref type="witlink" target="#z-null-16">Z 16</ref>;<ref type="witlink" target="#l-null-34"> L 34</ref> (De quodam deserto, et regno <term ref="#timocaim">Tonachan</term>); <ref type="witlink" target="#p-i-27">P I 27</ref> (De regno <term ref="#timocaim">Tumochayn</term> et Arbore Solis que vulgariter dicitur a latinis Arbor Sicca), <ref type="witlink" target="#va-null-27">VA XXVII</ref> (De <term ref="#timocaim">Chanochai</term>, là dove è l’Alboro Solo che s’apella Secho);  <ref type="witlink" target="#v-null-20">V 20 43-46</ref> (Del reame de <term ref="#chermain">Ereimain</term>); <ref type="witlink" target="#vb-null-25">VB XXV 1-7</ref>.</p>
+	<p>Il capitolo ramusiano è interamente desunto da Z, ad eccezione della chiosa, che riprende
+         una specificità di VB.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

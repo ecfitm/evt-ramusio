@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-69-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-69">
+      <note>
+	<p>Il riferimento alle tasse versate su «tutte le cose che nascono nel paese», cioè sui
+         prodotti dell’allevamento e dell’agricoltura («cosí animali come di quel che produce
+         la terra») è un dettaglio che figura nel solo <ref type="witlink" target="#z-null-86">Z 86 10</ref> «De omnibus vero que nascuntur, tam de animalibus quam de terra provenientibus, decima
+         pars iurisdicioni <term ref="#gran-can">Domini</term> applicatur». Anche l’estrema stringatezza con cui si allude alle rendite della produzione
+         della seta, trova riscontro soltanto in Z (<ref type="witlink" target="#z-null-86">Z 86 8</ref> «[…] de syrico»). Gli altri manoscritti si mostrano a tal proposito maggiormente
+         ricchi di dettagli:  <ref type="witlink" target="#l-null-132">L 132 3</ref> «[…] et de serico, et similiter de multis aliis rebus persolvitur .X. pro centenario
+         […]»; <ref type="witlink" target="#p-ii-65">P II 65 7-8</ref> «De serico, cuius est in <term ref="#mangi">Mangy</term> copia maxima, recipit de .C. mensuris .X. mensuras quando venditur. De multis etiam
+         rebus aliis dantur mensure .X. pro centenario quolibet»; <ref type="witlink" target="#v-null-76">V 76 23</ref> «[…] dela seda che i àno in abondanzia li àno diexe lire de seda per zento»; <ref type="witlink" target="#vb-null-114">VB CXIV 52-53</ref> «Ecian rende grandisima utillità al signore la seda: paga .X. per .C. la qual è grandissima
+         suma. Sòne altre chose che paga .XX. per .C. […]» (così anche in <ref type="witlink" target="#f-null-152">F CLII 7-9</ref> «[…] e de la soie, que ont si grant habundance, est mout grandisme le droit. Et por
+         coi vos firoie lonc conte? Sachiés que de la soie se done .X. por cent, e ce monte
+         desmesuré monoie. Et mantes autres chouses hi a qe paient encore .X. por cent […]»).
+         Da rilevare, tuttavia, che P e VB (e già F) – analogamente a R – spostano questo particolare
+         nella parte conclusiva del capitolo, mentre Z lo colloca nella parte in cui si parla
+         delle rendite dello zucchero, delle spezie e dell’artigianato. È possibile che Ramusio,
+         nel riordinare le informazioni che ricavava dalla sua fonte principale, Z, abbia tratto
+         ispirazione da P o da VB.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

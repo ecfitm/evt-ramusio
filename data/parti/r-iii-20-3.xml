@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La descrizione della pesca delle perle è probabilmente una delle sezioni in cui Ramusio
+         ha maggiormente manipolato l’ordine e la consistenza delle informazioni a sua disposizione.
+         Lo scheletro della sezione è montato ricorrendo alla struttura di P, ma non mancano
+         spostamenti di pericopi e innesti da altre fonti.</p>
+	<p>La pericope incipitaria (e la più ricca, in termini di contenuti) segue l’andatura
+         di P III 23 4-6 «[…] in quo regno sunt margarite in multitudine maxima. In mari enim huius provincie
+         est mare, et id est brachium sive sinus inter firmam terram et insulam quamdam, ubi
+         non est aquarum profunditas ultra .X. vel .XII. passus et alicubi ultra duos. Ibi
+         inveniuntur predicte margarite: mercatores enim diversas societates ad invicem faciunt
+         et habent naves multas et magnas et parvas, hominesque conducunt qui descendunt ad
+         profundum aquarum et capiunt marina cocthilia in quibus sunt margarite. Quando autem
+         hii piscatores sustinere aquam non possunt ascendunt, rursusque descendunt in mare
+         et sic peragunt tota die» (testo che si presenta più ricco che nel relatore VA3 di VA CXXXVII 5-7 «In questo regniame se truova perlle asai, molto grosse, bone e belle, e ve dirò
+         chome elle se truovano. Innel mar de questa provinzia è uno colfo dentro l’ixolla
+         e teraferma; in tuto questo colfo nonn è alta l’aqua plui de oto o diexe passa, in
+         algun luogo ’la nonn è alta plui de passa do: in questo colfo se truova le perle.
+         El se aconpagnia molti merchadanti e tuoleno molte nave, grande e pizolle, e tuoleno
+         homeni a priexio, che vano in fondi del colfo a prender le ostrege in le qual sono
+         le perlle». La precisazione topografica è ricavata dal par. 7 – «Et noveritis quod
+         maior quantitas perularum et preciosorum lapidum que inveniatur, invenitur in <term ref="#malabar">Maabar</term> et <term ref="#zeilan">Seylan</term>» – di <ref type="witlink" target="#z-null-107">Z 107 6-22</ref>, che offre un resoconto assai più dettagliato: «In isto suo regno inveniuntur perule
+         multum grosse, et pulcre et bone. Et noveritis quod maior quantitas perularum et preciosorum
+         lapidum que inveniatur, invenitur in <term ref="#malabar">Maabar</term> et <term ref="#zeilan">Seylan</term>. Dicemus vero qualiter in isto regno lapides et perule inveniuntur. Est enim in isto
+         mari quidam gulfus, qui est inter insulam et terram firmam. Et in toto isto gulfo
+         non est aqua alta ultra decem vel duodecim passus, et in aliquibus locis non est alta
+         nisi per duos passus. In isto gulfo inveniuntur perule in hunc modum. Erunt plures
+         mercatores qui insimul facient comitivam et consortium, et accipient unam magnam navem,
+         specialiter ad hoc aptam, in qua quilibet per se cameram habebit, sibi ydoneam et
+         paratam, et in ea unum mastellum plenum aqua et alia oportuna. Et multe erunt huiusmodi
+         naves, quia multi mercatores sunt qui ad hanc piscationem atendunt. Et omnes mercatores
+         qui simul asociati fuerint in una navi habebunt plures barcas que navem trahent per
+         gulfum. Et inveniunt multos homines pretio, cum quibus conveniunt pro mense aprilis
+         et dimidio mensis madii, videlicet quia tanto tempore et in illo durat piscatio infrascripta
+         in dicto gulfo, in quodam loco qui dicitur <term ref="#betala">Bettala</term>. Et intra‹n›t in mare per miliaria sexaginta ; et cum ad locum pervenerint, navis
+         ancoratur. Et homines existentes in barchis, qui pro mercede premii veniunt, se submergunt
+         in aquam per passus .IIII., et .V., usque ad .XII., secundum quod aqua magis et minus
+         profunda in quolibet loco. Et in fundo invenientes caperas, ipsas sursum adducunt ;
+         in quibus inveniuntur grose et minute perule, et de qualibet manerie. Iste quidem capere scinduntur et in supradictis mastelis
+         aque plenis ponuntur qui in navibus sunt, quia perule in carnibus istarum caperarum sunt. Et dum in aqua mastelli permanent, carnes ille
+         deremituntur et putrescunt, et sicut albumen ovi eficiuntur; que tunc supernatant
+         et perule in fundo remanent expurgate».</p>
+	<p>La descrizione di Z è la più ricca della tradizione. Quella di F CLXXIII 4-7 / F CLXXIII 9 è più vicina a VA-P: «[…] et en le sien rengne se treuvent les perles mout groses
+         e bones e belles. Et voç dirai comant les perles se treuvent e se prennent. Or sachiés
+         qe il ha en ceste mer un gouf, qui est entre l’isle e la terre ferme, et en tout ceste
+         gouf ne a d’eive plus de .X. pas ou de .XII. et en tel leu hi a qe ne est plus de
+         .II. pas; et en ceste gouf se prenent les perles, e voç dirai comant. Celz qe ce font
+         il prenent les nes, e grant e petite, e vont en ceste gouf, ce est dou mois d’avril
+         jusque a dimi may, en un leu qe s’apelle <term ref="#betala">Bettalar</term>, e vont en la mer .LX. miles et iluec gitent lor ancres; et il entrent puis en celes
+         barches petites: e cesti le pes‹c›ent com je voç dirai. Il est voir qe il sunt maint
+         mercant et font plusors conpagnies, et acatent maintes homes a loier, ce est que il
+         lor donent aitant por le mois d’avril jusque a dimi may, outant come la peisciere
+         dure. […] Et quant les homes qe sunt en les petites barches, e qe ont les loiés des
+         mercaant, isent de barches e vont sout l’eives, tel .IIII. pas et tel .V. jusque in
+         .XII., e demorent soute come il plus puent, e quant il sunt au font de la mer, il
+         treuvent laiens capere qe le ome apellent hostrige de mer, e en ceste ostrice se treuvent
+         les perles groses e menues e de toutes faisonç, car les perles se treuvent en la charç
+         de celz cappes». A esso si allineano L 161 3-6 «[…] in quo regno inveniuntur margarite optime. Inter insulam enim dictam et terram
+         firmam adest culfus, in quo nusquam est maior aqua .X. vel .XII. passibus, et alicubi
+         .II. ‹tantum›. In hoc vero mari inveniuntur optime margarite. De mense enim aprilis
+         usque ad medium madium, a quodam loco dicto <term ref="#betala">Bettalar</term>, cum magnis et parvis navibus circa miliaria .LX. ingrediuntur mare, scilicet predictum
+         culfum, ibique anchoras figunt; intrantque parvas barchas, et piscantur cappas quasdam
+         sive ostreas, in quibus inveniunt margaritas. Verum est quod mercatores habent homines
+         debito precio, qui pro eis toto piscationis tempore piscantur – quod est per totum
+         aprilem usque ad medium madium –; hii ergo submerguntur in mari in passibus .VI. vel
+         quatuor aque, vel plus vel minus secundum conditionem loci, piscanturque dictas cappas
+         (que eciam ostrege marine dicuntur), in quibus ex ipsis margaritis tam parvis quam
+         magnis tanta recipitur multitudo quod, ut apparet, totus habundat mundus; ‹ipseque
+         in earum carnositate manent›»; V 91 4-8 / V 91 11 «Et innel suo’ reame el se trova perle molto grande e grosse, e diròve chomo le se
+         trova. El è in questo mar uno cholfo tra l’ixola e teraferma, et in tuto questo cholfo
+         non sono più da diexe in dodexe passa d’aqua, et in algun luogo nonn è se no do passa
+         d’aqua; et in questo luogo se trova perle, e diròve chomo i le trova. ‹…› de pizolle
+         e grande, che vano per questo cholfo del mexe d’april fina a mezo mazo, in uno luogo
+         chiamato <term ref="#betala">Betalat</term>. Et entra nel mar quaranta mia, là dove i getano le anchore; et entra nele barche
+         pizolle, et si ronpeno quelle barchete. Onde molti marchadanti chon quelli fano chonpagnia
+         et sì se trovano homeni, zoè che li dà tanto al mexe, zoè l’april infina la mità de
+         mazo, over tanto quanto dura quelle peschaxon. […] Et quando i omeni sono in pizola
+         barcha chon bon pagamento da marchadanti et vano soto aqua ben quatro pasi e zinque,
+         infina sete, e là stano quanto i puol; et quando i sono vegnudi al fondo i trovano
+         chapete, le qualle nui chiamemo “ostrege”; et in queste ostrege el se trova le perle,
+         grosse e pizolle e de tute forme: le qual perle se trova in le charne dele ostrege,
+         sì che a questo modo se peschano le perle in tanta quantità che l’è senza numero;
+         e de queste perle se spande per tuto el mondo»; VB CXLIII 4-7 / VB CXLIII 12 (al netto dello spostamento della pericope che spiega la tecnica di pesca per immersione)
+         «In questo reame se pescha perle grosse molto, le qualle i peschano in questo modo.
+         Ell’è uno cholfo, aprono una issolla assai grandessola, la qualle è apreso la tera
+         ferma dove è de fondo pie’ .X. in .XII. Et dale challende d’aprille fino a meço maço
+         vano a uno luogo i peschadori, che fi chiamato <term ref="#betala">Betarsar</term>, e vano per migia .LX. in mar et sono gran quantità de barche grande e picole con
+         molta giente: le barche picolle portano le ancore delle barche grande a terra e lì
+         peschano. E sòne lie molti marchadanti i qualli fano più conpagnie; e chadauna conpagnia
+         àno molti homeni a soldo i qual fino pagati a raxon de mexe per lavorare. […] I peschadori
+         vano sotto l’aqua fino sul fondo in .IIII°. fin .XII. pasa d’aqua, dove i trovano
+         dele chape fano le perle – le qualle nui apellemo ostrege –, nelle qualle se trova
+         apichate delle perle e prendesene in gran quantità delle qualle quasi tuto el mondo
+         se ne fornise».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

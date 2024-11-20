@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-55-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-55">
+      <note>
+	<p>R si fonda (senza ricalcarne sempre letteralmente il testo) su <ref type="witlink" target="#vb-null-101">VB CI 8-9</ref> «[…] volse sapere chome nomea el chapitano nemicho: foge dito nomea <term ref="#chinsanbaian">Baian, çoè cento ochi</term>.  Odito la regina el nome del capitano, parssege quello esser quel avea dito i astrolegi
+         al segnore el caceria de segnoria et a quello se arendé». La variante <term ref="#chinsanbaian">Chinsanbaian</term> è ricavata da P (vd. la nota a <ref type="witlink" target="#r-ii-55">R II 55 10</ref>). Le varie lezioni che isolano R da VB sono quasi sicuramente da attribuire a Ramusio.
+         Non sembra infatti che altre fonti oltre a VB abbiano contribuito alla costruzione
+         di questa pericope:  <ref type="witlink" target="#p-ii-54">P II 54 7</ref> «[…] Cum audivit autem quod princeps exercitus <term ref="#tartari">Tartarorum</term> vocabatur Baian Chinsay, id est “centum oculi”, defecit per omnia virtus eius […]; principem igitur exercitus
+         <term ref="#tartari">Tartarorum</term> <term ref="#chinsanbaian">Baian</term> advocans eius cognomine cognito regnum et civitatem libere illi obtulit»; <ref type="witlink" target="#v-null-67">V 67 13</ref> «Or adevene che la raina sape che chostui nomeva <term ref="#chinsanbaian">Baian Zento homeni</term>: subito la se arechordò del’astrologia, la qual dixea che uno homo lo qual nomea
+         <term ref="#chinsanbaian">Zento homeni</term> sì li torave el suo’ reame; onde inchontinente se rendé a <term ref="#chinsanbaian">Baian</term>» (vd. <ref type="witlink" target="#f-null-138">F CXXXVIII 12-13</ref> «Or avint qe la raine demande comant avoit a non. Et adonc li dit l’en qu’il estoit
+         apellé <term ref="#chinsanbaian">Baian .C. oilz</term>. Et quant la raine oï qe cestui avoit a non <term ref="#chinsanbaian">.C. oilz</term>, tantost li foi aremenbré de l’astrolomie que disoit que un ome qe avesse .C. oilz
+         dovoit elz tolir lo reingne. Adonc la raine se rendi a <term ref="#chinsanbaian">Baian</term> […]»).</p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

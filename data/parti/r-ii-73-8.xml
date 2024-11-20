@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-73-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-73">
+      <note>
+	<p>Ramusio combina la lezione di P con quella di un altro testimone, che – a giudicare
+         dalla variante <hi rend="italics">immediate </hi>– sembrerebbe essere appartenuto a L: vd. <ref type="witlink" target="#p-ii-67">P II 67 6</ref> «et crudelissimi homines sunt [R «Sono huomini crudelissimi»; ma vd. pure <ref type="witlink" target="#vb-null-120">VB CXX 8</ref> «Questi sono homeni crudellissimi» e <ref type="witlink" target="#l-null-138">L 138 6</ref> «Et sunt crudelissimi hominum»] supra modum. Cum occidunt homines in bellis [R «come
+         uccidono li nimici in battaglia»] sanguinem eorum bibunt et carnes comedunt […] interemptorum
+         enim sanguinem <hi rend="italics">statim</hi> sugunt, <hi rend="italics">deinde</hi> cum delectatione maxima carnes commedunt», [R «<hi rend="italics">immediate</hi> li vogliono bevere il sangue et <hi rend="italics">dapoi</hi> mangiar la carne»; ma vd. pure <ref type="witlink" target="#v-null-78">V 78 4</ref> «e beveno el sangue e <hi rend="italics">po’</hi> manza le charne»; <ref type="witlink" target="#z-null-88-1-16">Z 88 14</ref> «quibus occisis, sanguine‹m› <hi rend="italics">primo</hi> bibunt, et <hi rend="italics">post</hi> carnem edunt»]. Il ricorso alla costruzione col verbo modale («vogliono […] bevere
+         et dapoi mangiar»), d’altro canto, potrebbe essere un riflesso della proposizione
+         finale che si incontra in <ref type="witlink" target="#z-null-88-1-16">Z 88 5</ref> «Et continuo procurant homines occidere ut eorum bibant sanguinem et postmodum carnem
+         edant». </p>
+	<p>La frase di transizione al capitolo successivo (par. 9) ricorre soltanto in <ref type="witlink" target="#z-null-88-1-16">Z 88 16</ref> (come già in <ref type="witlink" target="#f-null-154">F CLIV 9</ref>) e in <ref type="witlink" target="#v-null-78">V 78 5</ref>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

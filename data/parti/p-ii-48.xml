@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-48</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-48">
+    <head>
+      <hi rend="bold">P, II 48</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-48_2_1" n="1"> Post <term ref="#amu">Amu</term>, ad orientalem plagam, ad dietas octo, habetur provincia <term ref="#tholoman">Tholoman</term>. </seg>
+      <seg xml:id="p-ii-48_2_2" n="2"> Subiecta est dominio <term ref="#gran-can">Magni Kaam</term> et linguam propriam habent et ado|rant ydola |59b|. </seg>
+      <seg xml:id="p-ii-48_2_3" n="3"> Ibi sunt viri pulcri pulcreque mulieres coloris tamen bruni. </seg>
+      <seg xml:id="p-ii-48_2_4" n="4"> Civitates
+         ibi multe sunt et castra multa, montes magni et fortes. </seg>
+      <seg xml:id="p-ii-48_2_5" n="5"> Viri armis strenui sunt
+         et probi. </seg>
+      <seg xml:id="p-ii-48_2_6" n="6"> Mortuorum suorum corpora comburunt et ossa in capsa lignea reponunt
+         et in cavernis montium abscondunt, ne ab homine vel a bestia tangi possint. </seg>
+      <seg xml:id="p-ii-48_2_7" n="7"> Aurum
+         ibi est in copia maxima. </seg>
+      <seg xml:id="p-ii-48_2_8" n="8"> Porcellanas yndicas, de quibus dictum est supra, loco
+         sue monete expendunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

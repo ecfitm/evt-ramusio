@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-26</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-26">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 26</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-26_2_1" n="1"> In <term ref="#persia">Persia</term> sunt quam plura regna: primum vero, quod est in principio provincie, dicitur <term ref="#casibin">Casin</term>; secundum, quod est versus meridiem, dicitur <term ref="#curdistan">Curdistan</term>; .3m. dicitur <term ref="#lor">Lor</term>, quartum <term ref="#suolistan">Cielstan</term>, quintum <term ref="#spaan">Instanit</term>, sextum <term ref="#siras">Coraci</term>, septimum <term ref="#soncara">Soncora</term>; octavum <term ref="#timocaim">Tunocham</term>, quod est in exitu sive in fine <term ref="#persia">Persie</term>. </seg>
+      <seg xml:id="l-null-26_2_2" n="2"> Et omnia hec regna sunt versus meridiem preter unum solummodo, videlicet <term ref="#timocaim">Tunocham</term>, quod est prope <term ref="#arbore-secco">Arborem Solis</term>, quam dicimus |5| <term ref="#arbore-secco">Arbor Sicca</term>. </seg>
+      <seg xml:id="l-null-26_2_3" n="3"> In hac provincia nascuntur multi et boni dextrarii, et asini valde pulchri, et bene
+         currentes et bene ambulantes; et mercatores ducunt hos equos et asinos ad <term ref="#chisi">Chischi</term> et ad <term ref="#ormus">Curmosa</term> ‹que› sunt civitates super <term ref="#mare-dindia">mare Indie</term>, et ab inde per mare in <term ref="#india">Indiam</term> portant. </seg>
+      <seg xml:id="l-null-26_2_4" n="4"> Et sunt hee gentes crudeles valde, et omnes tenent legem <term ref="#macometto">Machometi</term>. </seg>
+      <seg xml:id="l-null-26_2_5" n="5"> Et in civitatibus sunt mercatores homines et artiste. Labor‹ant› enim pannos aureos
+         et de serico diversarum manerierum. </seg>
+      <seg xml:id="l-null-26_2_6" n="6"> Et nascitur hic <term ref="#bambagio">bombax</term> in maxima quantitate. </seg>
+      <seg xml:id="l-null-26_2_7" n="7"> ‹Habent› habundanter frumentum, ordeum, milium, pannicium et de omni blado, et vinum,
+         et de omni fructu sat‹is› copiose.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

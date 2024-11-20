@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-1-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-1">
+      <note>
+	<p>La pericope è sostanzialmente impostata su <ref type="witlink" target="#p-i-3">P I 3 1-2</ref> «Cum autem <term ref="#gran-can">Magni Kaam</term> conspectui sunt oblati, ipse rex qui summe benignus erat, eos suscepit alacriter.
+         Inquisivit vero ab eis per multas vices de condicionibus occidentalium regionum, de
+         imperatore romano et de regibus et principibus christianis et qualiter in eorum regnis
+         fuerant iusticia et qualiter in rebus bellicis se haberent; inquisivit etiam diligenter
+         de moribus latinorum, super omnia autem interrogavit diligenter de Papa christianorum
+         et de cultu fidei christiane».</p>
+	<p>La lezione pipiniana è però integrata con tessere desunte da altri modelli: in particolare
+         da VB («percioché mai […] latini» &lt; <ref type="witlink" target="#vb-null-4">VB IV 1</ref> «[…] però che nei suo’ çorni in quelle parte homeni da ponente non era stati […]»;
+         «et della grandezza […] possanza loro» &lt; <ref type="witlink" target="#vb-null-4">VB IV 1 </ref>«[…] e dela grandeça e possança loro […]») e forse da V («gli ricevette allegramente
+         […] honore et festa» &lt; <ref type="witlink" target="#v-null-3">V 3 3</ref> «[…] li rezevete molto aliegramente fazendoli grandissimo onor e grandissima festa
+         […]»).</p>
+	<p>Il passo si snoda, in F, lungo due capitoli: <ref type="witlink" target="#f-null-5">F V</ref> «Et quant mesere Nicolau et mesere Mafeu furent venu au <term ref="#gran-can">Grant Seingnor</term>, il les recevi honorablemente et fait elç grant joie et grant feste. Il a mout grant
+         leesse de lor venue; il les demande de maintes coses: primermant de les emperaors,
+         comant il mantent lor segnorie et lor tere in justice et comant il vont a bataile
+         et tous leur afer. Et aprés lor demande des rois et des princes et d’autres baron»,
+         e <ref type="witlink" target="#f-null-6">F VI 2</ref> «Et aprés lor demande de meser l’apostoille et de tous les fais de le Yglise romane
+         et de tous les costumes des Latin […]».</p>
+	<p>Abbrevia in modo radicale Z 1 14 «Cum quibus profecti sunt, videlicet dominus Nicholaus et Marcus, ad <term ref="#gran-can">Magnum Dominum</term>, qui gratanter et honorate recepit eos».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

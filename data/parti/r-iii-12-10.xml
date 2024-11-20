@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-12-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>La pericope ramusiana è l’esito di un esercizio di tarsia: la prima frase («Le vendono
+         a’ mercatanti che le portano per lo mondo») traduce P III 15 4 «[…] et negotiatoribus vendunt, qui eas per diversas mundi partes deferunt […]» (la
+         pericope si chiude poi con «[…] faciuntque multos credere quod sint homines ita parvi»
+         – il tutto è resa fedele dell’antigrafo VA CXXIX 7-8 «[…] e po’ le mandano per lo mondo a vendere. E fano chreder a molti homeni ch’ele
+         siano homeni chusì pizoli»); le ultime righe sono l’esito della traduzione di  Z 99 32 «Et hec est magna deceptio, quia taliter facti sunt quemadmodum audivistis; quoniam
+         in <term ref="#india">India</term>, neque in aliis partibus magis silvestribus, numquam visi fuerunt homines tam parvi
+         ut illi videntur» (traduzione di F CLXV 16 «[…] e ce est une grant deceverie car il sunt fait en tel mainere com voç avés oï,
+         car en toute <term ref="#india">Yndie</term>, ne en autre pars plus sauvajes, ne furent onques veu nul si peitet homes come celz
+         senblent»).</p>
+	<p>Fra gli altri relatori, V 87 15 spicca per la sua adesione alla lettera di F: «Et questo sono gran ingano, perché
+         i sono sì fati chomo vui avete aldido, perché in <term ref="#india">India</term> né in altre parte salvadege non fono mai vezuto homeni pizoli chomo quelli»; recupera
+         parzialmente la lezione di P L 152 4 «[…] sicque per diversas mundi partes ut lucrentur exportant, asserentes eas esse
+         pigmeos» (sola redazione a parlare esplicitamente di “pigmei”); inventa una dichiarazione
+         autoptica VB CXXXV 9 «[…] per che io afermo in quanti luoghi io son statto mai vidi e mai aldì dire in
+         alchuna parte esser homeni picolli».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

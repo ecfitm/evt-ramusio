@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-42-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-42">
+      <note>
+	<p>R deriva sostanzialmente da una rielaborazione di <ref type="witlink" target="#vb-null-86">VB LXXXVI 9</ref> «El valloroxo et experto chapitano tartaro, visto el pericollo dell’oste sua, feceno
+         tuti smontare a piedi e i cavalli metere nel boscho che al latto aveano […]». La lezione
+         di V (e di F) risulta qui molto diversa da R:<ref type="witlink" target="#v-null-58"> V 58 12</ref> «Or quando i <term ref="#tartari">Tartari</term> veteno questo, molto se † iniro †, et non saveva quello i dovesse far, et manifestamente
+         vedea che i non podea far andar i suo’ chavalli oltra, onde del tuto i se teniano
+         schonfiti; ma ala fine i se portò bene, et diròve a che muodo: quando li <term ref="#tartari">Tartari</term> vete che li suo’ chavalli iera sì smaridi, tuti desmontò da chavalo et messesse entro
+         el boscho nel qualle iera grandi albori […]» (vd.<ref type="witlink" target="#f-null-122"> F CXXII 3-5</ref> «Quant les <term ref="#tartari">Tartarç</term> ont ce veu, il en ont grant ire et ne savoient que il deussent faire, car il voient
+         clerement, se il ne puent mener lor chevaus avant, qe il ont dou tot perdu. Mes il
+         se esproitent mout sajemant, et voç dirai q’il firent. Or sachiés qe les <term ref="#tartari">Tartarç</term>, quant il voit qe lor chevaus estoient si espaontés, il desmontent tuit de lor chevaus
+         et les mistrent dedens le bois et les atachent a les arbres […]»). Il dettaglio finale
+         («ligandogli agl’arbori») parrebbe ricavato da <ref type="witlink" target="#p-ii-42">P II 42 5</ref>, ma non è escluso che in origine figurasse anche in Z1, dato che si incontra pure in F (vd. sopra): «[…] tunc descendentes omnes de equis
+         ligaveru‹n›t eos ad arbores nemoris […]»</p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-38-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-38">
+      <note>
+	<p>Come già nella pericope precedente, Ramusio segue nella prima parte Z, che rispecchia
+         la versione di F, e nella seconda P, dal testo più sintetico:<ref type="witlink" target="#z-null-55"> Z 55 9-10</ref> «Est ibi etiam quidam mons, in quo invenitur quedam maneries lapidum qui nominantur
+         turchenses [R «Vi è similmente un monte, nel quale si trova la minera delle pietre
+         dette turchese»] in maxima quantitate, qui sunt lapides valde pulcri. Sed <term ref="#gran-can">Magnus Can</term> non dimitit aliquem ex ipsis fodere sine verbo» (<ref type="witlink" target="#f-null-116">F CXVI 4</ref> «Et encore voç di qe il hi a encore une montagne en la quel troveroit l’en d’une
+         maineres de peres, qe l’en appelle{s} turquiés, qe sunt mout bielles pieres, en grandisime
+         quantités; mes le <term ref="#gran-can">Grant Sire</term> ne laise traire se non per son commandemant»);<ref type="witlink" target="#p-ii-38"> P II 38 9</ref> «In huius provincie montibus inveniuntur lapides, qui “turchisci” dicuntur, pulcri
+         valde et in copia maxima, quos sine licencia <term ref="#gran-can">Magni Kaam</term> nulli licitum est excavare» [R «che non si lasciano cavar senza il voler del detto
+         <term ref="#gran-can">Gran Can</term>»]. Non emergono indizi, invece, che documentino il contatto di R anche con <ref type="witlink" target="#l-null-95">L 95 3</ref> «Est eciam mons quidam, in quo sunt quidam lapides dicti “turches” in maxima quantitate,
+         quos nemo extrahere ausus est, nisi aliquando forte precipit <term ref="#gran-can">Magnus Canis</term>», o con<ref type="witlink" target="#vb-null-83"> VB LXXXIII 3</ref> «Ène ecian una montagna nella qualle se trova le pietre preciose che se chiamano
+         turchexe, le qualle ecian tute chapitano in man del segnore; e de quelle ne fino vendute
+         a marchadanti segondo la volontade soa». In V il passo è assente.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

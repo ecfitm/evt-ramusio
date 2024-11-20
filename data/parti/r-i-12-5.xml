@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-12-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-12">
+      <note>
+	<p>La pericope è sviluppo formulare caduto nello Z toledano, ma variamente documentato
+         negli altri relatori, più o meno fedeli a<ref type="witlink" target="#f-null-33"> F XXXIII 8</ref> «Et a chief de ceste .VII. jornee, se treuve u‹n› roiame que est apellé <term ref="#chermain">Crerman</term>». <ref type="witlink" target="#l-null-27">L 27 4</ref> «Et in fine harum .7. dietarum invenitur regnum dictum <term ref="#chermain">Cremam</term>» è, nel complesso, il più vicino a R; meno consonanti, tranne che per il poco significativo
+         dato numerico, sono <ref type="witlink" target="#v-null-19">V 19 4</ref> «Et in chapo de oto zornade se trova el reame de <term ref="#chermain">Creimain</term>» e <ref type="witlink" target="#vb-null-21">VB XXI 13</ref> «Chavalchato le .VIII. giornate se trova ‹un reg‹n›ame› chiamato <term ref="#chermain">Creman</term>». A dispetto di un modello del tutto conforme al dettato di F (<ref type="witlink" target="#va-null-20">VA XX 18</ref> «E in chavo de sete zornate se trova un regniame che s’apella <term ref="#chermain">Chrerina</term>»), <ref type="witlink" target="#p-i-20">P I 20 5</ref> sunteggia radicalmente: «Postmodum pervenitur <term ref="#chermain">Crerman</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

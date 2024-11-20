@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-15" n="1">
+    <head>
+      <hi rend="bold">R, I 15</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-15_1_1" n="1"> Della città di <term ref="#ormus">Ormus</term>, che è posta in isola vicina alla terra sopra il <term ref="#mare-dindia">mar dell’India</term>, et della conditione et vento che vi soffia cosí caldo. Cap. 15.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-15_2_1" n="1"> Nel fine della pianura che habbiam detto di sopra, che dura verso mezzodí per cinque
+         giornate, si pervien ad una discesa che dura ben venti miglia, et è via pericolosissima
+         per l’abondanza de’ rubbatori che di continuo assaltano et rubbano quelli che vi passano.
+         </seg>
+      <seg xml:id="r-i-15_2_2" n="2"> Et quando si giunge al fine di questa discesa, si trova un’altra pianura molto bella,
+         che dura di lunghezza per due giornate et chiamasi pianura di <term ref="#ormus">Ormus</term>: ivi sono riviere bellissime et <term ref="#dattalo">dattali</term> infiniti, et trovansi <term ref="#francholini">francholini</term> et papagalli et molti altri uccelli che non s’assomigliano alli nostri. </seg>
+      <seg xml:id="r-i-15_2_3" n="3"> Alla fine si giunge al <term ref="#mare-oceano">mare Oceano</term>, dove, sopra una isola vicina, vi è una città chiamata <term ref="#ormus">Ormus</term>, al porto della qual arrivano tutti i mercatanti di tutte le parti dell’<term ref="#india">India</term> con speciarie, pietre pretiose, perle, panni d’oro et di seda, denti d’elefanti et
+         molte altre mercantie, et qui le vendono a diversi altri mercadanti che le conducono
+         poi per il mondo. </seg>
+      <seg xml:id="r-i-15_2_4" n="4"> La città nel vero è molto mercantesca, et ha città et castelli sotto di sé, et è
+         capo del regno <term ref="#chermain">Chermain</term>; et il signore della città si chiama <term ref="#ruchmedin-achomach">Ruchmedin Achomach</term>, il qual signoreggia |8r| per tirannide, ma ubidisce al re di <term ref="#chermain">Chermain</term>. </seg>
+      <seg xml:id="r-i-15_2_5" n="5"> Et se vi muore alcuno mercatante forestiero, il signor della terra gli tol tutto
+         il suo havere et riponlo nel suo thesoro. </seg>
+      <seg xml:id="r-i-15_2_6" n="6"> La state le genti non habitano nella città, per il gran caldo che è causa di mal
+         aere, ma vanno fuori a’ suoi giardini, presso le rive dell’acque et fiumi, dove con
+         certe graticcie fanno solari sopra l’acque, et quelli da una parte fermano con pali
+         fitti nell’acque et dall’altra parte sopra la riva, et di sopra per difendersi dal
+         sole copreno con le foglie, et vi stanno un certo tempo. </seg>
+      <seg xml:id="r-i-15_2_7" n="7"> Et dall’hora di mezza terza fino mezzodí ogni giorno vien un vento dall’arena cosí
+         estremamente caldo che per il troppo calore vieta all’huomo il respirare, et subito
+         lo soffoca et muore: et da detto vento niuno che si trovi su l’arena può scampare,
+         per la qual cosa, subito che sentono il vento, si mettono nell’acque fin alla barba
+         et vi stanno fin che ’l cessi. [8] Et in testimonio della calidità di detto vento, disse messer Marco che si trovò in
+         quelle parti quando intravenne un caso in questo modo: che, non havendo il signor
+         di <term ref="#ormus">Ormus</term> pagato il tributo al re di <term ref="#chermain">Chermain</term>, pretendendo haverlo al tempo che gli huomini di <term ref="#ormus">Ormus</term> dimoravano fuori della città nella terra ferma, fece ap‹ar›ecchiare mille et seicento
+         cavalli et cinquemila pedoni, i quali mandò per la contrata di <term ref="#reobarle">Reobarle</term> per prenderli alla sprovista. [9] Et cosí un giorno, per essere mal guidati, non potendo arrivare al luogo destinato
+         per la sopravegnente notte, si riposorono in un boscho non molto lontano da <term ref="#ormus">Ormus</term>; et la mattina, volendosi partire, il detto vento gli assaltò et soffocò tutti, di
+         modo che non si trovò alcuno che portasse la nova al suo signore. [10] Questo sapendo gli huomini di <term ref="#ormus">Ormus</term>, acciò che quei corpi morti non infettassero l’aere, andorno per sepelirli, et pigliandoli
+         per le braccia per porli nelle fosse, erano cosí cotti pel grandissimo calor che le
+         braccia si lasciavano dal busto, per il che fu di bisogno far le fosse presso alli
+         corpi et gettarli in quelle.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-36-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>Ramusio traduce alla lettera il testo di Z 53 3 «Et iam fuerunt in ea multi reges divites et potentes». Le affinità di R con le altre
+         redazioni appaiono meno evidenti: <ref type="witlink" target="#p-ii-35">P II 35 2</ref> «[…] habebat autem regem quemdam ditissimum et potentem […]»; V 55 1 «[…] et abitò molti re e gran baroni»; <ref type="witlink" target="#vb-null-80">VB LXXX 1</ref> «[…] et à abudi antigamente molti re de gran possança e valore e famoxi de grandissimi
+         fati» (vd. <ref type="witlink" target="#f-null-113">F CXIII 2</ref> «[…] e mout hi a ja eu grant et riches rois»). L omette il passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

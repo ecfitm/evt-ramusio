@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-17">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 17 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-17_2_1" n="1"> <term ref="#armenia">Armenie</term> sunt due provincie, una magna altera parva. </seg>
+      <seg xml:id="l-null-17_2_2" n="2"> <term ref="#armenia">Parva Armenia</term> habet regem, et est multum fertilis contrata et multi solatii, et pulcrarum venationum
+         tam bestiarum quam avium; sed est male sana provincia. </seg>
+      <seg xml:id="l-null-17_2_3" n="3"> Antiquitus enim nobiles
+         homines fuerunt constantes et fortes, et bonorum morum; sed ad presens nullius sunt
+         bonitatis sed gulosi et bibitores. </seg>
+      <seg xml:id="l-null-17_2_4" n="4"> Et sunt in hac provincia multe civitates et
+         castra, inter quas est civitas dicta <term ref="#giazza">Layas</term>, que est super marinam Syrie; et est civitas magni mercimonii: ad ipsam enim perveniunt
+         mercatores ‹tam de infra terra quam per mare, et omnes mercatores› volentes ire infra
+         terram per partes Orientis assumunt iter suum ab hac civitate.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

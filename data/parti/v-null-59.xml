@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-59</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-59">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 59</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-59_2_1" n="1"> ‹Q›uando el se desende da questa provinzia la qual io ve ò nominado di sopra,
+         el se àno andar una grandissima desmontada, et vanosse do gran zornade; et in queste
+         do zornade non se trova chossa da dir, se no sollamente ch’el se desende in una gran
+         plaza in la qual se fa merchado, in la qual tuti i omeni dela chontrada viene, alguni
+         ‹zorni› nominadi, zoè tre ala domada. </seg>
+      <seg xml:id="v-null-59_2_2" n="2"> E chanbia oro per arzento, e dano uno sazo
+         d’oro per zinque d’arzento; et in quel luogo vieno molti marchadanti d’asè parte,
+         et sì chanbia arzento per horo a quella zente; et questi fano gran guadagno, e la
+         zente de quelle chontrade li porta l’oro. </seg>
+      <seg xml:id="v-null-59_2_3" n="3"> Et nesun non puol andar ale suo’ chaxe
+         per chaxon d’esser danifichadi da quelli, perché el sono forte luogo, et le suo’ chaxe
+         sono in luogo che nesun non va mai se no lor solli. </seg>
+      <seg xml:id="v-null-59_2_4" n="4"> Et quando el se àno desmontado
+         ’ste do zornade el se trova una provinzia che sono verso mezodì in le chonfine del’<term ref="#india">India</term>, chiamata <term ref="#mien">Mellicha</term>. </seg>
+      <seg xml:id="v-null-59_2_5" n="5"> Et vasse per quindexe zornade per luogi molti desuxadi e per boschi entro li
+         qualli sono de molti lionfanti, et li omeni àno diversi animalli molto salvadegi.
+         </seg>
+      <seg xml:id="v-null-59_2_6" n="6"> Or de questi boschi lasseremo et diremo de altre nobel chosse. </seg>
+      <seg xml:id="v-null-59_2_7" n="7"> Or quando el
+         se àno passado queste quindexe zornade le qualle io ve ò dito, el se trova una zitade
+         chiamata <term ref="#mien">Vuen</term> che sono granda e nobelle, et àno de real zente la qualle <term ref="#idolatri">adora le idolle</term>; et àno loquella per sí, et dè soto la signoria del <term ref="#gran-can">Gran Chan</term>; et questa zitade àno uno re nobelle e richo, chomo ve narerò segondo chomo me fo
+         dito. </seg>
+      <seg xml:id="v-null-59_2_8" n="8"> Or questo |74v| re quando el vene a morte chomandò che sopra la sua sepoltura
+         fosse fato duo chastelli, uno deli qual fosse d’oro, l’altro d’arzento. [9] Uno de
+         questi chastelli iera de bella pietra, et poi de sopra iera messo l’oro, groso uno
+         dedo, ed era tuta la tore choverta ch’el non se vedea se no horo; l’alteza de quella
+         tore iera passa diexe e grossa quatro, et de sopra iera tuta tonda; et intorno el
+         dito tondo iera pien de chanpanelle d’oro, le qual senpre sonava ogni fiada che ’l
+         vento feriva in quelle; et l’altra tore iera d’arzento et iera fata simelle a quela
+         d’oro, sì de longeza chomo di largeza. [10] Et questo signor feze far queste per grandeza
+         e per l’anima soa, onde queste erano dele più belle tore del mondo. [11] Or questo
+         pervene ale orechie del <term ref="#gran-can">Gran Chan</term>, dela beleza de ’ste tore, et folli dito per alguni dela so chorte chiamati “ostorini”,
+         zoè “chuxatori”, [12] Or advene che ’l <term ref="#gran-can">Gran Chan</term> chomandò a questi et disse ch’el voleva che i andasse a questa provinzia chon uno
+         chapetanio, et quelli disse che volentiera i anderano, et messesse in via chon quel
+         chapetanio chon la zente che i dè el <term ref="#gran-can">Gran Chan</term>; onde questi andò a questa provinzia. [13] Et essendo zonti a questa nobel zità trovono
+         queste do tore nobelle e riche delle qual molto se meraveiò, et inchontinente mandò
+         a dire al <term ref="#gran-can">Gran Chan</term> del’esser e dela richeza de ’ste do tore, et se li piaxeva che quelle i vastasse
+         et mandasselli l’oro e l’arzento. [14] Et el <term ref="#gran-can">Gran Chan</term>, el qualle saveva che quel re l’avea fate per l’anema soa, e che de quel re se fesse
+         memoria dapuo’ la morte, disse ch’el non volleva che le fosse vastade, ma volleva
+         |75r| che le stesse chomo quel re l’avea ordenado: et questo nonn è da meraveiar,
+         perché el <term ref="#gran-can">Gran Tartaro</term> non tocha alguna chossa de algun morto, over alguna chossa de algun, † dato fosse
+         fin † de pestelenzia, né non vol algun trabuto de questi. [15] In questa provinzia
+         sono molti buò salvadegi et tute maniere de bestiame in gran abondanzia. [16] Or lasseremo
+         de questa provinzia e diremo de altre chosse.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

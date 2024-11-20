@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-19-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-19">
+      <note>
+	<p>La prima parte della pericope («La signoria […] <term ref="#gran-can">Gran Can</term>») è ignota al resto della tradizione poliana. La seconda parte («et oltra […] sale»)
+         trova invece riscontro in tutte le redazioni: <ref type="witlink" target="#l-null-79">L 79 1</ref> «Deputantur per <term ref="#gran-can">Magnum Canem</term> .XII. barones ‹maximi›, quibus per ipsum data est ‹omnis› potestas regendi totum
+         imperium. Et hii manent in predicta civitate de <term ref="#cambalu">Cambaluch</term>, in maximo quodam pallatio in quo deputatus est locus iuris unicuique provincie sub
+         imperio existenti, que sunt .34.»; <ref type="witlink" target="#p-ii-22">P II 22 1</ref> «Habet <term ref="#gran-can">Magnus Kaam</term> barones .XII. qui .XXIIII. provinciis sunt prefecti, quorum est officium eligere
+         duos rectores et officiales in provinciis memoratis et earum civitatibus […]» / <ref type="witlink" target="#p-ii-22">P II 22 4</ref> «Horum habitacio in quodam palatio magno est in civitate <term ref="#cambalu">Cambalu</term> eorum officio deputato, ubi sunt pro eis et officialibus ac ministris eorum aule,
+         camere et cetere pro eorum comodo officine […]»; <ref type="witlink" target="#v-null-46">V 46 1</ref> «‹V›oio che sapiate che ’l <term ref="#gran-can">Gran Signor</term> sì aleze dodexe gran baroni savi e prudenti, alli qualli ello chomete che lor proveda
+         de tute quelle chosse che siano nezesarie a vintiquatromilia provinzie e darne al
+         suo’ muodo; et ordena inprima a ’sti dodexe baroni stia in lo palazo lo qual sono
+         dentro dela zità de <term ref="#cambalu">Chanbalun</term>, lo qual sono molto bello e grando, et àno molte salle e chamere»; <ref type="witlink" target="#vb-null-68">VB LXVIII 19</ref> «L’ordene del recimento suo è questo: che ’l segnor <term ref="#gran-can">Gran Can</term> à eleto .XII. eleti e savi homeni e baroni i qualli se redugeno insieme in uno grande
+         e bello pallaço […]» / <ref type="witlink" target="#vb-null-68">VB LXVIII 20</ref> «Questo sono deputati a proveder sopra le .XXXIIII. provincie» (vd. <ref type="witlink" target="#f-null-96">F XCVI 2-3</ref> «Or sachiés voiremant qe le <term ref="#gran-can">Grant Sire</term> a esleu .XII. grandisme baronz, as quelz hi a comeü qu’il soient sor tutes les chouses
+         beçognables qe abesognent en .XXXIIII. provences; et vos dirai lor mainiere et lor
+         establiment. Je voç di tout primeremant qe cesti .XII. baronz demorent en un palais
+         dedens la ville de <term ref="#cambalu">Canbalu</term>, qe est mout grant et biaus, et hi a plosors sales et maisonz […]»).</p>
+	<p>La versione che maggiormente si avvicina al testo di R è V (vd. R «tutte le cose che
+         sono necessarie», V «de tute quelle chosse che siano nezesarie»; R «molte camere et
+         sale», V «molte salle e chamere»). Tali varianti, tuttavia, si ritrovano perlopiù
+         anche in F, per cui non è escluso che esse figurassero originariamente anche nell’esemplare
+         ramusiano appartenente alla famiglia Z, il perduto Z1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

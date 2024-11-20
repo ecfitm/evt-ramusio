@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-39-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>Solo <ref type="witlink" target="#p-iii-43-1">P III 43 3</ref> presenta l’ordine “Saraceni (un segno)-Giudei (due segni)” proprio di R: «Saraceni
+         vero huius provincie signum a fronte habent usque ad nasi medium; sunt in ipsa provincia
+         Iudei multi, qui cum ignito ferro signati et cauteriati sunt in utraque maxilla».
+         Pipino ha innovato una serie che nella tradizione segue stabilmente l’ordine decrescente
+         delle scarnificazioni: VA CLI 4-5 «Anchora è in la provinzia zudei che portano do segni, zioè uno su zaschuna galta.
+         E i saraini de questa provinzia àno uno segnio dala fronte fina a mezo el naxo»; F CXCII 3 «Et encore voç di que il hi a juif, et cesti juif ont .II. seingne, ce est da cascune
+         goe un. E les saracinz ont un seingne tant solamant, ce est dou front a demi le{s}
+         nes»; Z 126 6-7 «Sunt etiam ibi iudei qui habent duo signa, videlicet ad genas. Et saraceni habent
+         solummodo signum unum, videlicet in fronte usque ad dimidium nasi»; L 180 3 «Sunt eciam quam plures Iudei qui similia ferunt in faciebus signalia, tamen duo,
+         unum videlicet in qualibet maxillarum. Sarraceni vero uno solummodo simili decorantur
+         signo, quod in media fronte existens usque ad medium tendit nasum»; V 108 4 «Et i Zudei àno do segni ale galte, et i Saraini àno solamente uno segno in fronte
+         infina al mezo del naxo»; VB CLXIII 5 «Sono ecian in quelle parte çudie, i qual solo àno .II. segni, uno per galta, e lli
+         saracini solo àno 1° segno sopra el fronte: e tuti i lli fano con el fero caldo».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

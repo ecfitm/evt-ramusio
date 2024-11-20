@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-16-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-16">
+      <note>
+	<p>Le informazioni fornite qui da R si ritrovano, simili per forma e sostanza, in <ref type="witlink" target="#f-null-36">F XXXVI 14</ref> «Les nes ont un arbres et une voilles et un timon, et ne unt cuverte, mes, quant
+         il les ont chargés, il couvrent la mercandies con cuir, et desor la merchandie, puis
+         qu’i l’ont coverte, hi metent les cavaus qui portent en <term ref="#india">Yndie</term> a vendre». Coerenti con F sono <ref type="witlink" target="#v-null-20">V 20 25</ref> («[…] et queste suo’ nave àno uno alboro e una vela e uno timon e nonn à choverta,
+         et quando i le charga de marchadantie fano la choverta de chuorame, e puo’ mete queli
+         chavali suxo lo chuorame, queli che lor porta d’<term ref="#india">India</term> per vender») e <ref type="witlink" target="#vb-null-22">VB XXII 34</ref> («[…] sono nave discoperte e chargo i àno; quelle i chopreno le marchadantie de chuori
+         e po’ de sopra si metono et chargano de’ chavalli e portano in <term ref="#india">India</term> dove bene i se vendeno»); <ref type="witlink" target="#l-null-30">L 30 7</ref> fornisce una sintesi («Et habent hee naves arborem unam, et velum et temonem unum,
+         et carent coopertura: cohoperiunt enim mercimonia coriis animalium»), mentre la lezione
+         dello Z di Toledo risulta ampiamente scorciata (Z 14 10 «Utuntur uno albere et ‹habent› unum amplustre»).</p>
+	<p>Ramusio sembra avere attinto a <ref type="witlink" target="#p-i-23">P I 23 9</ref> «[…] Navis unicam habet arborem, unum velum unumque temonem, nec habet nisi unicam
+         cooperturam […] Postquam vero in navi composuerunt onera cooperiunt ea coriis, super
+         que ponunt equos quos in <term ref="#india">Indiam</term> deferunt […]»: lo suggeriscono una spiccata prossimità formale e, soprattutto, l’accordo
+         dei due testi in quello che pare un errore congiuntivo originato, a monte, da una
+         non precisa traduzione del modello francoit. da parte dell’estensore di VA: «nec habet
+         nisi unicam cooperturam» P (&lt; <ref type="witlink" target="#va-null-23">VA XXIII 14</ref> «Le nave à solamente un arboro e una vela e uno timon, e coverta») / «ha [...] una
+         coperta» R vs «<hi rend="italics">ne</hi> unt cuverte» F <hi rend="italics">et alii</hi>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

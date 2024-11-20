@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-38-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-38">
+      <note>
+	<p>R si attiene a <ref type="witlink" target="#z-null-55">Z 55 34-35</ref> «Nascitur ibi çinciber et canula habundanter. Nascuntur et alie species multe, de
+         quibus ad nostras partes alique non feruntur» (Z, tranne che <hi rend="italics">in fine</hi>, rispecchia <ref type="witlink" target="#f-null-116">F CXVI 14</ref> «Il ont encore gengibre en abundance et cannelle ausint, et d’autres espices aseç
+         qe ne vienent unques en nostre contree, et por ce ne fait a mentovoir»).</p>
+	<p>Non si danno indizi di contatti di R con L e P, che tramandano un testo sostanzialmente
+         analogo a Z, e con V e VB, che recano invece delle versioni abbreviate: <ref type="witlink" target="#l-null-95">L 95 9</ref> «Habent eciam zinziber et cinamum in habundantia, et multas alias bonas species nobis
+         ignotas que numquam in partibus nostris apportantur»; <ref type="witlink" target="#p-ii-38">P II 38 8</ref> «[…] ibi est çinçimber habundanter valde similiter et synamomum, alieque species
+         multe aromatice ibi sunt que ad regiones nostras non deferuntur»;<ref type="witlink" target="#v-null-56"> V 56 9</ref> «[…] ed è molte spezie in gran quantitade» / <ref type="witlink" target="#v-null-56">V 56 11</ref> «[…] et anche sono gran abondanzia de chanela»; <ref type="witlink" target="#vb-null-82">VB LXXXII 15</ref> «Naschono ecian çençero assai et ancho chanella in gran quantità et alltre specie».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

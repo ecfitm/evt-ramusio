@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-76</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Nei parr. 76-77 R si allontana notevolmente dalla lezione delle sue fonti, ivi compreso
+         Z, che si mostra in sostanza affine a F: <ref type="witlink" target="#l-null-130">L 130 3</ref> «In medio huius circuitus loco est maximum et nobile pallacium per to‹tum› aureis
+         pertractum scripturis similiter et picturis; in quo sunt quam plures sale ubi possent
+         plus quam .Xm. hominum commedere, et camere bene .M.»; <ref type="witlink" target="#p-ii-64">P II 64 26</ref> «In medio autem interioris spacii palatium pulcherrimum est et maius quod sit in
+         mundo: habet enim aulas .XX. magnitudinis eiusdem ‹omnes›, in quarum qualibet comederent
+         simul .X. milia hominum in multa commoditate et debita congruitate cunctis discumbentibus
+         collocatis; sunt autem aule depicte et deaurate pulcherrimo opere. In ipso etiam palacio
+         sunt camere mille aut circa»; <ref type="witlink" target="#vb-null-114">VB CXIV 36-38</ref> «Possa è el palasio nel qual v’è una salla di tanta grandeça che aconçamente ne mangia
+         .Xm. persone; la qual tutta è depinta e storiata con loro figure et altri lavori dorati
+         de grandissima magnificencia, per modo che entro questa salla non se vede muraia ma
+         solo tuto choperto e lavorato de figure e lavori de oro nobelisimi. Olltra la dita
+         salla n’è alltre .XX. salle magne e grande, tutte depinte e llavorate, dorate e magne
+         e belle. Àno tante chamere et altre stancie tutte adornate e belle ch’è cossa incredibelle,
+         grandi hedefiçii e magnissime cosse»; <ref type="witlink" target="#z-null-85">Z 85 54-57</ref> «In eo est quedam magna salla magistra, in qua simul discumberent multe gentes. Sala
+         ista depicta est tota aureis picturis, ubi sunt ystorie diverse, bestie, aves, milites
+         et domine cum multis mirabilibus; quod est pulcer intuitus ad videndum, quoniam in
+         toto muro et omnibus coperturis, non posunt videri nisi solummodo ystorie colorate
+         auro et aliis coloribus delectabilibus et pulcris. Palatium istud multas habet salas
+         omnes spatiosas et pulcras, depictas ad aurum et subtiliter laboratas. Habet insuper
+         cameras bene mille; et est mirabile quid esse istius palatii» (vd. <ref type="witlink" target="#f-null-151">F CLI 30-31</ref> «Et, eu mileu, est le palais mout grandissme et biaus. Il a une si gran sale et si
+         belle, qe grandisme quantité des jens hi poroient demorer et menjuere a table. La
+         sale est toute portraite et pointe a penture d’or, et hi a maintes estoires et maintes
+         bestes et hosiaus et chevalers et dames, et a maintes mervoilles. Il est mout bielle
+         viste a garder, car en toutes les murs et en toutes covreoure ne poroit l’en veoir
+         che pintures a or. Et que voç en diroie? Sachiés qe je ne vos poroie deviser la gran
+         nobelité de cesti palais, mes je voç en dirai brefmant et sommeemant tout la virité.
+         ‹Sachiés› de voir qe cest palais a .XX. sales, toutes d’une grant et d’un paroil;
+         et sunt bien si grant qe .Xm. homes hi poroient menuier a table aaisemant; et sunt toute pointe a ouvre d’or mout
+         noblemant. Et si voç di qe ceste palais ha bien .M. canbres, ce sunt maison bielles
+         et grant, e de dormir et de mengier. Les frut et les pesciere vos ai contés»). V omette
+         interamente il passo. L’informazione secondo cui il palazzo potrebbe ospitare un banchetto
+         di diecimila persone (che Ramusio recupera nel par. 77) manca nel codice Zelada, ma
+         non si può escludere che la fonte di R affine a Z presentasse la lezione originale.</p>
+	<p>Non è possibile stabilire se Ramusio abbia volutamente alterato la lezione dei suoi
+         modelli, oppure abbia attinto le informazioni di queste pericopi da testimonianze
+         esterne alla tradizione poliana.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

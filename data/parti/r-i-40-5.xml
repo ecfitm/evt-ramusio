@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-40-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-40">
+      <note>
+	<p>La pericope rispecchia in contenuti e struttura <ref type="witlink" target="#f-null-62">F LXII 7</ref> «Et en ceste cité prant la viande por .XL. jornee, car sachiés que quant l’en s’em
+         part de cest cité de <term ref="#ezina">Eçina</term>, il chevauche par un deçert por tramontaine .XL. jornee qe ne i a habitasion ne erberges,
+         ne ne i demorent jens for l’estee es valés et en montagnes», e mostra quache notevole
+         tangenza lessicale e sintattica con la pur ridotta versione toledana (vd. <ref type="witlink" target="#z-null-37">Z 37 7</ref> «In hac civitate transeuntes viatores victualia pro .XL. diebus asumunt, quia transeunt
+         per quoddam desertum .XL. dietis ubi nulla habitatio invenitur»).</p>
+	<p>I contatti lessicali tra R e Z, la prossimità F/R e il contesto di un capitolo desunto
+         pressoché interamente da Z, fanno supporre che anche questa pericope derivi dallo
+         Z competo (Z1) a disposizione di Ramusio.</p>
+	<p>Prossimi, come R, al dettato di F sono anche <ref type="witlink" target="#p-i-50">P I 50 3</ref> («In hac civitate preparant sibi victualia viatores et mercatores pro .XL. diebus
+         si volunt transire desertum quod ibi est ad aquilonem, per quod transitur .XL. diebus:
+         nulla enim est ibi habitacio nisi in montibus et in aliquibus vallibus, ubi habitant
+         aliqui homines in estate»), e, con qualche minima sfrondatura, <ref type="witlink" target="#vb-null-47">VB XLVII 1-2</ref> («‹Q›uando se parte de <term ref="#ezina">Ceneda</term>, citade valoroxa, convense tuor vituallia per dì .XL. Et chavalchasi per tramontana
+         giornate .XL. che non se trova abitaciun alchuna, ma sí in alchuna parte sula montagna
+         ch’è abitada»: la consueta storpiatura del toponimo orientale incrocia qui, curiosamente,
+         il nome di Ceneda, fiorente borgo medievale del contado trevigiano). </p>
+	<p>Riduce ulteriormente il bagaglio informativo, eliminando il dettaglio sul rifornimento
+         di provviste, <ref type="witlink" target="#l-null-57">L 57 4</ref> «Et ab hac civitate <term ref="#ezina">Eçina</term> versus septemtrionem itur .40. dietis per desertum quoddam, per valles et montes,
+         ubi nulla invenitur habitatio: nulla enim gens ibi manet nisi forte estivis temporibus».
+         La lezione di <ref type="witlink" target="#v-null-34">V 34 4-5</ref>, del tutto eccentrica nella prima parte della pericope («et vieno […] gran dexerto»),
+         dipende probabilmente da un grossolano fraintendimento della fonte, o presuppone comunque
+         una fonte guasta: «[…] et vieno molti marchadanti lutani et fornisse questa de tute
+         vituarie; et sono ben quaranta zornade lutan, ed è uno gran dexerto, sì che ognuno
+         se chonvien fornir a questa zitade. E partandosse da ’sta zitade el se chavalcha per
+         tramontana per uno dexerto ben quaranta zornade che non se trova abitazion alguna,
+         et molte zente stano per li monti e vale […]». Con tutto ciò, la versione veneta potrebbe
+         aver giocato un ruolo nella tessitura della pericope: la tessera «partendosi da quella
+         verso tramontana» è infatti assai vicina all’omologo sviluppo di V «partandosse da
+         ’sta zitade el se chavalcha per tramontana», dal quale potrebbe discendere, se non
+         deriva da Z1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

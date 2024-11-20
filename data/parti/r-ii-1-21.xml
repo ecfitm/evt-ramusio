@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-1-21</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>Ramusio combina la lezione di almeno due fonti, P e VB. La prima parte («Tirate che
+         ebbero […] ferrate») riflette chiaramente <ref type="witlink" target="#p-ii-4">P II 4 6</ref> «[…] quibus effusis cum gladiis et lanceis et fustibus et clavis pugnare ceperunt».
+         Nelle altre redazioni tale dettaglio suona diverso:  <ref type="witlink" target="#v-null-40">V 40 11</ref> «[…] chon archi, spade, lanze e dardi, e gran parte dî pedoni del <term ref="#gran-can">Gran Chan</term> avea balestre et altre arme da ofender […]»; <ref type="witlink" target="#vb-null-67">VB LXVII 17</ref> «[…] dapoi con le mace nervate però che la cente da chavallo non portano lança ma
+         sí i pedoni […]» (vd. <ref type="witlink" target="#f-null-78">F LXXVIII 12</ref> «[…] con ars et con espee et con macque et pou de lances, mes les homes a piés aveient
+         bien abalestre et autre armaüres asseç»).</p>
+	<p>Nella parte centrale («et fu tanta […] mezzogiorno»), R dipende prevalentemente da
+         <ref type="witlink" target="#vb-null-67">VB LXVII 18</ref> «[…] con tanta ucision et sparcimento di sangue, con tanta parità de vigore, che
+         la fortuna per longissimo spacio indeterminata stete averso qual oste benigna la se
+         dovesse volgere […]». I dettagli che non figurano in VB devono essere stati ricavati
+         da un’altra fonte: <ref type="witlink" target="#p-ii-4">P II 4 8</ref> «A mane autem usque ad meridiem commissum est prelium et multi ex utroque preliante
+         exercitu perierunt […]»;<ref type="witlink" target="#v-null-40"> V 40 12</ref> «[…] et veramente questa fono la più dura e pericholoxa bataia che fosse mai; et
+         questa bataia durò da doman fina mezozorno […]» (<ref type="witlink" target="#f-null-78">F LXXVIII 16-17</ref> «Il hi morurent tant homes et d’une part et d’autre qe ce estoit mervoille a veoir.
+         Elle dure, ceste meslee, dou mai{n}tin jusque a midi, mes au dereain venqui la bataille
+         le <term ref="#gran-can">Grant Kaan</term>»).</p>
+	<p>Le informazioni contenute nella parte finale («perché la benivolenza […] le spalle»)
+         non trovano riscontro in altre testimonianze poliane. <ref type="witlink" target="#vb-null-67">VB LXVII 18 </ref>riporta qui una digressione su <term ref="#naiam">Naiam</term>, che però risulta molto diversa dal passo che si legge in R: «[…] <term ref="#naiam">Naian</term> non lasando algun uficio de bon capitano, discorendo per tuto l’oste, presentandosi
+         dove el pericolo era maore, confortando, pregando la constancia del veril conbatare
+         ‹…›.». L omette questa parte. </p>
+	<p>In Z manca l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

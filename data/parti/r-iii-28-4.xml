@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-28-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-28">
+      <note>
+	<p>«grandi e piccioli» è dittologia attestata solo da P III 34 5 «Ducunt in mare secum uxores et filios magnos et parvos et tota estate in mari sunt»
+         (esito della traduzione di VA CXLIV 5 «Quelli corsari menano le moier e gli figlioli con lor, grandi e pizoli, e stano
+         tuta l’instade in corsso»). VA rielabora lievemente F CLXXXII 4 «Et si vos di qe il moinent con eles lor femes et lor enfanz peitit, et tute l’estee
+         demorent en cors e molt font grant domajes as mercant»; il passo corrispondente in
+         <ref type="witlink" target="#z-null-116">Z 116 5</ref> è una versione letterale: «Et secum ducunt uxores eorum et filios parvulos, et tota
+         estate permanent in cursu, dapnum maximum mercatoribus et navigantibus inferendo».
+         Abbreviano il contenuto informativo V 99 3 «[…] et duxeno chon loro le moier e i fioli; et tuto l’instade stano in chorso […]»
+         e VB CLII 4-5 «[…] e la maor parte de quelli menano siego le loro mogie e fiolli. Tuto l’instade
+         demorano in chorsso e fano gran dano a’ marchadanti». Su L 169 2 vedi la nota al par. 3.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

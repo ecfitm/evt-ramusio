@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-13">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-13_1_1" n="1"> <term ref="#zorzania">‹G›iorgies</term> si è una provincia la qual fi signoregiata da uno re el qual per ogni tenpo fi chiamato
+         <term ref="#david">David Melich</term>, che vien a dir in nostra lengua <term ref="#david">Davit re</term>; et è sotoposto al <term ref="#tartari">Tartaro</term>. </seg>
+      <seg xml:id="vb-null-13_1_2" n="2"> Et dicono che antigamente quel re che naseva in quella provincia naseva con
+         un segno d’agnello sulla spalla destra. </seg>
+      <seg xml:id="vb-null-13_1_3" n="3"> Sono bei homeni et valenti e boni arcieri
+         et boni conbatatori in bataia. </seg>
+      <seg xml:id="vb-null-13_1_4" n="4"> Sono cristiani griexi; portano i chavelli churti chome chierexi. </seg>
+      <seg xml:id="vb-null-13_1_5" n="5"> Questa è la provincia che fi scrito
+         che <term ref="#alessandro">Allixandro</term> non poté pasar quando el volse andar ver ponente, però che la via è streta et dubioxa
+         – che da uno ladi è el mar et dal’altro le montagne – e lla via che roman fra el mar
+         e le montagne è molto streta, et dura questa stretura .CIIII°. lige, sì che pocha
+         giente tegniria el passo a tuto el mondo: però non poté <term ref="#alessandro">Allixandro</term> pasare. </seg>
+      <seg xml:id="vb-null-13_1_6" n="6"> E fece lì fare una tore in gran forteça açò quelle giente non podesse
+         pasare de qui, chome lui non podeva andare olltra, et chiamase la <term ref="#porta-di-ferro">Tore del Fero</term>. </seg>
+      <seg xml:id="vb-null-13_1_7" n="7"> Et questo è dove se dise che <term ref="#alessandro">Allexandro</term> serò i <term ref="#tartari">Tartari</term> fra do montagne; ma non fono <term ref="#tartari">Tartari</term>, ançi fono Chuimani. </seg>
+      <seg xml:id="vb-null-13_1_8" n="8"> È abontantissimo paexe: lavorasene drapi de seda et de oro in gran quantità;
+         viveno de marchadantie. [9] El paexe è molto montagnoxo con stretissimi passi; trovase
+         boni ostori. [10] Per la streteça di pasi i <term ref="#tartari">Tartari</term> non poté intrar né segnoriçar salvo fino a uno monestier de done che se chiama <term ref="#san-lunardo">San Bernardo</term>, el qual fi circondado da uno lago che ese de una montagna, nel qual fi dito essere
+         questa cossa mirabelle: che nel dito lago mai non se trova |231v| pese se non nel
+         tenpo dela quaressema, çoè fina el dì del sabato santo; e più holtra per algun modo
+         non ne troveresti pese alchuno. [11] Et apresso la montagna dove esse el lago che
+         circonda la chiexia dita, ne è un mare che volgie mia .VIIc. e fi dito el <term ref="#abbacu">Mar de Ierusalen</term> et è longi dal mare giornate .XII.; nel qual mare el fiume d’Eufrates ne mete chapo:
+         è circhondato da molte montagne e çà fo navegato per Gienoexi. [12] Òve narato dele
+         chonfine del’Arminia versso la tramontana; ora se volgieremo a dire dele chonfine fra ostro e levante.
+         </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

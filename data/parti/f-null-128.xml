@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-128</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-128">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXXVIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-128_1_1" n="1"> Ci devise de la provence de <term ref="#tholoman">Toloman</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-128_2_1" n="1"> <term ref="#tholoman">Toloman</term> est une provence ver levant. Les jens sunt <term ref="#idolatri">ydules</term> et ont langajes por elz, et sunt au Grant Chan. Il sunt mult belles jens et nesunt |58d| mie bien blances, mes brunz. Il sunt bien
+         homes d’armes. </seg>
+      <seg xml:id="f-null-128_2_2" n="2"> Il ont cités asseç; mes chastiaus ont il grant quantité en grandismes
+         montagnes et fortreses. </seg>
+      <seg xml:id="f-null-128_2_3" n="3"> Et quant il morent, il font ardoir les cors, et les oses
+         que remanent, qe ne se poent ardoir, il le prennent e le metent en archete peitete,
+         puis les portent en grant montagnes et autes et le metent en grant cavernes pendue
+         en tel mainere qe homes ne bestes les poit tocher. </seg>
+      <seg xml:id="f-null-128_2_4" n="4"> Il hi se treuve or asez. </seg>
+      <seg xml:id="f-null-128_2_5" n="5">
+         La monoie qu’il espendent a menue est de porcelaine, en tel mainere com je voç ai
+         contés. Et ausint toutes cestes provences, ce est <term ref="#bangala">Bangala</term> et <term ref="#cangigu">Caugigu</term> et <term ref="#amu">Aniu</term>, espendent or et porcelaine. </seg>
+      <seg xml:id="f-null-128_2_6" n="6"> Il hi a mercheanz auques, mes, celz qe i sunt, ‹sunt›
+         mout riches et portent mout en mercandies. </seg>
+      <seg xml:id="f-null-128_2_7" n="7"> Il vivent de chars et de lait et de
+         ris. ‹Il ne ont vin de vigne, mes le font de ris› e d’espieces moult buen. </seg>
+    </p>
+    <p n="3"/>
+  </div>
+</body>
+</text>
+     </TEI>

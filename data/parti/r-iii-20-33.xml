@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-33</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Ramusio rielabora <ref type="witlink" target="#z-null-107">Z 107 97</ref> «Iste vero gentes ad prelium vadunt cum lanceis et clipeis, et sunt nude; et non
+         sunt valentes neque probe, sed sunt viles et tristes» (versione letterale di F CLXXIII 41 «Encore vos di qe ceste jens vont en bataille cun lance et escu, e vont tuit nu,
+         e ne sunt mie vailanz ne prodonmes, mes sunt vi{e}l jens e caitivi» –  come accade di frequente, a F aderisce quasi letteralmente V 91 40 «Questa zente vano in bataia chon lanze e schudi, et sono nudi; et non sono valenti,
+         ma sono vili e tristi»). P III 25 2 presenta in forma diversa le medesime informazioni: «Pro armis parum valent aut nichil;
+         quando autem habent ad bella procedere, armis aut vestibus non utuntur, sed solum
+         secum deferunt scuta et lanceas» (il modello di Pipino doveva essere più ricco del
+         quattrocentesco VA3: VA CXXXVII 45 «E quando i omeni de questa contrà vano a bataia, i non se vesteno per ziò, e sì
+         non porta arme ‹se non lanze e scuti›»). Riordina parzialmente le informazioni VB CXLIII 47 «Quando vano in bataia vano nudi e solo porta 1° schudo e lla lança; sono vilisima
+         giente»; L 161 25 si limita a riferire i dati materiali, sopprimendo il giudizio di valore: «In exercitu
+         vero totaliter nudi vadunt, lancea tamen cum scuto muniti».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>La pericope deriva dalla collazione di almeno due testimoni. Il testo-base è stato
+         fornito verosimilmente da un esemplare che recava una versione affine a quella di
+         V, ma risultava più prossimo di questo alla lezione di F: <ref type="witlink" target="#v-null-44">V 44 12</ref> «[…] et le porte de fuora sono choverte de pello de lion [R «sono coperte di pelli
+         di leoni»], et sono vergade negre e bianche e rosse [R «vergate di verghe bianche,
+         nere et rosse»], et sono sì ben ordenadamente chonzade che vento ní piozia non li
+         puol nuoxer; e dale parte dentro [R «et dalla parte di dentro»] sono tute vestide
+         [R «fodrate»] de pello d’armelini e de zebelini, li qualli sono tuti de bel cholor
+         e de gran priexio, più de tute le altre pelle che se trova; et sono de gran vaiuta
+         che s’el sono tanti zebelini che fodrasse una vesta vallerave doamilia bisanti d’oro
+         siando perfeti; et siando chomunal vallerave mille: et li <term ref="#tartari">Tartari</term> chiama questi re dele pelle, et sono grandi chomo una faina»; <ref type="witlink" target="#f-null-93">F XCIII 27-28</ref> «[…] puis sunt dehors toutes coverte de cuir de lionz mout biaus, car il sunt tuit
+         vergiés de noir et de blanc et de vermoil. Il sunt si bien ordiné que [R «cosí ben
+         ordinate che»] vent ne pluie ne i poient nuire ne fer doumajes. Et dedens sunt toutes
+         d’armines et de jerbelin: ce sunt andeus les plus belles pennes et les plus riches
+         et de greingnor vailance [R «di maggior valuta»] que pennes que soient, mes bien est
+         il voir que la pelle de gebbeline, tant qe soit a une robe d’ome, vaut bien la fin
+         .IIm. beçant d’or, mes les comunel vaut .M. beçant; et l’apellent les <term ref="#tartari">Tartarz</term> le{s} roi des pelames, et sunt de la grant [R «della grandezza»] d’une faÿne […]».
+         L’altro esemplare da cui Ramusio ha attinto è <ref type="witlink" target="#p-ii-20">P II 20 3-5</ref> (con un testo rimaneggiato in più punti e non sempre corretto)  «[…] exterius cooperte
+         sunt undique pellibus leonum varii coloris, albi scilicet et nigri et rubei, qui colores
+         naturales sunt, multi enim sic colorati habentur in regionibus illis; vento autem
+         aut pluvia ledi non possunt tentoria, pro eo quod sunt tam solido corio cooperta;
+         intus vero pannus aularum et camere coopertus [R «coperte»] est pellibus çambellinorum
+         et hermelinorum, que sunt nobilissime pelles. Tanta enim quantitas pellium çambellinorum,
+         quanta pro integra militis veste sufficeret [R «sia a bastanza»], ascendit ad valorem
+         duorum milium bisantium aureorum, si de pelle perfecta est; si autem de communi, ascendit
+         ad valorem mille bisancium. Animalia illa a quibus hec pelles habentur dicuntur “<term ref="#rondes">rondes</term>” [R «et gl’animali si chiamano “<term ref="#rondes">rondes</term>”»] et sunt magnitudinis unius faine […]». A parte affinità molto generiche, non si
+         danno coincidenze significative che dimostrino contatti di R anche con <ref type="witlink" target="#l-null-77">L 77 4</ref> «[…] et sunt exterius ‹per totum› cohoperte pellibus leoni‹ni›s (taliter quod neque
+         ventus neque pluvia habitantes ledere potest), interius vero circumdate per totum
+         pellibus armelinis et çambellinis, que sunt pelles inter alias cariores (tantum enim
+         pelles zambelline optime quantum uni vestimento hominis sufficere posset est valoris
+         .IIm. biçantium auri; verum communales forte .M.) […]». </p>
+	<p>In VB e Z manca tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

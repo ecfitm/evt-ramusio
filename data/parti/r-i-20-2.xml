@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-20-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-20">
+      <note>
+	<p>La pericope traduce letteralmente <ref type="witlink" target="#z-null-16">Z 16 5</ref> «In capite istarum .VIII. dietarum, invenitur quedam provincia nomine <term ref="#timocaim">Tunochayn</term>, que est versus tramontana‹m› in confinibus Persye, in qua quidem civitates multe sunt et castra», che ribadisce nella sostanza il dettato
+         di <ref type="witlink" target="#f-null-39">F XXXIX 3</ref> «Et a chief de ceste .VIII. jornee, l’en treuve une provence qui est apelés <term ref="#timocaim">Tonocain</term>. Il hi a cité et cha{u}stiaus aseç, et est en le confines de <term ref="#persia">Persie</term> dever tramontane», ma se ne differenzia nella <hi rend="italics">dispositio</hi> per una minima inversione delle tessere, testimoniata anche da <ref type="witlink" target="#l-null-34">L 34 2</ref> «In fine vero harum .VIII. dietarum invenitur regnum dictum <term ref="#timocaim">Thonachan</term>, quod est de provincia Persye et in eius confinibus versus septemtrionem, in quo sunt civitates et castra multa».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

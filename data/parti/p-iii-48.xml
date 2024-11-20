@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-III-48</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-iii-48">
+    <head>
+      <hi rend="bold">P, III 48</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-iii-48_2_1" n="1"> In regionibus affinibus terre prefate sub dominio memorati regis est regio alia
+         montuosa, in qua habitant homines qui capiunt animalia parvula que pelles habent delicatas
+         valde et sunt <term ref="#rondes">rondes</term>, |90a| de quibus dictum est supra; almelini, herculini et varii, vulpes nigre et
+         alia huiusmodi de quibus omnibus dictum est supra ibi sunt in multitudine innumera;
+         homines autem qui in montibus habitant supradictis ita ingeniose et artificiose capere
+         sciunt, ut pauca sint que evadere possint manus eorum. </seg>
+      <seg xml:id="p-iii-48_2_2" n="2"> Equi autem, boves et asini
+         et cameli seu quecumque animalia ponderosa ad loca illa accedere nequeunt eo quod
+         regio illa habet in planicie lacunas et fontes, et propter frigiditatem nimiam regionis
+         illius omni tempore in lacunis est glacies, ita ut naves inde transitum facere non
+         possint; nec est tanta soliditas glaciei ut currus graves aut animalia gravia sustinere
+         valeat: tota etiam alia planicies extra lacunas propter aquas que ex multitudine fontium
+         diffunduntur sic lutosa est ut transitus ibi non pateat currubus et animalibus ponderosis.
+         </seg>
+      <seg xml:id="p-iii-48_2_3" n="3"> Protenditur autem regio hec per |90b| dietas .XIII. </seg>
+      <seg xml:id="p-iii-48_2_4" n="4"> Quia ergo tanta est ibi
+         predictarum preciosarum pellium copia de quibus lucra maxima fiunt, homines regionis
+         tale adinvenerunt remedium ut negotiatores aliarum partium ad ipsos accessum possint
+         habere: in capite diete cuiuslibet illarum .XIII. dietarum quibus, ut dictum est,
+         protenditur regio, est viculus unus plures continens domos in quibus habitant viri
+         qui deducunt et recipiunt mercatores, et in quolibet vico servantur canes magni ut
+         asini circiter .XL. </seg>
+      <seg xml:id="p-iii-48_2_5" n="5"> Hii autem canes assueti et docti sunt trahere <term ref="#tragule">trahas</term> que vulgariter in Ytalia dicuntur “<term ref="#tragule">tragule</term>”; est autem <term ref="#tragule">traha</term> seu <term ref="#tragule">tragula</term> vehiculum sine rotis, quo apud nos montium habitatores utuntur; ad unam igitur <term ref="#tragule">tragulam</term> sex canes ligant ordine congruo; <term ref="#tragule">tragule</term> autem supponuntur pelles ursorum supra quas homines duo sedent: negotiator scilicet
+         qui pro pellibus vadit et |90c| auriga qui canes regit et dirigit et viam optime novit.
+         Quia igitur hoc vehiculum est de ligno levissimo et subtus est planum et politum et
+         canes fortes sunt ad huiusmodi officium assueti, nec magna honera vehiculo imponunt;
+         canes illi per lutum illud faciliter satis trahunt, nec multum in lutum figitur tragula
+         in huius tractu; cum autem perveniunt ad vicum alium qui est in fine diete, tunc negotiator
+         accipit ductorem alium pro secunda dieta, quoniam canes laborem illum per dietas .XIII.
+         sustinere non possent; auriga igitur primus cum suis canibus ad propriam regreditur
+         mansionem et negotiator ille in qualibet dieta mutat canes, vehiculum et ductorem.
+         Sic igitur ad montes accedens pelles emit et supradicto modo per planiciem remeat
+         ad propria. </seg>
+      <seg xml:id="p-iii-48_2_6" n="6"> De huius pellibus in regionibus illis fiunt lucra maxima.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

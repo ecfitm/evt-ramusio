@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-51-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-51">
+      <note>
+	<p><ref type="witlink" target="#f-null-132">F CXXXII</ref> (Ci devise de la cité de <term ref="#ciangli">Ciangli</term>); <ref type="witlink" target="#l-null-107">L 107</ref> (De civitate <term ref="#ciangli">Ciangli</term>); <ref type="witlink" target="#p-ii-50">P II 50 3</ref> (De civitatibus <term ref="#pazanfu">Cacausu</term>, <term ref="#cianglu">Cyanglu</term> et <term ref="#ciangli">Cyangly</term>. Capitulum L.), <ref type="witlink" target="#va-null-106">VA CVI 7</ref> (Della zità de <term ref="#cianglu">Cinvanglu</term>, ove se fa de tera sal); <ref type="witlink" target="#v-null-63">V 63 5-8</ref> (Della zità de <term ref="#cianglu">Zanglo</term> e de quela de <term ref="#ciangli">Ziangli</term>); <ref type="witlink" target="#vb-null-94">VB XCIV</ref>; <ref type="witlink" target="#z-null-67">Z 67</ref>.</p>
+	<p>Ramusio segue in tutto il capitolo un esemplare Z1 più completo di Z toledano (vd. il par. 3).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

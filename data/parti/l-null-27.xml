@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-27</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-27">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 27</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-27_2_1" n="1"> <term ref="#iasdi">Iasdi</term> est in <term ref="#persia">Persia</term> maxima civitas et nobilis et multarum mercationum, in qua laborantur panni de seta
+         dicti “<term ref="#iasdi">iasdi</term>”. </seg>
+      <seg xml:id="l-null-27_2_2" n="2"> Et hee gentes adorant <term ref="#macometto">Machomet</term>. </seg>
+      <seg xml:id="l-null-27_2_3" n="3"> Et ab hac civitate in anterius procedendo ‹itur› .VII. dietis continuis, ubi
+         nusquam inveniuntur habitationes nisi forte in tribus locis. Sunt tamen quam plura
+         parva nemora et pulchra, venationibus apta; et habentur perdices et coturnices multe,
+         et inveniuntur similiter hic multi <term ref="#asini-salvatichi">asini silvestres</term> et pulchri. </seg>
+      <seg xml:id="l-null-27_2_4" n="4"> Et in fine harum .7. dietarum invenitur regnum dictum <term ref="#chermain">Cremam</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

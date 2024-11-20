@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-2-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-2">
+      <note>
+	<p>Una parte della flotta, indenne dal fortunale, riesce a rientrare in patria: così
+         P III 4 2 «Plures autem ex navibus que potuerunt evadere ad propria redierunt» (versione di
+         VA CXXII 18 «[…]  le altre nave schanpàno tute e ritornòno tute in suo’ chontrade»). Z 92 28-29 «Cum vero impetus venti et procellarum maris furor quievit, duo barones, cum navibus
+         que per amplum maris naufragium evaserant – que erant in maxima quantitate – ad predictam
+         insulam redierunt, et in navibus asumpserunt omnes homines qui erant honoris, videlicet
+         capitaneos centenariorum, .M. et .Xm., quia alios non poterant in navibus collocare, tot erant ipsi. Postmodum vero, secedentes
+         abinde, vella eorum versus patriam converterunt» presenta una serie di dettagli sull’operazione
+         di recupero degli “ufficiali” dell’armata da parte dei due comandanti in capo (scampati
+         al naufragio), che mancano nel resto della tradizione (a cominciare dalla seconda
+         parte di F CLVIII 18, in cui si spiega che i superstiti sull’isola «[…] e ve{d}ent qe les autres nes qe
+         escanpés estoient s’en aloient ver leur contree: et elle ensi font qe je vos di q’ele
+         najent tant qu’il s’en tornent en lor païs» – attestata anche in Z 92 31 «Nam videba‹n›t naves que evaserant, ipsis relictis, versus earum patriam remeare;
+         que tantum navigarunt quod ad patriam pervenerunt»), e che sono la fonte della pericope
+         di Ramusio. </p>
+	<p>La soluzione di F è riprodotta da V 81 10-11: i superstiti «[…] vedeano le altre nave che ierano schanpade et andavano inver le
+         lor patrie. Or queste nave tanto navegoro che i zonseno in la so patria». Si limitano
+         all’essenziale L 143 9 «[…] reliqua vero, et minor pars, exercitus quia maris evasit procellas ad propria
+         remeavit» e VB CXXVII 12 «[…] le altre nave discorendo per el mare i colono».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

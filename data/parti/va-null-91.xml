@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-91</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-91">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XCI</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-91_2_1" n="1"> L’omo quando à chavalchà quelle vinti zornade, el trova una provinzia ch’à nome
+         <term ref="#achbaluch-mangi">Acbalac Mangi</term>, ch’è tuta piana. </seg>
+      <seg xml:id="va-null-91_2_2" n="2"> El ge n’è zitade e chastelle assai, et èno verso ponente. </seg>
+      <seg xml:id="va-null-91_2_3" n="3">
+         Et èno idolatri, e viveno de merchadantia e d’arte. </seg>
+      <seg xml:id="va-null-91_2_4" n="4"> In questa provinzia nasie
+         sì grande moltitudine de zenzero ch’el se porta per tuta la provinzia de <term ref="#cataio">Chatai</term>; et è-ne grande abondanzia de formento et de rixo e d’òrzo et de tute altre biave.
+         </seg>
+      <seg xml:id="va-null-91_2_5" n="5"> La maistra zità à nome <term ref="#achbaluch-mangi">Acmelec Mangi</term>, zioè a dir “una delle confine de <term ref="#mangi">Mangi</term>”. </seg>
+      <seg xml:id="va-null-91_2_6" n="6"> Questo piano chusì bello dura do zornade; in chavo de do zornade se truova
+         grandi monti, valle e boschi. </seg>
+      <seg xml:id="va-null-91_2_7" n="7"> E va l’omo ben vinti zornade per ponente, trovando
+         assai zitade e chastelle. </seg>
+      <seg xml:id="va-null-91_2_8" n="8"> La zente è tuta idolatria; e viveno de lavoriero e de
+         tera e de venaxion e de bestiame. [9] El ge n’è molti lioni, orsi e zervi e chavrioli,
+         daini e lupi, e ’l ge n’è grande moltitudine de quelle bestie che fano el muschio.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

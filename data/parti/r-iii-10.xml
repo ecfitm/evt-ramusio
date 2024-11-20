@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-10" n="1">
+    <head>
+      <hi rend="bold">R, III 10</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-10_1_1" n="1"> Dell’isola <term ref="#giava">Giava Minore</term>. Cap. 10.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-10_2_1" n="1"> Quando si parte dall’isola <term ref="#pentan">Pentan</term> et che s’è navigato cerca a cento miglia per <term ref="#sirocco">sirocco</term>, trovasi l’isola di <term ref="#giava">Giava Minore</term>: ma non è però cosí picciola che non giri cerca duemila miglia a torno a torno. </seg>
+      <seg xml:id="r-iii-10_2_2" n="2"> Et in questa isola sono otto reami et otto re, le genti della quale <term ref="#idolatri">adorano gl’idoli</term>, et in cadauno regno vi è linguaggio da sua posta, diverso dalla favella degli altri
+         regni. </seg>
+      <seg xml:id="r-iii-10_2_3" n="3"> Vi è abondanza di thesoro et di tutte le specie et di legno di <term ref="#aloe">aloe</term>, <term ref="#verzino">verzino</term>, <term ref="#ebano">ebano</term>, et di molte altre sorti di specie, che alla patria nostra, per la lunghezza del
+         viaggio et pericoli del navigare, non si portano, ma portansi alla provincia di <term ref="#mangi">Mangi</term> et del <term ref="#cataio">Cataio</term>. </seg>
+      <seg xml:id="r-iii-10_2_4" n="4"> Hor vogliamo dire della maniera di queste genti, di cadauna partitamente per sé.
+         </seg>
+      <seg xml:id="r-iii-10_2_5" n="5"> Ma primamente è da sapere che questa isola è posta tanto verso le parti di mezzogiorno
+         che quivi la stella tramontana non si può vedere. </seg>
+      <seg xml:id="r-iii-10_2_6" n="6"> Et messer Marco fu in sei reami di questa isola, delli quali qui se ne parlerà, lassando
+         gli altri dui che non vidde.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

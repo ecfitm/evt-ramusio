@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-73</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-73" n="1">
+    <head>
+      <hi rend="bold">R, II 73</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-73_1_1" n="1"> Del regno di <term ref="#concha">Concha</term>, et della città principale detta <term ref="#fugiu">Fugiu</term>. Cap. 73.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-73_2_1" n="1"> Partendosi dall’ultima città del regno di <term ref="#quinsai">Quinsai</term>, qual si chiama <term ref="#gieza">Gieza</term>, s’entra nel regno di <term ref="#concha">Concha</term> (e la città principale è detta <term ref="#fugiu">Fugiu</term>), per il qual si cammina sei giornate alla volta di <term ref="#sirocco">sirocco</term> sempre per monti et valli, et trovando di continuo luoghi habitati, dov’è gran copia
+         di vittuarie, et vi fanno gran cacciagioni et vanno ad uccellare, per esservi varie
+         sorti d’uccelli. </seg>
+      <seg xml:id="r-ii-73_2_2" n="2"> Sono <term ref="#idolatri">idolatri</term> et sottoposti al <term ref="#gran-can">Gran Can</term>; fanno mercantie. </seg>
+      <seg xml:id="r-ii-73_2_3" n="3"> In questi contorni si trovano leoni fortissimi. </seg>
+      <seg xml:id="r-ii-73_2_4" n="4"> Vi nasce il zenzero et <term ref="#galanga">galanga</term> in gran copia et di altre sorti di specie, et per una moneta che vaglia un <term ref="#grosso">grosso</term> d’argento venitiano si haverà ottanta libre di zenzero fresco, tanto ve n’è abondanza.
+         </seg>
+      <seg xml:id="r-ii-73_2_5" n="5"> Vi nasce un’herba che produce un frutto che fa l’effetto et opera come se ’l fosse
+         vero zaffarano, cosí nell’odor come nel colore, et nondimeno non è <term ref="#zaffarano">zaffarano</term>, et è molto stimata et adoperata da tutti gli habitanti ne’ suoi cibi, et per questo
+         è molto cara. </seg>
+      <seg xml:id="r-ii-73_2_6" n="6"> Gli huomini in questa regione mangiano volentieri carne humana, non essendo morta
+         di malattia, perché la reputano piú delicata al gusto che alcuna altra. </seg>
+      <seg xml:id="r-ii-73_2_7" n="7"> Et quando vanno a combattere si fanno levar i capelli fino all’orecchie, et dipingere
+         la faccia con color azzurro finissimo; portano lanze et spade, et tutti vanno a piedi,
+         eccetto che ’l capitano a cavallo. [8] Sono huomini crudelissimi, di modo che, come uccidono li nimici in battaglia, immediate
+         li vogliono bevere il sangue et dapoi mangiar la carne. [9] Hor, lasciando di questo,
+         diremo della città di <term ref="#quelinfu">Quelinfu</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

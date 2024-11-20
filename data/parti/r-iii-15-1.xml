@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-15-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-15">
+      <note>
+	<p>La pericope traduce alla lettera <ref type="witlink" target="#z-null-102">Z 102 1-2</ref> «<term ref="#lambri">Lambri</term> est quoddam regnum regem habens et loquelam per se. Gentes ipsius <term ref="#idolatri">adorant ydolla</term> et appellantur pro <term ref="#gran-can">Magno Can</term>» (la redazione latina presenta un’informazione più ricca di quella attestata da F CLXVIII 2 «<term ref="#lambri">Lanbri</term> est un roiame qe a roi por soi e se reclaume por le <term ref="#gran-can">Grant Kaan</term>. Il sunt <term ref="#idolatri">ydres</term>»; L 155 1 «<term ref="#lambri">Lambri</term> est regnum eciam in dicta insula, habens proprium regem, cuius gentes sunt <term ref="#idolatri">ydolatre</term>»; V 87 29 «<term ref="#lambri">Lanbrin</term> sono uno reame el qualle àno re, e sì se guarda per el <term ref="#gran-can">Gran Chan</term>; la zente del qualle adora l’idole»; VB CXXXVIII 1 «<term ref="#lambri">‹L›anbren</term> è el quinto reame del’isolla e tiense suditi al <term ref="#gran-can">Gran Can</term> et sono <term ref="#idolatri">idolatri</term>»). VA CXXXII 1 sopprime del tutto l’insieme delle informazioni: «<term ref="#lambri">La‹n›bri</term> è un altro regniame de questa ixolla, là o’ fì <term ref="#berci">berzi</term> e chanfora […]», recuperando quella religiosa in VA CXXXII 4 «La zente della contrà è <term ref="#idolatri">idolatra</term>» (e così si comporta P III 18 1 «Aliud regnum insule prefate dicitur <term ref="#lambri">Lambry</term>, ubi sunt aromata […]»; e poi P III 18 3 «Regni huius incole <term ref="#idolatri">ydolatre</term> sunt»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

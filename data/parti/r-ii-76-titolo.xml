@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-76-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-76">
+      <note>
+	<p><ref type="witlink" target="#f-null-155">F CLV</ref> (Ci devise de la cité de <term ref="#fugiu">Fugiu</term>); <ref type="witlink" target="#l-null-139">L 139</ref> (De civitate <term ref="#fugiu">Fugiu</term>); <ref type="witlink" target="#p-ii-69">P II 69</ref> (De civitate <term ref="#fugiu">Fuguy</term>), <ref type="witlink" target="#va-null-119">VA CXIX 13-18</ref> (Del regniame de <term ref="#fugiu">Fongu</term>, dove i omeni se manzano); <ref type="witlink" target="#v-null-78">V 78 15-23</ref> (Dela zità de <term ref="#fugiu">Fugui</term>); <ref type="witlink" target="#vb-null-121">VB CXXI</ref>; <ref type="witlink" target="#z-null-89">Z 89</ref>.</p>
+	<p>Praticamente tutte le fonti dedicano alle informazioni qui contenute un capitolo specifico.
+         Fa eccezione il solo V che salda la parte su <term ref="#fugiu">Fugiu</term> coi capitoli 73-75 di R (vd. la nota introduttiva a <ref type="witlink" target="#r-ii-73">R II 73</ref>). </p>
+	<p>La selezione delle informazioni e il loro ordinamento appaiono chiaramente ispirate
+         a P; in vari punti, tuttavia, Ramusio integra i contenuti di Pipino con materiali
+         attinti da altre fonti, in particolare da VB. L’apporto di Z in questa sezione risulta
+         scarso, se non del tutto nullo. I vari dettagli aggiuntivi che isolano questo testimone
+         dal resto della tradizione (<ref type="witlink" target="#z-null-89">Z 89 7</ref> / <ref type="witlink" target="#z-null-89">Z 89 10-30</ref>), in particolare il lungo racconto sui cristiani di <term ref="#fugiu">Fugiu</term> (<ref type="witlink" target="#z-null-89">Z 89 38-64</ref>), non trovano alcuna rispondenza in R.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

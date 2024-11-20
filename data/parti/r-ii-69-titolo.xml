@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-69-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-69">
+      <note>
+	<p><ref type="witlink" target="#f-null-152">F CLII</ref> (Ci devise de la grant rende que le <term ref="#gran-can">Gran Kaan</term> a de <term ref="#quinsai">Qinsay</term>); <ref type="witlink" target="#l-null-132">L 132</ref> (De redditibus provincie de <term ref="#mangi">Mangi</term>); <ref type="witlink" target="#p-ii-65">P II 65</ref> (De proventibus quos recipit <term ref="#gran-can">Magnus Kaam</term> de <term ref="#quinsai">Quinsay</term> et de provincia <term ref="#mangi">Mangy</term>), <ref type="witlink" target="#va-null-117">VA CXVII 47-55</ref> (Della zità <term ref="#quinsai">Quinsai</term>, ch’è a dir “la zità del ziello”, e la qual è lla maor zità che sia al mondo, ove
+         è cotante zente e cotanti ponti e tante meraveie); <ref type="witlink" target="#v-null-76">V 76 20-25</ref> (De la cità di Chuisain); <ref type="witlink" target="#vb-null-114">VB CXIV 46-53</ref>; <ref type="witlink" target="#z-null-86">Z 86</ref>.</p>
+	<p>Conformandosi alla tendenza che emerge in L P Z (e F), Ramusio dedica ai materiali
+         corrispondenti a un capitolo specifico. Diverse varianti comuni, tra cui dettagli
+         ignoti al resto della tradizione (vd. parr. 2, 4, 5), dimostrano che il testimone
+         base era qui un affine del codice toledano. Anche l’organizzazione dei contenuti riflette
+         in genere quella di Z (si veda la tabella sottostante), benché lo spostamento in avanti
+         del riferimento alla produzione di seta (par. 5) potrebbe essere stato influenzato
+         dall’ordinamento della materia presente in altre fonti (<ref type="witlink" target="#p-ii-65">P II 65 7</ref>, <ref type="witlink" target="#vb-null-114">VB CXIV 52</ref>).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

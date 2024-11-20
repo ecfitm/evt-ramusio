@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-66-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-66">
+      <note>
+	<p>Ramusio segue la lezione di <ref type="witlink" target="#vb-null-112">VB CXII 8</ref>, rielaborandola e amplificandola in più punti: «[…] trovato in quella gran quantità
+         de vin [R «vi trovorono grandissima quantità di vini»] − del qual quella cità è molto
+         abondante − e quelli desiderosi di tal bevande [R «disiderosi di cavarsi la sede»]
+         per la stancheça di afani e senestri receuti [«havendo patito grande incommodità et
+         disagio»], se misero sença alcunno respeto a bere [R «senza alcun rispetto si missero
+         a bevere»], per modo che, tuti inebriati, se adormentòno» [R «di tal maniera che inebriati
+         si addormentorono»]. Non si danno coincidenze significative con altri testimoni, che
+         possano far pensare che l’editore si sia avvalso in questo punto anche di altre fonti:
+         <ref type="witlink" target="#p-ii-62">P II 62 5</ref> «Invenerunt igitur prefati alani, qui devicerant civitatem, vinum ibi optimum in
+         copia magna, de quo tam copiose biberunt quod omnes inebriati sunt, sero autem vino
+         gravati tanto sunt sumpno oppressi quod dormierunt in simul omnes, et nullam fecerunt
+         in civitate custodiam»; <ref type="witlink" target="#v-null-74">V 74 5</ref> «[…] intrando i∙quella trovò molto vin; onde quelli tanto ne bevé che tuti se inbriagò,
+         per tal muodo che i se indormenzò sì fatamente che i non sentia alguna chossa» (vd.
+         <ref type="witlink" target="#f-null-149">F CXLIX 8</ref> «[…] et hi treuvent si buen vin qe il en bevent tant qu’il furent tuit evries, si
+         qe se dormirent en tel mainere qe hil ne sentoient ne bien ne maus»). In L e Z il
+         passo è omesso.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

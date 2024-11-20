@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-36-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>Il solo relatore a citare nuovamente le penne del <term ref="#ruch">ruch</term> e a farne oggetto di dono al signore dei Tartari è VB CLX 19-20 «Di ritorno quel suo meso portò al segnor <term ref="#gran-can">Gran Chan</term> una pena dele alle del dito osello <term ref="#ruch">ruch</term>, la qual io, Marcho Polo, mesurai e troviélla esser longa .LXXXX. di mie somesi e
+         la chana dela dita pena volgea .II. palma di mie che çerto chossa mirabelle era vederlla.
+         Et a quello segnor la fo mandata per meraveiosa e bella chosa e llui de quella ne
+         ave singullar piacer». Il resto della tradizione si allinea a F CXC 15 «Et cesti mesajes, et celui que pris avoit, ceste content au <term ref="#gran-can">Grant Kan</term> mai‹n›tes grant mervoilles de celes estranges ysles»: vedi <ref type="witlink" target="#z-null-124">Z 124 34</ref> «Et isti nuncii et ille qui captus erat Magno Domino retulerunt multa magna et extranea mirabilia de insula illa»; P III 40 2 «Qui redeuntes captivum quem quesiverant reduxerunt […]» (giusta VA CXLIX 22 «Queli messi tornàno e menàno quel prexo, e rezetòno chosse molte stranie de quelle
+         contrade, e portàno de quelle cosse al <term ref="#gran-can">Gran Chan</term>»); L 177 12 «Et dum ipsi, relaxato nuntio, ad propria revenissent, <term ref="#gran-can">Magno Cani</term> de hiis partibus miranda narraverunt»; V 106 14 «[…] et questo sì redise molti gran miracholli al <term ref="#gran-can">Gran Signor</term> de questa ixolla».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

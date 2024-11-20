@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-7-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-7">
+      <note>
+	<p>Alcune coincidenze formali suggeriscono che R si sia avvalso di una fonte molto vicina
+         a <ref type="witlink" target="#f-null-84">F LXXXIV 12</ref> «Elle ‹a› en mileu de la cité un grandisme palais eu quel a une grant cloque, ce
+         est canpane, qe sone la noit [R «la quale si suona di notte»] qe nulz ne aille por
+         la ville depuis qu’ele aura soné trois fois, char, puis que celle canpane a soné tantes
+         foies com il ont ordree, ne oçe aler nulz por la cité [R «nessuno ardisca andare per
+         la città»] for qe por beinçogne de feme qu’enfantent et por beinçogne des homes malaides
+         [R «o di huomo infermo»]; et celz que por ce vont [R «et quelli che vanno»] convient
+         qe il portent lumere». Va rilevato, comunque, che anche P e V riportano delle versioni
+         abbastanza simili a quella di R: <ref type="witlink" target="#p-ii-10">P II 10 3</ref> «[…] in medio autem civitatis palatium magnum est ubi est campana pregrandis cum
+         qua tria signa omni sero fiunt, postquam nulli licet domum egredi, nisi propter infirmi
+         vel parientis mulieris necessitatem. Oportet autem omnes de nocte per civitatem euntes
+         lumen deferre; quelibet vero civitatis porta noctibus singulis a mille hominibus custoditur,
+         non quidem propter timorem hostium sed latronum: summum enim studium adhibet rex ut
+         arceantur fures»; <ref type="witlink" target="#v-null-41">V 41 35</ref> «[…] et in mezo dela zitade sono uno belo palazo in lo quale sono una gran chanpana
+         la qual vien sonada tre fiade ala ssera, azò che nesun non vada de note: et chussì
+         sono hordenado salvo se done non partorisse o per infermi, ma chovien portar lume».
+         Reca una versione accorciata del testo <ref type="witlink" target="#l-null-69">L 69 5</ref> «E‹s›t insuper in medio civitatis pallatium unum magnum, in quo stat campana maxima
+         civitatis». VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

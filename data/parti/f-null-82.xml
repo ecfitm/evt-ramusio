@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-82</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-82">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LXXXII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-82_1_1" n="1"> Ci devise des filz dou <term ref="#gran-can">Grant Kan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-82_2_1" n="1"> Et encore sachiés qe le <term ref="#gran-can">Gran Kaan</term> a de seç quatre femes .XXII. filz masles. </seg>
+      <seg xml:id="f-null-82_2_2" n="2"> Le greingnors avoit a non <term ref="#cingis-can">*Cinchin</term>, por le amor dou buen <term ref="#cingis-can">Cinchin Kan</term>; et cestui devoit estre <term ref="#gran-can">Grant Kaan</term> et seingnor de tout l’enpere. </seg>
+      <seg xml:id="f-null-82_2_3" n="3"> Or avint qu’il se morut, mes il en remest un fil
+         que a a non <term ref="#themur">Temur</term>; et cestui <term ref="#themur">Temur</term> doit estre grant kaan et seingnor, et ce est |37a| rason, por ce qu’il fu fil dou
+         greingnor fil do <term ref="#gran-can">Grant Kaan</term>. </seg>
+      <seg xml:id="f-null-82_2_4" n="4"> Et si voç di qe cest <term ref="#themur">Temur</term> est sajes et prodonmes, et maintes foies a ja mout bien prouvés en bataille. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-82_3_1" n="1"> Et sachiés qe le <term ref="#gran-can">Grant Kan</term> a encore bien .XXV. autres filz de ses amies que sunt bones et vailanz d’armes et
+         chascun est grant baron. </seg>
+    </p>
+    <p n="4">
+      <seg xml:id="f-null-82_4_1" n="1"> Et encore voç di qe des filz qu’il a des seç quatre femes en sunt .VII. rois des
+         grandismes provences et roiames, et tuit mantinent bien lor reingne, car il sunt sajes
+         et prodonmes, et ce est bien raison, car je voç di qe lor pere le <term ref="#gran-can">Grant Kan</term> est le plus sajes homes et les plus proven de toutes chouses et le meior regeor des
+         jens et d’enpere et home de greingnor vailance qe unques fust en toutes les generasionz
+         des <term ref="#tartari">Tartarç</term>. </seg>
+    </p>
+    <p n="5">
+      <seg xml:id="f-null-82_5_1" n="1"> Or vos ai deviséç dou Grant Chan et de seç filz, et adonc voç deviserai comant il tient cort et sa mainere.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-1-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>L’intera annotazione viene da <ref type="witlink" target="#z-null-91">Z 91 18-19</ref> «Et iam tempore preterito erant naves maiores quam sint nunc ad presens, quia maris
+         inpetus insulas taliter in pluribus locis dirupit quod aqua non inveniebatur in multis
+         locis suficiens navibus illis tam grandibus. Quare sunt facte nunc minores». La redazione
+         latina è la sola a registrare la pericope; tutti gli altri relatori (compreso F CLVII 9) passano dalla registrazione della capacità di trasporto di pepe alla descrizione
+         della navigazione a remi (su cui vd. <ref type="witlink" target="#r-iii-1">R III 1 7</ref>): vd. P III 1 7 (da VA CXXI 8), L 142 5, V 80 5 e VB CXXVI 6.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

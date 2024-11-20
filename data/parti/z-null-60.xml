@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-60</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-60">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 60</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-60_1_1" n="1"> <term ref="#bangala">Bangala</term> est quedam provincia versus meridiem; quam provinciam <term ref="#gran-can">Magnus Can</term> nondum, tempore quo ego, Marcus Paulo, primitus in curia sua fui, habebat eius dominio
+         subiugata‹m›. </seg>
+      <seg xml:id="z-null-60_1_2" n="2"> Ista provincia regem habet et loquelam per se. </seg>
+      <seg xml:id="z-null-60_1_3" n="3"> Genttes <term ref="#idolatri">adorant ydola</term> et sunt in confinibus <term ref="#india">Indie</term>. </seg>
+      <seg xml:id="z-null-60_1_4" n="4"> Sunt ibi multi eunuchi, qui sunt castrati; et inde barones et domini circumstantes
+         illi provincie multos habent ex eis, quos retinent ad suarum custodiam dominarum.
+         </seg>
+      <seg xml:id="z-null-60_1_5" n="5"> Etiam ibi boves altitudinis elephantum, sed non sunt ita grosi. </seg>
+      <seg xml:id="z-null-60_1_6" n="6"> Iste gentes
+         vivunt de carnibus, lacte et risis. </seg>
+      <seg xml:id="z-null-60_1_7" n="7"> Habent <term ref="#bambagio">bombatium</term> in magna habundantia. </seg>
+      <seg xml:id="z-null-60_1_8" n="8"> Et faciunt multa mercimonia: |31v| nam habent spicum, galanga,
+         çinçiber, et çucharum et de multis aliis speciebus. [9] Indi illuc veniunt et emunt
+         de eunuchis supradictis et sclavis, qui inveniuntur ibi in maxima quantitate, quia
+         omnes qui per gentes illuc capiuntur, statim castrantur et postmodum venduntur. [10]
+         Nam mercatores emunt istos eunucos et servos, et per multa loca portant ad vendendum.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-40-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>Z toledano omette questa parte, ma la forte affinità di R con V e soprattutto con
+         F suggerisce che Ramusio abbia seguito in tale punto la testimonianza di Z1: <ref type="witlink" target="#v-null-56">V 56 35</ref> «Et anche le charne de questi serpenti sono chare, perché le sono bone da manzar,
+         et sì le manza volentiera»;<ref type="witlink" target="#f-null-118"> F CXVIII 19</ref> «Et encore voç di qu’il vendent la cars de cest serpent mult chier, por ce q’ele
+         est mult bone a mangier, et la men‹j›uent voluntieres». La versione delle altre fonti
+         ramusiane appare meno ricca di dettagli di quella che si legge in R V e F: <ref type="witlink" target="#l-null-97">L 97 10</ref> «Carnes autem, que libentissime c‹om›meduntur quia bone, vendunt optime venatores
+         […]»; <ref type="witlink" target="#p-ii-40">P II 40 11</ref> «Carnes autem illius serpentis vendunt quia in cibum optime sunt et libenter ab hominibus
+         comeduntur»; <ref type="witlink" target="#vb-null-84">VB LXXXIV 11</ref> «Vendeno ecian la charne del serpente però che quella da quelle giente volentieri
+         fi mangiata, e dicono essere molto diletevelle e bona da mangiare».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

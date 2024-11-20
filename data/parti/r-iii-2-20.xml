@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-2-20</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-2">
+      <note>
+	<p>P III 6 4 e VA CXXII 30 nulla dicono sulla punizione che <term ref="#cublai-can">Qubilai</term> inflisse ai due comandanti in capo della sfortunata spedizione. F CLIX 11 spiega: «E le <term ref="#gran-can">Grant Kaan</term> fist trencer la teste a l’un des baronç qe chaveitan estoit de cel ost, e le autre
+         mande a l’isle ou il fait destruer maintes jens et iluec le fist morir. E ce fist
+         il por ce qe il avoit seu qu’il ‹s’›estoient esproiciés mauveismant en cel afer»;
+         la stessa spiegazione è offerta da L 143 12 «Et quia capitanei exercitus <term ref="#gran-can">Magni Canis</term>, qui ex confluctu maris evaserant, male se gesserant in hiis factis, fuit unus capite
+         punitus, alter vero in exilium ad quamdam insulam missus; et ipse mortuus est ibidem»,
+         da V 81 20 «Or essendo zonti i do sorastanti dal <term ref="#gran-can">Gran Chan</term>, quello ne feze dechapitar uno, zoè quello ch’era chapetanio de quello exerzito,
+         e l’altro mandò in l’ixola in la qual i fexe destruzer molta zente, e lì fo morto;
+         e questo feze perché el saveva ch’el se aveva chativamente portato in quello exerzito»,
+         e da VB CXXVII 28 «[…] saputo el <term ref="#gran-can">Gran Can</term> dilla discordia di suo’ do chapetanii, subito l’uno fece decapitare; l’altro, che
+         era stato valente homo, el mandò a confine nel’isolla ove tanti di loro <term ref="#tartari">Tartari</term> era morti; et su quella fenì soa vita». Maggiori dettagli – gli stessi riferiti da
+         Ramusio (che ne omette qualcuno) ­– offre il solo Z 93 14-17 «Magnus vero Can unum ex duobus baronibus qui capitaneus exercitus illius extiterat decapitari mandavit;
+         alterum vero misit ad quamdam silvestrem insulam nomine <term ref="#ciorza">*Çorça</term>, in qua gentem multam, propter graves offensas, facit destruere in hunc modum. Nam
+         cum aliquem mitit destruendum ad insulam predictam, facit sibi manus cum corio bufalli
+         tunc nuper excorticati optime circumvolui, et stricte sui. Et cum illud corium desicatur,
+         ita restringitur circa manus quod nullo modo posset abinde moveri; et sic dimititur
+         ibi pasionata morte finire, quia se iuvare non potest et ad comedendum non habet.
+         Et si comedere vult de erbis, oportet ut serpat per terram».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

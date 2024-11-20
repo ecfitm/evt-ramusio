@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-70-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-70">
+      <note>
+	<p>Le informazioni di <ref type="witlink" target="#z-null-87-1-4">Z 87 1-2</ref> (che corrispondono puntualmente a quelle di <ref type="witlink" target="#f-null-153">F CLIII 2-3</ref> «Quant l’en se part de <term ref="#quinsai">Qi‹n›sai</term>, il ala une jornee ver yseloc, toutes foies trovant maisonz et jardinz mout deletable,
+         la ou l’en treuve des toutes couses de vivre en grant abundance. Et, a chief de la
+         jornee, treuve l’en la cité que je voç ai només desovre, qe est apellés <term ref="#tapinzu">Tanpigiu</term>, qe mout est grant et bielle, et est sout <term ref="#quinsai">Quinsai</term>») sono attestate – con una minima variante – anche in <ref type="witlink" target="#vb-null-115">VB CXV 1-2</ref> «‹P›artendosi da <term ref="#quinsai">Quinsai</term>, çoè dal çielo in nostra lingua, caminando giornate do per sirocho, senpre se trova
+         chaxe, çardini e paexe de gran dileto e piacere et abondantisimamente de tute chose
+         da vivere. Et a capo dele .II. giornate se trova la citade chiamata <term ref="#tapinzu">Tanpigui</term> la qualle è grande e bela e dele iurisdiciun de <term ref="#quinsai">Quinsai</term>», e, in versioni più sintetiche, in <ref type="witlink" target="#v-null-77">V 77 1-2</ref> «‹P›artendosse dala zità sopradita el se vano una zornada verso sirocho, trovando
+         chontinuamente chaxe e zardini molto deletevelle; e trovasse abondanzia de tute vituarie.
+         Et in chavo de queste do zornade trovasse una zitade chiamata <term ref="#tapinzu">Chanpigui</term>, ed è molto granda e bella», e in <ref type="witlink" target="#p-ii-66">P II 66 1</ref> «Progrediendo autem ulterius a civitate <term ref="#quinsai">Quinsay</term> per syrocum continue inveniuntur per dietam unam viridaria pulcra et optima cultura
+         terrarum; post dietam vero invenitur civitas <term ref="#tapinzu">Tampinguy</term> que magna nobilis et pulcra est valde». Ancora più scorciata la forma assunta dal
+         testo in <ref type="witlink" target="#l-null-133">L 133 1</ref> «A <term ref="#quinsai">Quinsay</term> versus syroch dieta una per fertilissima loca est civitas quedam, superius nominata ‹<term ref="#tapinzu">Tampingiu</term>›, que pulcra est et magna; et ipsa est sub dominio <term ref="#quinsai">Quinsay</term>».</p>
+	<p>R riflette, per contenuto e ordine della materia, il testo di Z, allontanandosene
+         solo per dettagli formali. L’impiego della subordinata al gerundio ad inizio di capitolo
+         potrebbe essere stata suggerita dalla lezione di <ref type="witlink" target="#v-null-77">V 77 1</ref> («‹P›artendosse»), <ref type="witlink" target="#p-ii-66">P II 66 1</ref> («Progrediendo») o <ref type="witlink" target="#vb-null-115">VB CXV 1</ref> («‹P›artendosi»), ma si tratta pur sempre di un costrutto frequente nella sintassi
+         ramusiana. Probabilmente dovuta all’influsso di P è, invece, la reduplicazione dell’aggettivo
+         nel sintagma «molti belli et dilettevoli», che giustappone le lezioni di P («viridaria
+         pulcra») e di Z («viridaria multum delectabilia»). Non si può escludere che anche
+         la locuzione avverbiale «di continuo» – assente in Z – sia l’effetto di una collazione
+         (cfr. P «comtinue», V  «chontinuamente»), ma sembra più probabile che si tratti di
+         una lezione che, presente nell’affine di Z posseduto da Ramusio (cfr. F «toutes foies»),
+         sia stata omessa nel Toledano. Saranno sicuramente da ascrivere al gusto dell’editore
+         per la <hi rend="italics">variatio </hi>le lezioni «nasce» e «poi si arriva», che non trovano riscontro in nessuno dei modelli
+         di R.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

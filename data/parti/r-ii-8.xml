@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-8" n="1">
+    <head>
+      <hi rend="bold">R, II 8</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-8_1_1" n="1"> Del tradimento ordinato di far ribellar la città di <term ref="#cambalu">Cambalú</term>, et come gli auttori furono presi et morti. Cap. 8.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-8_2_1" n="1"> Vera cosa è, come di sotto si dirà, che sono deputati dodici huomini, i quali
+         hanno a disporre delle terre et reggimenti et di tutte l’altre cose come meglio lor
+         pare. </seg>
+      <seg xml:id="r-ii-8_2_2" n="2"> Tra’ quali v’era un Sarraceno nominato <term ref="#achmach">Achmac</term>, huomo sagace et valente, il qual oltre gli altri havea gran potere et auttorità
+         appresso il <term ref="#gran-can">Gran Can</term>, et il signore tanto l’amava ch’egli havea ogni libertà, imperoché, come fu trovato
+         doppo la sua morte, esso <term ref="#achmach">Achmac</term> talmente incantava il signor con suoi veneficii che ’l signore dava grandissima credenza
+         et udienza a tutti i detti suoi, et cosí facea tutto quello che volea fare. </seg>
+      <seg xml:id="r-ii-8_2_3" n="3"> Egli
+         dava tutti i reggimenti et officii et puniva tutti i malfattori, et ogni volta che
+         egli volea far morire alcuno che havesse in odio, o giustamente o ingiustamente, egli
+         andava dal signore et dicevagli: «Il tale è degno di morte, perché cosí ha offeso
+         vostra Maestà». </seg>
+      <seg xml:id="r-ii-8_2_4" n="4"> Allhora diceva il signore: «Fa’ quel che ti piace», et egli subito
+         lo facea morire. </seg>
+      <seg xml:id="r-ii-8_2_5" n="5"> Per il che, vedendo gli huomini la piena libertà ch’egli havea,
+         et che ’l signore al detto di costui dava sí piena fede che non ardivano di contradirli
+         in cosa alcuna, alcuno non era cosí grande et di tanta auttorità che non lo temesse.
+         </seg>
+      <seg xml:id="r-ii-8_2_6" n="6"> Et se alcuno fosse per lui accusato a morte al signore et volesse scusarsi, non
+         potea riprovare et usar le sue ragioni, perché non havea con chi, conciosiaché nessuno
+         ardiva di contradire ad esso <term ref="#achmach">Achmach</term>: et a questo modo molti ne fece morire ingiustamente. </seg>
+      <seg xml:id="r-ii-8_2_7" n="7"> Oltre di questo non era
+         alcuna bella donna che, volendola, egli non l’havesse alle sue voglie, togliendola
+         per moglie s’ella non era ma|25v|ritata, o vero altramente facendola consentire. [8]
+         Et quando sapeva che alcuno haveva qualche bella figliuola, esso haveva i suoi ruffiani
+         che andavano al padre della fanciulla dicendogli: «Che vuoi tu fare? [9] Tu hai questa
+         tua figliuola: dàlla per moglie al bailo, – cioè ad <term ref="#achmach">Achmach</term>, perché si diceva bailo come si diria vicario, – et faremo che egli ti darà il tal
+         reggimento o vero tal officio per tre anni». [10] Et cosí quello li dava sua figliuola,
+         et allhora <term ref="#achmach">Achmach</term> diceva al signore: «El vacua tal reggimento», o vero «si finisse il tal giorno; tal
+         huomo è sufficiente a reggerlo»; et il signor li rispondeva: «Fa’ quello che ti pare»,
+         onde lo investiva subito di tal reggimento. [11] Per il che, parte per ambitione di
+         reggimenti et officii, parte per essere temuto questo <term ref="#achmach">Achmach</term>, tutte le belle donne o le toglieva per mogli o le havea a’ suoi piaceri. [12] Havea
+         anchora figliuoli circa venticinque, i quali erano ne’ maggiori officii, et alcuni
+         di loro, sotto nome et coperta del padre, commettevano adulterio come il padre et
+         facevano molte altre cose nefande et scelerate. [13] Questo <term ref="#achmach">Achmach</term> havea ragunato molto thesoro, perché ciascuno che volea qualche reggimento o vero
+         officio li mandava qualche gran presente. [14] Regnò adunque costui anni ventidue
+         in questo dominio; finalmente gli huomini della terra, cioè i Cataini, vedendo le
+         infinite ingiurie et nefande sceleratezze che egli fuor di misura commetteva, cosí
+         nelle lor mogli come nelle lor proprie persone, non potendo per modo alcuno piú sostenere,
+         deliberorno di ammazzarlo et ribellare al dominio della città. [15] Et tra gli altri
+         era un Cataino nominato <term ref="#cenchu">Cenchu</term>, che havea sotto di sé mille huomini, al qual il detto <term ref="#achmach">Achmach</term> havea sforzata la madre, la figliuola et la moglie; dove che pien di sdegno parlò
+         sopra la destruttione di costui con un altro Cataino nominato <term ref="#vanchu">Vanchu</term>, il qual era signore di diecimila, che dovessero far questo quando il <term ref="#gran-can">Gran Can</term> sarà stato tre mesi in <term ref="#cambalu">Cambalú</term>, et poi si parte et va alla città di <term ref="#xandu">Xandú</term>, dove sta similmente tre mesi, et similmente <term ref="#cingis">*Cingis</term> suo figliuolo si parte et va alli luoghi soliti, et questo <term ref="#achmach">Achmach</term> rimane per custodia et guardia della città; et quando intraviene qualche caso esso
+         manda a <term ref="#xandu">Xandú</term> al <term ref="#gran-can">Gran Can</term>, et egli li manda la risposta della sua volontà. [16] Questi <term ref="#vanchu">Vanchu</term> et <term ref="#cenchu">Cenchu</term>, havendo fatto questo consiglio insieme, volsero communicarlo con li Cataini maggiori
+         della terra, et di commun consenso lo fecero intender in molte altre città et alli
+         suoi amici, cioè che havendo deliberato di tal giorno far il tal effetto, che subito
+         che vedranno i segni del fuogo debbino ammazzar tutti quelli che hanno barba, et far
+         segno con il fuogo alle altre città che faccino il simile: et la cagion per la qual
+         si dice che li barbuti siano ammazzati, è perché i Cataini sono senza barba naturalmente,
+         et li <term ref="#tartari">Tartari</term> et Sarraceni et christiani la portavano. [17] Et dovete sapere che tutti i Cataini
+         odiavano il dominio del <term ref="#gran-can">Gran Can</term>, perché metteva sopra di loro rettori tartari et per lo piú sarraceni, et loro non
+         li potevano patire, parendoli di essere come servi. [18] Et poi il <term ref="#gran-can">Gran Can</term> non havea giuridicamente il dominio della provincia del Cataio, anzi l’havea acquistato
+         per forza, et non confidandosi di loro dava a regger le terre a’ <term ref="#tartari">Tartari</term>, Sarraceni et christiani ch’erano della sua famiglia, a lui fideli, et non erano
+         della provincia del <term ref="#cataio">Cataio</term>. [19] Hor li sopradetti <term ref="#vanchu">Vanchu</term> et <term ref="#cenchu">Cenchu</term>, stabilito il termine, entrorono nel palazzo di notte, et <term ref="#vanchu">Vanchu</term> sentò sopra una sedia et fece accendere molte luminarie avanti di sé, et mandò un
+         suo nuncio ad <term ref="#achmach">Achmach</term> bailo, che habitava nella città vecchia, che da parte di <term ref="#cingis">*Cingis</term> figliuolo del <term ref="#gran-can">Gran Can</term>, il quale hora hora era gionto di notte, dovesse di subito venire a lui. [20] Il
+         che inteso, <term ref="#achmach">Achmach</term> molto maravigliandosi andò subitamente, perché molto lo temeva, et entrando nella
+         porta della città incontrò uno <term ref="#tartari">Tartaro</term> nominato <term ref="#cogatai">Cogatai</term>, il qual era capitano di dodicimila huomini co’ quali continuovamente custodiva la
+         città, qual li disse: «Dove andate cosí tardi?» [21] «A <term ref="#cingis">*Cingis</term>, il qual hor hora è venuto». [22] Disse <term ref="#cogatai">Cogatai</term>: «Come è possibile che lui sia venuto cosí nascosamente ch’io non l’habbia saputo?»,
+         et seguitollo con certa quantità delle sue genti. [23] Hora questi Cataini dicevano:
+         «Pur che possiamo ammazzar <term ref="#achmach">Achmach</term>, non habbiamo da dubitare d’altro». [24] Et subito che <term ref="#achmach">Achmach</term> entrò nel palazzo, vedendo tante luminarie accese, s’inginocchiò avanti <term ref="#vanchu">Vanchu</term>, credendo che ’l fosse <term ref="#cingis">*Cingis</term>, et <term ref="#cenchu">Cenchu</term> che era ivi apparecchiato con una spada li tagliò il capo. [25] Il che vedendo <term ref="#cogatai">Cogatai</term>, che s’era fermato nell’entrata del palazzo, disse: «Ci è tradimento», et subito
+         saettando <term ref="#vanchu">Vanchu</term> che sedeva sopra la sedia l’ammazzò, et chiamando la sua gente prese <term ref="#cenchu">Cenchu</term> et mandò per la città un bando che, se alcuno fosse trovato fuori di casa, fusse
+         di subito morto. [26] I Cataini, vedendo che i <term ref="#tartari">Tartari</term> haveano scoperta la cosa, et che non haveano capo alcuno, essendo questi duoi l’un
+         morto l’altro preso, si riposero in casa, né po|26r|terono far alcun segno all’altre
+         città che si ribellassero come era stato ordinato. [27] Et <term ref="#cogatai">Cogatai</term> subito mandò i suoi nuntii al <term ref="#gran-can">Gran Can</term>, dichiarandoli per ordine tutte le cose ch’erano intravenute, il quale li rimandò
+         dicendo che lui dovesse diligentemente essaminarli, et secondo che loro meritassero
+         per i suoi misfatti li dovesse punire. [28] Venuta la mattina, <term ref="#cogatai">Cogatai</term> essaminò tutti i Cataini, et molti di loro distrusse et uccise che trovò esser d’i
+         principali nella congiura; et cosí fu fatto nell’altre città, poi che si seppe ch’erano
+         partecipi di tal delitto. [29] Poi che fu ritornato il <term ref="#gran-can">Gran Can</term> a <term ref="#cambalu">Cambalú</term>, volse sapere la causa per la quale ciò era intravenuto, et trovò come questo maladetto
+         <term ref="#achmach">Achmach</term>, cosí lui come i suoi figliuoli, haveano commesso tanti mali et così enormi come
+         di sopra si è detto. [30] Et fu trovato che tra lui et sette suoi figliuoli (perché
+         tutti non erano cattivi) haveano prese infinite donne per mogli, eccetto quelle c’haveano
+         havute per forza. [31] Poi il <term ref="#gran-can">Gran Can</term> fece condurre nella nuova città tutto il thesoro che <term ref="#achmach">Achmach</term> havea ragunato nella città vecchia, et quello ripose con il suo thesoro: et fu trovato
+         che era infinito. [32] Et volse che fosse cavato di sepoltura il corpo di <term ref="#achmach">Achmach</term> et posto nella strada, acciò che fosse stracciato da’ cani, et i figliuoli di quello
+         che haveano seguitato il padre nelle male opere li fece scorticare vivi. [33] Et venendogli
+         in memoria della maladetta setta d’i Sarraceni, per la quale ogni peccato gli vien
+         fatto lecito et che possono uccidere qualunque non sia della sua legge, et che il
+         maladetto <term ref="#achmach">Achmach</term> con i suoi figliuoli non pensando per tal causa di far alcun peccato, la disprezzò
+         molto et hebbe in abhominatione; chiamati a sé li Sarraceni gli vietò molte cose che
+         la lor legge li comandava, imperoché li diede un comandamento che ei dovessero pigliar
+         le mogli secondo la legge d’i <term ref="#tartari">Tartari</term>, et che non dovessero scannare le bestie come facevano per mangiar la carne, ma quelle
+         dovessero tagliar pel ventre. [34] Et nel tempo che intravenne questa cosa messer
+         Marco si trovava in quello luogo. [35] Detto si è di questo; diremo come il <term ref="#gran-can">Gran Can</term> mantiene et regge la sua corte.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

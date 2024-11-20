@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-27-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-27">
+      <note>
+	<p>R si attiene a <ref type="witlink" target="#z-null-46">Z 46 2</ref> «Supra flumen istud est quidam pons lapideus valde pulcer, et raro quod sit in mundo
+         alius ita pulcer». Andrà notato che, nella parte finale («et forse in tutto il mondo
+         non ve n’è un altro simile») R si mostra meno vicino a Z che a <ref type="witlink" target="#f-null-104">F CIV 4</ref> «Et desus cest flum a u’ mout biaus pont de pieres, car sachiés qe pont n’a en tout
+         lo monde de si biaus ne son paroil, ‹et voç mostrerai› raison conmant […]». Questo
+         dato suggerisce che la fonte di Ramusio Z1 fosse più simile a F di quanto risulti Z toledano. </p>
+	<p>Non si danno indizi di contatti di R con gli altri suoi modelli: <ref type="witlink" target="#l-null-84">L 84 1</ref> «[…] et est ibi pons lapideus valde pulcer»; <ref type="witlink" target="#p-ii-27">P II 27 4</ref> «Ibi autem pons marmoreus est pulcherrimus […]»; <ref type="witlink" target="#v-null-50">V 50 3</ref> «Et sopra questo flume el ne sono uno ponte de pietra molto bello, che pochi ne sono
+         al mondo sì beli […]»; <ref type="witlink" target="#vb-null-73">VB LXXIII 2</ref> «[…] sul qual fiume io vidi un ponte de piera degno de memoria».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

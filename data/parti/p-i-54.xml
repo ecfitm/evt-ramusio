@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-54</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-54">
+    <head>
+      <hi rend="bold">P, I 54</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-54_2_1" n="1"> Primus igitur rex <term ref="#tartari">Tartarorum</term> fuit <term ref="#cingis-can">Chinchis</term>, secundus <term ref="#cyn-can">Cui</term>, tercius <term ref="#bathyn-can">Bacui</term>, quartus <term ref="#ulau">Alau</term>, quintus <term ref="#mongu-can">Manguth</term>, sextus <term ref="#cublai-can">Cublay</term> qui modo regnat, cuius potencia maior est quam fuerit omnium prenominatorum .V. predecessorum
+         eius: maius est etiam solius ipsius dominium quam sint simul in unum cuncta regna
+         et dominia christianorum regum et omnium saracenorum, sicut in libro hoc suo loco
+         |25c| patebit manifeste. </seg>
+      <seg xml:id="p-i-54_2_2" n="2"> Quando vero corpus <term ref="#gran-can">Magni Kaam</term> tumulandum defertur ad montem <term ref="#altai">Alchay</term>, hii qui eum ad sepulturam concomitantur homines cunctos quos in via habent obvios
+         gladio perhimunt, dicentes: «Ite, et domino nostro regi in alia vita servite»; tanta
+         enim insania a Sathana circumventi sunt, ut credant occisos tunc occasione predicta
+         in vita alia eius fore obsequio mancipandos; similiter etiam equos omnes obvios, nec
+         non et defuncti regis equos electos occidunt ut ipsos in vita alia vivos recipiat.
+         Quando autem corpus <term ref="#mongu-can">Manguth Kaam</term> delatum fuit ad montem, milites qui ducebant corpus ultra .XX. milia hominum occasione{m}
+         predicta{m} occiderunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

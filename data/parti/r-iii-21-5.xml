@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-21-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-21">
+      <note>
+	<p>Ramusio adotta il resoconto della caccia ai diamanti offerto da <ref type="witlink" target="#p-iii-29">P III 29 3</ref> «Hii igitur qui volunt adamantes habere de vallibus multa de rupibus carnium frustra
+         in valles periciunt que ut plurimum super adamantes cadunt, aquile autem videntes
+         in vallibus carnes descendunt ad illas et aut ibi eas comedunt aut ad rupes deferunt
+         comedendas; qui autem observant aquilas, si vident eas cum carnibus ad montes ascendere,
+         currunt illuc si locus adiri potest et, expulsis aquilis, carnes accipiunt, in quibus
+         sepe adamantes inveniunt, adamantes qui carnibus adheserunt […]» (Pipino traduce VA CXXXVIII 9-11 «[…] queli che vuoleno d’i diamanti zetano in quelle valle gran peze de charne, e
+         lla charne chaze suli diamanti e li diamanti se fichano sula charne. Le aguie volano
+         ala charne e sì la portano a bechar in tal luogo che omo non ge può andar. Queli che
+         teneno le aquille a mente vano là e chaza-lle via; elle fuzeno e lassa la charne,
+         e i omeni toleno i diamanti che sono fiti in la charne»  – a sua volta resa di  F CLXXIV 9-11 «[…] il hi a grant valee et profonde, si desrote environ les roces, que nulz hi puet
+         aler; mes les homes font ensi com je voç dirai. Car il prenent cars, plusors peces,
+         e le gittent en celle profonde valee, e celle chars, quant ele est geté, treuve les
+         diamans en grant abondance; adonc se fichent en la cars. Or est voir qe en cele montangne
+         demorent maintes aguiles blances por prendre celz serpens. E quant cestes aguilles
+         voient la cars en le profonde de la valee, elle s’en vont et prennent celle cars et
+         la portent ‹en› autre leu. Et les homes, qe ententivemant ont gardé la ou les aigles
+         vont, tant tost qu’il voient qe le aigle est pousés et qe becche la cars, il hi vont
+         au plus tost qu’il puent. Les aigle s’en vont en autre parte e n’en porte pas la cars
+         por la dotance q’il ont de les homes qe lor s’en vi‹ene›nt soute soudainemant. E quant
+         l’en est venut a la cars, et la prant et hi trouve diamant fichés aseç»).</p>
+	<p>Z 108 18-22 presenta una forma diversa: i cacciatori spiano dove le aquile si posano per mangiare
+         i «frusta ca‹r›nium intinta in sanguine» (par. 18) gettati nelle valli (e in cui si
+         conficcano i diamanti), e quindi (parr. 21-22) «[…] cum [<hi rend="italics">le aquile</hi>] comederint, adamantes ibi remanent et aliquos aquile degluçiunt. Tunc vadunt illuc
+         et adamantes recolligunt […]». V 92 10-11 si muove sulla stessa linea (vd. par. 11 «[…] et i omeni vardano là che le vano,
+         et subito quando videno che quelle possa et manzano le charne, vano tosto e tuol le
+         piere le qual roman»). </p>
+	<p>Per quanto <hi rend="italics">sui generis</hi>, la versione di VB CXLIV 10-13 appartiene al tipo F: «[…] questi vano butando per quelle chaverne molti peci de
+         charne. Uxano lì susso aquile bianche le qualle viveno de quelli animalli venenosi;
+         e quando quele aquille vano paisendo per quelle caverne di serpe trovano la carne
+         butata in quella, e prende quella; e poi per mangiarlla volano sopra i albori. Questi
+         chaçatori stano atenti dove l’aquilla se pone a mangiar la charne e vano soto l’alboro
+         cridando con gran rumore, per modo l’aquilla lasa cader la carne e volassene. I chaçatori
+         prende la carne e molte fiate trova diama‹n›ti apichati alla carne». L 162 4 ha una versione individua ed eccentrica (che riassume in una le soluzioni alternative
+         descritte da <ref type="witlink" target="#r-iii-21">R III 21 5</ref> e <ref type="witlink" target="#r-iii-21">R III 21 6</ref>): «Deiciunt ergo carnium multa frustra, et quia ibi adest maxima multitudo dyamantium,
+         infiguntur carnes; has ergo carnes aquile quedam albe (ex quibus in hiis montibus
+         maxima conversatur multitudo) ex profundo in altum ducunt. Hoc autem facientes aquilas
+         intuentur, earumque loca considerant, sicque cadentes colligunt dyamantes».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

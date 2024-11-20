@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-53</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-53">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 53</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-53_2_1" n="1"> ‹Q›uando el se parte da questa zitade et provinzia dito di sopra el se chavalcha
+         sete zornade per ponente, trovandosse de molte zitade e chastelli pieni de marchadantie
+         e de marchadanti; et trovasse de molti belli zardini, et tute le chontrade sono piene
+         de verdure, zoè albori, deli qualli † vien nain, i qualli fa la festa †. </seg>
+      <seg xml:id="v-null-53_2_2" n="2"> E la
+         zente de quelle <term ref="#idolatri">adora le idolle</term>. </seg>
+      <seg xml:id="v-null-53_2_3" n="3"> Et là sono molte chazaxon de |63v| bestie et de oxelli de molte maniere. </seg>
+      <seg xml:id="v-null-53_2_4" n="4">
+         Et quando el se àno chavalchado sete zornade el se trova una grande e nobelle zitade,
+         la qualle sono chiamata <term ref="#quenzanfu">Chandianfo</term>, la qualle sono al chavo del reame. </seg>
+      <seg xml:id="v-null-53_2_5" n="5"> Et in quella antigamente fo uno nobelle reame,
+         grando e possente, et ezian ave molti vallenti re e nobelli chavallieri; et al prexente
+         el re de quella zitade erano fiollo del <term ref="#gran-can">Gran Signor</term>, el qualle era chiamato <term ref="#mangalu">Mangalai</term>: el padre ge la donò et inchoronòllo de quella zitade, la qualle sono molto granda.
+         </seg>
+      <seg xml:id="v-null-53_2_6" n="6"> Et sono de gran marchadanti et arte; et in quella se lavora drapi d’oro e de seda
+         et d’ogni maniere; et lavorasse de tute le monizion che partien al’exerzito del <term ref="#gran-can">Gran Chan</term>; et sono granda abondanzia d’ogni chossa che sono de bixogno al chorpo umano; et
+         sono gran marchado. </seg>
+      <seg xml:id="v-null-53_2_7" n="7"> Et la zente de questa zitade <term ref="#idolatri">adora le idolle</term>. </seg>
+      <seg xml:id="v-null-53_2_8" n="8"> Et fora della zitade son uno pallazo dello re <term ref="#mangalu">Mangalai</term>, el qualle sì è nobelle e bello, et sono i·una pianura donde sono flumi e lagi chon
+         molte fontane; primamente sono uno muro grosso et alto, el qualle volta zinque mia,
+         et sono tuto ben fato. [9] Et de mezo de questo muro sì sono el pallazo grando e bello,
+         che algun no ’l porave meio ordenare; et in quel pallazo sono de molte salle e chamere
+         tute depente di cholor d’oro. [10] Et questo <term ref="#mangalu">Mangalai</term> ordenadamente tien questo suo’ reame in gran tranquilitade e iustixia, et quello
+         vien molto amado dalla sso zente; et i ssuo’ omeni stano intorno al pallazo et ha
+         gran |64r| sollazo de chazaxon. [11] Et lasseremo de dir de questo pallazo et diremo
+         de una provinzia.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

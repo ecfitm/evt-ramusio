@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-92</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-92">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XCII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-92_2_1" n="1"> Quando l’omo à chavalchato quelle vinti zornade de montagnie per ponente, el trova
+         uno piano e una provinzia che à nome <term ref="#sindinfu">Sindifa</term>, e fo zià |43v| molto richa e grande, e ave uno re che fo molto richo. </seg>
+      <seg xml:id="va-null-92_2_2" n="2"> E volzeva
+         la zitade de vinti mia, ma ora l’è partida in tre parte. </seg>
+      <seg xml:id="va-null-92_2_3" n="3"> El è uno re in questa
+         zità molto posente: quando el vene a morte, el lasò tre fioli, e a zaschuno la soa
+         terza parte del regniame, e partireno questa zitade in tre parte; e zaschuna parte
+         à ’l so muro atorno; et era queste tre parte dentro dal muro grande. </seg>
+      <seg xml:id="va-null-92_2_4" n="4"> Lo <term ref="#gran-can">Gran Chaan</term> chonquistò lo regniame e questa zità, e desertò questi tre re, sì che la chontrà
+         è sotoposta al <term ref="#gran-can">Gran Chaan</term>.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-92_3_1" n="1"> Per mezo questa zità pasa uno fiume che à nome <term ref="#quian">Quianfu</term>, ch’è molto profondo, ben largo mezo meglio, e ‘l se ne prende molti pessi. </seg>
+      <seg xml:id="va-null-92_3_2" n="2"> Sopra
+         questo fiume è molte zità e chastelle; et ’d’è tanta moltitudine de nave e de merchadantie
+         che vano per questo fiume, ch’el nonn è homo al mo‹n›do ch’el chredesse s’el non el
+         vedesse. </seg>
+      <seg xml:id="va-null-92_3_3" n="3"> E dura plui de otanta zornade e va fina al <term ref="#mare-oceano">Mar Ozian</term>.</seg>
+    </p>
+    <p n="4">
+      <seg xml:id="va-null-92_4_1" n="1"> In la zità de <term ref="#sindinfu">Sindifa</term> sopra questo fiume è uno ponte de piera ch’è longo mezo meglio e largo oto, et è
+         choverto d’una bella choverta de llegniame, tuta choverta nobelmente de inpenture;
+         e quella choverta sostien cholone de marmoro. [9] E suxo questo ponte è molte stazon
+         de diverse arte, de stagnio et de llegniame, e sono edefichate che da doman se meteno
+         e la sera se lieva. [10] Anchora su questo ponte è una chamera dove è quel che rizeve
+         la rendita s[o]a, che è signior a quel ponte, la qual è ben mille bexanti d’oro al
+         dì.</seg>
+    </p>
+    <p n="5"/>
+  </div>
+</body>
+</text>
+     </TEI>

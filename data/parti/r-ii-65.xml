@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-65</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-65" n="1">
+    <head>
+      <hi rend="bold">R, II 65</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-65_1_1" n="1"> Della città di <term ref="#cinghianfu">Cinghianfu</term>. Cap. 65.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-65_2_1" n="1"> <term ref="#cinghianfu">Cinghianfu</term> è una città nella provincia di <term ref="#mangi">Mangi</term>, et li popoli sono tutti <term ref="#idolatri">idolatri</term> et sottoposti alla signoria del <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-ii-65_2_2" n="2"> Spendono moneta di carta, vivono di mercantie et mestieri, et sono molto ricchi.
+         </seg>
+      <seg xml:id="r-ii-65_2_3" n="3"> Lavorano panni d’oro et di seda; et è paese dilettevole da cacciare ogni sorte di
+         salvaticine et uccelli, et è abondante di vettovaglie. </seg>
+      <seg xml:id="r-ii-65_2_4" n="4"> Sono in questa città due chiese di christiani nestorini, le quali furono fabricate
+         nel 1274, quando il <term ref="#gran-can">Gran Can</term> mandò per governator di questa città per tre anni <term ref="#marsachis">Marsachis</term>, che era christiano nestorino: et costui fu quello che le fece edificare, et da quel
+         tempo in qua vi sono, che per avanti non vi erano. </seg>
+      <seg xml:id="r-ii-65_2_5" n="5"> Hor, lasciando questa città, diremo della città di <term ref="#tinguigui">Tinguigui</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

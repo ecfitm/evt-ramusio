@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-49-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-49">
+      <note>
+	<p>L’<hi rend="italics">addendum</hi> di R, desunto probabilmente da Z, sembra dettagliare uno spunto offerto da F e da
+         tutta la tradizione (vd. <ref type="witlink" target="#f-null-70">F LXX 6</ref> «L’esté ont venesion et chachajonz de bestes et d’ousiaus asseç […]»), descrivendo
+         la caccia agli uccelli palustri in estate, nel periodo della muta (Yule, Cordier,
+         1929, I, p. 272) – dettagli privi di riscontro nella tradizione, che riferisce soltanto
+         della caccia al bagherlac.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

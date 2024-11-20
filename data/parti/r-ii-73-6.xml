@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-73-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-73">
+      <note>
+	<p>La sinteticità del testo ramusiano pare riflettere <ref type="witlink" target="#p-ii-67">P II 67 5</ref> «In hac regione comedunt homines avide carnes humanas dummodo homines illi morte
+         propria non decedant et has carnes optimas reputant». Le altre fonti di R si mostrano
+         più ricche di dettagli: <ref type="witlink" target="#z-null-88-1-16">Z 88 10-12</ref> «Comedunt itaque gentes ille maneries quaslibet de carnibus. Nam comedunt et humana‹m›
+         carnem valde libenter si homines gladio vel aliter occidantur, sed si morte naturali
+         moriatur non. Et valde carnem ipsam bonam reputant et sapidam» (conforme nella sostanza
+         a <ref type="witlink" target="#f-null-154">F CLIV 6</ref> «Sachiés qe il menuient de toutes brutes couses, e menuient ausi cars d’ome mout
+         voluntieres, puis qe il ne soit mors de sa mort, mes celes que sunt ocis de fer il
+         le menuient tuit e le ont por mout bone cars»); <ref type="witlink" target="#l-null-138">L 138 5</ref> «Carnibus quibuscumque vescuntur, brutorum et animalium; et quod plus est libentius
+         et delectabilius, utuntur humanis, dummodo non sint de naturali morte perempti»; <ref type="witlink" target="#v-null-78">V 78 3</ref> «Et quela zente manzano de brute charne, e manzano charne umana volentiera, purché
+         la non sia morta da so morte; ma quelli che sono morti de chortello vieno magnadi
+         da lor, et sono reputada bona charne»; <ref type="witlink" target="#vb-null-120">VB CXX 7</ref> «Questi mangiano d’ogni charne inmonde e per simelle charne de homo molto volentieri,
+         non essendo morta da morte naturalle».</p>
+	<p>Oltre che di P (vd. anche <ref type="witlink" target="#p-ii-67">P II 67 5</ref> «<hi rend="italics">In hac regione</hi> comedunt homines avide carnes humanas» ~ R «Gli huomini <hi rend="italics">in questa regione</hi> mangiano volentieri carne humana»), Ramusio si avvale in questo punto di almeno altre
+         due fonti, affini rispettivamente a <ref type="witlink" target="#vb-null-120">VB CXX 7</ref> «<hi rend="italics">non essendo morta</hi> da morte naturalle» ~ R «<hi rend="italics">non essendo morta</hi> di malattia», e a <ref type="witlink" target="#z-null-88-1-16">Z 88 12 </ref>«Et valde carnem ipsam bonam <hi rend="italics">reputant</hi> et <hi rend="italics">sapidam</hi>» ~ R «perché la <hi rend="italics">reputano</hi> piú <hi rend="italics">delicata al gusto</hi> che alcuna altra» (ma legge <hi rend="italics">reputant </hi>anche P).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

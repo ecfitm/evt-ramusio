@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-70-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-70">
+      <note>
+	<p><ref type="witlink" target="#f-null-153">F CLIII</ref> (Ci devise de la grant cité de <term ref="#tapinzu">Tanpigiu</term>); <ref type="witlink" target="#l-null-133">L 133</ref> (De civitate <term ref="#tapinzu">Tapingiu</term>); <ref type="witlink" target="#p-ii-66">P II 66</ref> (De civitatibus Campingui et aliis civitatibus plurimis), <ref type="witlink" target="#va-null-118">VA CXVIII</ref> (De molte zità della signioria de <term ref="#quinsai">Quinsai</term>); <ref type="witlink" target="#v-null-77">V 77</ref> (Dela zità de <term ref="#tapinzu">Chanpigui</term>); <ref type="witlink" target="#vb-null-115">VB CXV</ref>; <ref type="witlink" target="#z-null-87-1-4">Z 87</ref>.</p>
+	<p>In genere nei manoscritti tale sezione è saldata con quelle relative a <term ref="#uguiu">Uguiu</term> (<ref type="witlink" target="#r-ii-71">R II 71</ref>), <term ref="#gengui">Gengui</term>, <term ref="#zengian">Zengian</term> e <term ref="#gieza">Gieza</term> (<ref type="witlink" target="#r-ii-72">R II 72</ref>): così in F, P, V e Z. VB – che come R dedica a <term ref="#tapinzu">Tapinzu</term>  un capitolo specifico – anticipa però in tale parte alcune informazioni sul centro
+         di <term ref="#uguiu">Uguiu</term> (<ref type="witlink" target="#r-ii-71">R II 71 1</ref>; <ref type="witlink" target="#vb-null-115">VB CXV 5</ref>). L’unica tra le fonti ramusiane che presenta in questo punto una partizione della
+         materia corrispondente a quella di R è L.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-28-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-28">
+      <note>
+	<p>L’assenza di «aliarum specierum» (Z) permette di individuare l’antigrafo della pericope
+         in P III 34 7 «In hac regione est mirabilis habundantia piperis, çinçibris et cucurbitorum et <term ref="#noci-dindia">nucum Yndie</term>» (versione di VA CXLIV 9 «In questa contrà è grandenisima quantità de piper et de zenzero, et de turbiti et
+         de noxe d’India»). F CLXXXII 8 presenta una descrizione più articolata:  «En ceste roiame a grandisme abondance
+         de pevre e de gengibre ausint; et canelle hi a encore aseç, et autres especeries hi
+         a encore grant quantité, et torbit et <term ref="#noci-dindia">noces de Yndes</term>»;  essa è tradotta alla lettera da L 169 3: «In hac regione sunt piper et çinçiber in habundantia magna, et cinamomum adest
+         multum similiter, et alie species; et turbit et indice nuces habentur in quantitate multa», e lievemente abbreviata in <ref type="witlink" target="#z-null-116">Z 116 14</ref> «In isto regno est habundantia magna piperis, et çimçiberis, et canele, et aliarum
+         specierum et <term ref="#noci-dindia">nucum de Yndia</term>». Il catalogo risulta abbreviato pure in V 99 7 «In questo reame sono granda abondanzia de pevere e de zenzero e de altre spezie
+         […]», e in VB CLII 8 «In questo reame è abondancia de pevere, zencero, chanella e turbiti […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

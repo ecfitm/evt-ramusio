@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-41-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>L’<hi rend="italics">incipit</hi> un po’ eccentrico richiama quello di VB CLXVI 1-2 «‹E›stier è citade sotto el segnor de <term ref="#adem">Aden</term>, el segnor dela qual quela reçe con grandissima iusticia. Et è apresso al porto de
+         <term ref="#adem">Aden</term> .IIIIc. migia […]»; VB equivoca peraltro sulla titolarità del potere sovrano, e non indica
+         le coordinate geografiche: queste vengono a Ramusio dal solo <ref type="witlink" target="#p-iii-46-1-6">P III 46 7</ref> «Ultra portum regni <term ref="#adem">Aden</term> ad miliaria .XL. est civitas una maxima nomine <term ref="#escier">Escier</term>, in eadem provincia que sita est ad septentrionalem plagam regni, multas sub se civitates
+         habens et castra multa; et est subiecta dominio regis <term ref="#adem">Aden</term> […]».</p>
+	<p>Quattrocento miglia è in effetti la misura indicata da tutta la tradizione (tranne
+         L), a partire dall’antigrafo di P, VA CLII 11 «E da lonzi del porto de <term ref="#adem">Aden</term> a quatrozento meglia è una zità grandisima ch’è della provinzia de <term ref="#adem">Aden</term>, e à nome <term ref="#erginul">Esier</term>, et è verso maistro, et à piuxor zità e chastelle soto de ssi et è sotoposta al soldan
+         de <term ref="#adem">Aden</term>»: vedi F CXCIV 1 «<term ref="#escier">Escier</term> est une grandisme cités qe est vers meistre et est longe .IIIIc. miles dou port de <term ref="#adem">Aden</term>. Ceste cité a u‹n› cuens que bien mantient sa tere en justicie. Il a encore plusors
+         cités e castiaus de sot soi. Bien est il voir que cest cuens est sotpost au <term ref="#soldan">soudan</term> de <term ref="#adem">Aden</term>»; Z 128 1-3 «<term ref="#erginul">Scyer</term> est quedam magna civitas versus magistrum, et distat a portu <term ref="#adem">Aden</term> per miliaria quatuor centum. Ista quidem civitas habet quemdam comitem, qui suam
+         terram manutenet in iusticia et habet multas alias civitates et castra sub dominio
+         suo. Sed tamen iste comes subditus est <term ref="#soldan">soldano</term> <term ref="#adem">Aden</term>»; V 110 1-2 «<term ref="#erginul">‹E›rsae</term> sono una gran zitade inverso maistro, ed è lutana dal porto di <term ref="#adem">Adan</term> quatrozento mia. E questa zitade àno uno chonte, el qual sollo reze la tera in iustixia;
+         et àno molte zitade e chastelli soto la soa signoria; et questo chonte sono sudito
+         al <term ref="#soldan">Soldano</term> de <term ref="#adem">Adan</term> […]»; L 184 1-3 «<term ref="#escier">Escier</term> est maxima civitas longe a portu de <term ref="#adem">Aden</term> .CCC. miliaribus versus magistrum. Homines sunt Sarraceni, adorantes Machomet. Et
+         habet hec civitas †portum†, et est submissa <term ref="#soldan">soldano</term> de <term ref="#adem">Aden</term>».   </p>
+	<p>Resta aperta la questione posta dalla collocazione di <term ref="#escier">Escier</term> «verso scirocco», contraddetta da tutta la tradizione di cui Ramusio poteva disporre.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

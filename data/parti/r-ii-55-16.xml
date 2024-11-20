@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-55-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-55">
+      <note>
+	<p>Ramusio segue (modificando e amplificando in più punti) <ref type="witlink" target="#vb-null-101">VB CI 10</ref> «Abuto la citade de <term ref="#quinsai">Quiquitia</term>, subito el resto della provincia se resse all’oste tartara; e mandata la regina a
+         <term ref="#cublai-can">Coblai</term> <term ref="#gran-can">Can</term> da quello fo receuta horevellemente et onorata». Alcune lezioni («tutto», «vennero
+         in suo potere») potrebbero essere state ispirate da <ref type="witlink" target="#p-ii-54">P II 54 8-9</ref> (che, per altro, presenta un testo spesso difforme da quello delle altre redazioni):
+         «Quo audito, civitates omnes regni <term ref="#mangi">Mangy</term> ad<term ref="#gran-can"> Magni Kaam</term> mandata venerunt, excepta civitate <term ref="#gampu">Samfu</term> que per triennium obedire contempsit. Regina autem ivit ad curiam <term ref="#gran-can">Magni Kaam</term> a quo fuit maximo cum honore suscepta». Non si danno elementi che documentino il
+         rapporto di R con <ref type="witlink" target="#v-null-67">V 67 14</ref> «Et quando la raina se abe rexa, tute le altre zitade se rendé senza alguna instanzia
+         […]» / <ref type="witlink" target="#v-null-67">V 67 22</ref> «Or questa raina la qual se rexe a <term ref="#chinsanbaian">Baian </term>fo menada al <term ref="#gran-can">Gran Chan</term>; et quando lo la vete li feze grando honore » (V rispecchia in sostanza <ref type="witlink" target="#f-null-138">F CXXXVIII 13</ref> «[…] Et aprés qe la roine ‹se› fu rendue, toutes les autres cités et tout le reingne
+         se renderent, qe ja ne font nulle defensse […]» / <ref type="witlink" target="#f-null-138">F CXXXVIII 20</ref> «Or voç ai conté dou reingne. Or voç conterai de la raine: fu moinés au <term ref="#gran-can">Grant Kaan</term>, e quant le <term ref="#gran-can">Gran Sire</term> la vit il la fist honorer et servir chieremant come grant dame»).</p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

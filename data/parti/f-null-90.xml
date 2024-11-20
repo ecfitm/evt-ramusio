@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-90</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-90">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XC</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-90_1_1" n="1"> Comant le <term ref="#gran-can">Grant Kaan</term> a ordree qe seç jens li ap †.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-90_2_1" n="1"> Or sachiés de voir qe endementiers qe le <term ref="#gran-can">Grant Sire</term> demore en la cité dou <term ref="#cataio">Catai</term> ces trois mois, ce sunt decenbre et jener et fevrer, il ha establi qe .LX. jornee,
+         environ la ou il est, toutes jens doient chacer et oiseler, et est establi et ordree
+         ce: qe chascun seingnor de jens et de terres qe toutes grant bestes, come sunt sengler
+         sauvajes et cerf et daines et cavriolz et horses et autres bestes, li doient aporter,
+         ce est a dire la greignor partie de celles grant bestes. </seg>
+      <seg xml:id="f-null-90_2_2" n="2"> Et en tel mainere chachoient
+         toutes les jens qe je voç ai dit. </seg>
+      <seg xml:id="f-null-90_2_3" n="3"> Et |41b| celles bestes qu’il vuelent mander
+         au <term ref="#gran-can">Grant Sire</term>, il font traire toutes l’ent{e}railles dedent le ventre, puis le mettent sus les
+         charrettes et l’envoient au seingnors. Et ce font celz de .XXX. jornee, et ce sunt
+         grandisme quantité. </seg>
+      <seg xml:id="f-null-90_2_4" n="4"> Et celz que sunt loin .LX. jornee no li envoient la charç,
+         por ce qe trop est longue voie, mes il li envoient toutes les cuires afaités et concés,
+         por ce que le seingnor en fait faire toutes sez beiçognes de fait d’armes et des hostes.
+         </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-90_3_1" n="1"> Or voç ai devisés dou fait de la cace, et adonc voç deviseron de feres bestes
+         qe le <term ref="#gran-can">Grant Sire</term> tient.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-57-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-57">
+      <note>
+	<p>Se si eccettua l’omissione dell’avv. <hi rend="italics">multum</hi>, R traduce letteralmente <ref type="witlink" target="#z-null-74">Z 74 4</ref> (a sua volta a F): «In capite vero istius diete invenitur quedam civitas nomine <term ref="#paughin">Paughin</term> multum pulcra ‹et› magna […]» (vd. <ref type="witlink" target="#f-null-140">F CXL 3</ref> «A chief de ceste jornee, treuve l’en une cité, qe est apelés <term ref="#paughin">Pauchin</term>, qe mout est bielle cité et grant […]»). Non pare invece che Ramusio abbia tenuto
+         conto di altre fonti: <ref type="witlink" target="#l-null-115">L 115 1</ref> «[…] invenitur civitas dicta <term ref="#paughin">Panchin</term>, pulcra et nobilis»; <ref type="witlink" target="#p-ii-56">P II 56 1</ref> «Ad terminum diete unius versus cyrocum ultra civitatem <term ref="#coiganzu">Coiguy</term> invenitur civitas <term ref="#paughin">Panthi</term> grandis ac nobilis […]»; <ref type="witlink" target="#v-null-68">V 68 5</ref> «Et in chavo de questa zornada el se trova una zitade la qualle sono chiamata <term ref="#paughin">Pavian</term>, et sono molto bella e granda […]»; <ref type="witlink" target="#vb-null-103">VB CIII 3</ref> «Sì che in questo camino per una giornatta se trova grande giente e una bellissima
+         e grande citade la qualle se chiama <term ref="#paughin">Parchim</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

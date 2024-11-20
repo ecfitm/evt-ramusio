@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-18-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-18">
+      <note>
+	<p>La pericope traduce alla lettera (con la sola glossa aggiuntiva «ammazzano») <ref type="witlink" target="#z-null-105">Z 105 4</ref> «Sunt gentes crudeles, et omnes homines quos capere posunt comedunt, dummodo non
+         sint de gente sua» (pericope a sua volte versione di F CLXXI 4 «Il sunt mout cruel jens. Il menuient les omes, tuit cil qe il puent prandre, puis
+         qu’il ne soient de lor jens»; la resa è la stessa in L 158 3 «Et sunt crudelissimi homines, quia quoscumque homines capere possunt homines, dummodo
+         ex ipsis non fuerit, libentissime commedunt», in V 89 2 «[…] e sono chrudel zente, et manzano tuti i omeni i qualli puol piare, purché i
+         non siano dela so zente»; VB CXLI 3 connette l’informazione sull’antropofagia a un’altra sui consumi carnei degli indigeni
+         – vd. la nota a <ref type="witlink" target="#r-iii-18">R III 18 4</ref>; il connettore è l’agg. <hi rend="italics">inmonde</hi>, un <hi rend="italics">hapax </hi>nella tradizione – «Sono crudellissima giente e mangiano quanti homeni i pono avere,
+         pur non siano de suo’ giente; mangiano de tute carne inmonde»).</p>
+	<p>P III 21 1-2 divide le informazioni in due segmenti: la prima è  «[…] silvestres atque crudelissimi
+         sunt»; la seconda colloca la descrizione dell’antropofagia nel paragrafo relativo
+         agli <hi rend="italics">usus</hi> alimentari degli indigeni (con una connessione affine a VB): «[…] nullam autem carnem
+         abhominantur in cibum: humanas etiam carnes comedunt»; vd. VA CXXXV 2 «[…] e manzano ogni carne, anchora de umana, et sono chrudelisimi».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

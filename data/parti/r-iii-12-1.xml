@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-12-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>Ramusio traduce in forma di fatto letterale Z 99 14 «Et cum ab isto regno disceditur, intratur in regnum <term ref="#basma">Basma</term>, quod regnum per se est, loquelam per se habens, cuius gentes legem habent tanquam
+         bestie» (a sua volta resa di F CLXV 9 «Et quant l’en se part de ceste roiame de <term ref="#felech">Ferlec</term>, il entre eu roiame de <term ref="#basma">Basma</term>. Ceste <term ref="#basma">Basma</term> est roiames por soi et ont lor langajes, mes il sunt jens qe ne ont nulle loi, se
+         ne come bestes» – la stessa lezione si ritrova in sostanza in V 87 11 «Quando el se parte da questo reame se intra inel reame de <term ref="#basma">Basmai</term>, el qual reame àno loquella per sí; la zente del qualle àno leze chomo bestie […]»).</p>
+	<p>P III 15 1 («Regnum <term ref="#basma">Basman</term> linguam propriam habet, legem non habet: homines enim bestiales ibi valde sunt […]»)
+         rielabora un modello che verosimilmente era assai vicino al tenore di F: vd. VA CXXIX 1 «Quando l’omo se parte del regniame de <term ref="#felech">Ferlech</term>, el entra nel regniame de Besaron, lo qual à lenguazio proprio, e nonn à la zente della contrà leze se non chome bestie».
+         L 152 1 offre un’informazione parziale: «In hac insula eciam, iuxta predictum regnum, est
+         regio dicta <term ref="#basma">Basman</term>; cuius gentes more bestiali vivunt absque lege – habent tamen proprium ydeoma»; così
+         (nonostante l’apparente diffusione discorsiva) anche VB CXXXV 1 «‹P›artendosi del reame de <term ref="#felech">Forlletto</term> – el quall chome ò ditto è deli .VIII. reami – dapoi se entra nel reame de <term ref="#basma">Basma</term>, la giente dil quale à linguaço da per si. Questi non àno neuna legie […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

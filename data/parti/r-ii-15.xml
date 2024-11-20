@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-15" n="1">
+    <head>
+      <hi rend="bold">R, II 15</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-15_1_1" n="1"> Di duoi fratelli che sono capitani della caccia del <term ref="#gran-can">Gran Can</term>, con diecimila huomini per uno et con cinquemila cani. Cap. 15.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-15_2_1" n="1"> Il gran signore ha duoi fratelli, che sono germani fratelli, uno de’ quali si chiama
+         <term ref="#bayan">Bayan</term> et l’altro <term ref="#mingan">Mingan</term>, et chiamansi “ciuici” in lingua tartaresca, cioè “signori della caccia”, et tengono i cani da caccia et
+         da <term ref="#paisa">paisa</term>, da lepori et mastini; et ciascun di questi fratelli ha diecimila huomini sotto di
+         sé, et gli huomini che sono sottoposti ad uno di questi vanno vestiti |28r| di rosso,
+         et li sottoposti all’altro di turchino celeste: et ogni volta che vanno alla caccia
+         portano queste vesti, et menano seco cani segusii, levrieri et mastini sino al numero
+         di cinquemila, perché sono pochi che non habbino cani. </seg>
+      <seg xml:id="r-ii-15_2_2" n="2"> Et sempre uno di questi fratelli con li suoi diecimila va alla destra del signore,
+         et l’altro alla sinistra con li suoi diecimila, et vanno l’un presso all’altro con
+         le schiere in ordinanza, sí che occupano ben una giornata di paese: per il che non
+         vi è bestia che da loro non sia presa. </seg>
+      <seg xml:id="r-ii-15_2_3" n="3"> Et è una bella cosa et molto dilettevole a vedere il modo d’i cacciatori et delli
+         cani, imperoché, mentre ch’il <term ref="#gran-can">Gran Can</term> va in mezzo cacciando, si veggono questi cani seguitar cervi, orsi et altre bestie
+         da ogni banda. </seg>
+      <seg xml:id="r-ii-15_2_4" n="4"> Et questi duoi fratelli sono obligati per patto dare alla corte del <term ref="#gran-can">Gran Can</term> ogni giorno, cominciando del mese d’ottobre sino per tutto il mese di marzo, mille
+         capi tra bestie et uccelli, eccetto <term ref="#quaglia">quaglie</term>, et anchora pesci, secondo che meglio possono, computando tanta quantità di pesce
+         per un capo quanto potrebbono tre persone sufficientemente mangiare ad uno pasto.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

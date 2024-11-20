@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-2">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 2</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="v-null-2_1_1" n="1"> ‹N›el tempo de <term ref="#balduino">Baldoin</term>, inperador de <term ref="#constantinopoli">Chonstantinopoli</term>, e de misie’ Ponte de Veniexia, el qualle in quel tempo rezeva <term ref="#constantinopoli">Chonstantinopoli</term> per nome dela Duchal Signoria de Veniexia, nel’ano mileduxento e zinquanta misie’
+         Nicholò Polo, el quale fo padre ‹…› de misier Mafio Polo, chon le lor marchadantie
+         iera vegnudi da Veniexia a <term ref="#constantinopoli">Chostantinopoli</term> ed era nobelissimi marchadanti e omeni de sotil inzegni, onde li vene nela dita zitade.
+         </seg>
+      <seg xml:id="v-null-2_1_2" n="2"> Et stando lì alguni zorni li vene in chuor di voler andar nel <term ref="#mar-maggiore">Mar Mazore</term> per dispensar le lor marchadantie et chonprar molti zoieli. </seg>
+      <seg xml:id="v-null-2_1_3" n="3"> Et fato che i ebe
+         el pensamento, se partirono da <term ref="#constantinopoli">Chonstantinopoli</term> chon una nave et andòe nel <term ref="#mar-maggiore">Mar Mazore</term> et in pochi zorni zonsse a <term ref="#soldadia">Soldaria</term>, et dismontò dela nave e stete molti zorni in quela tera. </seg>
+      <seg xml:id="v-null-2_1_4" n="4"> Et vezando che in quela
+         nonn era alguna chossa per loro, diterminò di andar più avanti, et partìsse dela dita
+         <term ref="#soldadia">Soldaria</term> et chavalchò molte zornade che lor non trovò chossa alguna, et finalmente li vene
+         a chapitar a Bracharchan, una zitade la qual signorizava una parte de <term ref="#tartari">Tartari</term>. </seg>
+      <seg xml:id="v-null-2_1_5" n="5"> Et in quel tempo iera |4r<hi rend="italics">|</hi> in una zitade i‹n la› qual ‹i› diti chapitòe, una zitade chiamata <term ref="#bolgara">Buorgara</term>, et in questa era uno Signor chiamato <term ref="#barcha">Tbarzara</term>. </seg>
+      <seg xml:id="v-null-2_1_6" n="6"> Et questo, vedendo questi duo marchadanti, li fezie grandissimo onor, onde che
+         questi li donò al dito Signor tuti i zoieli che lor avea portadi, onde quelo li rezevé
+         volentieri et fezeli dar a queli el dopio del valor dei diti zoieli. </seg>
+      <seg xml:id="v-null-2_1_7" n="7"> Et siando
+         stati questi duo frateli chon questo Signor zercha uno ano, el nasé gran guera tra
+         ’sto Signor e <term ref="#ulau">Alcho</term>, Signor de <term ref="#tartari">Tartari de Levante</term>, onde che una parte e l’altra feze suo’ forzo de zente et vene ai luogi uxitadi di
+         guere, che ognuno potia far la sua bataia, sì che una parte e l’altra ave gran dano
+         dila so zente. </seg>
+      <seg xml:id="v-null-2_1_8" n="8"> Et finalmente <term ref="#ulau">Alcho</term> fo venzidor di questa guera, per tal muodo che nesun non podea andar più seguri per
+         el paixe donde era venuti i diti marchadanti, che tuti erano prexi e robadi, ma ben
+         seguri podeva andar più oltra. [9] Di che vezando questo i diti misier ‹Nicholò› Polo
+         e misier Mafio, che li non podea tornar chon le lor marchadantie a <term ref="#constantinopoli">Chonstantinopoli</term>, deliberò andar più avanti et prexe la via verso di levante partendosse da <term ref="#bolgara">Burgara</term>. [10] E tanto chavalchòe che i vene a chapitare a una zitade chiamata <term ref="#ouchacha">Ugchecher</term>, la qual sono alo fin del reame del Signor de Ponente. [11] Possa partìsse da questa
+         <term ref="#ouchacha">Ugchecher</term> et passò il fiume chiamato <term ref="#tigris">Tigris</term> et andorono per uno dexerto il qualle era longo diexedoto zornade, et in quelo non
+         trovò zitade né chasteli né ville, se non sollamente <term ref="#tartari">Tartari</term> chon le suo’ tende, i quali viveva delo late dele suo’ bestie. [12] Et quando i ave
+         passado el dito dexerto chapitòe a una zitade, la qual sono chiamata <term ref="#bocara">Buchara</term>, |4v<hi rend="italics">|</hi> la qual zitade sono molto granda, e simelmente la provinzia era chiamata <term ref="#bocara">Bucharan</term>; et questa è nele parte de <term ref="#persia">Persia</term> nela qual zitade signorizava uno re chiamato <term ref="#barach">Barac</term>. [13] Lì or siando questi duo frateli chapitadi nela dita zitade, non posando andar
+         più avanti né tornar indriedo per le gran guere ch’era fra i <term ref="#tartari">Tartari</term>, diterminò di posarse in questa zitade et dimorò nela dita tre ani, onde in questo
+         fra quei <term ref="#tartari">Tartari</term> fu fato paxe. [14] Et passato alguni zorni el vene a chapitar nela dita zitade uno
+         meso ‹…› chiamato <term ref="#ulau">Laus</term>, Signor de Levante, el qual andava al <term ref="#gran-can">Gran Chan</term>, zoè al <term ref="#gran-can">Gran Signor</term> de <term ref="#tartari">Tartari</term>, el quale abitava in le chonfine dele tere de griego e levante, el qual Signor era
+         chiamato Cholai Chan. [15] Or quando questo meso ave vezudo questo misier Nicholò e misier Mafio, se meraveiono
+         molto, perché in quele parte nonn era mai stato vezudi latini; onde quel messo ave
+         a dir a queli do frateli: «Se vui me voré chreder de quelo che io ve dirò, vui ne
+         averete grando onor et utele». [16] Et elli disse: «Nui chrederemo tuto, purch’el
+         sia chossa che si possa far». [17] Et quel meso disse: «Signori, io ve digo che ’l
+         <term ref="#gran-can">Gran Signor</term> de <term ref="#tartari">Tartari</term> non vete mai algun latin et à gran dexiderio de vederne, et imperzò ve digo, se vui
+         volete vegnir miecho da lui, el ve vederà volentiera et faràve grando onor e profito,
+         et seguramente potete vegnir miego; et non dubitade de inpazo alguno sia fato ale
+         vostre persone domentre sarete chon mi».</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

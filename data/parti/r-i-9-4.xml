@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-9-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-9">
+      <note>
+	<p>La prima parte del paragrafo di R, non confrontabile con il toledano, risponde più
+         al dettato di <ref type="witlink" target="#f-null-29">F XXIX 5-6</ref> («El est cité que mout hi font grant profit les mercant viandant. Il sunt jens de
+         poch afer […]») che a quello dei modelli ramusiani: infatti <ref type="witlink" target="#p-i-17">P I 17 3</ref> abbrevia considerevolmente («[…] ibi multi mercatores ditantur»), mentre L, V e VB
+         addirittura tacciono il dettaglio specifico della disparità economica tra mercanti
+         ricchi e poveri indigeni. La fonte di Ramusio sarà dunque stata, anche qui, un esemplare
+         completo di Z: lo conferma il confronto tra le linee immediatamente successive e la
+         lezione toledana, ove R rispecchia Z con una certa precisione, specialmente nell’utilizzo
+         dell’agg. <hi rend="italics">mescolati</hi> &lt; <hi rend="italics">admixte</hi> e nell’ordine di citazione delle confessioni cristiane: cfr. <ref type="witlink" target="#z-null-8">Z 8 4-5</ref> «Et multe maneries gentium ibi sunt admixte: nam ibi Nestorini, Armeni, Iacopiti,
+         Iorgienses et Perses habitant. Item sunt ibi gentes che Macometum adorant», vicino a <ref type="witlink" target="#f-null-29">F XXIX 6</ref> («[…] et sunt mout meslee de maintes maineres: jens il ha armi‹n›, nestori‹n› et
+         iacopit, et giorgian et persian; et hencore hi a homes que aorent <term ref="#macometto">Maomet</term> […] ») e a <ref type="witlink" target="#l-null-24">L 24 3</ref> («[…] Et sunt in hac civitate multe gentes diversarum conditionum: christiani videlicet,
+         Armini, ‹nestorini›, iachopite, Çorçiani, Persiani et aliqui adorantes <term ref="#macometto">Machomet</term> […]»). Per il resto, <ref type="witlink" target="#p-i-17">P I 17 5</ref> abbrevia («Sunt enim ibi nestorini, iacobini et perse; cives Thaurisii <term ref="#macometto">Machometum</term> adorant»), <ref type="witlink" target="#v-null-16">V 16 3</ref> offre una lezione meno pedissequa del solito a F, e sensibilmente corrotta nel segmento
+         finale («Et sono nela dita molti christiani nosterini et iachopiti, Armini, Zorzani
+         et ‹zente› de <term ref="#persia">Persia</term> che adora <term ref="#macometto">Machometo</term>»), VB tace.</p>
+	<p>L’accenno ramusiano al plurilinguismo di <term ref="#thauris">Tabrīz</term> non ha riscontro nella tradizione: uno spunto consimile si rinviene nel solo <ref type="witlink" target="#v-null-16">V 16 4</ref> «El populo dela zitade vien chiamadi Taurizi, et hano la lengua per sí»), che tuttavia
+         non sembra fare riferimento a una molteplicità di idiomi – che doveva in effetti caratterizzare
+         una città abitata da gruppi etnico-religiosi differenti – ma soltanto alla diversità
+         della parlata dei <hi rend="italics">Taurizi</hi> rispetto alle popolazioni circostanti.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

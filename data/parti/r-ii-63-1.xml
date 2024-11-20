@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-63-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-63">
+      <note>
+	<p>La fonte principale del passo, come dimostrano varie lezioni caratteristiche e diverse
+         omissioni, è <ref type="witlink" target="#vb-null-109">VB CIX 1</ref> «‹P›artendosi da <term ref="#saianfu">Saianfu</term> [R «<term ref="#saianfu">Saianfu</term>»], chaminando per sirocho migia .XV., se trova la cità chiamata <term ref="#singui">Singuy</term> [R «si trova la città di <term ref="#singui">Singui</term>»]: nonn è tropo gran cità ma molto bona per le marchadantie […]» [R «ma molto buona
+         per le mercantie»]. Alcune coincidenze formali, tuttavia, sembrano indicare che Ramusio
+         abbia collazionato il suo modello base con un esemplare di V (che rispecchia in sostanza
+         la lezione di F) o, più probabilmente, di Z:<ref type="witlink" target="#v-null-72"> V 72 1</ref> «‹Q›uando el se parte dela zità [R «Come si parte dalla città»] sopradita vasse [R
+         «si va»] per sirocho quindexe zornade, e trovasse una zitade la qual sono chiamata
+         <term ref="#singui">Seguin</term>; et non sono tropo granda, ma sono molte […] marchadantie; la zente dela qualle adora
+         idole; et sono soto la signoria del <term ref="#gran-can">Gran Chan</term>; e spendeno monede de charta» (<ref type="witlink" target="#f-null-146">F CXLVI 2</ref> «Or sachiés qe quant l’en se part de la cité de <term ref="#saianfu">‹Y›angiu</term> et il ala por yseloc .XV. miles, adonc treuve une cité qe est apelés <term ref="#singui">Singiu</term>: ne est mie trop grant, mes ele est […] de grant mercandies. Il sunt <term ref="#idolatri">ydres</term> et sunt au <term ref="#gran-can">Grant Kaan</term>; lor monoie est de carte»); <ref type="witlink" target="#z-null-80">Z 80 1-4</ref> «Cum [R «Come»] vero, discedendo a supradicta civitate <term ref="#iangui">Yançu</term>, itum est miliaribus quindecim per syrocum, invenitur quedam civitas nomine <term ref="#singui">Sinçu</term>, que [R «la quale»] non est valde magna [R «molto grande»] […]. Et mercimonia multa
+         ex diversis partibus ducuntur ad eam, quia portus est. Gentes <term ref="#idolatri">adorant ydola</term>. Monetam expendunt de cartis». Non si danno, invece, somiglianze significative tra
+         R e le versioni accorciate di L e P: <ref type="witlink" target="#l-null-121">L 121 1</ref> «A civitate <term ref="#saianfu">‹Y›angiu</term> versus syroch .XV. miliaribus est non magna civitas dicta <term ref="#singui">Singiu</term> […]»; <ref type="witlink" target="#p-ii-59">P II 59 1</ref> «Post recessum a civitate <term ref="#saianfu">Syansu</term> ad miliaria .XV. per çirocum habetur civitas <term ref="#singui">Synguy</term> non multum grandis […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

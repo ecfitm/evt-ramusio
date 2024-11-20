@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-47</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-47">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 47</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-47_1_1" n="1"> Cum ab isto ponte disceditur et itum est .XXX. miliaribus per ponentem, inveniendo
+         continue herbas, vineas et campos, invenitur quedam civitas nomine <term ref="#gouza">Çonça</term> pulcra et magna valde. </seg>
+      <seg xml:id="z-null-47_1_2" n="2"> In ea sunt multe abbatie ydolorum. </seg>
+      <seg xml:id="z-null-47_1_3" n="3"> Vivunt quidem gentes
+         de mercimoniis et artibus. </seg>
+      <seg xml:id="z-null-47_1_4" n="4"> Ibi laborantur drappi aurei et de syrico, |22v| et
+         pulcre sidones.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="z-null-47_2_1" n="1"> Et ‹cum› ab ista civitate discedendo itum est per miliare unum, inveniuntur due
+         vie, per unam quarum itur versus ponentem, per aliam versus sirochum. </seg>
+      <seg xml:id="z-null-47_2_2" n="2"> Et noveritis
+         quod a civitate <term ref="#gouza">Çonçu</term> usque ad regnum <term ref="#tainfu">Tayanfu</term> equitatur per provinciam <term ref="#cataio">Cathay</term> .X. dietis, semper inveniendo multas pulcras civitates et castra de magnis artibus
+         et mercimoniis munitas, et inveniendo vineas et campos, in quibus multum nascitur
+         syricum. </seg>
+      <seg xml:id="z-null-47_2_3" n="3"> Sunt omnes gentes domestice propter spissitudinem civitatum. </seg>
+      <seg xml:id="z-null-47_2_4" n="4"> Et frequentantur
+         ita vie illarum civitatum quod semper inveniuntur gentes transeuntes, etcetera.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-34-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-34">
+      <note>
+	<p>Il testo è coerente, per struttura e completezza informativa, con <ref type="witlink" target="#f-null-55">F LV 5</ref> «Il hi a fluns qe moinent diaspes et calcedon, les qualz portent a vendre au <term ref="#cataio">Cata</term> et n’ont grant profit car il en ont aseç et bones». Per quanto la povertà della lezione
+         toledana non consenta di verificarlo (vd. <ref type="witlink" target="#z-null-29">Z 29 5</ref> «Sunt etiam ibi flumina producencia dyaspos et calcedonios»), è probabile che anche
+         qui Ramusio abbia utilizzato il suo Z completo, forse con un occhio a <ref type="witlink" target="#p-i-43">P I 43 2</ref> per alcune scelte sintattiche e lessicali («Ibi sunt flumina in quibus habentur […]» &gt; «Vi sono molti fiumi grossi, nelli quali si trovano […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

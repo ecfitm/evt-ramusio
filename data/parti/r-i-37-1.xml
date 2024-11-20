@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-37-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-37">
+      <note>
+	<p>L'esordio del capitolo combina il dettato di P e Z: in testa e in coda («<term ref="#chamul">Chamul</term> […] al <term ref="#gran-can">Gran Can</term>», «cioè […] tre giornate») è debitore di <ref type="witlink" target="#p-i-46">P I 46 1</ref> («<term ref="#chamul">Camul</term> vero provincia una est intra magnam provinciam <term ref="#tanguth">Tanguth</term>, que est subiecta <term ref="#gran-can">Magno Kaam</term> […] scilicet inter magnum, de quo supradictum est, et aliud, quod in longitudine
+         vie continet dietas tres»), nella porzione centrale di <ref type="witlink" target="#z-null-32">Z 32 1-2</ref> («<term ref="#chamul">Camul</term> est quedam provincia in qua sunt multe civitates et castra, quarum magistra civitas
+         est <term ref="#chamul">Camul</term>.  Provincia vero est in medio duorum desertorum»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

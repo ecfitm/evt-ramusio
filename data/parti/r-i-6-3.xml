@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-6-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-6">
+      <note>
+	<p>Ramusio desume il paragrafo <hi rend="italics">verbum de verbo</hi> da Z: vd. <ref type="witlink" target="#z-null-5">Z 5 6-7</ref> «In montibus vero huius provincie quedam gentes habitant que <term ref="#curdi">Curd</term> appelantur, qui in parte christiani, nestorini et iacopiti sunt, in parte vero saraceni
+         qui Macometum adorant. Ipsi sunt probi et nequam homines, et mercatores depredantur libenter»,
+         a sua volta versione pressoché letterale di <ref type="witlink" target="#f-null-23">F XXIII 8-9</ref> «Et en les montagnes de cest rengne demorent jens, ke sunt apelés <term ref="#curdi">Curd</term>, que sunt cristiens nestorin et jacopit. Le une partie sunt saraïn que aorent <term ref="#macometto">Maomet</term>. Il sunt prodomes et mauveise jens; et robent voluntere les mercaant». </p>
+	<p>La lezione di R si differenzia da Z unicamente nella resa della coppia di aggettivi
+         <hi rend="italics">probi et nequam</hi> (calco di F: <hi rend="italics">prodomes</hi> <hi rend="italics">et</hi> <hi rend="italics">mauveise</hi> <hi rend="italics">jens</hi>, ove <hi rend="italics">prodomes</hi> varrà “uomini valenti, gagliardi” [<hi rend="italics">AFW</hi>, VII, s. v.]), che Ramusio traduce “cattivi e di mala sorte”, forse per un’interpretazione
+         fallace, inevitabilmente condizionata dal contesto, dell’agg. <hi rend="italics">probi</hi> (ritenuto corruzione di <hi rend="italics">improbi</hi>?).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

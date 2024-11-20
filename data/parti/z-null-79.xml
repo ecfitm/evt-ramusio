@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-79</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-79">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 79</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-79_1_1" n="1"> <term ref="#saianfu">Sayanfu</term> est quedam magna civitas et nobilis, cuius iurisdicioni respondent duodecim civitates
+         divites et magne. </seg>
+      <seg xml:id="z-null-79_1_2" n="2"> Ibi fiunt multe mercationes et artes. </seg>
+      <seg xml:id="z-null-79_1_3" n="3"> Gentes <term ref="#idolatri">adorant ydola</term>, monetam expendunt de cartis, funera comburunt et sunt sub dominio <term ref="#gran-can">Magni Can</term>. </seg>
+      <seg xml:id="z-null-79_1_4" n="4"> Habent h‹ab›undantiam syrici et laborant drapos aureos et de syrico. </seg>
+      <seg xml:id="z-null-79_1_5" n="5"> Habent
+         venationes multas. </seg>
+      <seg xml:id="z-null-79_1_6" n="6"> Civitas quidem predita est omnibus que pertineant ad nobilem
+         civitatem. </seg>
+      <seg xml:id="z-null-79_1_7" n="7"> Et noveritis quod civitas ista multo tempore se defendit ex quo se
+         diderat provincia tota <term ref="#mangi">Manci</term>, dum continue coram ea magnus exercitus resideret. </seg>
+      <seg xml:id="z-null-79_1_8" n="8"> Sed exercitus |40r| permanere
+         non poterat, nisi solummodo a facie una, videlicet versus tramontanam: nam ab omnibus
+         aliis lateribus erant lacus profundi et stagna, unde per aquam victualia civitati
+         sufficientia ferebantur, nec poterat exercitus prohibere. [9] Postea ultimate habuerunt
+         ipsam ut alias civitates, etcetera.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-9-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-9">
+      <note>
+	<p>R segue da vicino <ref type="witlink" target="#z-null-8">Z 8 1</ref> «<term ref="#thauris">Thoris</term> est quedam civitas magna, sita in quadam provincia <term ref="#hirach">Yrach</term> nomine, in qua quidem multe alie sunt civitates et castra, sed, quia <term ref="#thauris">Thoris</term> nobilior est, ideo de eius esse tractatur ad presens»), ma se ne distanzia nel segmento
+         finale (<hi rend="italics">et più popolata</hi>), che Ramusio probabilmente desume da una nota originale di <ref type="witlink" target="#p-i-17">P I 17 4</ref> «Populus maximus terram incolit», preferita allo sviluppo formulare di Z («ideo […]
+         ad presens»). Quest’ultimo, eredità della lezione di <ref type="witlink" target="#f-null-29">F XXIX 2</ref>  – «<term ref="#thauris">Toris</term> est une grant cité qui est en une provence qui est apelés <term ref="#hirach">Yrac</term>, en la quel a encore maintes cités et mant ca{u}staus; mais, por ce ke <term ref="#thauris">Toris</term> est la plus noble cité de celle provence, voç conterai de son afar» –, è del resto
+         rifiutato da tutti gli altri relatori: vd. <ref type="witlink" target="#l-null-24">L 24 1</ref> «<term ref="#thauris">Toris</term> est magna civitas in provincia dicta <term ref="#hirach">Irach</term>, in qua sunt eciam multe civitates et castra – ipsa tamen est aliis valde maior»,
+         <ref type="witlink" target="#p-i-17">P I 17 1</ref> «<term ref="#thauris">Thaurisium</term> est in illis partibus nobilissima civitas», <ref type="witlink" target="#v-null-16">V 16 1-2</ref> «<term ref="#thauris">‹T›oris</term> è una nobele zitade, et sono in la provinzia chiamata <term ref="#hirach">Irach</term>, in la qual sono molte zitade e chastele molto riche. Et questa <term ref="#thauris">Toris</term> sono la più nobele zitade de quela parte», <ref type="witlink" target="#vb-null-18">VB XVIII 1</ref> «‹T›oriz è citade granda et nobelle et chiamasi in sua lengua <term ref="#hirach">Irach</term> et à molte citade et chastelli sotto si, ma la più nobelle et chapo dela provincia
+         è <term ref="#thauris">Toris</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

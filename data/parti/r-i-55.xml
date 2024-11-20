@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-55</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-55" n="1">
+    <head>
+      <hi rend="bold">R, I 55</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-55_1_1" n="1"> Del bellissimo palazzo del <term ref="#gran-can">Gran Can</term> in la città di <term ref="#xandu">Xandú</term>; et della mandra di cavalli et cavalle bianche, del latte d’i quali fanno ogn’anno
+         sacrificio; et delle cose maravigliose che li loro astrologhi fanno far quando vien
+         mal tempo, et ancho della sala del <term ref="#gran-can">Gran Can</term>, et delli sacrificii che li detti fanno; et di due sorti di religiosi, cioè poveri,
+         et d’i costumi et vita loro. Cap. 55.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-55_2_1" n="1"> Quando si parte da questa città di sopra nominata, andando tre giornate per <term ref="#greco">greco</term> si trova una città nominata <term ref="#xandu">Xandú</term>, la qual edificò il <term ref="#gran-can">Gran Can</term> che al presente regna, detto |17r| <term ref="#cublai-can">Cublai Can</term>; et quivi fece fare un palazzo di maravigliosa bellezza et artificio, fabricato di
+         pietre di marmo et d’altre belle pietre, qual con un capo confina in mezzo della città
+         et con l’altro col muro di quella. </seg>
+      <seg xml:id="r-i-55_2_2" n="2"> Dalla qual parte, a riscontro del palazzo,
+         un altro muro ferma un capo da una parte del palazzo nel muro della città, et l’altro
+         dall’altra parte circuisse, et include ben sedeci miglia di pianura, talmente che
+         entrare in quel circuito non si può se non partendosi dal palazzo. </seg>
+      <seg xml:id="r-i-55_2_3" n="3"> In questo circuito et serraglia sono prati bellissimi et fonti et molti fiumi, et
+         ivi sono animali di ogni sorte, come cervi, daini, caprioli, quali vi fece portar
+         il <term ref="#gran-can">Gran Can</term> per pascer i suoi falconi et <term ref="#girifalco">girifalchi</term>, ch’egli tiene in muda in questo luogo, i quali <term ref="#girifalco">girifalchi</term> sono piú di dugento: et esso medesimo va sempre a vederli in muda, al manco una volta
+         la settimana. </seg>
+      <seg xml:id="r-i-55_2_4" n="4"> Et molte volte, cavalcando per questi prati circondati di mura,
+         fa portar un leopardo, o vero piú, sopra le groppe de’ cavalli, et quando vuole lo
+         lascia andare, et subito prende un cervo o vero capriolo o daino, li quali fa dare
+         a’ suoi falconi et <term ref="#girifalco">girifalchi</term>: et questo fa egli per suo sollazzo et piacere. </seg>
+      <seg xml:id="r-i-55_2_5" n="5"> In mezzo di quei prati, ove è un bellissimo bosco, ha fatto fare una casa regal,
+         sopra belle colonne dorate et invernicate, et a cadauna è un dragone tutto dorato
+         che rivolge la coda alla colonna, et col capo sostiene il soffittado, et stende le
+         branche, cioè una alla parte destra a sostentamento del soffittado et l’altra medesimamente
+         alla sinistra. </seg>
+      <seg xml:id="r-i-55_2_6" n="6"> Il coperchio similmente è di canne dorate, et vernicate cosí bene
+         che niuna acqua li potria nocere, le quali sono grosse piú di tre palmi et lunghe
+         da dieci brazza, et tagliate per cadauno groppo si parteno in duoi pezzi per mezzo
+         et si riducono in forma de coppi: et con queste è coperta la detta casa, ma cadauno
+         coppo di canna per difensione de’ venti è ficcato con chiodi. </seg>
+      <seg xml:id="r-i-55_2_7" n="7"> Et detta casa a
+         torno a torno è sostentata da piú di dugento corde di seda fortissime, perché dal
+         vento (per la leggerezza delle canne) saria rivoltata a terra. [8] Questa casa è fatta
+         con tanta industria et arte che tutta si può levar et metter zoso et poi di nuovo
+         reedificarla a suo piacere; et fecela far il <term ref="#gran-can">Gran Can</term> per sua dilettatione, per esservi l’aere molto temperato et buono, et vi habita tre
+         mesi dell’anno, cioè zugno, luglio et agosto, et ogn’anno, alli ventiotto della luna
+         del detto mese di agosto, si suol partire et andare ad altro luogo, per far certi
+         sacrificii in questo modo. [9] Ha una mandra di cavalli bianchi et cavalle come neve, et possono essere da diecimila,
+         del latte delle quali niuno ha ardimento bere s’egli non è descendente della progenie
+         di <term ref="#cingis-can">Cingis Can</term>. [10] Nondimeno <term ref="#cingis-can">Cingis Can</term> concesse l’honore di bere di questo latte ad un’altra progenie, la quale al tempo
+         suo una fiata si portò molto valorosamente seco in battaglia, et è nominata <term ref="#boriat">Boriat</term>. [11] Et quando queste bestie vanno pascolando per li prati et per le foreste se
+         gli porta gran riverenza, né ardiria alcun andargli davanti o vero impedirli la strada.
+         [12] Et havendo gli astrologhi suoi, che sanno l’arte magica et diabolica, detto al
+         <term ref="#gran-can">Gran Can</term> che ogn’anno, al vigesimo ottavo dí della luna di agosto, debbia far spandere del
+         latte di queste cavalle per l’aria et per terra per dar da bere a tutti i spiriti
+         et idoli che adorano, acciò che conservino gl’huomini et le femmine, le bestie, gli
+         uccelli, le biade et l’altre cose che nascono sopra la terra, per questa causa il
+         <term ref="#gran-can">Gran Can</term> in tal giorno si parte dal sopradetto luogo et va a far di sua mano quel sacrificio
+         del latte. [13] Fanno anchora questi astrologhi, o vogliam dire negromanti, una cosa maravigliosa
+         a questo modo: che come appar che ’l tempo sia turbato et vogli piovere, vanno sopra
+         il tetto del palazzo ove habita il <term ref="#gran-can">Gran Can</term>, et per virtú dell’arte sua il difendono dalla pioggia et da tempesta, talmente che
+         a torno a torno descendono pioggie, tempeste et baleni, et il palazzo non vien tocco
+         da cosa alcuna. [14] Et costoro che fanno tal cose si chiamano “<term ref="#tebeth">tebeth</term>” et “<term ref="#chesmir">chesmir</term>”, che sono due sorti d’<term ref="#idolatri">idolatri</term> quali sono i piú dotti nell’arte magica et diabolica di tutte l’altre genti, et danno
+         ad intendere al vulgo che queste operation siano fatte per la santità et bontà loro,
+         et per questo vanno sporchi et immondi, non curandosi dell’honor suo né delle persone
+         che li veggono; sostengono il fango nella lor faccia, né mai si lavano né si pettinano,
+         ma sempre vanno lordamente. [15] Hanno costoro un bestial et horribil costume, che
+         quando alcuno per il dominio è giudicato a morte, lo tolgono et cuoceno et mangianlo;
+         ma se muore di propria morte non lo mangiano. [16] Oltra il nome sopradetto si chiamano
+         ancho “<term ref="#bachsi">bachsi</term>”, cioè di tal religione o vero ordine come si direbbono frati predicatori o vero
+         minori, et sono tanto ammaestrati et esperti in quest’arte magica o diabolica che
+         fanno quasi ciò che vogliono, et fra le altre se ne dirà una fuor di ogni credenza.
+         [17] Quando il <term ref="#gran-can">Gran Can</term> nella sua sala senta a tavola, la quale, come si dirà nel |17v| libro di sotto, è
+         di altezza piú di otto braccia, et in mezzo della sala, lontano da detta tavola, è
+         apparecchiata una credentiera grande, sopra la quale si tengono i vasi da bere, essi
+         operano con l’arte sue che le caraffe piene di vino o vero latte o altre diverse bevande
+         da se stesse empiono le tazze loro senza che alcuno con le mani le tocchino, et vanno
+         ben per dieci passa per aere in mano del <term ref="#gran-can">Gran Can</term>; et poi c’ha bevuto, le dette tazze ritornano al luogo d’onde erano partite: et questo
+         fanno in presenza di coloro i quali vuole il signore che veggano. [18] Questi <term ref="#bachsi">bachsi</term> similmente, quando sono per venire le feste delli suoi idoli, vanno al <term ref="#gran-can">Gran Can</term> et li dicono: «Signore, sappiate che, se li nostri idoli non sono honorati con gl’holocausti,
+         faranno venire mal tempo et pestilenze alle nostre biade, bestie et altre cose: per
+         il che vi supplicamo che vi piaccia di darne tanti castrati con li capi neri et tante
+         libre de incenso et legno di aloè, che possiamo fare il debito sacrificio et honore».
+         [19] Ma queste parole non dicono personalmente al <term ref="#gran-can">Gran Can</term>, ma a certi principi che sono deputati parlar al signore per gl’altri, et essi dipoi
+         lo dicono al <term ref="#gran-can">Gran Can</term>, qual li dona integramente ciò che dimandano. [20] Et venuto il giorno della festa,
+         li fanno i sacrificii di detti castrati, et spargano il brodo avanti gli idoli, et
+         a questo modo gli honorano. [21] Hanno questi popoli grandi monasterii et abbatie, et cosí grandi che pareno una picciola
+         città, in alcuna delle quali vi potriano essere quasi duoimila monachi, i quali secondo
+         i costumi loro servono agl’idoli, et si vestono piú honestamente degli altri huomini,
+         et portano il capo raso et la barba, et fanno festa agl’idoli con piú solenni canti
+         et lumi che sia possibile; et di questi alcuni possono pigliar moglie. [22] Vi è poi un altro ordine di religiosi, nominati “<term ref="#sensim">sensim</term>”, quali sono huomini di grande astinenza, et fanno la loro vita molto aspra, però
+         che tutto il tempo della vita sua non mangiano altro che semole, le quali mettono
+         in acqua calda et lasciano stare alquanto, fin che si levi via tutto il bianco della
+         farina: et allhora le mangiano cosí lavate, senza alcuna sustanza di sapore. [23]
+         Questi adorano il fuogo et dicono gli huomini dell’altre regole che questi che vivono
+         in tanta astinenza sono heretici della sua legge, perché non adorano gli idoli come
+         loro; ma è gran differenza tra loro, cioè tra l’una regola et l’altra, et questi tali
+         non tolgono moglie per qualsivoglia causa del mondo. [24] Portano il capo raso et
+         la barba, et le lor vesti sono di canapo, nere et biave, et se fossero ancho di seda,
+         le portarebbero di tal colore. [25] Dormono sopra stuore grosse, et fanno la piú aspra
+         vita de tutti gli huomini del mondo. [26] Hor lasciamo di questi, et diremo d’i grandi et maravigliosi fatti del gran signor
+         et imperator <term ref="#cublai-can">Cublai Can</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

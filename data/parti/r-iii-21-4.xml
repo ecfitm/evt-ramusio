@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-21-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-21">
+      <note>
+	<p>Ramusio cambia modello: il suo resoconto è qui modellato apparentemente sulla lezione
+         di <ref type="witlink" target="#p-iii-29">P III 29 3</ref> «Similiter etiam in estate in estu maximo habentur hoc modo: montes illos magnos
+         ascendunt, non sine maxima pena propter estum maximum qui est ibi; est etiam periculosum
+         valde illuc ascendere propter serpentes magnos, quorum ibi est maxima multitudo. Ibi
+         sunt intra montes valles quedam ita undique inmeabilibus rupibus circuncluse, quod
+         illuc per homines accessus esse non potest; in vallibus illis sunt multi lapides adamantes.
+         In montibus vero illis multe aquile albe ibi sunt que morantur ibidem quia vescuntur
+         serpentibus supra dictis» (il passo traduce VA CXXXVIII 5-9 «Anchora se truova altrosì l’instade, quando è grandenisimo chaldo, ‹…› perché a
+         gran pena ge pò l’omo sofrir per el caldo smexurato e perché in quelle montagnie è
+         gran moltitudine de serpenti grandi e grossi. Anchora ge n’è valle profondissime e
+         zirchondade de montagnie altisime sì poste che niuno homo no pò desender in fondo
+         de quelle montagnie. In quel fondo è molti diamanti. Or ve dirò chome fano per aver
+         de queli diamanti. In quelle montagnie et ’d’è molte aguie bianche che abitano lì
+         per prender de quelli serpenti […]»).</p>
+	<p>Z 108 10-17 si caratterizza per essere più dettagliato, al limite della ripetitività, e per ritardare
+         l’apparizione delle aquile (vd. la nota a <ref type="witlink" target="#r-iii-21">R III 21 5</ref>): «Et in estate, quando non invenitur de aqua, inveniuntur multi per illos montes.
+         Et ibi est tam intensus callor quod vix aliquis poset sufferere. Et in illis montibus
+         est tanta multitudo serpentum, magnorum et grosorum, quod homine‹s› non posunt sine
+         magno dubio accedere illuc. Sed tamen vadunt qualiter posunt, et inveniunt de bonis
+         et grosis. Isti quidem serpentes sunt multum venenosi et mali, ita quod homines non
+         audent accedere ad cavernas in quibus conversantur illi magni serpentes. Habent insuper
+         adamantes per unum alium modum. Nam ibi sunt magne vales et profunde, ita ruinose
+         a sumitatibus montium quod nemo illuc accedere potest. Sed homines faciunt quemadmodum
+         dicemus vobis» (il passo traduce alla lettera F CLXXIV 7-9 «[…] E l’estee, qe ne i se troveroit une gote d’aive, adonc en treuvent asez por
+         celes montaignes, mes si hi a si grant calor qe a poine hi poit l’on sofrir. E si
+         voç di qe en celles montagnies a si grant moutitude de serpant, e grant e groses,
+         qe les homes ne poent aler se ne con grant dotance. Mes toutes foies il hi vont come
+         il puent et en trovent des mult buens et groses. E si voç di qe cesti serpans sunt
+         mout veneouses et mout mauvés, si qe les homes ne ont ardemant d’aler a les cavernes
+         la ou les mauveis serpant sunt. Et encore voç di qe les homes en ont, des diamant,
+         a une autre mainere» –  passo a sua volta ripetuto da V 92 6-9 «Et l’instade quando non se ne trova qui, se ne trova molti suxo quelli monti, ma
+         l’è sì grando el chalor che apena i se puol sostegnir. Et in quelli sono sì gran moltitudine
+         de sa‹r›penti grande e grosse, che i omeni non ’de puol andar senza gran dubio, ma
+         i vano quanto i può trovare non de boni e de grosi. Et questi serpenti sono molto
+         velenoxi e rie, per tal che i omeni non puol andar ale chaverne; ove i demora li serpenti
+         sono i diamanti. E per un altro muodo se trovano: dove sono le gran valle profonde
+         e sì ruinoxe de zima de monti che algun non puol andar, ch’el muore li omeni»). Sulla
+         linea <hi rend="italics">F-Z</hi> si pongono L 162 3-4 «[…] estatis t‹amen› tempore ob immensum calorem vix quis ad montes accedere potest,
+         maximorum eciam pravorumque serpentium multitudine deviantur. Inveniunt eciam aliter
+         dyamantes. Sunt enim in hiis montibus rupes maxime et loca profunda, ad que nullus
+         adire potest», e VB CXLIV 7-10 «E questo èno l’instate quando sono diluvi de aque e de tenpestada. E questi talli
+         che peschano i diamanti abitano al pè dila montagna con algune suo’ tabanelle con
+         grandissimo chaldo. Abitano ecian per quelle montagne grandissima quantitade de vermi
+         venenosi et serpenti in quantità. Àno ecian uno alltro modo di trovare questi diamanti:
+         in queste montagne ve sono chaverne profonde nelle qualle non vi se pò andare […]»
+         (eccentriche invenzioni sono le <hi rend="italics">tabanelle</hi> e i <hi rend="italics">vermi</hi>).  </p>
+	<p>La presenza delle «cicogne bianche» non è attestata nella tradizione poliana, ed è
+         quindi addebitabile a Ramusio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

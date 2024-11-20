@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-96</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-96">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XCVI</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-96_2_1" n="1"> Quando l’omo se parte dela zità de <term ref="#iaci">Iaci</term>, el chavalcha diexe zornade per ponente et truova la maistra zità della provinzia
+         de <term ref="#carazan">Charaian</term>, la qual à nome <term ref="#carazan">Charaian </term>et è soto el <term ref="#gran-can">Gran Chan</term>. </seg>
+      <seg xml:id="va-null-96_2_2" n="2"> In questa provinzia se truova asai del’oro de paiuola in fiumi, e anchora se
+         truova in lagi et in montagnie oro plui grosso de paiuola; e àno tanto oro che i dàno
+         un sazio d’oro per sìe d’arzento. </seg>
+      <seg xml:id="va-null-96_2_3" n="3"> E in questa provinzia ‹se› spende le porzelane
+         le quali ò dito de sopra, et èno porzelane d’<term ref="#india">India</term>.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-96_3_1" n="1"> El se ge truova cholubri e grandi serpenti, et èno molto oribel chossa a veder.
+         </seg>
+      <seg xml:id="va-null-96_3_2" n="2"> E ve digo chon veritade ch’el g’è molti cholubri che sono longi ben diexe passa
+         e volzeno atorno ben diexe spane: e questi èno i maiori. </seg>
+      <seg xml:id="va-null-96_3_3" n="3"> E àno do ganbe dananzi,
+         apresso el chavo, e non àno pie’ se no una ongia chome de lione o de falcone, e ’l
+         chavo àno molto grande, e lla bocha che ingiotirave uno homo al trato, e à i denti
+         grandisimi. </seg>
+      <seg xml:id="va-null-96_3_4" n="4"> Ell è sì smexurato e oribel chossa a veder ch’el nonn è homo nì bestia
+         al mondo che nonn abia paura.</seg>
+    </p>
+    <p n="4">
+      <seg xml:id="va-null-96_4_1" n="1"> E questi serpenti se prendeno a questo muodo: sapiate ch’el demora el dito in
+         chaverne soto tera per lo gran chaldo, e la note esie fuora e va-sse perchazando s’el
+         pò trovar alchuna cossa, omo o bestia, per devorar-lo. [9] El va ale chaverne là dove
+         è i lovi e i orsi e i figlioli demorano, e manza i grandi e i pizioli se li truova,
+         e ’l nonn è bestia che da llui se difenda. [10] Quando ell à manzado, el va per el
+         sabion, e per chaxion ch’ell è chusì grando e grosso e chussì posente, el fa per la
+         via donde ’l va sì gran fossa in lo sabion ch’el par ch’el ge sia voltato una vezia
+         de vino. [11] Li chazatori che vuoleno prendere el cholubro meteno, li dì ch’el uxano,
+         per quella via per la qual el uxa, i mete molti palli de legnio grossi e forti, e
+         in chavo de questi palli è fito uno fero d’azalle, lo qual è longo una spana, et è
+         aguzo chome uno fero de lanza et è taiente chome uno raxor. [12] Questi pali i fichano
+         tuti soto tera, e quando el cholubro va per quella via, el va molto grieve e fiere
+         sui palli, e ’l fero lo sfende per mezo, e sì sse ficha in entro dal chorpo sì che
+         ’l serpente muor. [13] E per questo muodo li prende li chazatori.</seg>
+    </p>
+    <p n="5"/>
+    <p n="6"/>
+    <p n="7"/>
+  </div>
+</body>
+</text>
+     </TEI>

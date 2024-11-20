@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-6-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>La pericope di R combina assieme tre informazioni che, nel resto della tradizione,
+         sono collocate in punti diversi del testo: <ref type="witlink" target="#f-null-83">F LXXXIII 12</ref> «Et dedens cest mur ha un autre mur que est auques plus lonc qe large» / <ref type="witlink" target="#f-null-83">F LXXXIII 4-5</ref> «El est tout avant un grant mur quarés qui est por chascun quaré un milier, ce est
+         a dire qu’il est tout environ quatre miles. Il est mout gros et d’autesse ont il bien
+         .X. pas, et sunt toutes blances et merlés» / <ref type="witlink" target="#f-null-83">F LXXXIII 14</ref> «Il a ausi .V. portes eu quaré dever midi toutes senblables a les autres ‹dou› mur
+         devant»; <ref type="witlink" target="#l-null-68">L 68 4</ref> «Intus autem, longe aliquanto spacio ab hoc muro, est alius murus similiter formatus
+         in quadrum totaliter sicut primus […]» / <ref type="witlink" target="#l-null-68">L 68 2</ref> «[…] Primo est murus circu‹i›ens miliaria quatuor, quadratus directe, et est grossus
+         multum, altitudinis passuum .X., totus albus et per totum merlis ornatus […]» / <ref type="witlink" target="#l-null-68">L 68 4</ref> «[…] Et in quadra meridionali huius muri ‹et in aliis› sunt porte directe disposite
+         sicut in primo […]»; <ref type="witlink" target="#p-ii-9">P II 9 4</ref> «Intra palatia vero predicta que in faciebus muri prioris sunt in distantia congrua
+         est alius murus ad modum alterius [<hi rend="italics">altus </hi>in P Prášek]» / <ref type="witlink" target="#p-ii-9">P II 9 2</ref> «Primo tocius palatii ambitus continet miliaria quatuor, ita ut quadratura qualibet
+         unum miliare continet; est autem murus palatii grossus valde habens altitudinis passus
+         decem, cuius tota exterior facies undique colore albo et rubeo est depicta» / <ref type="witlink" target="#p-ii-9">P II 9 4</ref> [ed. Prášek]: «qui simili habet eciam portas principales .XII.»; <ref type="witlink" target="#v-null-41">V 41 18 </ref>«[…] inprima sono el muro longo uno mio iper quadro che vien a volze‹r› in tuto quatro
+         mia, et sono molto groso et alto diexe pasi; e li merli de quelo sono tuti bianchi
+         fato a muodo d’uno chastelo […]». Mentre la prima parte della pericope («Intra questo
+         circuito […] ciaschedun quadro») ha una corrispondenza abbastanza precisa nelle altre
+         redazioni (si veda in particolare R «et tutti i merli sono bianchi» e V «e li merli
+         de quelo sono tuti bianchi»), la parte finale non trova un riscontro puntuale nel
+         resto della tradizione (cfr. R «in questo terzo circuito sono sei porte», F «Il a
+         ausi .V. portes eu quaré dever midi toutes senblables a les autres ‹dou› mur devant»).
+         </p>
+	<p>VB e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

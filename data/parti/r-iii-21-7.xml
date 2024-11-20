@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-21-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-21">
+      <note>
+	<p>«<term ref="#bochassini">Boccascini</term>» è lemma attestato solo da VB CXLIV 16 «Fase quie i più belli <term ref="#bochassini">bochasini</term> et <term ref="#bochassini">bocharani</term> che in alchuna altra parte, et sono tanto sotilli che mai non ne vidi in alltre parte
+         de simelli». VB condivide lo stesso tenore informativo con <ref type="witlink" target="#p-iii-29">P III 29 4</ref> «In hac regione fit <term ref="#bochassini">bucharanius</term> subtilior et pulcrior qui in mondo fiat» (che dipende da VA CXXXVIII 16 «In questa contrà se fa el plui bello e plui e plui delichato <term ref="#bochassini">bocharano</term> che sse faza in tuto l’altro mondo») – da VB potrebbe venire a Ramusio il mancato
+         ricorso all’iperbole «nel mondo», che è (come si vedrà) una costante nella tradizione.
+         VB, VA-P rappresentano la forma <hi rend="italics">brevior</hi> della pericope; gli altri relatori si attestano sull’orizzonte indicato da F CLXXIV 14 «Or voç ai contés des diamant, et adonc voç conteron des autres cousses. Car sachiés
+         qe en ceste reiame se font les meior <term ref="#bochassini">bocoranç</term> e les plus biaus et le p‹l›us sotil qe soient au monde et celz qe sunt de greingnor
+         vailance, car je voç di qe il senblent teles de lin da Rens: il n’i a roi au monde,
+         ne roine, que por grandese e por belesse ne les vestisse»: vedi Z 108 28-29 «[…] in ‹i›sto regno fint meliores <term ref="#bochassini">bucherani</term> et pulcriores et subtiliores qui reperiantur in mundo, et qui sunt maioris valoris.
+         Nam videntur sicut telle de lino de Rens; et non est in mundo rex neque regina qui,
+         propter pulcritudinem et honorem, non indueret ipsos», V 92 15 «In questo reame se fano i mior <term ref="#bochassini">bochasini</term> et plu belli che se trova nel mondo, et sono de grandinisimo valor, e pare telle
+         de Rens: el nonn è re né raina al mondo che per la beleza de quelli non se podesse
+         vestir», e la versione abbreviata in L 162 6 «Fiunt in hoc regno meliores et subtiliores et pulcriores bochorani quam in alia
+         mundi parte: videntur enim linee tele renense‹s›».</p>
+	<p>Ramusio sopprime le ultime informazioni della “scheda”, che in tutta la tradizione
+         sono ricondubili al tenore di F CLXXIV 14 «Il ont bestes aseç e lles greingnor moutonz dou monde. Il ont grant abondançe et
+         grant device de toutes couses de coi il vivent»: vedi Z 108 30-31, <ref type="witlink" target="#p-iii-29">P III 29 5-6</ref> (= VA CXXXVIII 17-18), L 162 7-8, V 92 16, VB CXLIV 17-18.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

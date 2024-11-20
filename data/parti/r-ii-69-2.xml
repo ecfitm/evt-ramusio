@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-69-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-69">
+      <note>
+	<p>Nella prima parte della pericope («Di questo ne cava [...] ducati») Ramusio tiene
+         conto, oltre che di un affine di Z, anche di P. Dalla versione di Pipino, infatti,
+         sembrano derivare le informazioni relative al valore del <hi rend="italics">toman</hi> («et cadauno <term ref="#toman">toman</term> è ottantamila sazzi d’oro») e al totale delle rendite del Gran Can («ascenderia alla
+         somma di sei millioni et quattrocentomila ducati») – quest’ultima assente in <ref type="witlink" target="#z-null-86">Z 86 3</ref> «Noveritis itaque quod sal reddit anis singulis octuaginta “<term ref="#toman">thoman</term>” de auro; et quodlibet “<term ref="#toman">thoman</term>” est septuaginta milia sadiorum auri, et quodlibet sadium valet pluri uno floreno
+         aureo vel uno ducato aureo»; <ref type="witlink" target="#p-ii-65">P II 65 2</ref> «Singulis annis recipit <term ref="#gran-can">Magnus Kaam</term> de sale quod fit in civitate <term ref="#quinsai">Quinsay</term> et terris eius <term ref="#toman">tomanos</term> aureos .LXXX., quilibet autem <term ref="#toman">tomanus</term> ascendit ad .LXXX. milia sagiorum auri; ascendunt igitur in summa .LXXX. tomani aurei
+         ad sex milia milium et .XL. milia sagiorum auri, quodlibet autem sagi{or}um auri plus
+         habet de pondere quam florenus». </p>
+	<p>Anche <ref type="witlink" target="#vb-null-114">VB CXIV 47</ref> attribuisce al <hi rend="italics">toman</hi> il valore di ottantamila saggi d’oro, ma la somma complessiva delle rendite non corrisponde
+         a quella del testo ramusiano: «el qual rende ogni ano utillità al segnore .LXXX. <term ref="#toman">tumini</term> d’oro: e caschadun <term ref="#toman">tumano</term> è .LXXXm. saci d’oro, monteria in suma .VIcLXXX. millia saçi d’oro, e çaschadun saço de oro valeno 1° duchato o meio la qual
+         non dubito debia parer ecessivo numero […]». Nel testo originale si dice che il <hi rend="italics">toman</hi> corrisponde a settantamila saggi d’oro, e che la rendita complessiva ammonta a 5.600.000:
+         si conserva in <ref type="witlink" target="#l-null-132">L 132 2</ref> «Ex civitate <term ref="#quinsai">Quinsay</term>, cum aliis ei suppositis civitatibus, habet <term ref="#gran-can">Magnus Canis</term> ex sale solum .LXXX. <term ref="#toman">thomain</term> auri; et est quodlibet <term ref="#toman">tomain</term> exagia .LXX‹m›., quod est in summa .5.600.000. exagiorum auri. Exagium vero auri est plus uno floreno»
+         (corrispondente a <ref type="witlink" target="#f-null-152">F CLII 3</ref> «[…] Or sachiés tuit voiremant qe le sal de ceste ville rente chascun an conseetudemant
+         .LXXX. <term ref="#toman">tomain</term> d’or, e chascun <term ref="#toman">tomain</term> est .LXXm. sajes d’or, que montent, les .LXXX. <term ref="#toman">tomain</term>, .MMMMMm. et .DCm. de sajes d’or, que chascun sajes vaut plus de un florin d’or ou de un duchato d’or
+         […]»). La lezione di V appare in questo punto corrotta: <ref type="witlink" target="#v-null-76">V 76 21</ref> «Or sapié che ’l sal rende zaschadun ano hotantamilia <term ref="#cumani">*chumani</term>: e zaschadun <term ref="#toman">*chumano</term> sono setantamilia sazi d’oro, che sono, hotantamilia chumani, zinquemilia e siezento
+         sazi d’oro; e zaschadun sazo sono più de uno duchato […]».</p>
+	<p>Un altro elemento che accomuna R a Z e P (ma anche a L, vd. sopra) è l’omissione del
+         riferimento al senso di meraviglia che si prova di fronte dall’ammontare della rendita
+         del sale: <ref type="witlink" target="#f-null-152">F CLII 3</ref> «[…] e ce est bien une merveiosse couse et grandismes e’ nonbre de monoie»; <ref type="witlink" target="#v-null-76">V 76 21</ref> «[…] et questa sono una gran meraveia»; <ref type="witlink" target="#vb-null-114">VB CXIV 47</ref> «Ma chi potrà considerar la extrema moltitudene de giente che viveno de questo salle,
+         giudichendo el vero, non ne prenderà meraveia».</p>
+	<p>Nella seconda parte («et la causa [...] provincia») R trasmette un dettaglio che è
+         tràdito dal solo <ref type="witlink" target="#z-null-86">Z 86 4</ref> «Et ideo tantus est reditus salis in ista civitate quia est in confinibus iuxta mare,
+         ubi multitudo fit salis; et ab ista civitate bene quinque regna <term ref="#mangi">Manci</term> pro eorum usibus sale suplentur».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-35-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-35">
+      <note>
+	<p>Il tratto distintivo di questa pericope nella tradizione è la presenza/assenza dei
+         pirati. Ne parlano esplicitamente  Z 123 46-49 (il relatore più convincente come modello di Ramusio) «Et dicemus de veneficiis que
+         isti operantur. Noveritis itaque quod isti incantatores faciunt multas res diversas
+         et magnam partem eorum que volunt. Et si una navis pyratarum istis de hac insula aliquod
+         dampnum inferret, non posset ab hac insula discedere donec satisfacerit de omnibus
+         dampnis ab ea illatis. Nam si irent cum velis et haberent bonum ventum et prosperum,
+         faciunt rugare ventum con‹tra›rium qui eos reducit ad insulam», e L 176 9 «Si enim pirate aliqui dampnum aliquod fecerint insule, taliter incantationibus suis
+         detinent eos quod numquam eorum naves ab insula separari possint nisi ablatum fuerit
+         integre satisfactum; quod si forte ab insula separentur, ventos in proras vertunt
+         sicque hiis incantationibus reverti ad insulam sunt coacti».</p>
+	<p>Gli altri relatori si attestano sul tenore informativo di F CLXXXIX 9 «E si voç en dirai, de les encantemant qe il font, aucune couse. Car sachiés tout
+         voiremant que cesti encanteor font maintes diverses couses et grant partie de celz
+         que il vuelent, car je voç di que se une nes alest a voille et aüse buen vent et aseç
+         en sa voie, il li firont venir un autre vent contraire et la firont torner arere»;
+         vedi: P III 38 8 «Si navis aliqua ab insula <term ref="#soccotera">Scoyra</term> descenderet quam mercatores revocare vellent, quantacumque navis velo pleno cum prospero
+         vento currat, faciunt arte diabolica cum incantacionibus suis oppositum navis ventum
+         insurgere, ita quod oportet eam redire retrorsum» (che riprende VA CXLVIII 8 «È zente entro queli cristiani, i quali, se una nave andasse a vella e avesse bon
+         vento, faraveno vegnir per inchantamento uno vento contrario, che la farave tornar
+         indriedo»); VB CLIX 11 «Fra le altre chose i fano, quando una nave va ben a velle con prospero vento, per
+         suo arte fai vegnir vento contrario, per modo quella convien tornare adrieto». </p>
+	<p>Omette la pericope V 105 9-10.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

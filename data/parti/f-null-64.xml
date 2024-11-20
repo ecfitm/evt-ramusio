@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-64</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-64">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LXIV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-64_1_1" n="1"> Comant <term ref="#cingis-can">Cinchin</term> fu le primer <term ref="#gran-can">Kaan</term> des <term ref="#tartari">Tartars</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-64_2_1" n="1"> Or avint que a les .M.C.LXXXVII. anz les <term ref="#tartari">Tartars</term> font un lor roi que avoit a nom en lor lengajes Cinghins Can. </seg>
+      <seg xml:id="f-null-64_2_2" n="2"> Cestui fui home de grant valor et de grant senz et de grant proesse; et si voç
+         di que quant cestui fu esleu a rois, tuit les <term ref="#tartari">Tartarç</term> do monde que por celes estranges contree estoient espandu s’en vindrent a lui et
+         le tenoient a singneur. </seg>
+      <seg xml:id="f-null-64_2_3" n="3"> Et cestui <term ref="#cingis-can">Cinghis Can</term> mantenoit la seingnorie bien et francement. </seg>
+      <seg xml:id="f-null-64_2_4" n="4"> Et que voç en diroie? Il hi vindrent
+         si grant moutitudene des <term ref="#tartari">Tartars</term> que ce estoit mervoille. </seg>
+      <seg xml:id="f-null-64_2_5" n="5"> Et quant Cinchis Can voit que il avoit si grant jens, il s’aparoille con arc et con autres lor armeure,
+         et vait conquistant por cels |26d| autres parties. </seg>
+      <seg xml:id="f-null-64_2_6" n="6"> Et voç di qu’il conquistirent
+         bien .VIII. provences; mes ne fasoit elz nulz maus ne ne tollit elz lor cosses, mes
+         les menoit ho lui por conquister des autres gens. </seg>
+      <seg xml:id="f-null-64_2_7" n="7"> Et en ceste mainere conquisté
+         ceste grant moutitude de jens que voç avés oï. [9] Et ceste jens, quant il voient
+         la bone seingnorie et la grant debonairté de cest segnor, il aloient trop volunter
+         avec lui. [10] Et quant <term ref="#cingis-can">Cinghis Can</term> ot amasé si grant moutitude de jens que tout le monde covrent, il dit qu’il vuelt
+         conquister grant partie do munde. [11] Adonc envoie sez messajes au <term ref="#prete-gianni">Prester Johan</term>, et ce fu a les .M.CC. anz que avoit que Crist avoit nascu: il li mande qu’il vol
+         sa file prendre a feme. [12] Et quant le <term ref="#prete-gianni">Prester Johan</term> oï ce qe <term ref="#cingis-can">Cinghis Can</term> li mande demandan{d}t sa file a feme, il le tint a grant despit, et dit: [13] «Et
+         conmant ne a grant vergoingne Cinchis Can de demander ma file a feme: or ne set il qe il est mes homes et mon sers? Or retornés
+         a lui et li dites que je firoie ardoir ma file que je le la donast a feme. Et li dites
+         por ma part que je li mant qu’il convient qe je le met a mort, si com traïtor et desliaus
+         qu’il estoit contre son seingnor». [14] Puis dist as messajes qu’il se partissent
+         mantinant devant lui et que jamés ne tornasent. [15] Et quant les mesajes oïrent ce,
+         il se partirent mantinant; il alerent tant qu’il vindrent a lor seingnor, et li content
+         tout |27a| ce que li mande le <term ref="#prete-gianni">Prestre Johan</term>, que ne i fallent rien, tout por ordre.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

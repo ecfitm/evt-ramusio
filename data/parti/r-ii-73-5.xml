@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-73-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-73">
+      <note>
+	<p>La lezione «Vi nasce» isola R e <ref type="witlink" target="#z-null-88-1-16">Z 88 8-9</ref> «Item <hi rend="italics">nascitur</hi> ibi quidam fructus similis çafrano, sed çafranus non est. Tamen ad idem opus valet
+         ad quod et çafranus» dagli altri testimoni: <ref type="witlink" target="#f-null-154">F CLIV 5</ref> «Et unt un frut qe senble çafaran, mes ne est mie, mes bien vaut autant come çafran
+         por ovré»,<ref type="witlink" target="#l-null-138"> L 138 4</ref> «Habent eciam fructum quendam ‹similem croco›, et licet non sit tamen simile operatur»,
+         <ref type="witlink" target="#p-ii-67">P II 67 4</ref> «Ibi etiam est flos quidam qui assimulatur croco et tamen alterius speciei, sed eiusdem
+         valoris est cuius est crocus», <ref type="witlink" target="#v-null-78">V 78 2</ref> «et àno uno fruto el qualle sono a someiansa al zafaran: mo el sono de tanto valor
+         perché el se adopera in molte chosse», <ref type="witlink" target="#vb-null-120">VB CXX 6</ref> «Quie se trova un fruto che è quasi simelle al çafarano». La somiglianza con V nella
+         parte finale della pericope (V «mo el <hi rend="italics">sono de tanto valor</hi> perché el se <hi rend="italics">adopera</hi> in molte chosse», R «et è molto stimata et <hi rend="italics">adoperata</hi> da tutti gli habitanti ne’ suoi cibi, et per questo <hi rend="italics">è</hi> <hi rend="italics">molto cara</hi>») farebbe pensare al concorso di almeno un’altra fonte nella costituzione di tale
+         sezione del testo. Altri dettagli scarsamente informativi sono verosimilmente da considerare
+         aggiunte di Ramusio («cosí nell’odor come nel colore»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

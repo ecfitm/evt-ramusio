@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-30-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-30">
+      <note>
+	<p>Ramusio manipola un testo (sua è l’“invenzione” dello «zenzero», per specificazione)
+         che per economia di ipotesi si identifica in <ref type="witlink" target="#z-null-118">Z 118 5-6</ref> (resa di F CLXXXIV 3 «La ne naist pevre ne autre speceries come sunt en celles provences qe noç vos avon
+         contés en arieres. Encens hi naist aseç, mes ne est mie blance mes enbrumés»); affine
+         a F-Z è infatti la lezione di V 101 3 «Qua non nasse pevere né altre spezie chomo fano in le altre provinzie dele qual
+         nui avemo narado: qua nasse inzenso in gran abondanzia, et nonn è biancho, ma negro».
+         Lievemente difforme è L 171 4-5 «Hic non nascitur piper neque alie species, ut in provinciis antedictis. Ex thure
+         enim, et licet non sit album, nascitur tamen multum»; abbrevia VB CLIV 3 «Nasene molto incensso de albori».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

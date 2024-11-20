@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-104</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-104">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 104</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-104_2_1" n="1"> <term ref="#cintigui">Cuiugiu</term> est provincia versus oriens; eundo enim a <term ref="#tholoman">Tholoman</term> .XII. dietis super flumine quodam, ubi sunt civitates et castra multa, invenitur
+         magna civitas et nobilis dicta <term ref="#cintigui">Cuiugiu</term>. </seg>
+      <seg xml:id="l-null-104_2_2" n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, mercatores et artiste: faciunt enim pannos pulcherrimos ex corticibus quarumdam
+         arborum, quibus vestiuntur estate. </seg>
+      <seg xml:id="l-null-104_2_3" n="3"> Hic, et ab hinc in antea, expenditur moneta
+         de cartis quam <term ref="#gran-can">Magnus Canis</term>, ut dictum est, fabricare facit. </seg>
+      <seg xml:id="l-null-104_2_4" n="4"> Adest hic copia multa maximorum leonum. Quare,
+         nemo de nocte extra domum manere potest; ymo, quod plus est, euntes per predictum
+         fl‹u›men, nisi in nocte valde separentur a ripa, a leonibus devorarentur. </seg>
+      <seg xml:id="l-null-104_2_5" n="5"> Habentur
+         tamen in hac provincia canes maximi, qui tante sunt audacie quod audent leones vivaciter
+         insultare; quare, si fuerit eques cum arcu et cum duobus ex hiis canibus, hic cum
+         sagittis, illi cum dentibus, caute tamen, venantur leones. </seg>
+      <seg xml:id="l-null-104_2_6" n="6"> Habent multum sericum
+         et de aliis mercimoniis in habundantia, que per hoc flumine in diversas portantur
+         regiones.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

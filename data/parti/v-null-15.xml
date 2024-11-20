@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-15">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 15</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-15_2_1" n="1"> ‹C›orando li ani del nostro signor Iexu Christo mileduxento e vintizinque, era
+         nela dita zitade de <term ref="#baldach">Bandach</term> uno <term ref="#califa">Chalifo</term> molto rio e chrudele, el qualle aveva li christiani in grandissimo hodio, et zorno
+         e note pensava in che modo podesse destruzer li christiani abitava nela dita zitade
+         ‹i› quali erano in gran quantitade, zo‹è› noserini e iachopiti: o che i fosse tuti
+         Sarazini, over morti e destruti; et ogni zorno questo <term ref="#califa">Chalifo</term> se chonseia chon li soi di trovar qualche invenzion. </seg>
+      <seg xml:id="v-null-15_2_2" n="2"> Or advene uno zorno che
+         questo <term ref="#califa">Chalifo</term>, qualle era dotissimo, schorando zerte Schriture, zoè i Vanzelli dela Sachra Schritura,
+         trovò in uno Vanzelio uno articholo che dizea Dio chon la suo’ bocha: «S’el fosse
+         uno christian che avesse tanta fede quanto fosse uno granelo de senavro, chon le suo’
+         pregierie faria mover li monti da uno luogo al’altro». </seg>
+      <seg xml:id="v-null-15_2_3" n="3"> Di che abiando questo <term ref="#califa">Chalifo</term> trovado questo ponto, fue molto aliegro, e disse verso li soi: «Questa sono chossa
+         da far, azò che li christiani se chonverti ala nostra leze o veramente che tuti siano
+         morti, sì che a questo muodo troveremo la chason de destruzerli, perché inpossibele
+         serà che infra loro sia nessuno che faza muover i monti da uno luogo al’altro; |15r<hi rend="italics">|</hi> et non possando far questo averemo debita schusa a far quello voremo». </seg>
+      <seg xml:id="v-null-15_2_4" n="4"> Onde questo
+         chonseio piaxete a tuti i Saraini, et inchontinente mandorono per tuti i christiani
+         se trovavano nela dita zitade et nele altre tere del suo’ paexe, i quali erano nosterini
+         e iachopiti, chomo ò dito di sopra. </seg>
+      <seg xml:id="v-null-15_2_5" n="5"> Onde in pochi zorni furono radunati, et vene
+         davanti el dito <term ref="#califa">Chalifo</term>, dizendo: «Che ne chomandate?» </seg>
+      <seg xml:id="v-null-15_2_6" n="6"> Allora el <term ref="#califa">Chalifo</term> feze dire el Vanzelio da queli, e trovò quel ponto chome ve ò dito, et fézeilo lezer.
+         </seg>
+      <seg xml:id="v-null-15_2_7" n="7"> Et leto ch’el fue disse <term ref="#califa">Chalifo</term>: «Vui avete intexo quelo dize questo articholo, onde io ve dicho: se chussì è vero
+         chomo el dize, el sono una mirabel chossa». </seg>
+      <seg xml:id="v-null-15_2_8" n="8"> Disse li christiani: «Signor, questo
+         son vero, et molto mazor chossa se poria far cha questa». [9] Allora disse <term ref="#califa">Chalifo</term>: «Vui seti tanti christiani qui radunati: el seria gran fato dentro de vui non fosse
+         uno che avesse tanta fede quanto parla la vostra Schritura. [10] Et inperò ve digo
+         e chomando che per spazio de diexe zorni vui fate muover quel monte che son lì et
+         andar de là. [11] Et non fazando questo, de do chosse vi chonvegnerà far l’una: o
+         tuti vegnerete ala nostra leze del nostro profeta <term ref="#macometto">Machometo</term> chon bona fede, e serete salvi, o veramente tuti ve farò morire, perché non determeno
+         che nel mio paexe siano più d’una leze e d’una fede. [12] Et se questo farete, zoè
+         di mover quel monte, io chrederò nela vostra fede, et per el simel tuta la mia zente.
+         [13] Or vui ve ne anderete tuti, et al termene ve ò dato farete quelo ve ò dito, altramente
+         ve chonvegnerà far zo che avete oldido». [14] Et inchontinente li lezenziò. [15] Di
+         che abiando li christiani intexo el chomandamento de <term ref="#califa">Chalifo</term>, ave gram |15v<hi rend="italics">|</hi> melinchonia, che li se pensava morir, benché li aveva speranza in lo so Chreator
+         che li libererave di tanto male. [16] Onde, partiti che i fo da <term ref="#califa">Chalifo</term>, i radunò tuto el suo’ chonseio, donde ne vene tuti li veschovi e prevedi, homeni
+         de santa vita, e infra loro veteno che non era altro muodo né via se non de pregar
+         Dio che per so miserichordia e pietade li deliberasse di questo pericholo: onde i
+         determinorono de star inn orazione dì e note. [17] Et chussì feno, pregando Dio, Chreator
+         del zielo e dela tera, ch’el avesse miserichordia di loro et che non guardasse ali
+         lor pechadi; sì che questo fezero tuti i omeni e femene, grandi e picholi, ben oto
+         dì e oto note. [18] Et stagando in queste orazione l’Agnolo de Dio aparse in sono
+         ad uno veschovo, qual era servo de Dio ed era homo de santa vita, dizendoli: «O veschovo,
+         io vegno da parte de Dio el qualle àno intexo le tuo pregiere e de tuto el populo,
+         et adziò che non siate morti da questa ria zente, tu te ne anderai da quel chaleger
+         christiano il quale sono senza uno ochio, e diràli che, quando serano el termene a
+         vui dato, ch’el diga al monte che da parte de Dio el se mova, che inchontinente el
+         serà moso». [19] Et dito questo desparse. [20] Or questo chaleger che l’Anzolo avea
+         dito al veschovo era homo de gran chastitade, et molto dezunava et non feva mai algun
+         pechado, et ogni zorno andava ala giexia ed aldiva la mesa, sì ch’el era de santa
+         vita più che omo che fosse in quele parte. [21] Di che stando questo chaleger nela
+         suo’ botega avanti che fosse questa chossa, zoè che <term ref="#califa">Chalifo</term> avesse fato quel chomandamento, advene che uno zorno, stando el dito nela suo’ botega,
+         achapitòe in quela una bela femena |16r<hi rend="italics">|</hi> la qualle volea chonprare uno paro de chalzeri. [22] Et quello, vedendola tanto bela,
+         volse che la ge mostrasse el pè e la ganba, onde quela inchontinente li mostròe. [23]
+         Et quando quelo la vete tuto se chomosse, et non li volse dar i chalzeri. [24] Et
+         essendo partida quela, el chaleger disse infra sí medeximo: «Ai tristo, traditor,
+         omo da niente, mo che pensavestu de far? [25] Zertamente ài fato gran male! [26] Onde
+         determeno farge gran vendeta de ’sti ochi traditori, li qual me àno schandolizado».
+         [27] E de prexente tolse una mazeta et fexe uno stecho et chavàsse uno dei ochi fuor
+         dela testa. [28] E veramente l’era buon homo, chomo avete oldido di sopra. [29] Et
+         essendo venuto el nono zorno, che tuto el populo steva inn orazione, in quela note
+         l’Anzolo de Dio aparse un’altra volta in sono al veschovo e disseli: «Manda per quelo
+         chaleger che àno uno hochio, che per le suo’ pregierie farà che quel monte se moverà,
+         altramente serete tuti morti». [30] Et essendo venuta la matina, questo veschovo feze
+         radunar tuti li arziveschovi e christiani et disselli la vixione avea avuto la note.
+         [31] Onde ognuno disse: «El se vol trovar ’sto chaleger, che lui vegna qui». [32]
+         Et inchontinente molti andorono, e trovò el dito chaleger digando che lui dovesse
+         vegnir davanti ’sti veschovi; onde quelo andò, et essendo lì disse zo che queli voleva,
+         et elli disse ch’el dovesse pregar Dio che quel monte se dovesse muover. [33] Onde
+         quelo respoxe che lui non era homo de tanta bona vita che per li soi priegi podesse
+         far sì gran chosse. [34] Et queli dolzemente el pregò ch’el dovesse pregar Dio che
+         fesse questo, se no li era in mal termene. [35] E tanto li lo pregò ch’el i proferse
+         de far la soa |16v<hi rend="italics">|</hi> volontà. [36] Et essendo vegnudo el termene dato a loro per <term ref="#califa">Chalifo</term>, tuti lor christiani, sì grandi chomo picholi, et tute le femene furono levati per
+         tempo et andorono ala lor giexia, et lì chon gran devuzione chantorono la santa messa.
+         [37] Et chonpita ch’i l’ebe tolse el Chorpo de Christo, et chon grandissima devozione
+         tuti andorono verso la pianura dove erano quel monte. [38] Et zonti che i furono a
+         quello, li erano una gran moltitudine de Saraxini chon el <term ref="#califa">Chalifo</term>, li qualli erano vegnudi per voler ozider li christiani, perché li non chredea ch’el
+         fosse posibele che ’l monte se dovesse muover. [39] Onde li christiani avea gran paura,
+         mo pur avea chonfidanzia in lo Eterno Dio: onde inchontinente tuti se messe in zenochioni
+         et chon gran lagrime fazea horazion a Dio. [40] Et simelmente fazea el chaleger et
+         chon gran devozione dizea: «O Eterno Idio, che chreasti tuto l’aniverso et festi l’omo
+         ala toa inmagine et similitudine, possa te degnasti de mandar el tuo Unicho Fiol,
+         il quale prexe charne umana et volse morir suxo el legno dila Chroxe per rechuperar
+         la umana gienerazion qualle erano danata per el pechato del nostro primo parente,
+         onde e’ te priego, o Signor mio, che abi pietade de tanti toi mixeri christiani, et
+         chussì chomo sei vero Dio che formasti ogni chossa, chussì te priego che fazi muover
+         quel monte et andar da ’st’altro ladi, azò che questa zente iniqua non destruza la
+         tuo’ fede». [41] Di che abiando questo servo de Dio ‹…› inchontinente vesibelmente
+         el monte se mosse et vene da ’st’altro ladi, che ognuno vetero. [42] Allora el <term ref="#califa">Chalifo</term> |17r<hi rend="italics">|</hi> et li Sarazini vedendo questo furono molto meraveiati, vedendo questo grandinissimo
+         mirachollo, et molti se chonvertirono ala fede christiana, et <term ref="#califa">Chalifo</term> perdonò a tuti i christiani et chonvertìsse sechretamente per dubito dî Sarazini
+         dela provinzia, et senpre portòe una chroxe sopra la charne aschoxamente. [43] Et
+         essendo vegnudo a morte, li Saraxini non lo volse sopelire in lo sepurchio deli altri
+         Chalifi, ma messelo in uno altro sepulchro da parte, perché li fo trovado la chroxe adosso.
+         [44] Sì che a questo muodo tuti li christiani de quela tera fono liberi et senpre
+         furono ben vezudi da quelo in za.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

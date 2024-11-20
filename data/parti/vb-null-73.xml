@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-73</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-73">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-73_1_1" n="1"> ‹I›o çudego esser degno de memoria né preterir, esendo io stà mandato per questo
+         mio segnor anbassatore, io chavalchai per quatro mesi de giornate verso ponente partendome
+         da <term ref="#cambalu">Chamalau</term>. </seg>
+      <seg xml:id="vb-null-73_1_2" n="2"> Io çunsi a una villa molto richa e bella nela qual io riposai per alguni dì;
+         et apresso a questa villa per lige .XII. el gi è uno fiume nominato <term ref="#pulisangan">Pulinchaçene</term> el qual fiume mete chapo nel <term ref="#mare-oceano">Mar Oceano</term>; e per questo fiume navega molte marchadantie sul qual fiume io vidi un ponte de
+         piera degno de memoria. </seg>
+      <seg xml:id="vb-null-73_1_3" n="3"> Questo ponte è longo .CCC. passa e largo pasa .VIII. per
+         modo .X. chavali pono chavalchare per questo ponte l’uno lato all’altro. </seg>
+      <seg xml:id="vb-null-73_1_4" n="4"> Et è·defichato
+         in .XXIIII. archi sopra .XXIIII°. morelli tuti de marmoro molto ben lavorati; et à
+         da çaschun ladi un muro de tavole de marmoro e de cholone de marmoro. </seg>
+      <seg xml:id="vb-null-73_1_5" n="5"> In chapo
+         del ponte iace una cholona de marmoro la qual è mesa sopra un liun de marmoro; e sopra
+         la colona iaçe uno altro lione de marmoro molto belo e ben lavorato grando per 1°
+         paso. </seg>
+      <seg xml:id="vb-null-73_1_6" n="6"> Et chosì tuto è serado de colone con do lioni per una; e da una cholona
+         al’altra è serado de tole de marmoro: et è una chossa mirabele a veder la grandeça
+         del ponte e chom’è richa e nobellemente lavorato.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

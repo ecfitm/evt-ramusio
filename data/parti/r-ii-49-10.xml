@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-49-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-49">
+      <note>
+	<p>La lezione di R risulta più sintetica di quella che figura in gran parte delle sue
+         fonti (L, V, VB, in parte Z).</p>
+	<p>Nella prima parte («Et in capo […] si trova la città di…») R segue la redazione abbreviata
+         di <ref type="witlink" target="#vb-null-92">VB XCII 12-14</ref>, come prova la variante «per venti giornate»: «Et a chapo dele dite .XII. giornate
+         se trova <term ref="#sindinfu">Sindifu</term>, e da <term ref="#sindinfu">Sindifu</term> per .XX. giornade se trova Ginguy; e da Ginguy per .IIII°. çornade se trova la citade de <term ref="#thaigin">Cangiafu</term>. Et in questo camin se trova citade et chastelle assai e tere de gran marchadantie
+         e mestieri e tuti <term ref="#idolatri">idolatrii</term>; e spendeno moneda di carta dela stanpa del <term ref="#gran-can">Gran Can</term>. La dita citade de <term ref="#thaigin">Cangiafu</term> si è la più nobelle e più magna citade abita tuta la provincia del <term ref="#cataio">Catay</term> et questi ardeno i corpi dei lloro morti».  </p>
+	<p>La parte centrale («<term ref="#pazanfu">Pazanfu</term> […] <term ref="#cataio">Cataio</term>») di R presenta affinità con <ref type="witlink" target="#v-null-62">V 62 12-14</ref> «Et in chavo de queste dodexe zornade possa el se chavalcha setanta zornade per zitade
+         e provinzie le qual di sopra abiamo dito; et trovasse <term ref="#gouza">Giugni</term> in la qual nui semo stadi. Et partendosse da <term ref="#gouza">Gugni</term> el se chavalcha quatro zornade, trovando molte zitade e chastelli; la zente dele
+         qual sono marchadanti et artixani; et <term ref="#idolatri">adora idolle</term>; et àno pechunia del <term ref="#gran-can">Gran Chan</term>, zoè de charte. Et in chavo de quatro zornade se trova una zitade chiamada Chanzanfu, la qualle sono verso mezodì et sono nela provinzia de <term ref="#cataio">Chatan</term>; la zente dela qualle <term ref="#idolatri">adora l’idolle</term> […]» (ripete<ref type="witlink" target="#f-null-129"> F CXXIX 16-18</ref> «Et a chief de .XII. jornee adonc treuve l’en a <term ref="#sindinfu">Sindinfu</term>, de coi ceste livre en parole en arieres. Et de <term ref="#sindinfu">Sindinfu</term> se part l’en et chevauche bien .LXX. jornee por provences e por teres ‹en› les quelz
+         nos somes esté et l’avon escript e‹n› nostre livre en arieres. A chief de .LXX. jornee
+         trouve l’en <term ref="#gouza">Giugiu</term>, la o nos sommes esté. Et da <term ref="#gouza">Giugiu</term> se part l’en et ala quatre jornee trovant cités et castiaus aseç. Les jens sunt de
+         grant merchandies e de grant ars. Il sunt <term ref="#idolatri">idules</term> et ont monoie dou <term ref="#gran-can">Grant Kan</term>, lor seingnor, ce est cartre. A chief de .IIII. jornee treuve l’en la cité de <term ref="#pazanfu">Cacanfu</term>, qui est ver midi et est de la provence dou <term ref="#cataio">Chatai</term>, et voç en conteron, de ceste <term ref="#pazanfu">Cacanfu</term>, sa convenance, ensi com voç porés oïr» / <ref type="witlink" target="#f-null-130">F CXXX 2</ref> «<term ref="#cacianfu">Cacianfu</term> est une grant cité et noble dou <term ref="#cataio">Catai</term> et est ver midi. Les jens sunt <term ref="#idolatri">ydules</term> et font ardoir lor mors […]»). La redazione tràdita dal manoscritto Zelada accorcia
+         notevolmente questo segmento (<ref type="witlink" target="#z-null-64">Z 64 21-22</ref> «Et discedendo a <term ref="#gouza">Çuçu</term>, itur .IIII. dietis, inveniendo multas civitates et castra, gentes quarum sunt mercatores
+         et artifices, et <term ref="#idolatri">ydola adorantes</term>. Habent pecuniam de cartis <term ref="#gran-can">Magni Can</term>»), ma data la sua vicinanza con R nella parte conclusiva della pericope, incliniamo
+         a ritenere che Ramusio abbia attinto tale passaggio non da V, ma dall’esemplare Z1. A conferma di ciò, va rilevato che il toponimo <term ref="#pazanfu">Pazanfu</term> di R pare derivare da un’erronea lettura di <term ref="#pazanfu">Caçanfu</term> di Z. La frase «ritornando per l’altra parte della provincia» sarà invece da considerare
+         come un’aggiunta arbitraria dell’editore.</p>
+	<p>Nella sezione conclusiva R («la cui […] morono») si attiene strettamente a <ref type="witlink" target="#z-null-65">Z 65 1</ref> «<term ref="#pazanfu">Caçanfu</term> est quedam civitas nobilis de <term ref="#cataio">Cathay</term>, et est versus meridiem; gentes cuius <term ref="#idolatri">adorant ydola</term> et faciunt comburi funera cum moriuntur».</p>
+	<p>Non si danno indizi di rapporti di R con la versione di L e con quella, assai concisa,
+         di P: <ref type="witlink" target="#l-null-105">L 105 1-5</ref> «Super predicto flumine adhuc .XII. dietis inveniuntur continue civitates et castra
+         multa. Quorum gentes sunt <term ref="#idolatri">ydolatre</term>, expendentes monetam de cartis; suntque mercatores et artiste, et aliqui armigeri.
+         Et ultra has .XII. dietas est <term ref="#sindinfu">Sindifu</term>, de quo supra dictum est. Et ab hinc itur bene .LXX. dietis per diversas ‹provincias›
+         et loca iam superius nominata; et tunc invenitur <term ref="#gouza">Giugiu</term>, de quo parum ante diximus: a quo itur quatuor dietis versus meridiem, ubi civitates
+         et castra multa sunt, et gentes <term ref="#idolatri">ydolatre</term> et mercatores ‹et artiste›, utentes moneta ex cartis. Invenitur civitas dicta <term ref="#pazanfu">Cacanfu</term>, que est ex provincia <term ref="#cataio">Chatay</term>, et est magna civitas et nobilis versus meridiem […]» / <ref type="witlink" target="#l-null-105">L 105 6</ref> «Huius gentes sunt <term ref="#idolatri">ydolatre</term>, mortuorum corpora comburunt […]»; <ref type="witlink" target="#p-ii-50">P II 50 1</ref> «Post di‹s›cessum a provincia <term ref="#cintigui">Cynguy</term> per dietas .IIII. inveniuntur civitates plures et multa castra; post dietas .IIII.
+         est nobilis civitas <term ref="#pazanfu">Cacausa</term> que pertinet ad provinciam <term ref="#cataio">Cathay</term> et est ad meridiem […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

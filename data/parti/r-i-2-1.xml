@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-2-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-2">
+      <note>
+	<p>Il primo paragrafo è la trasposizione pressoché letterale di <ref type="witlink" target="#vb-null-11">VB XI 1</ref> «‹P›er dare principio a narare dele provincie io Marcho Polo ò viste nell’Asia e
+         dele chosse ‹de›gne de farne noticia ò ritrovate in quelle, dicho che el son do <term ref="#armenia">Armenie</term> […]»), brano di raccordo tra prologo e sezione corografica. Un preliminare, sommario
+         riferimento ai <hi rend="italics">notabilia</hi> delle province d’Asia che saranno oggetto del libro compare anche in <ref type="witlink" target="#l-null-16">L 16 11</ref>, in coda all’ultimo capitolo del prologo («Hiis ergo hystorialiter et breviter pertransitis
+         ad principale propositum venientes, de diversis Asye partibus diversisque habitantium
+         moribus multis‹que› mirabilibus pertractetur»), e in Z 1 16 («Et hic describuntur omnes regiones, provincie, regna et civitates circa Asyam Mediam
+         et partem Europe firmate et omnes mores et consuetudines, generaliter et divisim,
+         omnium gentium habitantium in eisdem»); appaiono meno connotati, invece, i raccordi
+         di <ref type="witlink" target="#f-null-18">F XVIII 19</ref> («Or puis que je voç ai contéç tot le fa‹i›t dou prolegue, ensi com vos avés oï,
+         adonc comencerai le livre»), <ref type="witlink" target="#p-i-11">P I 11 1</ref> («Narracione facta nostrorum itinerum, nunc ad ea narranda que vidimus accedamus»)
+         – sintesi della lezione di un teste simile a <ref type="witlink" target="#va-null-9">VA IX 1</ref> («Dapoi che nui avemo scrita la istoria della nostra via, e chome nui andasemo, stesemo
+         e tornassemo, sì ve vo’ dir per ordine de quelle cosse le qual nui vedesemo e trovasemo»)
+         – e <ref type="witlink" target="#v-null-8">V 8 10</ref> («Or lasseremo chostoro et chomenzeremo el libro dela <term ref="#armenia">Pizola Ermenia</term>»).  </p>
+	<p>Non trascurabile, nell’adattamento di VB, è la traslazione del “soggetto poliano”
+         dalla prima alla terza persona (VB: <hi rend="italics">io Marcho Polo</hi> &gt; R: <hi rend="italics">messer Marco Polo</hi>), in linea con l’opzione narratologica oggettiva selezionata da Ramusio per la sua
+         traduzione del <hi rend="italics">Milione</hi>.</p>
+	<p>Infine, si segnala che gli attributi <hi rend="italics">maggiore</hi> e <hi rend="italics">minore</hi>, identificativi delle due Armenie, paiono riecheggiare in R la formulazione di <ref type="witlink" target="#p-i-11">P I 11 2</ref>: «<term ref="#armenia">Armenie</term> due sunt: Minor et Maior».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

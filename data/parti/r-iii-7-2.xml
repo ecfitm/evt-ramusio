@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-7-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-7">
+      <note>
+	<p>L’elenco delle ricchezze dell’isola (e in particolare quello delle spezie) qui sciorinato
+         ripete <ref type="witlink" target="#z-null-96">Z 96 4-7</ref>, compresa l’iperbole conclusiva: «Ista insula tenax est multarum diviciarum. Piper,
+         nuces muscate, species, galanga, cubebe, garofali et omnes alie bone species que inveniri
+         valent in mundo, in insula ista sunt. Ad hanc insulam ‹veniunt› multe naves, que ibi
+         inveniunt de multis mercimoniis, de quibus multum lucrum et profectum consequuntur.
+         In ista insula est tantus thesaurus quod nemo posset credere nec refere» (la redazione
+         latina traduce fedelmente F CLXII 4 «Ceste ysle est de mout grant richece. Il ont pevre e noces moscee et espi e galanga
+         e cubebe e garofali, et de toutes cheres espicerie qe l’en peust trover au monde.
+         E a ceste isle vienent grant quantité de nes e de mercaanz qe hi acatent de maintes
+         mercandies et hi font grant profit e grant gaagne. En ceste isle ha si grant treçor
+         qe ne est home au monde qe le peust contere ne dire»). Ramusio propone però, al posto
+         di <hi rend="italics">species</hi> di Z, <hi rend="italics">spico</hi>; forse la forma adottata era già nel “codice Ghisi” a sua disposizione, ma in ogni
+         caso essa è garantita da P III 3 «Ibi est piperis, nucum muscatarum, spici, galange, cubebarum, garofolorum et ceterorum
+         aromatum copia maxima» (abbreviato rispetto a F-Z, come del resto l’antigrafo VA CXXIV 3 «In questa ixolla è grande richeze, et è-ne molto piper e noxe moschate e spigo e
+         galanga e chubebe e garofali e tute altre bone spezie») e dall’abbreviato resoconto
+         di L 146 3 «Et est dives insula valde. Et ibi sunt piper, nuces muscate, spica, galanga, cubebe,
+         gariofoli; et breviter omnes bone et care species in ea inveniri possunt […]» (omette
+         il dettaglio V 84 3-5, per il resto aderente a F: «Et in questa ixolla sono de molte richeze: pevere, noxe
+         moschiade, chanela, galanga, garofalli, et altre bone spezie le qual se posa trovar
+         nel mondo. Et questa ixola àno molte nave chon marchadantie le qual dano gran profito.
+         In questa ixola sono tanto texoro che algun no ’l poria chreder né alguno no ’l poté
+         mai saver»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-56</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La chiusa della sezione dipende nuovamente da <ref type="witlink" target="#z-null-107">Z 107 180</ref>: «Et in mane presbiter ydolorum pro magno gaudio nunciabit quod viderit deum cum
+         dea coniungi et quod factum est concordium inter eos»; Ramusio peraltro modifica il
+         passo in maniera significativa, passando dalla prospettiva referenziale a quella soggettiva
+         della credenza. (Sempre in nome di un utilizzo parsimonioso della sua fonte, e forse
+         per una qualche <hi rend="italics">pruderie</hi> legata all’esplicito richiamo a pratiche di ierodulia, Ramusio omette <ref type="witlink" target="#z-null-107">Z 107 181-185</ref>: «Et tunc omnes gaudent et regratiantur. Iste quidem domicelle, dum domicelle sunt,
+         ita sunt dure carnes quod nullus posset eas in aliqua parte modo aliquo comprehendere
+         vel piçigare. Et pro uno denario parvo consentirent uni homini ut ipsas pizigaret
+         quantum posset. Quando maritate sunt etiam sunt dure carnes, sed non sic. Earum mamile
+         propter duriciem non pendent, ymo stant sublevate et irte»).</p>
+	<p>L’intero passo (compresa la sezione taciuta da Ramusio) è assente in F CLXXIII 55, VA CXXXVII 42 (e P III 24 5), V 91 54 e VB CXLIII 63. Una traccia parziale (ed eufemistica) è in L 161 35 «[…] que cantationibus virginumque precibus concordantur».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

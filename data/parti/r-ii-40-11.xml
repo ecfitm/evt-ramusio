@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-40-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>Nella prima sezione («Oltre […] vendere»), R segue alla lettera <ref type="witlink" target="#z-null-57">Z 57 30</ref> «Preterea in dicta provincia nascuntur magni equi, qui ducuntur in Indyam ad vendendum». Nel manoscritto Zelada le informazioni successive vengono omesse,
+         ma l’accordo di R con F in almeno un passaggio potrebbe provare che Ramusio abbia
+         ricavato da Z1 anche questa parte di testo: <ref type="witlink" target="#f-null-118">F CXVIII 21-22</ref> «Et encore voç di qe en cest provence naisent grant chavaus, et les portent en <term ref="#india">Endie</term> a vendre. Et si sachiés qe il traient .II. nod ou .III. de l’os de la coe, por ce
+         que le qeval ne puesse mener la coe por doner a celz qui est sus ou quant il cort,
+         car trop senble lor vilaine chouse [R «cosa brutta»] quant le cheval cor et moine
+         la coe». Non è possibile stabilire, invece, se la lezione «mentre sono giovani», che
+         non figura in nessun’altra redazione poliana all’infuori di R, risalga a Z1 oppure sia un’aggiunta arbitraria di Ramusio. Va rilevato, infine, che alcune varianti
+         formali potrebbero provare lo sporadico ricorso dell’editore a <ref type="witlink" target="#p-ii-40">P II 40 12</ref> «In hac provincia multi et optimi equi nascuntur qui a negotiatoribus deferuntur
+         in <term ref="#india">Indiam</term>; omnibus autem equis nodos duos aut tres de ossibus caude extrahunt, ne equus currens
+         equitem cauda feriat et ne caudam  huc illucque [R «in qua et là ma»] contorqueat
+         dum currit, quoniam hoc in equo turpissimum reputant […]», e a<ref type="witlink" target="#vb-null-84"> VB LXXXIV 13</ref> «Trovasi quivi molti e belli chavalli di qualli i marchadanti molti ne portano in
+         <term ref="#india">India</term>; et a tuti i chavano do over tre ossi dela coda, açò che quando el chavallo core
+         el non meni la coda parendoge bruto chostume de 1° chavallo chorendo [R «corendo»]
+         menar la coda». Mancano invece indizi di contatti di R con <ref type="witlink" target="#l-null-97">L 97 8</ref> «Et in hac provincia nascuntur magni equi, quos in <term ref="#india">Yndia</term> portant. Verum istis equis ex caudis eorum trahunt duos vel tres nodos, ne equitantes
+         caudis percutere possint, et ut currentes caudam movere non possint, quia hoc pro
+         turpi tenent», e con <ref type="witlink" target="#v-null-56">V 56 37</ref> «Et in questa provinzia nasse de gran chavalli i qualli vien mandadi in <term ref="#india">India</term>, et sì li tirano do over tre nodi dela choda, azò che i non possa menar la choda
+         a ferir quelli che sono sovra quelli quando i chore; i par tropo bruti, perché i non
+         àno tropo choda […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

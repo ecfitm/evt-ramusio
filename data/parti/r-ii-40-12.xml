@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-40-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>R coincide in tutto (tranne che per la menzione dei «Francieschi») con <ref type="witlink" target="#z-null-57">Z 57 31-32</ref> «Gentes ille equitant stapites tenentes longas quemadmodum apud nos. Et ideo dicitur
+         longas, quia <term ref="#tartari">Tartari</term> et quasi omnes alie gentes, propter sagitamenta, ipsas portant breves, quia, cum
+         sagitant, se rittos errigunt supra equos». Si tratta con ogni evidenza di una lacuna
+         di Z toledano che non era condivisa dalla fonte Z1. Va rilevato che nel resto della tradizione poliana le informazioni contenute nel
+         par. 12 vengono riferite in modo molto più stringato: <ref type="witlink" target="#p-ii-40">P II 40 12</ref> «[…] equites huius patrie strepis utuntur longis ad cellas ut apud nos gallici faciunt»;
+         <ref type="witlink" target="#v-null-56">V 56 37</ref> «[…] et questa zente chavalcha al muodo de † chalizi †,»; <ref type="witlink" target="#vb-null-84">VB LXXXIV 14</ref> «Quella giente chavalchano longo […]» (<ref type="witlink" target="#f-null-118">F CXVIII 23</ref> «Et encore sachiés qe cestes gens chevauchent lonc come franchois»). Questa parte
+         del testo viene del tutto omessa in L.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

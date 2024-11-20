@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-77-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-77">
+      <note>
+	<p>Nella prima parte della pericope («Il fiume […] <term ref="#tingui">Tingui</term>»), Ramusio utilizza materiali attinti da un affine di Z, rielaborandoli e compendiandoli:
+         <ref type="witlink" target="#z-null-90">Z 90 13</ref> «Flumen quod intrat in portum <term ref="#zaitum">Çaytum</term> est valde magnum et amplum, et valde raptanter curit, ita quod, propter velocitatem
+         ipsius, multos alveos sibi facit, id est in plures ramos in pluribus divi‹di›tur locis».
+         Nella  seconda parte («della qual […] detto»), riporta in forma sintetica e in parte
+         rimaneggiata un’informazione tràdita da tutte le sue fonti: <ref type="witlink" target="#l-null-141">L 141 1</ref> «In hac provincia <term ref="#fugiu">Fugiu</term> ‹est civitas dicta <term ref="#tingui">Tinugiu</term>, in qua› fiunt vasa de porcellanis, que ubique valde tenentur cara: preter quam enim
+         in hac civitate nusquam alibi laborantur […]»; <ref type="witlink" target="#p-ii-70">P II 70 5</ref> «In hac regione est civitas <term ref="#tingui">Tingui</term> ubi scutelle pulcherrime fiunt de terra que dicitur porcellana»; <ref type="witlink" target="#v-null-79">V 79 9</ref> «Et in quela provinzia sono una zitade chiamata <term ref="#tingui">Tungui</term>, in la qual se fano schudele de porzelana in gran quantitade, le plu belle che se
+         puol trovar in alguna altra zitade, et non se fano se no in questa; e da questa zitade
+         vien portade per tuto el mondo […]»; <ref type="witlink" target="#vb-null-124">VB CXXIV 1</ref> «<term ref="#tingui">‹T›ingui</term> è una citade nela provincia e reame dito, nela qual se fano i llavori de porcellane
+         çoè schudelle, piadene et alltri ordegni molto belli, né quaxi in alltre parte non
+         so se ne façi ma sollo in questa citade: et è gran mestiero, però che de quelle per
+         tutto el mondo le fino portatte e per tuto mollto aprexiade»; <ref type="witlink" target="#z-null-90">Z 90 20-22</ref> «Et etiam in hac patria ‹et› provincia ‹est› quedam civitas nomine <term ref="#tingui">Tinçu</term>, ubi fiunt parasides de porcelanis in magna quantitate, pulcriores que possint inveniri.
+         Et in nulla civitate fiunt preterquam in ista. Et ab ista civitate feruntur per mundum
+         in multas partes» (vd. <ref type="witlink" target="#f-null-156">F CLVI 11-12</ref> «Et encore voç di qe en ceste provence, en une cité qe est apellé <term ref="#tingui">Tinugiu</term>, se font escuelle de porcellaine, grant e pitet, les plus belles qe l’en peust deviser.
+         Et en une autre part nen s’en font, se ne en cest cité, et d’iluec se portent por
+         mi le monde […]»). La forma <hi rend="italics">Tingui </hi>di R si incontra sia in P che in VB, ma la presenza nella versione ramusiana dell’aggiunta
+         «et piadene» dimostra che qui l’editore si è avvalso di un testimone della famiglia
+         VB  («i llavori de porcellane çoè schudelle, piadene», vd. sopra).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

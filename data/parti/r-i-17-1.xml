@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-17-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-17">
+      <note>
+	<p>La pericope è un segmento di raccordo puramente funzionale, quasi del tutto privo
+         di contenuto informativo: Ramusio ne riduce i pleonasmi osservabili in particolare
+         in <ref type="witlink" target="#f-null-36">F XXXVI 22</ref> («Or nos laison de ceste cité, et ne voç contaron de <term ref="#india">Endie</term> a cestui point, car voç bien le conterai en nostre livre avant, quant tens et leu
+         sera; mes mo retornerai por tramontaine por conter de celle provences, e retorneron
+         por un autre voie a la cité de <term ref="#chermain">Crerman</term> qe je voç ai contés, por ce que en les contrés dont je voç voil conter ne se puet
+         aler se no da ceste cité de <term ref="#chermain">Creman</term>»), in <ref type="witlink" target="#v-null-20">V 20 32</ref> (che si accoda <hi rend="italics">verbatim</hi> a F: «Or di questa zitade non diremo piui, mo torneremo inverso tramontana e diremo
+         de quele parte e provinzie, e torneremo per una altra via dala zitade d’<term ref="#chermain">Eraman</term> la qualle io ve dissi de sopra, perché dele chontrade le qual ve voio dir non se
+         puol andar se no per questa zitade d’<term ref="#chermain">Eraman</term>») e in <ref type="witlink" target="#l-null-31">L 31 1</ref> (didascalica rielaborazione dei contenuti di F: «Non intendit auctor amplius procedere,
+         quia ingrederetur ad partes <term ref="#india">Indie</term> de quibus specialiter magis infra loquetur; sed ad presens intendit loqui de partibus
+         versus septemtrionem. Ut autem hoc faciat oportet reverti a <term ref="#ormus">Cremosa</term> – de qua ad presens dictum est – per septemtrionem versus ad <term ref="#chermain">Creman</term> – de qua supra dictum est –, quia inde incipiam dicere nostrum ‹iter›»).</p>
+	<p>Non distante dal dettato di R è la sintesi di <ref type="witlink" target="#p-i-24">P I 24 1</ref> («Nunc de regionibus aliis loquuturus, primo revertar ad <term ref="#chermain">Crerman</term> ut inde progrediar ad eas quas volo describere regiones; alio autem loco libri huius
+         <term ref="#india">India</term> describetur»), che si allontana dal dettato della  fonte (<ref type="witlink" target="#va-null-24">VA XXIV 1</ref> «Or ve laserò de questa zitade e sì ve dirò della tramontana, per chontare de quelle
+         provinzie, e ritornerò per una via alla zità de <term ref="#chermain">Chrerina</term>») per approssimarsi – andrebbe indagato per quali vie – a quello della restante tradizione.</p>
+	<p>Sunteggia, riscrivendo, anche <ref type="witlink" target="#vb-null-23">VB XXIII 1</ref> «‹P›artendossi della sopra ditta provincia per tramontana si chapita alla citade
+         de <term ref="#chermain">Creman</term> chome sopra ve dissi; per che vollendo io andare dove io voio, me coven passare per
+         la dita citade de <term ref="#chermain">Creman</term>», mentre tace il toledano, che di regola sopprime questo genere di raccordi.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

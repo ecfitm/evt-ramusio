@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-20" n="1">
+    <head>
+      <hi rend="bold">R, III 20</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-20_1_1" n="1"> Della provincia di <term ref="#malabar">Malabar</term>. Cap. 20.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-20_2_1" n="1"> Partendosi dall’isola di <term ref="#zeilan">Zeilan</term>, et navigando verso ponente miglia sessanta, si trova la gran provincia di <term ref="#malabar">Malabar</term>, la qual non è isola ma terra ferma, et si chiama <term ref="#india">India Maggior</term>, per essere et la piú nobile et la piú ricca provincia che sia al mondo. </seg>
+      <seg xml:id="r-iii-20_2_2" n="2"> Sono in quella quattro re, ma il principale, che è capo della provincia, si chiama
+         <term ref="#senderbandi">Senderbandí</term>. </seg>
+      <seg xml:id="r-iii-20_2_3" n="3"> Nel suo regno si pescano le perle, cioè che fra <term ref="#malabar">Malabar</term> et l’isola di <term ref="#zeilan">Zeilan</term> vi è un colfo o vero seno di mare, dove l’acqua non è piú alta di dieci in dodici
+         passa, et in alcuni luoghi duoi passa, et pescansi in questo modo: che molti mercatanti
+         fanno diverse compagnie, et hanno molte navi et barche grandi et piccole, con ancore
+         per potere sorger, et menano seco huomini salariati, che sanno andare nel fondo a
+         pigliar le ostriche, nelle quali sono appiccate le perle, et le portano di sopra in
+         un sacchetto di rete ligato al corpo, et poi ritornano di nuovo, et quando non possono
+         sostenire piú il fiato vengono suso, et stati un poco se ne descendono, et cosí fanno
+         tutto il giorno. </seg>
+      <seg xml:id="r-iii-20_2_4" n="4"> Et pigliansi in grandissima quantità, delle quali si fornisce quasi tutto il mondo,
+         per essere la maggior parte di quelle che si pigliano in questo colfo tonde et lustri.
+         </seg>
+      <seg xml:id="r-iii-20_2_5" n="5"> Il luogo dove si trovano in maggior quantità dette ostriche si chiama <term ref="#betala">Betala</term>, che è sopra la terra ferma, et di lí vanno al dritto per sessanta miglia per mezzogiorno.
+         </seg>
+      <seg xml:id="r-iii-20_2_6" n="6"> Et essendovi in questo colfo pesci grandi che uccideriano i pescatori, però i mercatanti
+         conducono alcuni incantatori di una sorte di <term ref="#bramini">Bramini</term>, quali per arte diabolica sanno constringere et stupefare i pesci, che non li fanno
+         male; et perché pescano il giorno, però la sera desfanno l’incanto, temendo che alcuno
+         nascosamente, senza licenza d’i mercatanti, non discenda la notte a pigliar le ostriche:
+         i ladri, che temono detti pesci, non osano andarvi di notte. </seg>
+      <seg xml:id="r-iii-20_2_7" n="7"> Questi incantatori sono gran maestri di saper incantare tutti gli animali, et ancho
+         gli uccelli. [8] Questa pescagione |53v| comincia per tutto il mese di aprile fino a mezzo maggio,
+         la qual comprano dal re, et li danno solamente la decima (e ne cava grandissima utilità),
+         et alli incantatori la vigesima. [9] Finito detto tempo piú dette ostriche non si trovano, ma fanno passaggio ad un altro
+         luogo, distante da questo colfo trecento et piú miglia, dove si trovano per il mese
+         di settembre fino a mezzo ottobrio. [10] Di queste perle, oltre la decima che danno i mercatanti, il re vuol tutte quelle
+         che sono grosse et tonde, et le paga cortesemente, sí che tutti gliele portano volentieri.
+         [11] Il popolo di questa provincia in ogni tempo va nudo, eccetto che (come è detto) si
+         coprono le parti vergognose con un drappo, et il re similmente va come gli altri:
+         vero è ch’ei porta alcune cose per honorificentia regale, cioè a torno il collo una
+         collana piena di pietre preciose, zafiri, smeraldi et rubini, che vagliono un gran
+         thesoro; li pende al collo anchor un cordone di seda sottile che discende fin al petto,
+         nel quale sono cento et quattro perle grosse et belle et rubini, che sono di grande
+         valuta. [12] Et la causa è questa, perché gli conviene ogni giorno dir cento et quattro orationi
+         all’honor de’ suoi idoli, perché cosí comanda la lor legge et cosí osservarono i re
+         suoi predecessori. [13] La oratione che dicono ogni giorno sono queste parole: «Pacauca, Pacauca, Pacauca»,
+         et le dicono cento et quattro volte. [14] Item porta alle braccia in tre luoghi braccialetti d’oro ornati di perle et gioie,
+         et alle gambe in tre luoghi centole d’oro, tutte coperte di perle et gioie, et sopra
+         i diti d’i piedi et delle mani, che è cosa maravigliosa da vedere, né che stimare
+         si potesse la valuta: ma a questo re è facile, nascendo tutte le gioie et perle nel
+         suo regno. [15] Questo re ha ben mille concubine et mogli, perché, subito ch’ei vede una bella donna,
+         la vuol per sé: et per questo tolse la moglie che era di suo fratello, qual, per essere
+         huomo prudente et savio, sostenne la cosa in pace et non fece altro scandalo, anchor
+         che molte volte fusse in procinto di farli guerra; ma sua madre li mostrava le mammelle,
+         dicendogli: «Se farete scandalo intra voi, mi taglierò le mammelle che vi hanno nudrito»,
+         et cosí rimaneva la questione. [16] Ha anchora questo re molti cavallieri et gentilhuomini, che si chiamano fedeli del
+         re in questo mondo et nell’altro. [17] Questi servono al re nella corte, et cavalcano con lui standoli sempre appresso,
+         et come va il re questi l’accompagnano, et hanno gran dominio in tutto il regno. [18] Quando el muore, si abbruccia il suo corpo: allhora tutti questi suoi fedeli si gettano
+         volontariamente lor medemi nel fuogo et si abbrucciano, per causa d’accompagnarlo
+         nell’altro mondo. [19] In questo regno è anchora tal consuetudine, che quando muore il re i suoi figliuoli
+         che succedono non tocchano il thesoro di quello, perché dicono che saria sua vergogna
+         che, succedendo in tutto il regno, lui fosse cosí vile et da poco che ’l non se ne
+         sapesse acquistare un altro simile: et però è opinione che si conservi infiniti thesori
+         nel palazzo del re, per memoria degli altri passati. [20] In questo reame non nascono cavalli, et per questa causa il re di <term ref="#malabar">Malabar</term> et gli altri quattro re suoi fratelli consumano et spendono ogni anno molti danari
+         in quelli, perché ne comprano dalli mercatanti di <term ref="#ormus">Ormus</term>, <term ref="#dulfar">Diufar</term>, <term ref="#erginul">Pecher</term> et <term ref="#adem">Adem</term>, et di altre provincie, che glieli conducono: et si fanno ricchi, perché gliene vendono
+         di do et cinquemila per cinquecento <term ref="#sazzo">sazzi</term> d’oro l’uno, che vagliono cento <term ref="#marche">marche</term> d’argento; et in capo dell’anno non ne rimangono vivi trecento, perché non hanno
+         chi li sappino governare, né mariscalchi che li sappino medicare, et bisogna che ogni
+         anno li rinovino. [21] Ma io penso che l’aere di questa provincia non sia conforme alla natura d’i cavalli,
+         perché ivi non nascono, et però non si possono conservare. [22] Li danno da mangiare carne cotta con risi, et molti altri cibi cotti, perché non
+         vi nasce altra sorte di biave che risi. [23] Se una cavalla grande sarà pregna di qualche bel cavallo, non però partorisce se
+         non un poledro piccolo, mal fatto et con li piedi storti, et che non è buono per cavalcare.
+         [24] Si osserva in detto regno questa altra consuetudine, che quando alcuno ha commesso
+         qualche delitto, per il quale si giudichi ch’ei meriti la morte, et il signore lo
+         voglia far morire, allhora il condannato dice ch’egli si vuole uccidere ad honore
+         et riverentia di tal idolo, et immediate tutti i suoi parenti et amici lo pongono
+         sopra una cathedra, con dodici coltelli ben ammolati et taglienti, et portanlo per
+         la città esclamando: «Questo valent’uomo si va ad ammazzar se medesimo per amor di
+         tal idolo». [25] Et giunti al luogo dove si dee far giustizia, quel che dee morire piglia due coltelli
+         et grida in alta voce: «Io m’uccido per amor di tal idolo», et subito in un colpo
+         si darà due ferite nelle cosse, et dipoi due nelle braccia, due |54r| nel ventre et
+         due nel petto, et cosí ficca tutti i coltelli nella sua persona, gridando ad ogni
+         colpo: «Io mi uccido per amor di tal idolo». [26] Et poi che s’ha fitti tutti i coltelli nella vita, l’ultimo si ficca nel cuore, et
+         subito muore. [27] Allhora i suoi parenti con grande allegrezza abbrucciano quel corpo, et la moglie
+         immediate si getta nel fuogo, lasciandosi abbrucciare per amor del marito: et le donne
+         che fanno questo sono molto laudate dall’altre genti, et quelle che non lo fanno sono
+         vituperate et biasimate. [28] Questi del regno <term ref="#idolatri">adorano gl’idoli</term>, et per la maggior parte adorano buoi, perché dicono il bue è cosa santa, et niuno
+         mangierebbe delle carni del bue per alcuna causa del mondo. [29] Ma vi è una sorte d’huomini, che si chiamano “<term ref="#gavi">gavi</term>”, i quali, benché mangino carne di bue, non però ardiscono di ucciderli, ma quando
+         alcun bue muore di propria morte, o vero altrimenti, essi gavi ne mangiano, et tutti
+         imbrattano le loro case de stercho de’ buoi. [30] Hanno queste genti per costume di sedere in terra sopra tapedi, et se sono dimandati
+         perché ciò fanno, dicono che ’l sedere sopra la terra è cosa molto honorata, perché
+         essendo noi di terra ritorneremo in terra, et niuno potrebbe mai tanto honorare la
+         terra che fosse bastevole, et però non si dee dispregiarla. [31] Et questi <term ref="#gavi">gavi</term> et tutti della sua progenie sono di quelli, i predecessori de’ quali ammazzorono
+         <term ref="#san-tommaso">san Tommaso</term> apostolo, et niuno delli detti potria entrare nel luogo dove è il corpo del beato
+         apostolo, anchor che vi fosse portato per dieci huomini, perché detto luogo non riceve
+         alcuno di loro, per la virtú di quel corpo santo. [32] In questo regno non nasce alcuna biada, se non risi et <term ref="#susimano">susimani</term>. [33] Queste genti vanno alla battaglia con lancie et scudi, et sono nude, et sono genti
+         vili et da poco, senza alcuna prattica di guerra. [34] Non ammazzano bestie alcune o vero animali, ma quando vogliono mangiar carne di montoni
+         o altre bestie o vero uccelli, le fanno uccidere da’ Sarraceni et da altre genti che
+         non osservano i costumi et leggi loro. [35] Si lavano, cosí huomini come donne, due volte il giorno in acqua tutto il corpo,
+         cioè la mattina et la sera, altrimenti non mangiariano né beveriano, se prima non
+         fussero lavati: et quello che non si lavasse due volte il giorno saria tenuto come
+         heretico. [36] Et è da sapere che nel suo mangiare adoperano solamente la mano destra, né toccariano
+         cibo alcuno con la mano sinistra, et tutte le cose monde et belle operano et toccano
+         con la mano destra, perché l’officio della mano sinistra è solamente circa le cose
+         necessarie brutte et immonde, come saria far nette le parti vergognose et altre cose
+         simili a queste. [37] Item bevono solamente con boccali, et ciascuno col suo, né alcuno beveria con il
+         boccale d’un altro, et quando bevono non si mettono il boccale alla bocca, ma lo tengono
+         elevato in alto et gettansi il vino in bocca, né toccariano il boccale con la bocca
+         per alcuno modo, né dariano bere con quei boccali ad alcun forestiere; ma, se il forestiero
+         non haverà vaso proprio da bere, essi gli gettano del vino intra le mani et egli berà
+         con quelle, adoperando le mani in luogo d’una tazza. [38] In questo regno si fa grandissima et diligente giustitia di cadauno maleficio; et
+         de’ debiti si osserva tal ordine appresso di loro: se alcun debitore sarà piú volte
+         richiesto dal suo creditore, et ei vada con promissioni differendo di giorno in giorno,
+         et il creditore lo possa toccare una volta, talmente ch’ei li possa designare un circolo
+         a torno, il debitore non uscirà fuor di quel circolo fin che non harà sodisfatto al
+         creditore, o vero gli darà una cautione che sarà sodisfatto; altramente, uscendo fuori
+         del circolo, come trasgressore della ragione et giustitia sarà punito col supplicio
+         della morte. [39] Et vidde il sopradetto messer Marco nel suo ritorno a casa, essendo nel detto regno,
+         che, dovendo dare il re ad un mercatante forestiero certa somma di denari, et essendo
+         piú volte stà richiesto, lo menava con parole alla lunga; un giorno, cavalcando per
+         la terra il re, et il mercatante trovata l’opportunità, li fece un circolo a torno,
+         circuendo ancho il cavallo: il che vedendo, il re non volse con il cavallo andar piú
+         oltra, né de lí si mosse fin che ’l mercatante non fu sodisfatto. [40] La qual cosa veduta dalle genti circonstanti, molto si maravigliorono, dicendo che
+         giustissimo era il re, havendo ubidito alla giustitia. [41] Detti popoli si guardano grandemente da bere vino fatto de uva, et quello che ne
+         bee non si riceve per testimonio, né quello che naviga per mare, perché dicono che
+         chi naviga per mare è disperato, et però non lo ricevono in testimonio. [42] Non reputano che la lussuria sia peccato. [43] Et vi è cosí gran caldo che gli è una cosa mirabile, et però vanno nudi; et non hanno
+         pioggia se non solamente del mese di giugno, luglio et agosto, et se ’l non fusse
+         quest’acqua, che |54v| piove questi tre mesi, che dà refrigerio all’aria, non si potria
+         vivere. [44] Ivi sono anchora molti savii in una scientia che si chiama fisionomia, la quale insegna
+         a conoscere la proprietà et qualità degli huomini che sono buoni o cattivi: et questo
+         conoscono subito che veggono l’huomo et la donna. [45] Conoscono ancho quel che significa incontrandosi in uccelli o bestie, et danno mente
+         al volare degli uccelli piú di tutti gli huomini del mondo, et preveggono il bene
+         et male. [46] Item per cadauno giorno della settimana hanno una hora infelice, qual chiamano choiach,
+         come il giorno del lunedí l’hora di mezza terza, il giorno del martedí l’hora di terza,
+         il giorno di mercoledí l’hora di nona, et cosí di tutti i giorni per tutto l’anno,
+         li quali hanno descritti et determinati ne’ suoi libri; et conoscono l’hore del giorno
+         al conto de’ piedi che fa l’ombra dell’huomo quando sta ritto, et si guardano in tal
+         hore di far mercadi o altre facende di mercantie, perché dicono che li vengono male.
+         [47] Item, quando nasce alcun fanciullo o fanciulla in questo regno, subito il padre o
+         la madre fanno metter in scritto il giorno della sua natività et della luna il mese
+         et l’hora: et questo fanno perché esercitano tutti i suoi fatti per astrologia. [48] Et tutti quelli c’hanno figliuoli mascoli, subito che sono in età d’anni tredeci,
+         li licentiano di casa, privandoli del vivere di casa, perché dicono che horamai sono
+         in età di potersi acquistar il vivere, et far mercantie et guadagnare: et a cadauno
+         danno venti o ventiquattro <term ref="#grosso">grossi</term>, o vero moneta di tanta valuta. [49] Questi fanciulli non cessano tutto il giorno correre hor qua hor là, comprando una
+         cosa et dipoi vendendola; et al tempo che si pescano le perle corrono alli porti,
+         et comprano dalli pescatori et da altri cinque o sei perle, secondo che possono, et
+         portanli alli mercatanti che stanno nelle case per paura del sole, dicendoli: «A me
+         costano tanto, datemi quello che vi piace di guadagno», et essi li danno qualche cosa
+         di guadagno, oltra il prezzo che sono costate loro. [50] Et cosí si essercitano in molte altre cose, facendosi ottimi et sottilissimi mercatanti,
+         et dapoi portano a casa delle lor madri le cose necessarie, et esse le cocinano et
+         apparecchiano, ma non mangiano cosa alcuna a spese de’ padri loro. [51] Item in questo regno et per tutta l’<term ref="#india">India</term> tutte le bestie et uccelli sono diversi dalli nostri, eccetto le quaglie, le quali
+         si assomigliano alle nostre; ma tutte l’altre cose sono diverse da quelle che habbiamo
+         noi. [52] Hanno pipistrelli grandi come sono <term ref="#astorre">astorri</term>, et gli <term ref="#astorre">astorri</term> negri come corbi, et molto maggiori de’ nostri, et volano velocemente et prendono
+         uccelli. [53] Hanno anchora molti idoli ne’ suoi monasterii, di forma di maschio et di femmina,
+         alli quali i padri et le madri offeriscono le figliuole; et quando l’hanno offerte,
+         ogni volta che li monachi di quel monasterio ricercano che le venghino a dar sollazzo
+         agl’idoli, subito vanno, et cantano et suonano faccendo gran festa: et dette donzelle
+         sono in gran quantità et con gran compagnie, et portano molte volte la settimana a
+         mangiare agl’idoli alli quali sono offerte, et dicono che gl’idoli mangiano, et apparecchianli
+         la tavola avanti di loro, con tutte le vettovaglie c’hanno portato, et lascianla apparecchiata
+         per il spatio d’una buona hora, sonando et cantando continuamente et faccendo gran
+         sollazzo, qual dura tanto quanto un gentilhuomo potria disinare a suo commodo. [54] Dicono allhora le donzelle che gli spiriti degl’idoli hanno mangiato ogni cosa, et
+         loro poi si pongono a mangiare atorno gl’idoli, et dipoi ritornano a casa sua. [55] Et la causa perché le fanno venire a fare queste feste è perché dicono i monachi
+         che ’l dio è turbato et adirato con la dea, né si congiungono l’un con l’altro né
+         si parlano, et che, se non faranno pace, tutte le facende loro andranno di male in
+         peggio et non vi daranno la benedittione et gratia sua: et però fanno venir le dette
+         donzelle al modo sopradetto, tutte nude, eccetto che si coprono la natura, et che
+         cantino avanti il dio et la dea. [56] Et hanno opinione quelle genti che ’l dio molte volte si solaccia con quella, et
+         che si congiungano insieme. [57] Gli huomini hanno le loro lettiere di canne leggerissime, et con tale artificio che,
+         quando vi sono dentro et vogliono dormire, si tirano con corde presso al solaro et
+         ivi si fermano. [58] Questo fanno per schifare le tarantole, le quali mordono grandemente, et per schifare
+         i pulici et altri vermenezzi, et per pigliare il vento, per mitigare il gran caldo
+         che regna in quelle bande. [59] La qual cosa non fanno tutti, ma solamente i nobili et grandi, però che gli altri
+         dormono in su le strade. [60] In la provincia detta di <term ref="#malabar">Malabar</term> vi è il corpo del glorioso messer <term ref="#san-tommaso">san Tommaso</term> apostolo, che ivi sostenne il martirio: et è in una piccola città, alla qual vanno
+         pochi mercatanti, per non |55r| essere luogo a loro proposito; ma vi vanno infiniti
+         christiani et Sarraceni per devozione, perché dicono ch’egli fu gran propheta, et
+         lo chiamano “<term ref="#anania">anania</term>”, cioè “huomo santo”. [61] Et li christiani che vanno a questa devotione togliono della terra di quel luogo
+         dove egli fu ucciso, la qual è rossa, et portanla seco con riverentia, et spesso fanno
+         miracoli, perché, distemperata in acqua, la danno a bere agli ammalati et guariscono
+         di diverse infermità. [62] Et nell’anno del Signore 1288 un gran principe di quella terra, nel tempo che si
+         raccogliono le biade, havea raccolto grandissima quantità di risi, et non havendo
+         case a bastanza dove potesse riponerli, li parve di metterli nelle case della chiesa
+         di <term ref="#san-tommaso">San Tommaso</term>, contra volontà delle guardie di quelle, quali pregavano che non dovesse occupare
+         le case dove alloggiavano li peregrini che venivano a visitare il corpo di quel glorioso
+         santo; ma lui, ostinato, glieli fece mettere. [63] Hor la notte seguente questo santo apostolo apparve in visione al principe, tenendo
+         una lancetta in mano, et ponendogliela sopra la gola li disse: «Se non svoderai le
+         case che m’hai occupato, io ti farò malamente morire». [64] Il principe, svegliatosi tutto tremante, immediate fece far quanto gli era stato
+         comandato, et disse publicamente a tutti come l’havea veduto in visione detto apostolo.
+         [65] Et molti altri miracoli tutto il giorno si veggono, per intercessione di questo beato
+         apostolo. [66] I christiani che custodiscono detta chiesa hanno molti arbori che fanno le <term ref="#noci-dindia">noci d’India</term> che habbiamo scritto di sopra, quali li danno il vivere, et pagano ad un di questi
+         re fratelli un grosso ogni mese per arbore. [67] Dicono che quel santissimo apostolo fu morto in questo modo, che essendo lui in un
+         romitorio in horatione, vi erano intorno molti pavoni, de’ quali quelle contrade sono
+         tutte ripiene: un idolatro della generatione d’i <term ref="#gavi">gavi</term> detti di sopra, passando per ivi né vedendo detto santo, tirò con una saetta ad un
+         pavone, la qual andò a ferire nel costato di quel santissimo apostolo, qual, sentendosi
+         ferito, referendo gratia al nostro Signor Dio rese l’anima a quello. [68] In detta provincia di <term ref="#malabar">Malabar</term> gli habitanti sono negri, ma non nascono cosí come essi si fanno con artificio, perché
+         reputano la negrezza per gran beltà, et però ogni giorno ungano li fanciullini tre
+         volte con olio di <term ref="#susimano">susimani</term>. [69] Li <term ref="#idolatri">idolatri</term> di questa provincia fanno le imagini delli suoi idoli tutte nere, et dipingono il
+         diavolo bianco, dicendo che tutti li demoni sono bianchi. [70] Et quelli che adorano il bue, come vanno a combattere, portano seco del pelo del
+         bue salvatico, et li cavallieri legano del detto pelo alle crene del cavallo, tenendolo
+         che il sia di tanta santità et virtú che cadauno che l’ha sopra di sé sia sicuro da
+         ogni pericolo: et per questa causa i peli de’ buoi salvatichi vagliono assai danari
+         in quelle parti.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-33-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-33">
+      <note>
+	<p>Ramusio costruisce una lezione per selezione delle informazioni disponibili nella
+         tradizione a partire da F CLXXXVII 2 «Il hi vienent mercant grant quantité, e por mer e por tere, con plosors mercandies,
+         et en portent encore de celle de cest rengne» (<ref type="witlink" target="#z-null-121">Z 121 4</ref> traduce «Illuc multi mercatores per mare et per terram accedunt cum multis mercimoniis,
+         et postmodum reportant de mercimoniis huius regni»; V 103 2 «[…] et molti marchadanti vano per mar e per tera là chon molte marchadantie»). Il
+         testo più simile a R appare in L 174 3 «Ad hunc locum per mare et per terram veniunt quam plurimi mercatores» (ma si tratta
+         di somiglianze per poligenesi, riconducibili a manipolazione autonoma di un modello
+         affine).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

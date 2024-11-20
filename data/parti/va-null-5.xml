@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-5">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, V</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-5_2_1" n="1"> Hor avene che chostor stete alla chorte del <term ref="#gran-can">Gran Chaan</term>, e tuta la chorte li feva grande onor et erano onoradi altratanto quanto baroni che
+         fusse in la corte. </seg>
+      <seg xml:id="va-null-5_2_2" n="2"> E Marcho inparò bene i chostumi de’ <term ref="#tartari">Tartari</term> e lle uxanze e lla lengua loro, e in pocho tenpo inparò quelle letere. </seg>
+      <seg xml:id="va-null-5_2_3" n="3"> Per el
+         seno e per i beli costumi ch’ell aveva, el fo in grazia del segnior. </seg>
+      <seg xml:id="va-null-5_2_4" n="4"> E piaque
+         al <term ref="#gran-can">Grande Chaan</term> de provar chome Marcho savesse far una anbasiaria a una tera ala qual el stete ad
+         andar ben mezo ano. </seg>
+      <seg xml:id="va-null-5_2_5" n="5"> E perché el saveva che ’l segnior aldiva volentiera novelle,
+         e spesse fiade reprendeva suo’ messi che i non sapeva ben dir le chondizion delle
+         tere donde i passavano, e solea dire che lli era altretanto charo che so mesi savesse
+         ben le novelle delle chorte e lle chondizion, chome s’el fosse le prinzipal anbasiate,
+         Marcho, sapiando ziò, atexe chon gran dilligienzia a saver tute le chondizion delle
+         chorte donde el passò, sì che quando el tornò al <term ref="#gran-can">Gran Segnior</term>, el sape tropo ben render soa anbasiada. </seg>
+      <seg xml:id="va-null-5_2_6" n="6"> Avea tropo ben fato quel per che ’l
+         ‹m›andò a dire, e intriegamente le chondizion e lle novelle delle chorte reportà,
+         onde ello entrà granmente in grazia del <term ref="#gran-can">Gran Segnior</term>, sì che in la corte chomenzò a chiamar Marcho, de llì inanzi, missier Marcho, e chusì
+         l’apellerà da qui inanzi el nostro libro.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

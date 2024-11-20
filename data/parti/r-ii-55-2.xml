@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-55-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-55">
+      <note>
+	<p>Nella parte iniziale e centrale («Et nel 1269 […] fiumi») il modello principale della
+         pericope è rappresentato da <ref type="witlink" target="#vb-null-101">VB CI 1</ref>, che mette insieme informazioni che nella versione originale sono distribuite in
+         diversi punti del testo: «[…] della qualle nel .MIIcLXVIII. n’era segnore el re <term ref="#fanfur">Fatur</term>, el più richo, el più potente segnore avesse tutto ‹el› Levante; ma era segnor quieto
+         e pacificho e homo de grande ellemosene, né credeva segnor al mondo i potesse nuoser
+         per la forteça del suo paexe circondatto da grandissimi fiumi» (vd. <ref type="witlink" target="#f-null-138">F CXXXVIII 4</ref> «[…] les .M.CC.LXVIII. de l’ancarnasion de Crist […]» / <ref type="witlink" target="#f-null-138">F CXXXVIII 2</ref> «Il fu voir qe ‹de›la grant provence do <term ref="#mangi">Mangi</term> en estoit seingnor et sire <term ref="#fanfur">Facfur</term>, qe mout estoit grant roi e poisant des treçor e des jens et des terres, si que pou
+         ’n avoit au monde greingnor, et certes n’en estoit nul plus riche e plus poisant,
+         se n’estoit le <term ref="#gran-can">Gran Chan</term>. Mes si sachiés qu’il n’estoit homes vailanz d’armes, […] et fasoit bien a povres
+         jens» / <ref type="witlink" target="#f-null-138">F CXXXVIII 13</ref> «[…] et si voç dirai aucune des noblité qu’il fasoit» / <ref type="witlink" target="#f-null-138">F CXXXVIII 3</ref> «Et en sa provence ne avoit chevauz ne n’estoient costumés de bataille ne d’armes
+         ne des hostes, por ce che ceste provence dou <term ref="#mangi">Mangi</term> est mout fortissme leu, car t‹r›e‹s›toutes les cités sunt environee d’eive large
+         et porfonde […]»). </p>
+	<p>La parte finale («dal che processe […] esercitassero»), che non trova un preciso riscontro
+         in <ref type="witlink" target="#vb-null-101">VB CI 4</ref> («El re <term ref="#fanfur">Fatur</term> [che senpre ai çorni soi], avendo tenuto el paexe suo in paxe e i popolli soi non
+         ati a gueriçar, avegna avesse molto maor numero de giente»), né in altre redazioni,
+         potrebbe dipendere dalla versione più sintetica di <ref type="witlink" target="#p-ii-54">P II 54 1</ref> «Anno Domini .MCCLXVIII […]»;<ref type="witlink" target="#p-ii-53">  P II 53 2-3</ref> «In provincia magna <term ref="#mangi">Mangy</term> fuit rex quidam nomine <term ref="#fanfur">Facfur</term> potens et dives valde, nec inveniebatur tempore eius princeps aliquis eo maior preter
+         <term ref="#gran-can">Magnum Kaam</term>. Regnum autem eius fortissimum erat et inexpugnabile putabatur, nec quisquam ipsum
+         invadere presumebat, ideoque rex et populus regis armorum atque bellorum exercitium
+         non habebat» [R «non si essercitò nell’armi»]. Anche il nome <hi rend="italics">Farfur </hi>appare più vicino alla foma che compare in P (<hi rend="italics">Facfur</hi>) che a quella di VB (<hi rend="italics">Fatur</hi>). </p>
+	<p>Non si danno indizi di contatti di R con <ref type="witlink" target="#v-null-67">V 67 1-3</ref> «<term ref="#fanfur">‹A›lefur</term> iera signor dela gran provinzia de <term ref="#mangi">Mongin</term>, et erano sì gran re e possente che pochi al mondo iera a par de lui, salvo el <term ref="#gran-can">Gran Chan</term>. Et iera sì valente nel’arme […] et feva ben a povera zente. Et in la sua provinzia
+         non iera chavalli, e li homeni non iera uxadi in le arme né in li exerziti; et questa
+         provinzia sono molto forte, però che tute le suo’ zitade sono fondade in aqua profonde
+         […]». </p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-37-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Rispetto alla pericope di R, il testo di P III 41 2-3 «Ibi est rex proprius et singularis lingua. Omnes insule habitatores <term ref="#idolatri">ydolatre</term> sunt» presenta un diverso ordine dei membri, e un diverso trattamento dell’informazione
+         sullo status politico della regione. Pipino segue fedelmente VA CL 2 «La zente del’ixolla è <term ref="#idolatri">idolatra</term> e à re e llenguazio proprio». Il testo di Ramusio segue <ref type="witlink" target="#z-null-125-1-33">Z 125 2</ref> «Ipsius gentes <term ref="#idolatri">adorant ydola</term>, et loquela per se habent nullique redunt tributum» – che, come V 107 1 «[…] la zente dela qual <term ref="#idolatri">adorano l’idolle</term>; et àno loquela per sí; et non dano trabuto ad algun», traduce F CXCI 2 «Il sunt tuit <term ref="#idolatri">ydres</term>; il ont roi et lengajes por eles; il ne font trëu a nelui» </p>
+	<p>Condivide la struttura e il contenuto di VA-P L 178 2 «Adest hic rex et proprium ideoma; homines sunt <term ref="#idolatri">ydolatre</term>»; VB CLXI 1 presenta una forma “mista” tra i due modelli: «[…] et sono <term ref="#idolatri">idolatri</term>, et àno re el qual non rende tributo ad alchuno».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

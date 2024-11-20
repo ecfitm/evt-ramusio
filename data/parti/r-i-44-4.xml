@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-44-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-44">
+      <note>
+	<p>Di nuovo, le numerose coincidenze letterali di R con il dettato di <ref type="witlink" target="#f-null-68">F LXVIII 5-6</ref> («Et si voç di un autre meravoie: que quant les cors de cesti grant cham sunt aportés
+         a celle montagnes et il soient loingne .XL. jornee ou plus o moins, toutes les gens
+         qu’il encontrerent por les voies dont les cors sunt portés sunt mis a le spee por
+         celz que le cors conduient, et dient: “Alés servir vostre seingnor en l’autre munde!”.
+         Car il cuident voiramant que tuit celz qu’il ocient doient aler servir lo seingnor
+         en l’atre monde. Et ce meisme font il des chavauz car, quant le seingnor muert, il
+         occient tuit les meillors chevaus qe le seingnor avoit: font ocire por coi le seingnor
+         l’ait en l’autre monde») suggeriscono che R derivi da un esemplare molto vicino a
+         F, individuabile nel perduto Z1. </p>
+	<p>Più difficilmente R dipenderà da <ref type="witlink" target="#v-null-36">V 36 3</ref>, che pure è qui molto vicino a R/F («Et dichove che quando li chorpi de questi <term ref="#gran-can">Gran Chani</term> vien portadi a questo monte a sopelire essendo lonzi quaranta zornade e più e men,
+         a tuti queli che li se schontra tra questi chorpi vieno morti da queli che porta el
+         dito chorpo, dizendo: “Andate a servir al nostro signor al’altro mondo”, et simelmente
+         fano deli mior chavali che sia romaxi del signor: tuti li alzide, azò che ’l signor
+         i abia al’altro mondo, et chussì ognuno chrede»), ma nell’unica copia superstite se
+         ne discosta per una lacuna corrispondente alla tessera «Car il cuident […] atre monde»
+         di F, che per quanto ne sappiamo potrebbe anche rimontare fino al traduttore.</p>
+	<p>Vale, insomma, quanto detto in sede di commento a <ref type="witlink" target="#r-i-44">R I 44 3</ref>.</p>
+	<p>Troppo distanti – più nella forma che nella sostanza – dagli sviluppi di R per esserne
+         stati la fonte sono: <ref type="witlink" target="#l-null-59">L 59 3</ref> «[…] in tali autem itinere, dum corpus sepulture portatur, quoscumque invenerint
+         morti tradunt dicentes: “Vade servire domino in alieno mundo” – talis enim est eorum
+         crudelitas. Simile eciam faciunt de equis: in morte eius domini omnes meliores equos
+         occidunt, credentes dominum eos in alieno mundo ‹debere› habere»; <ref type="witlink" target="#p-i-54">P I 54 2 </ref>«Quando vero corpus <term ref="#gran-can">Magni Kaam</term> tumulandum defertur ad montem <term ref="#altai">Alchay</term>, hii qui eum ad sepulturam concomitantur homines cunctos quos in via habent obvios
+         gladio perhimunt, dicentes: “Ite, et domino nostro regi in alia vita servite”; tanta
+         enim insania a Sathana circumventi sunt, ut credant occisos tunc occasione predicta
+         in vita alia eius fore obsequio mancipandos; similiter etiam equos omnes obvios, nec
+         non et defuncti regis equos electos occidunt ut ipsos in vita alia vivos recipiat
+         […]»;  <ref type="witlink" target="#vb-null-55">VB LV 4</ref> «Et àno questo chostume, che quando i diti segnori moreno, portendo el chorpo suo
+         a ssepelire, quanti se scontrano nel chamino tutti àno de gracia de morire con ferma
+         sperança de andare a servire el so segnore; e tuti i mior chavalli i abiano tuti i
+         amaçano tegnendo quei chavalli essere del suo segnore nel’altro mondo».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

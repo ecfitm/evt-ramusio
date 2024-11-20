@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-8-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-8">
+      <note>
+	<p>La narrazione dell’assedio di <term ref="#baldach">Baghdād</term> da parte di <term ref="#ulau">Hülegü</term> (su cui cfr. Yule, Cordier 1929, I, pp. 63 sgg.) occupa i parr. 2-8. </p>
+	<p>R presenta un racconto molto più lungo e articolato di quello proposto dalla restante
+         tradizione, che è invece coerente con la sintesi proposta da <ref type="witlink" target="#f-null-24">F XXIV 7-8</ref> «Et si sachiés voiramant qe au <term ref="#califa">calif</term> de <term ref="#baldach">Baudac</term> se treuve le greingnor treçor d’or et d’argent et de peres presioses qe jamés se
+         trevast, et vos dirai comant. Il fui voi‹r› que entor .M.CC.LV. anç que Crist nasqui,
+         le <term ref="#gran-can">Grant Sire</term> des <term ref="#tartari">Tartarç</term> que <term ref="#ulau">Alau</term> avoit a non, qe fu frere au <term ref="#gran-can">Grant Sire</term> que orendroit rengne, asenblé une grandisime host et vent sor <term ref="#baldach">Baudac</term> et la prist a force: et ce fu bien gran cose, por ce que en <term ref="#baldach">Baudac</term> avoit plus .Cm. chevalers, senç les homes a pié».</p>
+	<p>Si deve pertanto credere che Ramusio abbia qui utilizzato Z: l’ipotesi trova parziale
+         conferma nella lezione toledana, che pur condensando l’intero racconto in una sola
+         frase (<ref type="witlink" target="#z-null-6-1-6">Z 6 7</ref> «<term ref="#ulau">Ulau</term> fincto modo et fraude accepit civitatem et <term ref="#califa">calif</term>, fratrem suum»: l’inspiegabile lezione «fratrem suum» può essere un errore maldestro
+         del riduttore), offre un dettaglio – quello relativo alle modalità fraudolente della
+         conquista della città («fincto modo et fraude») – confermato soltanto da R nel passo
+         «[…] pensò <hi rend="italics">con ingegno</hi> piú tosto che con forze <hi rend="italics">di pigliarla</hi>», laddove F e la restante tradizione sostengono che «vent sor <term ref="#baldach">Baudac</term> et<hi rend="italics"> la prist a force</hi>».</p>
+	<p>Il dettato di R è <hi rend="italics">singularis</hi> (ma corretto sotto il profilo storiografico) anche nel dato relativo alle forze militari
+         in campo: Ramusio ascrive infatti all’esercito di <term ref="#ulau">Hülegü</term> il numero di soldati che la tradizione attribuisce al <term ref="#califa">califfo</term> (cfr. R «Havendo egli [<term ref="#ulau">Hülegü</term>] adunque da <hi rend="italics">centomila cavalli senza i pedoni</hi>» vs. F «en <term ref="#baldach">Baudac</term> avoit <hi rend="italics">plus .C</hi><hi rend="italics">m</hi><hi rend="italics">. chevalers, senç les homes a pié</hi>»): la lezione di F e della restante tradizione potrebbe essere la spia di un’indebita
+         e frettolosa riduzione del dettato originale poliano, verificatasi a livello del capostipite
+         di tutta la tradizione, escluso Z.</p>
+	<p>Accomuna infine R e V il riferimento a <term ref="#mongu-can">Möngke</term>, laddove il resto della tradizione cita <term ref="#cublai-can">Cublai</term>, suo fratello e successore sul trono imperiale: vd. infatti R «[…] erano quattro
+         fratelli, il maggiore de’ quali, nominato <term ref="#mongu-can">Mongú</term>, regnava nella sedia»; <ref type="witlink" target="#v-null-14">V 14 7</ref> «[…] <term ref="#ulau">Alau</term>, fradelo de <term ref="#mongu-can">Mengon</term> el qual regnava in quel tempo […]» (invece F « que <term ref="#ulau">Alau</term> avoit a non, qe fu frere au <term ref="#gran-can">Grant Sire</term> que orendroit rengne»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

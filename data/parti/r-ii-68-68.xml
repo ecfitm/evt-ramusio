@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-68</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Precise consonanze sintattiche e lessicali dimostrano che in questo punto la fonte
+         di R è <ref type="witlink" target="#z-null-85">Z 85 33</ref> «Et in ista civitate sedet unus ex novem regibus, qui pluribus centum et quadraginta
+         civitatibus dominatur multum divitibus et magnis» (che risulta del resto molto vicino
+         a <ref type="witlink" target="#f-null-151">F CLI 21</ref> «[…] Et en ceste cité demore le un de cesti .VIIII. rois et seingnorie plus de .C.XL.
+         cités grant e riches»). L’unico altro relatore che trasmette tale informazione è <ref type="witlink" target="#p-ii-64">P II 64 21</ref> «[…] unus autem illorum regum in civitate <term ref="#quinsai">Quinsay</term> continue commoratur, qui sub ditione sua .CXL. civitates habet».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

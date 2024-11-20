@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-25-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-25">
+      <note>
+	<p>La forma dell’espressione permette ancora una volta di attribuire la funzione di antigrafo
+         alla lettera di <ref type="witlink" target="#z-null-113">Z 113 7-8</ref> «[…] et recoligitur in mense madii, iunii et iulii. Et arbores que piper producunt
+         adaquantur et sunt domestice arbores».</p>
+	<p>P III 31 4 «[…] arbuscula tamen de quibus nascitur domestica sunt. Colligitur tamen piper de
+         maio, iunio et iulio» rinvia (con un’inversione delle pericopi) a VA CXLI 6-7 «El piper se choie de mazio, de zugnio et de luio. Li arboselli che fano el piper
+         sono domestegi»; il modello è F CLXXXIX 3 «[…] e se recuile dou mois de may e de jugn et de juignet; e vos di qe les arbres
+         que font le pevre se plantent e le enaiguent, et sunt arbres domesces». Si mantengono
+         sullo stesso tenore informativo L 166 4 «[…] quod colligunt in madio, iunio et iulio; arbor est autem domestica, quam plantant
+         et multociens rorant aqua» e V 97 2 «[…] del mexe de mazo, zugno e luio i albori li qualli produxeno pevere se piantano
+         et si se aquano; et sono domestizi albori». VB CXLIX 3-6 non solo sposta in fine l’informazione sul verzino, ma introduce un’analisi che non
+         ha attestazione nella tradizione più rilevante: «[…] et choiese el pevere del mese
+         de maço et de çugno et luio. I albori che fano el pevere sono albori mestegi, i qual
+         fino inpiantati; né non è vero che ’l pevere fia sechà nei forni chome se diçe nelle
+         parte nostre: voriano esser assai forni a sechar la gran quantità del pevere naschono,
+         ma el pevere è crespo per suo natura. Chargasse in quelle parte el piper nelle nave
+         a resuso chome nelle parte nostre fi charga el formento. Nasene <term ref="#berci">verçi</term> cholobi in gran quantittade».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

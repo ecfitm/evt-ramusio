@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-11-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-11">
+      <note>
+	<p>F CLXV 6-8 (Ci devise de l’isle de<term ref="#giava"> Java la menor</term>); P III 14 (De regno <term ref="#felech">Ferleth</term>. Capitulum XIIII);  VA CXXVIII (De <term ref="#felech">Ferllech</term>, ove i omeni adora la prima cossa che i vedeno la maitina); Z 99 10-13 (De insula <term ref="#giava">Çava Minori</term>); L 151 (De regno <term ref="#felech">Ferlech</term>); V 87 7-10 (Del’ixola de <term ref="#giava">Iana Menor</term>); VB CXXXIV 7-10.</p>
+	<p>Il testo di R è costituito sulla traduzione della pericope di Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

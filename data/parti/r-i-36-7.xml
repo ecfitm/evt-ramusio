@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-36-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-36">
+      <note>
+	<p>Il testo ramusiano rispecchia in tutto <ref type="witlink" target="#z-null-31">Z 31 11-13</ref> «Hoc facto, accipiunt carnes illas que coram ydolis steterant ipsasque portant domum.
+         Tunc, congregatis parentibus et amicis, cum magno gaudio et reverentia ipsas comedunt.
+         Sacerdotes vero ydolorum habent capud, pedes, interiora et pellem, et aliquam partem
+         carnium», meno che nel dettaglio sulla conservazione delle ossa in appositi recipienti
+         («et salvano tutte le ossa in alcuni belli vasi»), forse desunto da <ref type="witlink" target="#p-i-45">P I 45 3</ref>, con cui R sembra avere qualche tangenza lessicale: «[…] carnes […] cum multa reverencia
+         comedunt, et ossa in <hi rend="italics">decenti vasculo</hi> reverenter <hi rend="italics">servant</hi>». Ma l’informazione si trova in tutta la tradizione (vd. <ref type="witlink" target="#f-null-57">F LVII 11</ref> «Et quant il ont manjés la cars et il reculient les oses et le sauvent en arche mout
+         sauvemant»;<ref type="witlink" target="#l-null-52"> L 52 7</ref> «Comestis vero carnibus recolligunt universa ossa easque sollempniter reservant»;
+         <ref type="witlink" target="#v-null-31">V 31 5</ref> «et manzato che questi àno ’sto chastrone, tute le osse li salva in una archa»; <ref type="witlink" target="#va-null-44">VA XLIV 11</ref> «manzano quela charne chon gran riverenzia e grande allegreza; e poi repone tute
+         le hosse in uno scrignio»; <ref type="witlink" target="#vb-null-40">VB XL 8</ref> «mangiato i àno la charne, i conservano bene le ossa»), e pertanto non si può escludere
+         che lo Z di Ramusio, a differenza del toledano, la conservasse.</p>
+	<p>Da Z Ramusio eredita un <hi rend="italics">ajout</hi> sulle porzioni d’agnello destinate ai sacerdoti, conservato anche in <ref type="witlink" target="#l-null-52">L 52 7</ref> «Verum de hoc tali ariete habet sacerdos caput, pedes, interiora et pelles, et aliquod
+         de carnibus», e in <ref type="witlink" target="#v-null-31">V 31 5</ref> «E li sazerdoti dele idole àno i piè e lo chavo e l’interiori, e la pele e uno pocho
+         de charne».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

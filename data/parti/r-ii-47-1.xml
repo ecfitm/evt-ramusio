@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-47-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-47">
+      <note>
+	<p>Ramusio segue alla lettera la versione di Z, che a sua volta rispecchia il dettato
+         di F: <ref type="witlink" target="#z-null-62">Z 62 1 </ref>«<term ref="#amu">Amu</term> est quedam provincia versus levantem, que est subdita <term ref="#gran-can">Magno Can</term>; gentes cuius <term ref="#idolatri">adorant ydola</term>, et vivunt de bestiis ‹et› terre fructibus» (<ref type="witlink" target="#f-null-127">F CXXVII 2-3</ref> «<term ref="#amu">Aniu</term> est une provence ver levant qe est au <term ref="#gran-can">Grant Kaan</term>. Il sunt <term ref="#idolatri">ydules</term>; il vivent de bestiames et dou profit de la tere […]»). Anche <ref type="witlink" target="#v-null-61">V 61 1-2</ref>, a parte un piccolo spostamento, appare vicino a Z e a F: «<term ref="#amu">‹A›nnui</term> sì è una provinzia che sono inverso levante, et dè sotoposta al <term ref="#gran-can">Gran Chan</term>. E la zente di quella <term ref="#idolatri">adora le idolle</term>, e vive di fruti di tera e di bestie […]». L , P e VB, invece, tralasciano uno o
+         più dettagli:<ref type="witlink" target="#l-null-102"> L 102 1</ref> «<term ref="#amu">Amu</term> est provincia versus oriens, cuius gentes sunt <term ref="#idolatri">ydolatre</term> […]»; <ref type="witlink" target="#p-ii-47">P II 47 1-2</ref> «<term ref="#amu">Amu</term> vero provincia est ad orientalem plagam que <term ref="#gran-can">Magno Kaam</term> subiecta est. Homines <term ref="#idolatri">ydolatre</term> sunt»; <ref type="witlink" target="#vb-null-90">VB XC 1-2</ref> «<term ref="#amu">‹A›nuy</term> è provincia versso levante sotoposta al <term ref="#gran-can">Gran Cane</term>; sono <term ref="#idolatri">idolatrii</term> […]. Viveno de’ fruti dela tera».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

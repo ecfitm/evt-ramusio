@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-29-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-29">
+      <note>
+	<p>Il testo che meglio corrisponde a R è <ref type="witlink" target="#z-null-25">Z 25 7</ref> «In terra predicta morantur aliqui Turchi, qui christiani nestorini sunt; et eorum
+         legem et ecclesias habent».  Il dettato zeladiano è sostanzialmente coerente con <ref type="witlink" target="#f-null-50">F L 8</ref> («En ceste contree demorent auques cristiens nestorin qe unt lor yglise et lor loy»),
+         meno che per il riferimento ai turchi nestoriani (la costante segnalazione dell’etnia
+         turca dei cristiani nestoriani dell’Asia centrale è peraltro una caratteristica peculiare
+         di Z: vd. p, es. <ref type="witlink" target="#z-null-31">Z 31 3</ref>, <ref type="witlink" target="#z-null-34">Z 34 4</ref>, <ref type="witlink" target="#z-null-39">Z 39 4</ref> etc.). Ramusio non conserva il dettaglio sui turchi, che del resto può essere caduto
+         nel modello Z1 per banale <hi rend="italics">saut du même au même</hi> («aliqui Turchi qui christiani […]» &gt; *«aliqui christiani»); mentre l’esordio della pericope – «Oltra
+         li macomettani» – è facilmente una precisazione del compilatore che si riallaccia
+         a <ref type="witlink" target="#r-i-29">R I 29 1</ref> («[le genti di <term ref="#caschar">Caschar</term>] osservano la legge di <term ref="#macometto">Macometto</term>»).</p>
+	<p>A fronte di questo passo, è vario il comportamento dei relatori, nessuno dei quali
+         si impronta pedissequamente alla lezione francoit.: vd. <ref type="witlink" target="#p-i-38">P I 38 5</ref> («Sunt nichilominus ibi quidam christiani nestorini qui ibi proprias habent ecclesias»),
+         <ref type="witlink" target="#v-null-27">V 27 5</ref> («Et in questa zitade sono molti christiani nostorini li quali fano le leze greche
+         […]», dove il riferimento a un improbabile “'rito greco'” dei nestoriani può derivare
+         da una fallace interpretazione del francoit. <hi rend="italics">yglise</hi>/<hi rend="italics">*ygrise</hi>/*(<hi rend="italics">y</hi>)<hi rend="italics">gresia</hi> o sim. “chiesa”, facilmente confuso con “greco, Grecia”), <ref type="witlink" target="#l-null-45">L 45 5</ref> («Et sunt in hac provincia aliqui miseri christiani nestorini»), e <ref type="witlink" target="#vb-null-33">VB XXXIII 6</ref>, al solito eccentrico e propenso alla riscrittura («Et abitano molti cristiani i
+         qual àno chiexie e lenguaço suo e sono mescholadi e stano con i abitanti, chome fano
+         i çudie in queste parte con cristiani», con l’inserto  di una similitudine spuria
+         a scopo esegetico).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

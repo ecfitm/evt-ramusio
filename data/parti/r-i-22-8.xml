@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-22-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-22">
+      <note>
+	<p>La pericope ha come base evidente <ref type="witlink" target="#z-null-19">Z 19 6-7</ref> «Ista civitas cum <term ref="#persia">Persya</term> cumfinat. Nam, cum homo discedit a civitate superius nominata, equitat bene per dietas
+         .XII. inter levantem et grecum, in quibus nullam habitationem invenit, quia gentes
+         affugerant ad montes et fortilicias propter timorem malarum gentium et hostium, qui,
+         continue per contratam excurentes, eis dapnum et iacturam multociens inferrebant»,
+         sul quale si innestano alcuni elementi scelti da <ref type="witlink" target="#p-i-31">P I 31 4</ref> «Hic, ex parte aquilonari, terminatur provincia Persidis; deinde inter plagam orientalem et aquilonarem itur per dietas duas et nulla habitacio
+         reperitur, quia propter latrones ac predones habitatores loci pro securitate ad montana
+         fugerunt» (come l’indicazione delle giornate di cammino intercorrenti tra <term ref="#balach">Balach</term> e <term ref="#thaican">Taychan</term>  – «per due giornate» R &lt; «per dietas duas» P &lt; «el chavalcha do zornade» <ref type="witlink" target="#va-null-31">VA XXXI 6</ref> – laddove la restante tradizione concorda su un più accettabile numero di dodici;
+         o la traduzione  di <hi rend="italics">hostium</hi> Z con <hi rend="italics">ladri</hi>  – «latrones ac predones» P). L’esordio della pericope nel toledano è brutalmente
+         scorciato e senz’altro corrotto: infatti la città di <term ref="#balach">Balkh</term> non «confina con la <term ref="#persia">Persia</term>», ma è l’ultimo baluardo NE del territorio persiano. La traduzione riflette uno Z1 prossimo alla lezione – esatta – di <ref type="witlink" target="#f-null-44">F XLIV 5</ref> «Et si sachiés qe jusque a ceste cité dure la tere dou sire des Tartars do Levant et a ceste ville sunt le confin de <term ref="#persia">Persie</term>, entre grec et levant»), mentre è ancora sulla scorta di P che Ramusio sacrifica,
+         onde evitare ambiguità interpretative (per cui vd. <hi rend="italics">infra</hi> il comportamento di V nello stesso luogo), il riferimento al Signore del Levante.</p>
+	<p>L riassume il dettato della tradizione distribuendo le informazioni lungo due capitoli,
+         il secondo dei quali ritagliato appositamente per la regione desertica di “Dogava”,
+         che si estenderebbe a NE di <term ref="#balach">Balkh</term> una volta varcati i confini della <term ref="#persia">Persia</term> (e del cui nome non rimane traccia in Z, P [&lt; VA], V, VB, e di conseguenza nel dettato
+         di R; sulla possibilità di interpretare “Dogava/Dogana” come <hi rend="italics">idolum libri</hi> generato dalla corruzione della stringa <hi rend="italics">*detaican,</hi> cfr. Pelliot 1959-1973, pp. 626-627): vd. <ref type="witlink" target="#l-null-37">L 37 3-4</ref> «Et usque ad hanc civitatem durat dominatio Tartari Orientis, et est hic finis Persye, inter grecum et oriens. Amodo loquemur de provincia dicta Dogava» + <ref type="witlink" target="#l-null-38">L 38 1</ref> «Ab hac civitate predicta itur bene .12. dietis inter oriens et grecum, ubi nulla
+         invenitur habitatio, quia propter guerras gentes ad montana fugerunt».</p>
+	<p><ref type="witlink" target="#v-null-23">V 23 3-6</ref> si distanzia da F per l’indebita identificazione tra il Signore del Levante e il
+         <term ref="#gran-can">Gran Khan</term> e per l’assenza del riferimento a “Dogava” (cfr. «Et infina a questa zitade dura
+         el tegnir del <term ref="#gran-can">Gran Chan</term>, zoè del Signor de tuti i <term ref="#tartari">Tartari de Levante</term>. E questa zitade sono suxo li chonfini de <term ref="#persia">Persia</term>, tra griego e levante<hi rend="italics">. </hi>Et partendosse da questa patria dita de sopra, el se chavalcha per dodexe zornade
+         tra griego e levante che mai non se trova abitazion alguna, e questo perché tuta la
+         zente sono ali monti e ale forteze per paura dela mala zente che in quele parte fa
+         gran dano»). <ref type="witlink" target="#vb-null-27">VB XXVII 3-4</ref> non manca di rifondere in una rielaborazione autonoma le linee del modello francoit.:
+         «[…] et per fino a questa cità durano el tegnir e ‹la› segnoria di <term ref="#tartari">Tartari dele tere de levante</term>; et è questa cità ale chonfine de <term ref="#persia">Persia</term> fra griego e levante. Partendosi de questa citade el se chavalcha .XII. çornate ch’el
+         non se trova abitacione alchuna: per che è besogno portar la vituallia siego, però
+         che tuti sono reduti ad abitar alla montagna per dubito dele guere de queli paexi,
+         ché le contrade sono rote: e ssença gran chonpagnia, mal se pò chaminare».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

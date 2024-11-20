@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Il testo base della pericope è fornito da Z 53 48-49 «Ipsi vero non habent monetam, neque de cartis <term ref="#gran-can">Magni Can</term>, sed de sale faciunt monetas. Vestes eorum sunt pelles bestiarum, canapum et <term ref="#bochassini">bucheranum</term>» (Z rispecchia il dettato di Z CXIV 26-27 «Il ne ont monoie de carte de cele dou <term ref="#gran-can">Grant Kan</term>, mes de sel font il monoie. Il vestent mout povremant, car lor vestimens sunt de
+         pelles de bestes et de canevace et de <term ref="#bochassini">bocorain</term> […]»). L’abbreviazione della parte finale potrebbe dipendere dalla volontà dell’editore,
+         ma andrà comunque rilevato che in un punto («ma spendono corallo») R si allontana
+         da Z e reca una variante tipica di <ref type="witlink" target="#vb-null-81">VB LXXXI 11</ref> «Spendeno chorallo per suo moneta; vesteno poveramente de pelle de animalli et <term ref="#bochassini">bocharani</term>». Anche il recupero dell’avverbio «poveramente» – che del resto figura anche in F
+         – potrebbe essere stato suggerito da VB. Non si danno, invece, indizi di contatti
+         di R con <ref type="witlink" target="#l-null-94">L 94 8-9</ref> «Non utuntur moneta argentea neque ‹moneta› de cartis, qualis est illa <term ref="#gran-can">Magni Canis</term>, sed faciunt ex sale monetam. Utuntur autem vilibus vestimentis, sicut pellibus animalium,
+         et de canipo et de <term ref="#bochassini">boccorano</term>»;<ref type="witlink" target="#p-ii-37"> P II 37 7</ref> «Induuntur corio et pellibus bestiarum aut <term ref="#bochassini">buchirano</term> vel canapino rudi»; V 55 28 «Or questi che abita in ’sta zitade sono povera zente, et le vestide de loro sono
+         de bestie e de chanevo; et àno loquela per sí, e sono chiamadi “bechi”».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

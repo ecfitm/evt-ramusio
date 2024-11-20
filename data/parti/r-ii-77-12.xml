@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-77-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-77">
+      <note>
+	<p>Ramusio condensa un’informazione che è trasmessa in forma più articolata da <ref type="witlink" target="#z-null-90">Z 90 26</ref> «Et debetis scire quod cum homo terram illam congregat, pro filiis eius congregat:
+         videlicet quod, propter longum tempus quo debet quiescere ad confectionem ipsius,
+         non sperat consequi inde lucrum nec ponere ipsam in opus, sed filius qui post ipsum
+         est victurus fructum consequitur ex ipsa, etcetera». Nel resto della tradizione poliana
+         tale dettaglio è assente.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

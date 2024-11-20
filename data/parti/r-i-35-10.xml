@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-35-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-35">
+      <note>
+	<p>L’esordio della pericope riprende un’isolata ridondanza <ref type="witlink" target="#vb-null-39">VB XXXIX 9</ref> «È meravegiosa cossa ad udire quelle chosse fano questi spiriti, che sono dificille
+         a credere, ma pure è chome ò dito, e molto più mirabelle». </p>
+	<p>Segue un brano probabilmente desunto da Z (ma la lacuna del toledano impedisce di
+         confermarlo), in cui la descrizione del miraggio “musicale”, nota a tutte le versioni
+         del testo (p. es. <ref type="witlink" target="#f-null-56">F LVI 13-14</ref> «[…] et voç semble maintes foies que voç oiés soner mant{i} instrument{i} et propemant
+         tanbur. Et des ‹ces› maineres se passe ceste deçert et a si grant hanuie com voç avés
+         hoï»; <ref type="witlink" target="#p-i-44">P I 44 8</ref> «Aliquando etiam in aere audiunt sonitus musicorum instrumentorum, sed frequentissime
+         sonitus tympanorum: sic igitur transitus ille laboriosus valde ac periculosus est»),
+         è arricchita da un <hi rend="italics">ajout</hi> sugli stratagemmi adottati dai viandanti per rimanere agganciati alla carovana, tra
+         cui quello di dotare le bestie da soma di campanelle che le rendessero rintracciabili
+         nella notte.</p>
+	<p>L’<hi rend="italics">ajout </hi>è conservato, in forma identicamente ridotta, in <ref type="witlink" target="#l-null-51">L 51 5-6</ref> «[…] et aliquando audiuntur multa sonare instrumenta et maxime campanelle, et hoc
+         ideo quia homines transeuntes appendunt bestiis suis campanellas, ut ipsas sentiant
+         et ne deviare possint», e in <ref type="witlink" target="#v-null-30">V 30 4</ref> «[…] et anchora in quel dexerto se sente molti soni e stromenti e par propiamente
+         chanpanele; e perzò queli che vol passar questo dexerto l’è de mestier de meter chanpanele
+         al cholo ali suo’ chavali e anemali per aldir de chontinuo, adziò che i non dorma».
+         La sostanziale specularità dei due testi e la presenza in essi di un probabile errore
+         congiuntivo – la duplicazione del riferimento alle <hi rend="italics">campanelle</hi>, che in L e V sostituiscono indebitamente i <hi rend="italics">tamburi</hi> – assicura che L e V rimontino a un capostipite comune: forse un testo latino vicino
+         a Z, ma meno ricco e corretto di quello utilizzato da Ramusio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

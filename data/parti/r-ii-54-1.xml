@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-54-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-54">
+      <note>
+	<p>Ramusio utilizza qui due modelli. Nella parte iniziale segue P, ma nella parte centrale
+         e finale tiene conto anche di Z:<ref type="witlink" target="#p-ii-52"> P II 52 1</ref> «Prefatis igitur dietis .XVI. terminatis [R «Compiute le dette sedici giornate»]
+         invenitur flumen magnum Caromoram quod de terris regis illius qui dicitur Presbiter Iohannes fluit [R «che discorre dalle terre del re […] nominato di sopra il <term ref="#prete-gianni">Prete Gianni</term>»]; habet autem unius spacium miliarii in latitudine, sua enim profunditas tanta est
+         ut naves magne per eum cum suis oneribus [R «et con tutti i suoi carichi»] libere
+         transeant»;<ref type="witlink" target="#z-null-72"> Z 72 9-10 </ref>«In capite istarum duarum dietarum, invenitur magnum flumen <term ref="#caramoran">Carramoran</term>, quod per contratam transit sepedicti <term ref="#umcan">Uncan</term> (R «<term ref="#umcan">Umcan</term>»). Est equidem valde profundum [R «è molto profondo»] et largum: nam est largitudinis
+         unius miliaris et est ita profundum quod per ipsum duci magne naves possunt» [R «puole
+         andare»]. La lezione «di tramontana» parrebbe un’aggiunta di Ramusio. Non sembra,
+         poi, che R abbia subito l’influsso di altri relatori: <ref type="witlink" target="#l-null-113">L 113 1</ref> «Ultra hanc civitatem tribus dietis versus meridiem, per pulcra loca et castra et
+         villas optime culta, quare adest maxima copia frumenti et bladi (et sunt gentes <term ref="#idolatri">ydolatre</term>, habentes monetam ex cartis), tunc invenitur maximum flumen <term ref="#caramoran">Caramoran</term> superius nominatum, quod venit ex provinciis <term ref="#prete-gianni">Presbiteris Iohan‹nis›</term>; estque maxime profunditatis et latitudinis bene miliarii unius»; <ref type="witlink" target="#v-null-66">V 66 6</ref> «Et in chavo de queste do zornade se trova el gran flume de <term ref="#caramoran">Charamoran</term>, che viene ale tere del <term ref="#prete-gianni">Prete Zane</term>; et sono molto grando e largo: la suo’ largeza sono uno mio, et sono sì fondido che
+         per quello puol andar gran nave […]»; <ref type="witlink" target="#vb-null-100">VB C 4-5</ref> «Et da dita citade per .III. giornate se trova el nobelle e gran fiume de <term ref="#caramoran">Caramoran</term>, el qual desende del paexe de Çafu soto la segnoria del <term ref="#prete-gianni">Presto Çane</term>: è in largeça – al mio iudiçio  – 1° migio et à gran fondo. Naviga in quelo grandessimi
+         navilli non de meno grandeça che dele choche nostre, ma fati a modo de navillii al
+         loro modo […]» (vd. <ref type="witlink" target="#f-null-137">F CXXXVII 6</ref> «Et a chief de ceste .II. jornee, treuve l’en le grant flunz de <term ref="#caramoran">Caramoran</term>, chi vient de la terre dou <term ref="#prete-gianni">Preste Joan</term>, qe mout est grant et large, car sachiés qe l’en est large un mil; il est mout profund,
+         si que bien hi pooient aler grant naves […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

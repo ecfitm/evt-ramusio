@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-25-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-25">
+      <note>
+	<p>Ramusio recepisce il prezioso <hi rend="italics">addendum</hi> di Z sulla recente estinzione, nella regione, dei cavalli della stirpe di <term ref="#bucefalo">Bucefalo</term>: il passo è in una forma leggermente scorciata in <ref type="witlink" target="#z-null-21">Z 21 10-11</ref> «Inveniebantur in hac provincia equi qui desenderant a natura equi regis <term ref="#alessandro">Alexandri</term>, <term ref="#bucefalo">Bucifalch</term> nomine, qui nascebantur omnes cornu habentes in fronte sicuti <term ref="#bucefalo">Bucifalch</term>, quia ab ipso equo eque conceperant. Sed postea fuit destructa tota illorum natura»
+         (manca, qui, il racconto degli eventi sanguinosi che avrebbero condotto all’estinzione
+         dei cavalli; lo conserva invece R, desunto da uno Z più ricco).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

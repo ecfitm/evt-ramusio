@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-27-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-27">
+      <note>
+	<p>Tutta la prima parte della pericope («Ciascadune […] all’altra») è tràdita esclusivamente
+         da R. È possibile che Ramusio abbia ricavato tale passaggio da Z1, ma va rilevato che si tratta in gran parte di informazioni espresse in modo sintetico
+         da F e da altri testimoni.</p>
+	<p>Nella seconda parte R («accioché […] vedere») presenta un testo affine a quello che
+         si legge in F e, in parte, in V: <ref type="witlink" target="#f-null-104">F CIV 4</ref> «[…] por ce que les jens ne peussent cheoir en l’aive, et ensint vait de lonc a llonc
+         si qe bien est bielle chouse a veoir»; <ref type="witlink" target="#v-null-50">V 50 5</ref> «[…] azò che la zente non possa chazer in aqua [...] la qual sono una nobel chossa
+         da veder». Le altre fonti omettono uno o più dettagli: <ref type="witlink" target="#l-null-84">L 84 2</ref> «[…] ut transseuntes ab aque periculo defendantur»; <ref type="witlink" target="#p-ii-27">P II 27 5</ref> «[…] propter quod pons ille sumptuosus et pulcher est supra modum»; <ref type="witlink" target="#vb-null-73">VB LXXIII 6</ref> «[…] et è una chossa mirabele a veder la grandeça del ponte e chom’è richa e nobellemente
+         lavorato». In Z manca l’intero passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

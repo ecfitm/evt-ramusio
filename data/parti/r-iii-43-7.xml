@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-43-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-43">
+      <note>
+	<p>Il resoconto di <ref type="witlink" target="#z-null-130">Z 130 12-15</ref> traduce fedelmente F CXCVI 7 «E mantes foies en a le <term ref="#melich">melic</term> de ceste cité grant pat dou <term ref="#soldan">soudan</term> de <term ref="#chermain">Creman</term>, cui il est sontpost: car, quand cel <term ref="#soldan">soudan</term> met aucu‹n› dasio au <term ref="#melich">melic</term> de <term ref="#ormus">Curmos</term>, ou aucun autre de sez frers, et cesti ne le velent doner, e le soudan hi tramest
+         host por elz esforcer, il se partent de <term ref="#ormus">Curmos</term> et entrent es nes e s’en vienent a ceste cité de <term ref="#calaiati">Calatu</term> et iluec demorent et ne laissent passer nulle nes, dont le soldan de <term ref="#chermain">Cremain</term> en a trop grant domajes, e por ce convient que il face pes au <term ref="#melich">melic</term> dou <term ref="#ormus">Curmos</term> e ne li tolt pas tant monoie com il li demandoit»; esso è assente in L 186 e in VB CLXVIII, e presente (anche nell’ordine delle informazioni) in V 112 5-6 (con la deformazione di <hi rend="italics">melic</hi> in <hi rend="italics">Milia</hi>): «E molte volte <term ref="#melich">Milia</term>, signor de questa zitade, àno gran pati chon el <term ref="#soldan">Soldan</term>, el qualle ello hè sudito, perché quando el <term ref="#soldan">Soldan</term> mete algun dazio a <term ref="#melich">Milia</term>, over ad alguni dî fradelli, e questi non volesse, el <term ref="#soldan">Soldan</term> manda el suo’ exerzito per chazar quelli per forza; elli se parteno e monta suxo
+         le nave, donde el <term ref="#soldan">Soldan</term> ne rezeve gran dano, per tal ch’el è de bexogno ch’el faza paxe chon questo <term ref="#melich">Milia</term>. Et sì non àno tanta quantità de pechunia chomo lo i aveva domandada questo <term ref="#melich">Milia</term>».</p>
+	<p>Ramusio sopprime il riferimento ai fratelli del <hi rend="italics">melic</hi> e sunteggia la sezione conclusiva del paragrafo in forma più generica; per il resto
+         la sua resa è fedele al modello.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

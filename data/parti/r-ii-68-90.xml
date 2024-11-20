@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-90</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Ramusio segue prevalentemente <ref type="witlink" target="#p-ii-64">P II 64 30</ref>, come dimostrano le molteplici lezioni comuni che isolano P e R dagli altri testimoni:
+         «In hac civitate et in tota provincia <term ref="#mangi">Mangy</term> oportet ut quilibet pater familias [R «Sono obligati tutti i padri di famiglia»]
+         super hostium domus sue scribi faciat nomen suum et uxoris sue et nomina omnia de
+         familia sua et numerum etiam equorum suorum [R «item il numero de’ cavalli», ma la
+         lezione è anche in F, vd. avanti]; cum autem quis de familia moritur vel domitilium
+         mutat [R «o si toglie»] oportet ut deleatur inde nomen discedentis aut mortui, et
+         scribatur ibi nomen cuiuscumque de novo nascentis [R «et se nasce […] di nuovo»] vel
+         ad familiam additi, et in hunc modum sciri faciliter potest numerus hominum qui in
+         civitate sunt […]». La frase finale, tuttavia, parrebbe ricavata da <ref type="witlink" target="#l-null-131">L 131 1-2</ref> «In dicta civitate – et breviter per totam provinciam de <term ref="#mangi">Mangi</term>, et similiter de <term ref="#cataio">Chatay</term> – talis adest consuetudo. Super hostio cuiuslibet domus scriptum est nomen domini
+         domus et uxoris, et filiorum et eius uxorum, et breviter servorum et tocius familie
+         domus; quod si quis moritur, deletur ‹eius› scriptura; et similiter nascenti‹um› nomina
+         adiunguntur. Tali ergo modo ‹unusquisque› dominus leviter potest scire numerum gentium
+         civitati», o da <ref type="witlink" target="#v-null-76">V 76 18</ref> «[…] et sapié che i brozexi de questa zitade, ed ezian de tute le altre, àno tal
+         uxanza e chonsuetudine: che zaschaduno àno el suo’ nome schrito in la suo’ porta,
+         e simel de suo’ moier e de so fioli, e de tuti i so schiavi e serve; e s’el avien
+         che algun muora i fano schanzelar el suo’ nome, e per questo muodo el signor dela
+         zitade sano el numero dela so zente […]» (sostanzialmente fedele a <ref type="witlink" target="#f-null-151">F CLI 33</ref> «Et depuis qe je voç ai devissé de la cité, si voç dirai une chouse qe bien fait
+         a conter. Or sachiés qe tous les borçois de ceste cité, et encore de toutes les autres,
+         ont un tiel costume et usance, car chascun a, sor la porte de sa maison, escript son
+         non et de sa feme et de seç filz et des femes seç filz et de seç esclaus et de tous
+         celz de sa maisonz; et encore hi est escrit quant qevaus il tient. Et se il avint
+         qe aucun en more, il font hoster son non; et se aucun hi naist, si hi est ausi joint
+         sez nons. Et en ceste mainere le seingnor de chascune cité sevent toutes les jens
+         que il ont en lor villes […]»). Non si danno invece indizi di contatti di R con <ref type="witlink" target="#vb-null-114">VB CXIV 42-43</ref> «Àno questo costumo et in comandamento che tute le chaxe àno sopra la porta una scrita,
+         sula qual è scrito quante persone abitano in quella chaxa. E se naseno alchuno subito
+         è gionto e notatto sopra quella carta, e per simelle se moreno o sse parteno; e tuti
+         sono scriti per nome: e figuolli e fie e schiavi e schiave». Z omette del tutto il
+         passo.</p>
+	<p>Andrà notato che, sulla base del parallelismo con P indicato sopra, appare possibile
+         correggere un errore contenuto nel testo ramusiano. Il sintagma «si toglie» deve essere
+         anticipato alla frase precedente: «et quando alcuno manca ‹o si toglie› si cancella
+         il nome, et se nasce {o si toglie} di nuovo si aggiugne il nome».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-20-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-20">
+      <note>
+	<p>R discende direttamente da Z: ove confrontabili, infatti, R e la versione toledana
+         – che si interrompe subito dopo la descrizione dell’<hi rend="italics">arbor sola</hi> – si corrispondono alla lettera: vd. <ref type="witlink" target="#z-null-16">Z 16 6</ref> «Est in ea quedam planicies magna, in qua est <term ref="#arbore-secco">Arbor Sola</term>, quam christiani Arborem Sicam vocant, cuius qualitas et condicio est hec: arbor est magna valde et crossa, folia eius
+         ex parte una sunt viridia et ex altera alba; que ducit dumos similes dumis castanearum,
+         sed nichil in eis est, et lignum suum est forte et croceum ad modum busi». </p>
+	<p>È ragionevole ritenere che uno Z completo sia stato il modello di Ramusio anche per
+         il segmento successivo: per quanto non sia possibile verificare il dato sul toledano,
+         è significativa la vicinanza tra R e <ref type="witlink" target="#f-null-39">F XXXIX 4-5</ref>: «[…] et ne a nul arbres aprés a plus de .C. miles, for che d’une part que i a pres
+         a .X. miles. Et iluec dient celç de celle contree que fu la bataille entre <term ref="#alessandro">Alixandre</term> et <term ref="#dario">Dayre</term>». Rimane comunque il sospetto che Ramusio abbia qui utilizzato il compendio L, la
+         cui lezione parrebbe  affiorare dietro a un fraintendimento del dettato poliano: «se
+         non da una banda, dalla qual vi sono arbori <hi rend="italics">quasi</hi> <hi rend="italics">per dieci miglia</hi>» (in luogo di *<hi rend="italics">quasi</hi> <hi rend="italics">a dieci miglia</hi>) riecheggia in effetti le movenze di <ref type="witlink" target="#l-null-34">L 34 3</ref> «ab omni parte nulla est arbor preter quam a parte una, ubi ad .X. miliaria prope
+         sunt arbores»; ma non è escluso che il perduto Z1 avesse un dettato consimile.</p>
+	<p>La denominazione «Albero del Sole» (consueto <hi rend="italics">misunderstanding</hi> della tradizione poliana a partire dal francoit. <hi rend="italics">arbre seul</hi>/<hi rend="italics">arbre sol </hi>“albero solo”) può dipendere da <ref type="witlink" target="#p-i-27">P I 27 3</ref> «Ibi est planicies magna in qua est <term ref="#arbore-secco">Arbor Solis</term>, que vulgariter dicitur <term ref="#arbore-secco">Arbor Sicca</term>» (a P Ramusio è solito prestare un certo credito in situazioni di oscillazione onomastica).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

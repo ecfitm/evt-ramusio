@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-42-26</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-42">
+      <note>
+	<p>A parte la lezione «dugento et più», che Ramusio ricava da V o più probabilmente da
+         Z1, il resto del passo deriva da una rielaborazione del testo – già fortemente rimaneggiato
+         – di <ref type="witlink" target="#vb-null-86">VB LXXXVI 16</ref> «Ma i <term ref="#tartari">Tartari</term>, ronpendo le forteçe çà per loro fate, molti de quelli ucisino e molti çà era fugiti
+         preseno cercha .IIc. leofanti; i altri parte fu morti e parte per el boscho se ne fugiro […]». La lezione
+         originale si conserva in V e, in forma più concisa, in P: <ref type="witlink" target="#v-null-58">V 58 19</ref> «[…] ma i omeni delo re molti ne piava de queli, però che li avea mazor industria,
+         et li lionfanti intendeva el suo’ parlar de questi homeni, perché i àno mazor inteleto
+         dei altri anemali; onde li prexe più de duxento lionfanti» (vd. <ref type="witlink" target="#f-null-122">F CXXII 7</ref> «Me je voç di qe les homes meisme dou roi, qui estoient pris, le prenoient, por ce
+         qe les leofans a greingnor entendimant qe nul autres animaus qe soit. Et por ce en
+         pristrent plus de .CC. leofans»); <ref type="witlink" target="#p-ii-42">P II 42 8</ref> «[…] quos ceperunt quorum auxilio circiter ducentos habuerunt».</p>
+	<p>L e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

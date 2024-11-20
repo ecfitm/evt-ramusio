@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-25-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-25">
+      <note>
+	<p>La forma dell’espressione rende assai verosimile la dipendenza della pericope da <ref type="witlink" target="#z-null-113">Z 113 2-4</ref> «Ipsius gentes <term ref="#idolatri">adorant ydola</term>. Sunt etiam ibi christiani et iudei. Et per se loquelam habent».</p>
+	<p>P III 31 1-2 «[…] ubi sunt christiani multi, Iudei atque <term ref="#idolatri">ydolatre</term>. Ibi est lingua propria […]» rinvia a VA CXLI 2-3 «El ge n’è cristiani, zudei, idolatri asai. I àno lenguazio proprio». Il modello
+         è F CLXXIX 2 «Il sunt <term ref="#idolatri">ydres</term>, et encore hi a cristienz et juif. Il ont langajes por elz». L 166 2 offre una versione fedele: «Gentes sunt <term ref="#idolatri">ydolatre</term>; sunt tamen aliqui christiani et Iudei; et habent proprium ydeoma» – al pari di V 97 1 «[…] la zente del qualle <term ref="#idolatri">adora l’idolle</term>, et sono là molti christiani e zudei; et àno loquella per sí […]»; lievemente difforme
+         è VB CXLIX 2 «Abitano quie <term ref="#idolatri">idolatri</term>, cristiani, saracini et çudei et à linguaço per si […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

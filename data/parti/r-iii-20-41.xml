@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-41</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La sezione (9) costituisce una sorta di “intermezzo”, il cui contenuto è per la più
+         parte classificabile sotto la voce dei «costumi».</p>
+	<p>La prima pericope è dedicata al tabu dell’assunzione del vino (in connessione alla
+         svalorizzazione del mestiere marinaro). La descrizione di Ramusio aderisce senza deviazioni
+         al testo di <ref type="witlink" target="#z-null-107">Z 107 115-116</ref> «Ittem noveritis quod maior pars illarum gentium sibi precavet potare vinum, et ille
+         qui vinum bibit non recipitur in testem, neque ille qui navigat per mare. Dicunt enim
+         quod ille qui navigat per mare desperatus sit; et ideo ipsum in testem non assumunt,
+         nec testimonium suum valet» (versione fedele di F CLXXIII 44 «E si vos di encore qe les plosors d’elç se gardent de boir vin, ne ne est receu
+         a tesmongnie ne a nulle guarentise celui qe boit vin, ne celui qui vait por mer najant,
+         car il dient que celui qui vait por mer est desperés e por ce ne le recevent ne ne
+         vaut sa tesmognie»).</p>
+	<p>Offre le stesse informazioni in una veste discorsiva diversa P III 25 6 «Vinum bibere non presumunt et qui apud eos vinum bibisse comprehenderetur infamis
+         esset et in causa qualibet a testimonio prohiberetur seu repelleretur; similiter etiam
+         in testes non recipiunt eos in iuditiis qui mari in navibus se committunt, quia dicunt
+         eos esse homines desperatos» (il testo del quattrocentesco VA3 è più breve: VA CXXXVII 49 «In questa chontrà se guarda la gran parte de bever vino, e queli che beveno vino
+         e quelli che vano per mare altrosì nonn è rezevuti ‹a› testimonianza perché i dixeno
+         che i è omeni desperati»).</p>
+	<p>Si attengono al tenore informativo di F L 161 28 «Abstinent eciam a vino maxime: bibentium enim vinum testimonio nulla adhibetur fides,
+         nec eorum creditur sacramento; similiter eciam per mare utentium nullatenus creditur
+         sacramento. Tales enim desperatos credunt, cum de morte non dubitent», e VB CXLIII 51 «La maor parte de questi non beveno vino e quelli ne beve non fino acetati in alchuna
+         testemoniança; e simelle quei navigano per mare però che dicono esser giente desperatta»;
+         con qualche equivoco, si mantiene piuttosto vicino a F V 91 44 «Et la mazor parte de queli Saraini ‹non› beve vin, et cholui che beve vin non sono
+         rezevudo per testemonio; nianche quelo che per mar navega, perché i dixeno che cholui
+         che va per mar è desperado, e però non val le suo’ testemonianze; ma quello non vien
+         reputà pechado».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-12-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>F CLXV 9-17 (Ci devise de l’isle de<term ref="#giava"> Java la menor</term>); P III 15 (De regno <term ref="#basma">Basman</term>. Capitulum XV), VA CXXIX (De <term ref="#basma">Basina</term>, dove sono i liochorni);  Z 99 14-34 (De insula <term ref="#giava">Çava Minori</term>); L 152 (De regione <term ref="#basma">Basman</term>); V 87 11-16 (Del’ixola de <term ref="#giava">Iana Menor</term>); VB CXXXV.</p>
+	<p>Dalla redazione di Pipino e dalla veneziana VB viene a Ramusio la struttura del capitolo
+         (che, al pari di L, isolano in scheda autonoma una sezione appartenente a una unità
+         più ampia in F, Z e V); ma nella definizione delle strutture discorsive il modello
+         seguito è Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

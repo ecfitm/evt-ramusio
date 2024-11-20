@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-46-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-46">
+      <note>
+	<p>L’esordio della pericope ripete alla lettera il dettato di <ref type="witlink" target="#f-null-69">F LXIX 2</ref> «Et sachiés que la lor loi est tiel»), riverberato in <ref type="witlink" target="#l-null-60">L 60 11</ref> «Fides autem <term ref="#tartari">Tartarorum</term> talis existit», e in <ref type="witlink" target="#va-null-55">VA LV 1</ref> «Le leze de’ <term ref="#tartari">Tartari</term> è tale». Ramusio offre poi un’informazione sulla divinità celeste dei <term ref="#tartari">Tartari</term> («dicono esservi il Dio alto […] intelletto et sanità»: si tratta del <hi rend="italics">Tengri –</hi> che in mongolo significa propriamente “paradiso” – citato anche nell’<hi rend="italics">Historia Mongalorum</hi> di Giovanni di Pian del Carpine: cfr. Yule, Cordier, 1929, I, p. 257 nota 1), priva
+         di riscontro nella tradizione e forse riconducibile a Z1. </p>
+	<p>Eccentrica rispetto alla tradizione è anche la struttura dell’intero passo dedicato
+         al <term ref="#natigay">Natigai</term>, dio delle cose terrene, per cui vd. <ref type="witlink" target="#r-i-46">R I 46 3</ref>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-2-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-2">
+      <note>
+	<p>Ramusio si attiene al breve resoconto di P III 5 1-2 «Maris autem tempestate cessante, viri insule magne <term ref="#zipangu">Çimpangu</term> cum multis navibus et exercitu magno iverunt ad illos volentes eos occidere, quos
+         videbant argumentis et auxilio destitutos. Et cum relictis in littore navibus descenderunt
+         ad terram […]» (elaborazione semplificata di VA CXXII 20-22 «Quando el mar fo abonazato, lo signior de <term ref="#zipangu">Zinpagu</term> andò a quella ixola chon molte nave e chon gran zente per prender queli ch’erano
+         schanpati sul’ixola. E quando li trentamilia vide che i suo’ nemixi vegnìa sopra loro,
+         i se messeno in arbori che era apresso el porto. E quelli de <term ref="#zipangu">Zinpagu</term> desseseno delle nave per andar a zerchar gli inemixi et delongà-sse dale nave, nelle
+         qual non rimaxe alchuno per guarda»). Più dettagliato il resoconto di Z 93 2-3 «Dominus et gentes insule magne, videntes quod exercitus inimicorum fuerat taliter
+         destructus et fractus, et scientes de illis qui super insulam evaserant, multum fuerunt
+         gaudentes. Et statim cum mare fuit quietum, intrantes navigium quod erat per insulam
+         illam, ad hanc insulam pervenerunt, et descenderunt in terram causa capiendi illos
+         qui super insulam remanserunt» (traduzione di F CLIX 3 «Et quant le sire e les jens de la grant isle virent qe l’ost estoit si desbaraté
+         et rote, e seurent de celz que escampés estoient sus l’isle, il en ont grant joie
+         e grant leese, e, tantost que la mer fo abonacé et coie, il entrent en maintes nes
+         qu’il avoient por l’isle e s’en alent tuit droit a l’isle, e desmontent maintenant
+         tuit en tere por prandre celz qui estoient sus l’isle»). Da un testo affine a F discendono
+         L 143 10 «Videntes ergo gentes insule se ab exercitu liberatos, noscentes eciam magnam partem
+         exercitus ex confluctu maris in parvam insulam permansisse, gavisi sunt valde, et
+         cum eorum navibus – ut inimicis caperent – ad parvam pervenerunt insulam, in terramque
+         universaliter descenderunt», e V 81 13-14 «Or quando el signor e la zente dela gran ixolla veteno che l’exerzito iera disfato
+         e guasto, et sepeno de quelli i qualli ierano schanpadi e montadi suxo l’ixola, aveno
+         granda alegreza. Et subito quando el mar fo in riposso montorono suxo molte nave,
+         le qualle ierano per l’ixola; et veneno a questa ixola e desmontorono in tera per
+         piar quelli che ierano romaxi in l’ixola». Presenta un resoconto amplificato VB CXXVII 14-16 «Or aquietata la fortuna, el principo e lle giente del’isolla de <term ref="#zipangu">Cinpugui</term>, lieti del naufragio di lloro nemici e saputo dele giente perite era sopra l’isolla,
+         subito montoròno in molte nave che per l’isolla aveano. Et apariati de tute chosse
+         a lloro necessarie, feceno vella con grandissima quantità de navilli ben armati, con
+         grande moltitudene de giente. E gionti all’isolla, subitto con pocho ordene et meno
+         providencia, tuti diseseno in tera».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

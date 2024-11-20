@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-35-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-35">
+      <note>
+	<p>La descrizione dei poteri magici degli isolani è l’ultimo tassello informativo della
+         “scheda”, posizionato <hi rend="italics">in fine</hi> in tutti i relatori tranne L 176 9. La prima delle tre pericopi contiene in F CLXXXIX 8 tre elementi: il <hi rend="italics">topic</hi>, l’opposizione della gerarchia religiosa, l’<hi rend="italics">aition</hi> di tale pratica: «E si voç di que les cristienz de ceste isle sunt les plus sajes
+         encanteor que soient eu monde. Bien est il voir qe l’arcevesqe, que ne velt pas que
+         celz faisent celz encantemant, et li en chastie et amonise; mes ce ne vaut rien, por
+         ce que il dient que lor ancestre le fistrent ansienemant, e por ce dient que il le
+         vuellent faire il encore. E le arcevesqe ne puet faire plus que celz velent: si s’en
+         sofre autant, puis que il ne puet autre fare. Et ausi font les encantemant cisti cristienz
+         de ceste ysle a lor voluntés»; le stesse informazioni (con l’aggiunta di di un fantomatico
+         sovrano) appaiono in V 105 9: «I christiani de questa ixola sono i più savi inchantadori del mondo, ma l’arziveschovo
+         non vuol che li faza quelli inchantamenti; et molto se chorozano chon quelli, ma non
+         li zovano, perché li dixeno che i suo’ prezesori fezeno questi inchantamenti; et dixeno
+         che lo re vol che li ’l faza, sì che l’arziveschovo non puol far più de quello che
+         li vol». L 176 9 riduce drasticamente l’informazione: «Homines insule huius sunt meliores et subtiliores
+         incantatores universi mundi» (P III 38 pare omettere il passo per intero, al pari di VA CXLVIII 8).</p>
+	<p>Due relatori – che omettono la spiegazione eziologica attestata in F e V – potrebbero
+         aver fornito a Ramusio il modello per la sua compilazione. Z 123 42-45 ha una narrazione più distesa: «Christiani istius insule sunt sapientiores venefici
+         qui reperiantur in mundo. Verum est quod archiepiscopus non consentit quod artem illam
+         exerceant et prohibet quantum potest. Sed tamen artem illam exerce‹n›t, et oculte
+         et palam, cum necessario eis sit; et sic archiepiscopus pertransit, quia non potest
+         scire quis fecerit. Et bene ipsos excommunicat, tamen nichil valet»; VB CLIX 10 ha la stessa secchezza  di R: «Questi christiani sono i mior negromanti et inchantadori
+         che abia el mondo e quelli che più cosse per incantamenti fano; avegna che l’arcipischopo
+         i coreçeno e che pocho i çova».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

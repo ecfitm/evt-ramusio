@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-34</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La pericope aderisce fedelmente a <ref type="witlink" target="#z-null-107">Z 107 98</ref> «Non occidunt aliquas bestias vel animalia, sed quando volunt carnes comedere, arietum
+         vel aliarum bestiarum vel avium, faciunt ipsas a sarracenis occidi et ab aliis gentibus
+         que mores eorum et legem non servant» (versione letterale di F CLXXIII 41 «Il ne occient nulle bestes ne nul animaus, mes, quant il vuelent mengier chars de
+         monton ou d’aucune autre bestes ou oisiaus, il le font occir a saracin et autres jens
+         qe ne sunt de lor loi ne de lor uçançe»).</p>
+	<p>P III 25 3 abbrevia il dettato e lo semplifica trivializzandolo «Nullum a‹n›i‹m›alem occidunt,
+         sed quando volunt carnes comedere faciunt ut animalia per homines regionis alterius
+         occidantur» (la semplificazione è dell’antigrafo, VA CXXXVII 46 «E non alzideno neguna bestia nì alchuno animalle, ma quando i voleno manziar charne,
+         e’ la fano alzider ad alguno che non sia de soa zente»).</p>
+	<p>Si allineano al tenore informativo di F: L 163 26 «Nullum occidunt animal, quod, si bestiam vel avem commedere voluerint, Sarracenis
+         vel aliis (quicumque non fuerint sue legis) occidere faciunt»; V 91 41 (più vicino alla lettera franco-veneta) «Et non alzideno alguna bestia ní animal,
+         se no quando i vol manzar charne de molton, hover de altre bestie o hoxeli, li fano
+         alzider ali Saraini e ad altre persone che non sono dela so zente»; VB CXLIII 48 (il meno perspicuo del gruppo, ma comunque più di P) «Questi non alcideriano niuno
+         animal per chossa del mondo, ma fano quei alcidere ad altra gente non sono de suo
+         leçe».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

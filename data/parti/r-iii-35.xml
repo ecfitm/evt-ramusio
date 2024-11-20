@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-35</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-35" n="1">
+    <head>
+      <hi rend="bold">R, III 35</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-35_1_1" n="1"> Dell’isola di <term ref="#soccotera">Soccotera</term>. Cap. 35.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-35_2_1" n="1"> Partendosi da dette isole verso mezzodí, dopo cinquecento miglia si trova l’isola
+         di <term ref="#soccotera">Soccotera</term>, la quale è molto grande et abondante del vivere. </seg>
+      <seg xml:id="r-iii-35_2_2" n="2"> Trovasi per gli habitanti alle rive di questa isola molto <term ref="#ambracano">ambracano</term>, che vien fuori del ventre delle balene, et per esser gran mercantia s’ingegnano
+         d’andarle a prenderle, con alcuni ferri c’hanno le barbe che, ficcati nella balena,
+         non si possono piú cavare, alli quali è attaccata una corda lunghissima con una bottesella
+         che va sopra il mare, accioché, come la balena è morta, la sappino dove trovare, et
+         la conducono al lido, dove li cavano fuori del ventre l’<term ref="#ambracano">ambracano</term> et della testa assai botte di olio. </seg>
+      <seg xml:id="r-iii-35_2_3" n="3"> Vanno tutti nudi, sí mascoli come femmine, solamente coperti davanti et da drieto,
+         come fanno gli <term ref="#idolatri">idolatri</term>; et non hanno altre biave se non risi, delli quali vivono, et di carne et latte.
+         </seg>
+      <seg xml:id="r-iii-35_2_4" n="4"> Sono christiani battezzati, et hanno uno arcivescovo, che è come signore, qual non
+         è sottoposto al papa di Roma, ma ad un <term ref="#iacolit">zatolia</term> che dimora in la città di <term ref="#baldach">Baldach</term>, che è quello che lo elegge, o vero, se quelli dell’isola lo fanno, lui il conferma.
+         </seg>
+      <seg xml:id="r-iii-35_2_5" n="5"> Arrivano a quella isola molti corsali con la roba che hanno guadagnata, la quale
+         questi habitatori comprano, però che dicono che la era d’<term ref="#idolatri">idolatri</term> et Sarraceni, et la possono tenire licitamente. </seg>
+      <seg xml:id="r-iii-35_2_6" n="6"> Vengono quivi tutte le navi che vogliono andare alla provincia di <term ref="#adem">Adem</term>, et di pesci et di <term ref="#ambracano">ambracano</term> (che ne hanno gran copia) si fanno di gran mercantie. </seg>
+      <seg xml:id="r-iii-35_2_7" n="7"> Lavorano qui anchora panni di <term ref="#bambagio">bombaso</term> di diverse sorti et in quantità, quali vengono levati per i mercatanti. [8] Sono gli habitanti di detta isola i maggiori incantatori et venefici che si possino
+         trovare al mondo, anchor che ’l suo arcivescovo non glielo permetta, et che gli scommunichi
+         et maledisca. [9] Pur non curano cosa alcuna, percioché, se una nave de’ corsali facesse danno ad alcuno
+         di loro, constringono ch’ella non si possi partire se non satisfanno i danneggiati,
+         conciosiacosaché, se ’l vento li fosse prospero et in puppa, loro fariano venire un
+         altro vento che la ritorneria all’isola al suo dispetto. [10] Fanno il mare tranquillo, et quando vogliono fanno venir tempeste, fortune, et molte
+         altre cose maravigliose che non accade a parlarne. [11] Ma diremo dell’isola di <term ref="#magastar">Magastar</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-41-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>La pericope (che Ramusio anticipa di posizione rispetto ai suoi modelli: vedi nota
+         alla rubrica di <ref type="witlink" target="#r-iii-41">R III 41</ref>) viene da <ref type="witlink" target="#p-iii-46-1-6">P III 46 14</ref> «Vineis carent, sed vinum optimum de dactilis, riso et çucaro faciunt»; manca a entrambe
+         le redazioni il riferimento agli elementi della dieta degli indigeni (VA3 in VA CLII 19 conserva questo e sopprime la nota sul vino: «I viveno de rixo et de zucharo et de
+         datalli»). Il testo originale doveva articolarsi secondo la lettera di F CXCIV 3 «Il vivent de ris e de cars e de poisonz. Vin de racine ne ont, mes le font de succar
+         e de ris e de datal», confermata da Z 128 13-14 «Vivunt de riso, carnibus et piscibus. Vinum vero de racenis non habent, sed ipsum
+         conficiunt de riso, çucharo et dactalis», e da L 184 7 «Vivunt habitantes ex riço, carnibus et piscibus. Vino carent; verumtamen ex zucharo
+         et dactilis optimas faciunt potiones». Condividono l’omissione di P: V 110 5 «[…] et àno vino che li ’l fano de zucharo e sorgo e de datalli», e VB CLXVI 8 «Fano vino de risi et de çucharo, ecian fano vino de datalli ch’è molto bon a bever».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

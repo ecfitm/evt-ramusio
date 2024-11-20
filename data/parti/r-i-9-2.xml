@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-9-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-9">
+      <note>
+	<p>La prima parte del paragrafo ribadisce con buona esattezza i contenuti di <ref type="witlink" target="#z-null-8">Z 8 2</ref> «In ea quidem habitantes ducunt de mercimoniis et artibus victum suum: nam ibidem
+         laborantur diversi drapi aurei et syricci magni valoris», in particolare nelle traduzioni-calco
+         <hi rend="italics">habitatori</hi> (&lt; <hi rend="italics">habitantes</hi>), <hi rend="italics">vi si lavora</hi> (&lt; <hi rend="italics">laborantur</hi>), <hi rend="italics">diverse sorte di panni</hi> (&lt; <hi rend="italics">diversi</hi> <hi rend="italics">drapi</hi>), meno facilmente riconducibili alle altre fonti di R: cfr. infatti <ref type="witlink" target="#l-null-24">L 24 2</ref> «Homines huius civitatis sunt mercatores et artiste: fiunt enim ibi panni multi de
+         auro et de seta maximi valoris», <ref type="witlink" target="#p-i-17">P I 17 1-2</ref> «[…] fiunt mercaciones innumere […] ibi fiunt panni de auro et de serico valoris
+         permaximi», <ref type="witlink" target="#v-null-24">V 24 2</ref> «[…] quelli dela dita zitade viveno de marchadantia, et fase in quela de beli pani
+         d’oro e de seda de gran valor […]», <ref type="witlink" target="#vb-null-18">VB XVIII 3</ref>: «I citadini de quella viveno per la maor parte de mestiero: lavorase lie de molti
+         pani de seta et oro […]». </p>
+	<p>La seconda parte non è confrontabile, per lacuna, con il testo toledano: tuttavia,
+         la notevole rispondenza con la lezione di F (al netto di qualche ridondanza sfrondata
+         da Ramusio) ne suggerisce la dipendenza da uno Z completo (cfr. <ref type="witlink" target="#f-null-29">F XXIX 4</ref> «La cité si ‹est› en si buen leu ‹que› de <term ref="#india">Yndie</term> et de <term ref="#baldach">Baudac</term> et de <term ref="#moxul">Mosul</term> e de <term ref="#ormus">Cremosor</term> et de maintes autres leus hi vient les mercandies et iluech vienent maint mercaant
+         latin por acater de cheles mercandies que hi venent des estranges païs […] »). Distanti
+         da R, nella forma più che nei contenuti informativi, sono invece <ref type="witlink" target="#l-null-24">L 24 3</ref> «Et est hec civitas optime situata; de <term ref="#india">India</term> enim, et de <term ref="#baldach">Baldach</term> et de <term ref="#moxul">Mosul</term> et de <term ref="#ormus">Cremosor</term> et de multis aliis locis comode ad ipsam mercimonia veniunt, quare ad ipsam veniunt
+         multi mercatores latini: inveniunt enim ibi multa mercimonia […] », e <ref type="witlink" target="#p-i-17">P I 17 3</ref> «Civitas in situ peroptimo est propter quod illuc confluunt mercaciones undique,
+         scilicet de <term ref="#india">India</term>, de <term ref="#baldach">Baldacho</term>, de <term ref="#moxul">Mosul</term> et de <term ref="#ormus">Cremosor</term>, de terris etiam latinorum et de aliis regionibus infinitis; ibi multi mercatores
+         ditantur»), mentre offrono un testo ampiamente scorciato <ref type="witlink" target="#v-null-16">V 16 2</ref> «[…] et da questa passa tuti li marchadanti del’<term ref="#india">India</term> e de <term ref="#baldach">Baldacha</term> et de <term ref="#moxul">Morsol</term> e de molti altri luogi […]», <ref type="witlink" target="#vb-null-18">VB XVIII 3</ref> « et è tera de marchadantia dove chapitano molti marchadanti de molte naciun et ecian
+         marchadanti latini».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

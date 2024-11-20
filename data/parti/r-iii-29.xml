@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-29</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-29" n="1">
+    <head>
+      <hi rend="bold">R, III 29</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-29_1_1" n="1"> Del regno di <term ref="#guzzerat">Guzzerat</term>. Cap. 29.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-29_2_1" n="1"> Il reame di <term ref="#guzzerat">Guzzerati</term> ha proprio re et propria lingua; è appresso il <term ref="#mare-dindia">mare d’India</term> verso occidente. </seg>
+      <seg xml:id="r-iii-29_2_2" n="2"> Quivi appare la stella tramontana alta sei braccia. </seg>
+      <seg xml:id="r-iii-29_2_3" n="3"> Vi sono in questo reame li maggior corsali che si possino imaginare, perché vanno
+         fuori con li suoi navilii e, come prendono alcuno mercatante, subito li fanno bere
+         un poco di acqua di mare mescolata con <term ref="#tamarindo">tamarindi</term>, che li move il corpo et fa andar da basso: et la causa è questa, perché li mercatanti,
+         vedendo venire i corsali, ingiottono le perle et gioie che hanno per asconderle, et
+         costoro gliele fanno uscir fuori del corpo. |57r| </seg>
+      <seg xml:id="r-iii-29_2_4" n="4"> Qui è grande abondanza di zenzeri, pevere et <term ref="#endego">endego</term>; hanno <term ref="#bambagio">bombaso</term> in gran quantità, perché hanno gli arbori che lo producono, qual sono d’altezza di
+         sei passa, et durano anni venti: ma il <term ref="#bambagio">bombaso</term> che si cava di quelli cosí vecchi non è buon da filar, ma solamente per coltre, ma
+         quello che fanno fino a dodici anni è perfettissimo per far veli sottili et altre
+         opere. </seg>
+      <seg xml:id="r-iii-29_2_5" n="5"> In questo regno si acconciano gran quantità di pelli di becchi, buffali, buoi salvatichi,
+         leoncorni et di molte altre bestie, et se ne acconcia tante che se ne cargano le navi
+         et portansi verso li regni di <term ref="#arabia">Arabia</term>. </seg>
+      <seg xml:id="r-iii-29_2_6" n="6"> Si fanno in questo regno molte coperte di letto di cuoio rosso et azzurro, sottilmente
+         lavorate et cocite con fil d’oro et d’argento: et sopra quelle li Sarraceni dormono
+         volentieri. </seg>
+      <seg xml:id="r-iii-29_2_7" n="7"> Fanno anchora cussini tessuti di oro tirato, con pitture di uccelli et bestie, che
+         sono di gran valuta, perché ve ne sono di quelli che vagliono ben sei marche d’argento
+         l’uno. [8] Qui si lavora meglio di opere da cucire, et piú sottilmente et con maggior artificio,
+         che in tutto il resto del mondo. [9] Hor, procedendo piú oltra, diremo d’un regno detto <term ref="#canam">Canam</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

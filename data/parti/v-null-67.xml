@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-67</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-67">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 67</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-67_2_1" n="1"> <term ref="#fanfur">‹A›lefur</term> iera signor dela gran provinzia de <term ref="#mangi">Mongin</term>, et erano sì gran re e possente che pochi al mondo iera a par de lui, salvo el <term ref="#gran-can">Gran Chan</term>. </seg>
+      <seg xml:id="v-null-67_2_2" n="2"> Et iera sì valente nel’arme; et deletavasse molto de done; et feva ben a povera
+         zente. </seg>
+      <seg xml:id="v-null-67_2_3" n="3"> Et in la sua provinzia non iera chavalli, e li homeni non iera uxadi in
+         le arme né in li exerziti; et questa provinzia sono molto forte, però che tute le
+         suo’ zitade sono fondade in aqua profonde; et se i omeni fosse stati valenti nele
+         arme zamai non averia perduta la tera, perché in tute le zitade se intra per ponente.
+         </seg>
+      <seg xml:id="v-null-67_2_4" n="4"> Or advene che ’l <term ref="#gran-can">Gran Chan</term> el qual regnava in quel tempo, zoè Chelabas, mandò uno so baron el qual aveva nome <term ref="#chinsanbaian">Baian</term> Zinqueschan, che xe a dir “Zento homeni”. </seg>
+      <seg xml:id="v-null-67_2_5" n="5"> El re de <term ref="#mangi">Mongin</term> trovò per astronomia ch’el non podea perder el suo’ reame se no per uno homo che
+         avea nome <term ref="#chinsanbaian">Zento homeni</term>. </seg>
+      <seg xml:id="v-null-67_2_6" n="6"> Or questo <term ref="#chinsanbaian">Baian</term> chon una gran moltitudine de |81r| zente, sì da pè chomo da chavallo, la qual el
+         <term ref="#gran-can">Gran Chan</term> li avea dada, vene a <term ref="#mangi">Mongin</term> chon una gran quantità de nave, le qual portava i chavalieri e pedoni; et tanto navegò
+         che ’l dito <term ref="#chinsanbaian">Baian</term> vene chon tuta la zente a <term ref="#mangi">Mongin</term>, zoè ala zitade de Chonguagui dela qual nui trateremo; et inchontinente disse che li se dovesse render al <term ref="#gran-can">Gran Chan</term>. </seg>
+      <seg xml:id="v-null-67_2_7" n="7"> Li qualli respoxe che i non ’de voleva far alguna chossa; et quando <term ref="#chinsanbaian">Baian</term> sentì questo andò più avanti, et trovò un’altra zitade la qual non se volse render;
+         et anchora andò più avanti, et questo feva perché el savea che ’l <term ref="#gran-can">Gran Chan</term> mandava dapuo’ lui uno grando exerzito. </seg>
+      <seg xml:id="v-null-67_2_8" n="8"> Or chostui andò ala quinta zitade, et
+         alguna non poté prender. [9] Or adevene che <term ref="#chinsanbaian">Baian</term> branchò la sesta zitade, dapuo’ la segonda, e la terza; et chussì branchò dodexe
+         zitade; et quando l’ave branchado tante zitade l’andò ala gran zitade la qualle nomeva
+         <term ref="#quinsai">Vusai</term>, in la qualle erano el re chon la reina. [10] Et quando el re vete <term ref="#chinsanbaian">Baian</term> chon el suo’ exerzito se temé molto; e mandò per i suo’ astrologi dubiando del nome
+         e del’essere de <term ref="#chinsanbaian">Baian</term>, ed ezian mandò i suo’ prochuratori a investigar del suo’ essere e statura; de che
+         li fo dito dal suo’ exerzito ch’el nomea Zento homeni. [11] Et quando el re intexe
+         questo molto temé, et partìsse de quella zitade chon molta zente, et intrò i·nave
+         et schanpò in <term ref="#mare-oceano">Mar Hozeano</term> al’ixole. [12] E la raina, la qualle iera romaxa chon gran zente in la zitade, se
+         prochurava de difenderse al meio che la saveva. [13] Or adevene che la raina |81v|
+         sape che chostui nomeva <term ref="#chinsanbaian">Baian Zento homeni</term>: subito la se arechordò del’astrologia, la qual dixea che uno homo lo qual nomea
+         Zento homeni sì li torave el suo’ reame; onde inchontinente se rendé a <term ref="#chinsanbaian">Baian</term>. [14] Et quando la raina se abe rexa, tute le altre zitade se rendé senza alguna
+         instanzia; et questo fo grando aquistamento, perché in tuto el mondo non iera algun
+         reame che avesse per la mità de questo, perché lo re aveva tanto da spender ch’el
+         iera chossa oltra muodo. [15] Et diròve algune zentileze le qual lui faxeva: ello
+         faxeva norigar tuti i puti i qualli vegniano butadi, zoè quando li era nassudi; et
+         questo fevano le povere zente che non li podea norigar; et lo re fevano quelli nodrigare
+         et feva schriver in che pianeti li era nassudi; et dapuo’ li feva norigar inn altri
+         luogi. [16] Et quando algun richo homo non avea algun fio, ello andava dalo re, e
+         fevasene dar quanti lo volea de quelli che a loro piaxeva; et se ’l padre hover la
+         madre voleva rezever el fio el qualle iera in etade, chonvegnia mostrar per schrito
+         chomo el iera so fio, e lui el feva render; et simel quando una puta iera in etade
+         de far matremonio, el re dava la puta al puto per moier; et davalli tanto ch’el podea
+         viver. [17] E per ’sto muodo ello nodrigava questi per chadauno ano, molti mascholli
+         e femene. [18] Anchora questo re quando el chavalchava per alguna via e ch’el trovasse
+         do belle chaxe grande, et in mezo de queste fosse una pizolla, lo re domandava per
+         che chaxon |82r| quella chaxa iera pizolla, e perché la non iera sì granda chomo quelle
+         do; e li vegnia dito che quella chaxa pizolla iera de uno puovero homo el qual non
+         la podea far mazore. [19] Allora lo re chomandava che quela chaxa pizolla fosse fata
+         granda e bella chomo quelle altre do le qual ierano per mezo, [20] Et anchora questo
+         re feva nel suo’ reame gran zustixia, che nessuno non feva mal ad algun; e le chaxe
+         dele marchadantie stevano averte de note, che algune chose non manchava; et ben se
+         podea andar de note chomo de zorno. [21] Or non se poria dir la gran richeza che iera
+         in quel reame. [22] Or questa raina la qual se rexe a <term ref="#chinsanbaian">Baian</term> fo menada al <term ref="#gran-can">Gran Chan</term>; et quando lo la vete li feze grando honore. [23] Et lo re, el qualle era fuzito
+         al’ixolle del Mar Ozeano, stete lì gran tempo et sì morite; sì che a questo muodo el <term ref="#gran-can">Gran Chan</term> ebe questa provinzia.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

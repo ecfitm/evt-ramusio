@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-23</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Ramusio traduce (invertendone la posizione) P III 26 1 «[…] si equa magna ibi concipit de dextrario magno, parit nichilominus equum parvum
+         et valoris nullius, habentem pedes omnes tortos, ita ut pro equitatura ydoneus esse
+         non possit» (l’inversione si ritrova pure nel modello VA CXXXVII 28 «[…] ché de gran destriero et de gran destriera non ‹na›schono se non pizolli chavali
+         e chativi, e àno i pie’ streti e non sono mai boni per chavalchar […]», e in L 161 18 «[…] si enim in hac provincia magnus et optimus equus optimam et magnam impregnaverit
+         equam, pusillus nasceretur equulus nulliusque valoris»).</p>
+	<p><ref type="witlink" target="#z-null-107">Z 107 96</ref> «Et unum mirabile narabimus, quod si unus magnus dextrarius cum una dextraria magna
+         cohyret, nasceretur parvus puledrus, qui esset tortus pedes et nullius valoris causa
+         equitandi» segue, anche nella posizione nel capitolo,  F CLXXIII 40 «Et encore voç di une greingnor couse qe bie‹n› fait a conter. Car sachiés, se un
+         grant de‹s›trier covrisse un grant destrier, il e‹n› naist un petit cavaus qe a les
+         piés tuit estors: il ne vailent riem ne ne se puet cavaucher». Testo e posizione di
+         F-Z si ritrovano pure in V 91 39 «Et diròve una meraveioxa chossa: se uno gran destrier se chonzasse chon una gran
+         destriera, el seria uno pizolo chavallo, ed averia i piè torti; et non seria de algun
+         valor da chavalchar». Mantiene la posizione di F-Z ma modifica in parte la lezione
+         della pericope VB CXLIII 46 «Questa provincia à questa natura: che se uno nobellissimo corssiero coprisse una
+         bellissima çumenta, el poliedro di quella nasse è picollissimo, con le ganbe torte
+         e tanto despetoso e bruto e debollissimo che quello non sì pò cavalcare».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

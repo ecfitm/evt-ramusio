@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-20</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-20">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XX</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-20_1_1" n="1"> Ci devise de la provence de <term ref="#turchomania">Turcomanie</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-20_2_1" n="1"> En <term ref="#turchomania">Turcomanie</term> ha trois jenerasion de jens. </seg>
+      <seg xml:id="f-null-20_2_2" n="2"> Ce sunt Turcoman, que aürent <term ref="#macometto">Maomet</term> et tenent sa loy et sunt sinple jens et ont brut lengajes. Il demorent en montagne
+         et en landes, la ou il savent qui haie buen pasquor, por ce qe il vivent de bestiaus.
+         </seg>
+      <seg xml:id="f-null-20_2_3" n="3"> Et voç di qu’il hi naisent buen chavalz turcoman et bon mul de grant vailançe.
+         </seg>
+      <seg xml:id="f-null-20_2_4" n="4"> Et les autres jens sunt Armin et <term ref="#greci">Greçois</term> que mesleemant demorent com ausen viles et en casteus, et vivent de mercaandie et
+         d’ars: car sachiés que il hi se laborent le sovran tapis dou monde et li plus biaus;
+         il i se laborent encore dras de soie cremosi et d’au‹t›res color mout biaus et riches,
+         et de maintes autres cau|10a|ses ausint. </seg>
+      <seg xml:id="f-null-20_2_5" n="5"> Les sien nomé cité est le <term ref="#cogno">Conio</term>, <term ref="#cayssaria">Casserie</term>, <term ref="#sevasta">Sevasto</term>; et encore hi a maintes autres cités et ca{u}steus, les qualz ne voç conterai por
+         ce ke trop feroie longaine matiere a mentovoir. </seg>
+      <seg xml:id="f-null-20_2_6" n="6"> Il sont ‹sot›post au Tartar dou Levant, et cil hi met sa segnorie. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-20_3_1" n="1"> Or laison de cest provençe et parleron de le <term ref="#armenia">Grant Armenie</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

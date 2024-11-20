@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-25</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Ramusio continua a utilizzare <ref type="witlink" target="#z-null-107">Z 107 80</ref> «Et cum ad locum pervenerit ubi iusticia debet fieri, ille qui mori debet accipiet
+         duos ex gladiis et alta voce clamans: “Ego me occido propter amorem talium ydolorum!”,
+         statim in uno ictu gladios afiget in coxis, postmodum duos in brachiis, duos in ventre,
+         duos in pectore, et sic omnes figit, pro quolibet ictu clamando: “Me occido amore
+         talium ydolorum!”» (in sostanza aderente a F CLXXIII 31-32 «E quant il sunt venu en leu la o il se fait la justice, adonc celui qe doit morir
+         prent un cortiaus et crie a aute vox: “Je m’ocie por le amor de tel ydules!”. Aprés
+         qu’il a dit ceste parole, il se fiert dou coutiaus por mi le bras; puis prent un autre
+         coutiaus e se fert en le autre bras; puis prent autre coutel e se fert por mi le ventre»;
+         ma sono più vicini a F L 161 19 «Et dum tandem ad locum pervenerit iusticie, tunc moriturus, accepto in manu gladio,
+         alta voce clamat: “In honorem talis ydoli me ipsum occidere volo!”, percutit‹que›
+         se ipsum in brachio, deinde in alio ex alio gladio se ferit, deinde in ventrem […]»,
+         e V 91 31 «Et quando el sono a luogo dove se die’ far la iustizia, quello che die’ morir tuol
+         uno chortelo et sì chrida ad alta voxe: “Io me alzido per amor del tal idolo”; et
+         subito quando l’à dito queste parolle se ferisse chon quelo chortello nel brazo, e
+         puo’ tuol l’altro e sì se ferisse in l’altro brazo, e puo’ chon l’altro se ferisse
+         nel chorpo […]»).</p>
+	<p> P III 24 7 presenta un resoconto lievemente differente da Z-R, accelerato <hi rend="italics">in fine</hi>: «Cum autem ad locum pervenitur ubi fit iusticia publica, ille cultrum manu arripiens
+         alta voce clamat: “Ego me ipsum occido propter illius dei amore”. Quo dicto, se ipsum
+         graviter vulnerat et arripiens ferrum aliud secundum sibi vulnus infligit et sic sibi
+         multiplicat vulnera ad omne vulnus mutando cultellum […]» (versione di VA CXXXVII 33 «E quando i èno zonti in luogo dove se fa la zustixia, e chollui tuò uno chortello
+         in mano e chrida ad alta voxie: “Io m’alzido per amor de cotal dio”, et dà-sse uno
+         colpo del cortello […]»). </p>
+	<p>Innova VB CXLIII 35-36 «E circontato tuta la tera, vano al locho dela iusticia dove çonti, quello prende
+         1° di .XII. coltelli in mano et cridando ad alta voce dice: “Echo che io me voio alcidere
+         me stesso per riverencia del talle idolo”. E con quello choltello se perchuote, e
+         poi buta quel choltello via e poi ne prende uno altro e cridendo chome nel primo con
+         el secondo choltello se perchuote e con queli choltelli se percuote […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

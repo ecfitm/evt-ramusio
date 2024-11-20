@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-43-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-43">
+      <note>
+	<p>La pericope contiene qualche elemento peculiare del ridondante – ma certo d’impatto,
+         all’orecchio di Ramusio – svolgimento di <ref type="witlink" target="#vb-null-50">VB L 3</ref> «Udito ebe <term ref="#prete-gianni">Presto Çane</term> l’inbassata de <term ref="#cingis-can">Çecino Can</term>, tuto furibondo et pieno de ira, non possendo retenere l’acexa soa chalora, cridò
+         e disse: “Che temerità è quella de <term ref="#cingis-can">Çecino</term> mio sudito et trabutario ardischa dimandare la figuolla del suo segnore per moglie?
+         dove i vene tanta altereça? donde tanta temerità? non se chognose <term ref="#cingis-can">Çecino</term> chui l’è? […]”»): le tracce di VB sono evidenti in particolare nell’esordio – «Il
+         che udito […] tutto adirato» R / «Udito ebe <term ref="#prete-gianni">Presto Çane</term> […] tuto furibondo et pieno de ira» – e nelle prime parole del discorso diretto del
+         <term ref="#prete-gianni">Prete Gianni</term> – «Onde è tanta presonzione in <term ref="#cingis-can">Cingis Can</term> […]» R / «Che temerità è quella de <term ref="#cingis-can">Çecino</term> […] dove i vene tanta altereça? donde tanta temerità?» VB.</p>
+	<p>Nella sostanza, la lezione ramusiana non si discosta granché dai contenuti della tradizione,
+         grosso modo allineata a <ref type="witlink" target="#f-null-64">F LXIV 12-13</ref> «Et quant le <term ref="#prete-gianni">Prester Johan</term> oï ce qe <term ref="#cingis-can">Cinghis Can</term> li mande demandan{d}t sa file a feme, il le tint a grant despit, et dit: “Et conmant
+         ne a grant vergoingne Cinchis Can de demander ma file a feme: or ne set il qe il est mes homes et mon sers”[…]»: vd.
+         <ref type="witlink" target="#v-null-35">V 35 4 </ref>«Et quando el <term ref="#prete-gianni">Prete Zane</term> ave intexo che Zischi Chan volea so figlia per moglie, ave grandissima melinchonia, et disse ali anbasadori:
+         “Non se vergogna <term ref="#cingis-can">Zis Chan</term> de domandar mia fia per moie essendo mio sudito e mio vasallo?”»; <ref type="witlink" target="#va-null-50">VA L 8</ref> «El <term ref="#prete-gianni">Prete Zane</term> li respoxe molto vilanamente, e disse che egli dixeseno a <term ref="#cingis-can">Chinchis</term> che el convegniva ch’elo ’l metesse a mala morte peroché ’l iera rebello del suo
+         segnior et perché ’l iera stato sì ardito ch’el aveva domandà soa figliola». Sunteggiano
+         radicalmente <ref type="witlink" target="#l-null-58">L 58 6</ref> «[…] quod audiens, dedignatus valde, iniuriose respondit», e <ref type="witlink" target="#p-i-52">P I 52 3</ref> «Ille hoc supra modum indigne tulit direque respondit».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

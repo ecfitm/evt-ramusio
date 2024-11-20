@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-55-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-55">
+      <note>
+	<p>La pericope traduce in modo abbastanza fedele <ref type="witlink" target="#p-ii-53">P II 53 3-4</ref>, che riordina originalmente informazioni strutturate in modo diverso nelle altre
+         redazioni: «Unaqueque enim regis civitas profundis foveis et aqua plenis vallata erat,
+         quarum latitudo erat quantum iacere poterat arcus. Carebant equis, quia neminem metuebant».
+         Vd. <ref type="witlink" target="#v-null-67">V 67 3</ref> «Et in la sua provinzia non iera chavalli, e li homeni non iera uxadi in le arme
+         né in li exerziti; et questa provinzia sono molto forte, però che tute le suo’ zitade
+         sono fondade in aqua profonde […]»; <ref type="witlink" target="#f-null-138">F CXXXVIII 3</ref> «Et en sa provence ne avoit chevauz ne n’estoient costumé de bataille ne d’armes
+         ne des hostes, por ce che ceste provence dou <term ref="#mangi">Mangi</term> est mout fortissme leu, car t‹r›e‹s›toutes les cités sunt environee d’eive large
+         et porfonde, si que ne i ha nulle cité qe ne aie environ eive large plus d’une balestree
+         e mout profunde, si que je voç di qe se les jens fuïssent esté homes d’armes ne l’aüsent
+         perdue, mes, por ce qe il n’estoient vailans ne costumés d’armes, la perderent il:
+         car je voç di qe en toutes les cités s’entre por pont». In VB il passo manca. </p>
+	<p>L e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

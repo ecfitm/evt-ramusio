@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-54-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-54">
+      <note>
+	<p>La complessiva aderenza della pericope alle linee di <ref type="witlink" target="#f-null-73">F LXXIII 24</ref> – «Or nos partiron de ceste provence et cités et aleron .III. jornee, et adonc treuveron
+         une cité que s’apelle Ciagannuor, en la quel a un gran palais qui est dou <term ref="#gran-can">Gran Kaan</term>, car sachiés qe le <term ref="#gran-can">Gran Kan</term> demore a ceste cité, en cest palais, voluntieres, por ce qe il hi a lac et rivier
+         asseç, la ou il demorent cesnes assés; et encore il hi a biaus plain es quelz ont
+         grues asseç et faisanç et perdrices asseç, et de maintes autres faisonç d’ousiaus»
+         – suggerisce, pur mancando la testimonianza toledana, che R dipenda da Z; segnalo
+         tuttavia che l’<hi rend="italics">incipit</hi> della pericope («Partendosi […] Cianganor») potrebbe anche risentire del dettato
+         di <ref type="witlink" target="#vb-null-64">VB LXIV 1</ref> «‹P›artendosi da questa provincia e chavalchando per .III. giornate se giongie a
+         una citade chiamata <term ref="#cianganor">Çianganor</term> […]».</p>
+	<p>L’esatta traduzione del toponimo (“stagno biancho”) sopravvive, in tutta la tradizione,
+         nel solo <ref type="witlink" target="#l-null-64">L 64 14</ref> «Et tribus dietis ultra est civitas dicta Ciagannuor, quod sonat in latino “Stagnum album”, in qua est palacium magnum <term ref="#gran-can">Grandis Canis</term>». La grafia del toponimo adottata da Ramusio è molto vicina a quella di <ref type="witlink" target="#p-i-65">P I 65 9</ref> «Ultra vero hanc civitatem, ad tres dietas invenitur civitas <term ref="#cianganor">Ciangamor</term>, in qua est palacium maximum in quo <term ref="#gran-can">Magnus Kaam</term> habitat […]») e VB.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

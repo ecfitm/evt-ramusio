@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-4-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-4">
+      <note>
+	<p>Nessuna copia superstite delle fonti ramusiane ha conservato la transizione, consueto
+         sviluppo formulare che i copisti potevano sacrificare senza patemi. Ramusio può averla
+         ricostruita sul modello delle innumerevoli altre disseminate nel <hi rend="italics">Milione</hi>, o può averla avuta in effetti sott’occhio, in una forma vicina a quella testimoniata
+         da <ref type="witlink" target="#f-null-21">F XXI 9</ref> «Or laison de la <term ref="#armenia">Grant Harmenie</term>, et voç conteron de la provence de <term ref="#zorzania">Jorjens</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

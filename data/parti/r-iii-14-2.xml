@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-14-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-14">
+      <note>
+	<p>La transizione, aperta dal verbo dichiarativo, è ripresa <hi rend="italics">tel quel</hi> da <ref type="witlink" target="#z-null-101">Z 101 3-4</ref> «Et narabimus vobis horendam consuetudinem quam observant. Cum enim eorum aliquis
+         in aliquam egritudinem incidat […]» (resa di F CLXVII 2-3 «[…] e vos conterai tout avant un mout mauvés costumes, come je voç dirai. Car sachiés
+         tout voiremant qe quant aucun d’elz, ou masles ou femes, chiet amalaides […]»). Gli
+         altri relatori sopprimono la parte dichiarativa della transizione: P III 17 2 «Est ibi consuetudo talis: quando quis graviter infirmatur […]» (giusta il modello
+         VA CXXXI 3 «E àno una cotal uxanza: che quando alchun homo o femena s’inferma […]»);V 83 24 «Et in questo reame sono una ria chonsuetudine: che quando alguno chazeno ‹in› infirmitade»;
+         VB CXXXVII 2-3 «[…] et àno questo oribelle costume. Quando alcuno dila soa fameia se inferma […]»
+         (al grado zero L 154 3 «Dum aliquis horum infirmitate languescit»). Si noti che, diversamente da Ramusio,
+         tutti i lettori moderni del <hi rend="italics">Milione</hi> interpretano la frase temporale come <hi rend="italics">incipit</hi> del resoconto successivo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

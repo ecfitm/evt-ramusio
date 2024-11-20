@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-121</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-121">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXXI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-121_1_1" n="1"> Ci devise de la bataile que fu entre le host dou <term ref="#gran-can">Grant Kaan</term> et le roi de <term ref="#mien">Mien</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-121_2_1" n="1"> Et quant le ssire des ost de <term ref="#tartari">Tartarç</term> soit certainemant qe cest roi li venoit sovre a si grant jens, il hi a bien doutee,
+         por ce qe il ne avoit qe .XIIm. homes a chevaus; mes san faille il estoit mout vailanz homes deson cors et buen
+         chevaitanç; et avoit a non <term ref="#nestardin">Nescradin</term>. </seg>
+      <seg xml:id="f-null-121_2_2" n="2"> Il ordre et amoneste sez jens mout bien; il porcace, tant com il plus poit,
+         de defendre le païs et sez jens. </seg>
+      <seg xml:id="f-null-121_2_3" n="3"> Et por coi vos firoie |56b| je lonc conte{re}?
+         Sachiés tuit voiremant qe les <term ref="#tartari">Tartarç</term> s’en vindrent tuit et .XIIm. homes a chevaus en le plain de <term ref="#vociam">Vocian</term>, et iluec atendoient les ennimis qe venissent a la bataille. </seg>
+      <seg xml:id="f-null-121_2_4" n="4"> Et ce font por grant
+         senç et por bone chevaiteine, car sachiés que dejoste cel plain avoit un bois mout
+         grant et plen d’arbres. </seg>
+      <seg xml:id="f-null-121_2_5" n="5"> En tel mainere com voç avés hoï atendoient les <term ref="#tartari">Tartarç</term> les ennimis en cel plain. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-121_3_1" n="1"> Or laison un pou a parler des <term ref="#tartari">Tartarç</term>, qe bien en retorneron porchainemant, et parleron de les ennimis. </seg>
+      <seg xml:id="f-null-121_3_2" n="2"> Or sachiés
+         tuit voirmant qe quant le roi de <term ref="#mien">Mien</term> fo sejorné auques con toute sez host, il se partirent de luec e se mestrent a la
+         voie, et alent tant qe il furent venus eu plain de <term ref="#vociam">Vocian</term>, la o les <term ref="#tartari">Tartarç</term> estoient tuit aparoilés. [9] Et quant il furent venus en cel plain, pres a les ennemis
+         a un milier, il asete seç leofans e les castiaus et les homes desus bien armés por
+         conbatre. [10] Il ordre seç homes a chevalz et a piés molt bien et sajemant come saje
+         rois qu’il estoit. [11] Et quant il ot ordree et asetté tout son afer, il se mist
+         a aler con tuit sa ost ver les ennimis. [12] Et quant les <term ref="#tartari">Tartarç</term> les virent vinir, il ne font senblant qe il soient de rien esbaïs, mes mostrent qe
+         il sunt preuç et ardis duremant, car sachiés senç nulle faille qe il se mistrent |56c|
+         a la voie tuit ensenble bien et ordreemant et sajemant vers les ennimis. [13] E quant
+         il furent pres a elz et qe il ne avoit for que dou comencer la bataile, adonc les
+         chevaus des <term ref="#tartari">Tartars</term>, quant il ont veu les leofans, il espaontent en tel mainere qe les <term ref="#tartari">Tartarç</term> ne les poient mener avant ver les ennimis, mes se tornoient toutes foies arieres.
+         [14] Et le roi et sa jens con les leofans aloient toutes foies avant.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

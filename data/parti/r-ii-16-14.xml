@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>R segue <ref type="witlink" target="#f-null-93">F XCIII 25</ref> «Et derer a la grant sale est une grant canbre et belle ou dort le <term ref="#gran-can">Grant Sire</term>». Non sembra che Ramusio abbia tenuto conto delle versioni parzialmente rielaborate
+         di <ref type="witlink" target="#l-null-77">L 77 3</ref> «[…] Post autem magnum temptorium est imperialis camera, ubi dormit <term ref="#gran-can">Magnus Canis</term>, que et ipsa dictis duobus temptoriis est coniuncta», di <ref type="witlink" target="#p-ii-20">P II 20 2</ref> «[…] camera autem huic aule adiuncta est in parte altera ubi dormit […]», e di quella
+         abbreviata di <ref type="witlink" target="#v-null-44">V 44 11</ref> «[…] dove sono una chamera molto bella; et in quella dorme el <term ref="#gran-can">Gran Signor</term>».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

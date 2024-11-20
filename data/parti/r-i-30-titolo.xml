@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-30-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-30">
+      <note>
+	<p><ref type="witlink" target="#f-null-51">F LI</ref> (Ci devise de la grant cité de <term ref="#samarchan">Sanmarcan</term>); <ref type="witlink" target="#z-null-26-2-7">Z 26 1</ref>; <ref type="witlink" target="#l-null-46">L 46</ref> (De civitate <term ref="#samarchan">Sanmarcan</term>); <ref type="witlink" target="#p-i-39">P I 39</ref> (De provincia <term ref="#samarchan">Samarchan</term> et miraculo columpne facto in ecclesia beati Iohannis Baptiste), <ref type="witlink" target="#va-null-38">VA XXXVIII</ref> (De <term ref="#caschar">Chaxar</term>, dov’è la zente molto scharssa e avara); <ref type="witlink" target="#v-null-27">V 27 6-14</ref> (Dela provinzia de <term ref="#caschar">Chaschar</term> e dela zità de <term ref="#samarchan">Sanmarchan</term>); <ref type="witlink" target="#vb-null-34">VB XXXIV</ref>.</p>
+	<p>Il capitolo di Ramusio su Samarcanda è sostanzialmente desunto da P, sul cui scheletro si innesta, complementare, qualche
+         tessera di VB. L’accantonamento pressoché totale di Z (se si esclude il segmento d’esordio,
+         dove l’<hi rend="italics">ajout</hi> potrebbe derivare da Z1) in favore delle altre fonti può suggerire che Z1, come il toledano, offrisse per questo capitolo un testo lacunoso.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

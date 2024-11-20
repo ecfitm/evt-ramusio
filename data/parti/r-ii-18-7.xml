@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-18-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-18">
+      <note>
+	<p>Alcune varianti formali suggeriscono che Ramusio abbia fatto ricorso – soprattutto
+         nella seconda parte della pericope – a un testimone di <ref type="witlink" target="#vb-null-68">VB LXVIII 18</ref> «E perché quella moneta è di charta, fata di schorça d’alboro, invechisse [R «per
+         la troppo vecchiezza», ma vd. anche L] e ronpesse à questo dicreto: che chadauno che
+         porta della dita moneda rotta alla cecha, lai fi chanbiata et dàtog’è de moneta nuova
+         alltratanto [R «sonli date altretante nuove»], perdendo [R «perdendo»] per la stanpa
+         tre per centenaro». Per il resto, R pare dipendere prevalentemente da un testimone
+         prossimo a <ref type="witlink" target="#f-null-95">F XCV 15</ref> «Et encore voç di une autre cousse qe bien fait a dire: car, quant [R «ogni volta
+         che»] l’en a tenue ceste carte tant q’ele s’en ronpent et qe se gastent [R «si guastino»],
+         et il le porte a la secque [R «le portano alla zecca»] et il sunt cangié as noves
+         et fresches, si voiremant qu’il en lase trois por .C.».</p>
+	<p>Se si escludono coincidenze piuttosto generiche (R «per la troppo vecchiezza», L «ex
+         longo tempore»; R «alcuno», V «algun»), non si danno indizi sicuri di contatti di
+         R con <ref type="witlink" target="#l-null-78">L 78 4</ref> «Quod si moneta hec ex talibus ‹cartis› ex longo tempore frangatur, porta‹n›t ipsam
+         ad fabricam et datur eis pro veteri nova, relictis tamen tribus denariis pro centenario»
+         e con <ref type="witlink" target="#v-null-45">V 45 16</ref> «Et s’el sono algun che abia de queste tal monede de charta le qualle siano rote
+         e destrute, quelli le porta a quella zente del <term ref="#gran-can">Gran Chan</term> et quelle li vien renovade a tre per zento». </p>
+	<p>P omette il passo, mentre Z omette l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

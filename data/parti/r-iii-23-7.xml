@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-23-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-23">
+      <note>
+	<p>Ramusio recupera l’essenziale dell’informazione fornita da <ref type="witlink" target="#z-null-111">Z 111 46</ref> (traduzione letterale di F CLXXVII 18 «E cesti <term ref="#idolatri">idres</term> dient qe cel munument qe est sus celle montaigne est le filz au roi qe vos avés entendu,
+         e qe les dens e les chevoilz et la scuele, que hi est, furent ausint dou filz au roi,
+         qe avoit a non <term ref="#sogomonbarchan">Sergomoni Borcan</term>, qe vaut a dir <term ref="#sogomonbarchan">Sergomon saint</term>») sopprimendo – come L 160 7 – le <hi rend="italics">interpretationes</hi> religiose (V 95 21 e VB 147 24 coincidono con Z).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

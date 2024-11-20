@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-52-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-52">
+      <note>
+	<p>Ramusio segue, rielaborandolo profondamente,<ref type="witlink" target="#vb-null-96"> VB XCVI 7-8</ref> «Saputo <term ref="#lucansor">Lucansagor</term> dela venuta de’ diti do capetani con tanto exercito apariò ecian lui la cente soa
+         e non con menor numero de quella del <term ref="#gran-can">Gran ‹Can›</term> e quanto presto poté ge vene al’incontro. E ritrovatosse tranbi osti, furno alle
+         mani […]». La lezione delle altre redazioni è diversa:<ref type="witlink" target="#v-null-64"> V 64 7</ref> «Et questi do provedadori chonbaté chon questo <term ref="#lucansor">Lufa</term>, el qualle iera rebello ed era chon tute le suo’ zente ch’el poté chongregar, i qualli
+         iera molti miera de homeni da chavallo e molti miera de pedoni»; <ref type="witlink" target="#f-null-133">F CXXXIII 11</ref> «E por coi voç firoie lonc cont? Sachiés tout voiremant que ceste .II. baronz con
+         lor jens conbatirent con <term ref="#lucansor">Litam</term>, qe revelés s’estoit, et con toutes les jens qu’il puet asenbler, qe furent bien
+         entor .Cm. homes a chevaus et grandisme quantité des homes a piés». Il passo viene omesso in
+         L, P e Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

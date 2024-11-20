@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>In assenza di P III 23 (che omette la perifrasi, a causa della lacuna di VA CXXXVII), Ramusio parafrasa VB CXLIII 11 «Questi inchantadori sono gran maistri, sano inchantare tuti animalli, ecian tuti
+         i oxelli». Gli altri relatori si allineano a F CLXXIII 8 «Et encore voç di qe cesti <term ref="#bramini">abraiamam</term> encantent encore toutes bestes e tous osiaus e tous animaus»: L 161 7 «[…] sed aves eciam et quecumque animalia dumlibet suis incantationibus ligant»;
+         V 91 10 «[…] et questi inchantano ed ezian tute le bestie e tuti i anemali». Fa eccezione
+         <ref type="witlink" target="#z-null-107">Z 107 28</ref>, che riassume in un lemma la dittologia: «Item isti <term ref="#bramini">abraaman</term> similiter incantare sciunt omnia animalia».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

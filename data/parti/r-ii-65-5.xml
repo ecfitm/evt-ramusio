@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-65-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-65">
+      <note>
+	<p>R si attiene alla testimonianza di <ref type="witlink" target="#z-null-82">Z 82 10</ref> «Nunc vero, de ista materia dimitentes, de quadam valde magna civitate ‹narabimus›
+         nomine <term ref="#tinguigui">Tingçu</term>» (aderente nella sostanza alla la lezione di <ref type="witlink" target="#f-null-148">F CXLVIII 6</ref> «Or nos partiron de ceste matiere et voç conteron d’une autre cité mout grant qe
+         est apellés <term ref="#tinguigui">Tinghingui</term>»). La versione di <ref type="witlink" target="#v-null-73">V 73 7</ref> è abbreviata: «Or lasseremo questo e diremo de un’altra zitade». Negli altri relatori
+         (L, P, VB) il passo è omesso. Si noti che il toponimo <term ref="#tinguigui">Tinguigui</term> di R sembrerebbe dimostrare che il suo modello Z1 recasse in questo punto una variante più vicina alla lezione di F di quella che si
+         legge in Z toledano. Non si può escludere, tuttavia, che la forma derivi da un incrocio
+         tra le lezioni che compaiono in VB (<term ref="#tinguigui">Tingigi</term>) e in P (Tinghinguy) nel capitolo successivo (vd. la nota al par. 2).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

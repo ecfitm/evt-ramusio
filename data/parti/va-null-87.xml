@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-87</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-87">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, LXXXVII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-87_2_1" n="1"> Quando l’omo se parte de <term ref="#pianfu">Pianfu</term>, el va per ponente do zornade e poi trova uno bel chastello ch’à nome <term ref="#cayngui">*Chaichui</term>, lo qual fè’ far uno re che aveva nome <term ref="#dor">d’Or</term>.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-87_3_1" n="1"> Sechondo che dixe la zente della contrà, quello <term ref="#dor">re d’Or</term> ave guera chon <term ref="#prete-gianni">Prete Zane</term>, e iera in sì forte luogo che ’l <term ref="#prete-gianni">Prete Zane</term> non li podeva nuoxer, et ave gran ira. </seg>
+      <seg xml:id="va-null-87_3_2" n="2"> In la corte del <term ref="#prete-gianni">Prete Zane</term> se atrovavano sete zoveni che sse preferino de dar quel re vivo in le man del <term ref="#prete-gianni">Prete Zane</term>, donde el ne fo molto aliegro. </seg>
+      <seg xml:id="va-null-87_3_3" n="3"> E queli sete zoveni veneno ala chorte del re d’Oro a muodo de’ donzelli, e diseno che i erano de stranie chontrà e che i gierano venuti
+         ala sua chorte per servire ala soa maiestà. </seg>
+      <seg xml:id="va-null-87_3_4" n="4"> Lo re li rezevé aliegramente per soi
+         donzelli, e lor chon grande alegreza servìa el signior per aver sua grazia, sì ch’el
+         amava molto questi donzelli e fidava-sse molto de llor.</seg>
+    </p>
+    <p n="4">
+      <seg xml:id="va-null-87_4_1" n="1"> E passati do ani, lo re chavalchando uno dì a solazo da lonzi dal chastello uno
+         meiaro, e abiando siego questi sete zoveni e pochi altri, questi traditori videno
+         che i podea conpir quel per che i ierano venuti. </seg>
+      <seg xml:id="va-null-87_4_2" n="2"> E meseno man ale spade e prexeno
+         el re, e menà-lo al <term ref="#prete-gianni">Prete Zane</term>, lo qual ne fo molto lieto e chomandò ch’el fosse menado alla chanpagnia a guardar
+         le suo’ biestie, e fè’-llo ben guardar. </seg>
+      <seg xml:id="va-null-87_4_3" n="3"> E quando el fo stado chusì do ani, el
+         <term ref="#prete-gianni">Prete Zane</term> s’el fè’ vegnir davanti e fè’-llo vestir a muodo de re. [9] E sì li disse: «Re d’Oro, tu poi ben veder che tu nonn è niente a mia chonperazion e che nonn è d’agualizar
+         miego, ch’io t’ò chonduto a guardar le bestie, e sì te porave alzider s’io volesse».
+         [10] E lo <term ref="#dor">re d’Or</term> el chonfessò ben. [11] El <term ref="#prete-gianni">Prete Zane</term> respoxe: «Dapoi che tu medeximo l’ài chonfesato, io non te domando altro, ma de qui
+         innanzi te voglio far onor e servixio». [12] E inchontenente li dè’ chavali e arme
+         e arnixe e bella chonpagnia, e sì lo lasò tornar al suo regniame, donde el <term ref="#dor">re d’Oro</term>, defin ch’el fo vivo, fo amigo e servidor del <term ref="#prete-gianni">Prete Zane</term> de llì inanzi.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

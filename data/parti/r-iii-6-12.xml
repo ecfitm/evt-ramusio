@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-6-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>L’indicazione dei manufatti in ebano è in Z 95 23-24 (probabile fonte di R) «In isto quidem regno multi sunt elephantes et lignum aloe
+         in multa quantitate. Sunt ibi etiam multi luci de quodam ligno quod nominatur ebanus,
+         quod est valde nigrum; et fiunt ex ipso pulcerimi pugillares», e in V 83 10 «Et quel re aveano molti lionfanti; e legno aloe in gran quantitade. In quel luogo
+         sono molti boschi de uno legno chiamato alboro [<hi rend="italics">sic</hi>], el qualle sono molto negro; e de quello i fano i charamalli et molte altre chosse»
+         (entrambi i relatori traducono F CLXI 12 «En cel reingne a leofans en grandisime quantité. Il ont leingne aloé en grant abondance.
+         Il ont maint bosches dou leingne que est apellés bonus, qe est mout noir, dou quel
+         se font les escace e les calamauç»).</p>
+	<p>Gli altri relatori si limitano al catalogo: P III 9 5 «In hac regione multi elephantes sunt et ligni aloe est ibi in copia maxima. Sunt
+         etiam ibi nemora magna de lignis ebany»; L 145 5 «Et sunt hic elefantes multi, et lignum aloes in habundantia, et nemora quam plura,
+         et ex ligno ebani, quod est valde nigrum et nobile lignum»; VB CXXXI 11-12 «In questa contrada se trova leofanti in grandissima quantitade. Trovassi ancho assai
+         legno aloe e molto ebano». A proposito del catalogo in VA CXXIII 3 vedi la nota a <ref type="witlink" target="#r-iii-6">R III 6 3</ref>.</p>
+	<p>Appaiono congiunti in questa pericope gli elefanti e il legno di aloe, i due componenti
+         del tributo a <term ref="#cublai-can">Qubilai</term> secondo i soli L e Z (vd. le note a <ref type="witlink" target="#r-iii-6">R III 6 3 </ref> e <ref type="witlink" target="#r-iii-6">R III 6 8</ref>).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

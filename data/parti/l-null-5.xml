@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-5">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 5 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-5_2_1" n="1"> Interim contigit inde transire nobilem quendam virum nuntium et legatum <term ref="#ulau">Alau</term> regis et domini <term ref="#tartari">Tartarorum Orientis</term>, quem mittebat ad <term ref="#cublai-can">Cublay</term> <term ref="#gran-can">Magnum Canem</term> (dominum videlicet omnium <term ref="#tartari">Tartarorum</term>). </seg>
+      <seg xml:id="l-null-5_2_2" n="2"> Qui dum vidisset hos fratres, quia in partibus illis numquam fuisse Latinum
+         noverat miratus est valde; et cum ipsos novit esse mercatores taliter allocutus est:
+         </seg>
+      <seg xml:id="l-null-5_2_3" n="3"> «Si mihi credere placet, utilitatem honoremque maximum provocabo». Cui cum respondissent
+         se paratos pro posse in omnibus obedire, dixit: «Vado ad <term ref="#gran-can">Magnum Canem</term> dominum omnium <term ref="#tartari">Tartarorum</term>, et ipse numquam Latinos vidit: cum ipsos maxime videre desideret, si mecum venire
+         placet sum certus quod ab ipso utilitatem maximam habebitis et honorem poteritisque
+         mecum undique absque impedimento venire». </seg>
+      <seg xml:id="l-null-5_2_4" n="4"> Hoc placuit ei‹s›, quare ipsum secuti
+         sunt; et cum per unum annum ivierint in septemtrionem et per grecum, tandem ad <term ref="#gran-can">Magni Canis</term> curiam pervenerunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

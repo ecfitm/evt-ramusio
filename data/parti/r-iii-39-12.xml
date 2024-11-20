@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-39-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>Se confrontato con quello di Z 126 31-40, il resoconto dei preparativi di guerra proposto da R risulta di gran lunga più generico.
+         Narra Z: «Et cum episcopus liberatus fuit, ita quod poterat equitare, cum tota societate
+         sua iter arripuit, et ivit tantum per mare et terram quod pervenit in <term ref="#abascia">Abas</term> ad regem dominum suum. Et cum rex eum vidit, fecit ei festum et iubilum, et postmodum
+         de Sepulcro nova quesivit. Cui episcopus totam veritatem naravit per ordinem. Et cum
+         rex audivisset, pro sanctissima re retinuit et magnam fidem adhibuit. Et cum totum
+         esse Sepulcri ei retulisset, retulit qualiter <term ref="#soldan">soldanus</term> ipsum fecerat circumcidi in sui dedecus et contemptum. Et cum rex audivisset quod
+         suus episcopus ita dedecoratus fuerat in sui contemptum, multum fuit adiratus et dixit,
+         ita alte quod omnes circumstantes audire potuerunt, quod nunquam volebat portare coronam,
+         neque manutenere terram si talem ultionem non sumeret quod totus mundus inde loquetur.
+         Rex quidem se preparavit cum magna gente equitum et peditum, et duxit secum multitudinem
+         elephantum cum castris bene munitis: nam super singula castra erant bene .XII. vel
+         .XIIII. homines. Sed tamen, aliter quam in exercitum eundo, bene irent .XX. super
+         quodlibet castrum, sed in exercitum vadunt solumodo .XII., ut valeant comodius se
+         habere. Et dum rex bene cum tota sua gente paratus fuiset, iter arripuit, et tantum
+         profectus fuit quod pervenit in regnum <term ref="#adem">Aden</term>. Et rex illius provincie <term ref="#adem">Aden</term>, cum magna multitudine sarracenorum equitum et peditum, venit ad fortes passus ut
+         terram suam defenderet et ut sui inimici non valerent intrare». Citiamo Z perché è
+         traduzione fedele di F CXCII 12-16 («E por coi voç firoie lonc conte? Sachiés tout voiremant que, quant l’evesqe fu
+         gueris e que il poit chavaucher{e}, il se met a la voie a tout sa conpagnie, et ala
+         tant, e por mer e por terre, que il fo venu en <term ref="#abascia">Abase</term> a son seignor le roi. Et quant le roi le vit, il le fait joie e feste, e puis le
+         demande novelle dou sepolcre. L’eveqe li en dit tout la verité e le roi le tient a
+         santisme couse et hi a grant foy. Et aprés ce que il ot dit l’evesque dou sepolcre
+         tout le fait, il li conte comant le <term ref="#soldan">soudan</term> de <term ref="#adem">Aden</term> l’avoit fa‹i›t retailer por sa onte e por son despit. E quant le roi ot entendu ce
+         qe son evesque estoit si aöntés por son despit, il a si grant ire que pou s’en falloit
+         qe il ne morut de dol. Il dit si aut, que tuit celz que entor lui estoient l’entendirent
+         bien, et dit q’il ne velt jamés porter corone ne tenir terre se il ne en prant grant
+         veng{n}ance si que tout le monde en parlera. E que voç en diroie? Sachiés tuit voirmant
+         que le roi s’aparoille a mout grandisme gens, de chevalers e d’omes a pe; et encore
+         moine grant quantité de leofans con castelle bien armés, qe i avoit bien .XX. homes
+         sus chascuns. E quant il fo bien apparoillés, con toutes seç jens il se met a la voie,
+         et il alerent tant qe il furent venu eu roiame de <term ref="#adem">Aden</term>. E les rois de celle provence de <term ref="#adem">Aden</term>, con mout grant moutitude de saracinz a chevaus e a piés, vindrent a les fors pas
+         por defendre lor tere e que lor enimis ne i peussent entrere» – testo che è la base
+         pure di V 108 18-22, e degli abbreviati VB CLXIII 15-19 e L 181 3-4, che narra: «Contra hunc <term ref="#soldan">soldanus</term> de <term ref="#adem">Aden</term> Sarracenorum multitudinem congregavit, ut suam provinciam tueretur; et dum eos in
+         confinibus provincie, ut passus defenderent, ordinasset, regis exercitus supervenit»).
+         </p>
+	<p>Dunque, F-Z-V parlano in dettaglio di elefanti “armati” di uomini, e del posizionamento
+         delle truppe del sultano di <term ref="#adem">Aden</term> a difesa di «fortes passus». Nulla di tutto questo in R, che in compenso parla del
+         soccorso al sultano di «due re saraceni vicini». Il numero dei re alleati è un’“invenzione” di  VA CLI 14-17, che si aggiunge a un resoconto nella sostanza affine a F: «El veschovo se partì
+         con tuta soa conpagnia e andò tanto per mar e per tera ch’el zonse alla provinzia
+         de <term ref="#abascia">Albaxia</term>. E quando el re sape quello era fato al suo vescovo, el ave grand’ira, e al plui
+         presto ch’el poté fexe grande apariamento de chavali et de pedoni et de alinfanti
+         inchastelati, e andò tanto chon sua zente ch’el zonse in le tere de <term ref="#adem">Aden</term>. E lo <term ref="#soldan">soldan</term> de <term ref="#adem">Aden</term> vene chontra lui con soa zente ai forti passi per mantegnir e mitigar ch’el non pasasse,
+         unde el ne fo una gran bataglia infra quella zente. E avegnia che ’l <term ref="#soldan">soldan</term> de <term ref="#adem">Aden</term> avesse siego do altri re e zente molto granda […]». P III 44 4 («Dimissus igitur episcopus circumcisus pervenit ad regem <term ref="#abascia">Abascie</term>; tunc rex, cum audisset que circa episcopum gesta fuerant, mira indignatione commotus,
+         magno exercitu congregato, peditum et equitum et elephantum cum castris contra terras
+         regis <term ref="#adem">Aden</term> movit exercitum. <term ref="#soldan">Soldanus</term> vero regis <term ref="#adem">Aden</term>, reges duos secum habens, occurrit illi cum exercitu magno») traduce fedelmente VA.
+         Si può insomma pensare che Ramusio abbia drasticamente asciugato il resoconto di una
+         fonte che doveva coincidere con P, conservandone quello che gli pareva il dettaglio
+         più interessante (l’intervento di alleati).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

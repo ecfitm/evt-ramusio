@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-11-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-11">
+      <note>
+	<p>Il paragrafo inaugura un’ampia digressione sulle qualità degli asini persiani, sconosciuta
+         all’intera tradizione con l’eccezione di Z, donde Ramusio la desume letteralmente:
+         <ref type="witlink" target="#z-null-10">Z 10 4-5</ref>  «Sunt etiam ibi pulcriores asini et maiores de mundo, qui multum pluri venduntur
+         quam equi; et hec est ratio: quia parum comedunt, onera magna ferunt et multum vie
+         peragunt una die. Sed equi neque muli tantum posse‹n›t sustinere laboris». </p>
+	<p>Le altre fonti ramusiane presentano un <hi rend="italics">côté</hi> informativo decisamente più scarno, vicino alla formulazione di <ref type="witlink" target="#f-null-32">F XXXII 6</ref>: «Encore hi a asne, li plus biaus du monde, que bien vaut le un trointe mars d’argent,
+         car il sunt grande coreor et bien portant a l’anblaüre». Prossimo a F è anzitutto
+         <ref type="witlink" target="#p-i-19">P I 19 4</ref> «Asini similiter pulcherimi ibi sunt: propter nimiam ipsorum pulcritudinem dantur
+         pro uno ma‹r›che triginta argenti vel ultra; pulcre ambulant et optime currunt». <ref type="witlink" target="#vb-null-21">VB XXI 4</ref> innesta sulla struttura del modello una glossa: «Ène anchor belletissimi aseni e
+         credo i più belli abia el mondo: e ssono choradori, ch’è contra la natura dei axeni
+         de queste parte nostre; ànno notabel anbiadura»), <ref type="witlink" target="#l-null-26">L 26 3</ref> riduce all’osso l’informazione («In hac provincia nascuntur multi et boni dextrarii,
+         et asini valde pulchri, et bene currentes et bene ambulantes»), <ref type="witlink" target="#v-null-18">V 18 2</ref> elimina ogni riferimento agli asini, attribuendo le loro peculiarità ai cavalli («Et
+         in questo regno è de molti belli chavali anbladori, deli qualli molti ne vien portadi
+         in <term ref="#india">India</term> a vendere, ed eziandio chavali de gran prexio; e vendesse l’uno duxento livre de
+         tornexi, e la mazor parte sono a ’sto prexio, et alguno di queli trentamilia danar
+         d’arzento, perché li chore molto forte»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-28</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-28" n="1">
+    <head>
+      <hi rend="bold">R, I 28</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-28_1_1" n="1"> Della provincia di <term ref="#vochan">Vochan</term>, dove si va ascendendo per tre giornate fino sopra un grandissimo monte, et dei montoni
+         che son ivi; et come il fuogo che si fa in quella altezza non ha la forza che ha nel
+         piano; et degli habitanti, che sono come selvatichi. Cap. 28.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-28_2_1" n="1"> Partendosi dalla provincia di <term ref="#balaxiam">Balaxiam</term> et camminando per greco et levante, si trovano sopra la ripa di uno fiume molti castelli
+         et habitationi, che sono del fratello del re de <term ref="#balaxiam">Balaxiam</term>; et passate tre giornate si entra in una provincia che si chiama <term ref="#vochan">Vochan</term>, la qual tien per longhezza et larghezza tre giornate: et le genti di quella osservano
+         la legge di <term ref="#macometto">Macometto</term>, et hanno parlar da per sé; sono huomini di approbata vita et valenti nell’arme.
+         </seg>
+      <seg xml:id="r-i-28_2_2" n="2"> Il loro signore è un conte che è soggetto al signore di <term ref="#balaxiam">Balaxiam</term>. </seg>
+      <seg xml:id="r-i-28_2_3" n="3"> Hanno bestie et uccellatori di ogni maniera. </seg>
+      <seg xml:id="r-i-28_2_4" n="4"> Et partendosi da questa contrata si va per tre giornate tra levante et greco sempre
+         ascendendo per monti, et tanto si ascende che la sommità di quei monti si dice essere
+         il piú alto luogo del mondo. </seg>
+      <seg xml:id="r-i-28_2_5" n="5"> Et quando l’huomo è in quel luogo trova fra duoi
+         monti un gran lago, dal qual per una pianura corre un bellissimo fiume: et in quella
+         sono i migliori et i piú grassi pascoli che si possino trovare, dove in termine di
+         dieci giorni le bestie (siano quanto si voglin magre) diventano grasse. </seg>
+      <seg xml:id="r-i-28_2_6" n="6"> Ivi è grandissima moltitudine di animali salvatichi, et specialmente montoni grandissimi,
+         che hanno le corna alla misura di sei palmi et almanco quattro o tre, delle qual li
+         pastori fanno scodelle et vasi grandi dove mangiano, et con quelli serrano ancho i
+         luoghi dove tengono le lor bestie; et gli fu detto che vi sono lupi infiniti che uccidono
+         molti di quei becchi, et che si trova tanta moltitudine di corna et ossa, che di quelli
+         atorno le vie si fanno gran monti per mostrar alli viandanti la strada |11r| che passano
+         al tempo della neve. </seg>
+      <seg xml:id="r-i-28_2_7" n="7"> Et si cammina per dodici giornate per questa pianura, la qual si chiama <term ref="#pamer">Pamer</term>, et in tutto questo cammino non si trova alcuna habitatione, per il che bisogna che
+         i viandanti portino seco le vettovaglie. [8] Ivi non appare sorte alcuna de uccelli, per l’altezza de’ monti, et gli fu affermato
+         per miracolo che per l’asprezza del freddo il fuogo non è cosí chiaro come negli altri
+         luoghi, né si può ben con quello cuocere cosa alcuna. [9] Poi che si ha cavalcato le dette dodici giornate, bisogna cavalcare circa giornate
+         quaranta pur verso levante et <term ref="#greco">greco</term>, continuamente per monti, coste et valli, passando molti fiumi et luoghi deserti,
+         ne’ quali non si trova habitatione né herba alcuna, ma bisogna che li viandanti portino
+         seco da vivere: et questa contrada si chiama <term ref="#beloro">Beloro</term>. [10] Nelle sommità di quei monti altissimi vi habitano huomini che sono <term ref="#idolatri">idolatri</term> et come salvatichi, quali non vivono di altro che di cacciagioni di bestie, si vestono
+         de cuori et sono genti inique.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

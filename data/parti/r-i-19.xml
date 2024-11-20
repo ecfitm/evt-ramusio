@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-19</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-19" n="1">
+    <head>
+      <hi rend="bold">R, I 19</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-19_1_1" n="1"> Della città di <term ref="#cobinam">Cobinam</term>, et delli specchi di <term ref="#azzaio">azzai</term>, et del’<term ref="#andanico">andanico</term>, et della <term ref="#tucia">tucia</term> et <term ref="#spodio">spodio</term> che si fa ivi. Cap. 19.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-19_2_1" n="1"> <term ref="#cobinam">Cobinam</term> è una gran città, la cui gente osserva la legge di <term ref="#macometto">Macometto</term>, dove si fanno i specchi di <term ref="#azzaio">acciaio</term> finissimo molto belli et grandi. </seg>
+      <seg xml:id="r-i-19_2_2" n="2"> Vi è ancho assai <term ref="#andanico">andanico</term>, et ivi si fa la <term ref="#tucia">tuccia</term>, la quale è buona all’egritudine degl’occhi, et il <term ref="#spodio">spodio</term>, in questo modo: tolgono la terra di una vena che è buona a quest’effetto et la metteno
+         in una fornace ardente, et sopra la fornace sono poste graticcie di ferro molto spesse,
+         et il fumo et l’humor che ne viene ascendendo si attaccha alle graticcie, et rafreddato
+         s’indurisce, et questa è <term ref="#tucia">tuccia</term>; et il resto di quella terra che riman nel fuogo, cioè il grosso che resta arso,
+         è il <term ref="#spodio">spodio</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

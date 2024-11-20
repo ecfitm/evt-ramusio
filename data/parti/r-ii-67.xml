@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-67</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-67" n="1">
+    <head>
+      <hi rend="bold">R, II 67</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-67_1_1" n="1"> Della città di <term ref="#singui">Singui</term> et <term ref="#vagiu">Vagiu</term>. Cap. 67.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-67_2_1" n="1"> <term ref="#singui">Singui</term> è una grande et nobile città, la qual gira d’intorno da venti miglia. </seg>
+      <seg xml:id="r-ii-67_2_2" n="2"> Sono tutti <term ref="#idolatri">idolatri</term> et sottoposti al <term ref="#gran-can">Gran Can</term>; spendono moneta di carta; hanno gran quantità di seda et ne fanno panni, perché
+         tutti vanno vestiti di seda, et ancho ne vendono. </seg>
+      <seg xml:id="r-ii-67_2_3" n="3"> Vi sono mercatanti ricchissimi, et tanta moltitudine di gente che è cosa mirabile.
+         </seg>
+      <seg xml:id="r-ii-67_2_4" n="4"> Sono huomini pusillanimi, et non sanno far altro che mercantie et mestieri, ma in
+         quelle dimostrano grande ingegno, conciosiacosaché, se fossero audaci et virili et
+         atti alle battaglie, con la gran moltitudine che sono conquistarebbono tutta quella
+         provincia et molto piú oltra. </seg>
+      <seg xml:id="r-ii-67_2_5" n="5"> Hanno molti medici, et quelli eccellenti, che sanno cognoscere le infirmità et darli
+         i debiti remedii, et alcuni che chiamano savii, come appresso di noi philosophi, et
+         altri detti maghi et indovini. </seg>
+      <seg xml:id="r-ii-67_2_6" n="6"> Sopra li monti vicini a questa città vi nasce il riobarbaro in somma perfettione,
+         che va per tutta la provincia; vi nasce ancho in quantità il gengevo, et vi è tanto
+         buon mercato che quaranta libre di fresco si puol haver per tanta moneta che vagli
+         un <term ref="#grosso">grosso</term> d’argento venetiano. </seg>
+      <seg xml:id="r-ii-67_2_7" n="7"> Sono sotto la giurisditione di <term ref="#singui">Singui</term> da sedeci buone città, et ricche di gran mercantie et arti. [8] Et <term ref="#singui">Singui</term> vuol dire “città di terra”, come all’incontro <term ref="#quinsai">Quinsai</term> “città del cielo”. [9] Hor, partendosi da <term ref="#singui">Singui</term>, si trova un’altra città di <term ref="#vagiu">Vagiu</term>, lontana una giornata, dove è similmente abondanza di seda, et vi sono molti mercanti
+         et artefici: et qui lavorano tele sottilissime et di diverse sorti, et vengono condotte
+         per tutta la provincia. [10] Né altro essendovi degno di memoria, trattaremo della maestra et principale città
+         della provincia di <term ref="#mangi">Mangi</term>, nominata <term ref="#quinsai">Quinsai</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

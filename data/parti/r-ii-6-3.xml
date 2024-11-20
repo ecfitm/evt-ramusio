@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-6-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>Le informazioni della prima parte («Poi si trova il spatio d’un miglio […] nella parte
+         di tramontana») sono trasmesse esclusivamente da R. La seconda parte («delle quali
+         […] genti»), invece, trova riscontro – seppur non preciso – nella maggior parte delle
+         fonti: <ref type="witlink" target="#l-null-68">L 68 3</ref> «In quadra autem meridionali huius muri sunt .5. porte, quarum que est in medio est
+         aliis valde maior, per quam nemo transit nisi solum dominus, per alias vero relique
+         vadunt gentes. In reliquis vero quadris singule manent porte»; <ref type="witlink" target="#p-ii-9">P II 9 3</ref> «Facies autem palatii que meridiem respicit habet portas quinque, quarum media maior
+         est omnibus et numquam aperitur nisi pro regis introitu vel exitu: nulli enim per
+         eam nisi soli regi patet ingressus. Habet autem duas minores collaterales portas per
+         quas qui cum rege sunt transeunt; quelibet autem reliquarum facierum trium unicam
+         portam habet in medio per quam cuilibet licite patet ingressus»; <ref type="witlink" target="#v-null-41">V 41 19</ref> «[…] et questi muri àno zinque porte in le quale ne sono una granda per zaschadun
+         chanto, per le qual nesun non entra se no el <term ref="#gran-can">Gran Chan</term>, e puo’ se sera; et apreso queste grande sono do porte, una per ladi, per le qual
+         esse et intra tuta l’altra zente» (vd. <ref type="witlink" target="#f-null-83">F LXXXIII 9</ref> «Et cest mur a eu quaré dever midi .V. portes; eu mileu une grant porte que ne s’evre
+         nulle fois for tant solemant quant le <term ref="#gran-can">Grant ‹Kan›</term> en hoisce et quant il hi entre. Et jouste ceste grant porte en a deus petite, des
+         caschune part une, et por celle entrent toutes les autres jens»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

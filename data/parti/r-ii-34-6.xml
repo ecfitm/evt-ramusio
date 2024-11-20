@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-34-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-34">
+      <note>
+	<p>Ramusio segue la versione di Z, che risulta più ricca di dettagli di quella che si
+         legge nelle altre redazioni poliane: <ref type="witlink" target="#z-null-50">Z 50 8-9</ref> «Gentes ipsius <term ref="#idolatri">adorant ydola</term>. Aliqui sunt ibi christiani turchi nestorini et saraceni»; vs. <ref type="witlink" target="#l-null-90">L 90 2</ref> «Gentes sunt <term ref="#idolatri">ydolatre</term> […]»; <ref type="witlink" target="#p-ii-32">P II 32 7</ref> «Populus autem terre <term ref="#idolatri">ydolatra</term> est»; <ref type="witlink" target="#v-null-53">V 53 7</ref> «Et la zente de questa zitade <term ref="#idolatri">adora le idolle</term>»; <ref type="witlink" target="#f-null-110">F CX 8 </ref>«La ville est a ponent et sunt <term ref="#idolatri">ydres</term>». VB omette del tutto questa informazione.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-22-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-22">
+      <note>
+	<p>R ben corrisponde tanto a <ref type="witlink" target="#z-null-19">Z 19 8</ref> «Sunt in ea aque multe et venationes quam plures; sunt et ibi leones» quanto a <ref type="witlink" target="#p-i-31">P I 31 5</ref> «Ibi sunt aque multe et venaciones maxime bestiarum; ibi etiam sunt leones» – alla
+         cui lezione può rinviare, sebbene sia poco marcata, la specificazione «de diversi
+         animali» (&lt; <hi rend="italics">bestiarum </hi>P?). Z e P sono prossimi alla lezione francoit. di <ref type="witlink" target="#f-null-44">F XLIV 8</ref> «Et voç di qu’il hi a aigue aseç, venesion aseç, et des leon hi a encore», al pari
+         di <ref type="witlink" target="#l-null-38">L 38 2 </ref>«Et inveniuntur aque multe et venationes bone, et sunt ibi leones multi », mentre
+         <ref type="witlink" target="#v-null-23">V 23 7</ref> sacrifica l’informazione sui leoni («Et in quela se truova molte aque e chazason
+         […]») e, al solito, <ref type="witlink" target="#vb-null-27">VB XXVII 5</ref> lavora in autonomia travisando il dettato del modello («Sule montagne v’è abitaciun
+         assai et abondante de aque e vituallie»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

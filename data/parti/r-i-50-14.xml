@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-50-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-50">
+      <note>
+	<p>La descrizione della fauna ornitologica della regione del <term ref="#caramoran">Fiume Giallo</term> (parr. 14-15) è desunta perlopiù da Z, come dimostrano la coincidenza letterale di
+         R con i minimi frustoli di Z sopravvissuti nel toledano (R «et vi sono anchor […]
+         diversi colori» / <ref type="witlink" target="#z-null-39">Z 39 16</ref> «Sunt et allie aves multarum manerierum, diversorum colorum penas habentes»), e,
+         laddove il toledano sia mancante, la corrispondenza con le linee di <ref type="witlink" target="#f-null-71">F LXXI 16-20</ref> «Et la provence est grant .XXV. jornee. Il hi a faiçain grant deus tant que celle
+         de nostre païs, car il sunt de la grandesse de paon, aucun pou moin. Il ont la coe
+         lo‹n›ge au plus .X. paumes, et bienn i a de .VIIII. et de .VIII. et de .VII. au moin.
+         Il hi a encore des faiçain qui sunt de la grande‹sse› et de faisonz des nostres païs.
+         Des autres hoisiaus hi a de maintes mainere de mout belles pennes et bien colorés».
+         </p>
+	<p>È forse modellato sulla lezione di VB il dettaglio sulla lunghezza delle penne caudali:
+         cfr. R «et hanno le penne della coda lunghe otto o dieci palmi» / <ref type="witlink" target="#vb-null-60">VB LX 8</ref> «le pene belliseme e longe de .VIII. in .X. spane».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-1-19</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>R dipende verosimilmente da una fonte che recava un testo vicino a <ref type="witlink" target="#f-null-78">F LXXVIII 8</ref> «Endementier qe andeus partes estoient aparoillés qe ne avoient que dou ferir, adonc
+         peust l’en veoir et oïr soner maint estroment et maintes channes, et chanter a aute
+         vois, car sachiés qe les uçance des <term ref="#tartari">Tartars</term> sunt tielz: car, quant il sunt atiré et aschieré por conbatre, il ne seroient en
+         la bataile jusque a tant qe les naccar ne sonent, ce sunt celz de lor chevetain».
+         Si mostrano in questo punto più sintetici <ref type="witlink" target="#p-ii-4">P II 4 5</ref> «Est autem consuetudo omnium <term ref="#tartari">Tartarorum</term> tubis primitus clangere et tangere cuncta exercitus instrumenta ac alta voce cantare,
+         et postmodum ad sonitum nachararum principis inchoare bellum […]», e <ref type="witlink" target="#v-null-40">V 40 11</ref> «Et essendo tute do le parte in ordene che niente non manchava, allora sonono molti
+         stromenti de molte maniere al’uxanza de <term ref="#tartari">Tartari</term> […]». <ref type="witlink" target="#vb-null-67">VB LXVII 16</ref> presenta un testo parzialmente rimaneggiato: «Ordinate le schiere per entranbe le
+         parte înstrumenti començò a sonare in tanta quantità che l’aiere parea che tremasse,
+         e incantadori a chantare (però che àno questa giente in chostuma di sonare et chantare
+         avanti vengano alla bataia per relegrare l’oste)». In L manca tale parte. </p>
+	<p>Z omette l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-45-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-45">
+      <note>
+	<p>Al netto di un <hi rend="italics">incipit</hi> originale («I <term ref="#tartari">Tartari</term> non stanno mai fermi») di probabile creazione ramusiana, R non è lontana, in forma
+         e sostanza, da <ref type="witlink" target="#f-null-68">F LXVIII 9</ref> «Les <term ref="#tartari">Tartars</term> demorent l’enver es plain et en leus chaut ou il aie erbajes et bon pasquor por lor
+         bestes; et la stee demorent en froit leus, en montagnes et en valés, la ou il treuvent
+         eives et boschajes et pasquor ‹por› lor bestes»): se ne differenzia soltanto per l’obliterazione
+         di minimi dettagli (il riferimento alle <hi rend="italics">boschajes</hi> e alle <hi rend="italics">valés</hi>) e per un <hi rend="italics">addendum</hi> sull’attività pastorizia dei <term ref="#tartari">Tartari</term> – «et ancho […] le bestie» – privo di riscontro nella tradizione. La prossimità testuale
+         a F e la presenza di un’aggiunta non altrimenti attestata suggeriscono che R dipenda
+         qui da Z1.</p>
+	<p>Tra le fonti di Ramusio, quella nel complesso più vicina agli sviluppi di F è <ref type="witlink" target="#l-null-60">L 60 1</ref> «Manent [<term ref="#tartari">Tartari</term>] enim in yeme in planiciebus et in locis calidis, ubi sit herba et pascua bona; estate
+         vero ad frigidioria se transferunt, in montibus et vallibus ubi habeant aquas et pascua
+         pro eorum bestiis conservandis».</p>
+	<p>Offrono una versione sensibilmente scorciata del testo di tradizione <ref type="witlink" target="#vb-null-56">VB LVI 1</ref> «Nel tenpo del’inverno tuti abitano nela pianura, per le cha‹n›pagne, per i lluogi
+         più chaldi dove i trovano l’erbe per suo’ animalli; e l’instate abitano nele valure
+         e nelle montagne», <ref type="witlink" target="#v-null-36">V 36 5</ref> «Or questi <term ref="#tartari">Tartari</term> d’inverno i se reduxe in le pianure et in li luogi chaldi, là che li possa aver erba
+         e pascholi per li lor anemali, et ezian ali boschi […]». Il fatto che V perda in traduzione
+         il passo sugli spostamenti delle greggi in estate è spiegabile con un <hi rend="italics">saut du même au même</hi> indotto dal sintagma *<hi rend="italics">pro eorum bestiis</hi> ipoteticamente presente nella fonte latina (che in effetti ha «bon pasquor por lor
+         bestes […] pasquor ‹por› lor bestes»). Pur conservando la sostanza, <ref type="witlink" target="#p-i-55">P I 55 1</ref> («<term ref="#tartari">Tartari</term> communiter greges multos nutriunt iumentorum et ovium, propter quod cum gregibus
+         suis morantur in pascuis: estate in montibus habitant et in locis frigidis, ubi pascua
+         et ligna sint; hyeme vero ad calidas se transferunt regiones, ubi invenire possint
+         pro animalibus pabulum») rielabora in maniera autonoma il dettato della fonte <ref type="witlink" target="#va-null-54">VA LIV 1-2</ref> «Li <term ref="#tartari">Tartari</term> demorano l’inverno al piano, in luogi chaldi, là ove i trova erba per soe bestie.
+         L’instade stano in montagnia in luogi fredi, in valle, ove i trovano boschi e pàscholi»
+         (pedissequa a un esemplare molto vicino a F).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

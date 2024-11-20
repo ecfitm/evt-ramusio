@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-1" n="1">
+    <head>
+      <hi rend="bold">R, III 1</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-1_1_1" n="1"> Dell’India Maggiore, Menor e Mezzana, et de’ costumi et consuetudini degli habitanti in quella, et molte cose notabili
+         et maravigliose che vi sono, et prima della sorte delle navi di quella. Cap. 1.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-1_2_1" n="1"> Poi c’habbiamo detto di tante provincie et terre, come havete udito di sopra, lascieremo
+         il parlar di quella materia et comincieremo a entrare nell’<term ref="#india">India</term>, per referire tutte le cose maravigliose che vi sono, principiando dalle navi de’
+         mercanti, le qual sono fabricate di legno di abiete et di zapino, et cadauna ha una
+         coperta sotto la qual vi sono piú di sessanta camerette, et in alcune manco, secondo
+         che le navi sono piú grandi et piú picciole, et in cadauna vi può stare agiatamente
+         un mercante. </seg>
+      <seg xml:id="r-iii-1_2_2" n="2"> Hanno un buon timone et quattro arbori con quattro vele, et alcune due arbori, che
+         si levano et pongono ogni volta che vogliono. </seg>
+      <seg xml:id="r-iii-1_2_3" n="3"> Hanno oltra di ciò alcune navi, cioè quelle che sono maggiori, ben tredici colti,
+         cioè divisioni dalla parte di dentro fatte con ferme tavole incastrate, di modo che,
+         s’egli accade che la nave si rompa per qualche fortuito caso, cioè o che ferisca in
+         qualche sasso o vero qualche balena mossa dalla fame quella percuotendo rompa (il
+         che spesse volte aviene), perché quando la nave, navigando di notte, faccendo innondare
+         l’acqua passa a canto la balena, essa, vedendo biancheggiar l’acqua, pensa di ritrovarvi
+         cibo et corre velocemente et ferisce la nave, et spesse fiate la rompe in qualche
+         parte, et allhora, entrando l’acqua per la rottura, discorre alla sentina, la qual
+         mai non è occupata d’alcuna cosa; onde i marinari, trovando in che parte è rotta la
+         nave, votano il <term ref="#colto">colto</term> negli altri che a quella rottura respondono, perché l’acqua non può passare d’un
+         <term ref="#colto">colto</term> all’altro, essendo quelli cosí ben incastrati, et allhora acconciano la nave, et
+         poi vi ripongono le mercantie ch’erano stà cavate fuori. </seg>
+      <seg xml:id="r-iii-1_2_4" n="4"> Sono le navi inchiavate in questo modo: tutte sono doppie, cioè che hanno due mani
+         di tavole una sopra l’altra intorno intorno, et sono calcate con stoppa dentro et
+         di fuori et inchiodate con chiovi di ferro; non sono impegolate, perché non hanno
+         pece, ma la ungono in questo modo: tolgono calcina et canapo et taglianlo minutamente,
+         et pestato il tutto insieme mescolano con un certo oglio di arbore, che si fa a modo
+         d’un unguento, ch’è piú tenace di vischio et miglior che la pece. </seg>
+      <seg xml:id="r-iii-1_2_5" n="5"> Queste navi che sono grandi vogliono trecento marinari, altre dugento, altre centocinquanta,
+         piú et manco, secondo che sono piú grandi et piú picciole, et portano da cinque in
+         seimila sporte di pevere. </seg>
+      <seg xml:id="r-iii-1_2_6" n="6"> Et già per il passato solevano esser maggiori che non sono al presente, ma, havendo
+         l’empito del mare talmente rotto l’isole in molti luoghi, et massime nei porti principali,
+         che non si trovava acqua sofficiente a levar quelle navi cosí grandi, però sono state
+         fatte al presente minori. </seg>
+      <seg xml:id="r-iii-1_2_7" n="7"> Con queste navi si va ancho a remi, et cadauno remo vuol quattro huomini che ’l voghi;
+         et queste navi maggiori menano seco due et tre barche grandi, che sono di portata
+         di 1000 sporte di pevere et piú, et vogliono al suo governo da sessanta marinari,
+         altre da ottanta, altre da cento. [8] Et quelle piú picciole aiutano spesso a tirare le grandi con corde quando vanno a
+         remi, et an|chora |50r| quando vanno a vela, se il vento è alquanto da traverso, perché
+         le picciole vanno avanti le grandi e, legate con le corde, tirano la nave grande;
+         ma se hanno il vento per il dritto no, perché le vele della maggior nave impedirebbono
+         che ’l vento non ferirebbe nelle vele delle minori, et cosí la maggiore andarebbe
+         adosso alle minori. [9] Item queste navi conducono ben dieci battelli piccioli per l’ancora, et per cagione
+         di pescare et di far tutti li servigii, et questi battelli si legano di fuori dei
+         lati delle navi grandi, et quando vogliono si mettono in acqua; et le barche similmente
+         hanno li suoi battelli. [10] Et quando vogliono racconciar la nave, poi che ha navigato un anno o piú, havendo
+         bisogno di concia li ficchano tavole a torno a torno sopra le due prime tavole, di
+         modo che sono tre man di tavole, et le calcano et ungonle; et volendole pur racconciare
+         un’altra volta le ficchano di nuovo un’altra man di tavole, et cosí procedono di concia
+         in concia fino al numero di sei tavole l’una sopra l’altra, et da lí in su la nave
+         si manda alla mazza né piú si naviga con quella per mare. [11] Hor, havendo detto delle navi, diremo dell’<term ref="#india">India</term>; ma prima vogliamo dire d’alcune isole che sono nel <term ref="#mare-oceano">mare Oceano</term>, dove siamo al presente, et cominciaremo dall’isola chiamata <term ref="#zipangu">Zipangu</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

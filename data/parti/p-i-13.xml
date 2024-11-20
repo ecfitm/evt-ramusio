@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-13">
+    <head>
+      <hi rend="bold">P, I 13</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-13_2_1" n="1"> <term ref="#armenia">Armenia Maior</term> <term ref="#tartari">Tartaris</term> tributaria maxima provincia est, multas habens civitates et oppida; civitas metropolis
+         dicitur <term ref="#arcingan">Artingua</term>, ubi fit optimum <term ref="#bochassini">buchiranus</term>. </seg>
+      <seg xml:id="p-i-13_2_2" n="2"> Ibi scaturiunt ferventes aque in quibus sunt peroptima balnea. </seg>
+      <seg xml:id="p-i-13_2_3" n="3"> Due principaliores
+         civitates post Artinguam sunt <term ref="#argiron">Argiron</term> et <term ref="#darzizi">Darcirim</term>. </seg>
+      <seg xml:id="p-i-13_2_4" n="4"> In estate ibi multi habitant <term ref="#tartari">Tartari</term> cum gregibus et armentis, quia pascua habent uberrima; in hyeme vero discedunt propter
+         maximas nives. </seg>
+      <seg xml:id="p-i-13_2_5" n="5"> In montibus huius <term ref="#armenia">Armenie</term> est archa Noe. </seg>
+      <seg xml:id="p-i-13_2_6" n="6"> Provincia hec versus orien|tem <hi rend="italics">|</hi>8c<hi rend="italics">| </hi>affinis est provincie <term ref="#moxul">Mosul</term>, ad aquilonem vero affinis est provincie Çorçanorum. </seg>
+      <seg xml:id="p-i-13_2_7" n="7"> In confinio huius provincie,
+         ad aquilonem, fons unus magnus est ex quo liquor quidam scaturit oleo similis, pro
+         cibo quidem inutilis, sed pro unctionibus et lampadibus optimus; omnes naciones affines
+         hoc liquore pro unctionibus et lampadibus utuntur; tanta enim de fonte emanat huius
+         liquoris copia, ut de ipsa naves centum aliquando onerentur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

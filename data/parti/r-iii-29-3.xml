@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-29-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-29">
+      <note>
+	<p>L’ordine in cui i fatti sono presentati è il primo criterio che permette di riconoscere
+         l’antigrafo di Ramusio in <ref type="witlink" target="#p-iii-35">P III 35 2</ref>: «In hoc regno sunt pirrate maiores qui in mundo sint: quando ipsi in mare capiunt
+         mercatores dant eis bibere tamarendos cum aqua maris, propter quod mercatores fluxum
+         ventris continuo patiuntur; hoc autem ideo faciunt quia mercatores videntes a longe
+         pirratas consueverunt margaritas et preciosos lapides deglutire; per hunc igitur modum
+         pirrate omnia habent et illi nichil omnino abscondere possunt». In P, dunque, abbiamo
+         “(1) cattura dei mercanti; (2) imposizione della bevanda; (3) spiegazione analettica
+         dell’imposizione”.  Questo è – come si vedrà – l’<hi rend="italics">ordo </hi>originale; il segmento (3) è posto in prima posizione (eliminando quindi l’analessi)
+         in <ref type="witlink" target="#z-null-117">Z 117 4-8</ref>: «In isto regno sunt etiam perfidiores pirate de mundo, qui observant modum quem
+         vobis dicemus. Quando vero mercatores transituri sunt per partes ubi pirate prediccti
+         conversantur in mari, et haben perulas et lapides preciosos, ne sibi rapiantur a piratis
+         ipsis, eos deglutiunt. Et si capiebantur, perdebant aliqua mercimonia, et lapides
+         conservant isto modo; quia, statim cum pirate arripuerant que invenerant, ipsos mercatores
+         dimiteba‹n›t abire. Sed quia nunc pirate sunt affecti de malicia, statim cum naves
+         ceperint, et lapides et perulas non inveniant, dant mercatoribus ad bibendum medecinam
+         quamdam nomine tamarendi et aquam marinam simul. Quare, statim lapides et perulas
+         cum digestione egerunt vel evomunt, et tunc pirate recoligunt ipsos; et sic nullo
+         modo posunt evadere mercatores quin si caperentur omnia perdant».</p>
+	<p>Pipino traduce alla lettera VA CXLV 4-6 «E in questo regniame è i mior chorsari che sia al mondo; i fano una chotalle malvaxità:
+         quando i prendeno i mechadanti, i dàno a bevere thamarendi in aqua de mar, sì che
+         li merchadanti àno sì gran fluso  che non li roman niente in corpo. Questo fano perché
+         i merchadanti soleano ingiotir perlle prezioxe spesse fiate quando i vedeno che i corsari i vienno a prender. E a questa
+         chaxion non pò schanpar niente i merchadanti». VA-P (e quindi R: è il secondo criterio)
+         sopprimono non solo la transizione di EGO, ma pure quella relativa ai pirati («i pirati
+         dicono…») attestate in F CLXXXIII 3: «Il sunt encore en ceste rengne les greingnor corsaus dou monde, et si voç di qu’il
+         font une tel mauvesie com je voç dirai. Car sachiés qe quant cesti mauveis corsaus
+         prennent les mercaant, il donent elz a boir tamarendi et eive de mer, si qe les mercaant
+         vont mout desout et gittent tout ce qe il ont en ventre. Les corsaus font toillir
+         tout ce qe les mercaant gitent desout e le font cerchier se il hi a perles ou aucune
+         autre pieres presioses, car les corsaus dient qe, quant les mercaant sunt pris, qe
+         il menjuent les perles e les autre chieres pieres, por ce que les corçaus ne les trouvent.
+         E por ce celz mauvés corsaus donent as mercaant celz bevraje por celz malesie che
+         je voç ai contés» (si allinea a F V 100 3-4: «Et in questo reame sono i mazor laroni del mondo, et oservano el modo ch’io ve
+         ò dito: quanto i branchano i marchadanti i ge dà a manzar tamaro e aqua marina, azò
+         che i marchadanti zita zo che i àno entro el ventre; et questi ladroni archoie tuto
+         quello che i chaga, et si fa zerchar s’i chata perle o piere prezioxe. Et questi chorseri
+         dixeno che quando i marchadanti vien piadi l’ingioteno perle e piere prezioxe, donde
+         i marchadanti che vieno piadi, molti ingiote perle e piere prezioxe per paura de queli
+         robadori; e per questa chaxon queli zerchava i·llo so stercho, e trovava tuto quello
+         che li avea ingiotido». Il resoconto di VB CLIII 4-5 replica l’ordine originale, in forma abbreviata: «Sono in questo reame assai corsari
+         robadori crudelli e rei. Quando prendeno i marchadanti i ge dano a bere aqua con tamarendi
+         i quali fano usar molto di corpo e poi nelle fece cerchano, però che i credeno quei
+         merchanti avere ingiotitto perlle o altre çoie». Drasticamente ridotto alla mera constatazione
+         L 170 2 «[…] et sunt adhuc maxime pirate».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

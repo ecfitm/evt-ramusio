@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-12">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-12_1_1" n="1"> Comant les .II. frers alent a l’apostoile de Rome.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-12_2_1" n="1"> Et quant il furent venu ad <term ref="#acre">Acri</term>, il s’en alent a meser l’apostoille et se humilent mout ver lui. </seg>
+      <seg xml:id="f-null-12_2_2" n="2"> Meser l’apostoille
+         les recevi honoreemant et lor done sa bene‹di›sion et fait lor joie et feste. Adonc
+         l’apostoile donet a meser Nicolau et a meser Mafeu deus fre|7a|res prechëors qe bien
+         estoient les plus sajes que en tute celle provence fuissent l’une avoit nome frer<term ref="#nicolo-da-vicenza"> Nicolau de Vicense</term>, l’autre avoit nome frere <term ref="#guielmo-da-tripoli">Guilielme de Tripule</term>. </seg>
+      <seg xml:id="f-null-12_2_3" n="3"> Il done elz brevilejes et carte et sa enbasee de ce qu’il voloit mander au <term ref="#gran-can">Grant Kaan</term>. </seg>
+      <seg xml:id="f-null-12_2_4" n="4"> Et quant meser Nicolau et meser Mafeu et les deus freres prescëor ont recevu
+         les brevile‹j›es et le carte et l’anbaxae de mesere l’apostoille, il se font doner
+         sa benedicion, puis se partirent tuit e quatre, e com elç March le fil mesere Nicolau;
+         il s’enn’alent tot droit a <term ref="#giazza">Laias</term>. </seg>
+      <seg xml:id="f-null-12_2_5" n="5"> Et quant il furent la venus, adonc <term ref="#benhochdare">Bondocdaire</term>, qe <term ref="#soldan">soldan</term> estoit de <term ref="#babilonia">Babeloine</term>, vent en <term ref="#armenia">Arminie</term> con grande hoste et fait grande domajes por la contree. Et ceste mesajes furent en
+         aventure d’estre mors. </seg>
+      <seg xml:id="f-null-12_2_6" n="6"> Et quant les deus frers prescäor virent ce, il ont grant
+         dotance d’aler plus avant; adonc distrent que il ne iront mie: il donent a mesere
+         Nicolau et a meser Mafeu tous les brevile‹je›s et carthe k’il avoient et se partirent
+         d’elz et s’en alent avec le mestre deu tens.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

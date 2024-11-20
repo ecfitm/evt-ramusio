@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-15-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-15">
+      <note>
+	<p>Nel solito preciso rispecchiamento formale delle linee di F (<ref type="witlink" target="#f-null-36">F XXXVI 3-4</ref> «Et quant l’en a desendue ceste clinee, il treuve un autre plain molt bels, et est
+         appellés le plain de <term ref="#ormus">Formose</term>: il dure deus jornee de lonc. Il hi a bielles riveres et datal aséç; hoisiaus hi
+         a, franculin et papagaus et autres oisiaus que ne sunt senblable as nostres»), il
+         testo di R può essere ricondotto a Z1, pure in assenza della lezione toledana.  Qualche punto di contatto esiste anche
+         tra la seconda parte della pericope di R e <ref type="witlink" target="#v-null-20">V 20 20</ref> «Et sono in quela molti datali, et trovasse molti francholini e papagà et molti altri
+         oxeli li qualli non someia ali nostri»: si tratta di una coincidenza in minime tessere
+         lessicali («trovansi» R<hi rend="italics"> /</hi>«trovasse» V, «molti altri uccelli» R /«molti altri oxeli» V), spiegabile con il fatto
+         che a monte di V dovette esserci qui un testo latino (Simion 2011, p. 34) forse non
+         distante dallo Z ramusiano.</p>
+	<p>Sostanzialmente coerenti con il dettato francoit. sono anche le altre fonti di R:
+         <ref type="witlink" target="#l-null-30">L 30 1-2</ref> «[…] et tunc invenitur alia planities pulcra valde dicta <term ref="#ormus">Planum Formose</term>; et durat duabus dietis. Et sunt ibi pulcra flumina, et dactili multi; et aves multe:
+         francholini, papagalli et quam plures aves dissimiles a nostris multum»; <ref type="witlink" target="#p-i-23">P I 23 2-3</ref> «Post hec pervenitur ad campestria pulcherrima, longitudinis duarum dietarum et dicitur
+         locus ille <term ref="#ormus">Formosa</term>, ubi sunt fluvii et aque multe et multe palme. Ibi sunt in copia maxima francolini,
+         papagalli avesque alie diversarum specierum que citra mare non habentur»; <ref type="witlink" target="#vb-null-22">VB XXII 24-25</ref> «Et deseso sì se trova un bellisimo piano chiamato el <term ref="#ormus">Piano de Formose</term> et dura alla longa .II. giornate; trovase molto belle rivere, et abondancia de datalli.
+         È nobelisimo paise de oxelli e falchoni: sono papagalli assai et alltri ocelli sença
+         numero» (la lezione <hi rend="italics">falchoni</hi> è evidentemente <hi rend="italics">facilior</hi> che muove da un malcompreso <hi rend="italics">francolini</hi>). Sul toponimo «Formosa» vd. il lemma <term ref="#ormus">Ormus</term><hi rend="italics">.</hi></p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-29-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-29">
+      <note>
+	<p>Ramusio traduce letteralmente <ref type="witlink" target="#z-null-25">Z 25 2</ref> «Provincia magna est, et in ea multe sunt civitates et castra, quarum <term ref="#caschar">Cascar</term> est nobilior atque maior», in tutto corrispondente a <ref type="witlink" target="#f-null-50">F L 3</ref> («[…] il hi a viles et cha{u}stiaus assez et la greingnor cité et la plus noble est
+         <term ref="#caschar">Cascar</term>; et sunt ausi entre grec et levant») meno che nel piccolo <hi rend="italics">ajout</hi> iniziale («Provincia magna est») e nella lacuna finale in corrispondenza delle coordinate
+         geografiche, che probabilmente Z1 conservava (ma Ramusio avrebbe comunque potuto desumerle da un'altra qualsiasi delle
+         sue fonti).</p>
+	<p>A dispetto del suo modello volgare (vd. <ref type="witlink" target="#va-null-37">VA XXXVII 3-4</ref>) P manca di queste informazioni, che <ref type="witlink" target="#l-null-45">L 45 1</ref> disloca in apertura («<term ref="#caschar">Cascar</term> est provincia inter grecum et oriens, in qua sunt multe civitates et castra; et nobilior
+         e‹arum› est <term ref="#caschar">Cascar</term>»), mentre in V e VB seguono, nella disposizione e nella lettera, la lezione francoit.:
+         vd. <ref type="witlink" target="#v-null-27">V 27 2</ref> «Et in questa provinzia sono molte zitade e chasteli, dele qual <term ref="#caschar">Chaschar</term> sono la più nobele e la mazor; et sono in griego e levante», <ref type="witlink" target="#vb-null-33">VB XXXIII 2</ref> «[…] ànno citade e più chastelli soto sì, ma la maçor e più nobelle è <term ref="#caschar">Chaschar</term> et è fra griego e llevante».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

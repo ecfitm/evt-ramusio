@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-36-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>A parte una piccola omissione («aliqua per centum quinquaginta, et plus et minus»)
+         R segue fedelmente Z, che differisce sensibilmente da quella del resto della tradizione:
+         Z 53 9-10 «Flumina ista larga sunt aliqua per dimidium miliare, aliqua per ducentos passus,
+         aliqua per centum quinquaginta, et plus et minus; et sunt valde profunda. Super ista
+         flumina sunt quam plures pontes constructi de lapidibus, valde pulcri et magni, latitudo
+         quorum est octo pasuum, longitudo vero secundum quod flumina ampla sunt, et plus et
+         minus»; vs. <ref type="witlink" target="#f-null-113">F CXIII 7</ref> «[…] il est large bien dimi mil; il est bien parfont […]» / <ref type="witlink" target="#f-null-113">F CXIII 12-13</ref> «Et vos dirai d’un grant pont qe est dedens la ville desus cest grant flum. Le pont
+         est tout de pieres et est large bien .VIII. pas et lonc dimi mil, si com je vos ai
+         dit que le flum est large»; <ref type="witlink" target="#l-null-93">L 93 3-4</ref> «[…] quod est magne profunditatis, et latitudinis quingentorum passuum […] Et est
+         in hac civitate maximus pons lapideus super hoc flumen, latus passibus .VIII. cohopertusque
+         per totum»; <ref type="witlink" target="#p-ii-35">P II 35 3</ref> «[…] qui latus est per dimidium miliare profundus etiam valde, et in eo multi pisces
+         capiuntur» / <ref type="witlink" target="#p-ii-35">P II 35 6</ref> «In civitate <term ref="#sindinfu">Syndinfa</term> super ipsum fluvium est pons lapideus, cuius longitudo est per dimidium miliare,
+         latitudo vero ipsius est passuum octo […]»; V 55 4 «[…] et sono largo ben mezo mio, ed è molto profondo […]» / V 55 7 «Et non par flume ma mar, ed è sì largo chomo io ve dirò: el ponte ch’è in la zitade
+         sopra el fiume sì è de pietra, el qual sono largo hoto passa, e de largeza mezo mio,
+         chomo io ve ò dito […]»; <ref type="witlink" target="#vb-null-80">VB LXXX 4-5</ref> «[…] però che ’l fiume è molto largo e prefondo […]. E nela citade è uno ponte che
+         passa el fiume […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

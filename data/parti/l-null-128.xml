@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-128</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-128">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 128</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-128_2_1" n="1"> Dietis tribus statim a dicta civitate – ubi adsunt quam plures nobiles civitates
+         et castra, in quibus sunt <term ref="#idolatri">ydolatre</term>, habentes monetam ex cartis (et sunt mercatores et artiste, et habent ex omnibus
+         victualibus habundanter) –, tunc est valde nobilis civitas dicta <term ref="#quinsai">Quinsay</term>, quod sonat in latino “Civitas celi”; et vere nusquam melior et nobilior civitas
+         invenitur. </seg>
+      <seg xml:id="l-null-128_2_2" n="2"> Eius autem nobilitas scita est in curia <term ref="#gran-can">Magni Canis</term>. Dum enim obsideretur ab exercitu <term ref="#gran-can">Magni Canis</term>, regina, sperans quod pietate motus <term ref="#gran-can">Magnus Canis</term> non sineret destrui tam pulcram et nobilem civitatem, eius conditiones scribere proposuit
+         in hunc modum. </seg>
+      <seg xml:id="l-null-128_2_3" n="3"> Civitas <term ref="#quinsai">Quinsay</term> circuit miliaria .C., et sunt in ea .XIIm. pontes lapidei: et pro maiori parte posset libere transire sub arcu pontis magna
+         navis, et sub reliquis ‹transiret› minor navis. </seg>
+      <seg xml:id="l-null-128_2_4" n="4"> Et sunt iterum in ea .XII. artes
+         diverse, et quelibet ars habet .XIIm. habitationes; et in qualibet habitatione sunt .X. homines ad minus – et alicubi
+         .XV., alicubi .XX., alicubi .XXX. vel .XL. – qui licet omnes non sint magistri, sunt
+         tamen eis servientes. Principales vero stationum, tam viri quam mulieres, nichil laborant,
+         sed manent sollempniter imperantque aliis ut laborent. </seg>
+      <seg xml:id="l-null-128_2_5" n="5"> Et a parte meridiei huius
+         civitatis est lacus circuitus miliariorum .XXX., circa quem sunt quam plurima pulcra
+         pallatia et monasteria quedam ydolorum; et in medio lacu sunt due insule, cum duobus
+         imperialibus pallaciis. </seg>
+      <seg xml:id="l-null-128_2_6" n="6"> Hoc autem, et longe plurima quam scribantur, ‹oculata
+         fide› vidit dominus Marchus Paulo, qui fuit huius operis ordinator. </seg>
+      <seg xml:id="l-null-128_2_7" n="7"> Neque miretur
+         aliquis de tanta pontium quantitate: est ‹enim› tota hec civitas in aqua sita totaque
+         circumdata aquis, quare per totam civitatem intus et extra oportet transire per pontes.
+         </seg>
+      <seg xml:id="l-null-128_2_8" n="8"> Gentes sunt <term ref="#idolatri">ydolatre</term>, habentes monetam de cartis; et sunt mercatores maximi et artiste. Est enim ibi talis
+         ordinatio quod oportet quamlibet artem parentum semper facere, quantumcumque sit dives.
+         [9] Comedunt hii quascumque carnes, nedum ex canibus. [10] In civitate est mons ubi
+         est turris alta, toti predominans civitati. [11] Et est principalis civitas, et sedes
+         tocius regni de <term ref="#mangi">Mangi</term>. [12] Vie autem huius civitatis omnes sunt lapidibus cooperte: similiter eciam omnes
+         vie tocius provincie de <term ref="#mangi">Mangi</term>, ut tam equites quam pedites quocumque tempore comode perambulare possint. [13] Suntque
+         in civitate predicta tria milia magna balnea artificialia, scilicet stufe pulcherrime
+         et magne: in una enim bene .C. homines comode balneari possent; et hiis multum utuntur,
+         quia nitide valde vivunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

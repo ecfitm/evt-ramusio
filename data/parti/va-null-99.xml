@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-99</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-99">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XCIX</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-99_2_1" n="1"> Quando l’omo se parte de questa provinzia de <term ref="#carazan">Charaian</term>, el truova una grandenisima desexa per la qual l’omo vano ben do zornate e meza pur
+         al declino. </seg>
+      <seg xml:id="va-null-99_2_2" n="2"> E non ge n’è abitaxione, ma ad uno luogo, là o’ se fa fiera e merchato
+         tre dì della setemana, e vien de molta zente dale montagnie. </seg>
+      <seg xml:id="va-null-99_2_3" n="3"> A quela fiera aduxeno
+         oro per chanbiar in arzento, e i merchadanti d’altre chontrà gli aduxeno l’arzento
+         et tuò de questo oro; e fa-ne gran guadagnio perché i àno uno sazio d’oro per zinque
+         d’arzento. </seg>
+      <seg xml:id="va-null-99_2_4" n="4"> Quelle zente che aduxeno l’oro abitano per soa signioria in luogi altisimi
+         e forti, et sono sì diversati luogi che non ’de va mai niuno se non egli, sì che l’altra
+         zente non sano dove i abitano.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-99_3_1" n="1"> Quando l’omo à chavalchato de quelle do zornate e meza, el truova la provinzia
+         de <term ref="#mien">Mien</term>, la qual chonfina chon l’<term ref="#india">India</term> inversso mezodì. </seg>
+      <seg xml:id="va-null-99_3_2" n="2"> L’omo va quindexe zornade per molta salvadega [cont]rada e per
+         molti boschi, là dove è molti elinfanti, elichorni e altre bestie salvadege asai.
+         </seg>
+      <seg xml:id="va-null-99_3_3" n="3"> In quela contrà salvadega nonn è abitazion.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

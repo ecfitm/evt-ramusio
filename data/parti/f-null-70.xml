@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-70</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-70">
+    <head corresp="#f_body">
+      <hi rend="bold">F, LXX</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-70_1_1" n="1"> Ci devise dou plain de <term ref="#bargu">Bangu</term> e des deverses costumes des jens.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-70_2_1" n="1"> Et quant l’en s’en part de <term ref="#caracoran">Caracoron</term> e de <term ref="#altai">Alcai</term>, la ou il se metent les cors des <term ref="#tartari">Tartars</term> ensi com je vos ai contés en arieres, il ala puis por une contrés ver tramontane
+         que est apellé le plain de <term ref="#bargu">Baigu</term>, et dure bien .XL. jornee. </seg>
+      <seg xml:id="f-null-70_2_2" n="2"> Les jens sunt apellés <term ref="#mecriti">Mecri</term> et sunt sauvaje jens; il vivent des bestes, et les plusors sunt cerf, et voç di qu’il
+         chavauchent les cerf. </seg>
+      <seg xml:id="f-null-70_2_3" n="3"> Uçance et costumes ont come <term ref="#tartari">Tartars</term> et il sunt au <term ref="#gran-can">Grant Can</term>. </seg>
+      <seg xml:id="f-null-70_2_4" n="4"> Il ne ont bles ne vin. </seg>
+      <seg xml:id="f-null-70_2_5" n="5"> L’esté ont venesion et chachajonz de bestes et d’ousiaus
+         asseç, mes en yver ne i demore nulle beste ne osiaus por le grant froit. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-70_3_1" n="1"> Et quant l’en ‹a› alee .XL. jornee, adonc treuve l’en la <term ref="#mare-oceano">mer Osiane</term>. </seg>
+      <seg xml:id="f-null-70_3_2" n="2"> Et iluec il ont montagne, la o li fauchonz pelerin ont lor nid, car sachiés
+         qu’il n’i a homes ne femes ne bestes ne osiaus for che une mainere d’osiaus qe sunt
+         apelés bargherlac, des qeles les fauconz se passent: il sunt grant come perdis, il ont fait les piés
+         come papagaus, la coe come rondiaus, il sunt mout volant. [9] Et quant le <term ref="#gran-can">Grant Kaan</term> vuelt des fauconz, ni de ces pellerin, il mande jusque la por elz. [10] Et en l’isle
+         que sunt en cel mer environ naisent|30c| les jerfaucz. [11] Et si voç di voiramant
+         qe ceste leu est tant ver tramontaine que la stoille de tramontaine remaint auques
+         en deriere ver midi. [12] Et encore voç di que les jerfauc{he}z qe naisent en l’isle
+         que je vos ai dit desovre sont en si grant habundance que le Grant Chan en ha tant quant il ne vuelt, et ne entendés que celz qe l’aportent de tere de cristiens
+         as <term ref="#tartari">Tartarç</term> les portent au Grant Chan, mes les portent au levant ad <term ref="#argon">Argon</term> et a celz seingnors dou Levant. </seg>
+    </p>
+    <p n="4"/>
+  </div>
+</body>
+</text>
+     </TEI>

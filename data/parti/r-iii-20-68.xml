@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-68</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La pericope è l’esito della versione/manipolazione di<ref type="witlink" target="#p-iii-28"> P III 28 1</ref> «In provincia <term ref="#malabar">Maabar</term> omnes habitatores loci, viri et mulieres, nigri sunt, non tamen sic omnino nascuntur
+         sed arte superaddunt sibi nigredinem magnam propter decorem: ungunt enim omnes parvulos
+         ter in ebdomada cum oleo de sosiman et ex hoc efficiuntur nigerimi valde; eum autem
+         pulcriorem reputant qui nigrior fuerit» (rielaborazione di VA CXXXIX 15 «La zente de quella contrà è tuta negra, e ben è vero che i naseno bianchi, ma i
+         onzeno i fantini ogni setemana tre fiade chon oglio de susiman, e quella onzione i
+         fano deventar plui negri che i non sono: quello ch’è plui negro è reputà plui bello»).</p>
+	<p>Z 109 38-40 «Nunc dicemus ult‹er›ius de aliis rebus. Cum enim nascuntur, pueri vel puele, nascuntur
+         nigri, sed non ita nigri quemadmodum postea eficiuntur. Quia, quando infans natus
+         est, ungunt ipsum semel in ebdomada cum oleo susimani; et illud est quod eos eficit
+         ‹magis› nigros quam nascuntur, quoniam ille qui nigrior est pluri libet pulcritudine
+         et retinetur aliis melior qui non sunt ita nigri» rielabora F CLXXV 17-18 «Or vos avon conté de <term ref="#san-tommaso">saint Tomeu</term>, et adonc voç conteron avant des autres couses. Il est voir que quant les enfanz
+         est nes, il l’ongnent ogne semaine une foies con oleo de sosiman, et celes font devenir
+         plus noir que il ne naiscent d’aseç, car je voç di qe celui qui est plus noir est
+         plus precious de le autres et est tenu meior qe les autres que ne i sunt si noir»
+         (aderisce a F pure la lezione di V 93 14-16 «Or abiamo dito de San Tomao; ed ora anderemo più avanti ale lasate chosse. Quando nasseno i puti o le pute nasero,
+         mo no sì negri chomo deventa dapuo’: che quando el garzon sono nassudo i l’onze una
+         volta ala doman chon hoio de susiman, et quelo sono che li fa più negri. Et quello
+         che sono più negro sono reputà più belli, et vien tegnudo mior dei altri che non sono
+         negri»). Si mantegono sullo stesso tenore informativo L 163 8 «Huius regionis gentes nigre sunt, tamen artificialiter nigriores efficiuntur. Infantem
+         enim, postquam natus est, oleo sisamino inungunt qualibet septimana; qua re nigrior
+         fit. Quanto enim quis nigrior est tanto maxime appreciatur», e  VB CXLV 13 «In questo paexe tuti nascono negri, non però sì negri come dapoi i ssono e questo
+         che, poi che i sono nati, i lli ongeno de ollio de sussimano e quello i fano vegnir
+         più negri, però che i tengono quanto i ssono più neri tanto i ssiano più belli e più
+         sono apresiadi».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

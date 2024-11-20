@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-72</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-72" n="1">
+    <head>
+      <hi rend="bold">R, II 72</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-72_1_1" n="1"> Della città di <term ref="#gengui">Gengui</term> et di <term ref="#zengian">Zengian</term>. Cap. 72.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-72_2_1" n="1"> Andando piú oltra due giornate, si trova la città di <term ref="#gengui">Gengui</term>, la qual è molto bella et grande; et dapoi, camminando per <term ref="#sirocco">sirocco</term>, trovando sempre luoghi habitati et tutti pieni di genti che fanno arti et lavorano
+         la terra, et in questa parte della provincia di <term ref="#mangi">Mangi</term> non si trovano montoni, ma sí ben buoi, vacche, buffali, capre et porci in grandissimo
+         numero. </seg>
+      <seg xml:id="r-ii-72_2_2" n="2"> In capo di quattro giornate, si trova la città di <term ref="#zengian">Zengian</term>, edificata sopra un monte, che è come una isola in mezzo un fiume, perché la diparte
+         in duoi rami, che la circonda, et poi corrono all’opposito l’un dell’altro, cioè uno
+         verso <term ref="#sirocco">sirocco</term> et l’altro verso <term ref="#maestro">maestro</term>. </seg>
+      <seg xml:id="r-ii-72_2_3" n="3"> Questa città è sottoposta al <term ref="#gran-can">Gran Can</term> et risponde a <term ref="#quinsai">Quinsai</term>; <term ref="#idolatri">adorano gl’idoli</term> et vivono di mercantie, et hanno gran copia di salvaticine et uccelli. </seg>
+      <seg xml:id="r-ii-72_2_4" n="4"> Et passando avanti tre giornate per una bellissima contrada, tutta habitata, con
+         infinite ville et castelli, si trova la città di <term ref="#gieza">Gieza</term>, nobile et grande: et è l’ultima della provincia del regno di <term ref="#quinsai">Quinsai</term>, perché quello è il capo al qual tutte correspondono. </seg>
+      <seg xml:id="r-ii-72_2_5" n="5"> Passata questa città di
+         <term ref="#gieza">Gieza</term> s’entra in un altro regno delli nove della provincia di <term ref="#mangi">Mangi</term>, detto <term ref="#concha">Concha</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

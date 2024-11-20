@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-6-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>Il testo di R risulta in gran parte coincidente con quello di V e, soprattutto, di
+         F: <ref type="witlink" target="#v-null-41">V 41 21</ref> «[…] et la salla sono larga e granda (R «grande et larga») ch’el poria manzar più
+         de siezento persone»;<ref type="witlink" target="#f-null-83"> F LXXXIII 21</ref> «La sale est si grant et si larges [R «tanta grande et larga»] qe bien hi menjuerént
+         plus de .VIm. homes […]». Più sintetiche sono le versioni di <ref type="witlink" target="#l-null-68">L 68 5</ref> «[…] Et habet ‹hoc› pallatium salam maximam capacem bene .VIm. hominum in convivio […]» e di <ref type="witlink" target="#p-ii-9">P II 9 5</ref> «In aula maiori sedent ad mensas simul et semel circiter sex milia hominum […]».
+         In VB e Z manca l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-17-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-17">
+      <note>
+	<p>Ramusio traduce alla lettera <ref type="witlink" target="#z-null-104">Z 104 1</ref> «Cum vero discedendo a <term ref="#giava">Çava</term> et regno <term ref="#lambri">Lanbri</term> est circa centum et quinquaginta miliaria navigatum versus tramontanam, inveniuntur
+         due insule, una quarum vocatur <term ref="#nocueran">Necuveran</term>» (resa a sua volta letterale di F CLXX 2 «Quant l’en se part de <term ref="#giava">Java</term> e dou roiame de <term ref="#lambri">Lanbri</term> e il vait por t‹r›amontana entor .CL. miles, adonc treve l’en .II. ysles, qe le une
+         est apellé <term ref="#nocueran">Necuveran</term> […]»). Si noti che la dittologia ramusiana «[…] una delle quali si chiama <term ref="#nocueran">Nocueran</term> et l’altra <term ref="#angaman">Angaman</term>» è dettaglio assente nella linea F-Z, e recuperato da P III 20 1 «Post recessum autem ab insula <term ref="#giava">Iana</term> ex parte regni <term ref="#lambri">Lambri</term> proceditur per mare ad .CL. miliaria et inveniuntur insule due, scilicet <term ref="#nocueran">Necuram</term> et <term ref="#angaman">Angaman</term>» (e attestato in VA CXXXIV 1 «Quando l’omo se parte del’ixola de <term ref="#giava">Iava</term> e del regniame de <term ref="#lambri">Lanbri</term> e ’l va zento e zinquanta meglia per tramontana, el truova do ixolle, l’una à nome
+         <term ref="#nocueran">Nechu‹ve›ran</term> e l’altra <term ref="#angaman">Angama</term>» – e da VA viene a P l’omissione della qualificazione spaziale “circa”). Gli altri
+         relatori si attestano sulla linea F-Z: L 157 1 «A regno <term ref="#lambri">Lambri</term>, quod est in insula <term ref="#giava">Java</term>, circa .Vc. miliaribus versus septemtrionem eundo, inveniuntur due insule, una quarum dicitur
+         <term ref="#nocueran">Neucuveran</term>»; V 88 1 «‹Q›uando el se parte da <term ref="#giava">Iana</term>, del reame de <term ref="#lambri">Lanbrin</term> el se va per tramontana zercha mia zento e sesanta, e trovasse una ixolla chiamata
+         <term ref="#nocueran">Nachuvaian</term>»; VB CXL 1 «‹P›artendosi dal’isolla chiamata <term ref="#giava">Jana</term> del reame de <term ref="#lambri">Abren</term> e navigi per tramontana cercha migia .CL., trovase .II. isolle dele quale l’una s’apella
+         <term ref="#nocueran">Necoran</term>, dela qual voio parlare».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

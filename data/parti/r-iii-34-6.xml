@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-34-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-34">
+      <note>
+	<p>P III 37 7 «Viri insule illius regem non habent, sed episcopum suum pro domino recognoscunt;
+         sunt etiam subiecti episcopo de <term ref="#soccotera">Scoyra</term> et habent proprium ydeoma» traduce VA CXLVII 11 (conservandone la posizione conclusiva): «I non àno altra segnioria se non che i
+         àno per signior uno veschovo ch’è sotoposto alla chorte del vescovo di <term ref="#soccotera">Schoira</term>» (il relatore quattrocentesco VA3 pare incompleto rispetto al modello a disposizione di P). «regem» è invenzione di
+         P per estensione analogica di VA «segnioria», che peraltro non si discosta da F CLXXXVIII 6 «Il ne ont segnor for que un eveschevo qe encore est sotpost a l’arcevesche{qe} de
+         <term ref="#soccotera">Scotra</term>. Il ont langajes por elz» («regem» torna pure in L 175 2 «[…] et non habent regem neque dominum temporalem, nisi quendam suum archiepiscopum,
+         qui tamen suppositus est archiepiscopo de <term ref="#soccotera">Scotra</term> […]»). Non si discostano da F Z 122 12-13 «Non habent dominum, nisi quemdam episcopum, qui est subditus archiepiscopo de <term ref="#soccotera">Scutra</term>. Et loquelam per se habent», e V 104 7 «Et chostor de questa ixola non àno signor, se no uno veschovo el qualle àno l’arziveschovado
+         de <term ref="#soccotera">Schozia</term>, et àno loquella per sí».</p>
+	<p>La lezione più vicina a R (peraltro più completa) è <ref type="witlink" target="#vb-null-158">VB CLVIII 9</ref> «Sono sotoposti a uno veschovo el qualle è sotoposto al’arciveschovo de <term ref="#soccotera">Scoitra</term>; et à lenguaço per sí».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

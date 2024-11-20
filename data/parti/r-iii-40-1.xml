@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-40-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>Ramusio segue fedelmente <ref type="witlink" target="#p-iii-46-1-6">P III 46 1-2</ref> «<term ref="#adem">Aden</term> provincia quem regem habet quem <term ref="#soldan">soldanum</term> vocant. Incole provincie huius omnes Saraceni sunt et christianos supramodum habent
+         exosos»  (traduzione di VA CLII 1-2 «La provinzia de <term ref="#adem">Aden</term> à uno re ch’è apellato <term ref="#soldan">soldan</term>. La zente de questa provinzia sono tuti saraini e àno in gran odio i cristiani»):
+         a questa linea di tradizione (e a L 183 1-2 «<term ref="#adem">Aden</term> est maxima provincia, cuius dominus <term ref="#soldan">soldanus</term> de <term ref="#adem">Aden</term> dicitur. Habitantes sunt Sarraceni, adorantes <term ref="#macometto">Machomet</term>, odientes maxime christianos») pertiene l’omissione della <hi rend="italics">transitio</hi> introduttiva di F CXCIII 2 «Depuis que nos avon contés de la provence de <term ref="#abascia">Abasce</term>, si vos conteron de la provence de <term ref="#adem">Aden</term>, ensi com voç porois oir»), mantenuta in Z 127 1-2 «Postquam diximus de esse provincie Abbas, admodo tractabimus de provincia <term ref="#adem">Aden</term>. Noveritis quod […] e in V 109 1-2 «Dapoi che nui abiamo dito dela provinzia de <term ref="#abascia">Abasse</term>, al prexente diremo dela provinzia de <term ref="#adem">Adan</term>. Sapié che […]». VB CLXV 1 abbrevia drasticamente: «‹L›a provincia de <term ref="#adem">Aden</term> è abitada da saracini la qual à molte citade […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

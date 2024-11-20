@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-51-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-51">
+      <note>
+	<p><ref type="witlink" target="#f-null-72">F LXXII</ref> (Ci devise dou roiaumes de la provence de <term ref="#egrigaia">Egrigaia</term>); <ref type="witlink" target="#l-null-63">L 63</ref> (De provincia <term ref="#egrigaia">Egrigaya</term>); <ref type="witlink" target="#p-i-64">P I 64</ref> (De provincia <term ref="#egrigaia">Egrigaia</term>), <ref type="witlink" target="#va-null-58">VA LVIII</ref> (D’<term ref="#egrigaia">Egringaia</term>, dove se fa i zanbelloti) / <ref type="witlink" target="#va-null-59">VA LIX 1</ref> (De <term ref="#cianganor">Ciachamaor</term>, dove se truova de zinque mainiere de grue; et altre cosse); <ref type="witlink" target="#v-null-38">V 38 1-6</ref> (Dela provinzia de <term ref="#egrigaia">Argigaian</term> e dela zitade de <term ref="#tanguth">Trangut</term>); <ref type="witlink" target="#vb-null-61">VB LXI</ref>; <ref type="witlink" target="#z-null-40">Z 40</ref>.</p>
+	<p>Il capitolo dipende strettamente da Z, tranne forse che per la formula di raccordo
+         con il capitolo successivo (par. 4), molto vicina alla lezione di V. Mancando però
+         la testimonianza toledana, e considerata la consueta, notevole rispondenza tra V e
+         Z, è più economico supporre che anche la pericope finale dipenda da Z1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-39-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-39">
+      <note>
+	<p>Ramusio traduce <hi rend="italics">verbatim</hi> da <ref type="witlink" target="#z-null-36">Z 36 10-11</ref> «Seculares equidem usque .XXX. uxores accipiunt, et plures et pauciores secundum
+         quod eorum posse requirit. Homines vero mulieribus dant in dotes bestias, servos et
+         peccuniam»), contaminandone però il dettato con una tessera da P (R «et non hanno
+         dote da quelle» &lt; <ref type="witlink" target="#p-i-49">P I 49 4</ref> «[…] Non recipit vir ab uxore dotem, sed ipse ei […] dotem assignat»). Z è a sua
+         volta coerente con <ref type="witlink" target="#f-null-61">F LXI 10-11</ref> «Il prenent jusque en trente femes, et plus et moin selonc qu’il est riche et qu’il
+         en puent tenoir. Et les homes donent a lor femes por lor doaire bestiaus et esclaif
+         et monoie, et selont son poir»), cui si approssimano anche <ref type="witlink" target="#l-null-56">L 56 5</ref> («Et hee gentes accipiunt usque ad .30. uxores, et plures et pauciores secundum eorum
+         possibilitatem, ‹donantque homines mulieribus pro doctibus bestias, servos et monetas
+         secundum eorum posse›»), <ref type="witlink" target="#vb-null-45">VB XLV 6</ref> («I altri, çoè al modo nostro sechular, pono tuor .XXX. moier e meno segondo chome
+         i ssono richi et dage in dotte bestiame et schiavi e moneda segondo suo possança»)
+         e <ref type="witlink" target="#v-null-33">V 33 7</ref> («Et anchora i tuol trenta moier, e più e men segondo chomo lor sono vechi e può
+         sostegnire; et li omeni àno da quele moier bestiami, schiavi e danari segondo la lor
+         possanza […]»: <hi rend="italics">vechi</hi> è errore paleografico &lt; *<hi rend="italics">rechi</hi> &lt; *<hi rend="italics">ric</hi>(<hi rend="italics">c</hi>)<hi rend="italics">hi</hi>: cfr. F <hi rend="italics">riche</hi>, TA <hi rend="italics">ricco</hi>, VB <hi rend="italics">richi</hi> etc.).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

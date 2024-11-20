@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-53</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-53">
+    <head>
+      <hi rend="bold">P, I 53</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-53_2_1" n="1"> Quod cum audisset, <term ref="#cingis-can">Chinchis</term> iratus est valde, et congregato exercitu maximo perrexit in terram regis Unchan, qui Presbiter Iohannes dicitur, et castra metatus est in planicie maxima que dicitur Randuch, misitque ad regem ut deffenderet se; qui cum exercitu maximo descendit ad campestria
+         .XX. miliaria iuxta exercitum <term ref="#tartari">Tartarorum</term>. </seg>
+      <seg xml:id="p-i-53_2_2" n="2"> Tunc <term ref="#cingis-can">Chinchis</term> rex <term ref="#tartari">Tartarorum</term> precepit incantatoribus et astrologis suis ut predicerent qualem eventum futurum
+         prelium habiturum erat; tunc astrologi in partes duas scindentes arundinem divisiones
+         ipsas interposuerunt, unamque vocaverunt <term ref="#cingis-can">Chinchis</term>, et alteram Unchan; dixeruntque regi: «Nobis legentibus invocaciones deorum nutu ipsorum due iste partes
+         arundinis pugnabunt ad invicem; ille autem rex victo|riam |25a| obtinebit in proelio
+         cuius pars super alterius partem ascendet». Multitudine vero ad spectaculum concurente,
+         dum astrologi in libro suarum incantacionum legerent, partes arundinis sunt commote,
+         et una super aliam insurgere videbatur: tandem pars <term ref="#cingis-can">Chinchis</term> ascendit super partem Unchan; quo viso, <term ref="#tartari">Tartari</term> de futura certificati victoria confortati sunt valde. </seg>
+      <seg xml:id="p-i-53_2_3" n="3"> Tercia igitur die comissum
+         est prelium, et multi de utriusque regis exercitu perierunt; <term ref="#cingis-can">Chinchis</term> tum victor extitit et Unchan rex occisus fuit. </seg>
+      <seg xml:id="p-i-53_2_4" n="4"> Regnavit vero <term ref="#cingis-can">Chinchis</term> post mortem Unchan annis .VI., in quibus multas provincias acquisivit; post annos sex, dum per suos
+         castrum quoddam expugnaretur, ipse bellans appropinquasset ad castrum sagita in genu
+         percussus est, ex quo vul|nere |25b| post dies paucos mortuus est sepultusque est
+         in monte <term ref="#altai">Alchay</term>, ubi deinde sepeliuntur omnes reges magni <term ref="#tartari">Tartarorum</term> et qui de progenie sunt eorum: si <term ref="#gran-can">Magnus Kaam</term> moreretur in loco qui per dietas .C. distaret a monte <term ref="#altai">Alchai</term>, corpus eius ad monte‹m› deferrent ad sepeliendum.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-105</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-105">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 105</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-105_2_1" n="1"> Super predicto flumine adhuc .XII. dietis inveniuntur continue civitates et castra
+         multa. </seg>
+      <seg xml:id="l-null-105_2_2" n="2"> Quorum gentes sunt <term ref="#idolatri">ydolatre</term>, expendentes monetam de cartis; suntque mercatores et artiste, et aliqui armigeri.
+         </seg>
+      <seg xml:id="l-null-105_2_3" n="3"> Et ultra has .XII. dietas est <term ref="#sindinfu">Sindifu</term>, de quo supra dictum est. </seg>
+      <seg xml:id="l-null-105_2_4" n="4"> Et ab hinc itur bene .LXX. dietis per diversas ‹provincias›
+         et loca iam superius nominata; et tunc invenitur <term ref="#gouza">Giugiu</term>, de quo parum ante diximus: a quo itur quatuor dietis versus meridiem, ubi civitates
+         et castra multa sunt, et gentes <term ref="#idolatri">ydolatre</term> et mercatores ‹et artiste›, utentes moneta ex cartis. </seg>
+      <seg xml:id="l-null-105_2_5" n="5"> Invenitur civitas dicta
+         <term ref="#pazanfu">Cacanfu</term>, que est ex provincia <term ref="#cataio">Chatay</term>, et est magna civitas et nobilis versus meridiem, habens sub se quam plures civitates
+         et castra. </seg>
+      <seg xml:id="l-null-105_2_6" n="6"> Huius gentes sunt <term ref="#idolatri">ydolatre</term>, mortuorum corpora comburunt, et sunt mercatores et artiste: faciunt enim multos
+         pannos ex auro et serico, et cendalia multa. Et habent monetam ex cartis.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-23-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-23">
+      <note>
+	<p>Ramusio sintetizza il dettato di <ref type="witlink" target="#z-null-111">Z 111 57-59</ref> «Et cum fuerunt prope magnam civitatem <term ref="#cambalu">Cambalu</term>, notificaverunt <term ref="#gran-can">Domino</term> eorum adventum et ‹quod› portabant id propter quod iverant. <term ref="#gran-can">Magnus Dominus</term> tunc precepit quod omnes gentes, tam religiose quam seculares, irent obviam illis
+         reliquiis, quas credebant fore Ade. Et ita omnes gentes de <term ref="#cambalu">Cambalu</term> iverunt obviam reliquiis illis, et religiosi receperunt ipsas cum magna reverentia
+         et ad <term ref="#gran-can">Magnum Dominum</term> portaverunt, qui ipsas recepit cum gaudio magno et festo, et cum reverentia multa»
+         (versione di F CLXXVII 23-24: «Et quant les mesajes au <term ref="#gran-can">Grant Kan</term> ont eu cestes couses qe je voç ai conté, il se mistrent a la voie e s’en tornet a
+         lor seingnor. E quant il furent pres a la grant ville de <term ref="#cambalu">Ganbalu</term>, la o le <term ref="#gran-can">Grant Kan</term> estoit, il li font savoir comant il veneient et aportoient le porcoi il l’avoit mandé.
+         Le <term ref="#gran-can">G‹r›ant Kaan</term> adonc comande qe toutes les jens, et regulés et autres, aleisent encontre celles
+         reliquies qe lor estoit fait entendant qe furent de Adan. E por coi voç firoie lonc
+         conter? Sachiés tout voirmant qe toutes les jens de <term ref="#cambalu">Ganbalu</term> alent encontre{e}a ceste relique, e les regulés le recevent e les aportent au Grant Chan qe molt les recevi con grant joie e con grant feste e con grant reverence»), e omette
+         la pericope conclusiva, nel quale si narra come <term ref="#cublai-can">Qubilai</term> fa asseverare l’affermazione – propria delle scritture buddhiste – sulla <hi rend="italics">virtus</hi> della scodella (capace di nutrire cinque persone con un contenuto apparentemente
+         adatto a una sola): «Et inveniunt per eorum scripturas quod parascis illa talem habet
+         virtutem, quod si quis poneret in eam victualia solum pro uno homine oportuna, ad
+         sufficientiam homines quinque haberent. Et <term ref="#gran-can">Magnus Dominus</term> dixit quod volebat facere experiri, et ita repertum est esse verum» (<ref type="witlink" target="#z-null-111">Z 111 60-61</ref> = F CLXXVII 25 «Et si vos di qe il treuvent por lor escriture que disoient qe cele escuelle avoit
+         tel vertu qe qui hi meïst viande a un homes qu’il en auroit aseç .V. homes. E le <term ref="#gran-can">Grant Kan</term> dist k’il ‹l›’avoit fa‹i›t prover e dist qe bien estoit ensi la verité»; essa è attestata
+         da tutti i relatori: <ref type="witlink" target="#l-null-60">L 60 11</ref>, V 95 28, VB CXLVII 29).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

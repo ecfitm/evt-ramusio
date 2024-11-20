@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-44-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-44">
+      <note>
+	<p>Come si indica nella nota a <ref type="witlink" target="#r-iii-44">R III 44 13</ref>, la pericope ramusiana elabora il testo di <ref type="witlink" target="#p-iii-48">P III 48 5</ref>. Nessun relatore poliano spiega come i sei cani siano legati «a due a due»: si veda
+         per tutti Z 150 25-27 «Et super istas tregias apponitur quoddam corium ursi et postmodum super ascendit
+         quidam nuntius. Et istam <term ref="#tragule">tregiam</term> ducunt sex canes, de illis magnis quos vobis diximus superius. Et nullus ducit istos
+         canes, sed vadunt recto itinere ad aliam postam et trahunt <term ref="#tragule">tregiam</term> valde bene super glatiem et cenum» (resa di F CCXVI 11 «E sus ceste <term ref="#tragule">trejes</term> hi se mete sus un cuir d’ors, e puis hi monte sus un mesajes. E ceste <term ref="#tragule">trejes</term> moinent .VI. chienz, de celz grant qe je voç ai contés, et cesti chienz ne les moine
+         nulz, mes il vont tout droit jusque a l’autre poste et trainent la <term ref="#tragule">trejes</term> mout bien, e por la glace e por fanc: et ensi vont de une poste a l’autre»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

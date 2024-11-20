@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-34-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-34">
+      <note>
+	<p>L’eziologia dell’<hi rend="italics">ethos </hi>degli indigeni manca in P III 37 3 (perché assente in VA CXLVII 5), in L 175 8 e in V 104 8; contro il comune (e generico) <hi rend="italics">statement</hi> di F CLXXXVIII 6 «E por ce ne demorent il: ne poroient vivre se il demorasent tot l’an con eles» e
+         Z 122 15 «Et ideo non permanent cum eorum uxoribus toto anno, secundum quod dicunt, quia vivere
+         non posent»,  è il modello scelto da Ramusio l’isolata informazione di <ref type="witlink" target="#vb-null-158">VB CLVIII 8</ref> «E par che quello aiere non patisse che i homeni stia ala continua apreso le femene,
+         per che i moriria».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

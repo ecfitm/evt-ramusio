@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-54</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-54">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 54</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-54_2_1" n="1"> ‹O›r quando ve partite da questa zitade et dal pallazo predito, se vano tre zornade
+         per ponente per molte belle pianure, trovando senpre molte zitade e chastelli in li
+         qualli sono molti homeni che vive de marchadantie et arte; et sono seda abondevelmente.
+         </seg>
+      <seg xml:id="v-null-54_2_2" n="2"> Et in chavo de queste tre zornade se trova de gran monti et valle, le qualle sono
+         della provinzia de Chuchin; et sono per monti e valle molte zitade e chastelli; la zente che abita in quelle
+         <term ref="#idolatri">adora le idolle</term> et vive de lavorieri et d’intrade de chaxe. </seg>
+      <seg xml:id="v-null-54_2_3" n="3"> Et in quello luogo sono molti boschi
+         in li qualli abita molte bestie salvadege de diversse maniere in gran quantitade;
+         et chavalchando vinti zornade, senpre se trova molti boni albergi in li qualli li
+         viandanti si albergano. </seg>
+      <seg xml:id="v-null-54_2_4" n="4"> Or lasseremo de questa patria et diremo de una zerta provinzia,
+         chome porete aldir: che abiando chavalchado vinti zornade per monti chomo io ve ò
+         dito di sopra el se trova una provinzia la qual vien chiamada <term ref="#achbaluch-mangi">Achebelach Mandi</term>, la qual sono tuta pianura. </seg>
+      <seg xml:id="v-null-54_2_5" n="5"> Et in quella sono molte zitade e chastelli, et dè
+         in ponente; et la zente di quella sì vive de marchadantie e d’arte, et in questa provinzia
+         nasse zenzero in quantitade e |64v| sono portado per tuta la gran provinzia del <term ref="#cataio">Chataio</term>; et quelli dela provinzia del <term ref="#cataio">Chataio</term> àno gran profito. </seg>
+      <seg xml:id="v-null-54_2_6" n="6"> Et in questa sono abondanzia de formento, sorgo et altre biave,
+         et sono abondanzia de tuti i beni; et la prinzipal zitade sono chiamata Machafe Emelegamin, che tanto vien a dire chomo “uno dî chonfini de <term ref="#mangi">Mangin</term>”. </seg>
+      <seg xml:id="v-null-54_2_7" n="7"> Et questa pianura dura do zornade, et sono bela chomo avete aldido di sopra,
+         chon molte zitade et chastelli. </seg>
+      <seg xml:id="v-null-54_2_8" n="8"> Et in chavo de do zornade se trova gran monti
+         e valle et boschi et vasse vinti zornade per ponente trovando molte zitade e chasteli,
+         et li omeni de quelle <term ref="#idolatri">adorano le idolle</term> et viveno de fruti de tera e de chazaxon de bestie; et là sono molti lioni, orsi
+         e zervi e chavrioli et altre salvadexine et animalli li qual fa muschio. [9] Ma nui
+         lasseremo al prexente de questa patria et diremo d’altre chosse.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

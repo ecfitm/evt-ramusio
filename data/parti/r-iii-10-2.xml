@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-10-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-10">
+      <note>
+	<p>L’ordine delle informazioni in R (“struttura politica / religione / lingua”) esclude
+         che il modello di Ramusio fosse P III 13 2 «Ibi sunt octo regna cum singulis regibus et est ibi propria lingua et sunt omnes
+         habitatores insule <term ref="#idolatri">ydolatrie sectatores</term>» (resa di VA CXXVII 1-2 «[…] in la qual ixolla si è oto regniami, e zaschun regniame à ’l so re. La zente
+         de questa ixolla à lenguazio per si, et è <term ref="#idolatri">idolatra</term>»); e si può escludere per lacunosità L 150 2 «In ipsa enim sunt .VIII°. regna similiter et reges, et habet quodlibet regnum per
+         se proprium ydeoma». L’ordine di R è attestato in VB CXXXIV 2-3 «La quale à in si .VIII. re che segnoriça .VIII. reami. La giente tuti sono <term ref="#idolatri">idolatrii</term> et àno lenguaço da per si» e in V 87 2-4 «Or in questa nareremo tuta la verità. Sapié che in questa sono oto reami e hoto
+         re. E tuta la zente <term ref="#idolatri">adorano idolle</term>; et àno loquela per sí»; ma – al netto della soppressione della formula fatica <hi rend="italics">Noveritis… </hi>– solo Z 99 4-5 presenta una forma equivalente a R «et in cadauno regno vi è linguaggio da sua posta,
+         diverso dalla favella degli altri regni»: «Noveritis itaque quod in ea octo sunt regna
+         et octo reges. Cuius insule omnes gentes <term ref="#idolatri">adorant ydola</term>. Et in quolibet regno habetur singularis et ab alio diversa loquela». Z traduce fedelmente
+         F CLXV 2-3 «E de ceste ysles voç conteron toute la verité. Or sachiés qe sor ceste ysle ha .VIII.
+         roiames et .VIII. rois coronés en ceste ysle. E sunt tuit <term ref="#idolatri">ydres</term> et ont langajes por elles, car sachiés che chascun des roiames ont langajes por eles»
+         – ancora una volta, e attraverso la mediazione del suo modello privilegiato, Ramusio
+         restaura senza sapere un dettato aderente a F.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

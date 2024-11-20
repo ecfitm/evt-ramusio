@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-14-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-14">
+      <note>
+	<p>Ramusio può avere avuto sott’occhio Z1, giacché nei contenuti, al netto di qualche aggiunta (su cui vd. <hi rend="italics">infra</hi>), il suo paragrafo corrisponde sostanzialmente al dettato di <ref type="witlink" target="#f-null-35">F XXXV 15-18</ref> «[…] E cestui <term ref="#nugodar">Nogodar</term> ala ‹a la› cort de <term ref="#zagathai">Ciagati</term>, qui estoit frere charnaus au <term ref="#gran-can">Grant Can</term>, bien cun .Xm. homes de sa jens, et demoroit o lui por ce que sen oncle estoit et mout grant sire;
+         et atant qu’il demoroit ho lui, <term ref="#nugodar">Nogodar</term> se pense et fist grant felonie, e voç dirai comant. Il se parti da son uncle <term ref="#zagathai">Ciagatai</term>, ke en la <term ref="#armenia">Grant Arminie</term> estoit, et s’enfui bien cun .Xm. de se gens, qe mout estoient cruelz et fellonç, et s’en passe por <term ref="#balaxiam">Badasian</term> et por une provence que s’apelle <term ref="#bascia">Pasciai</term> et por un’autre provence ‹que› a a nom <term ref="#chesmur">Chesciemur</term>, et el l’an perdi maintes des ses jens et de ses bestes, por ce ke les voies estoient
+         estroites et mauveises. Et quant il unt toutes cestes provences passé, il entrent
+         en <term ref="#india">Yndie</term>, en lo confin a une provence qui est apellés Dilivar; il pristent une noble cité
+         que a a nom <term ref="#dely">Dili Dilivar</term>. Et demore en cele cité et pri le regne qu’il tolli a un roi, que avoit a nom <term ref="#asidin-soldano">Asidin Soldan</term>, que mout estoit grant et riche». Oppure, può avere utilizzato un buon esemplare
+         di V molto vicino a F, se si considera che la lezione «senza fargli intender cosa
+         alcuna» di R potrebbe essere una sorta di parafrasi del sintagma «senza alguna providenzia»
+         di V: cfr. <ref type="witlink" target="#v-null-20">V 20 17</ref> «Lo re de questi vien chiamado <term ref="#nugodar">Negodar</term>, et questo una volta andò ala chorte de <term ref="#zagathai">Agati</term>, fradelo del <term ref="#gran-can">Gran Chan</term>, chon diexemilia omeni dela so zente, et stete chon elo perché lui era so barba.
+         Et stando questo <term ref="#nugodar">Negodar</term> chon questo suo’ barba, uno zorno questo se partì da ’sto so barba <term ref="#zagathai">Agati</term> chon diexemilia homeni dela so zente quali erano molto chrudelissimi. Senza alguna
+         providenzia pasò per <term ref="#balaxiam">Sobasain</term>, per la provinzia de <term ref="#chesmur">Chisuamor</term>, et prese molta zente e animali; et abiando passati questa provinzia che à nome Dilivra,
+         tolse quele zitade <term ref="#dely">Delivra</term>, et romaxe in quela, e tolse el reame de uno che avea nome <term ref="#asidin-soldano">Asendi Soldan</term>, el quale era molto richo e possente».</p>
+	<p>Rispetto alla lezione di F e V, R si caratterizza per la sfrondatura di un elemento
+         narrativo giudicato forse ridondante (si tratta del riferimento al fatto che <term ref="#nugodar">Nugodar</term> si presenti alla corte dello zio già munito di un esercito di diecimila uomini, cui
+         ne aggiungerà altri diecimila), e per un paio di <hi rend="italics">ajout</hi> forse attribuibili alla temperie ordinatrice di Ramusio: un inedito cappello didascalico
+         («sentendo che […] dominio de’ <term ref="#tartari">Tartari</term>»), utile a rendere conto dei motivi che spingono <term ref="#nugodar">Nugodar</term> all’azione; e una chiosa sulle ragioni della sconfitta del sultano di <term ref="#dely">Delhi</term> («perché li sopravenne alla sprovista»). Sembra muovere in direzione esegetica anche
+         la sostituzione dell’oscuro toponimo «Dilivar» con un meno problematico, e più familiarmente
+         noto al lettore, «<term ref="#malabar">Malabar</term>». </p>
+	<p>Pare di capire, insomma, che la mano del compilatore abbia esercitato, qui più che
+         altrove, il proprio “diritto” editoriale; ma non si può escludere che le peculiarità
+         del testo di R appartenessero al modello inattingibile (Z1 o V che fosse) utilizzato da Ramusio per questo passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

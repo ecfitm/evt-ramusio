@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>La fonte da cui R dipende in questo punto presentava una lezione simile a: <ref type="witlink" target="#f-null-93">F XCIII 8</ref> «[…] char je voç di qe se l’en trouve un chevaus o une espee ou un osiauus ou autre
+         couse, et il ne treuve de cui il soit, …†… a ceste baronç, et cil la fait prendre
+         et garder. Et celui qu’il la trove, se il ne la porte tant tost, il est tenu por lairon».
+         Non ci sono indizi di contatti di R anche con altre fonti: <ref type="witlink" target="#p-ii-19">P II 19 5-6</ref> «[…] omnes enim aves sibi oblatas servat fideliter donec a suo domino fuerit repetita,
+         quod similiter de equis fit. […] quamdiu autem ille rem tenuerit curam de ea optime
+         haberi facit. Si quis vero inventam rem non statim restituerit domino suo aut officiali
+         predicto habetur ut fur»; <ref type="witlink" target="#v-null-44">V 44 4-5</ref> «[…] e se per chaxo el se trovasse uno chavallo o uno axeno o una spada, et non se
+         trovasse de chi fosse, de prexente vieno aprexentado a quel baron, et quello la tien
+         in soa varda. Et quello che trova alguna chossa et non l’aprexenta vien apelà per
+         furto, e de prexente la i son tolta chon so gran vergogna e dada a questo baron […]».
+         L omette il passo. </p>
+	<p>In VB e Z manca tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

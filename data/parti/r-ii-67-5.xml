@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-67-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-67">
+      <note>
+	<p>Nella prima parte della pericope («Hanno […] remedii») R segue – seppur con una certa
+         libertà – il testo di VB, che si allontana dal resto della tradizione: <ref type="witlink" target="#vb-null-113">VB CXIII 5</ref> «Questi àno molti medeci fisici de grande ingegno, i quali nobellissimamente cognoschono
+         le infermitade e molto bene sano remediar a quele». Nella seconda parte del paragrafo,
+         che non trova riscontro in VB, Ramusio si attiene a <ref type="witlink" target="#z-null-84">Z 84 9-10</ref>, amplificando in alcuni punti: «Sunt ibi sapientissimi philosophi et medici naturales,
+         qui subtiliter in natura cognoscunt. Sunt et multi magici et divinatores». Va rilevato
+         che il riferimento a «maghi et indovini» non si legge in nessun’altra redazione poliana:
+         <ref type="witlink" target="#l-null-125">L 125 3</ref> «[…] adsunt eciam maximi philosophi, et naturales et medici»; <ref type="witlink" target="#p-ii-63">P II 63 3</ref> «[…] multique medici et philosophi inter eos sunt»; <ref type="witlink" target="#v-null-75">V 75 3</ref> «E là sono de gran filoxofi, et medexi naturalli i qualli chonosseno ben le nature»
+         (vd.<ref type="witlink" target="#f-null-150"> F CL 5</ref> «[…] Et si a grant filosofe et grant mire naturel qe mout sevent bien nature»).</p>
+	<p>Subito dopo le informazioni corrispondenti al par. 5 tutti i relatori riportano un
+         passo relativo all’abbondanza di ponti in pietra nella città, che R omette: <ref type="witlink" target="#l-null-125">L 125 1</ref> «[…] et sunt in ipsa bene .VIm. pontes lapidei, sub quocumque quorum transire posset galea una vel due»; <ref type="witlink" target="#p-ii-63">P II 63 4</ref> «In hac civitate sunt pontes lapidei circa sex milia tante altitudinis ut sub unoquoque
+         ipsorum galea libere transire valeat atque sub multis pontium predictorum simul due
+         possint transire galee»; <ref type="witlink" target="#v-null-75">V 75 4</ref> «Ed ezian in questa zitade sono zercha siemilia ponti de piera, che soto zaschaduno
+         poria passar una galia»; <ref type="witlink" target="#vb-null-113">VB CXIII 6</ref> «Ène in questa citade .Vm. ponti de pietra alti, grandi, involti de pietra, nobellissimi»; <ref type="witlink" target="#z-null-84">Z 84 11</ref> «In ista quidem civitate sunt circa sex milia pontium, sub maiori parte quorum transiret
+         una galea vel due» (vd. <ref type="witlink" target="#f-null-150">F CL 6</ref> «Et si voç di tout voirmant qe en ceste cité a bien .VIm. pont de pieres qe bien hi paseroit por desout une galee et .II.»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

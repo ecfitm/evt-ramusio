@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La descrizione della poligamia regia segue quasi alla lettera <ref type="witlink" target="#z-null-107">Z 107 50-56</ref> «Item iste rex habet bene mille inter concubinas et uxores, quoniam, statim cum videt
+         aliquam pulcram mulierem, eam accipit in uxorem. Et dicemus vobis quoddam ineptum
+         quod commisit.  Vidit itaque unam pulcram mulierem, que uxor fratris erat; quam aripiens,
+         retinuit pro se.  Et frater, qui sapiens erat, in pace substinuit nec scandalum ei
+         comovit. Et hec fuit causa quia tamen multocies in procinctu fuit contra ipsum gueram
+         comovendi. Sed mater eorum eis ostendebat mammas dicens: “Si inter vos scandalum movebitis,
+         incidam michi mammas que vos enutriverunt”. Et sic remanebat questio» (la redazione
+         latina segue F CLXXIII 20-21: «Or voç ai contés de ce; si voç conterai encore d’autres merveioses chouses. Or
+         sachiés tuit voiremant qe ceste roi a bien .Vc. femes, ce sunt muier, car je voç di qe tant tost{o} qe il voit une bielle dame o
+         dameselle, si la vuelt por soi. Et si en fist une tel couse com je vos dirai. Sachiés
+         qe ceste roi vit une mout{o} bielle …†… moilier …†…: si le la tolt et la tint por
+         soi. E son frer, qe sajes estoit, le sofri e ne fist brie con elz» – ma si noti che
+         F non presenta l’episodio dell’intervento materno; garantisce un discorso affine a
+         Z V 91 20-22 «Or abiamo dito de questo re, che subito chomo el vede una bella dona ello la tuol
+         per moier; et feze uno chossa ch’io ve dirò. Questo re vete una bella dona, la qual
+         iera moier de so fratello; onde la tolse, et sì la tene molti zorni; et so fradello,
+         che iera savio, sì s’el portò in paxe, et chon lui non se chorozò. Et molte volte
+         el ge vosse muover guera perché ge avea tolto so moier, ma la madre di quello i mostrava
+         le mamelle et sì lli dixeva: “Se vui faré guera l’un chontra l’altro, io me taierò
+         le mamelle”; sì che per questo i romagniva»).</p>
+	<p>P III 23 13 presenta pure in questo caso un resoconto abbreviato e impreciso: «Insuper rex prefatus
+         quingentas habet uxores et uni ex fratribus suis uxorem abstulit, sed illam iram ipsius
+         metuens dissimilavit iniuriam» (giusta il testo dell’antigrafo, VA CXXXVII 22 «E à quel re ben zinquezento moier, e tolse a uno so fradello una moier perché li
+         piaque, e chollui chonvene sofrir per non chader in ira del re»). Cinquecento – come
+         in VA-P – sono le mogli del re pure in L 161 14 «Habet rex iste quingentas et plures adhuc uxores, quia quotcumque et quascumque
+         voluerit indifferenter habet», e in VB CXLIII 23 «Ecian quante donçelle et alltre done che a llui piaque e g’è licito a tuor et tegnir
+         quelle, el qualle re tien per suo uso oltra .Vc. femene; e se la moglie del fratello ge piacese e g’è licito a tuor quella e questo
+         de tuti i altri citadini e tuti conveno star contenti e forssi mostrano averllo a
+         bene».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-3-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-3">
+      <note>
+	<p>Ramusio combina in questa pericope il testo di almeno due fonti. La parte iniziale
+         («Et il <term ref="#gran-can">Gran Cane</term> […] girifalco») e la parte finale («et può pigliar […] dignità») sono ricavate da
+         un esemplare affine a F e, in misura minore, a V: <ref type="witlink" target="#f-null-80-4-11">F LXXX 9-10</ref> «[…] Et encore a cesti tielz done le Grant Sire une table de gerfaus, et ceste table done il a les tres grant baronz [R «ad alcuni
+         baroni»] por ‹c›oi qe il aient pleine bailie come il meisme, car, quant il vuelt mander
+         et messajes et autres homes, si puet prandre les chevaus d’un rois, se il vuelt [R
+         «volendolo»]. Et por ce voç ai dit des chevaus des rois: por coi voç sachiés qu’il
+         puet prandre de tous autres homes» [R «può pigliare i cavalli degli altri»]; <ref type="witlink" target="#v-null-41">V 41 7</ref> «E anchora el <term ref="#gran-can">Gran Chan</term> li dona una tavola de zifalchi, zoè ali gran signori e zentilomeni, azò che queli
+         abia plena libertade chomo lui medemo; perché quando el vuol mandar algun meso, zoè
+         de questi, elli pol tuor uno chavalo soto de uno re, et simelmente da tuti i altri
+         homeni» [R «degli altri»]. È possibile che il sintagma «la imagine del girifalco»
+         sia stata suggerita da P («girfalchi […] ymaginem»). Sicuramente da <ref type="witlink" target="#p-ii-7">P II 7 1</ref> è stato attinto il testo contenuto nella parte centrale della pericope («et questi
+         […] guardia»), che nasce chiaramente da un fraintendimento del testo originale: «[…]
+         qui autem girfalchi habet ymaginem potest secum ducere de loco ad locum universam
+         vel cuiuscumque principis vel regis militiam». Non sembra che Ramusio si sia avvalso
+         anche della testimonianza di <ref type="witlink" target="#l-null-66">L 66 7-8</ref> «Donat eciam hiis maximis dominis tabulam ‹unam› de g‹e›rofalcho, que talis est potentie
+         quod habens eam potest accipere equum et equos ubicumque fuerint; possent enim alicuius
+         regis equos accipere, si placeret. Hii ergo tam maximi domini, cum habent nuntium
+         et mittere volunt, ipsum tali muniunt tabula, scilicet çerefalci, ut, si necesse fuerit,
+         equos ubilibet accipere posset». </p>
+	<p>VB e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

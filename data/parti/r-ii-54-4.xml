@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-54-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-54">
+      <note>
+	<p>All’inizio della pericope Ramusio segue la testimonianza di P, per poi abbandonarla
+         a favore di quella di Z:  <ref type="witlink" target="#p-ii-52">P II 52 4</ref> «Ubi autem servantur naves ille [R «Et dove detti navilii si servano»] in flumine
+         due civitates sunt quarum una, que magna est, posita est super crepidinem fluminis,
+         alia vero parva ex alia parte fluminis est; una earum dicitur <term ref="#coiganzu">Coyganguy</term>, alia <term ref="#quanzu">Caygui</term>»;<ref type="witlink" target="#z-null-72"> Z 72 16-17</ref> «Ab uno quidem latere fluminis [R «appresso la ripa del fiume»] est civitas una que
+         vocatur <term ref="#coiganzu">Coigançu</term> [R «vi è una città detta <term ref="#coiganzu">Coiganzu</term>»], ab altero vero latere, in oppositum istius, est alia civitas nomine <term ref="#quanzu">Quaçu</term> [R «et dall’altra banda a riscontro di questa ve n’è un’altra detta <term ref="#quanzu">Quanzu</term>»]. Sed una est magna, altera vero parva» [R «ma una è grande et l’altra picciola»].
+         Non si danno indizi di contatti di R anche con altri esemplari: <ref type="witlink" target="#l-null-113">L 113 2</ref> «Et super ipso sunt ibi due civitates, sibi ipsis opposite, una quarum magna est
+         reliqua vero parva, nominaturque una <term ref="#coiganzu">Coigangiu</term>, altera vero <term ref="#quanzu">Caigiu</term>»; <ref type="witlink" target="#v-null-66">V 66 7</ref> «[…] l’una dele qualle nome <term ref="#coiganzu">Guagui</term>, l’altra <term ref="#quanzu">Zinguagui</term>»; <ref type="witlink" target="#vb-null-100">VB C 6</ref> «Et in dito fiume, çoè nell’ussita, v’è do çitade, una da uno ladi l’altra dal’altro
+         chiamate <term ref="#coiganzu">Congagni</term> e l’altra <term ref="#quanzu">Congni</term>: l’una è grande e l’altra è picolla» (vd. <ref type="witlink" target="#f-null-137">F CXXXVII 6</ref> «[…] Et a une cité de ça et une de la, ce est encontre le une a l’autre. La une a
+         non <term ref="#coiganzu">Coigangiu</term> e l’autre a non <term ref="#quanzu">Caigiu</term>, qe le une est grant cité et le autre est pitete»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

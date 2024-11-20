@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-6-20</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>Il testo di R riflette sostanzialmente il dettato di <ref type="witlink" target="#v-null-41">V 41 26</ref> «Ed è verso tramontana uno trar de balestro largo dal palazo, et lì sono fato uno
+         monte el qualle sono zento pasi alto, et volze più de uno mio, el quale sono pieno
+         de bonissimi [R «bellissimi»] albori che mai [R «mai»] d’inverno ní de instade non
+         geta le foie, ma senpre stano verde», e di<ref type="witlink" target="#f-null-83"> F LXXXIII 29</ref> «Et encore voç di que dever traimontane, loinge dou palais entor d’u‹n›e balestree,
+         a fait fair un tertre, ce est un mont, qe bien est haut .C. pas et environ est plus
+         d’un mil, les quel mout est tout plein et covert [R «pieno et piantato»] d’arbres
+         que de nul tens [R «per tempo alcuno»] perdent foiles, mes toutes foies sunt vers».
+         Gran parte delle informazioni del testo di R si leggono anche in <ref type="witlink" target="#l-null-68">L 68 7</ref> «Et a parte septemtrionis, longe a pallacio circa unum †atalentum†, fecit <term ref="#gran-can">Magnus Canis</term> fieri monticulum quemdam circuitus plus miliarii unius et altitudinis circa passuum
+         .C. plenum per totum arboribus pulcherrimis de hiis videlicet que quolibet tempore
+         existunt viridia folia semper retinendo», e in <ref type="witlink" target="#p-ii-9">P II 9 8</ref> «Extra palatium leucam unam monticulus quidem est C passuum altitudinis, in circuitu
+         continens unum miliare, arboribus consitus que folia semper |36d| habent virentia
+         […]». VB e Z omettono tutto il capitolo.</p>
+	<p>Andrà rilevato che R reca anche delle lezioni ignote al resto della tradizione poliana:
+         «intra i circuiti», «di terra fatto a mano». Quest’ultimo dettaglio trova conferma
+         nella <hi rend="italics">Relatio</hi>, XXVI 2 di Odorico da Pordenone: «In curtivo huius palacii mons unus est manu factus
+         […]» (van den Wyngaert 1929, p. 472).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

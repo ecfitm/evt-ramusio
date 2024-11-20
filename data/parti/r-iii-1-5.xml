@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-1-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>Il modello della pericope è essenzialmente <ref type="witlink" target="#z-null-91">Z 91 16-17</ref> «Iste quoque naves requirunt alique marinarios trecentos, alique ducentos, alique
+         .CL., alique plures alique pauciores secundum quod naves sunt maiores et minores.
+         Ipse quoque multo maius portant pondus quam nostrates»; si noti che la redazione latina
+         non parla delle « cinque in seimila sporte di pevere»: dettaglio originale perché
+         attestato da tutta la tradizone (a partire da F CLVII 9 «E si vos di que cestes nes vuelent .CC. marineres; mes elle sunt si grant q’elle
+         portent bien .Vm. esportes de pevre e de tel .VIm. […]»), sicché la sua assenza può essere ascritta al relatore toledano (e non al
+         relatore a disposizione di Ramusio).</p>
+	<p>Gli altri relatori: P III 1 7 «Navis quelibet magna ducentis aut circa marinariis indiget; portat autem navis communiter
+         sex milia sportas piperis […]» (da VA CXXI 8 «Zaschuna nave vuol ben duxento marinari e porta ben zinquemilia sporte de piper,
+         e tal sieamillia […]»); L 142 5 «Ob magnitudinem vero harum navium indiget quelibet ut plurimum .CC. marinariis […]»
+         (con l’omissione del pepe, perché citato sopra: vd. la nota a <ref type="witlink" target="#r-iii-1">R III 1 1</ref>); V 80 5 «Et zaschaduna de queste nave rechiede duxento marinari, perché le sono sì grande
+         che le porta zinquemilia sporte de pevere […]»; VB CXXVI 6 «Sono di portada, e gran parte di quelle portano sporte .Vm. in .VIm. de pevere […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

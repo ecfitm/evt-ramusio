@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-35-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-35">
+      <note>
+	<p>La pericope esordiale ricalca pedissequamente la sintassi del toledano (<ref type="witlink" target="#z-null-30">Z 30 1-2</ref> «<term ref="#lop">Lop</term> est quedam civitas a qua dum homo discedit, magnum intrat desertum. Civitas vero
+         est <term ref="#gran-can">Magni Canis</term>; cuius gentes <term ref="#macometto">Macometi</term> legem observant»), la cui lezione è coerente nella sostanza con <ref type="witlink" target="#f-null-56">F LVI 2-4</ref> «<term ref="#lop">Lop</term> est une grant cité che est au chef dont l’en entre en le grant deçert qui est apellé
+         le deçert de <term ref="#lop">Lop</term>, et est entre levant et grech. Ceste cité est au Grant Chan. Les jens aorent <term ref="#macometto">Maomet</term>», meno che per alcuni dettagli – le coordinate geografiche e il nome del deserto
+         – sacrificati, qui come altrove, per ragioni di sintesi, ma probabilmente conservati
+         nello Z1 di Ramusio.</p>
+	<p>Fra gli altri relatori, solo <ref type="witlink" target="#vb-null-39">VB XXXIX 1</ref> conserva per intero i contenuti del testo francoit. («<term ref="#lop">‹L›ope</term> si è una gran citade la qual è nel principio del gran deserto chiamato <term ref="#lop">Lopo</term>, el quale è fra grego e levante; et ancho di questa el <term ref="#gran-can">Gran Chan</term> v’è segnore, et adorano Macometo»), mentre perdono ciascuno qualche informazione <ref type="witlink" target="#v-null-30">V 30 1</ref> «<term ref="#lop">‹L›op</term> sono una zitade la qual sono in chavo de uno deserto, ed è tra griego e levante,
+         et questa zitade sono del <term ref="#gran-can">Gran Chan</term>, e la zente de questa adora <term ref="#macometto">Machometo</term>», <ref type="witlink" target="#l-null-51">L 51 1-2</ref> «<term ref="#lop">Lop</term> est maxima civitas in principio et introytu maximi deserti quod dicitur desertum
+         de <term ref="#lop">Lop</term>, et est inter oriens et grecum. Et gentes adorant <term ref="#macometto">Machomet</term>», e <ref type="witlink" target="#p-i-44">P I 44 1-2</ref> «<term ref="#lop">Lop</term> est civitas magna ad introitum deserti magni quod est inter plagam orientalem et
+         aquilonarem. Homines civitatis legem <term ref="#macometto">Machometi</term> habent».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

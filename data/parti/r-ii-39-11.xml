@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-39-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>Come succede in altri passi del capitolo, anche qui Ramusio combina la lezione di
+         due fonti, Z (affine a F) e VB (caratterizzata da diverse lezioni singolari):<ref type="witlink" target="#z-null-56"> Z 56 20</ref> «Gentes vero huius regni [R «Le genti di questa provincia»] non curant si unus alterius
+         tangat uxorem [R «se uno tocca la sua moglie»), dummodo [R «pur che»] de uxoris processerit
+         voluntate» (vd.<ref type="witlink" target="#f-null-117"> F CXVII 10</ref> «Et si voç di q’eles ne curent ren se le un touce la feme de l’autre, puis qu’il
+         soit volunté de la feme»); <ref type="witlink" target="#vb-null-83">VB LXXXIII 11</ref> «Àno in si questo costume: non àno a vilania se alchuno àno a far charnalmente [R
+         «carnalmente»] con la moglie essendo de volontà de quella [R «con volontà di quella»],
+         alltramente seria reputato a grande inçuria» [R «reputano esserli fatta ingiuria»].
+         Gli altri relatori non presentano particolari affinità con R: <ref type="witlink" target="#l-null-96">L 96 7</ref> «Quod si quis cuicumque ‹mulieri› placuerit venerea copula coniungatur, dummodo consensus
+         mulieris existat, nichil grave habetur nec in opprobrium reputatur»; <ref type="witlink" target="#p-ii-39">P II 39 13</ref> «In hac regione viri sic stolidi sunt ut nullus eorum pro displicencia habeat si
+         alter ad uxorem eius accedit dummodo illa consensum prebeat»; <ref type="witlink" target="#v-null-56">V 56 22 </ref>«Et in questa provinzia i non se chura se l’uno tocha la moier del’altro, purch’el
+         sia volontade del marido».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

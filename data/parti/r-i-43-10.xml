@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-43-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-43">
+      <note>
+	<p>Solo L e (soprattutto) P vengono subito alla narrazione della contesa tra Chinggis e il <term ref="#prete-gianni">Prete Gianni</term>, risolvendo i preliminari dello scontro militare in uno sviluppo tanto rapido quanto
+         esaustivo: vd. <ref type="witlink" target="#l-null-58">L 58 7</ref> «<term ref="#cingis-can">Cinghis Kan</term>, hac iniuriosa responsione turbatus, innumeram congregavit gentem, misitque <term ref="#umcan">Unc Kani</term> quod intendebat ipsum personaliter visitare. Tunc <term ref="#umcan">Unc Kan</term> infinitam gentem univit; sed <term ref="#cingis-can">Cinghis Kan</term> pervenit, duxitque gentem suam innumeram in pertinentiis Unc Kanis, in pulcra planicie valde dicta <term ref="#tenduch">Tanduc</term>; quod audiens <term ref="#umcan">Unc Kan</term>, et ipse cum gente sua ei obviam venit posuitque castra in dicta planicie a <term ref="#cingis-can">Cinghis Kan</term> .X. tamen milia elongata»; <ref type="witlink" target="#p-i-53">P I 53 1</ref> «Quod cum audisset, <term ref="#cingis-can">Chinchis</term> iratus est valde, et congregato exercitu maximo perrexit in terram regis Unchan, qui Presbiter Iohannes dicitur, et castra metatus est in planicie maxima que dicitur Randuch, misitque ad regem ut deffenderet se; qui cum exercitu maximo descendit ad campestria
+         .XX. miliaria iuxta exercitum <term ref="#tartari">Tartarorum</term>». Ramusio, già in partenza meno interessato alle digressioni storiografiche del libro,
+         e forse convinto dall’efficace concisione di P, ne adotta il testo traducendolo pressoché
+         alla lettera.</p>
+	<p>Il testo di tradizione ha invece un respiro molto più ampio, rendendo conto con minuzia
+         non solo dell’allestimento degli eserciti, ma anche delle reciproche invettive dei
+         due contendenti: ciò che in P e L è riassunto in una sola pericope, in F, VA e nell’ipertrofico
+         VB è distribuito su due (<ref type="witlink" target="#f-null-65">F LXV</ref> + <ref type="witlink" target="#f-null-66">F LXVI 2</ref>,<ref type="witlink" target="#va-null-51"> VA LI</ref> + <ref type="witlink" target="#va-null-52">VA LII 1</ref>, <ref type="witlink" target="#vb-null-51">VB LI</ref> + <ref type="witlink" target="#vb-null-52">VB LII 1-5</ref>); n <ref type="witlink" target="#v-null-35">V 35 8-17</ref> l’episodio occupa ben dieci pericopi dell’unico, lungo capitolo dedicato al conflitto.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

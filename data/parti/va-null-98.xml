@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-98</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-98">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XCVIII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-98_2_1" n="1"> A chaxion del regniame de <term ref="#carazan">Charaian</term> e de <term ref="#vociam">Vocian</term> fo una grande bataia in quella contrà in milleduxento e setantadò.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-98_3_1" n="1"> El <term ref="#gran-can">Gran Chaan</term> mandò uno so baron, che avea nome Nischardin, chon dodexemilia chavalieri, per guarda
+         e per defexa della provinzia de <term ref="#carazan">Charaian</term>. </seg>
+      <seg xml:id="va-null-98_3_2" n="2"> Quel capetanio era molto savio e valente chavalier, e aveva siego chavalieri
+         molto valenti per arme. </seg>
+      <seg xml:id="va-null-98_3_3" n="3"> Et quando el re de <term ref="#mien">Mien</term> et de <term ref="#bangala">Bangala</term>, che confina chon <term ref="#carazan">Charaian</term>, sape |48r| che quella zente vegniva, ave paura che i non voleseno chonquistar le
+         tere soe, e fexe un gran apariamento per andar chontra le zente del <term ref="#gran-can">Gran Chaan</term>. </seg>
+      <seg xml:id="va-null-98_3_4" n="4"> E ave ben doamilia elinfanti tuti incastellati de llegniame, e suxo ziaschuno
+         chastello era dodexe homeni, in tal quindexe. </seg>
+      <seg xml:id="va-null-98_3_5" n="5"> E anchora aveva ben sesanta‹milia›
+         homeni in tera, da chavalo e da pie’. </seg>
+      <seg xml:id="va-null-98_3_6" n="6"> Fato questo apariamento, el vene versso
+         la zità de Nocian, là o’ era la zente del <term ref="#gran-can">Gran Chaan</term>, e messe-sse a chanpo apresso de <term ref="#vociam">Vocian</term> a tre zornade. </seg>
+      <seg xml:id="va-null-98_3_7" n="7"> Quando <term ref="#nestardin">Naschardin</term> sape questo el dubitò, perché l’aveva puocha zente a chonperazion del re de Mien,
+         ma el mostrò ch’el non avesse nesuno smarimento, perché l’aveva siego bona zente;
+         ma se messe chon soa zente in via, e andò innel piano de <term ref="#vociam">Vocian</term>, e là aspetò i nemixi. [9] Apresso de quel luogo, là dove el se messe, era uno boscho
+         de molti arbori grossi e spessi, e perziò se messe apresso de quel boscho: aziò ch’el
+         podesse chondur ai nemixi soi, perché ’l sapeva che i elinfanti non porave intrar
+         innel boscho chon i chastelli. [10] El re de <term ref="#mien">Mien</term> vene con sua zente in quel piano e messe-sse andar sopra li <term ref="#tartari">Tartari</term>, e gli <term ref="#tartari">Tartari</term> andò arditamente sopra de llor. [11] E quando i chavali d’i <term ref="#tartari">Tartari</term> àveno veduti i elinfanti, i àveno sì grande smarimento che i <term ref="#tartari">Tartari</term> non li podeva far andar innanzi, sì che i desexeno tuti da chavalo e ligò-li agli
+         albori del boscho; e andò tuti a pe’ inchontra la schiera dananzi, che era quella
+         dei elinfanti. [12] La zente del re chonbateva de sui chastelli, ma i <term ref="#tartari">Tartari</term> era plui valenti e plui uxi de bataglia che nonn era quella zente, sì che i <term ref="#tartari">Tartari</term> inirono tanto i elifanti che i se messe in rota e in fuga. [13] E messe-sse i elifanti
+         andar al boscho de tal corsa che quelli che i guidavano non i podevano tegnir nì menar
+         ad altro luogo. [14] Quando i alifanti entròno innel boscho, i chomenzàno andar in
+         zia ‹e› in là, e ronpéno tuti i chastelli ai albori del boscho, ch’erano grandi e
+         spessi. [15] E vezando questo, i <term ref="#tartari">Tartari</term> i chorseno tuti ai suo’ chavali inchontenente, i lasàno andar i alifanti per el boscho
+         e andàno arditamente a chonbater chon l’altra zente |48v| ch’era romaxa molto smarita
+         sul canpo. [16] E quando i àveno trate tute le saete, i se messe a chonbater chon
+         le spade. [17] La bataia fo molto dura e forte, e sì ge morì de molta zente del’una
+         parte e del’altra, ma ala fin lo re Mien se messe in fuga con soa zente, e i <term ref="#tartari">Tartari</term> andòno driedo alzidando queli che fuzivano, e molti ne alziseno. [18] Quando i ave
+         fato gran dalmazio in la zente del re <term ref="#mien">Mien</term>, tornarono per prendere i elinfanti che erano innel boscho, ma non ge podeva prender
+         nisuno, pure finalmente ne ave duxento. [19] Et da questa bataglia inanzi chomenzò
+         el <term ref="#gran-can">Gran Chaan</term> ad aver alinfanti per bataglia; possa chonquistò le tere del re <term ref="#mien">Mien</term> e de Pangala.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

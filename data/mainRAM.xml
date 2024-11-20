@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ramusio Digitale</title>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name xml:id="eugenio">Eugenio Burgio</name>
+               <name xml:id="samuela">Samuela Simion</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" corresp="#v_F"></witness>
+               <witness xml:id="L" corresp="#v_L"></witness>
+               <witness xml:id="P" corresp="#v_P"></witness>
+               <witness xml:id="R" corresp="#v_R"></witness>
+               <witness xml:id="V" corresp="#v_V"></witness>
+               <witness xml:id="VA" corresp="#v_VA"></witness>
+               <witness xml:id="VB" corresp="#v_VB"></witness>
+               <witness xml:id="Z" corresp="#v_Z"></witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="external"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="intro.xml" xpointer="intro_front">
+         <xi:fallback></xi:fallback>
+      </xi:include>
+      <group>
+         <!-- Redazioni -->
+         <text xml:id="v_R" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/R_completo.xml" xpointer="r_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text>
+         <text xml:id="v_L" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/L_completo.xml" xpointer="l_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text>
+         <text xml:id="v_F" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/F_completo.xml" xpointer="f_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text>
+         
+         <text xml:id="v_P" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/P_completo.xml" xpointer="p_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text>
+         <text xml:id="v_V" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/V_completo.xml" xpointer="v_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text>
+         <text xml:id="v_VA" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/VA_completo.xml" xpointer="va_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text>
+         <text xml:id="v_VB" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/VB_completo.xml" xpointer="vb_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text>
+         <text xml:id="v_Z" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/Z_completo.xml" xpointer="z_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text>
+      </group>
+      <back>
+         <!-- Apparato -->
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="apparatiRAM.xml" xpointer="MP_listApp">
+            <xi:fallback>
+            </xi:fallback>
+         </xi:include>
+         <!-- Realia -->
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="lemmi.xml" xpointer="list">
+            <xi:fallback>
+            </xi:fallback>
+         </xi:include>
+      </back>
+   </text>
+</TEI>

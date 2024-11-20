@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-38-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-38">
+      <note>
+	<p>Il dettato di R corrisponde esattamente a <ref type="witlink" target="#f-null-60">F LX 6</ref> «Et por toutes les sien montangnes i se treuve le <term ref="#rheubarbaro">ribarbar</term> en grant abondance et iluec l’acatent les mercaant et le portent puis por le monde»;
+         la fonte che meglio rispecchia F è Z toledano (<ref type="witlink" target="#z-null-35">Z 35 5</ref> «Invenitur in hiis provinciis <term ref="#rheubarbaro">reobarbaro</term> in maxima quantitate, et mercatores per universum mondum ipsum portant»), al netto
+         di una <hi rend="italics">lectio</hi> <hi rend="italics">singularis</hi> riconducibile a un intervento rimaneggiatore (il sintagma «in hiis provinciis», laddove
+         F e tutta la tradizione hanno «port toutes les sien montagnes») e di una minima riduzione
+         (F «iluec l’acatent les mercaant» &gt; Z toledano Ø). La somiglianza di R e F lascia
+         supporre che lo Z1 di Ramusio, probabile fonte del passo, corrispondesse meglio del nostro al dettato
+         francoitaliano.</p>
+	<p>L’agg. <hi rend="italics">perfettissimo</hi> riferito al rabarbaro deriverà invece da un dettaglio di <ref type="witlink" target="#vb-null-44">VB XLIV 3</ref> «Nele montagne de questa provincia se trova finissimo <term ref="#rheubarbaro">reobarbaro</term> […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

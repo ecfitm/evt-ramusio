@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-98</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-98">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 98</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-98_2_1" n="1"> Ultra predictam provinciam <term ref="#carazan">Caraian</term> .V. dietis per occidens invenitur provincia dicta Ç<term ref="#cardandan">ardandan</term>, cuius gentes sunt <term ref="#idolatri">ydolatre</term>. </seg>
+      <seg xml:id="l-null-98_2_2" n="2"> Principalis civitas dicitur <term ref="#vociam">Voccian</term>. </seg>
+      <seg xml:id="l-null-98_2_3" n="3"> Homines dentes suos totaliter auro cooperiunt, mulieres vero non. </seg>
+      <seg xml:id="l-null-98_2_4" n="4"> Et sunt
+         omnes milites more suo, nichil aliud facientes quam in exercitibus et venationibus
+         continue commorari; sed eorum mulieres in domibus commorantur, omnia necessaria facientes
+         ‹una› cum eorum servis. </seg>
+      <seg xml:id="l-null-98_2_5" n="5"> Et mulieres hee dum peperint statim ex lecto surgunt,
+         faciuntque necessaria domus serviuntque marito; ipse enim statim intrat lectum, infantemque
+         iuxta se ponit, sicque iacet .XL. diebus continuis: concurruntque undique parentes
+         visitare eum secumque gaudentes, nutritque eum eique servit uxor, et omnes alii, ac
+         si ipse esset esset qui peperisset infantem. </seg>
+      <seg xml:id="l-null-98_2_6" n="6"> Commedunt hee gentes ex omni specie
+         carnium, cocte sint vel crude, et riçis utuntur, et vino ex riço facto. </seg>
+      <seg xml:id="l-null-98_2_7" n="7"> Est aurum
+         sua moneta, et porcellane similiter; dant enim unum exagium auri pro quinque argenti;
+         modicum enim argentum habent, quia non foditur in partibus istis nisi longe per dietas
+         .V. mensium. </seg>
+      <seg xml:id="l-null-98_2_8" n="8"> Non sunt hiis ydola neque ecclesie, sed adorant maiorem domus, dicentes:
+         «Ex hoc egressi sumus». [9] Carent litteris et |15bis| scriptura – et nimirum: sunt
+         enim in deviis locis, sed in nemoribus et magnis montibus. [10] In hiis provinciis,
+         scilicet <term ref="#carazan">Caraian</term>, <term ref="#vociam">Vocian</term> et <term ref="#iaci">Iaccin</term>, non sunt medici; sed dum quis eorum infirmatur, ad eorum magos vel incantatores
+         accedunt rogantque quod de infirmo providea‹n›t. Inquirunt ergo hii tales magi de
+         modo egritudinis infirmi; tunc vero, congregati quam plures ex ipsis, incipiunt sonare
+         musica instrumenta corriçareque, sicque tam diu faciunt donec ex ipsis unus prostratus
+         cadit in terram, et spumante ore iacet ut mortuus. Tunc reliqui magi ab ipso inquirunt
+         de egritudine infirmi, respondetque in extasi manens: «Percussus est a tali spiritu
+         quem offendit» (nominatque aliquem). [11] Tunc deprecantur magi quod ei parcat spiritus
+         ille, et in restaurationem offense accipiat et precipiat quidquid placet; et super
+         hoc multis orationibus factis, tandem de morituro taliter respondetur: «Tantum offendit,
+         tanteque est malicie, quod ei nullatenus parci potest: infra talem dierum numerum
+         morietur». [12] Quod si salvari debet infirmus, respondetur: «Multum offendit, tamen
+         parcetur ei. Sumat enim tot arietes, .II. videlicet vel .III., habentes capita nigra
+         vel aliter signatos (secundum quod eis dicere placet); faciant eciam facere optimas
+         potiones faciantque sacrificia tali ydolo (quod nominare placuerit); adsintque ibi
+         tot magi totque magice mulieres, qui ydolo faciant magnas laudes». [13] Responsione
+         habita, sumunt arietes eosque ad nominatum ydolum occidunt, sanguinemque circa locum
+         expandunt; deinde carnes in domo infirmi coquunt, suntque ibi parate potiones optime.
+         Et tunc veniunt tam magi quam magice mulieres, tot numero deputati; sonant, et corriçant,
+         et eorum laudes cantant ydolisque plaudunt, cum fumo ex thure et ligno aloe undique
+         incensando, brodiumque carnium circumquaque spandendo; accenduntque luminaria magna.
+         [14] Ex tunc iterum aliquis ex magis prostratus cadit in terram, queruntque reliqui
+         utrum adhuc pepercitum sit in infirmo, et utrum liberari debeat; respondetur quod
+         nundum est plenarie satisfactum: sed faciant tale quid, et parcetur infirmo. Hoc vero
+         faciunt absque mora, et ex tunc respondetur quod satisfactum est ydolo tali vel spiritui,
+         et quod in brevi sanabitur. [15] Hec responsa, licet aliquando fallant, tamen quam
+         plurimum vera sunt. [16] Et post hec, postquam incensa dederunt expanderuntque de
+         brodio per terram ‹undique›, credentes partem suam spiritui iam dedisse, dicunt quod
+         bene est spiritui satisfactum; quare cum leticia magna carnes commedunt potionesque
+         bibunt, tam magi quam magice mulieres. Sicque infirmi medela completa est.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

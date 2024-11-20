@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-77-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-77">
+      <note>
+	<p>Qui e nella pericope successiva, Ramusio recupera delle informazioni tràdite dal solo
+         <ref type="witlink" target="#z-null-90">Z 90 24-25</ref> «Et parascides iste de huiusmodi terra fiunt: videlicet quod illi de civitate coligunt
+         limum et terram putridam, et faciunt magnos montes, et sic eos dimitunt per .XXX.
+         et .XL. annos quod ipsos montes non movent. Et tunc terra in illis montibus tam longo
+         tempore ita conficitur quod parascides facte ex ipsa colorem habent accuri, et sunt
+         valde relucentes et pulcerime ultra modum». R trasmette un testo più dettagliato di
+         quello di Z («di una minera», «al vento, alla pioggia et al sole», «et poi le cuocono
+         in la fornace»), ma si tratta di dettagli ridondanti e scarsamente informativi, che
+         potrebbero essere stati aggiunti arbitrariamente dall’editore. Quasi sicuramente da
+         un’incomprensione del modello deriva la variante «che poi si puol far dette scudelle,
+         alle qual danno di sopra li colori che vogliono», che appare senza dubbio deteriore
+         rispetto a quella presente in Z («[…] quod parascides facte ex ipsa colorem habent
+         accuri»). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

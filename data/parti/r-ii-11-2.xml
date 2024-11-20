@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-11-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-11">
+      <note>
+	<p>Nella prima parte della pericope («Nel giorno […] seda»), R dimostra di dipendere
+         da un esemplare simile in lezione a <ref type="witlink" target="#f-null-86">F LXXXVI 3-4</ref> «Or sachiés que le jor de sa na‹ti›vité le <term ref="#gran-can">Grant Kaan</term> se vest de noble dras a or batu. Et bien .XIIm. baronç et chevalers se vestent cum lui, dou color et d’une mainere semblable a cel
+         dou <term ref="#gran-can">Grant Sire</term>; non pas qe il soient si chier, mes il sunt dou color, et dras de soie et dorés […]».
+         Non si notano, invece, particolari affinità di R con altre sue fonti: <ref type="witlink" target="#l-null-72">L 72 2</ref> «[…] vestiturque ex pannis purissimi auri, secum eciam et .XIIm. barones vel milites similibus vestiuntur pannis, licet tanti non existant valoris
+         […]»; <ref type="witlink" target="#p-ii-14">P II 14 3</ref> «In festo igitur nativitatis sue, rex <term ref="#gran-can">Magnus Kaam</term> induitur veste aurea que pretiosa est supra modum; habet autem in sua curia barones
+         et milites numero .XII. milia qui dicuntur proximi fideles domini: hos omnes simili
+         veste secum induit […]»; <ref type="witlink" target="#v-null-43">V 43 1</ref> «[…] zoè el <term ref="#gran-can">Gran Chan</term> se veste de pano d’oro de gran valor, et per el simel fano vestir diexemilia zitadini,
+         zintilomeni e chavalieri tuti de uno cholor simele al suo, mo no de tanto valor; le
+         qual veste sono de cholor d’oro e de seda […]». La lezione «ventimilia» potrebbe derivare
+         dall’erronea lettura di «.XIIm.», mentre la forma «soldati» suggerisce che la fonte perduta di R fosse scritta in
+         latino («milites»).</p>
+	<p>Nella seconda parte del passo («et insieme con la veste […] bisanti d’oro»), R si
+         attiene alla struttura di P, che anticipa in questo punto dei dettagli che nella versione
+         originale sono riferiti all’abbigliamento indossato dalle guardie imperiali in occasione
+         della Festa bianca e riportati più avanti nel testo (vd. <ref type="witlink" target="#r-ii-12">R II 12 15</ref>): <ref type="witlink" target="#p-ii-14">P II 14 3</ref> «[…] quocienscumque festa celebrat, que sunt in anno .XIII., quibus etiam donat singulis
+         festis predictis çonas aureas magni valoris et calciamenta de camuto filo consuta
+         argenteo valde subtiliter […]. Vestes tamen aliorum militum sic pretiose sunt quod
+         ex eis multe excedunt valorem decem milium bisantium aureorum […]». Va rilevato che
+         in P e in gran parte delle redazioni si parla di cinture «d’oro», non «di camoscio»
+         come in R, e di calze di «camuto» (cioè di cuoio ottenuto dalla pelle del dorso del
+         cavallo o dell’asino): <ref type="witlink" target="#f-null-86">F LXXXVI 4</ref> «[…] et tuit ont grant çinture d’or: et {en} cestes vestime‹n›s done elz le <term ref="#gran-can">Grant Sire</term>; et si voç di que il hi a de telz de cesti vestiment que valent les pieres presioses
+         et les perles que sovre hi estoient, {vailent} plus de .Xm. biçanç d’or; et de cesti tielz en hi a plusors»; <ref type="witlink" target="#f-null-89">F LXXXIX 4</ref> «Il a encore doné a chascuns des cesti .XIIm. baronç une ceinture d’or mout belle et de grant vailance; et enchore doné a chascun
+         chausemant de camu laboré de fil d’arjent mout sotilmant qui sunt mout biaus et chieres»;
+         <ref type="witlink" target="#l-null-72">L 72 2</ref> «[…] largiturque dominus hiis .XIIm. hec omnia vestimenta, que maximi sunt valoris, ex quibus quam plura sunt in tantum
+         lapidibus et margaritis ornata (quod sunt valoris ‹plus› .Xm. biçantium auri)»; <ref type="witlink" target="#l-null-74">L 74 2</ref> «Cuilibet autem eorum largitur .XIII. vestimenta diversorum colorum et magni valoris,
+         et insuper aureum cingulum; suntque vestimenta hec adornata lapidibus preciosis et
+         margaritis, quare sunt maximi valoris. Dat eciam eis calciamenta de pelle dicta camuto,
+         laborata filis argenteis valde pulcherrime». La lezione di R potrebbe spiegarsi sulla
+         base di <ref type="witlink" target="#v-null-43">V 43 1</ref> / <ref type="witlink" target="#v-null-43">V 43 15</ref>, che parla di «zentura d’oro […] de chremexin»: «[…] et tuti àno zenture d’oro; et
+         queste veste el <term ref="#gran-can">Gran Chan</term> le dona, et algune de queste àno piere prezioxe e perle de valor de zinquemilia bisanti;
+         et queste tal vestimente lor le porta ale gran feste che lor fano» / «[…] et dàli
+         a zaschun de quelli una zentura d’oro de gran valor, de chremexin, lavorada chon fili
+         d’oro e d’arzento, lavorada sotilmente». Si può ipotizzare che l’antigrafo di V –
+         a cui la fonte perduta di R era prossima – leggesse «çonam auream […] de camuto» o
+         qualcosa di analogo, che poi l’autore di V ha frainteso.</p>
+	<p>Nella terza parte della pericope («come sono quelle […] <term ref="#quiecitari">quiecitari</term>»), R anticipa un altro dettaglio che nella versione originale è collocato nel capitolo
+         dedicato all’abbigliamento delle guardie imperiali nella Festa bianca. Si noti tuttavia
+         che questo passaggio è molto sintetico in P, per cui Ramusio deve aver utilizzato
+         necessariamente anche un’altra fonte: <ref type="witlink" target="#f-null-89">F LXXXIX 2</ref> «Or sachiés tuit voiremant que le <term ref="#gran-can">Gran Sire</term> a ordree sien .XIIm. baronz, que <term ref="#quiecitari">Quecitain</term> sunt apellés, que vaut a dire les prosimen feoilz dou seingnor […]»; <ref type="witlink" target="#p-ii-14">P II 14 3</ref> «[…] .XII. milia qui dicuntur proximi fideles domini […]»; <ref type="witlink" target="#l-null-74">L 74 1</ref> «Habet <term ref="#gran-can">Magnus Canis</term> .XIIm. baronum electorum quos “<term ref="#quiecitari">quecitain</term>” appellant, quod sonat “proximi fideles domini”»; <ref type="witlink" target="#v-null-43">V 43 15</ref> «[…] et dàle a dodexemilia so zentilomeni, li qualli vieno dito in la sso lengua
+         “<term ref="#quiecitari">Chontani</term>”, et in la nostra lengua vieno diti “fedeli del prossimo del <term ref="#gran-can">Signor</term>” […]».</p>
+	<p>Nella quarta parte («et queste tali veste»), R fonde assieme dettagli attinti dalle
+         due sezioni – il capitolo dedicato alla festa per la natività del Gran Can e quello
+         sull’abbigliamento della guardia imperiale nella Festa bianca: <ref type="witlink" target="#f-null-86">F LXXXVI 5</ref> «Et sachiés qe le <term ref="#gran-can">Grant Kan</term> .XIII. foies le an done riches vestimens a celz .XIIm. baronç et chevalers […]» / <ref type="witlink" target="#f-null-89">F LXXXIX 6</ref> «Et a chascune feste de les .XIII. est ordree le quelz de cesti vestimenz se doit
+         vestir»; <ref type="witlink" target="#l-null-72">L 72 3</ref> «Et insuper .XIII. vicibus in anno hos .XIIm. nobilibus vestimentis secum gratis adornat similibus et substantia et colore» /<ref type="witlink" target="#l-null-74"> L 74 3</ref> «Determinata sunt hec .XIII. vestimenta .XIII. festis solemnibus ‹anni›, quodlibet
+         videlicet suo festo […]». Anche questa parte non trova esatta rispondenza in <ref type="witlink" target="#p-ii-14">P II 14 3</ref> «[…] hoc igitur modo dat annuatim suis baronibus et militibus in universo pretiosas
+         vestes ornatas auro, margaritis et lapidibus pretiosis, cum çonis et calciamentis
+         predictis numero centum et quinquaginta sex milia. Sunt autem vestes militum predictorum
+         eiusdem coloris cuius est vestis <term ref="#gran-can">Magni Kaam</term>».</p>
+	<p>Nella parte conclusiva («di maniera che […] re»), R anticipa ancora, sulla scorta
+         di P, un dettaglio che nella versione originale è collocato più avanti: <ref type="witlink" target="#f-null-89">F LXXXIX 5</ref> «Il ont tuit aornemant si noble et si biaus que bien senble, quant il les ont vestu,
+         que chascun soit un rois»; <ref type="witlink" target="#p-ii-14">P II 14 3</ref> «[…] ita quod quilibet eorum in hoc regio apparatu rex magnus esse videtur […»; <ref type="witlink" target="#v-null-43">V 43 15</ref> «[…] che a zaschuno par essere uno re».</p>
+	<p>In VB e Z manca l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

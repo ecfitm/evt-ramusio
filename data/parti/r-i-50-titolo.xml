@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-50-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-50">
+      <note>
+	<p><ref type="witlink" target="#f-null-71">F LXXI</ref> (Ci devise dou grant roiaumes d’<term ref="#erginul">Ergivul</term>); <ref type="witlink" target="#l-null-62">L 62</ref> (De regno <term ref="#erginul">Ergivul</term>); <ref type="witlink" target="#p-i-63">P I 63 2-12</ref> (De regno <term ref="#erginul">Ergimul</term> et civitate <term ref="#singui">Singiu</term>), <ref type="witlink" target="#va-null-57">VA LVII 2-18</ref> (De <term ref="#singui">Gagni</term>, dove è i buò grandi come elifanti); <ref type="witlink" target="#v-null-37">V 37 10-23</ref> (Dela planura de <term ref="#bargu">Bachu</term> e del reame de <term ref="#erginul">Erguuil</term>); <ref type="witlink" target="#vb-null-59">VB LIX</ref> / <ref type="witlink" target="#vb-null-60">VB LX</ref>; <ref type="witlink" target="#z-null-39">Z 39</ref>.</p>
+	<p>I paragrafi 1-5 del capitolo sono interamente debitori della lezione di Z. Nei paragrafi
+         6-19 all’utilizzo di Z, comunque prevalente, si affianca quello di VB, scelto specialmente
+         per la sua più efficace descrizione della caccia alla gazzella da muschio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

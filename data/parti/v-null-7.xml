@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-7">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 7 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-7_2_1" n="1"> ‹S›iando i diti do frateli e misier Marcho stati gran tenpo nela chorte del <term ref="#gran-can">Gran Chan</term>, chomo di sopra avete oldido, uno zorno fra loro diterminò di voler ritornar nele
+         lor parte, zoè nela sua patria. </seg>
+      <seg xml:id="v-null-7_2_2" n="2"> Et fato la deliberazione andorono dal Signor,
+         pregando quelo che li chonzedese de grazia che li volea tornar a chaxa soa; et ello
+         rispoxe: «Perché volete andar a morir nela via? </seg>
+      <seg xml:id="v-null-7_2_3" n="3"> Diteme se avete bixogno de oro,
+         ve ne darò molto più che non avete, et simel hogni altra chossa vui domanderete».
+         </seg>
+      <seg xml:id="v-null-7_2_4" n="4"> Allora respoxe misier Nicholò: «O Signor, quelo che digo nonn è per bisogno di
+         oro, ma sono perché nela mia tera io ho moier et non la posso abandonar segondo la
+         leze christiana, domentre che la vive». </seg>
+      <seg xml:id="v-null-7_2_5" n="5"> Allora respoxe el Signore, il qualle li
+         amava molto: «Per chondizion del mondo non voio ve partiate del mio reame, ma ben
+         son chontento andate per quelo dove ve piaze». </seg>
+      <seg xml:id="v-null-7_2_6" n="6"> Et essendo passado zerto tempo,
+         vene che la reina <term ref="#bolgara">Burgara</term>, moier de <term ref="#argon">Argon</term>, Signor de Levante, vene a morte, et quela per so testamento ordenò che alguna femena
+         non podesse sentar nela soa sedia che fosse moier de <term ref="#argon">Argon</term>, se la non fosse dela soa provinzia de <term ref="#argon">Argon</term>. </seg>
+      <seg xml:id="v-null-7_2_7" n="7"> Onde questo re, vedendo ziò, elesse tre nobeli chavalieri, el nome deli qual
+         primo era chiamado <term ref="#ulatay">Ulatai</term>, lo segondo <term ref="#apusca">Hapuoscha</term>, lo terzo <term ref="#coza">Chorza</term>, et chon questi mandò de molti altri nobeli baroni per anbasadori al <term ref="#gran-can">Gran Chan</term>, pregando quelo i dovesse mandar moglie la qual fosse dela provinzia dela regina
+         |9v<hi rend="italics">|</hi> <term ref="#bolgana">Bulgera</term> che fo suo’ moier. </seg>
+      <seg xml:id="v-null-7_2_8" n="8"> Onde inchontinente i diti anbasadori furono partidi et andorono
+         al <term ref="#gran-can">Gran Chan</term> et disseli la chaxon perché i era vegnudi. [9] Onde quelo li rezevé honorevelmente
+         fazendoli gran festa; et possa mandò per una dona la qual nomeva <term ref="#cogatin">Chogazin</term>, la qual era dela provinzia dela raina <term ref="#bolgara">Burgara</term> et iera de ani vintisete, ed era molto bela. [10] Alora el Signor disse ali anbasadori:
+         «Questa è quela femena che vui domandade», et quelli respoxe che molto li piaxeva.
+         [11] Or in questo tempo che i diti anbasadori erano venuti per quela dona, missier
+         Nicholò e misier Mafio iera vegnudi in quel’ora d’<term ref="#india">India</term> per diversi mari, et de quelle parte disse de molte chosse al Signor. [12] Di che
+         vedendo i prediti baroni questi do fradeli e misier Marcho, li quali ierano omeni
+         latini, disse infra lor che volentiera i voria che li andasse chon loro. [13] Et inchontinente
+         andò dal <term ref="#gran-can">Gran Chan</term>, dimandando di grazia che queli tre omeni latini lassasse andar chon loro dal suo’
+         Signor; onde el Signor li chonzesse quello li domandòe, ma non volentiera, perché
+         lo i amava molto, chomo ve ò dito di sopra.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

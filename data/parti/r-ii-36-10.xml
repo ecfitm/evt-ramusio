@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-36-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>Il testo di R risulta molto diverso da quello che si legge in gran parte delle sue
+         fonti e in F: <ref type="witlink" target="#l-null-93">L 93 3</ref> «[…] dictum Qiansui […] quod intrat <term ref="#mare-oceano">Occeanum mare</term>, a quo distat .LXXX. v‹el› .C. dietis […]»; <ref type="witlink" target="#p-ii-53">P II 53 3</ref> e sg. «[…] qui dicitur <term ref="#quian">Quianfu</term> […] nam usque ad <term ref="#mare-oceano">Occeanum</term> protenditur per triginta dietas»; V 55 4 «[…] et questo flume schore perfina al <term ref="#mare-oceano">Mar Hozeano</term>, che sono mia sesantatré; questo flume sono chiamato <term ref="#quian">Chiensui</term>»; <ref type="witlink" target="#vb-null-80">VB LXXX 3</ref> «[…] el qual mete chapo nel <term ref="#mare-oceano">Mar Oceano</term> lutano da questa citade per più de migia .C.» (<ref type="witlink" target="#f-null-113">F CXIII 7</ref> «[…] il est› si lon qe vait jusque a la <term ref="#mare-oceano">mer Hosiane</term>, qe hi a plus de .LXXX. jornee jusque en .C., et est apellé Qiansui»). Benché la testimonianza di Z toledano sia lacunosa, è oltremodo verosimile che
+         il testo di R rispecchi in questo punto la lezione del perduto Z1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-55</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-55" n="1">
+    <head>
+      <hi rend="bold">R, II 55</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-55_1_1" n="1"> Della nobilissima provincia di <term ref="#mangi">Mangi</term>, et come il <term ref="#gran-can">Gran Can</term> la soggiogò. Cap. 55.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-55_2_1" n="1"> La provincia di <term ref="#mangi">Mangi</term> è la piú nobile et piú ricca che si trovi in tutto il Levante. </seg>
+      <seg xml:id="r-ii-55_2_2" n="2"> Et nel 1269 vi era un signor detto Farfur, il piú riccho et piú potente principe che si sapesse essere stato già centenara
+         d’anni, ma era signor pacifico et huomo che faceva grandi elemosine, né credeva che
+         signor del mondo li potesse nocere, per l’amor che li portavano i popoli et per la
+         fortezza del paese, circondato da grandissimi fiumi: dal che processe che ’l detto
+         non si essercitò nell’armi, né manco volse che li suoi popoli vi si essercitassero.
+         </seg>
+      <seg xml:id="r-ii-55_2_3" n="3"> Le città del suo regno erano fortissime, perché cadauna havea intorno una fossa profonda
+         et larga quanto poteva tirare un arco, piena di acqua, né teniva cavalli a suo soldo,
+         non havendo paura di alcuno. </seg>
+      <seg xml:id="r-ii-55_2_4" n="4"> Né ad altro era rivolto l’animo del re et tutti i suoi pensieri, se non a darsi buon
+         tempo et star di continuo in piaceri: havea nella sua corte et a’ suoi servitii circa
+         mille bellissime giovani, con le quali si vivea in grandissime delitie. </seg>
+      <seg xml:id="r-ii-55_2_5" n="5"> Amava la pace et manteneva la giustitia severamente, et non voleva che ad alcuno
+         fosse fatto un minimo torto, né che alcuno offendesse il prossimo, perché il re li
+         faceva punire senza alcun riguardo. </seg>
+      <seg xml:id="r-ii-55_2_6" n="6"> Et era tanta la fama della sua giustitia, che alcune fiate le persone si dimenticavano
+         le loro botteghe aperte piene di mercantie, et nondimeno non vi era alcuno che ardisse
+         d’intrarli dentro o levarli alcuna cosa. </seg>
+      <seg xml:id="r-ii-55_2_7" n="7"> Tutti i viandanti di giorno et di notte potevano andare liberi et sicuramente per
+         tutto il regno, senza paura di alcuno. [8] Era pietoso et misericordioso verso poveri et bisognosi: ogni anno faceva raccogliere
+         ventimila picciolini che dalle madri povere erano |41v| esposti, per non poterli far
+         le spese, et questi fanciulli faceva allevare, et come erano grandi li faceva mettere
+         a far qualche mestiero, o vero li maritava con le fanciulle che similmente havea fatto
+         allevare. [9] Hor <term ref="#cublai-can">Cublai Can</term> signor d’i <term ref="#tartari">Tartari</term> di contraria natura era del re <term ref="#fanfur">Fanfur</term>, perché di niuna cosa si dilettava che di guerre et conquistar paesi et farsi gran
+         signor. [10] Costui, doppo grandissimi conquisti di molte provincie et regni, deliberò di conquistar
+         la provincia di <term ref="#mangi">Mangi</term> e, messo insieme gran sforzo di genti da cavallo et da piedi, sí che era un potente
+         essercito, vi fece capitano uno nominato <term ref="#chinsanbaian">Chinsanbaian</term>, che vuol dire in lingua nostra “Cento Occhi” et quello con le genti mandò con molte
+         navi nella provincia di <term ref="#mangi">Mangi</term>. [11] Dove giunto, fece richiedere gli habitatori della città di <term ref="#coiganzu">Coiganzu</term> che volessero dare obedienza al suo re, la qual cosa recusorono di fare; poi, senza
+         far assalto alcuno, processe alla seconda città, la qual similmente denegò di arrendersi,
+         et partitosi andò alla terza, quarta, et da tutte hebbe la medema risposta. [12] Et non volendo lasciarsi adrieto tante città, anchor ch’egl’havesse un fortissimo
+         essercito, et che il <term ref="#gran-can">Gran Can</term> li mandasse un altro per terra di non minor numero et fortezza, deliberò di espugnarne
+         una, et quivi con tutto il suo potere et sapere la prese, faccendo uccidere quanti
+         in quella si trovorono: la qual cosa udita da tutte l’altre fu di tanto spavento et
+         terrore che spontaneamente tutte vennero all’obedienza sua. [13] Et dapoi se n’andò con tutti duoi gli esserciti che havea sotto la real città di
+         <term ref="#quinsai">Quinsai</term>, nella qual trovandosi il re <term ref="#fanfur">Fanfur</term> tutto spauroso et tremante, come quello che mai non havea veduto combattere né stato
+         in guerra alcuna, dubitando della sua persona, montò sopra le navi ch’erano stà preparate
+         per questo effetto, con tutto il suo thesoro et robe sue, lasciando la guardia della
+         città alla moglie, con ordine che si defendesse al meglio che potesse, perché, essendo
+         femmina, non havea a dubitare che, capitando in le mani d’i nimici, la facessero morire;
+         et partito andossene per il <term ref="#mare-oceano">mare Oceano</term> ad alcune sue isole dove erano luoghi fortissimi, et quivi finí la sua vita. [14] Hor, lasciata la moglie in questo modo, se dice che ’l re <term ref="#fanfur">Fanfur</term> era stato admonito da’ suoi astrologhi che non li poteva esser tolta la signoria,
+         salvo da un capitano che havesse cento occhi: la qual cosa sapendo la regina, essendo
+         ogni giorno piú stretta la città, stava pur con speranza di non poterla perdere, parendoli
+         impossibile che un huomo havesse cento occhi. [15] Et un giorno, volendo sapere come havea nome il capitano nimico, le fu detto <term ref="#chinsanbaian">Chinsanbaian</term>, cioè Cento Occhi: il qual nome la impauritte et mese gran terrore, pensando costui
+         dover esser quello che gli astrologhi haveano detto al re che ’l cacciaria di signoria;
+         però, come femmina piena di paura, senza pensarvi piú sopra si rese. [16] Havuta la città di <term ref="#quinsai">Quinsai</term> da’ <term ref="#tartari">Tartari</term>, subito tutto il resto della provincia venne in suo potere, et fu mandata la regina
+         alla presenza di <term ref="#cublai-can">Cublai Can</term>, et da quello fu ricevuta honorevolmente, qual li fece dar di continuo tanti danari
+         che si mantenne di continuo come regina. [17] Hor che habbiamo detto del conquistar della provincia di <term ref="#mangi">Mangi</term>, diremo delle città che sono in quella, et prima di <term ref="#coiganzu">Coiganzu</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

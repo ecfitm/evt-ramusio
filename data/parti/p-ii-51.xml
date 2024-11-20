@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-51</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-51">
+    <head>
+      <hi rend="bold">P, II 51</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-51_2_1" n="1"> Ultra civitatem <term ref="#ciangli">Cyangli</term> ad dietas .VI. versus meridiem est civitas magna <term ref="#tudinfu">Tandifu</term> que regem hactenus habere consueverat ante quam subiceretur <term ref="#gran-can">Magno Kaam</term>. </seg>
+      <seg xml:id="p-ii-51_2_2" n="2"> Habet autem sub suo iure civitates .XI. in quibus omnibus viridaria sunt, et
+         est ibi fructuum et serici copia. </seg>
+      <seg xml:id="p-ii-51_2_3" n="3"> Rursum ad meridiem ad dietas .III. est civitas
+         nobilis <term ref="#singuimatu">Singiumatu</term> ad quem discendit a meridie fluvius magnus qui ab incolis in duas partes divisus
+         est, quarum una ad orientem vadit versus <term ref="#mangi">Mangy</term>, alia vero ad occidentem versus <term ref="#cataio">Cathay</term>; per hos fluvios naves mediocres innumere vadunt cum mercacionibus infinitis. </seg>
+      <seg xml:id="p-ii-51_2_4" n="4">
+         De <term ref="#singuimatu">Singuimatu</term> vero progredientes ad meridiem |60c| continue per dietas .XVI. reperiuntur civitates
+         et oppida in quibus mercaciones magne sunt. </seg>
+      <seg xml:id="p-ii-51_2_5" n="5"> Omnes autem habitatores patrie ydolatre
+         sunt et tota regione est subdita <term ref="#gran-can">Magno Kaam</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

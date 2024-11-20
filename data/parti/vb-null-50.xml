@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-50</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-50">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, L</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-50_1_1" n="1"> ‹A›vendo aquistato <term ref="#cingis-can">Çecin Chan</term> molte provincie e, cresuto l’esercito suo in grandissima moltitudene di ce‹n›te,
+         alçato molto nell’anemo suo, deliberò rechiedere la fiolla de <term ref="#umcan">Umecham</term> – çoè a nostro modo, de <term ref="#prete-gianni">Presto Çane</term> – per moglie. </seg>
+      <seg xml:id="vb-null-50_1_2" n="2"> Et ellese suo nobelle et richa anbasaria et mandòlla a <term ref="#prete-gianni">Presto Çane</term> con queste parolle: che <term ref="#cingis-can">Çecin Chan</term>, suo magno et gran segnore, avendo senpre amato la soa segnoria, avea deliberato
+         questa soa deliciun et amore versso quel segnore con effetto mostrare e, che per parte
+         del suo segnore, il pregavano che lo i volese dare per moglie la figiolla soa, açò
+         questo parentato fosse chaxone di fare fra loro cresere l’amore et açò che do segnori
+         de tanta possança foseno d’amore et de vincolo de parenta uniti e, che questo parenta
+         seria con grandissima laude et forteça d’etranbe loro segnori. </seg>
+      <seg xml:id="vb-null-50_1_3" n="3"> Udito ebe <term ref="#prete-gianni">Presto Çane</term> l’inbassata de <term ref="#cingis-can">Çecino Can</term>, tuto furibondo et pieno de ira, non possendo retenere l’acexa soa chalora, cridò
+         e disse: «Che temerità è quella de <term ref="#cingis-can">Çecino</term> mio sudito et trabutario ardischa dimandare la figuolla del suo segnore per moglie?
+         dove i vene tanta altereça? donde tanta temerità? non se chognose <term ref="#cingis-can">Çecino</term> chui l’è? e se sì pocho intelletto è in lui, io delibero corecerllo per modo de qui
+         avanti el se cognoscha. </seg>
+      <seg xml:id="vb-null-50_1_4" n="4"> Andate adonqua e con velocità dite a <term ref="#cingis-can">Çecino</term> che io iuro a trovarllo e ch’el se aparechia con el suo hoste, però che io delibero
+         darge per moglie quella femena merita la soa insipiencia et alora credo el ‹cognoserà›
+         chui l’è e chi è <term ref="#prete-gianni">Presto Çane</term>: andativene presto, che presto io serò a llui».</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

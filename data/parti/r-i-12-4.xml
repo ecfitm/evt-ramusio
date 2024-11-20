@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-12-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-12">
+      <note>
+	<p>L’informazione sugli asini selvatici è condivisa da tutti relatori tranne V: vd. <ref type="witlink" target="#v-null-19">V 19 3</ref> «[…] e li marchadanti che chavalcha per quela pianura ne à gran piaxer e ssollazo;
+         et simelmente de molte altre chazaxon». Il riferimento generico alla caccia, riposizionato
+         in V a chiusura della pericope, occorre, diversamente collocato, anche nelle altre
+         redazioni (vd. <ref type="witlink" target="#r-i-12">R I 12 3</ref>).</p>
+	<p>Il sostantivo <hi rend="italics">onagro</hi>, appropriato tecnicismo per l’asino selvatico di <term ref="#persia">Persia</term>, è utilizzato solo in in <ref type="witlink" target="#p-i-20">P I 20</ref> «Ibi <term ref="#asini-salvatichi">onagri</term> et coturnices in multitudine magna reperiuntur» e in <ref type="witlink" target="#z-null-11">Z 11 6</ref> «Habentur etiam ibi <term ref="#asini-salvatichi">honagri</term>, scilicet <term ref="#asini-salvatichi">silvestres asini</term>, valde pulcri», che si differenzia da <ref type="witlink" target="#f-null-33">F XXXIII 7</ref> «[…] Il hi a encore <term ref="#asini-salvatichi">asne savajes</term> mout biaus») unicamente per questa precisazione lessicale.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

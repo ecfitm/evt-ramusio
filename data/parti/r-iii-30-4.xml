@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-30-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-30">
+      <note>
+	<p>Nei due paragrafi conclusivi Ramusio opera una drastica potatura della sua fonte.
+         Qui riduce a generica informazione un corpo ben più articolato (e in misura diversa)
+         nella tradizione: <ref type="witlink" target="#z-null-118">Z 118 7-8</ref> «Ibi quidem fiunt multa mercimonia, et vadunt illuc multe naves et mercatores, quoniam
+         illinc extrahuntur coria de multis manerieribus, et <term ref="#bochassini">bucherani</term> et <term ref="#bambagio">bombix</term>. Et mercatores qui illuc veniunt portant secum multas res – videlicet aurum, argentum,
+         et ramum et alia mercimonia multa –, et ferunt de mercimoniis illius regni de quibus
+         credunt facere profectum» (che traduce F CLXXXIV 4-5 «Il hi se fait grant mercandies et hi vont nes et merchant asseç, car il s’en trait
+         cu‹i›res afaités de maintes faisonç mout bones et belles; et encore s’en traient <term ref="#bochassini">bocaran</term> aseç e buens, e <term ref="#bambagio">banbace</term> ausint. E les mercant con lor nes menent et aportent plosors chouses, ce sunt or,
+         arjent, raim et maintes autres mercandies qe abeçogne au roiames; et enportent de
+         celle dou roiame des quelz il croient faire profit et gaagne»); L 171 6 «Apportantur hic multa coria, et fiunt ‹hic› quam plurimi <term ref="#bochassini">bochorani</term>»; V 101 4-5 «In quello luogo se fano molte marchadantie, et là vieno molte nave e marchadanti,
+         perché là se traze chuori de molte maniere. Et i marchadanti che vano lì portano chon
+         loro botane e <term ref="#bambagio">banbaxo</term>, et rame, oro, et arzento, et molte altre marchadantie; el qual rame i vendeno e
+         vadagna»; VB CLIV 4-6 «Àno churami assai et de molte façon et bello. Àno <term ref="#bambagio">banbaso</term> assai. Lì chapita oro et argento assai che portano i marchadanti».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

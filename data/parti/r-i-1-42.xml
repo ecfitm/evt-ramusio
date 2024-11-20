@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-1-42</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-1">
+      <note>
+	<p>La decisione dei tre Polo di tornare a Venezia e l’iniziale rifiuto dell’imperatore
+         alla loro richiesta di partire (parr. 42-44) assumono nel racconto di Ramusio tonalità
+         romanzesche e sviluppi assai più ampi che nel resto della tradizione: vd. <ref type="witlink" target="#f-null-17">F XVII 2-3</ref> «Et quant messere Nicolau et meser Mafeu et meser March furent demoréç avech le <term ref="#gran-can">Gran Kan</term> tant com voç avés oï, il distrent entr’aus q’il voloient retorner en lor contree.
+         Il domandent plusors fois parole au <term ref="#gran-can">Grant Kaan</term> et l’en prient mout doucemant: mes le <term ref="#gran-can">Grant Kan</term> les amoit tant et li tenoit si voluntieres entor lui q’il ne lor donoit paroile por
+         ren dou monde», <ref type="witlink" target="#p-i-9">P I 9 1</ref> «Post desiderantes prefati domini redire Venecias, veniendi licenciam a rege pluries
+         petierunt qui, pre dilectione magna quam habebat ad eos, ad consensum non poterat
+         inclinari», <ref type="witlink" target="#va-null-7">VA VII 1</ref> «Quando misier Nicolò e misier Mafio e misier Marcho fo stati in la chorte del <term ref="#gran-can">Gran Chan</term> tanto chome ò dito de sopra, egli domandò piuxor fiade parolla al signior de poder
+         tornar a sua tera, ma tanto era l’amor ch’ell li aveva ch’el non li volea dar chonbiado
+         né parolla che i se ne andasse», <ref type="witlink" target="#vb-null-9">VB IX 1-2</ref> «‹E›ssendo stati miser Nicholò miser Mafio e miser Marcho el tenpo aveti aldito,
+         deliberòno de lì partirsse per tornare a ponente. Et deliberòno domandare licencia
+         al Segnor <term ref="#gran-can">Gran Chane</term>, el qual Segnore, amando quelli, più fiate il la denegò, né volea da loro i sse partiseno».</p>
+	<p>Si potrebbe anche credere che Ramusio abbia qui ampliato in autonomia lo scarno dettato
+         delle fonti, magari traendo materiali dalle leggende veneziane sul ritorno dei Polo
+         che egli mostra di conoscere a fondo (si veda in proposito la dedicatoria al Fracastoro).
+         Tuttavia, il più ampio e teatrale resoconto di V permette di ipotizzare l’esistenza
+         di una fonte  che recasse una versione dell’episodio più lunga e articolata: vd. <ref type="witlink" target="#v-null-7">V 7 1-5</ref> «‹S›iando i diti do frateli e misier Marcho stati gran tenpo nela chorte del <term ref="#gran-can">Gran Chan</term>, chomo di sopra avete oldido, uno zorno fra loro diterminò di voler ritornar nele
+         lor parte, zoè nela sua patria. Et fato la deliberazione andorono dal Signor, pregando
+         quelo che li chonzedese de grazia che li volea tornar a chaxa soa; et ello rispoxe:
+         ‘‘Perché volete andar a morir nela via? Diteme se avete bixogno de oro, ve ne darò
+         molto più che non avete, et simel hogni altra chossa vui domanderete’’. Allora respoxe
+         misier Nicholò: ‘‘O Signor, quelo che digo nonn è per bisogno di oro, ma sono perché
+         nela mia tera io ho moier et non la posso abandonar segondo la leze christiana, domentre
+         che la vive’’. Allora respoxe el Signore, il qualle li amava molto: ‘‘Per chondizion
+         del mondo non voio ve partiate del mio reame, ma ben son chontento andate per quelo
+         dove ve piaze’’».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

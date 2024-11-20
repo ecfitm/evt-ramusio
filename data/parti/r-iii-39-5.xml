@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-39-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-39">
+      <note>
+	<p>La pericope pare un mosaico rielaborato di microtessere ricavate da più fonti. «Il
+         maggior re» e «verso la provincia d’<term ref="#adem">Adem</term>» rinviano a <ref type="witlink" target="#p-iii-43-1">P III 43 4-5</ref> «Rex autem maior in utraque provincia habitat. Saraceni vero in extremis provincie
+         habitant versus provinciam <term ref="#adem">Aden</term>» (versione di VA CLI 6 «Lo re demora in mezo la provinzia e li saraxini demora versso la provinzia de <term ref="#adem">Eden</term>»); «nel mezzo di detta provincia» si ritrova in Z 126 8 «Magnus quidem rex permanet in medio provincie, saraceni vero permanent versus <term ref="#adem">Aden</term>» (versione di F CXCII 4 «Le grant roi demore eu mileu de la provence. Les saraçin demorent ver <term ref="#adem">Aden</term>»), e in VB CLXIII 6 «El re cristian grande demora nel meço della provincia e i saracini demorano verso
+         <term ref="#adem">Aden</term>». Solo V 108 5 equivoca sulla geografia: «El gran re stano in mezo dela provinzia, et i suo’ Saraini
+         stano inverso l’<term ref="#india">*India</term>».</p>
+	<p>L 180 1 anticipa l’informazione (vedi la nota a <ref type="witlink" target="#r-iii-39">R III 39 2</ref>).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

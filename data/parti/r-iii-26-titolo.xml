@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-26-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-26">
+      <note>
+	<p>F CLXXX (Ci devise de la cité de <term ref="#cumari">Comari</term>); manca in V; <ref type="witlink" target="#p-iii-32">P III 32</ref> (De provincia <term ref="#cumari">Comari</term>. Capitulum XXXII), VA CXLII (De <term ref="#cumari">Comari</term>, ove è simie che par homeni); Z 114 (Hic naratur de civitate Camari); L 167 (De provincia <term ref="#cumari">Comari</term>); VB CL.</p>
+	<p>L’impostazione discorsiva del par. 1 suggerisce che il modello-base di Ramusio sia
+         in questo caso il testo di P, “lavorato” però ricorrendo alle strutture frastiche
+         e ai dettagli propri di Z (vd. le note ai parr. 2 e 3).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-21</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-21">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XXI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-21_1_1" n="1"> ‹L›a <term ref="#persia">Persia</term> contiene .VIII. reami. Lo primo è chiamato <term ref="#casibin">Causum</term>; el segondo, ch’è verso meçodì, <term ref="#curdistan">Cardistan</term>; el terço <term ref="#lor">Lor</term>; el quarto <term ref="#suolistan">Cielstan</term>; el quinto <term ref="#spaan">Ilstaint</term>; el sesto <term ref="#siras">Ceratin</term>; el setimo <term ref="#soncara">Somcarra</term>; l’otavo <term ref="#timocaim">Tinochan</term>, ch’è in la fin de <term ref="#persia">Persia</term>. </seg>
+      <seg xml:id="vb-null-21_1_2" n="2"> Tuti diti reami sono verso meçodì salvo che l’u‹l›timo <term ref="#timocaim">Tinochan</term>, in la fin preso l’<term ref="#arbore-secco">Alboro Secho</term> inver tramontana. </seg>
+      <seg xml:id="vb-null-21_1_3" n="3"> In questi reami naschono beletissimi chavalli di qual molti
+         se ne menano in <term ref="#india">India</term> dove gran priexii i sse vendeno. </seg>
+      <seg xml:id="vb-null-21_1_4" n="4"> Ène anchor belletissimi aseni e credo i più
+         belli abia el mondo: e ssono choradori, ch’è contra la natura dei axeni de queste
+         parte nostre; ànno notabel anbiadura. </seg>
+      <seg xml:id="vb-null-21_1_5" n="5"> Fino menadi de questi asseni fino al <term ref="#chisi">Tisi</term> et a <term ref="#ormus">Chormusa</term>, che èno .II. citade sopra la riva del <term ref="#mare-dindia">Mar d’India</term>, dove chapitano marchadanti che quelli conprano. </seg>
+      <seg xml:id="vb-null-21_1_6" n="6"> Sono in questa provincia crudellissimi
+         homeni, che insieme de facille se ucideno: e se ’l bastone dela segnoria di <term ref="#tartari">Tartari</term> non i tegnise sotto paura, seriano chosa extrema la crudeltà loro; niente meno i
+         marchadanti et alltri viandanti ne receveno de gran dani da questi populli. </seg>
+      <seg xml:id="vb-null-21_1_7" n="7"> Sono
+         questa giente per la maor parte dela legie de <term ref="#macometto">Machometo</term>. </seg>
+      <seg xml:id="vb-null-21_1_8" n="8"> Lavorasse in questa provincia pani d’oro et de seta; e naschono <term ref="#bambagio">banbaxi</term> asai et abondancia de tuti fruti e biave. [9] In questa provincia di <term ref="#persia">Persia</term> v’è una gran citade nobelle et magna degna di partichular naracione chiamata <term ref="#iasdi">Çanfoy</term>, nela qualle se fano gran marchadantie e llavorassi belisimi drapi d’oro et de seta,
+         i qualli drapi son chiamati çanfoini e fino portatti da marchadanti in molte parte.
+         [10] Adorano e tiene la legie de <term ref="#macometto">Machometo</term>. [11] Partendose da <term ref="#iasdi">Çanfoi</term> per çornade .VIII., non si trova che .III. albergi; trovasse de bellisimi boscheti
+         che molto bene si chavalchano. [12] È paixe de deletevelle chaçaxon, de contornice
+         et de ogni altre salvadasine et <term ref="#asini-salvatichi">asseni salvatechi</term>. [13] Chavalchato le .VIII. giornate se trova ‹un reg‹n›ame› chiamato <term ref="#chermain">Creman</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

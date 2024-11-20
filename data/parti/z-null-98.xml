@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-98</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-98">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 98</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="z-null-98_2_1" n="1"> Cum vero discedendo a <term ref="#locach">Lochac</term> itum est quingentis miliaribus per meridiem, invenitur quedam insula nomine <term ref="#pentan">Pentan</term>, que est multum in loco silvestri. </seg>
+      <seg xml:id="z-null-98_2_2" n="2"> Et omnes luci insule illius arbores odoriferas
+         producunt.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="z-null-98_3_1" n="1"> Nunc vero, hinc discedendo, itur per istas duas insulas per miliaria sexaginta,
+         in quibus non invenitur in pluribus locis aqua, nisi per .IIII. passus est alta. </seg>
+      <seg xml:id="z-null-98_3_2" n="2">
+         Et propter hoc expedit quod illac navigantes altius levent amplustre: nam de aqua
+         circa quatuor passus trahunt.</seg>
+    </p>
+    <p n="4">
+      <seg xml:id="z-null-98_4_1" n="1"> Et cum navigatum est istis miliaribus sexaginta versus syrocum, itur ulterius
+         circa miliaria triginta, et tunc invenitur quedam insula que est regnum, et nominatur
+         civitas <term ref="#malaiur">Malauir</term> et insula <term ref="#pentan">Pentan</term>; cuius gentes regem habent et loquelam per se. </seg>
+      <seg xml:id="z-null-98_4_2" n="2"> Civitas quidem ‹est› nobilis et
+         magna valde. </seg>
+      <seg xml:id="z-null-98_4_3" n="3"> In ea fiunt multa mercimonia omnium specierum: nam in habundantia
+         ibi sunt. </seg>
+      <seg xml:id="z-null-98_4_4" n="4"> Alia non sunt ibi dicenda; et ideo, ulterius procedentes, de parva tractabimus
+         <term ref="#giava">Çava</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

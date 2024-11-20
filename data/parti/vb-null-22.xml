@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-22</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-22">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, XXII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-22_1_1" n="1"> <term ref="#chermain">‹C›reman</term> è regname fo conquistato dal <term ref="#gran-can">Gran Tartaro</term> et tollto a uno segnore de chui per eredità era. </seg>
+      <seg xml:id="vb-null-22_1_2" n="2"> In questo reame ve naschon la
+         çoia chiamata turchexe: et tròvasene abundantemente e trovase nele montagne. </seg>
+      <seg xml:id="vb-null-22_1_3" n="3"> Trovase
+         ecian in quele montagne vena de açalle el mior abia el mondo, per che lì se lavora
+         le mior armadure d’ogni sorta a llor modo che abia tutte quelle provincie. </seg>
+      <seg xml:id="vb-null-22_1_4" n="4"> Le
+         done loro lavorano meio de opera de ago che alltre done abia quelle parte, l’opere
+         dille qual per tute quelle parte fino portatte. </seg>
+      <seg xml:id="vb-null-22_1_5" n="5"> Naschono in quelle montagne falchoni
+         pelegrini i più volanti e miori fiano trovati in quelle provincie, i qual sono menori
+         al quanto de questi nostri de qui; et sono rosi nel peto et soto la coda apreso la
+         cosa. </seg>
+      <seg xml:id="vb-null-22_1_6" n="6"> Partendo da <term ref="#chermain">Creman</term> chàpitase a una montagna ch’è molto rata. </seg>
+      <seg xml:id="vb-null-22_1_7" n="7"> Chavalchato però çornade .VII., nel
+         qual chamino se trova belissime abitaciun et beliseme chaçason, è bellissimo chavalchare
+         per fino alla montagna dita, la qual è sì ria desexa |233v| che se coven dismontar
+         a piedi. </seg>
+      <seg xml:id="vb-null-22_1_8" n="8"> Trovase molte maniere de fruti; et antigamente tuta era abitada, ma de
+         pressente è tutta desperssa et sollo ve abita çe‹n›te con i llor bestiami per i pascholi.
+         [9] Dalla dita citade de <term ref="#chermain">Creman</term> fina a questa montagna v’è gran fredura l’inverno; e dificelle chossa è l’inverno
+         poder passar, e chi non sono ben forniti de pani e fodre di fredo pereria. [10] Trovasse
+         lie buo’ bianchissimi: àno churto el pello, àno le corne churte e grose e pontide,
+         et nela spalla àno un segno retondo ben per .III. palmi ch’è bellisima cosa a vederlli.
+         [11] E quando si cargano stano chufadi in tera chome fano i ganbelli, e chargati se
+         lievano in piedi: portano gran chargo perché sono fortissimi e grandi. [12] Ànno la
+         choda grossisima – chome ànno i chastroni di Tartaria – et, al mio iudicio, di pexo
+         de libre .XXX., ‹et› è bonissima da mangiare. [13] In questo piano v’è molte forteçe:
+         àno i llor muri di terra per difexa loro; e chiamasi questa çente <term ref="#caraunas">Caraor</term>, che tanto vene a dire chome in nostra lengua gasmulli over bastardi, però che antigamente
+         i sono desesi per madre de dona d’<term ref="#india">India</term> e per padre tartaro. [14] È mallissima e prava çeneracione ‹d›e robatori e negromanti;
+         in tanto quando volle andar a robar, i fano oschurar el solle et, oschurato, non se
+         vedendo quaxi lume, essendo loro avixati di paexi, entrano nei chaxali e vile e robano;
+         et quanta giente trovano pigliano, e vechi sença nulla piatà tuti alcideno, i çoveni
+         vendeno. [15] Era segnore di questa giente <term ref="#nugodar">Nogador</term>, homo de grandissimo animo, el qualle, raunatto .Xm. di suo’ crudelisimi et animosi homeni, deliberò andare a vixitar <term ref="#zagathai">Gragatin</term>, el qual era suo parente e fratello del <term ref="#gran-can">Gran Chan</term>, segnore de una nobelle provincia. [16] E demorado con lui per algun tenpo, adoperò
+         per modo ch’el †desiva† .Xm. omeni d’arme dela più fiorita brigata avese <term ref="#zagathai">Gragatin</term> suo parente, et con questi .XXm. valorosi et audaci omeni se ne fuçì. [17] E usiti del’<term ref="#armenia">Armenia Grande</term>, feno el transito suo per Badaxian, per una alltra provincia chiamata Pastiax, et dapoi a una provincia chiamata Chesiemir. [18] Quivi perdete molte dele suo’ brigatte per le malle vie et streti passi; e
+         conquistato ch’ebe tute dite provincie, entrò nel’India alle confine de Delimar. [19]
+         E quivi prese una nobel citade chiamata <term ref="#dely">Delindinar</term> et in quella demorò e fermòsse con l’oste soa. [20] ‹E› trovato quella de inestimabelle
+         richeça, chaçato di quella el re <term ref="#asidin-soldano">Sidin Soboan</term>, mesese in la dita citade in reposso façendo far guera per le soe gente a’ <term ref="#tartari">Tartari</term> che dimorano in quelli paexi; per le qual giente de <term ref="#nugodar">Nogador</term> tuto quel paexe era in guera e lle strade rotte. [21] Per modo che io, Marcho, da
+         quella giente fui quaxi preso, ma io, con grandissima presteça, me redusi in uno chastello
+         chiamato <term ref="#consalmi">Salimi</term> e fui salvo. [22] È da sapere che questo piano dura per .V. giornate, et alla fin
+         del dito piano, se trova un’altra vallada che se coven andar a piedi çercha .XX. miglia.
+         [23] Et in quella desexa è molto ria via, et trovassi molta malla giente e robatori.
+         [24] Et deseso sì se trova un bellisimo piano chiamato el Piano de <term ref="#ormus">Formose</term> et dura alla longa .II. giornate; trovase molto belle rivere, et abondancia de datalli.
+         [25] È nobelisimo paise de oxelli e falchoni: sono papagalli assai et alltri ocelli
+         sença numero. [26] Et in chapo de dita pianura, per ii giornate, alla longa si trova
+         el <term ref="#mare-oceano">Mar Oçeano</term> e sula riva del mare ène una cità chiamata <term ref="#ormus">Cormes</term> la qual citade à porto sopra el mare. [27] Et a questo porto vi chapita molte nave
+         d’<term ref="#india">India</term> co’ le lor marchadantie, specie assai et ancor çoie et pani de seta e d’oro assai,
+         le qual i vendeno a marchadanti che demorano nela dita çità, le qual dapo’ i portano
+         in alltre provincie, per che la ditta cità è abondante de marchadantie. [28] À soto
+         de si molte citade et chastelli et è principio de uno reame chiamato Comaeda Acomant. [29] E lì è la gran chalura et è terra ferma, e sse nella dita çità morisse uno
+         forestiero, el segnore ge fa tuor tuta la soa roba. [30] Nella dita cità se ussano
+         vino de datalli, el qual è molto lasativo a chi non el beve assai moderatamente: è
+         dilletevolle vino achonpagniato con mollte specie et è molto ato ad ingrassare. [31]
+         Non mangiano pane perché quello par i sia malsano. [32] Mançano datalli; usano per
+         sanità a mangiare pese sallado e çevolle, che qui da nui è cibo malsano. [33] Le nave
+         suo, i magieri, sono chusiti con corde fate de <term ref="#noci-dindia">noxe d’India</term>, che sono molto durevele al mare e tal chorde non facilmente dal’aqua salsa fino
+         guaste. [34] Sono molto pericholloxe nave perché non sono chalchate et de quelle molte
+         ne periseno: sono nave discoperte e chargo i àno; quelle i chopreno le marchadantie
+         de chuori e po’ de sopra si metono et chargano de’ chavalli e portano in India dove
+         bene i se vendeno. [35] Non àno feri da sorçer ma con altri |234r| suo’ strumenti
+         sorçeno e però con ogni lieve fortuna perischono. [36] I abitanti sono negri che adorano
+         <term ref="#macometto">Machometo</term>. [37] Et nel’instate per el grande chaldo non abitano nele citade però che tuti pereriano,
+         ma vano cerchando le reviere del mare, per aver più tenperatto aere. [38] Et ussano
+         lie un vento che vien sopra la tera che, per la gran chalura de quello, tuti pereriano
+         di chaldo; ma essendo loro aloçati sopra le rive del mare e dei fiumi, subito i ssentono
+         el vento venire, i sse meteno nell’aqua chome fano le rane: e per questo modo chanpano
+         la grandeça del chaldo. [39] Le semençe suo’ convene esser semenate del mese de novenbre
+         et piantate: el richolto suo è del mese de março et chossì àno tuti li lor fruti.
+         [40] Dei altri messi non àno nulla per la chalura del dito vento che arde e secha
+         tuto. [41] Ongieno le lor nave con ollio de pese perché non àno pegolla. [42] Quando
+         morino alchuno di soi ussano fare gran pianto, et massime le femene che àno per chostume
+         piangere ogni dì una fiata per fino ad anni .IIII.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

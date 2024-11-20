@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-6-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-6">
+      <note>
+	<p>Il paragrafo è per intero debitore della lezione di Z, che Ramusio riproduce con pedissequa
+         letteralità: vd. <ref type="witlink" target="#z-null-5">Z 5 1-4</ref>: «<term ref="#moxul">Moxul</term> est quedam provincia in qua habitant plura gentium genera. Una quidem gens est que
+         Macometum adorat, et Arabi appelantur. Ittem alia gens est que fidem christianam observat,
+         non tamen secundum quod mandat Ecclesia, quia in pluribus falit. Nam nestorini, iacopiti
+         et armeni sunt; et patriarcam habent qui archiepiscopos, episcopos et abbates statuit,
+         et blebanos ipsos per omnes partes <term ref="#india">Indye</term> et Alochayray et in <term ref="#baldach">Baldach</term> ac per universas partes ‹in› quibus habitant christiani transmitens, quemadmodum
+         papa Romanus». (Con in più un piccolo <hi rend="italics">ajout</hi> – il cenno alla minoranza armena di <term ref="#moxul">Mosul</term> – e in meno l’indicazione del nome indigeno del <hi rend="italics">catholicós</hi> nestoriano (<term ref="#iacolit">iatolic</term>), la lezione toledana ricalca con buona esattezza <ref type="witlink" target="#f-null-23">F XXIII 2-4</ref> «<term ref="#moxul">Mosul</term> est un grant roiames qui l’habitent plusors jenerasions de jens les quelç voç deviserai
+         orendroit. Il ‹a› une jens, ki est apellé Arabi, que orent <term ref="#macometto">Maomet</term>. Encore hi a un’autre generation de jens ke tent la ley cristiane, mes non pas selo‹n›c
+         qe conmande l’eglise de Rome, car il failent en plusors couses: il sunt apelés nestorin
+         et jacopit; il ont patriarche, ke l’apelent <term ref="#iacolit">Iatolic</term>, et cestui patriarche fait arcevescheve et vescheve et abés et tout prolés, et les
+         envoie por toutes pars, en <term ref="#india">Yndie</term> et au <term ref="#cataio">Cata‹i›</term> et en <term ref="#baldach">Baudac</term>, ausint con fait l’apostoille de Rome»). La dipendenza di R da Z è sancita oltre
+         ogni dubbio dalla presenza di un errore congiuntivo: «al <term ref="#cairo">Cairo</term>» di R e Alochayray dello Z toledano presuppongono che l’ur-Z avesse conservato una tessera morfosintattica
+         del modello francoit., forse nella forma di <ref type="witlink" target="#f-null-23">F XXIII 4</ref> «au <hi rend="italics">Catai</hi>», che un copista, disorientato dall’interferenza latino-volgare, può avere risolto
+         nel sintagma preposizionale italiano *<hi rend="italics">a</hi> <hi rend="italics">lo</hi> <hi rend="italics">Cairai</hi> o sim.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

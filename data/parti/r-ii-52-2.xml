@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-52-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-52">
+      <note>
+	<p>Il modello principale di R è <ref type="witlink" target="#z-null-68">Z 68 6</ref> «<term ref="#tudinfu">Tindifu</term> est quedam magna civitas, que iam fuit regnum nobile et magnum, sed <term ref="#gran-can">Magnus Can</term> ipsum armorum viribus suo dominio subiugavit» (in questo punto più corretto di <ref type="witlink" target="#f-null-133">F CXXXIII 4</ref> «Et por ce vos diron de <term ref="#tudinfu">Tondinfu</term>: est une grandisme cité, et, jadis avant, est grant roiames, mes le{s} <term ref="#gran-can">grant Kaan</term> le conquisté por force d’armes. Mes toutes foies voç di q’ele est la plus noble cité
+         que soit ‹en› toutes celles contree»). Sul testo base Ramusio innesta delle lezioni
+         ricavate da <ref type="witlink" target="#vb-null-95">VB XCV 5</ref> «Et a chapo de dite .VI. giornate se trova [R «Et in capo di dette sei giornate si
+         trova»] la nobelle e gran citade chiamata <term ref="#tudinfu">Tondifu</term>» [R «detto <term ref="#tudinfu">Tudinfu</term>»] / <ref type="witlink" target="#vb-null-96">VB XCVI 1-2</ref> «<term ref="#tudinfu">‹T›ondifu</term> è una nobelle e gran citade e per avanti fu reame. […] e fo conquistata dal <term ref="#gran-can">Gran Can</term> per força […]». Non emergono prove di contatti di R con <ref type="witlink" target="#l-null-108">L 108 1</ref> «[…] tunc invenitur civitas maxima, et nobilior omnium circumstancium, dicta <term ref="#tudinfu">Tondinfu</term>: in qua sunt maximi mercatores», o con <ref type="witlink" target="#p-ii-51">P II 51 1</ref> «[…] est civitas magna <term ref="#tudinfu">Tandifu</term> que regem hactenus habere consueverat ante quam subiceretur <term ref="#gran-can">Magno Kaam</term>», o con <ref type="witlink" target="#v-null-64">V 64 2</ref> «[…] ma in queste nonn è alguna chossa da dire, ma diremo di <term ref="#tudinfu">Chandifu</term>, la qual sono una gran zitade et fono gran reame, mo el <term ref="#gran-can">Gran Chan</term> l’asediò ed avela. Et fo la più nobel tera che se trovasse in quelle parte […]».</p>
+	<p>È importante rimarcare come R tralasci dei dettagli sulla ricchezza di <term ref="#tudinfu">Tudinfu</term> che figurano in forma più o meno abbreviata in tutte le sue fonti tranne che in P:
+         <ref type="witlink" target="#l-null-108">L 108 1</ref> «et nobilior omnium circumstancium […] in qua sunt maximi mercatores»; <ref type="witlink" target="#v-null-64">V 64 3</ref> «Et fo la più nobel tera che se trovasse in quelle parte, onde in questa sono molte
+         marchadantie et molti marchadanti […]»; <ref type="witlink" target="#vb-null-96">VB XCVI 2</ref> «[…] et è paexe de gran marchadantie»; <ref type="witlink" target="#z-null-68">Z 68 7-8</ref> «Et tamen nobilior civitas que in illis partibus habeatur. Ibi sunt homines magne
+         mercationis» (vd.  <ref type="witlink" target="#f-null-133">F CXXXIII 4-5</ref> «Mes toutes foies voç di q’ele est la plus noble cité que soit ‹en› toutes celles
+         contree. Il a grandisme ‹quantité de› mercheant qe font grand mercandies […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-26</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Ramusio continua a utilizzare, rielaborandolo, <ref type="witlink" target="#z-null-107">Z 107 81</ref> «Et omnibus fixis, tunc habens unum cultelum cum duobus manubriis, similem illis
+         cum quibus circuli laborantur, ipsum postponit ad occiput, et fortiter ad se trahens,
+         sibi collum trucidit, quia optime est ille cultelus acutus, et moritur ipso facto».</p>
+	<p>Gli altri relatori offrono un resoconto più semplice e vago della fine, a cominciare
+         da F CLXXIII 33: «E che voç en diroie? El se done tant de cesti coutiaus qu’il s’ocit il meisme»;
+         vedi poi VA CXXXVII 34 «Poi tuò l’altro et dà-sse l’altro colpo, e tanto fa chusì ch’el muor […]», P III 24 7 «[…] donec ex vulneribus moriatur», L 161 19 «[…] et alibi tantum se ferit quousque manu propria moriatur», V 91 31 «[…] per tal muodo ch’el se ozide», VB CXLIII 36 «[…] fino l’anema se parte del chorpo».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

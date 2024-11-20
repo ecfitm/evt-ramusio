@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-17" n="1">
+    <head>
+      <hi rend="bold">R, III 17</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-17_1_1" n="1"> Dell’isola <term ref="#nocueran">Nocueran</term>. Cap. 17.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-17_2_1" n="1"> Partendosi dalla <term ref="#giava">Giava</term> et dal regno di <term ref="#lambri">Lambri</term>, poi che si ha navigato da circa a centocinquanta miglia verso tramontana, si trovano
+         due isole, una delle quali si chiama <term ref="#nocueran">Nocueran</term> et l’altra <term ref="#angaman">Angaman</term>. </seg>
+      <seg xml:id="r-iii-17_2_2" n="2"> Et in questa di <term ref="#nocueran">Nocueran</term> non è re, et quelle genti sono come bestie, et tutti, cosí maschi come femmine, vanno
+         nudi et non coprono parte alcuna della sua persona; et <term ref="#idolatri">adorano gl’idoli</term>. </seg>
+      <seg xml:id="r-iii-17_2_3" n="3"> Tutti i suoi boschi sono di nobilissimi arbori et di grandissima valuta, et trovansi
+         <term ref="#sandalo">sandali</term> bianchi et rossi, <term ref="#noci-dindia">noci di quelle d’India</term>, garofani, <term ref="#verzino">verzino</term> et altre diverse sorti di speciarie. </seg>
+      <seg xml:id="r-iii-17_2_4" n="4"> Né vi essendo altre cose da dire, piú oltra procedendo, diremo dell’isola d’<term ref="#angaman">Angaman</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

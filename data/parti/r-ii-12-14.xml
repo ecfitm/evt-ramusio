@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-12-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>La fonte di R recava un testo simile a quello di <ref type="witlink" target="#f-null-88">F LXXXVIII 14-17</ref> «Puis ‹chascun› s’en torne a son leu. Et quant il ont tuit ce fait, adonc se font
+         les preçent qe je vos ai contés, qe sont de si grandissme vailance et si riches. Et
+         quant les present sunt tuit fait e le{s} <term ref="#gran-can">Grant Sire</term> a veue toutes cestes chouses, adonc se metent les tables. Et quant les tables sunt
+         mises, adonc s’asient les jens si ordreemant com je vos ai contés autres foies […]».
+         Il passo risulta più o meno accorciato in <ref type="witlink" target="#l-null-73">L 73 6-7</ref> «[…] Hiis omnibus peractis, supradicta dona quilibet exhibet <term ref="#gran-can">Magno Cani</term>. Post hec preparantur tabule, sedetque quilibet ‹in› loco et ordine sibi dato», in
+         <ref type="witlink" target="#p-ii-15">P II 15 6-7</ref> «[…] et ad sua redeunt loca. Hac nepharia thurificacione completa, quilibet in conspectu
+         regis offert propria enzenia de quibus est dictum supra», e in <ref type="witlink" target="#v-null-43">V 43 13</ref> «[…] et puo’ lì se dreza le tole et tuti senta per el muodo dito de sopra; et chussì
+         tute le done». Va rilevato, tuttavia, che la parte finale della pericope di R («cosí
+         le donne come gli huomini») trova un riscontro – parziale – nel solo V. È possibile,
+         dunque, che tale lezione figurasse originariamente anche nella perduta fonte ramusiana.</p>
+	<p>Dopo le informazioni contenute nel par. 14 di R, le redazioni L e F presentano una
+         sezione in cui si descrive l’ordinamento della corte mongola durante le feste: <ref type="witlink" target="#f-null-88">F LXXXVIII 17</ref>: «[…] car le <term ref="#gran-can">Grant Sire</term> siet a sa aute table et avec lui, da la senestre part, sa primier feme, et nul autre
+         ne i siet pas; puis seent tous les autres en tel maineres et si ordreemant com je
+         vos ai contés, et toutes les dames meisme sient da la partie de l’anperaïces, ensi
+         com je vos ai contés. Il tient table tout en tel mainere com je voç ai devisé l’autre
+         foies»; <ref type="witlink" target="#l-null-73">L 73 8</ref> «Sedet enim <term ref="#gran-can">Magnus Canis</term> in tabula sua in parte septemtrionali sale in loco eminenti valde, facieque ad meridiem
+         versa omnes in sala convivantes leviter videre potest; prope quem, a parte sinistra,
+         sedet imperatrix, prima videlicet eius uxor; sub domino autem, scilicet magis depresse,
+         sedent filii et quicumque ex imperiali prole processerint; sub quibus ordinatim reliqua
+         multitudo, secundum quod supradictum est: ita tamen quod omnes homines a parte dextra
+         sedent (scilicet <term ref="#gran-can">Magni Canis</term>), femine vero omnes a parte imperatricis. Et breviter ‹per ordinem› omnia in hoc
+         convivio fiunt recte ut in aliis conviviis festivis, ut superius dictum est». Tale
+         parte manca in R.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

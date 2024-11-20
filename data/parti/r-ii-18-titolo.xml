@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-18-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-18">
+      <note>
+	<p><ref type="witlink" target="#f-null-95">F XCV</ref> (Coment le <term ref="#gran-can">Grant Kaan</term> fait despendre chartre por monoie); <ref type="witlink" target="#l-null-78">L 78</ref> (De moneta <term ref="#gran-can">Magni Canis</term>. Rubrica); <ref type="witlink" target="#p-ii-21">P II 21</ref> (De moneta <term ref="#gran-can">Magni Kaam</term> et de inextimabili copia divitiarum eius. Capitulum XXI), <ref type="witlink" target="#va-null-78">VA LXXVIII</ref> (Della moneda del <term ref="#gran-can">Gran Chan</term>); <ref type="witlink" target="#v-null-45">V 45 10-18</ref> (Dela gran chorte che tien el <term ref="#gran-can">Gran Chan</term>); <ref type="witlink" target="#vb-null-68">VB LXVIII 9-18</ref>. </p>
+	<p>La fonte principale da cui Ramusio ha ricavato il testo-base del capitolo deve essere
+         stata molto vicina alla versione francoit., come si deduce dalle numerose affinità
+         che accomunano R a F. Considerato che questa sezione viene completamente omessa in
+         Z toledano, si può ritenere con buona probabilità che il modello di Ramusio sia stato
+         anche in questo capitolo il perduto Z1. In più di un punto è comunque documentato l’apporto di altre redazioni: di P (vd.
+         parr. 1, 6, 8) o – più sporadicamente – di L (par. 1) e VB (par. 7).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

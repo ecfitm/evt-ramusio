@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-35</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-35" n="1">
+    <head>
+      <hi rend="bold">R, II 35</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-35_1_1" n="1"> De’ confini che sono nel <term ref="#cataio">Cataio</term> et <term ref="#mangi">Mangi</term>. Cap. 35.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-35_2_1" n="1"> Partendosi di questo palazzo di <term ref="#mangalu">Mangalú</term>, si cammina tre giornate per ponente, trovandosi di continuo molte città et castella,
+         nelle quali gli habitanti vivono di mercantie et d’arti, et hanno seda abondantemente.
+         </seg>
+      <seg xml:id="r-ii-35_2_2" n="2"> Et in capo di tre giornate si trova una regione piena di gran monti et valli, che
+         sono nella provincia di <term ref="#cunchin">Cunchin</term>, et sono quelli monti et valli piene di genti, che <term ref="#idolatri">adorano gl’idoli</term> et lavorano la terra. </seg>
+      <seg xml:id="r-ii-35_2_3" n="3"> Vivono di cacciagioni, perché ivi sono molti boschi et molte bestie salvatiche, cioè
+         leoni, orsi, lupi cervieri, daini, caprioli, cervi et molti altri animali, delli quali
+         conseguiscono grande utilità. </seg>
+      <seg xml:id="r-ii-35_2_4" n="4"> Et questa region si estende per venti giornate, camminando sempre per monti, valli
+         et boschi, et trovando di continuo città, nelle quali commodamente alloggiano i viandanti.
+         </seg>
+      <seg xml:id="r-ii-35_2_5" n="5"> Et poi che s’è cavalcato le dette giornate verso ponente, trovasi una provincia nominata
+         <term ref="#achbaluch-mangi">Achbaluch Mangi</term>, che vuol dire “città bianca de’ confini di <term ref="#mangi">Mangi</term>”, la qual è piana et tutta populatissima, et le genti vivono di mercantie et arti.
+         </seg>
+      <seg xml:id="r-ii-35_2_6" n="6"> Et quivi nasce zenzero in gran quantità, il qual si porta per tutta la provincia
+         del <term ref="#cataio">Cataio</term>, con grande utilità de’ mercatanti; vi è formento, riso et altre biade in abondanza
+         et per buon mercato. </seg>
+      <seg xml:id="r-ii-35_2_7" n="7"> Et questa pianura dura due giornate, con infinite habitationi; et in capo di due
+         giornate si trovano gran monti et valli et molti boschi, et camminasi ben venti giornate
+         per ponente trovando il tutto habitato. [8] <term ref="#idolatri">Adorano gl’idoli</term>, et vivono di frutti delle lor terre et di cacciagioni di bestie salvatiche. [9] Ivi son molti leoni, orsi, lupi cervieri, daini, caprioli, et evvi gran quantità
+         di bestie che producono il <term ref="#muschio">muschio</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

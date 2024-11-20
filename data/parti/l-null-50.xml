@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-50</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-50">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 50</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-50_2_1" n="1"> <term ref="#ciarcian">Ciarcian</term> est provincia quedam adhuc de <term ref="#gran-turchia">Grandi Turchia</term> inter oriens et grecum. </seg>
+      <seg xml:id="l-null-50_2_2" n="2"> Hee gentes adorant <term ref="#macometto">Machomet</term>. </seg>
+      <seg xml:id="l-null-50_2_3" n="3"> Et sunt in ea multe civitate et castra; principalis tamen civitas, et capud
+         regni, est <term ref="#ciarcian">Ciarcian</term>. </seg>
+      <seg xml:id="l-null-50_2_4" n="4"> Sunt in ea flumina ducentia iaspides et calcedonios bonos. </seg>
+      <seg xml:id="l-null-50_2_5" n="5"> Et tota hec provincia
+         est arena, ‹et› similiter de <term ref="#cotam">Cotan</term> usque ad <term ref="#peym">Pein</term>, et adhuc de <term ref="#peym">Pein</term> usque ad hanc provinciam. </seg>
+      <seg xml:id="l-null-50_2_6" n="6"> Et sunt hic multe aque male et amare, in pluribus tamen
+         locis dulces et bone; quod, si aliquando transeat per hanc provinciam exercitus inimicorum,
+         fugiunt cum eorum uxoribus ‹et filiis› et bestiis in arenis illis bene duobus diebus
+         in locis ubi sciunt aquas esse bonas pro suis bestiis: nemo enim ipsos invenire posset,
+         quia vestigia in arena facta statim destruuntur a vento. </seg>
+      <seg xml:id="l-null-50_2_7" n="7"> Recedendo a <term ref="#ciarcian">Ciarcian</term>, itur bene .V. dietis per arenam ubi sunt male aque et amare, et alicubi sunt bone.
+         In fine vero harum .V. dietarum est civitas dicta <term ref="#lop">Lop</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

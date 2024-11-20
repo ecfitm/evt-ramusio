@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-24</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-24">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 24</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-24_1_1" n="1"> Cum vero disceditur de continentiis provincie <term ref="#balaxiam">Balaxian</term>, inveniendo quam plura flumina magna et parva, et habitationes quam plures, intratur
+         quamdam provintiam termini trium dietarum per omnes partes cuius. </seg>
+      <seg xml:id="z-null-24_1_2" n="2"> <term ref="#vochan">Vohcan</term> nomine appelatur. </seg>
+      <seg xml:id="z-null-24_1_3" n="3"> Gentes eius legem <term ref="#macometto">Macometi</term> observant et loquelam habent per se. </seg>
+      <seg xml:id="z-null-24_1_4" n="4"> Homines probi sunt et valentes ad arma.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="z-null-24_2_1" n="1"> Cum vero ab ista contrata disceditur, per tres dietas itur inter levantem et grecum
+         semper per montes, et tantum asenditur quod in sumitate illorum montium dicitur altior
+         esse locus totius universi mundi. </seg>
+      <seg xml:id="z-null-24_2_2" n="2"> Et cum homo est in illo loco, invenit inter
+         duos montes planiciem quamdam, per quam quoddam flumen elabitur valde pulcrum. </seg>
+      <seg xml:id="z-null-24_2_3" n="3">
+         Sunt in planicie illa pinguiora pascua que in mundo valeant reperiri, in quibus per
+         decem dies pinguis efficitur queque bestia macilenta. </seg>
+      <seg xml:id="z-null-24_2_4" n="4"> Ibi habundant silvestria
+         multa, et specialiter arietes maximi. [9] Et illic sunt lupi infiniti, qui multos
+         ex illis arietibus comedunt et occidunt. [10] Volatilia non sunt ibi propter loci
+         altitudinem et frigus intensum. [11] Et noveritis quod propter frigoris intensitatem
+         non ita clarus est ignis, nec illius coloris ut in aliis locis est. [12] Nec aliquid
+         |14v| ibi decoqui bene potest.</seg>
+    </p>
+    <p n="3"/>
+  </div>
+</body>
+</text>
+     </TEI>

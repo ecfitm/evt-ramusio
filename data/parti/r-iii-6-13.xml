@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-6-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>La transizione conclusiva viene dalla versione di Z 95 25 «Alia que in libro scribenda sint ibi non sunt; quare, discedentes abinde, de quadam
+         insula narabimus nomine <term ref="#giava">Çava</term>» (con la precisazione che trattasi di «<term ref="#giava">Giava Maggiore</term>»). La redazione latina ripete fedelmente il dettato di F CLXI 13 «Autres couses qe face a mentovoir en nostre livre ne i hai: e por ce noç partiron
+         de ci e aleron avant, e vos conteron d’une grant ysle qe est apellé <term ref="#giava">Java</term>».</p>
+	<p>Solo due relatori conservano (e in maniera parziale) la transizione: V 83 12 «Or de questa nonn è altro da dire; però de qui se partiremo et anderemo più avanti
+         et nareremo d’una ixola», e VB CXXXI 13 «Partiremosse de questa isolla de <term ref="#ziamba">Çanba</term> e diremo de .II. alltre isolle».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

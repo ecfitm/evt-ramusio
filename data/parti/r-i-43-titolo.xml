@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-43-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-43">
+      <note>
+	<p><ref type="witlink" target="#f-null-65">F LXV</ref> (Comant <term ref="#cingis-can">Cinchin Kaan</term> aparoille sez jens por aler sor le <term ref="#prete-gianni">Prestre Johan</term>) / <ref type="witlink" target="#f-null-66">F LXVI</ref> (Comant le <term ref="#prete-gianni">Prestre Johan</term> con sez jens ala a l’encontre de <term ref="#cingis-can">Cinchin Kaan</term>) / <ref type="witlink" target="#f-null-67">F LXVII</ref> (Ci devise de la gran bataille ke fu entre le <term ref="#prete-gianni">Prestre Johan</term> et <term ref="#cingis-can">Cinchin Kaan</term>); <ref type="witlink" target="#l-null-58">L 58 5-8</ref> (De civitate <term ref="#caracoran">Caracoron</term>, et de origine <term ref="#gran-can">Magni Canis</term>) / <ref type="witlink" target="#l-null-59">L 59 1</ref> (De dominis <term ref="#tartari">Tartarorum</term>); <ref type="witlink" target="#p-i-52">P I 52</ref> (De primo regis <term ref="#tartari">Tartarorum</term> <term ref="#cingis-can">Chinchis</term>, et discordia eius cum rege suo) / <ref type="witlink" target="#p-i-53">P I 53</ref> (De conflictu <term ref="#tartari">Tartarorum</term> cum rege illo et victoria ipsorum), <ref type="witlink" target="#va-null-50">VA L</ref> (Chome el signior d’i <term ref="#tartari">Tartari</term> se volse aparentar chon <term ref="#prete-gianni">Prete Zane</term>) / <ref type="witlink" target="#va-null-51">VA LI</ref> (Chome Chinchis Chaan feze oste contra <term ref="#prete-gianni">Prete Zane</term> per la risposta i reportà i suo’ anbasiatori) / <ref type="witlink" target="#va-null-52">VA LII</ref> (Chome <term ref="#prete-gianni">Prete Zane</term> fu morto e schonfito); <ref type="witlink" target="#v-null-35">V 35</ref> (Qui diremo chi fo el primo Signor de <term ref="#tartari">Tartari</term>); <ref type="witlink" target="#vb-null-48">VB XLVIII 6</ref> / <ref type="witlink" target="#vb-null-49">VB XLIX</ref> / <ref type="witlink" target="#vb-null-50">VB L</ref> / <ref type="witlink" target="#vb-null-51">VB LI</ref> / <ref type="witlink" target="#vb-null-52">VB LII</ref> / <ref type="witlink" target="#vb-null-53">VB LIII</ref> / <ref type="witlink" target="#vb-null-54">VB LIV</ref>.</p>
+	<p>Come in V, anche in R il racconto della vicenda di Gengis Khan è concentrato in un solo, lungo capitolo. Il grosso del testo risulta da un <hi rend="italics">collage</hi> di brani di VB e P: un’ampia tessera da questa redazione occorre, ad es., nei parr.
+         10-12, dove il dettato di P è preferito alle prolisse narrazioni delle altre fonti
+         in ragione della sua efficace concisione. Il ricorso a Z, non dimostrabile per via
+         delle lacune del toledano, pare discontinuo e limitato a pochi luoghi, in particolare
+         ad alcuni <hi rend="italics">addenda</hi>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

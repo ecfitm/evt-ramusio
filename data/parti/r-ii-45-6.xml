@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-45-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-45">
+      <note>
+	<p>Le informazioni contenute nel par. 6 trovano (parziale) riscontro solo in <ref type="witlink" target="#v-null-60">V 60 7-8</ref> «De questa provinzia nonn è altro da dir, ma diremo de algune altre provinzie ch’è
+         inverso levante. <term ref="#cangigu">Gangigu</term> sono una provinzia inverso levante» (molto vicino a  <ref type="witlink" target="#f-null-125">F CXXV 8</ref> «Or en ceste provence ne a autre couse qe a mentovoir face, et por ce noç en partiron
+         et voç conteron d’une provence qui est ver levant et est apelé <term ref="#cangigu">Caugigu</term>»). Tali dettagli sono omessi dagli altri relatori, ma è probabile che comparissero
+         originariamente anche in Z1.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

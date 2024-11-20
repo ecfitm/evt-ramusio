@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-3">
+    <head>
+      <hi rend="bold">P, II 3</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-3_2_1" n="1"> Interea <term ref="#cublai-can">Cublay</term> rex cuncta didicit que per illos fuerant ordinata, et in nullo super huius conspiracione
+         perterritus, iuravit se numquam coronam |34a| regiam delaturum nisi de illorum prodicione
+         et audacia se vindicaret. </seg>
+      <seg xml:id="p-ii-3_2_2" n="2"> In viginti autem duobus diebus congregavit trecenta
+         et .LX. millia millitum et peditum centum millia de hiis qui erant vicini civitati
+         <term ref="#cambalu">Cambalu</term>; causa autem hec fuit quare non convocavit maiorem exercitum: quia subito voluit
+         in hostes ex insperato irruere, ne si diutius fuisset in congregacione amplioris exercitus
+         immoratus ad <term ref="#naiam">Nayam</term> noticiam pervenisset et ex hoc aut retrocessisset omnino aut ad tutiora loca suum
+         exercitum transtulisset. Ideoque noluit exercitus suos, quos ad expugnandas diversas
+         provincias miserat, revocare: nam tantam posset militiam et peditum multitudinem in
+         paucis mensibus congregare quod, pre stupore gentis innumere, quasi incredibile videretur.
+         </seg>
+      <seg xml:id="p-ii-3_2_3" n="3"> Interim autem mandavit |34b| rex vias tanta diligencia custodiri ut <term ref="#naiam">Naiam</term> preparacionem et adventum ipsius omnino presentire non posset; cuncti enim euntes
+         et redeuntes a regis custodibus tenebantur, propter quod <term ref="#naiam">Nayam</term> de eius occursu prescius esse non potuit. </seg>
+      <seg xml:id="p-ii-3_2_4" n="4"> Consuluit autem rex <term ref="#cublai-can">Cublay</term> astrologos suos super exitu vie sue, qui omnes de communi consensu et iudicio responderunt
+         quod honorabiliter de hostibus triumpharet.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

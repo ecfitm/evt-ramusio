@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-119</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-119">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 119</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-119_2_1" n="1"> <term ref="#nanghin">Nanchin</term> est provincia versus occidens, et est tamen de <term ref="#mangi">Mangi</term>, que est nobilis et dives valde. </seg>
+      <seg xml:id="l-null-119_2_2" n="2"> H‹uius› gentes sunt <term ref="#idolatri">ydolatre</term>, comburentes corpora mortuorum, habentes eciam ex cartis monetam. </seg>
+      <seg xml:id="l-null-119_2_3" n="3"> Et sunt mercatores
+         et artiste, facientes pannos multos aureos et de serico: habent enim de serico habundanter,
+         et breviter sunt victualium omnium habundantes. </seg>
+      <seg xml:id="l-null-119_2_4" n="4"> Habent venationes optimas; adsunt
+         eciam hinc leones optimi.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-5-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-5">
+      <note>
+	<p>Il paragrafo dedicato ai boschi di bosso della Georgia e ai suoi due mari, il Caspio
+         (detto in R, sulla scorta di Z, <term ref="#abbacu">Abbacú</term>) e il Nero (<term ref="#mar-maggiore">mar Maggiore</term> in R), riproduce con buona esattezza un <hi rend="italics">ajout</hi> di <ref type="witlink" target="#z-null-4">Z 4 3-4</ref> «Et in istis fortiliciis et montibus sunt eorum nemora in quibus non est aliud lignum
+         quam busus. Et predicta provincia duo equora prospicit, quorum unum vocatur <term ref="#mar-maggiore">Mare Maius</term>, quod est a latere tramontane, alterum vero <term ref="#abbacu">Abaco</term>, versus orientem, quod durat in suo circuitu per duo milia .VIIIc. miliarium et est tanquam stagnum, quia non miscetur cum aliquo mari». Ricalcano
+         le movenze di Z, distanziandosi dalla tradizione, anche L e V: il primo, con una lezione
+         del tutto parallela a quella del toledano (<ref type="witlink" target="#l-null-20">L 20 2-3</ref>: «[…] Sunt etiam quedam loca montana quibus nemo dominari potest; in quibus locis
+         nascitur lignum bussus. Et tendit hec provincia super duo maria, quia ab una parte
+         est <term ref="#mar-maggiore">Mare Maius</term> et ab alia est mare quod dicitur <term ref="#abbacu">Geluchelam</term> vel <term ref="#abbacu">Abacho</term>, quod est in circuitu bene duo milia octingenta milia; et est hoc mare in modum stagni,
+         quia nullo mari miscetur […]»); il secondo, con l’omissione del dettaglio sul bosso
+         e qualche minima modifica del dettato (<ref type="witlink" target="#v-null-12">V 12 3</ref>: «Et queste suo’ forteze sono tute in monti, e denanti dela dita provinzia sì sono
+         el <term ref="#mar-maggiore">Mar Mazor</term>, dal’altro ladi el <term ref="#abbacu">Mar de Bachu</term>, el qual dura per so zirchuito doamilia e hotozento mia, ed è chomo uno stagnon de
+         aqua el qual non se meseda chon el <term ref="#mar-maggiore">Gran Mar</term> […]»).</p>
+	<p>Tutte le altre redazioni riecheggiano nella sostanza <ref type="witlink" target="#f-null-22">F XXII 2-3</ref>: «En <term ref="#zorzania">Jorgienie</term> a un roi qi est apelés par tout tens Davit Melic, que vent a dir en fransois <term ref="#david">Davit roi</term>, et est sotpost au <term ref="#tartari">Tartar</term>; et ansienement tuit les rois de cele provence nasoient con un seingne d’aigle sor
+         la spale destre. Il sunt belle jens et vailant d’armes et bon archier et bon conbateör
+         en bataie […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

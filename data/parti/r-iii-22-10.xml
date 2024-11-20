@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-22-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-22">
+      <note>
+	<p>In conseguenza della soppressione (condivisa con P) delle informazioni sul primo tipo
+         di “<term ref="#tingui">*tingui</term>” (vedi alla fine della nota al par. 9), Ramusio adotta per questa pericope il testo
+         di P III 30 5 «Sunt inter eos religiosi quidam in regione illa <term ref="#idolatri">ydolatre</term>, qui pro reverentia ydolorum vitam asperimam faciunt […]» (adattamento di VA CXL 13 «Ancora è altri religioxi in questa provinzia che fano molta aspra vita per amor
+         delle suo’ idolle»: <hi rend="italics">altri </hi>si giustifica col fatto che VA CXL 9-12 conserva la pericope omessa da P). La nominazione dei religiosi è innesto da <ref type="witlink" target="#z-null-110">Z 110 42</ref> «In isto regno <term ref="#malabar">Maabar</term> est etiam quedam religio, que nuncupatur similiter “<term ref="#tingui-religiosi">ciugui</term>”, cuius homines sunt tam magne abstinentie quemadmodum vobis dicemus, et de forti
+         et asperrima vita» (la grafia dipende però da VB CXLVI 24 «Sono una altra regola de questi religiosi che pur se chiamano <term ref="#tingui">*Tingui</term>, i qual fano asprissima vita […]»). Z traduce F CLXXVI 19 «Et encore, en ceste reingne de <term ref="#malabar">Mabar</term>, a une religion, qe s’apelent encement <term ref="#tingui-religiosi">Ciugui</term>, qe sunt de si grant astinence, com je voç dirai, e de si forte et aspre vie […]»;
+         aderente alla sostanza informativa risulta L 164 8 «Sunt eciam in hoc regno de <term ref="#malabar">Mahabar</term> religiosi quidam, dicti et ipsi “<term ref="#tingui-religiosi">ciugui</term>”, qui sunt maxime abstinentie asperrimeque vite». Tace il nome dei religiosi (forse
+         per un imbarazzo generato dall’omonimia) V 94 19-20 «Et in questo reame sono una religion la quale avemo simelmente: sono homeni de tanta
+         astinenzia, chomo io ve dirò. Li sono de forte e de aspra vita […]». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

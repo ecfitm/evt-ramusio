@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-22-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-22">
+      <note>
+	<p>La pericope è sostanzialmente modellata sul dettato di <ref type="witlink" target="#z-null-19">Z 19 9</ref> «Victualia non invenitur in omnibus istis dietis, sed oportet ut transeuntes per
+         partem illam pro se et equis suis victualia secum portent», a sua volta del tutto
+         rispondente a <ref type="witlink" target="#f-null-44">F XLIV 9</ref> «Viande ne i treuve l’en pas en tout ceste doçe jornee, mes convient qe celz que
+         pour illuec vont portent la viande avec elç por lor chevaus et por lor meesme».</p>
+	<p>In due luoghi (contigui) R si allontana da Z. Anzitutto, è irrelato in Z il riferimento
+         a un tragitto montano lungo il percorso <term ref="#balach">Balach</term>-<term ref="#thaican">Taychan</term> («Vettovaglie non si trovano <hi rend="italics">in questi monti</hi> […]»), che può dipendere da un’inserzione arbitraria di Ramusio suggerita dal contesto
+         (cfr., appena sopra, <ref type="witlink" target="#r-i-22">R I 22 8</ref>: «le genti se ne fuggono <hi rend="italics">alli monti et alle fortezze</hi>»), dall’influsso della lezione eccentrica di <ref type="witlink" target="#vb-null-27">VB XXVII 5</ref> «Sule montagne v’è abitaciun assai et abondante de aque e vituallie», o ancora, più
+         meccanicamente, dall’errato scioglimento in *<hi rend="italics">montibus</hi> di un eventuale compendio di Z per <hi rend="italics">omnibus</hi>. Poi, è di nuovo tessera da <ref type="witlink" target="#p-i-31">P I 31 6</ref> –  come in <ref type="witlink" target="#r-i-22">R I 22 8</ref> – il dato metrologico sulle <hi rend="italics">due</hi> giornate di cammino che separerebbero le due località («Oportet autem ut per dietas
+         illas duas viatores victualia secum deferant»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

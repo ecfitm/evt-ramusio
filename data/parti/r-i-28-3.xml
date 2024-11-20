@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-28-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-28">
+      <note>
+	<p>La lezione di R va confrontata in particolare con <ref type="witlink" target="#f-null-49">F XLIX 7</ref> «Il ont bestes sauvages asez et venejon et chachajon de toites faites», <ref type="witlink" target="#l-null-44">L 44 5</ref> «Et ‹habent› bestias silvestres multas et ‹venationes› diversarum manerierum», <ref type="witlink" target="#v-null-26">V 26 9</ref> «E in questa se trova molti animali e chazason de tute maniere».</p>
+	<p>Un leggero scarto rispetto alla tradizione si misura in <ref type="witlink" target="#p-i-37">P I 37 6</ref> «Ibi sunt venaciones maxime, quia regio silvestres bestias habet innumeras», <ref type="witlink" target="#vb-null-32">VB XXXII 5</ref> «Àno bestie assai salvatiche et oxellason assai someiante alle nostre abiamo in queste
+         parte».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

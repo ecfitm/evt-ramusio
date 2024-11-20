@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-27-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-27">
+      <note>
+	<p>L’esordio della pericope riproduce alla lettera <ref type="witlink" target="#p-i-37">P I 37 1</ref> «Si vellem ulterius recto tramite progredi oporteret me in <term ref="#india">Indiam</term> ingredi, sed in libro III de <term ref="#india">India</term> prosegua […]», scelto probabilmente in quanto efficace compendio delle ridondanze
+         della tradizione (vd. <ref type="witlink" target="#f-null-48">F XLVIII 17</ref> «Or voç lason de ceste provences et de cest parties, e ne iron avant, por ce qe,
+         se nos alaisomes avant, nos entreronmes en <term ref="#india">Yndie</term>, et je ne i voil entrer ore a cestui point, por ce que, au retorner de nostre voie,
+         vos conteron toutes les couses d’<term ref="#india">Ynde</term> por ordre […]»).</p>
+	<p>La seconda parte – «et per tanto […] confinanti con quelle» – presenta un’espansione
+         del testo noto, priva di riscontro nella tradizione (di nuovo, vd. <ref type="witlink" target="#f-null-48">F XLVIII 17</ref>: «[…] retorneron a nostres provence ver Baldasciam, por ce que d’autre partie ne poron aler») e forse riconducibile alla <hi rend="italics">ratio</hi> editoriale ramusiana.</p>
+	<p>Del tutto originale è poi l’articolata perifrasi che descrive l’approssimarsi del
+         trattato alle regioni indiane in <ref type="witlink" target="#l-null-43">L 43 9-10</ref> «Et si quis ulterius procederet .XII. dietis perveniret ad partes ubi nascitur piper,
+         que sunt prope regnum de <term ref="#bramini">Brahaman</term>. Non intendit ‹auctor› ulterius procedere […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

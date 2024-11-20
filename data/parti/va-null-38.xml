@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-38</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-38">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XXXVIII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-38_2_1" n="1"> <term ref="#samarchan">Sanmarcan</term> è una zità grandisima e bella. </seg>
+      <seg xml:id="va-null-38_2_2" n="2"> In quella zità abita cristiani e saraini; et è
+         sotoposti al nievo del <term ref="#gran-can">Grande Chaan</term>, ma nonn è ben amixi, ma stano ala fiata mal insieme. </seg>
+      <seg xml:id="va-null-38_2_3" n="3"> In questa zità ‹incontrà›
+         una chotal meraveglia.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-38_3_1" n="1"> El nonn è anchor gran tenpo che un fradel del <term ref="#gran-can">Gran Chaan</term>, che aveva nome <term ref="#zagathai">Chagatai</term>, se fè’ cristiano, et era signior de quella zità e de molte altre. </seg>
+      <seg xml:id="va-null-38_3_2" n="2"> E i cristiani
+         de <term ref="#samarchan">Sanmarchan</term>, quando el signior fo fato cristian, ave grande alegreza e fèno in la zità una grande
+         chiexia a onor de misier san Zuane Batista. </seg>
+      <seg xml:id="va-null-38_3_3" n="3"> La chiexia era fata per cotal maniera che una colona de marmoro, che era in
+         mezo della chiexia, sostegniva tuto el choverto. </seg>
+      <seg xml:id="va-null-38_3_4" n="4"> Soto quella colona fu messo un
+         grande marmoro per pillastro, lo qual iera stato de’ saraini della zità; e gli saraini
+         non osavano dir niente, perché el signior era molto favorevole ai cristiani. </seg>
+      <seg xml:id="va-null-38_3_5" n="5"> E
+         i saraini dixeano che i voleva a ogni muodo la piera soa, la qual sostenìa la cholona
+         della giexia de’ cristiani. [9] E li cristiani li proferseno grande avere aziò che
+         i la conzedesse. [10] Ma i saraini, voiando che lla chiexia se guastasse, disse che
+         i non volea nì oro nì arzento, se non sollamente la soa piera. [11] E tanto fexe ‹i›
+         saraini che ’l figiol de <term ref="#zagathai">Zigatai</term>, lo qual aveva la signioria, comandò a’ cristiani che de lì a diexe dì la piera fusse
+         renduda. [12] Li cristiani ave gran dolore e non sapeva chome i se doveseno far, azò
+         che ’l cholmo della giexia non chazesse. [13] E quando vene el termene che aveva dado,
+         la cholona, per volontà de Dio, se levò de sula piera ben quatro spane e non tochava
+         de soto niente e stava ferma chomo ella feva dinanzi; e anchora sta chussì, senza
+         che altra cossa la sostegnia.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-77</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-77">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXVII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-77_1_1" n="1"> ‹P›artendosi da <term ref="#cacianfu">Çianfu</term>, per .VIII. çornade se chamina senpre inver ponente, senpre per lochi demestegi e
+         ben lavoradi: è lochi molto abondanti de tuti beni e massime de morari assai, per
+         che tuto el paexe è abondantissimo de sede. </seg>
+      <seg xml:id="vb-null-77_1_2" n="2"> Et trovassi molti belli chastelli
+         et anchor tere le qual viveno de arte et de marchadantie; et àno nobellissimi çardini
+         et tuti sono <term ref="#idolatri">idolatrii</term>. </seg>
+      <seg xml:id="vb-null-77_1_3" n="3"> Àno bellisime chaçaxon e sòne bestie de molte façon. </seg>
+      <seg xml:id="vb-null-77_1_4" n="4"> A chavo dele .VIII.
+         giornate se trova la nobelle et gran citade chiamata <term ref="#quenzanfu">Cançiafu</term>, la qual è chapo del reame. </seg>
+      <seg xml:id="vb-null-77_1_5" n="5"> E fo antigamente reame seperado e de gran possança,
+         del qual reame de pressenti el <term ref="#gran-can">Gran Chan </term>ne à fato so fiollo re chiamato <term ref="#mangalu">Mangalu</term>. </seg>
+      <seg xml:id="vb-null-77_1_6" n="6"> È citade de gran marchandantie: trovassi chuori in gran quantità e molto belli
+         e grandi; lavorase asai pani de oro et de seta. </seg>
+      <seg xml:id="vb-null-77_1_7" n="7"> Fuori dela citade è uno bellissimo
+         pallaço del re. </seg>
+      <seg xml:id="vb-null-77_1_8" n="8"> È posto el pallaço in una gran pianura abondante de molte fontane
+         et aque assai. [9] Et in questa pianura, in uno luogo molto alto, v’è una muraia alta
+         e grossa tutta merllada la qual çira miglia .V. [10] E nel meço de dita muraia, è
+         fondato un pallaxio nobelle e grande, con molte sale et chamere adornate, e molto
+         ornate e depinte e lavorate di gran magnificencia, e de chollone e marmori assai:
+         et al iudicio mio è fabricha degna de memoria. [11] E fra la dita muraia v’è molti
+         animalli salvaçi et ecian osselli de paisa per che niuno ardiria lì chaçare, né paissare,
+         sallvo el segnore el qual di quelle molto se dilleta: e spesso e masime nel tenpo
+         dele paise abita in questo palaço. [12] Questo segnore Mangul <term ref="#gran-can">Gran Can</term>, seguendo le vestigie del padre, è prudentissimo segnore e de gran iusticia per che
+         da tutti molto el fi amato e reverito. [13] È richo e nobel segnore e deletassi molto
+         de ornamenti e de nobelle chorte, per modo diresti esser gran magnificencia la corte
+         de questo segnore.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

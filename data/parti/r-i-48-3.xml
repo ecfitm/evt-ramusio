@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-48-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-48">
+      <note>
+	<p>Il testo di R, del tutto sovrapponibile a <ref type="witlink" target="#f-null-69">F LXIX 27</ref> «Et se le home enble un chevaus ou autre chouse qu’il doie perdre persone, il est
+         trinchiés por mi com spee, si voiremant que se celui qe anble puet paier et vuelt
+         doner .VIIII. tant que cel que il a enblé, il escanpe», deriva con ogni probabilità
+         da Z1.</p>
+	<p>Prossimo a F è  pure <ref type="witlink" target="#v-null-36">V 36 28</ref> «Et se alguno àno involado uno chavalo over altra chossa per la qual li deba perder
+         la vita el vien sfesso chon una spada per mezo; ma se lui àno da restituir da nuovo
+         tanto quanto val quelo ch’el à involado, i lo el sera, et sì no ’l speza chon la spada»
+         (l’erroneo sintagma «da nuovo» “da capo, nuovamente” travisa verosimilmente il venez.
+         *<hi rend="italics">nuove</hi> “nove”  – come in F «vuelt doner <hi rend="italics">.VIIII.</hi> tant que cel que il a enblé» e in tutta la tradizione – presente nell’antigrafo).</p>
+	<p>Sintetica ed eccentrica al contempo è la versione di <ref type="witlink" target="#vb-null-57">VB LVII 18</ref> «E posito uno robasse .XV. buo, che vegneria a pasar .CVII. bastonate, i fa mocare
+         la testa, salvo s’el se potesi redimere per .X. tanto quanto valle el furto».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

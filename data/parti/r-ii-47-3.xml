@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-47-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-47">
+      <note>
+	<p>Le fonti ramusiane presentano in questo punto due varianti diverse. In alcuni testimoni
+         si parla di bracciali portati alle mani e alle braccia (V Z), in altri si fa riferimento
+         a braccia e gambe (F L VB). R accoglie entrambe le lezioni.</p>
+	<p>Nella prima parte della pericope Ramusio fonde assieme la lezione di P («Gli huomini
+         et le donne portano») e di Z («alle mani et alle braccia manigli d’oro et d’argento»):
+         <ref type="witlink" target="#p-ii-47">P II 47 7</ref> «Viri et mulieres deferunt ad brachia monilia seu brachialia aurea et argentea magni
+         valoris»; <ref type="witlink" target="#z-null-62">Z 62 3-4</ref> «Domine portant ad manus et brachya bracenas de auro et argento. Portant etiam homines,
+         sed maioris valoris quam domine». Nella seconda parte, R unisce la lezione di un testimone
+         affine a Z («di maggior valuta») o, forse, a V («similmente […] di maggior valuta»),
+         con quella di un esemplare della redazione VB («intorno alle gambe») o – meno probabilmentte
+         – L, rielaborando al contempo il testo delle sue fonti in modo originale («ma quelli
+         che portano le donne sono […]»): <ref type="witlink" target="#v-null-61">V 61 3</ref> «Et le done di quella portano ale mano e ale braze braz‹al›eti d’oro e d’arzento
+         et simel i omeni, ma portano di mazor valor»;<ref type="witlink" target="#vb-null-90"> VB XC 3</ref> «Le done loro e per simelle i omeni portano gamballi d’oro et d’argiento ale ganbe
+         et alle braçe, e più richi portano i omeni che le done»; <ref type="witlink" target="#l-null-102">L 102 2</ref> «Et tam homines quam mulieres ferunt in brachiis et tibiis brachialia argentea et
+         ex auro valoris magni; verumtamen homi‹nes› plura et meliora ferunt» (vd. <ref type="witlink" target="#f-null-127">F CXXVII 4</ref> «Les dames portent as jambes et es braces braciaus d’or et d’arjent de grandisme
+         vailance, et les homes les portent ausi et meilorç qe les dames et plus»). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

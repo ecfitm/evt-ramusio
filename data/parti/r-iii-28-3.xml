@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-28-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-28">
+      <note>
+	<p>La forma dell’espressione, e l’abituale attenzione di Ramusio a una traduzione fedele
+         alla letteralità, suggeriscono che nella descrizione della pirateria attiva nella
+         regione (<ref type="witlink" target="#r-iii-28">R III 28 3-6</ref>) egli abbia preferito ricorrere ai servigi di P. In particolare, questa pericope
+         aderisce agevolmente alla lettera di P III 34 4 «In hoc regno et in regno <term ref="#guzzerat">Guçurat</term>, quod est iuxta eum, sunt pirate multi valde: singulis autem annis de duobus prefatis
+         regnis egrediuntur in mare naves piratarum ultra centum et naves omnium mercatorum
+         transeuntium capiunt et predantur» (versione di VA CXLIV 4 «In questo regniame e in quel de <term ref="#guzzerat">Gonzurach</term>, ch’è a pe’ de questo, g’è ziaschadun ano plui de zento nave de corsari che vano
+         robando le nave che vano per mar». Il suo modello è F CLXXXII 3 «E sachiés qe de cest <term ref="#malabar">Melibar</term> e d’une autre provence, qe est propes d’elz, qui est apellés <term ref="#guzzerat">Gusurat</term>, oissent chascuns anz plus de .C. nes en cors que vont prenent les autres nes et
+         robant les mercant, car il sunt grant laron de la mer». </p>
+	<p>La lezione franco-veneta è seguita fedelmente da <ref type="witlink" target="#z-null-116">Z 116 4</ref> «Et ab ista provincia <term ref="#malabar">Melibar</term>, et a quadam alia provincia que est penes istam que nominatur <term ref="#guzzerat">Guçurat</term>, exeunt singulis anis plures centum navibus piratarum, qui capiunt alias naves et
+         depredantur mercatores, quoniam magni depredatores sunt». V 99 3 dà le stesse informazioni in forma diversa: «[…] et zaschaduna de queste àno più
+         de zento nave, le qualle piano le altre nave e robano i marchadanti, chon zo sia che
+         i sono gran robadori […]». Non diversamente VB CLII 4 «E de questo reame et de una altra provincia, ch’è apreso questa per migia .C., la
+         qual ‹à› nome <term ref="#guzzerat">Gusanat</term>, eschono più de .C. nave de chorsari che vano robando tuta giente per quei mari […]».
+         L 169 2 sunteggia in un solo periodo i parr. R 3-6: «Et ex hac provincia, et quadam alia
+         iuxta eam dictam <term ref="#guzzerat">Gusurat</term>, quolibet anno plus quam .C. naves vadunt in cursu, que mercatores quoslibet depredantur».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-30-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-30">
+      <note>
+	<p>Ramusio segue fedelmente la versione di Z, che riflette a sua volta quella di F: <ref type="witlink" target="#z-null-48-1-6">Z 48 7</ref> «Cum vero disceditur a <term ref="#tainfu">Tayanfu</term>, equitatur septem dietis per ponentes, inveniendo pulcras contratas, in quibus inveniuntur
+         multe civitates et castra, in quibus mercimonia multa et artes fiunt» (<ref type="witlink" target="#f-null-106">F CVI 7</ref> «Et quant l’en s’en part de <term ref="#tainfu">Taianfu</term>, il chevauche bien .VII. jornee por ponent de mout belle contree, la u il l’en treuve
+         villes et castiaus aseç, la {u} ou il hi se fait merca‹n›dies et ars asseç […]»).
+         Appare in parte accorciato il testo di: <ref type="witlink" target="#l-null-87">L 87 1</ref> «[…] hanc civitatem .VII. dietis itur per occidens, ubi sunt pulcra loca civitates
+         et castra multa […]»; <ref type="witlink" target="#p-ii-29">P II 29 4</ref> «Inde vero progredientes per dietas .VII. ad occidentalem plagam inveniunt continue
+         regionem pulcherrimam, castra multa et plurimas civitates […]»; <ref type="witlink" target="#v-null-51">V 51 4</ref> «[…] et quando el se parte da questa zitade el se chavalcha diexe zornade per ponente,
+         et trovasse belle e deletevele chontrade in le qualle sono molte zitade e chastelli
+         […]». Caratterizzato da alcune lezioni singolari (nessuna delle quali trova riscontro
+         in R) risulta <ref type="witlink" target="#vb-null-75">VB LXXV 6</ref> «E per .VII. giornate, partendosi da <term ref="#tainfu">Tanafu</term>, se trova de belle citade et chastelli e paexi ben choltivadi e tute tere de gran
+         marchadantia et mestier».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

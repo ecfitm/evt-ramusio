@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-1-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>La transizione riproduce <ref type="witlink" target="#z-null-91">Z 91 41-44 </ref>«Nunc diximus de navibus in quibus mercatores in Indiam vadunt et redeunt. Nunc dicemus
+         de <term ref="#india">Yndia</term>. Sed tamen prius dicere volumus de quibusdam insulis existentibus in <term ref="#mare-oceano">Mari Occeano</term>, ubi sumus ad presens». Il modello di Z è F CLVII 13-14 «Or vos ai devisé les nes es quelz les merchant vont et vienent en <term ref="#india">Yndie</term>, et adonc partiron de cest mainere des nes e vos conteron de <term ref="#india">Yndie</term>. Mes tout avant vos voil conter de maintes ysles que sunt en cest <term ref="#mare-oceano">mer Osiane</term>, la ou nos sumes ore. E sunt ceste ysles a levant; et nos conmenceron primermant
+         d’une isle que est apellé <term ref="#zipangu">Çip‹i›ngu</term>» (base pure di V 80 9 «Or abiamo dito dele nave le qual vano e torna d’<term ref="#india">India</term> chon i marchadanti; or lasseremo questa materia e trateremo del’<term ref="#india">India</term>, ma primamente diremo de algune ixolle le qual sono in questo mar in le qual nui
+         semo al prexente, ed è queste ixolle in levante»). Si noti che «[…] et cominciaremo
+         dall’isola chiamata <term ref="#zipangu">Zipangu</term>» è <hi rend="italics">explicit</hi> attestato in F: se ne può inferire che il relatore di Z a disposizione di Ramusio
+         avesse il dettaglio, poi omesso nel codice toledano.</p>
+	<p>Gli altri relatori – tranne il laconico e confuso VA CXXI 13 «Mo’ ve voglio chontar d’<term ref="#india">India</term>» – omettono la transizione: cfr. P III 1 10, L 142 7 e VB CXXVI 9.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

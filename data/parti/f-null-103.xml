@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-103</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-103">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-103_1_1" n="1"> Comant le <term ref="#gran-can">Grant Kaan </term>fait grant charité a sez jens povres.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-103_2_1" n="1"> Puis que je voç ai dit comant le <term ref="#gran-can">Grant Sire</term> fait faire devise a son pueples de toutes ‹bles›, or voç conterai commant il fait
+         grant charité as povres gens qe en la vile de <term ref="#cambalu">Canbalu </term>sunt. </seg>
+      <seg xml:id="f-null-103_2_2" n="2"> Il est voir qe il fait eslire maintes mesnie de ‹la› ville de <term ref="#cambalu">Canbalu </term>qe soient povres et qe ne aient qe mengier; et tiel mesnie sera .VI. et tiel .VIII.
+         et tiel .X., et tiel plus et tiel moin: le <term ref="#gran-can">Grant Sire</term> fait lor doner forment et autre bles por coi il aient que menuier; et ce fait faire
+         a grandisme quantité. </seg>
+      <seg xml:id="f-null-103_2_3" n="3"> Et |47c| encore voç di que tout celz qe velent aler por
+         le pain dou segnor a la cort, el ne est denié a nulz, mes en est doné a tuit celç
+         qe vont. </seg>
+      <seg xml:id="f-null-103_2_4" n="4"> Et sachiés qe il en i alent chascun jor plus de .XXXm., et ce fait faire tout le an; et ce est bien grant bonté dou seingnor, que a pietet
+         de seç povres pueples, et le pueple le a a si grant bien qu’il le orent come dieu.
+         </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-103_3_1" n="1"> Or voç ai dit de ce, et adonc vos diron d’autre, et nos partiron de la cité de
+         <term ref="#cambalu">Canbalu</term> et entreron dedenz le <term ref="#cataio">Catai</term> por conter des grant chouse et riches que hi sunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-47-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-47">
+      <note>
+	<p>Ramusio ripete grosso modo lo svolgimento di <ref type="witlink" target="#f-null-69">F LXIX 17</ref> «Et quant les hostes alent por fer auchune cosse, il soient en plain ou en montagnes,
+         il mandent dous jornee avant .CC. homes pour excaregaites, et ausint derieres et dejoste,
+         ce est de quatre pars; et ce font il por ce que l’ost ne peust estre asali qu’il ne
+         le seussent», ma sostituisce il preciso dato numerico di F («il mandent […] .CC. homes»),
+         ribadito da tutta la tradizione antica, con un più generico «mandano avanti gli altri
+         huomini»: tra i suoi modelli, concorda con R nel silenzio solo <ref type="witlink" target="#v-null-36">V 36 21</ref> «Et quando el signor vano per aquistar zitade o reami chon lo exerzito, e che li
+         sia in pianura over in monti, el manda parte dela zente avanti ben do zornade; e per
+         el simel lassa da driedo un’altra parte e dai lati, sì che da quatro parte li son
+         provezudi: et questo fano azò che lo so exerzito non sia arsalido da nesuna parte».
+         </p>
+	<p>Quanto alle altre fonti: riassumono <ref type="witlink" target="#l-null-60">L 60 20</ref> «Et dum exercitus aliquis aliquo iverit, an‹te›cedunt eum duabus dietis .IIc. homines, totidemque sequuntur, inceduntque totidem a dextris, et similiter a sinistris»,
+         e <ref type="witlink" target="#p-i-60">P I 60 3</ref> «Cum autem de loco ad locum procedit exercitus, semper a quatuor lateribus eius ducenti
+         vel amplius custodes sunt in distancia congrua, ne occurrere possint hostibus improvisi
+         […]», mentre è in linea con il dettato di F <ref type="witlink" target="#vb-null-57">VB LVII 11</ref> «E quando i chaminano con suo hoste in alchuna parte mandano duxento chavali avanti
+         in aguaito et altretanti da uno di lati, e tanti dal’altro lati et tanti riman adrieto
+         et senpre stano nel’aguaito per quatro parte açò l’oste soa non fosse asalito da altre
+         giente».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

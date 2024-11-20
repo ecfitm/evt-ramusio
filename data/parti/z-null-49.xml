@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-49</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-49">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 49</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-49_1_1" n="1"> Cum vero transitum est istud flumen et itum est per duas dietas, invenitur quedam
+         nobilis civitas nomine <term ref="#cacianfu">Cacianfu</term>, gentes cuius <term ref="#idolatri">adorant ydola</term>. </seg>
+      <seg xml:id="z-null-49_1_2" n="2"> Et omnes gentes <term ref="#cataio">Cathay</term> <term ref="#idolatri">adorant ydola</term>. </seg>
+      <seg xml:id="z-null-49_1_3" n="3"> Ipsa quidem est civitas magne mercationis et multarum artium. </seg>
+      <seg xml:id="z-null-49_1_4" n="4"> Nascuntur
+         in patria illa in habundantia syricum, çinciber, galanga et spicum, et multe alie
+         maneries specierum ex quibus ad nostras partes non feruntur. </seg>
+      <seg xml:id="z-null-49_1_5" n="5"> Fiunt ibi drapi aurei
+         et de syrico.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

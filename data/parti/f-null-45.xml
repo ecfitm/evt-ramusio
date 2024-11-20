@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-45</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-45">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XLV </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-45_1_1" n="1"> Ci devise de la montaingne dou sal.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-45_2_1" n="1"> Et quant l’en ‹a› alés ceste doçe jornee, il treuve un ca{u}stiaus qe est apellés
+         <term ref="#thaican">Taican</term>, la u il a grant merchés des bles. </seg>
+      <seg xml:id="f-null-45_2_2" n="2"> Et est en mout |20a| belle contree, et les
+         sien montagnes dever midi sunt mult grant et sunt toute sal, et tout la contree environ
+         trointe jornee vienent por cel sal, ki est le meior do monde: il est si dur{o} qe
+         ben n’en pout prendre se no con grant pigon de fer; et voç di qu’il est en si grant
+         abundance qe tout lo monde enn aurént aseç jusque a la fin dou secle. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-45_3_1" n="1"> Et quant l’en s’en part{e} de ceste cité, il ala trois jornee entre grec et levant
+         toites foies trouvant bielle contree, la ou l’en trove abitasson aseç et planteuse
+         de fruit et des bles et de vignes. </seg>
+      <seg xml:id="f-null-45_3_2" n="2"> Les ‹jens› orent <term ref="#macometto">Maomet</term>; il sunt mauvés jens et morturiés; il demorent mult en bevorie, car il boivent volunter,
+         car il ont mout bon vin cuit. </seg>
+      <seg xml:id="f-null-45_3_3" n="3"> Il ne portent en lor chief rien for une corde lunge
+         .X. paumes, et la s’environent en lor teste. </seg>
+      <seg xml:id="f-null-45_3_4" n="4"> Il sunt mout buen chaçaor et prenent
+         venesion assez; et ne ont autres vestimens for che le pelles des bestes qu’il prenent,
+         et celles concent et s’en font vestimens et causemant, et caschun sevent concier les
+         peles de bestes qu’il prenent. </seg>
+    </p>
+    <p n="4">
+      <seg xml:id="f-null-45_4_1" n="1"> Et quant l’en a alés trois jornee, l’en treuve une cité qe est appelés <term ref="#scassem">Scasem</term>, qui est au cuens; et les sien autres cités et ca{u}stiaus sunt es montagnes. [9]
+         Et por mi ceste cité passe un flum auques grant. [10] Il |20b| ‹i› a maint porches
+         spin, et quant les caçaors les velent prendre et il le mettent les chen souvre, les
+         porches s’acoilent toutes ensenble, puis jete le spine qu’il a sor son dos et por
+         le costé sor les kiens et les ennavre{s} en plosor leus. [11] Ceste Scasen est une grant provences et a langajes por soi. [12] Et le vilan ke ont lor bestiames
+         demorent ex montagnes, car il hi font belles abitasion et grant, car il li font cavernes,
+         et le puent faire legermant por ce les montagnes sunt de tere. </seg>
+    </p>
+    <p n="5"/>
+  </div>
+</body>
+</text>
+     </TEI>

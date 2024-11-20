@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-8-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-8">
+      <note>
+	<p>La struttura con transizione dichiarativa iniziale viene a Ramusio, traduttore fedele,
+         da <ref type="witlink" target="#z-null-97">Z 97 10-11</ref> «Alia non sunt ibi dice‹n›da, nisi solum quod locus est silvester et pauci homines
+         illuc accedunt. Et etiam quia rex non consentit quod illuc aliquis accedat, qui eius
+         thesaurum et conditiones cognoscat» (a sua volta resa senza deviazioni di F CLXIII 8 «Autre couse ne i a qe a mentovoir face, for qe je vos di qu’il est si sauvajes leu
+         qe pou jens hi vont, et le roi mesme ne velt qe aucun hi aille ne nul saiche son treçor
+         ne sa condision»; sulla stessa linea si pone V 85 5 «Alguna altra chossa qui nonn è da dire, se no che ’l luogo sono salvadego et lì
+         vano puochi homeni; et lo re non vol che algun ne vada, azò ch’i non sapia del texoro
+         e de la so chondizion»).</p>
+	<p>Gli altri relatori semplificano la struttura della pericope, sopprimendo la transizione:
+         L 148 7 «Et est hec provincia tam forte silvestris ‹et devia› quod ad ipsam pauce accedunt
+         gentes, difficiliusque accedere possunt» e VB CXXXII 9 «La quale provincia è in sì aspro luogo et sitto che pochi forestieri lì chapitano»;
+         abbrevia ulteriormente la serie originale di informazioni VA CXXV 6 «Pocha zente vano a questa contrà, perché l’è luogo molto stranio» (e il suo apografo
+         P III 11 6 «Ad hanc provinciam pauci de aliis regionibus confluunt, quia regio non bene domestica
+         est»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

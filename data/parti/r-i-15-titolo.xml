@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-15-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-15">
+      <note>
+	<p><ref type="witlink" target="#f-null-36">F XXXVI 1-9</ref> /<ref type="witlink" target="#f-null-36"> F XXXVI 17-18</ref> (Ci devise de la grande clinee); Z 14 1-6; <ref type="witlink" target="#l-null-30">L 30 1-3</ref> / <ref type="witlink" target="#l-null-30">L 30 9-10</ref> (De alio magno descensu, et de civitate <term ref="#camandu">Camandi</term>); <ref type="witlink" target="#p-i-23">P I 23 1-6</ref> /<ref type="witlink" target="#p-i-23"> P I 23 11-12</ref> (De campestribus <term ref="#ormus">Formosa</term> et civitate <term ref="#ormus">Cormos</term>), <ref type="witlink" target="#va-null-23">VA XXIII 1-9 </ref>/ <ref type="witlink" target="#va-null-23">VA XXIII 19-21</ref> (De uno piano dove addiviene alle fiate sì gran caldo che lla zente chonvien star
+         soto aqua se deno viver); <ref type="witlink" target="#v-null-20">V 20 19-22</ref> / <ref type="witlink" target="#v-null-20">V 20 28-29</ref> (Del reame de <term ref="#chermain">Ereimain</term>); <ref type="witlink" target="#vb-null-22">VB XXII 22-29 </ref>/ <ref type="witlink" target="#vb-null-22">VB XXII 37-38</ref>. </p>
+	<p>Al netto di qualche presunto apporto di V e (soprattutto) P, il capitolo ramusiano
+         deriva sostanzialmente da Z, anche se, una volta di più, la marcata lacunosità del
+         toledano in questa sezione rende impossibile l’accertamento del debito testuale (in
+         parte ricostruibile, al solito, grazie a F). Fatto sta che, laddove è possibile istituire
+         un confronto, si configura come traduzione letterale di Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

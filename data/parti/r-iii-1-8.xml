@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-1-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-1">
+      <note>
+	<p>Z è il solo relatore a riferire del funzionamento del naviglio d’appoggio in rapporto
+         al vento nei termini indicati da Ramusio (che utilizza alla lettera la sua fonte:
+         cfr. <ref type="witlink" target="#z-null-91">Z 91 22-23</ref> «Et iste minores sepius iuvant trahere maiores cum funibus, id est sartiis, quando
+         remigiis ducuntur, et etiam cum ducuntur velis, si ventus regnet aliquantulum ex traverso,
+         quia minores precedunt maiorem et ligate cum funibus trahunt ipsam. Sed si ventus
+         spiret ex directo non: nam vela maioris navis impedirent ne ventus feriret in vela
+         minorum, et sic maior supracederet minores.»</p>
+	<p>Gli altri relatori si allineano al discorso di F CLVII 10: «[…] e cestes vont armés; et ancore plusors foies aydent a traire la grant nes.
+         Moinent deus ‹de› cestes grant barches, mes le une est greignor qe le autre»; vd.
+         P III 1 8 «[…] qui sepe navem magnam suis alligatam barchis remigando trahunt; cum remis et
+         velis ducuntur barche quando fuerit oportunum» (giusta VA CXXI 9-10 «[…] e vano chon remi e a vell[e], e spesse fiade aidano a tirar la nave granda.
+         Zaschuna gran nave mena do de quelle barche, l’una mazior dell’altra […]»; L 142 5-6 «[…] pluries enim iuvant trahere magnas naves. Et ex talibus habet quelibet magna
+         navis duas, unam tamen altera maiorem […]»; VB CXXVI 7-8 «[…] et queste senpre vano con la gran nave in suo aida. Àno ecian .II. paraschermi
+         più legieri senpre in sua conpagnia […]»; V 80 6-7 «[…] e spesse volte le aidano a menar una gran nave. Zaschaduna nave mena do barche,
+         ma una mazor del’altra […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

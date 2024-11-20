@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-79</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-79">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 79</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-79_2_1" n="1"> Deputantur per <term ref="#gran-can">Magnum Canem</term> .XII. barones ‹maximi›, quibus per ipsum data est ‹omnis› potestas regendi totum
+         imperium. Et hii manent in predicta civitate de <term ref="#cambalu">Cambaluch</term>, in maximo quodam pallatio in quo deputatus est locus iuris unicuique provincie sub
+         imperio existenti, que sunt .34. </seg>
+      <seg xml:id="l-null-79_2_2" n="2"> Et unicuique provincie eciam deputatus est iudex,
+         habens sub se quam plures scribas. Hii ergo iudices de consensu tamen .XII. maiorum
+         supradictorum iura prebent. </seg>
+      <seg xml:id="l-null-79_2_3" n="3"> Hii eciam .XII. habent tantum potestatis quod in quacumque
+         provincia confirmant dominia, vel de novo eligunt dummodo placeat <term ref="#gran-can">Magno Cani</term>; mittunt eciam exercitum ubi et quando eis videtur necessarium, et breviter omnibus
+         imperio necessariis deputantur. </seg>
+      <seg xml:id="l-null-79_2_4" n="4"> Et hii tales dicuntur “<term ref="#singh">scieng</term>”, quod sonat “maior curia”.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-32-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-32">
+      <note>
+	<p><ref type="witlink" target="#f-null-53">F LIII</ref> (Ci devise de la provence de <term ref="#cotam">Cotan</term>); <ref type="witlink" target="#l-null-48">L 48</ref> (De provincia <term ref="#cotam">Cotan</term>); <ref type="witlink" target="#p-i-41">P I 41</ref> (De provincia <term ref="#cotam">Coram</term>), <ref type="witlink" target="#va-null-40">VA XL</ref> (De <term ref="#carchan">Charchan</term>, dove abita cristiani e saraini insieme); <ref type="witlink" target="#v-null-28">V 28 2-4</ref> (Dela provinzia de <term ref="#carchan">Iarchan</term> e de <term ref="#cotam">Chotan</term>); <ref type="witlink" target="#vb-null-36">VB XXXVI</ref>; <ref type="witlink" target="#z-null-27">Z 27</ref>.</p>
+	<p>Z è senz’altro la fonte di R per l’<hi rend="italics">incipit</hi> e l’<hi rend="italics">explicit</hi> del capitolo, mentre gli <hi rend="italics">ajouts</hi> della parte centrale, se non derivano anch’essi da Z (ma la lezione toledana, ampiamente
+         lacunosa, non permette di verificarlo), possono dipendere da L.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

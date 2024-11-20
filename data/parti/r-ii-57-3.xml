@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-57-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-57">
+      <note>
+	<p>R si attiene fedelmente a <ref type="witlink" target="#z-null-74">Z 74 4</ref> «[…] cuius gentes <term ref="#idolatri">adorant ydola</term>, comburunt funera, monetam habent de cartis et sunt sub dominio <term ref="#gran-can">Magni Can</term>». Lo stesso ordine delle informazioni di R Z si trova, tuttavia, anche in <ref type="witlink" target="#vb-null-103">VB CIII 4</ref> «La giente tuti sono <term ref="#idolatri">idolatrii</term>, i qualli bruxano i corpi de lor morti e spendeno dilla moneta di carta del segnore
+         però che ssono sottoposti al <term ref="#gran-can">Gran Can</term>». Rispetto a Z e VB, V appare più vicino alla versione di F: <ref type="witlink" target="#v-null-68">V 68 5</ref> «[…] la zente dela qualle <term ref="#idolatri">adora le idolle</term>, et fano bruxar i chorpi morti; et sono soto el <term ref="#gran-can">Gran Chan</term>; et àno monede de charta […]»;<ref type="witlink" target="#f-null-140"> F CXL 3</ref> «[…] Il sunt <term ref="#idolatri">ydules</term> et font ardoir les cors mors. Il sunt au <term ref="#gran-can">Grant Kan</term>. Lor monoie ont de carte […]». Presentano un testo accorciato <ref type="witlink" target="#l-null-115">L 115 2</ref> «Gentes sunt <term ref="#idolatri">ydolatre</term>, comburentes corpora mortuorum et habentes monetam ex cartis». e <ref type="witlink" target="#p-ii-56">P II 56 2</ref> «Ibi et in tota regione illa expenditur moneta curie <term ref="#gran-can">Magni Kaam</term>».</p>
+	<p>Va rilevato che, dopo il par. 3, Ramusio tralascia una parte di testo tràdita esclusivamente
+         da <ref type="witlink" target="#z-null-74">Z 74 5</ref> «Et sunt in ea aliqui christiani Turchi nestorini, qui in dicta civitate unam habent
+         ecclesiam».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

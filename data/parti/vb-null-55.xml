@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-55</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-55">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LV </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-55_1_1" n="1"> ‹M›orto <term ref="#cingis-can">Çecino</term>, fo creatto per segnore <term ref="#cyn-can">Cuy Chan</term>; et dapo’ la morte de <term ref="#cyn-can">Cuy Chan</term> fo creato segnore <term ref="#bathyn-can">Bote Chan</term>. </seg>
+      <seg xml:id="vb-null-55_1_2" n="2"> Dapo’ regnò <term ref="#ulau">Antor Chan</term>, quarto segnore; dapoi regnò <term ref="#mongu-can">Magu Chan</term> quinto segnore. </seg>
+      <seg xml:id="vb-null-55_1_3" n="3"> Dapoi <term ref="#cublai-can">Clubai Chan</term>, el qual nel presente tenpo regna, et quella medema possança e ssegnoria èt magiore
+         qualle sia stata chadauno di suo’ antecessori i qualli tuti segnori desendenti de
+         <term ref="#cingis-can">Çecino</term> fino sepelliti alla gran montagna chiamata Achay, né in alltro luogo i voleno esser sepelliti e moreno in che longe parte se voiano.
+         </seg>
+      <seg xml:id="vb-null-55_1_4" n="4"> Et àno questo chostume, che quando i diti segnori moreno, portendo el chorpo suo
+         a ssepelire, quanti se scontrano nel chamino tutti àno de gracia de morire con ferma
+         sperança de andare a servire el so segnore; e tuti i mior chavalli i abiano tuti i
+         amaçano tegnendo quei chavalli essere del suo segnore nel’altro mondo. </seg>
+      <seg xml:id="vb-null-55_1_5" n="5"> E quando
+         Mangu Can morite, nel tenpo del qualle io me trovai, più de .XX. millia persone se alciseno
+         se medemi per andare a servire el so segnore nel chamino portendo el corpo suo a sepelire.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

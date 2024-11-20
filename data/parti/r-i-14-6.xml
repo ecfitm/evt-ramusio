@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-14-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-14">
+      <note>
+	<p>La sinossi con la lezione toledana, per quanto incompleta, evidenzia la stretta dipendenza
+         di R da Z, che nei passi confrontabili risulta tradotto quasi <hi rend="italics">verbatim</hi>: cfr. Z 14 23-25 «Bestie etiam sunt dissimiles ab aliis. Sunt boves magni et toti albi ut nix: pulcerimi
+         sunt visu. Honus magnum portant, quia fortissimi sunt; et cum honerari debent, ad
+         modum camelorum se flectu‹n›t ad terram, et postmodum onerati, exurgunt».</p>
+	<p>Z e R sono coerenti, per completezza del dettato, con <ref type="witlink" target="#f-null-35">F XXXV 7-8</ref> «Les bestes sunt aussi divisee, et voç dirai des bué primeramant. Les buef sunt grandismes
+         et sunt tuit blance come nois; le poi‹l› il ont peitet et plain, et ce avient por
+         le caut leu; il ont les cornes cortes et groses et non agues; entre les spaules ont
+         un çinb reont haut bien deus paumes: il sunt la plus belle chause dou monde a veoir.
+         Et quant l’en le vuelt chargier, il se coucent ausint con font les giamiaus; et quant
+         l’en le a chargés, il se levent et portent lor chargies mout bien, car il sunt forte
+         outre meçure»; se ne differenziano solo per l’arretramento della tessera finale, cioè
+         «portent lor chargies […] outre meçure» F, cui risponde, in Z, «honus […] fortissimi
+         sunt», in R «portano […] fortissimi» (la stessa peculiarità strutturale si riscontra,
+         il che è singolare, nella lezione di <ref type="witlink" target="#p-i-22">P I 22 5</ref>, latrice di qualche tratto originale: «Boves ibi sunt maximi, pilos albissimos et
+         planos habentes; cornua habent brevia et grossa que acumine carent; super humeros
+         habent gilbum ut cameli, fortissimi sunt et onera magna portant, et cum onerari debent
+         incurvant se ut cameli et, cum onerati fuerint, surgunt sicut ab hominibus edocti
+         sunt»).</p>
+	<p>Sostanzialmente parallelo a F è il dettato di <ref type="witlink" target="#l-null-29">L 29 5-6</ref> «Quadrupedia similiter diversificata habent. Boves enim eorum sunt maxime totaliter
+         albi ut nix; pilum vero habent parvum et planum – quod accidit occasione caliditatis
+         loci –, et cornua habent brevia et grossa et non acuta; et inter spatulas habent gibbum
+         rotundum altum bene duobus palmis, et sunt pulcra valde animalia ad videndum. Et cum
+         onerari debent, se flectunt ut moris est camelorum; et honerati surgunt, et ferunt
+         eorum onera multum bene: sunt enim valde fortes» e di <ref type="witlink" target="#vb-null-22">VB XXII 10-11</ref> «Trovasse lie buo’ bianchissimi: àno churto el pello, àno le corne churte e grose
+         e pontide, et nela spalla àno un segno retondo ben per .III. palmi ch’è bellisima
+         cosa a vederlli. E quando si cargano stano chufadi in tera chome fano i ganbelli,
+         e chargati se lievano in piedi: portano gran chargo perché sono fortissimi e grandi».</p>
+	<p>Nell’insieme fedele a un modello vicino a F è anche la versione di <ref type="witlink" target="#v-null-20">V 20 9-10</ref> «[…] et le altre bestie è simele ale nostre. Li buò sono molti grandi e tuti bianchi
+         chomo neve, ed à uno pelo pizolo e baso, e questo sono per el chaldo grando; ed à
+         le chorne churte e grosse, et nonn à onge, et ale spalle à uno gobo groso do palma;
+         al veder someiâ ganbeli, e queli vien chargadi et metese zoxo e poi se lieva chomo
+         fano i ganbeli, et porta chargo oltra muodo perché i sono forti» – marcata però dalle
+         consuete topiche traduttive: ad es. <hi rend="italics">non ague</hi> F (o sim.) &gt; <hi rend="italics">nonn à onge</hi> V (per <hi rend="italics">faute</hi> paleografica).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

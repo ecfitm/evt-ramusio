@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-60</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-60" n="1">
+    <head>
+      <hi rend="bold">R, II 60</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-60_1_1" n="1"> Della città di <term ref="#iangui">Iangui</term>, che governò messer Marco Polo. Cap. 60.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-60_2_1" n="1"> Camminando per <term ref="#sirocco">sirocco</term> da <term ref="#cingui">Cingui</term> si trova la nobil città di <term ref="#iangui">Iangui</term>, la quale è nobile et ha sotto di sé ventisette città, et per questo è potentissima,
+         et è sottoposta al <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-ii-60_2_2" n="2"> Et in questa città fa residentia uno d’i dodici baroni avanti nominati, che sono
+         governatori delle provincie, eletti per il <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-ii-60_2_3" n="3"> Sono <term ref="#idolatri">idolatri</term>, et vivono di mercantie et mestieri: fannosi qui molte armi et arnesi da battaglia,
+         però che per quelle contrade vi habitano gente d’armi assai. </seg>
+      <seg xml:id="r-ii-60_2_4" n="4"> Et messer Marco Polo, di commissione del <term ref="#gran-can">Gran Can</term>, ne hebbe il governo tre anni continui, in luogo d’un d’i detti baroni.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-2-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-2">
+      <note>
+	<p>Il paragrafo è la pressoché esatta traduzione di Z 1 26 «Cuius regni Armenie Minoris confines hii sunt: ab uno latere versus meridiem est Terra Promisionis, quam retinent
+         sarraceni; a latere tramontene sunt Turcomani, qui vocantur <term ref="#caramani">Caramani</term>; a levante et greco est <term ref="#gran-turchia">Turchia</term>, <term ref="#cayssaria">Chayseria</term> et <term ref="#sevasta">Sevastio</term> et multe alie civitates, que omnia subdita sunt <term ref="#tartari">Tartaris</term>; versus occidentem est mare, per quod navigatur ad partes christianorum». Lo stesso
+         contenuto informativo, ma con qualche dettaglio in meno, è in <ref type="witlink" target="#v-null-9">V 9 5</ref> «E li chonfini de dita tera da uno ladi sono le Tere de Promisione le quale tien
+         Saraini, da ladi de tramontana sono zente che à nome Turchimani, da levante e griego
+         sono la <term ref="#gran-turchia">Turchia</term>, <term ref="#cayssaria">Chasana</term> e <term ref="#sevasta">Stavosto</term>, le quale sono sudite a <term ref="#tartari">Tartari</term>», evidentemente debitore, per questo passo, di un modello latino vicino a Z. Nella
+         restante tradizione, il paragrafo sui confini dell’<term ref="#armenia">Armenia Minore</term> è del tutto assente.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

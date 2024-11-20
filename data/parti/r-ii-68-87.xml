@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-87</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Le fonti di Ramusio non presentano particolari differenze in questo punto: <ref type="witlink" target="#l-null-129">L 129 1</ref> «Longe a <term ref="#quinsai">Quinsay</term> .XXV. miliaribus, inter grecum et orientis, est <term ref="#mare-oceano">Occeanum mare</term>, estque ibi civitas dicta <term ref="#quinsai">Canfu</term> […]; et adhuc supra valde ad hunc portum veniunt multe et magne naves, ex <term ref="#india">India</term> et aliunde mercimonia afferentes»; <ref type="witlink" target="#p-ii-64">P II 64 20</ref> «[…] Ultra civitatem <term ref="#quinsai">Quinsay</term> ad miliaria .XXV. ad plagam orientalem est <term ref="#mare-oceano">Occeanum mare</term>, et ibi supra mare est civitas <term ref="#gampu">Ganfu</term> ubi portus est optimus ad quem conveniunt naves in multitudine maxima de <term ref="#india">India</term> et de regionibus aliis»; <ref type="witlink" target="#v-null-76">V 76 17</ref> «E lonzi da questa zitade quindexe mia sono el <term ref="#mare-oceano">Mar Hozian</term> tra griego e levante; et là sono una zitade chiamata <term ref="#gampu">Chanpu</term>, et àno gran quantitade de palazi»; <ref type="witlink" target="#vb-null-114">VB CXIV 22</ref> «Lutano dala cità, per migia .XXX., v’è el <term ref="#mare-oceano">mar Oceano</term>, sopra el qual v’è una cità la qual s’apela <term ref="#gampu">Gunfu</term> ch’è el porto de questa citade et è versso griego e llevante, al qual porto chapita
+         nave de <term ref="#india">India</term> con assai marchadantia» (vd. <ref type="witlink" target="#f-null-151">F CLI 20</ref> «Et encore vos fais savoir qe, .XXV. miles loinge de ceste cité, est la <term ref="#mare-oceano">mere Osiane</term>, entre grec et levant, et iluec a une cité qe est apellé <term ref="#gampu">Ganfu</term>, et illuec a mout buen port et hi vient grandismes naives con grandismes mercandies
+         e de grand vailance de <term ref="#india">Yndie</term> e d’autres pars […]»); Z omette l’intero passo. </p>
+	<p>Nella prima parte della pericope («Discosto […] <term ref="#gampu">Gampu</term>»), R si attiene alla testimonianza di V, ad eccezione che nell’indicazione delle
+         miglia di distanza che separano Quinsai dall’Oceano, che è verosimilmente ricavata
+         da un altro testimone (L, P o VB), e nel toponimo <term ref="#gampu">Gampu</term>, che risulta dalla fusione della lezione di V (<term ref="#gampu">Chanpu</term>) e di P (<term ref="#gampu">Ganfu</term>). Nella seconda parte («dove […] <term ref="#india">India</term>), Ramusio segue il testo di P, inserendo nella parte finale un sintagma ricavato
+         probabilmente da VB (VB «con assai marchadantia», R «con mercantie»). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

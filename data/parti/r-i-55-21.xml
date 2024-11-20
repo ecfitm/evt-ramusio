@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-55-21</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-55">
+      <note>
+	<p>Ramusio traduce pressoché alla lettera Z: lo si può verificare direttamente sul toledano,
+         che, lacunoso nella prima parte del capitolo (corrispondente ai parr. 1-20), è invece
+         completo nella seconda (parr. 21-26). Vd. <ref type="witlink" target="#z-null-42">Z 42 3-6</ref> «Nam habent monasteria magna et abbatias. Et sunt ibi tam magna monasteria quod sunt
+         veluti una parva civitas, in quibus sunt plures quam duo millia monachi secundum mores
+         eorum, qui induuntur magis honeste aliis hominibus, et portant capud abrasum et barbam.
+         Fatiunt etiam maius festum, cum solempnioribus canticis et luminaribus, quam unquam
+         visum fuerit. Et de istis “<term ref="#bachsi">bacsi</term>” sunt aliqui qui, secundum eorum ordinem, possunt uxores accipere […]», a sua volta
+         coerente con <ref type="witlink" target="#f-null-74">F LXXIV 38-41</ref> «Qe je voç di qe il hi a si grant mostier come une pitete cité, es qelz a plus de
+         .IIm. nonain, selonc lor costumes, qe vest{r}ent plus honestemant que ne font les autres
+         homes. Il portent le chief ras e la barbe rase. Il font les greingnors festes a lor
+         ydres con greingnors cant et con greingnors luminarie qe jamés fose veue. Et encore
+         voç di qe cesti <term ref="#bachsi">Bacsi</term> en i ont entr’aus de tiaus que selonc lor ordre puent prandre mollier […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

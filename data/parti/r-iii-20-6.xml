@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La tradizione poliana offre due distinte soluzioni per descrivere il ruolo dei <term ref="#bramini">bramini</term> nella pesca.</p>
+	<p>(1)  F CLXXIII 8 li introduce nel momento in cui parla della divisione della pesca: i mercanti ne
+         danno la decima parte «[…] a celui que encante les peisonç qe ne faicent maus a les
+         homes qe vont sout eive por trover les perles: a cestui en donent des .XX. le{i} un;
+         e ce sunt <term ref="#bramini">abraiamam</term> qe encantent les peison, le jor solemant, car la noi{u}t ronpent il les encantam‹en›t
+         si qe les peison en puent faire d’elz a lor vo‹l›unté». Questa è pure la soluzione
+         di <ref type="witlink" target="#z-null-107">Z 107 25-27</ref> «[…] incantatori piscium, qui homines non offendant dum in aqua pro inveniendis caperis
+         se submergunt. Et isti qui incantant pisces in die vocantur <term ref="#bramini">braaman</term>. Sed incantant ipsos de die solum: nam veneficia rumpunt in nocte», e di V 91 10 «[…] e poi dona una parte a inchantadori de pesi, i qualli non faza mal a quelli
+         che vano al’aqua per chaxon de trovar le perle; e dàli la dezima parte. E questi sono
+         i marinari che inchanta i pessi del’<term ref="#india">India</term> solamente; in una note i ronpeno le ‹in›cha‹nta›xon, sì che i pessi puol far la via
+         […]».</p>
+	<p>(2) P III 23 7-8 offre una descrizione separata dal tema della spartizione dei guadagni: «Sunt autem
+         in sinu illo maris pisces grandes qui occiderent piscatores descendentes in mare,
+         sed per negotiatores hoc modo providetur: conducunt negotiatores magos quosdam qui
+         dicuntur “<term ref="#bramini">abraiamin</term>”, qui cum incantationibus suis et diabolica arte cogunt et stupefaciunt pisces illos
+         ita ut neminem ledere possint. Et quia huiusmodi piscatio de die et non de nocte fit,
+         magi illi de die et non de nocte incantaciones faciunt quas sero pro nocte dissolvunt,
+         timent enim ne quis furtive sine negotiatoribus licentia descendat in mare ut accipiat
+         margaritas. Fures autem metuentes pisces in mare descendere non attentant, nec aliquis
+         invenitur qui sciat huiusmodi incantaciones facere nisi illi <term ref="#bramini">abraiamin</term> qui a negotiatoribus sunt conducti». La soluzione era innanzitutto in VA CXXXVII 8-11 «E menano homeni siego ch’è diti <term ref="#bramini">abraianin</term>, li quali inchantano i pessi aziò che i non ge posano far mal [a] queli omeni che
+         vano al fondi del’aqua. […] Queli incantadori incantano li pesse el dì, e la sera
+         desfano l’inchantamenti aziò che niuno andasse de note a peschar le perlle. E per questa caxion non se fa per li merchadanti se non de dì» (il par. 9 innesta
+         nella descrizione l’informazione sul guadagno degli <term ref="#bramini">abraianin</term> che ritroveremo in <ref type="witlink" target="#r-iii-20">R III 20 8</ref>). Si allineano a VA-P, con esiti distinti, L 161 7 «Sed quia piscatores ob multitudinem magnorum piscium lederentur, habent quosdam
+         dictos “<term ref="#bramini">habraiamain</term>”, qui incantationibus suis taliter pisces constringunt quod piscationes nequeunt
+         impedire; et non solum hii tales pisces constringunt […]», e VB CXLIII 9-10 «Ène uno che inchantano i pessi açò quei non façano malle a quelli vano soto l’aqua
+         a peschare le perle e questi àno dele .XX. parte l’una. Et apellasi questi incantadori
+         <term ref="#bramini">Brivamain</term>; i quali vagliano solamente el suo incanto el dì, e lla note i pessi sono in suo
+         libertà però che l’inchanto non valle vegnuta la note».</p>
+	<p>Si noti che solo P parla dei ladri a cui fa riferimento Ramusio: che per questa pericope
+         tornò su quel testo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

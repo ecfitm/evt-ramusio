@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-113</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-113">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, CXIII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-113_2_1" n="1"> Quando l’omo se parte dela zità <term ref="#saianfu">Saniafu</term>, el va per sirocho quindexe meia e truova una zità che ‹à› nome <term ref="#singui">Singui</term>, la qual ‹non› è molto grande. </seg>
+      <seg xml:id="va-null-113_2_2" n="2"> Ella à gran navillii et è sopra el mazior fiume
+         che sia al mondo, lo qual à nome <term ref="#quian">Quian</term>, et è largo in alchuni luogi undexe meglia, e in tal oto et in tal sìe, et è longo
+         plui de zento zornade. </seg>
+      <seg xml:id="va-null-113_2_3" n="3"> In questo fiume è grandisimi navilii, e in tute quelle
+         aque de zia da mar, né in fiumi né in mar, n’è tante nave, nì se porta tante bone
+         nì prezioxe merchadantie chome se porta in questo fiume.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-113_3_1" n="1"> E io, Marcho Pollo, vidi a questa zità de <term ref="#singui">Singui</term>, che non è molto grande, ben zinquemilia ‹nave› che navegavano per ’sto fiume. </seg>
+      <seg xml:id="va-null-113_3_2" n="2">
+         Or podé pensar quanto sono le altre, ché io ve digo ch’el passa ben sedexe provinzie.
+         </seg>
+      <seg xml:id="va-null-113_3_3" n="3"> Et è-ne sora questo fiume duxento zità, le qual sono tute mazior de questa de
+         <term ref="#singui">Singui</term>, et à zaschuna più nave che questa.</seg>
+    </p>
+    <p n="4">
+      <seg xml:id="va-null-113_4_1" n="1"> Le nave grande de questa provinzia àno una choverta e uno alboro e non àno sartie
+         de chanevo, |53r| se non solamente per i arbori e per le velle, e i àno pilore o,
+         per dir chiaro, alzane de chane, chon le qual se tira le nave su per el fiume. </seg>
+      <seg xml:id="va-null-113_4_2" n="2">
+         E sono fate delle chane grosse che ò dito de sopra, le qual son longe ben sedexe passa.
+         [9] I lle sfendeno per mezo e liga l’una in chavo del’altra, e fa-le longe ben trexento
+         a passa. [10] E sono più forte che non serave sartie de chanevo per tirar.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

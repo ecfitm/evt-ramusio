@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-64-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-64">
+      <note>
+	<p>R ricava il testo della pericope sicuramente da <ref type="witlink" target="#z-null-81">Z 81 13</ref> (che, a sua volta, riflette abbastanza fedelmente F): «Nunc vero, hinc discedentes,
+         de quadam civitate ‹narabimus› nomine <term ref="#cinghianfu">Cinghyanfu</term>» (vd.<ref type="witlink" target="#f-null-147"> F CXLVII 7</ref> «Or nos partiron de ce et paseron le flum, et voç conteron d’une cité qe est apellés
+         <term ref="#cinghianfu">Cinghianfu</term>»). Trasmette una versione più sintetica <ref type="witlink" target="#v-null-73">V 73 5</ref> «Or partendosse da questa zitade se trova un’altra zitade chiamata <term ref="#cinghianfu">Giginafu</term> […]». In L, P e VB questa parte è assente.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

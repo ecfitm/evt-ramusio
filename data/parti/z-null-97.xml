@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-97</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-97">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 97</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="z-null-97_2_1" n="1"> Et quando ab ista insula <term ref="#giava">Çava</term> disceditur, navigatur inter meridiem et gherbin miliaribus septingentis, et tunc
+         due inveniuntur insule, una quarum est maior, altera vero minor. </seg>
+      <seg xml:id="z-null-97_2_2" n="2"> Una nominatur
+         <term ref="#sondur-et-condur">Sondur</term>, reliqua <term ref="#sondur-et-condur">Condur</term>. </seg>
+      <seg xml:id="z-null-97_2_3" n="3"> Que insule inhabitate sunt, quare dimitatur de ipsis.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="z-null-97_3_1" n="1"> Et cum ab ipsis insulis discedendo est per syrocum per circa quingenta miliaria
+         navigatum, invenitur quedam provincia, que est de tera firma, multum dives et magna,
+         nomine <term ref="#locach">Lothac</term>, cuius gentes <term ref="#idolatri">adorant ydola</term>, loquelam habent per se, a proprio rege reguntur et nemini redunt tributum, quoniam
+         in tali loco sunt quod nullus potest ad ipsos accedere pro dampno aliquo inferendo.
+         </seg>
+      <seg xml:id="z-null-97_3_2" n="2"> Quia, si illuc posset adiri, <term ref="#gran-can">Magnus Can</term> cito suo dominio ipsam provinciam subiugaret. </seg>
+      <seg xml:id="z-null-97_3_3" n="3"> In ista provincia nascitur <term ref="#berci">berci</term> domesticum in multa quantitate. </seg>
+      <seg xml:id="z-null-97_3_4" n="4"> Aurum quidem in habundantia tanta habent quod
+         nemo crederet quin videret. </seg>
+      <seg xml:id="z-null-97_3_5" n="5"> Habent elephantes, venationes et aucupationes multas.
+         [9] Et ab isto regno portantur omnes porcellane que per alia regna feruntur. [10]
+         Alia non sunt ibi dice‹n›da, nisi solum |61v| quod locus est silvester et pauci homines
+         illuc accedunt. [11] Et etiam quia rex non consentit quod illuc aliquis accedat, qui
+         eius thesaurum et conditiones cognoscat.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-3">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, III</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-3_2_1" n="1"> Quando el <term ref="#gran-can">Gran Chaan</term>, zoè el segnior de tuti i segniori, el qual segnioriza tuti i <term ref="#tartari">Tartari</term> del mondo e tute le provi|7r|nzie e regniami de quella grandisima parte del mondo,
+         quando l’ave intexo la condizion d’i Latini, mostrò che molto li piazesse, e disse
+         ai suo’ baroni ch’el voleva mandar anbasiatori al papa de’ Cristiani. </seg>
+      <seg xml:id="va-null-3_2_2" n="2"> E pregò
+         misier Nicollò e misier Mafio che li piazese d’eser soi anbasiatori, chon uno d’i
+         suo’ baroni, a misier lo papa. </seg>
+      <seg xml:id="va-null-3_2_3" n="3"> Elli respoxeno ch’elli erano presti e apariadi
+         de obedir intriegamente tuti i soi comandamenti, sì chome a suo signiore. </seg>
+      <seg xml:id="va-null-3_2_4" n="4"> El <term ref="#gran-can">Grande Chan</term> se fè’ vegnir un suo baron davanti che aveva nome <term ref="#chogatal">Chogatal</term> e dise-lli ch’el volleva ch’el andasse al papa chon quelli do Latini. </seg>
+      <seg xml:id="va-null-3_2_5" n="5"> E quel
+         baron rispoxe ch’el iera apariado de obedir a tuti i suo’ comandamenti, sì chome suo
+         homo ch’el iera.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-3_3_1" n="1"> El <term ref="#gran-can">Grande Chaan</term> scrisse ziò ch’el volsse in suo’ letere scriver per portar al papa in lingua tartarescha,
+         e a llor tre inpoxe quelle anbasiate ch’el volsse in lor letere. </seg>
+      <seg xml:id="va-null-3_3_2" n="2"> E in l’anbasiata
+         se contegniva ch’el mandava pregando misier lo papa ch’el li dovesse mandar infina
+         cento omeni, li qual saveseno e foseno ben savii in la leze de Cristo, e saveseno
+         ben desputar avertamente a llui e a sua zente, e a tuti quelli che adorano i idoli,
+         chome la lor leze non è bona, e chome le idolle èno opere de’ diavolli, e che i mostraseno
+         per raxon che la fe’ e leze de’ cristiani è la mior che sia al mondo, e mior cha quella
+         de’ <term ref="#tartari">Tartari</term>. </seg>
+      <seg xml:id="va-null-3_3_3" n="3"> E anchora pregò el <term ref="#gran-can">Gran Chaan</term> quelli do fratelli che i doveseno portar del’olio che ardeva in la lanpada del sepulcro
+         de Cristo in <term ref="#hierusalem">Ieruxalem</term>. </seg>
+    </p>
+    <p n="4"/>
+    <p n="5"/>
+  </div>
+</body>
+</text>
+     </TEI>

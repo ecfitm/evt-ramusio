@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-35-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-35">
+      <note>
+	<p><ref type="witlink" target="#f-null-111">F CXI</ref> (Ci dit des confines que sont entre le <term ref="#cataio">Catay</term> et le <term ref="#mangi">Mangi</term>) / <ref type="witlink" target="#f-null-112">F CXII</ref> (Ci devise de la provence de <term ref="#achbaluch-mangi">Acbalac Mangi</term>); <ref type="witlink" target="#l-null-91">L 91</ref> (De provincia <term ref="#cunchin">Cuncun</term>) / <ref type="witlink" target="#l-null-92">L 92</ref> (De provincia <term ref="#achbaluch-mangi">Acbalec Mangi</term>); <ref type="witlink" target="#p-ii-33">P II 33</ref> (De provincia Chycuy. Capitulum XXXIII) / <ref type="witlink" target="#p-ii-34">P II 34</ref> (De provincia <term ref="#achbaluch-mangi">Achalech Mangy</term>. Capitulum XXXIIII), <ref type="witlink" target="#va-null-90">VA XC</ref> (Del regniame de <term ref="#cunchin">Chonchin</term>, dove è molte bestie salvadege) / <ref type="witlink" target="#va-null-91">VA XCI</ref> (Della provinzia de Achalae Man‹gi›, dov’è molto zenzero); <ref type="witlink" target="#v-null-54">V 54</ref> (Qua se dechiarerà dî chonfini che sono tra el <term ref="#cataio">Chataio</term> e Chuchin, et dela provinzia de <term ref="#achbaluch-mangi">Achebelach Mandi</term>); <ref type="witlink" target="#vb-null-78">VB LXXVIII</ref>; <ref type="witlink" target="#z-null-51">Z 51</ref> / <ref type="witlink" target="#z-null-52">Z 52</ref>. </p>
+	<p>Il modello principale del capitolo è Z. Anche nei passi in cui la testimonianza del
+         manoscritto Zelada è sintetica o lacunosa (i parr. 2-4, 7) è ragionevole ritenere
+         che Ramusio si sia attenuto essenzialmente alla sua fonte Z1. In alcuni punti si danno tracce di contaminazioni sporadiche con esemplari di P
+         (par. 2) e di L (par. 6). L’idea di accorpare in un unico capitolo informazioni che
+         la maggior parte delle sue fonti suddivide in più unità potrebbe essere stata suggerita
+         all’editore da VB o,  meno probabilmente, da V. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

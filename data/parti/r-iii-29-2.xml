@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-29-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-29">
+      <note>
+	<p>Solo <ref type="witlink" target="#p-iii-35">P III 35 1</ref> usa la misura delle “braccia”: «[…] in hoc regno apparet polus articus super mare
+         ad altitudinem brachiorum .VI.» (sul modello di VA CXLV 3 «Da questa contrà par ancora meio la stella tramontana: par ben alta sìe braza».
+         Il modello di VA è F CLXXXIII 2 «Et de cest regne se part encore plus la stoille de tramontaine, car elle senble
+         estre haute bien .VI. goves.». Gli altri relatori trovano soluzioni diverse: VB CLIII 3 aderisce al modello franco-veneto fino all’incomprensione: «E de questo reame se
+         vede più la stella tramontana la quale par allta çones .VI.»; <ref type="witlink" target="#z-null-117">Z 117 3</ref> ricorre ai <hi rend="italics">gradus</hi>: «Ab isto regno videtur stella tramontane alta bene per sex gradus», L 170 1 ai “cubiti” «[…] ubi adhuc altior videtur septemtrionalis stella, quia videtur elevari
+         bene .VI. cubitis»; V 100 2 abbrevia, sopprimendo la misura: «[…] et a questo reame par la stella tramontana».
+         </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

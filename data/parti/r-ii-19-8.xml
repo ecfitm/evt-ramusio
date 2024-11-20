@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-19-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-19">
+      <note>
+	<p>Nella parte iniziale e centrale della pericope («Hanno […] <term ref="#gran-can">Gran Can</term>») R trasmette dei dettagli in gran parte ignoti alle altre testimonianze poliane,
+         in quella finale («eccetto […] esserciti») reca un’informazione di fatto opposta a
+         quella che si legge nel resto della tradizione (si noti a tal proposito che nel par.
+         10 si afferma che sarebbe la corte di <term ref="#thai">thai</term> quella «deputata alla dispositione degli esserciti»): <ref type="witlink" target="#l-null-79">L 79 3</ref> «[…] mittunt eciam exercitum ubi et quando eis videtur necessarium, et breviter omnibus
+         imperio necessariis deputantur»; <ref type="witlink" target="#p-ii-22">P II 22 1</ref> «[…] habent etiam regis exercitibus de locis ubi habitare annuatim debeant providere
+         […]»; <ref type="witlink" target="#v-null-46">V 46 4</ref> «Et ezian questi dodexe baroni àno a proveder a tuti li exerziti del <term ref="#gran-can">Gran Signor</term> a mandar la zente che li par, senpre chon sapuda del <term ref="#gran-can">Signor</term>, chomo ve ò dito di sopra de queste do chosse; et chusì fano providenzia de tute
+         le altre chosse che aspeta a tute le provinzie del <term ref="#gran-can">Signor</term> […]»; <ref type="witlink" target="#vb-null-68">VB LXVIII 22</ref> «Ecian se i àno bexogno de gente d’arme provedeno e chon licencia e saputa però del
+         <term ref="#gran-can">Gran ‹Can›</term>» (vd. <ref type="witlink" target="#f-null-96">F XCVI 7-8</ref> «Et encore sunt cesti baronz por porveoir ou convie{ne}nt que les hostes ailent,
+         et les envoient la o il lor senble et cele quantité qu’il vuelent, mes toutes foies
+         est a la seüe dou <term ref="#gran-can">Grant Sire</term>. Et ensi com je {i}vos ai dites de ces deus chouses, font il de toutes les autres
+         chouses qe sunt besognables a{s} tou‹te›s les provences qe je voç ai contés»). Non
+         è possibile stabilire l’esatta provenienza della lezione di R, ma certo sembra difficile
+         che Ramusio abbia modificato arbitrariamente il testo delle sue fonti.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

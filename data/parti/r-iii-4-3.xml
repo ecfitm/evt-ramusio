@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-4-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-4">
+      <note>
+	<p>Ramusio traduce alla lettera Z 94 17-20 «Non posset proferi valor auri et aliarum rerum que in insulis istis sunt. Sed sunt
+         ita a terra firma longinque quod cum magno tedio navigatur ad ipsas. Et quando naves
+         Çaitum vel <term ref="#quinsai">Qinsay</term> vadunt illuc, magnum consequuntur profectum et lucrum, sed per anum continuant perficere
+         iter suum. Nam proficiscuntur in hyeme et reiterant in estate, quoniam habent solum
+         de duabus maneriebus ventos, quorum unus regnat in estate, alter in hyeme, ita quod
+         cum uno portantur et cum alio reducuntur» – è infatti esclusivo della redazione latina
+         l’attacco con l’iperbole apofatica, e innovazione rispetto al modello F CLX 11-13 «Il est mout merveiloses couses la grant vailance de le or et de les autres chieres
+         chouses qe en cestes ysles sunt. Mes je voç di qu’elles sunt si longnes qe a grant
+         anuie i se puet aler. Et quant les nes de <term ref="#zaitum">Çaiton</term> ou de <term ref="#quinsai">Qui‹n›sai</term> hi vont, il hi font grant profit e grant gaain. E si vos di qu’il poinent a aler
+         un an, car il vont le yver e tornent l’estee, car les vent ne i ventent for que de
+         deus faites, le un que les porte et le autre que les retorne: e ce vente le une d’estee
+         e l’autre de yver». Aderiscono a F L 144 3-4 «Et est mirabile de valore auri et reliquorum in hiis existentium insulis. Et quia
+         elongantur a terra, raro ad ipsas mercatores accedunt. Naves autem que de <term ref="#zaitum">Çayton</term> et <term ref="#quinsai">Quinsay</term> accedunt ad ipsas magnam utilitatem acquirunt; iter tamen non minus integro complent
+         anno: uno enim vento vadunt qui tota regnat yeme, tota estate flante altero revertuntur
+         (in dicto enim mari duo solum predicto modo flant venti)», e V 82 10-11 «Ed è molte meraveioxe chosse de gran valor d’oro e de altre chosse. Mo’ le nave
+         de <term ref="#zaitum">Zaitore</term> over de Quisain quando le fano gran profito stano uno ano andar e vegnir, perché i vano d’inverno
+         e torna d’instade; i qual non àno venti se no de do maniere: uno che porta e l’altro
+         che vien, uno l’instade e l’altro l’inverno»; VB CXXIX 5-7 insiste con gusto “romanzesco” sulle ricchezze delle isole (e mostrando di non avere
+         perfettamente chiara la dinamica degli alisei) «Nassene over trovassi oro assai, çoie,
+         e perlle e grosse e menute in grandissima quantittade se ne pescha. Sono queste issolle
+         molto lutane, alle qual vano delle nave da <term ref="#quinsai">Quinsan</term> et da <term ref="#zaitum">Cancoron</term>. Con gran deficultà per la longeça del camin stano uno ano sul viaço; conveno andar
+         l’inverno e tornar l’instade però che el vento non traçe salvo da do parte: uno i
+         portano et l’altro i duchono, per che i marchadanti quando tornano a ssalvamento fano
+         grandi guadagni».</p>
+	<p>Abbreviata risulta la lezione di P III 8 5 «Negotiatores autem partium aliarum raro accedunt illuc, quoniam naves de <term ref="#mangi">Mangy</term> eundo illuc per annum continuum sunt in mari quia in hyeme vadunt et in estate redeunt:
+         duo soli venti in mari illo regnant, unus in hyeme et alius in estate», e del suo
+         antigrafo VA CXXII 40-42 «Et è chossa molto meraveioxa del’oro et delle spezie che nasie in quelle chontrà
+         de quelle ixolle, ma perché ’le èno chusì da lonzi, rare fiade vano merchadanti: el
+         se sta ad andar uno ano. I vano l’inverno e torna l’instade. El non g’è venti se non
+         de do guixe: l’uno regnia l’inverno, l’altro d’instade».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

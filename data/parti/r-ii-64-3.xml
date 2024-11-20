@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-64-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-64">
+      <note>
+	<p>Ramusio adotta <ref type="witlink" target="#vb-null-110">VB CX 4</ref> quale modello principale, ma vi innesta alcune lezioni ricavate da P: «Nel meço del
+         dito fiume [R «Nel mezzo del detto fiume»] si è una isolla di rocha [R «vi è una isola
+         tutta di roca»] sula qualle è edificato uno grande tenpio [R «sopra la quale è edificato
+         un gran tempio»] di idoli, nela qualle ve abita ben .IIc. di loro moneçi che serveno a’ lloro idolli [R «dugento a modo di monachi che servono
+         agl’idoli»]; et è questo tenpio chapo de molti idolli e de molti tenpi [R «et questo
+         è il capo et principale di molti altri tempi»] chome a nostro modo disamo archipiscopado»;<ref type="witlink" target="#p-ii-60"> P II 60 4</ref> «Ante civitatem <term ref="#quanzu">Cayguy</term> [R «la città di <term ref="#cayngui">Cayngui</term>»] insula una est in medio fluminis, ubi est monasterium [R «et monasteri»] monachorum
+         servientium ydolis ubi ydola multa sunt; manentque in monasterio ipso monachi ducenti
+         vel circa, et est monasterium illud caput et regula monasteriorum [R «et monasterii»]
+         multorum servientium ydolis». Va rilevato che sia P che VB (e dunque R) recano un
+         dettaglio (P «servientium ydolis», VB «che serveno a’ lloro idolli»; R «che servono
+         agl’idoli») che non si trova né in F, né negli relatori: <ref type="witlink" target="#f-null-147">F CXLVII 6</ref> «Et eu mileu de ceste flun, encontre ceste cité, ha une yseles de roches en la quel
+         a u‹n› mostier de <term ref="#idolatri">idres</term> que hi a .IIc. freres. Et en ceste grant mostier a grandismes quantités de ydules. Et sachiés que
+         cest mostier est chief de maint autres mostier de ydules, qe est ausi come un arcevesquevé»;
+         <ref type="witlink" target="#l-null-122">L 122 4</ref> «Ex opposito predicte civitatis in flumine est insula saxea, in qua est maximum monasterium
+         ydolorum, in quo sunt plus quam .cc. fratres et ydola multa; est enim caput plurium
+         aliorum»; <ref type="witlink" target="#v-null-73">V 73 4</ref> «E per mezo de questo flume ch’è inverso la zità predita sono una ixola diputada,
+         in la qual sono uno monestier de idolle che àno gran quantitade de frati; et questo
+         monestier àno de molti altri monestieri de idole; et in questo sono chomo uno arziveschovado»;
+         <ref type="witlink" target="#z-null-81">Z 81 10-12</ref> «Et in medio istius fluminis, versus civitatem predictam, est quedam insula, in qua
+         est quoddam monasterium ydolorum, quod multitudinem habet fratrum. In quo monasterio
+         est multitudo ydolorum. Et istud monasterium est capud multorum aliorum monasteriorum
+         de ydolis, quod est tanquam quidam archiepiscopatus». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

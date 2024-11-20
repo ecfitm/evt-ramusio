@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-35-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-35">
+      <note>
+	<p>Ramusio adatta la lezione di <ref type="witlink" target="#vb-null-39">VB XXXIX 10</ref> «E n’è stati ancho de quelli che chaminando questi spiriti se àno meso in forma de
+         oste e con inpeto sono venuti versso i caminanti i qualli, credendo siano giente robatori,
+         se àno meso a fugire: e deviati dai ssentieri, non àno poi saputo ritrovar la via,
+         per esser el diserto anplissimo, e ssono di fame periti».</p>
+	<p>Che gli ingannevoli spiriti del deserto di <term ref="#lop">Lop</term> potessero produrre, tra le altre, anche allucinazioni a sfondo bellico-militare è
+         ricordato negli scritti odeporici del monaco buddista Xuanzang (cfr. Yule, Cordier
+         1929, I, p. 202), mentre nella tradizione poliana parrebbe informazione esclusiva
+         di VB; tuttavia, un dettaglio depositatosi in <ref type="witlink" target="#r-i-35">R I 35 10</ref> (il rapido cenno al miraggio uditivo degli «strepiti d’arme») suggerisce la presenza
+         del motivo anche in Z, donde Ramusio potrebbe averlo desunto e sviluppato. La solita
+         lacuna di Z toledano rende impossibile la verifica dell’ipotesi.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

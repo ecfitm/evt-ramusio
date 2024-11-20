@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-27</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-27">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 27 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-27_2_1" n="1"> <term ref="#caschar">‹C›aschar</term> segondo chomo se dixe sì fo reame, ed è soto la signoria del <term ref="#gran-can">Gran Chan</term>, et la zente de questo adora <term ref="#macometto">Machometo</term>. </seg>
+      <seg xml:id="v-null-27_2_2" n="2"> Et in questa provinzia sono molte zitade e chasteli, dele qual <term ref="#caschar">Chaschar</term> sono la più nobele e la mazor; et sono in griego e levante. </seg>
+      <seg xml:id="v-null-27_2_3" n="3"> Et questi de ’sta
+         zitade vive de marchadantia, et sono de bele posesion e vigne e zardini, et in quela
+         provinzia nasse <term ref="#bambagio">banbaxo</term> ed è abondanzia de tute chose da viver, perché lo luogo è tenperado. </seg>
+      <seg xml:id="v-null-27_2_4" n="4"> Et in questo
+         luogo sono molti marchadanti, ed è zente molto avara e mixera, e manza miseramente.
+         </seg>
+      <seg xml:id="v-null-27_2_5" n="5"> Et in questa zitade sono molti christiani nostorini li quali fano le leze <term ref="#greci">greche</term>, e la zente de quela provinzia à loquela per sí, e quela provinzia hè per longeza
+         zinque zornade. </seg>
+      <seg xml:id="v-null-27_2_6" n="6"> Partendosse da questa |27v| se trova una nobele e gran zitade
+         chiamata <term ref="#samarchan">Sanmarchan</term>, la zente dela qual sono christiani e Saraxini ed è soto el dominio del <term ref="#gran-can">Gran Chan</term>, ma non sono suo’ amigo, et molte fiade àno abudo chon loro inemistade; ed è verso
+         maistro; et voiove dire uno bel miracholo che intravene in questa zitade. </seg>
+      <seg xml:id="v-null-27_2_7" n="7"> Nonn
+         è gran tempo passado, el fo uno chiamato <term ref="#zagathai">Rigataio</term>, fradel charnal del <term ref="#gran-can">Gran Chan</term>, el quale era signor dela dita zitade e de molti altri luogi, et questo signor vene
+         al Santo Batexemo et fezese christiano. </seg>
+      <seg xml:id="v-null-27_2_8" n="8"> Et ziò vedendo li christiani de <term ref="#samarchan">Sanmarchan</term>, che <term ref="#zagathai">Rigatai</term> iera fato cristiano, ave grandissima chonsolazione, et questi christiani in quela
+         fiada feze fare una giexia ad onor de San Zuane Batista; e ’sti christiani tolse una pietra che iera de Saraxini e messe quela soto una cholona
+         la qual iera in mezo de quela giexia, et questa cholona sostegnia tuto el cholmo dela
+         giexia. [9] Or essendo morto questo <term ref="#zagathai">Rigatai</term>, i Sarazini ebe gran dolore de quela so pietra che iera stà tolta dai christiani
+         et messa in quela giexia de <term ref="#giovambattista">San Zuane</term>, et infra loro disse: «Nui toremo la nostra pietra al despeto dei christiani»; et
+         fato che i ebe el chonseio molti de loro andòe a quela giexia de <term ref="#giovambattista">San Zuane</term>, et disse a queli christiani che iera là che ad ogni muodo i voleva la so pietra,
+         et queli disse che i la voleva ben pagar più de quelo la valea, perché se quela pietra
+         fosse tolta torneria gran senestro ala giexia. [10] Disse li Saraxini: «Nui non volemo
+         oro ní arzento, ma volemo ad ogni modo la nostra pietra, rimosa ogni chason». [11]
+         Allora lo nievo del <term ref="#gran-can">Gran Chan</term> quale rezeva el reame feze |28r| chomandamento ai christiani che infina a do zorni
+         li dovese aver restituido quela pietra ali Saraxini, et quando li christiani ave intexo
+         el chomandamento ave gran ira e spavento, che li non savea quelo i dovesse far. [12]
+         Or essendo venuto el zorno che questa pietra se dovea dar ai Saraxini, per divin miracholo
+         la cholona la qualle zaxeva sopra questa pietra se levò suxo ben tre palmi; et infina
+         a l’ora d’ozi stano chussì levada senza sostegno. [13] Et li Sarazini a questo muodo
+         ave la soa pietra. [14] Or lasiamo qui e diremo de altre chosse.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

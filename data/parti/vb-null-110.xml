@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-110</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-110">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, CX</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-110_1_1" n="1"> <term ref="#cangiu">‹C›angiu</term> si è una picolla citade dever sirocho, la gente dela qualle sono tuti <term ref="#idolatri">idolatri</term>, soto la segnoria del <term ref="#gran-can">Gran Can</term>; et è sopra el fiume de <term ref="#quian">Quien</term>. </seg>
+      <seg xml:id="vb-null-110_1_2" n="2"> È molto frutifera de biave e rixi dele qual se ne porta gran quantità alla cità
+         de <term ref="#cambalu">Canbalu</term>, ch’è la principal tera dove el <term ref="#gran-can">Gran Chan</term> abita: e questo per la bontà dele dite biave; dele qual principalmente, per la bontà
+         de quelle, tuta la corte del segnore vive. </seg>
+      <seg xml:id="vb-null-110_1_3" n="3"> E dala dita cità de <term ref="#cangiu">Cangiu</term> fina ala nobelisima cità de <term ref="#cambalu">Canbalu</term> è fatto una largissima fossa e prefonda per la qual navegano di lor navillii da una
+         citade al’altra, la qual fosa mete capo da uno fiume all’altro e per simelle una alltra
+         mete capo da uno lago all’altro; e ssono sì large e prefonde che vi navegano grandi
+         navilli con vituallie e marchadantie assai et fino condute e navigano dal <term ref="#mangi">Mangi</term> fino ala nobellisima cità de <term ref="#cambalu">Canbalu</term>, ch’è stato opera mirabelle e bella per el sito e llongeça di quella ma de gran utillità
+         a dita cità. </seg>
+      <seg xml:id="vb-null-110_1_4" n="4"> Nel meço del dito fiume si è una isolla di rocha sula qualle è edificato
+         uno grande tenpio di idoli, nela qualle ve abita ben .IIc. di loro moneçi che serveno a’ lloro idolli; et è questo tenpio chapo de molti idolli
+         e de molti tenpi chome a nostro modo disamo archipiscopado.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

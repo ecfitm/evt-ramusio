@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-52</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-52" n="1">
+    <head>
+      <hi rend="bold">R, II 52</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-52_1_1" n="1"> Della città di <term ref="#tudinfu">Tudinfu</term>. Cap. 52.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-52_2_1" n="1"> Quando si parte da <term ref="#ciangli">Ciangli</term>, camminando verso mezzodí sei giornate, di continuo trovando città et castella di
+         gran valore et nobiltà; et le genti <term ref="#idolatri">adorano gl’idoli</term>, abbrucciano i loro corpi, sono soggetti al <term ref="#gran-can">Gran Can</term>, et le loro monete sono di carta; vivono di mercantie et arti et hanno abondanza
+         di vettovaglie. </seg>
+      <seg xml:id="r-ii-52_2_2" n="2"> Et in capo di dette sei giornate si trova una città, qual fu già un regno nobile
+         et grande, detto <term ref="#tudinfu">Tudinfu</term>: ma il <term ref="#gran-can">Gran Can</term> la soggiogò al suo dominio per forza d’armi. </seg>
+      <seg xml:id="r-ii-52_2_3" n="3"> Et è molto dilettevole per li giardini che vi sono intorno, che producono belli et
+         buoni frutti. </seg>
+      <seg xml:id="r-ii-52_2_4" n="4"> Fanno seda in grande abondanza. </seg>
+      <seg xml:id="r-ii-52_2_5" n="5"> Ha sotto la sua iurisditione undeci città imperiali, cioè nobili et grandi, per esser
+         città di gran traffichi di mercantie et di gran copia di seda, et soleva havere re,
+         avanti che la fusse sottoposta al <term ref="#gran-can">Gran Can</term>, qual nel 1272 mandò al governo della città et a guardia del paese un suo baron nominato
+         <term ref="#lucansor">Lucansor</term>, capitano di ottantamila cavalli. </seg>
+      <seg xml:id="r-ii-52_2_6" n="6"> Costui, vedendosi con tanta gente et in cosí riccho et abondante paese, insuperbito,
+         deliberò di ribellarsi al suo signore, et parlato c’hebbe con li primi della detta
+         città, li persuase ad assentire a questo suo mal volere, et con il mezzo di detti
+         fece ribellare tutti i popoli delle città et castella sottoposte a quella provincia.
+         </seg>
+      <seg xml:id="r-ii-52_2_7" n="7"> Il <term ref="#gran-can">Gran Can</term>, inteso che hebbe questo tradimento, mandò subito duoi suoi baroni, de’ quali un
+         era chiamato <term ref="#angul">Angul</term>, l’altro <term ref="#mongatai">Mongatai</term>, con centomila persone. [8] <term ref="#lucansor">Lucansor</term>, inteso c’hebbe questo essercito che gli veniva contra, si sforzò di ragunare non
+         minor numero delle genti di sudditi, et quanto piú presto li fu possibile venne alle
+         mani con li detti. [9] Et con grande uccisione dell’una parte et l’altra, fu finalmente morto <term ref="#lucansor">Lucansor</term>, la qual cosa vista dall’hoste |41r| suo, si missero a fuggire. [10] Et seguitandoli i <term ref="#tartari">Tartari</term>, molti ne furono morti et molti presi, quali menati alla presentia del <term ref="#gran-can">Gran Can</term>, tutti i principali fece morire; agli altri perdonò et tolsegli alli servitii suoi,
+         et sempre li furono fideli. </seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

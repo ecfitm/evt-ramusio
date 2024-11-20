@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-14">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 14 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-14_2_1" n="1"> Permansit autem in curia <term ref="#gran-can">Magni Canis</term> iuvenculus iste Marchus Paulo, qui in brevi satis tempore tartaricos mores linguamque
+         eorum et litteras didicit tam perfecte quod cunctis mirabile videbatur. </seg>
+      <seg xml:id="l-null-14_2_2" n="2"> Dum autem
+         precepto <term ref="#gran-can">Magni Canis</term> ad civitatem quandam nomine <term ref="#carazan">Ca‹ra›çam</term> missus esset, in eius reditu ad curiam diversitates omnes et novitates quas viderat
+         retulit <term ref="#gran-can">Magno Cani</term>; insuper quam plura et diversa mirabilia tulit secum, quod dominus habuit valde gratum.
+         </seg>
+      <seg xml:id="l-null-14_2_3" n="3"> Et cum annis .XVII. continuis permanssisset in curia <term ref="#gran-can">Magni Canis</term>, ipsum per diversas mundi partes ut legatum et nuntium ire iussit. </seg>
+      <seg xml:id="l-null-14_2_4" n="4"> Hac ergo causa,
+         quia multa perambulavit loca diversa miranda multa extraneosque et novos ritus hominum
+         scivit, quia intente consideravit et vidit.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

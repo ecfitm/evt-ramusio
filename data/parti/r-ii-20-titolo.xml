@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-20-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-20">
+      <note>
+	<p><ref type="witlink" target="#f-null-117">F CXVII</ref> (Comant de la cité de <term ref="#cambalu">Canbalu</term> se partent plosors voie que vont por mantes provinces); <ref type="witlink" target="#l-null-80">L 80</ref> (De nunciis <term ref="#gran-can">Magni Canis</term>. Rubrica); <ref type="witlink" target="#p-ii-23">P II 23</ref> (De cursoribus <term ref="#gran-can">Magni Kaam</term> et multitudine et ordine mansionum pro ipsorum recepcione. Capitulum XXIII), <ref type="witlink" target="#va-null-80">VA LXXX</ref> (Chome el <term ref="#gran-can">Gran Chan</term> manda i so messi); <ref type="witlink" target="#v-null-47">V 47</ref> (Chomo el <term ref="#gran-can">Gran Signor</term> ordena et dano el muodo ali so mesi ch’abia chavalli per li suo’ fati); <ref type="witlink" target="#vb-null-69">VB LXIX</ref>.  </p>
+	<p>A parte che nella parte iniziale (parr. 1-2), che dipende prevalentemente da P, il
+         testo di R appare qui caratterizzato da numerose e cospicue varianti che lo isolano
+         dal resto della tradizione. In molti casi si tratta di dettagli assenti in tutte le
+         redazioni (parr. 7-11, 15-16, 18-20, 23). La mancanza della testimonianza di Z toledano
+         – che omette l’intero capitolo – impedisce di stabilire con sicurezza la provenienza
+         di questo materiale, ma l’impressione generale è che si tratti di informazioni originali,
+         che Ramusio potrebbe aver attinto dal perduto Z1. Nelle parti di testo che invece figurano nelle altre redazioni, R condivide alcune
+         varianti formali – e, in un caso, un vero e proprio errore – con V (vd. parr. 4-5,
+         13), ma più spesso segue il dettato di F. Tale dato corrobora l’idea che la fonte
+         principale del capitolo fosse il testimone di Z, che presentava un testo molto vicino
+         a quello francoit. e recava al tempo stesso una serie cospicua di dettagli aggiuntivi,
+         assenti altrove. </p>
+	<p>L’apporto di L appare qui scarso, pressoché nullo quello di VB. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

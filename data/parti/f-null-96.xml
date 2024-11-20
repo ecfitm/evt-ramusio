@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-96</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-96">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XCVI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-96_1_1" n="1"> Ci devise des .XII. baronç que sunt sor tous les fais dou <term ref="#gran-can">Gran Kan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-96_2_1" n="1"> Or sachiés voiremant qe le <term ref="#gran-can">Grant Sire</term> a esleu .XII. grandisme baronz, as quelz hi a comeü qu’il soient sor tutes les chouses
+         beçognables qe abesognent en .XXXIIII. provences; et vos dirai lor mainiere et lor
+         establiment. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-96_3_1" n="1"> Je voç di tout primeremant qe cesti .XII. baronz demorent en un palais dedens
+         la ville de <term ref="#cambalu">Canbalu</term>, qe est mout grant et biaus, et hi a plosors sales et maisonz; et chascune provence
+         ‹a› un jugie et maint escrivein, qe demorent en cest palais, çascun en sa maison por
+         soi. </seg>
+      <seg xml:id="f-null-96_3_2" n="2"> Et cest jugie et cest escrivain font toutes les chouses qe abeçogne a la
+         provence a cui il sunt deputé; et ce font por la volunté et por le conmandamant des
+         .XII. baronz qe je voç ai dit. </seg>
+      <seg xml:id="f-null-96_3_3" n="3"> Et si sachiés tout voiremant qe cesti .XII. baronz
+         ont si grant seingnorie com je voç dirai, car il eslisent les seingnors de toutes
+         celes provences qe je voç ai dit desovre. </seg>
+      <seg xml:id="f-null-96_3_4" n="4"> Et quant il les ont esleu tielz com
+         lor senble qe il soient buen et sofisable, il le font savoir au <term ref="#gran-can">Grant Sire</term>; et le <term ref="#gran-can">Grant Sire</term> le conferme et li fait doner table d’or tel come a sa seingnorie est convenable.
+         </seg>
+      <seg xml:id="f-null-96_3_5" n="5"> Et encore sunt cesti |45b| baronz por porveoir ou convie{ne}nt que les hostes
+         ailent, et les envoient la o il lor senble et cele quantité qu’il vuelent, mes toutes
+         foies est a la seüe dou <term ref="#gran-can">Grant Sire</term>. </seg>
+      <seg xml:id="f-null-96_3_6" n="6"> Et ensi com je {i}vos ai dites de ces deus chouses, font il de toutes les autres
+         chouses qe sunt besognables a{s} tou‹te›s les provences qe je voç ai contés. [9] Et
+         cesti sunt appelés <term ref="#singh">scieng</term>, que vaut a dire la cort greingnor, qe ne ont sor elz que le <term ref="#gran-can">Grant Sire</term>. [10] Le palais ou el demorent est ausi apellés scien, et ce est bien la greingnor seingneurie que soit en toute la cort dou <term ref="#gran-can">Grant Sire</term>, car il ont bien le pooir de fair grant bien a cui·l vuelent. </seg>
+    </p>
+    <p n="4"/>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Ramusio costruisce la pericope sulla versione di <ref type="witlink" target="#z-null-107">Z 107 61-62</ref> «Et cum rex moritur, corpus ipsius comburitur. Et tunc omnes isti sui fideles se
+         simul in ignem proiciunt cum rege et cum ipso comburruntur causa assotiandi ipsum
+         in alio seculo» (versione che si fonda su F CLXXIII 24 «Et sachiés qe quant le roi se muert et son cors se art en grant feu, adonc tuit
+         cesti baronç qe seç feoilz estoient, si com je vos ai dit de sovre, se getent in feu
+         e s’ardent avec le roi por lor fer conpagnie en l’autre monde»). P III 24 6 presenta lo stesso contenuto in una forma più ridondante (e spostata di posizione):
+         «In hac regione quando rex moritur cadaver eius comburi debet ex more et milites qui
+         ei assistebant et cum eo equitabant omnes se vivos cum illo in ignem proiciunt ardentque
+         cum corpore regis, putantes se ex hoc in vita alia eius sotios esse et numquam posse
+         separari a societate eius» (e vedi VA CXXXVII 23 «[…] e quando el re è morto, el so corpo se arde e queli se zetano sul fuogo e sse
+         ardeno chon lui, e chredeno che i deba eser suo’ chonpagni in l’altra vita, chusì
+         chomo sono stadi in questa»). Si attengono al tenore informativo di F L 161 15 «[…] quia post mortem regis, dum corpus igne comburitur, intrant vivi rogum, ut regem
+         mortuum insequentes et in alieno seculo servitores existant»; V 91 24 «Et quando questo re muor i fano uno gran fuogo e bruxa quel chorpo; et tuti quelli
+         sorastanti e fedelli se getano in questo fuogo et sì se bruxano chon el re per chaxon
+         de achonpagnar quello in l’altro mondo»; VB CXLIII 25 (amplifica) «Quando el segnor moreno el corpo suo i ardeno in uno gran focho e tuti
+         i suo’ servitori, i qualli se reputano esser stati fedellissimi servitori del re,
+         se butano nel fuocho e dicono voler andar con el suo segnore et esserge cossì fedelle
+         nel’altro mondo, chome i ssono stati in questo et aconpagnar quello chome in questo
+         mondo i ll’acompagnavano».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

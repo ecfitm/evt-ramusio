@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-13-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-13">
+      <note>
+	<p>Al netto di un’inversione di tessere, attribuibile all’intervento ordinatore di Ramusio,
+         e del trascurabile scarto numerico nell’indicazione delle giornate di cammino (<hi rend="italics">otto giornate</hi> R, <hi rend="italics">septem dietis</hi> L), la prima parte del paragrafo di R («Partendosi […] altre habitationi») si avvicina
+         per forma e sostanza al dettato di <ref type="witlink" target="#l-null-28">L 28 4</ref> («Et ab hac civitate recedendo itur septem dietis per plana continue per civitates
+         et castra et habitationes, et per delectabilia loca plena venationibus, et inveniuntur
+         perdices habundanter»); questo, a sua volta, è prossimo a <ref type="witlink" target="#f-null-34">F XXXIV 8</ref> («Et quant l’en s’em part de la cité de <term ref="#chermain">Crerman</term>, il chevauche .VII. jornee, toutes fois trovant castiaus et villes et habitassion
+         assés; et hi a trop buen chevaucher et de grant soulas, car il hi a venesion assés
+         et pernis en abundance»), tranne che nel sintagma <hi rend="italics">per plana</hi> “attraverso una pianura”, che occorre soltanto in L e P (donde R potrebbe averlo
+         tratto).</p>
+	<p>Delle altre fonti ramusiane, V è privo, forse per lacuna, delle informazioni sulla
+         caccia (<ref type="witlink" target="#v-null-20">V 20 4</ref> «Et partandosse da questa zitade de <term ref="#chermain">Tremain</term> el se chavalcha per nuove zornade, onde se trova molti chasteli, zitade et abitazion,
+         ed è bon chavalchar […]»), Pipino offre un dettato più conciso (<ref type="witlink" target="#p-i-21">P I 21 5 </ref>«De <term ref="#chermain">Crerman</term> itur per planiciem per dietas .VII. ubi est contrata domestica; sunt autem ibi civitates
+         et castra ubi inveniuntur pernices in copia maxima […]»),<ref type="witlink" target="#vb-null-22">VB XXII 6-7</ref> rielabora sensibilmente la fonte («Partendo da <term ref="#chermain">Creman</term> chàpitase a una montagna ch’è molto rata. Chavalchato però çornade .VII., nel qual
+         chamino se trova belissime abitaciun et beliseme chaçason, è bellissimo chavalchare
+         per fino alla montagna dita […]»), lo Z toledano tace.</p>
+	<p>Nella seconda parte del paragrafo – «et alla fine […] grandissima quantità» – Ramusio
+         non accoglie, ritenendolo forse incongruo (giacché Marco Polo descrive effettivamente
+         di un declivio), il riferimento alla <hi rend="italics">montagna</hi> presente in F, L, VB: cfr. <ref type="witlink" target="#f-null-34">F XXXIV 9</ref> «Et quant l’en ha chevauchés .VII. jornee por cest plan, adonc treuve une grandissime
+         montangne et desendant, car ben chevauche deus jornee toutes foies au declin, et toutes
+         foies treuvent de maintes faison de fruit en habundance»,<ref type="witlink" target="#l-null-28"> L 28 5</ref> «Et tunc invenitur maximus mons et descendens, quia bene duobus diebus equitatur
+         continue descendendo, ubi continuo inveniuntur diversi fructus et in habundantia»,
+         <ref type="witlink" target="#vb-null-22">VB XXII 7-8</ref> «[…] per fino alla montagna dita, la qual è sì ria desexa, che se coven dismontar
+         a piedi. Trovase molte maniere de fruti […]». In questa omissione R si allinea piuttosto
+         alla lezione di <ref type="witlink" target="#p-i-21">P I 21 5</ref> («post .VII. dietas invenitur descensus magnus ita quod per dietas duas semper pergitur
+         ad declivium ubi arbores sunt multe fructifere valde») e <ref type="witlink" target="#v-null-20">V 20 4-5</ref> («[…] et chavalchando per questa pianura per oto zornade el se trova una gran desmontada
+         in la qual se chavalcha do zornade, et senpre se va in zoxo. Et trovasse de boni fruti
+         in gran bondanzia»); e la lezione ramusiana <hi rend="italics">arbori fruttiferi </hi>può in effetti dipendere da quella di P (&lt; <ref type="witlink" target="#va-null-22">VA XXII 3</ref> «[…] se chavalcha ben do zornate pur al declino – trovando tuta fiata grande abondanzia
+         d’arbori asai che fano fruti […]»).</p>
+	<p>Per concludere: la lacunosità dello Z toledano toglie, qui come altrove, un termine
+         di confronto fondamentale per l'individuazione della fonte di R. Tuttavia, la prossimità
+         del testo ramusiano alle linee di F, specialmente nella prima parte del paragrafo,
+         suggerisce che il principale modello di R sia stato anche qui Z1, certo integrato da apporti allotrî.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

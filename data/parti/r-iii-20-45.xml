@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-45</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Ramusio traduce alla lettera <ref type="witlink" target="#z-null-107">Z 107 123-124</ref> «Cognoscunt etiam multum quid significat oviare avibus vel bestiis. ‹Magis› respiciunt
+         etiam ad auspicium aliquibus hominibus de mundo et melius prevident bonum et malum»
+         (versione di F CLXXIII 47 «Il sevent mout qe senifie d’encontrer oisiaus ou bestes. Il gardent a agure plus
+         qe homes dou monde et mout sevent quelz est buen ou mauveis […]»).</p>
+	<p>P III 24 4 e VA CXXXVII 54 omettono la pericope per la ragione indicata in nota a <ref type="witlink" target="#r-iii-20">R III 20 44</ref>. Dà un resoconto abbreviato L 161 31 «Sunt quam plurimi augures, qui volatus avium multum considerant, similiter et sternuta,
+         ipsisque reguntur»; il resoconto di V 91 47 è segnato da un guasto insanabile: «Et questo chognosse s’el è sano ed ezian morto,
+         che significha †inschontrarse in ozere hover in bestie; i grandano ed ezian plui e
+         l’ ogurio àno alguni homeni del mondo, e meio chognossere el ben el male† […]»; amplifica
+         senza aggiunta di vere informazioni VB CXLIII 55-56 «De auguri sono grandissimi maistri e bene sano significhare l’incontrare dil talle
+         animal et de altri auguri; quello àno a ssignificare chognoschono qualle è bon homo
+         e qual è rio. Quando alchuno vano in viagio o a chamino, sano predire quel ge contrerà
+         perché questi più oltra non fariano de quanto i comanda questi suo’ astrolegi […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

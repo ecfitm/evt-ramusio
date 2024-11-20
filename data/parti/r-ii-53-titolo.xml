@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-53-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-53">
+      <note>
+	<p><ref type="witlink" target="#f-null-134">F CXXXIV</ref> (Ci devise de la noble cité de <term ref="#singui">*Singiu</term>); <ref type="witlink" target="#l-null-109">L 109</ref> (De civitate <term ref="#singuimatu">Singiumatu</term>); <ref type="witlink" target="#p-ii-51">P II 51 3-5</ref> (De civitatibus <term ref="#tudinfu">Tandifu</term> et Syngiumatu. Capitulum LI), <ref type="witlink" target="#va-null-107">VA CVII 4-9</ref> (Della zità de <term ref="#singuimatu">Signi</term>, ov’è el gran navilio); <ref type="witlink" target="#v-null-64">V 64 10-15</ref> (Dela zitade de <term ref="#tudinfu">Chandifu</term> et di quella de <term ref="#singuimatu">Segui</term>); <ref type="witlink" target="#vb-null-97">VB XCVII</ref>; <ref type="witlink" target="#z-null-69">Z 69</ref>.</p>
+	<p>Nell’organizzazione delle informazioni R riflette la struttura di P (vd. parr. 1-2,
+         4), il cui testo rappresenta il modello principale (seppur non unico) anche per la
+         sostanza testuale; nei punti in cui la sua versione è fortemente compendiata (vd.
+         parr. 1 e 3), il suo posto è preso da esemplari più completi, Z (par. 1) o VB (par.
+         3). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-19</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>L’innovazione «le quali hanno […]» nasce probabilmente da un’errata interpretazione
+         di un’ambiguità del testo originale che si conserva in F e, in parte, in V: <ref type="witlink" target="#f-null-93">F XCIII 32-33</ref> «Et environ cestes tendes ha et sunt toutes les autres tendes, bien ordrés et bien
+         asentés. Et les amies dou seingnor ont ausi riches pavilonz. Et encore les gerfaus
+         et les fauchon et les autres hosiaus et bestes ont toute en grandismes quantités […]»;
+         <ref type="witlink" target="#v-null-44">V 44 14-15</ref> «Le moier del <term ref="#gran-can">Gran Signor</term> à richi pavioni. E zifalchi e falchoni et altri anemalli ne sono in gran quantitade
+         […]». Se si esclude la lezione «belle», non sembra invece che Ramusio abbia tenuto
+         conto della versione – molto più esplicita e coerente – di <ref type="witlink" target="#p-ii-20">P II 20 7-8</ref> «Iuxta predicta tentoria sunt tentoria uxorum, filiorum ac ancillarum regis, pulcra
+         valde. Similiter et pro gyrfalchis, austuribus, falconibus et animalibus quibuscumque
+         alia parata sunt tentoria multa valde». Reca un testo fortemente accorciato <ref type="witlink" target="#l-null-77">L 77 4</ref> «[…] Et sunt circa temptorium domini reliqua temptoria ordinata ». Non è chiaro invece
+         da dove provenga la lezione di R «et vanno anchora loro a piacere».</p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

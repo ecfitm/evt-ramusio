@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-8" n="1">
+    <head>
+      <hi rend="bold">R, I 8</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-8_1_1" n="1"> Come il <term ref="#califa">califa</term> signor di <term ref="#baldach">Baldach</term> fu preso et morto, et del miracolo che intravenne del movere de uno monte. Cap. 8.
+         </seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-8_2_1" n="1"> Dovete sapere che detto <term ref="#califa">califa</term> signor di <term ref="#baldach">Baldach</term> si trovava il maggiore thesoro che si sappia havere havuto huomo alcuno, qual perse
+         miseramente in questo modo. </seg>
+      <seg xml:id="r-i-8_2_2" n="2"> Nel tempo che i signori de’ <term ref="#tartari">Tartari</term> cominciorno a dominare, erano quattro fratelli, il maggiore de’ quali, nominato <term ref="#mongu-can">Mongú</term>, regnava nella sedia. </seg>
+      <seg xml:id="r-i-8_2_3" n="3"> Et havendo a quel tempo, per la gran potentia loro, sottoposto
+         al suo dominio il Cattayo et altri paesi circonstanti, non contenti di questi, ma desiderando haver molto piú,
+         si proposero di soggiogare tutto l’universo mondo; et però lo divisero in quattro
+         parti, cioè che uno andasse alla volta dell’oriente, un altro alla banda del mezzodí,
+         per acquistare paesi, et gli altri alle altre due parti. </seg>
+      <seg xml:id="r-i-8_2_4" n="4"> Ad uno di loro, nominato
+         <term ref="#ulau">Ulaú</term>, venne per sorte la parte di mezzodí. </seg>
+      <seg xml:id="r-i-8_2_5" n="5"> Costui, ragunato un grandissimo essercito,
+         primo di tutti cominciò a conquistar virilmente quelle provincie, et se ne venne alla
+         città di <term ref="#baldach">Baldach</term> del 1250 e, sapendo la gran fortezza di quella, per la gran moltitudine del popolo
+         che vi era, pensò con ingegno piú tosto che con forze di pigliarla. </seg>
+      <seg xml:id="r-i-8_2_6" n="6"> Havendo egli
+         adunque da centomila cavalli senza i pedoni, acciò che al <term ref="#califa">califa</term> et alle sue genti che eran dentro della città paressino pochi, avanti che s’appressasse
+         alla città puose occultamente ad un lato di quella parte delle sue genti, et dall’altro
+         ne’ boschi un’altra parte, et col resto andò correndo fino sopra le porte. </seg>
+      <seg xml:id="r-i-8_2_7" n="7"> Il
+         <term ref="#califa">califa</term>, vedendo quel forzo essere di poca gente et non ne facendo alcun conto, confidandosi
+         solamente nel segno di <term ref="#macometto">Macometto</term>, si pensò del tutto destruggerla, et senza indugio con la sua gente uscí della città.
+         [8] La qual cosa veduta da <term ref="#ulau">Ulaú</term>, fingendo di fuggire lo trasse fino oltra gli arbori et chiusure di boschi dove la
+         gente s’era nascosta, et qui serratoli in mezzo li ruppe, et il <term ref="#califa">califa</term> fu preso insieme con la città. [9] Doppo la presa del qual, fu trovata una torre piena d’oro, il che fece molto maravigliare
+         <term ref="#ulau">Ulaú</term>. [10] Dove che, fatto venire alla sua presenza el <term ref="#califa">califa</term>, lo riprese grandemente, perciò che, sapendo della gran guerra che gli veniva adosso,
+         non avesse voluto spendere del detto thesoro in soldati che lo difendessero: et però
+         ordinò che ’l fosse serrato in detta torre senza dargli altro da vivere, et cosí il
+         misero <term ref="#califa">califa</term> se ne moritte fra il detto thesoro. [11] Io giudico che ’l nostro |6r| Signor messer Iesú Christo volesse far vendetta de’
+         suoi fedeli christiani, dal detto <term ref="#califa">califa</term> tanto odiati, imperoché del 1225, stando in <term ref="#baldach">Baldach</term> detto <term ref="#califa">califa</term>, non pensava mai altro ogni giorno se non con che modo et forma potesse far convertire
+         alla sua legge li christiani habitanti nel suo paese, o vero, non volendo, di farli
+         morire. [12] Et dimandando sopra di ciò il consiglio de’ savii, fu trovato un punto
+         della scrittura nell’Evangelio che dice cosí: «Se alcuno christiano havesse tanta
+         fede quanto è un grano di <term ref="#senavro">senavro</term>, porgendo i suoi preghi alla divina Maestà faria mover i monti dal suo luogo». [13]
+         Del qual punto rallegratosi, non credendo per alcun modo questo essere mai possibile,
+         mandò a chiamare tutti i christiani, nestorini et iacopiti che habitavano in <term ref="#baldach">Baldach</term>, che erano in gran quantità, et gli disse: «È vero tutto quello che ’l testo del
+         vostro Evangelio dice?» [14] A cui risposero: «È vero». [15] Dissegli il <term ref="#califa">califa</term>: «Ecco che s’egli è vero qui si proverà la vostra fede. [16] Certamente, se tra voi
+         tutti non è almanco uno il qual sia fedele verso il suo Signore in cosí poco di fede
+         quanto è un grano di <term ref="#senavro">senavro</term>, allhora vi reputarò iniqui, reprobi et infidelissimi. [17] Per il che vi assegno
+         dieci giorni, fra li quali o che voi per virtú del vostro Dio farete movere i monti
+         qui astanti, o vero torrete la legge di <term ref="#macometto">Macometto</term> nostro propheta et sarete salvi, o vero non volendo farovvi tutti crudelmente morire».
+         [18] Quando li christiani udirono tal parole, sapendo la sua crudel natura, che solo
+         faceva questo per spogliarli delle loro sustanze, dubitarono grandemente della morte;
+         nondimeno, confidandosi nel suo Redentore che gli libereria, si congregorono tutti
+         insieme et hebbero fra loro diligente consiglio, né trovorono rimedio alcuno se non
+         pregare la Maestà divina che gli porgesse l’aiuto della sua misericordia. [19] Per
+         la qual cosa tutti, cosí piccioli come grandi, giorno et notte prostrati in terra
+         con grandissime lachrime non attendevano ad altro che a far orationi al Signore, et
+         cosí perseverando per otto giorni, ad uno vescovo di santa vita fu divinamente revelato
+         in sogno che andassero a trovare un calzolaio il quale havea solamente un occhio,
+         il cui nome non si sa, che lui comandasse al monte che per la divina virtú dovesse
+         moversi. [20] Mandato adunque per il calzolaio, narratoli la divina revelatione, gli
+         rispose che lui non era degno di questa impresa, perché i meriti suoi non ricercavano
+         il premio di tanta gratia; nondimeno, facendoli di ciò grande instantia i poveri christiani,
+         il calzolaio assentí. [21] Et sappiate che ’l era huomo di buona vita et di honesta
+         conversatione, puro et fedele verso il nostro Signor Iddio: frequentando le messe
+         et i divini officii, attendeva con gran fervore alle limosine et a’ digiuni. [22]
+         Al qual intravenne che, essendo andata a lui una bella giovene per comprarsi un paro
+         de scarpe, et mostrando il piede per provar quelle, si alzò i panni per modo che ’l
+         ghe vidde la gamba, per bellezza della quale si commosse in dishonesti pensieri; ma
+         subito ritornato in sé, mandò via la donna e, considerata la parola dell’Evangelio
+         che dice: «Se l’occhio tuo ti scandalizza, cavalo et gettalo da te, perché è meglio
+         andar con un occhio in Paradiso che con duoi nell’Inferno», immediate con una delle
+         stecche che adoperava in bottega si cavò l’occhio destro; la qual cosa dimostrò manifestamente
+         la grandezza della sua constante fede. [23] Venuto il giorno determinato, la mattina
+         a buon’hora, celebrati i divini officii, con grandissima devotione andorono alla pianura
+         dove era il monte, portando avanti la croce del nostro Signor. [24] Il <term ref="#califa">califa</term> similmente, credendo essere cosa vana che i christiani potessero mandar queste cose
+         ad effetto, volse anchor lui esser presente con gran forzo di gente per distruggerli
+         et mandarli in perditione. [25] Et quivi il calzolaio, levate le mani al cielo, stando
+         avanti la croce in ginocchioni, humilmente pregò il suo Creatore che pietosamente
+         riguardando in terra, a laude et eccellenza del nome suo et a fermezza et corroboratione
+         della fede christiana, volesse porgere aiuto al popolo suo circa il comandamento a
+         loro ingiunto, et dimostrasse la sua virtú et potenza ai detrattori della sua fede.
+         [26] Et finita l’oratione con voce alta disse: «In nome del Padre, del Figliuolo et
+         del Spirito Santo, comando a te monte che ti debbi movere». [27] Per le qual parole
+         il monte si mosse, con mirabil et spauroso tremor della terra. [28] Et il <term ref="#califa">califa</term> et tutti i circonstanti con grandissimo spavento rimasero attoniti et stupefatti,
+         et molti di loro si fecero christiani, et il <term ref="#califa">califa</term> in occulto confessò esser christiano, et portò sempre la croce nascosa sotto i panni:
+         la qual dapoi morto trovatoli adosso, fu causa che non fosse sepolto nell’arca de’
+         suoi predecessori. [29] Et per questa singular gratia concessali da Iddio tutti i
+         christiani, nestorini et iacopiti da quel tempo in qua celebrano solennemente il giorno
+         che tal miracolo intravenne, digiunando la sua vigilia.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

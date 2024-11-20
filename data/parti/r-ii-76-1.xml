@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-76-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-76">
+      <note>
+	<p>Le fonti ramusiane appaiono sostanzialmente concordi, anche se andrà rilevato che
+         VB reca alcune varianti e omissioni che lo isolano dagli altri testimoni, e anche
+         Z presenta in questo punto un testo incompleto: <ref type="witlink" target="#l-null-139">L 139 1</ref> «Quindecim miliaribus ultra <term ref="#unguem">Vucquem</term> est nobilis civitas <term ref="#fugiu">Fugiu</term>, que est caput et principalis civitas regni dicti <term ref="#concha">Concha</term>, quod est una ex .IX. partibus provincie <term ref="#mangi">Mangi</term>»; <ref type="witlink" target="#p-ii-69">P II 69 1</ref> «Progrediendo vero ulterius ad miliaria .XV., invenitur civitas <term ref="#fugiu">Fugui</term> que caput est in regno <term ref="#concha">Concha</term> quod est de novem regnis <term ref="#mangi">Mangy</term>»; <ref type="witlink" target="#v-null-78">V 78 15-16</ref> «Or in questa nonn è altro da chontare, però anderemo più avanti; quando el se parte
+         da questa zitade el se va quindexe mia, honde el se trova una nobel zitade, ed è el
+         reame de <term ref="#fugiu">Fugui</term>. Sapiate che questa zitade è chavo del reame de <term ref="#fugiu">Fugui</term>, e vien chiamada <term ref="#concha">Choncha</term>, la qualle nonn à porte»; <ref type="witlink" target="#vb-null-120">VB CXX 21</ref> /<ref type="witlink" target="#vb-null-121">VB CXXI 1</ref> «E la dita cità confina con el regno pur del <term ref="#mangi">Mangi</term> el qual s’apella <term ref="#concha">Concha</term>, ch’è uno di .VIIII°. reami del <term ref="#mangi">Mangi</term>.  <term ref="#fugiu">‹C›angui</term> è una citade nel reame de <term ref="#concha">Concha</term> […]»; <ref type="witlink" target="#z-null-89">Z 89 1</ref> «Noveritis igitur quod civitas <term ref="#fugiu">Fugiu</term> est capud regni quod nominatur <term ref="#concha">Choncha</term>, quod est pars nona provincie <term ref="#mangi">Mançi</term>» (vd. <ref type="witlink" target="#f-null-154">F CLIV 19</ref> / <ref type="witlink" target="#f-null-155">F CLV 2</ref> «Et quant l’en se part de ceste cité de <term ref="#unguem">Vuqen</term>, il ala .XV. miles, et adonc treuve l’en la noble cité de <term ref="#fugiu">Fugiu</term>, qui est le chief dou reingne [...]. Or sachiés qe ceste cité de <term ref="#fugiu">Fugiu</term> est le chief dou reigne que est apellé <term ref="#concha">Choncha</term>, qe est de le une part des .VIIII. de la provence dou <term ref="#mangi">Mangi</term>»).</p>
+	<p>Il paragrafo di R appare modellato nella prima parte su P (P «Progrediendo vero ulterius
+         ad miliaria .XV., invenitur civitas […]» ~ R «Passando avanti per miglia quindeci
+         si trova la città»), nella seconda su VB («<term ref="#fugiu">‹C›angui</term> è una citade nel reame de <term ref="#concha">Concha</term>», «ch’è uno di .VIIII°. reami del <term ref="#mangi">Mangi</term>» ~ R «<term ref="#cangiu">Cangiu</term>, la qual è del reame di <term ref="#concha">Concha</term>, ch’è uno delli nove reami di <term ref="#mangi">Mangi</term>»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

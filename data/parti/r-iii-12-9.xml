@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-12-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>La prima parte della pericope presenta una forte affinità con P III 15 4 «Venatores eas capiunt et depilant pilos tantummodo in barba dimittentes et in locis
+         aliis ad similitudinem hominis; post hec eas in formulis mortuas ponunt et in speciebus
+         conficiunt ne marcescant, deinde eas desiccant […]» (che ripete VA CXXIX 7 «’Le sono prexe e vien pelade: egli laseno li pelli ala barba e per lo chorpo sechondo
+         ch’à l’omo; po’ le meteno in forma e chonza-le chon le spezie, sì ch’ele non marziseno,
+         e fa-le sechare […]»); la seconda parte (da «fannole seccare et acconciare con canfora…»
+         in poi) traduce la sezione conclusiva di Z 99 30-31 «Et cum homines ipsos capiunt, cum certto unguento omnia pilla removent ab eis; et
+         in mento affigunt certa pilla longa loco barbe; et dum pelis desicatur, foramina unde
+         fixa sunt pila restringuntur, ita quod videtur ut naturaliter sint ibi nata. Et pedes,
+         et manus et cetera membra que non bene conformia sunt membris humanis, extendunt,
+         et redigunt et manualiter ad similitudinem humanam conformant; et tunc ipsos faciunt
+         desicari, et ipsos ornant cum camphora et aliis rebus taliter quod homines videntur
+         fuisse». L’esito è un testo indirettamente assai vicino a F CLXV 16 «Or les homes prennent celz tiel singes e le pellent toute et le laisent les poilz
+         en la barbe et a‹u› peterin; puis les font secher e le metent en forme e l’adobent
+         con canfaran e con autre couse, en tiel mainere q’ele senblent qe soient est‹r›e home
+         […]» (resta impregiudicato se la descrizione del relatore toledano sia originale della
+         redazione Z o esito di un compilatore intermedio tra questa e il codice). L’espressione
+         «cassette di legno» lascia il sospetto che Ramusio non abbia del tutto compreso il
+         senso della descrizione fornita dalle sue fonti.</p>
+	<p>Gli altri relatori: la descrizione di L 152 4 («Has deceptores quidam per totum depilant, linquentes tamen aliquos pilos in femore
+         atque barba, pellemque cuti humane assimilantes; aliquo colore depingunt, deinde similitudine
+         humana extensas desiccant […]») si pone sulla linea di Z (ma è un <hi rend="italics">hapax</hi> il dettaglio sul colore); sulla linea di F sono V 87 14 «[…] et i omeni tuol quelli simioti e quelli pelano, et sì li lassa solamente el
+         pello entro el peto; dapuo’ sì li fano sechar, et sì li mete in forno, et sì dora
+         quelli chon chanfora ed altre chosse, per tal muodo ch’i par che i sia omeni», e VB CXXXV 9 «[…] onde, quei bareri che dicono quelle simie esser homeni inganano altrui: però
+         che i prendeno de quela sorta simie e sì le pelano tute eceto che la barba e ’l petenechio,
+         e meteno quelle in forma e llasalle poi sechare al solle con la ganfora e però seche
+         parano esser stati homeni […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

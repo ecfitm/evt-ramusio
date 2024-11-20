@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-43-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-43">
+      <note>
+	<p>Prosegue la traduzione pressoché letterale della versione compendiosa di <ref type="witlink" target="#p-i-53">P I 53 2</ref> «[…] Multitudine vero ad spectaculum concurente, dum astrologi in libro suarum incantacionum
+         legerent, partes arundinis sunt commote, et una super aliam insurgere videbatur: tandem
+         pars <term ref="#cingis-can">Chinchis</term> ascendit super partem Unchan […]» (all’incirca coerente con <ref type="witlink" target="#va-null-52">VA LII 5-6</ref> «E [a vedere] queste cosse era molta zente. E quando egli ave leto uno gran pezo
+         sui suo’ libri, la chana de <term ref="#cingis-can">Chinchis</term> saltò suxo quella de <term ref="#prete-gianni">Prete Zane</term> […]»). La determinazione temporale di R – «dapoi alquanto di spatio» – manca negli
+         esemplari pipiniani a noi noti, ma è presente in VA («egli ave leto <hi rend="italics">uno gran pezo</hi> sui suo' libri»), e quindi può darsi che la copia di P utilizzata da Ramusio la conservasse.</p>
+	<p>Più articolato è, di nuovo, lo sviluppo di <ref type="witlink" target="#f-null-66">F LXVI 8</ref> «<term ref="#cingis-can">Cinchins Can</term> dit que cel vuelt il bien voir et dist a les astronique qu’il le li mostrent au plus
+         tost que il porunt. Et adonc les astronique cristienç on le salterie et legent certes
+         salmes et font lor enchantemant, et adonc la chane, la ou estoit le nom de <term ref="#cingis-can">Cinchins Can</term>, san que nulle le tocchast, se jont a l’autre et monte sor cele dou <term ref="#prete-gianni">Prestre Johan</term>, et ce fui voiante tuit celz que illuec estoient».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

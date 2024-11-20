@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-4">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 4</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="z-null-4_2_1" n="1"> In <term ref="#zorzania">Iorgia</term> est quidam rex qui <term ref="#david">David Melic</term> totis temporibus nuncupatur, quod in lingua Galica dicitur <term ref="#david">Rex David</term>. </seg>
+      <seg xml:id="z-null-4_2_2" n="2"> Pars una cuius provincie subdita est Tartareo regi, reliqua vero pars, propter
+         fortilicias quas habet, non est subdita ei, sed <term ref="#david">regi David</term>. </seg>
+      <seg xml:id="z-null-4_2_3" n="3"> Et in istis fortiliciis et montibus sunt eorum nemora in quibus non est aliud
+         lignum quam busus. </seg>
+      <seg xml:id="z-null-4_2_4" n="4"> Et predicta provincia duo equora prospicit, quorum unum vocatur
+         <term ref="#mar-maggiore">Mare Maius</term>, quod est a latere tramontane, alterum vero <term ref="#abbacu">Abaco</term>, versus orientem, quod durat |4r| in suo circuitu per duo milia .VIIIc. miliarium et est tanquam stagnum, quia non miscetur cum aliquo mari. </seg>
+      <seg xml:id="z-null-4_2_5" n="5"> Et in eo
+         sunt multe insule bene habitate in quibus sunt pulcre civitates. </seg>
+      <seg xml:id="z-null-4_2_6" n="6"> Et habitate sunt
+         iste insule a gentibus que fugerant a facie Magni Tartari, quando ibat conquirendo
+         per regnum sive provinciam <term ref="#persia">Persie</term>, cuius civitates et terre regebantur a comuni: que quidem gentes fugiendo reduxerunt
+         se ad istas insulas et ad montes, ubi tutiores esse credebant; et sic habitate sunt
+         insule ille. </seg>
+      <seg xml:id="z-null-4_2_7" n="7"> Item dictum mare multos pisces producit, et precipue storiones, salmones
+         et alios magnos pisces. </seg>
+      <seg xml:id="z-null-4_2_8" n="8"> Antiquitus quidem omnes reges illius provincie nascebantur
+         cum quodam signo aquile super spatulam dexteram. [9] Et sunt in ea pulcre gentes et
+         valentes ad arma; sunt boni arceri et pugnatores in bello. [10] Ipsi sunt christiani
+         et observant legem <term ref="#greci">Grecorum</term>, more clericorum parvos portantes capilos. [11] Hec est provincia quam rex <term ref="#alessandro">Alexander</term> preterire non potuit. [12] Item est quidam passus ibi qui <term ref="#porta-di-ferro">Porta Ferea</term> nuncupatur. [13] <term ref="#alessandro">Alexander</term> inter duos montes dicitur <term ref="#tartari">Tartaros</term> inclusisse, sed quod <term ref="#tartari">Tartari</term> fuerint non est verum, quia tunc temporis non erant. [14] Ymo gens quedam fuit nomine
+         <term ref="#cumani">Cumani</term>, et alia genera multa fuerunt. [15] Sunt etiam in supradicta provincia multe civitates
+         et castra, que syrico habundant et omnibus aliis oportunis; ibidem drapi syrici et
+         aurei laborantur. [16] De mercimoniis et laboribus vitam ducunt. [17] In ea est quoddam
+         monasterium titulo <term ref="#san-lunardo">beati Leonardi</term> descriptum, iuxta quod huiusmodi habetur miraculum. [18] Nam fons quidam iuxta ecclesiam
+         de quodam monte desendit, in cuius aqua per totum anum |4v| nuli pisces apparent,
+         nisi solummodo a die prima quadragesime usque ad vigiliam Pascatis, videlicet resurectionis
+         Domini, ipsorum abundantia maxima reperitur; et facto die Pascatis amplius non apparent.
+         [19] Mare vero iuxta montem superius nominatum <term ref="#abbacu">Mare Geluchelan</term> vel <term ref="#abbacu">Mare Abacco</term> appelatur, in quod finiunt <term ref="#tigris">Tigris</term>, <term ref="#geichon">Gyon</term> et Eufrates et alia flumina multa. [20] Penes istam provinciam quedam civitas est
+         pulcra et magna valde, nomen cuius <term ref="#tiflis">Tyflis</term>, circa quam multa sunt castra et burgi que isti civitati obediunt; in qua habitant
+         Christiani, scilicet Armenii et Iorgienses, et aliqui Saraceni et Iudei, sed pauci.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

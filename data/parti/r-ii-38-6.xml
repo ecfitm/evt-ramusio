@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-38-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-38">
+      <note>
+	<p>In questa pericope Ramusio condensa e rielabora notevolmente il testo delle sue fonti.
+         Alcune coincidenze in lezione dimostrano che i suoi modelli principali sono stati
+         P e VB: <ref type="witlink" target="#p-ii-38">P II 38 11</ref> «Hec autem ceca et detestanda [R «vergognoso et vituperoso»] abusio per totam provinciam
+         <term ref="#caindu">Cayndu</term> observatur ab omnibus, nec ullus sibi hoc ad vituperium reputat […]»; <ref type="witlink" target="#p-ii-38">P II 38 10</ref> «[…] nam quando viator quicumque per eos transit [R «quelli che passano per quella
+         contrada»] et ad domum cuiuscumque diverterit, confestim dominus domus convocans uxorem,
+         filias ac mulieres ceteras quas in domo habet, mandat ut hospiti et sotiis per omnia
+         pareant. Facto hoc mandato, discedit et peregrinum illum cum sotiis in domo propria
+         dimittit ut dominum [R «si dipartono, lasciando quelli come patroni»], neque autem
+         redire presumit donec ibi ille voluerit immorari; peregrinus igitur ille pileum suum
+         aut signum aliquod ante fores domus appendit [R «appiccano»]. Cumque dominus domus
+         redire vult, putans illum forsitan discessisse, si signum ante ianuam viderit retrocedit
+         statim, unde peregrinus ille duobus vel tribus diebus ibi immorari potest»;<ref type="witlink" target="#vb-null-82"> VB LXXXII 4</ref> «Questa gente àno per chostuma che non se reputta a vilania se [R «che non si reputano
+         a villania se»] alchuno à afar con la moglie, né con le fiolle, né con le madre, né
+         con alltra soa parente, ançi àno molto a charo poter concieder quelle e massime ai
+         forestieri, però che tengono molto piacere ai dii che de lor femene fia fato chortexia
+         e largeça a chadauno e massime a forestieri bexognoxi che (per esser loro fuori de
+         chaxa) non àno femene» /<ref type="witlink" target="#vb-null-82"> VB LXXXII 6-7</ref> «Et sono dele lor done sì lemoxenarii che quando i ssenteno algun forestieri chapitar
+         nela provincia, beato cholui el pò albergare; et avendo el forestieri a star nel paexe
+         alguni giorni, el patrone esse de chaxa e comanda alla moglie che al forestiere faça
+         ogni apiacer possibelle: e quelle, ubediente ai mariti, receve el forestiero nel proprio
+         leto dando a quello tuti apiaceri posibelli. El patrone se ne va a star nel contato,
+         né mai torneria fino el forestiero ve stese; e pur se ve tornase, la moiere senpre
+         tien un segnalle sula porta [R «et le donne […] sopra la porta un segnale»] domente
+         el forestiero v’alberga: e chome el patrone vede el segnalle non entra nella chaxa
+         ma torna nel contatto; et partitto el forestieri el patrone torna e trova la fameglia
+         tutta lieta e conssollata, e con quella se reliegra facendosse ricontare tuti piaceri
+         fati al forestiero; e tuti con gaudio referiseno gracia ai dii et a quelli rechomanda
+         le chosse soe, a onore di qual sì umanissima lemosena è ffata».</p>
+	<p>La lezione «mogli, figliuole o sorelle» di R – che si legge anche in F – non trova
+         riscontro in nessun relatore tranne <ref type="witlink" target="#v-null-56">V 56 4</ref> «Et in questa provinzia sono una uxanza: che s’el fosse algun forestier over homo
+         fosse trovadi zaxer chon lor moier over fiolle o sorelle, quelli non l’à per mal;
+         anzi i chonsente che questo se faza in chaxa soa et sì l’à molto per ben» / <ref type="witlink" target="#v-null-56">V 56 5-6</ref> «[…] onde quando alguno forestier azonze in quela provinzia, quelle femene li mena
+         al so ostello fazandolli gran festa, apariandolli de quello i fa mestier; et fali
+         molto honor. Infina i suo’ maridi lassando le so femene, chomo ve ò dito, partese
+         de chaxa soa et sì va al chanpo, et mai non torna domentre i forestieri dimora in
+         chaxa soa chon so moier; e tal stano hoto dì e tal diexe, et questo sono a so volontade»
+         (vd. <ref type="witlink" target="#f-null-116">F CXVI 5</ref> «Et voç di que en ceste provence a un tel costumes de lor femes con je vos dirai:
+         car il ne ont a vilanie se un forestier ou autre home l’aunis de sa feme ou de sa
+         file ou de sa seror ou d’aucune feme qu’il aie en sa maison, mes l’ont a bien quant
+         l’en jut con eles» / <ref type="witlink" target="#f-null-116">F CXVI 6-7</ref> «Car sachiés qe quant un home de ceste contree voit qe un forestier li veigne a sa
+         maison por erberjer, ou qe il ne i vuoille erbergier et entrer en sa maison, tantost
+         se oisse hors et comande a sa feme qe au forestier soit fait toute sa volunté conpliemant,
+         et adonc se vait sa voie ou a son cans ou a sez vignes, et ne i torne dusque a tant
+         qe le forestier demore en sa maison. Et vos di que maintes foies hi demore trois jors
+         et se jut ou lit cun la feme de celui çaitif. Et le forestier qui est en la maison
+         fait cestui seingn pour montrer qu’il soit laiens: car il fait pe‹n›dre son capiaus
+         ou aucuns autre seingneaus, et ce est significance qu’il soite laie‹n›s. Et le cheitif,
+         tant com il voit celui sengnaus a sa maison, ne i torne mie. Et ce font por toute
+         ceste provence»). È possibile tuttavia che l’esemplare Z1 posseduto da Ramusio recasse in questo punto un testo più vicino alla lezione di F
+         (per es.: «uxores, ‹filias›, sorores et quaslibet mulieres in eorum domibus existentes»)
+         di quello che si legge nel toledano <ref type="witlink" target="#z-null-55">Z 55 11-15</ref> «In ista quoque provincia talis consuetuto habetur. Nam viri eorum uxores, sorores
+         et quaslibet mulieres in eorum domibus existentes supervenientibus forensibus consentiunt,
+         eis ad libitum complacentes ex ipsis. Nam quando aliquis de dicta patria videbit quod
+         aliquis forensis ad eius domum veniat hospitatu, illico, domum exiens, uxori et aliis
+         de domo cum instantia precipit ut forensi faciant suum vele. Et discedens vadit ad
+         agrum vel ad rus, non reversurus domum donec forensem non senserit recesisse. Et statim
+         cum vir domus receserit, forensis in domo remanens facit supra portam curtis unum
+         galerium vel aliud afirmari ut, donec ibi appareat illud signum, ille miser cucurbita
+         domum non redeat, adhuc noscens forensem ibi esse».</p>
+	<p>Non si notano lezioni particolari che accomunino R a <ref type="witlink" target="#l-null-95">L 95 4</ref> «Per totam hanc provinciam adest nova valde et extranea consuetudo: gaudent enim
+         si quis forensis cum uxore vel filiabus, vel quibuscumque domesticis mulieribus, carnaliter
+         coniungatur. Si quis enim forensis domum hospitandi vel alia intraverit causa, tunc
+         gaudens dominus domus precipit mulieribus domus et uxori ut forensi per totum in beneplacitis
+         obediant, receditque, numquam domum intrans donec forensi placuerit permanere – quia
+         tribus diebus permanent aliquando, in cuius signum appendunt capellum vel aliud ante
+         portam: quod dum videt dominus domus, scit adhuc ibi permanere forensem, quare nullatenus
+         domum intrat, ne ipsum forte in suis solaciis impediret. Quacumque enim ex mulieribus,
+         tam uxore, filiabus quam aliis, uti velint magis, gaudent […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

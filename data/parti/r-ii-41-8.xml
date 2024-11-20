@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-41-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-41">
+      <note>
+	<p>Manca in questo punto la testimonianza di Z, ma le affinità di R con V e soprattutto
+         con F suggeriscono che nella prima parte («Et gli amici […] casa») Ramusio abbia seguito
+         la testimonianza di Z1: <ref type="witlink" target="#f-null-119">F CXIX 8-10</ref> «Et tous les amis et parens le vienent veoir et demorent con lui et li font joie
+         et seulas. […] Et sa feme, tant tost qe a enfanté son fil, elle lieve do lit et fait
+         tute la beçogne de la maison et serve son baron eu lit»;<ref type="witlink" target="#v-null-57"> V 57 5</ref> «[…] et tuti i suo’ parenti et amixi lo vano a veder, et sì i fano galder et solazar:
+         et questo fano per lor uxanza; subito quando la dona àno parturido se leva di leto
+         et fano tuti i servixi de chaxa, et serve el suo’ signor in lo leto». Nella parte
+         conclusiva del passo («portando […] appresso»), R riprende alcuni dettagli che figurano
+         solo in <ref type="witlink" target="#p-ii-41">P II 41 6</ref> «[…] mater autem pueri nulla de illo sollicitudinem habet, nisi quia lac illi prebet;
+         interim vero amici et consanguinei virum visitant decumbantem […] ipsa tamen viro
+         cibum defert ad lectum». Non si danno invece indizi di contatti con <ref type="witlink" target="#l-null-98">L 98 5</ref> «[…] concurruntque undique parentes visitare eum secumque gaudentes, nutritque eum
+         eique servit uxor, et omnes alii, ac si ipse esset esset qui peperisset infantem»;
+         <ref type="witlink" target="#vb-null-85">VB LXXXV 5</ref> «E tuti i parenti et amici el veno a vixitare et fano gran festa e, de continuo,
+         la moglie serve el marito nel tenpo el sta nel leto […]».</p>
+	<p>Va rilevato che, analogamente a L, V e VB, Ramusio tralascia la parte in cui si fornisce
+         la spiegazione dell’usanza descritta nella pericope: <ref type="witlink" target="#p-ii-41">P II 41 6</ref> «[…] Aiunt quod hoc ideo faciunt quia mulier filium portans et pariens longo tempore
+         et graviter laboravit, propter quod conveniens iudicant ut diebus .XL. a fili cura
+         quiescat […]»; <ref type="witlink" target="#f-null-119">F CXIX 9</ref> «[…] et ce font il por ce qu’il dient qe sa feme a duré grant fatie en porter l’enfant
+         en son ventre, et por ce dien il qu’il ne velent qe endure plus en cel terme de .XL.
+         jor […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

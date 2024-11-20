@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-19-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-19">
+      <note>
+	<p>R traduce alla lettera <ref type="witlink" target="#z-null-15">Z 15 1-2</ref> «<term ref="#cobinam">Cobinan</term> est quedam civitas magna, cuius gens legem <term ref="#macometto">Macometi</term> observant. Ibi fiunt specula de calibe multum pulcra et magna». La parentela dei
+         due testi è peraltro accertata dall’accordo in una lezione peculiare: «osserva la
+         legge di <term ref="#macometto">Macometto</term>» R &lt; «legem <term ref="#macometto">Macometi</term> observant» Z (cfr., per contro, <ref type="witlink" target="#l-null-33">L 33 1</ref> «<term ref="#cobinam">Cobinam</term> est magna civitas, cuius gentes adorant Machomet», <ref type="witlink" target="#v-null-20">V 20 40</ref> «[…] et la zente che in quela abita adora <term ref="#macometto">Machometo</term> […]», <ref type="witlink" target="#vb-null-24">VB XXIV 1</ref> «[…] et i abitanti de quella adorano <term ref="#macometto">Machometo</term>», tutti coerenti con <ref type="witlink" target="#f-null-38">F XXXVIII 3</ref> «Les gens aore <term ref="#macometto">Maomet</term>»), immediatamente seguita, in R come in Z (e V), dall’informazione sugli specchi
+         d’acciaio.</p>
+	<p>Nel corpo del testo desunto da Z Ramusio innesta, per scrupolo di completezza, un
+         minimo dettaglio descrittivo – l’agg. <hi rend="italics">finissimo</hi>, riferito all’acciaio – estrapolato da <ref type="witlink" target="#vb-null-24">VB XXIV 2</ref> «In questa cità lavorano finissimo açal e fassene bellisimi spechi de açale; ène
+         andanicho».</p>
+	<p>Nella copia di V, non lontana per lezione da Z/R, è da notare il fraintendimento paleografico
+         <hi rend="italics">spedi </hi>(&lt; <hi rend="italics">specli</hi>): cfr. <ref type="witlink" target="#v-null-20">V 20 40-41</ref> «[…] una zitade chiamata <term ref="#cobinam">Chobian</term> la qual sono molto granda, et la zente che in quela abita adora <term ref="#macometto">Machometo</term>. Et in questa se fano spedi d’azal molto beli e grandi […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

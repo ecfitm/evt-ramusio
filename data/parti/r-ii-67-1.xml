@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-67-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-67">
+      <note>
+	<p>Ramusio si attiene alla testimonianza di <ref type="witlink" target="#vb-null-113">VB CXIII 1</ref> «<term ref="#singui">‹S›ingui</term> è grande e nobelle citade la quale gira d’entorno miglia .XL.». In Z e in F l’informazione
+         sul perimetro della città si trova più avanti: <ref type="witlink" target="#z-null-84">Z 84 1</ref> / <ref type="witlink" target="#z-null-84">Z 84 5</ref> «<term ref="#singui">Fuçiu</term> est quedam civitas nobilis et magna […]. Civitas in suo circuitu bene girat miliaria
+         sexaginta» (<ref type="witlink" target="#f-null-150">F CL 2</ref> / <ref type="witlink" target="#f-null-150">F CL 4</ref> «<term ref="#singui">Sugiu</term> est une tre noble cité et grant. […] Il est si grant q’ele gire environ .XL. miles»).
+         Il dettaglio è omesso in<ref type="witlink" target="#v-null-75"> V 75 1</ref> «<term ref="#singui">‹F›igui</term> sono una zitade nobelle e granda […]». Presentano la medesima struttura dei contenuti
+         di R e VB <ref type="witlink" target="#l-null-125">L 125 1</ref> «<term ref="#singui">Suigiu</term> est nobilissima valde civitas et magna; circuit enim miliaria .LX. […]», e <ref type="witlink" target="#p-ii-63">P II 63 1</ref> «<term ref="#singui">Synguy</term> autem e‹s›t nobilissima civitas cuius circuitus continet in mensura miliaria sexaginta».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

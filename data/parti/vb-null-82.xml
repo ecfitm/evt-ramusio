@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-82</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-82">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXXII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-82_1_1" n="1"> <term ref="#caindu">‹G›ingut</term> è provincia versso ponente e tuti idolatrii e sotoposti al <term ref="#gran-can">Gran Can</term>: et à citade et chastelle asai a quella sottoposte. </seg>
+      <seg xml:id="vb-null-82_1_2" n="2"> Èt uno lago nel qualle se
+         trova perlle assai, dele qualle sotto gravissima pena non se pò peschare, salvo di
+         chomandamento del <term ref="#gran-can">Gran Chan</term>, né tal suo comandamento per chosa del mondo seria preterido per modo che quante
+         perle se pescha tute capitano in man del segnore. </seg>
+      <seg xml:id="vb-null-82_1_3" n="3"> Ène ecian una montagna nella
+         qualle se trova le pietre preciose che se chiamano turchexe, le qualle ecian tute
+         chapitano in man del segnore; e de quelle ne fino vendute a marchadanti segondo la
+         volontade soa. </seg>
+      <seg xml:id="vb-null-82_1_4" n="4"> Questa gente àno per chostuma che non se reputta a vilania se alchuno
+         à afar con la moglie, né con le fiolle, né con le madre, né con alltra soa parente,
+         ançi àno molto a charo poter concieder quelle e massime ai forestieri, però che tengono
+         molto piacere ai dii che de lor femene fia fato chortexia e largeça a chadauno e massime
+         a forestieri bexognoxi che (per esser loro fuori de chaxa) non àno femene. </seg>
+      <seg xml:id="vb-null-82_1_5" n="5"> Et
+         tengono per questa soa umanissima lemoxena le chosse loro prospere ge suceda, et ai
+         dii molto richomandate e fiolli guardati da pericolli. </seg>
+      <seg xml:id="vb-null-82_1_6" n="6"> Et sono dele lor done sì
+         lemoxenarii che quando i ssenteno algun forestieri chapitar nela provincia, beato
+         cholui el pò albergare; et avendo el forestieri a star nel paexe alguni giorni, el
+         patrone esse de chaxa e comanda alla moglie che al forestiere faça ogni apiacer possibelle:
+         e quelle, ubediente ai mariti, receve el forestiero nel proprio leto dando a quello
+         tuti apiaceri posibelli. </seg>
+      <seg xml:id="vb-null-82_1_7" n="7"> El patrone se ne va a star nel contato, né mai torneria
+         fino el forestiero ve stese; e pur se ve tornase, la moiere senpre tien un segnalle
+         sula porta domente el forestiero v’alberga: e chome el patrone vede el segnalle non
+         entra nella chaxa ma torna nel contatto; et partitto el forestieri el patrone torna
+         e trova la fameglia tutta lieta e conssollata, e con quella se reliegra facendosse
+         ricontare tuti piaceri fati al forestiero; e tuti con gaudio referiseno gracia ai
+         dii et a quelli rechomanda le chosse soe, a onore di qual sì umanissima lemosena è
+         ffata. </seg>
+      <seg xml:id="vb-null-82_1_8" n="8"> Questi àno verge d’oro le qual i spendono a pexo e per la soa moneta menuta
+         àno algune formete fate di salle. [9] Chuoxeno el salle e quello buta in algune formelle
+         picholle; e .LXX. formelle de salle valle 1° saço d’oro. [10] Trovassi dele bestie
+         che fano muschio; ancho ve se trova horo de paiola. [11] Trovasse molti lopi cervieri
+         et alltri animalli assai. [12] Non àno vino de uva ma fano vino de formento et de
+         rexi con specie, molto chiaro odorifero e bono et deletevelle da bere. [13] Àno questi
+         garofalli i qualli naschono su picho‹li› albori, i qualli àno fronde e foie a modo
+         de rubaghe alquanto più longe et più strete. [14] Parono le dite fogie de garofalli
+         quaxi chome fogie do laurano |251v|, le qualle fogie qui nui apellemo folio, il qualle
+         fa el fiore biancho e picolo chome garofallo e quando è maduro quello è negro foscho.
+         [15] Naschono ecian çençero assai et ancho chanella in gran quantità et alltre specie.
+         [16] E partendose da questa cità trovasse abitacione assai et chastelle e ville per
+         .X. giornate; et è questa giente de quella propia maniera et chondicione di quella
+         sopra ò narato. [17] A chapo de dite .X. giornate, trovasse 1° fiume grandessimo el
+         qualle se chiama <term ref="#brius">Brius</term> che è el confin dela provincia del Gundi: nel dito fiume se trova oro de paiolla assai e mete chapo nel <term ref="#mare-oceano">Mar Oceano</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

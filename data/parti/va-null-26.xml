@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-26</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-26">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, XXVI</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-26_2_1" n="1"> <term ref="#cobinam">Cobinan</term> è una zità molto grande. </seg>
+      <seg xml:id="va-null-26_2_2" n="2"> Le zente adora <term ref="#macometto">Machometo</term>. </seg>
+      <seg xml:id="va-null-26_2_3" n="3"> Lì è fero e azalle e andanicho asai; e llì se fa molt[i] spe[chi] de azali molto
+         belli e grandi. </seg>
+      <seg xml:id="va-null-26_2_4" n="4"> E anchora se ge fa el spodio, e dirò-ve chome: eli tolleno d’una
+         vena de tera ch’è in quella contrà e sì la mete in una fornaxia de fuogo ardente.
+         </seg>
+      <seg xml:id="va-null-26_2_5" n="5"> De sovra la bocha della fornaxia è una gradella de fero. </seg>
+      <seg xml:id="va-null-26_2_6" n="6"> Lo vapor che esie
+         de quella tera che s’apicha a quella gradella si è tutia; e quella altra tera che
+         roman in fuogo è el spodio.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

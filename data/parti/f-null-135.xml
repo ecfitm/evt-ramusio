@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-135</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-135">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXXXV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-135_1_1" n="1"> Ci devise de la la grant cité de Lingiu.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-135_2_1" n="1"> Quant l’en se part de ceste ville de <term ref="#singui">Singiu</term>, il ala por midi .VIII. jornee, qe toutes voies treuve l’en cités et castiaus asez
+         qe mout sunt nobles et grant et riches e de grant mercandies et de grant arç. Il sunt
+         ydres et font ardoir lor cors mors; et sunt au <term ref="#gran-can">Grant Can</term>; lor monoie est de carte. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-135_3_1" n="1"> Et a chief de .VIII. jornee treuve l’en une cité qe est apellés Li‹n›giu, ausi
+         come la provence, et est chief dou reigne. Elle est mout noble cité et riches. Il
+         sunt homes d’armes. Bien est il voir qu’il hi se fait grant mercandies et grant ‹ars›.
+         Il ont venesionz de bestes e de osiaus en grant habundance; il ont de toutes couses
+         da mangier a grant p‹l›antee. Il est encore sus le fluns qe je voç nomai desovre.
+         Il ont navies greingnors qe les |61a| autres qe je voç contai, en le quel se portent
+         maintes mercandies et chieres. </seg>
+    </p>
+    <p n="4">
+      <seg xml:id="f-null-135_4_1" n="1"> Or voç laieron de ceste provence et cité e vos conteron encore de autre novité.
+         Avant traicteron d’une citè, qe est apellé Pingiu, qe mout est grant et riche.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

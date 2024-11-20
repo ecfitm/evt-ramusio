@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-61</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-61">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 61</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-61_2_1" n="1"> Cum receditur a <term ref="#caracoran">Carracoron</term> et ab <term ref="#altai">Alkay</term> (ubi sepeliuntur corpora dominorum, ut supra dictum est), itur per contratam quandam
+         versus septemtrionem dictam planum de <term ref="#bargu">Bargu</term>, que durat bene .XL. dietis. </seg>
+      <seg xml:id="l-null-61_2_2" n="2"> Gentes dicuntur <term ref="#mecriti">Mecrit</term>, et sunt valde silvestres: vivunt enim ex bestiis, et maxime ex cervis; et quod est
+         plus, per modum equorum equitant super cervis. Et vivunt more <term ref="#tartari">Tartarorum</term>. </seg>
+      <seg xml:id="l-null-61_2_3" n="3"> Segete et vino carent. </seg>
+      <seg xml:id="l-null-61_2_4" n="4"> Estate habent venationes multas, tam bestiarum quam
+         avium; sed in yeme ob frigoris immensitatem nulla invenitur bestia neque avis. </seg>
+      <seg xml:id="l-null-61_2_5" n="5">
+         Et perambulatis hiis .XL. dietis ad <term ref="#mare-oceano">Occeanum</term> pervenitur mare, ubi sunt montes in quibus nidificant falcones peregrini; ibique
+         nulle habitant bestie neque homines neque aves, preterquam maneriem quamdam avium
+         ‹nomine› “<term ref="#bargelach">bag‹er›lach</term>”, quibus pascuntur falcones: et sunt magnitudinis perdicum, et pedes habent in modum
+         papage, caudam vero per modum yrundinis, et sunt optime volantes. </seg>
+      <seg xml:id="l-null-61_2_6" n="6"> In insula vero
+         maris circa locum illum nascuntur in habundantia çirifalchi. </seg>
+      <seg xml:id="l-null-61_2_7" n="7"> Et est hic locus
+         in tantum versus septemtrionem quod Polus septemtrionalis aliquod ad meridiem tendit.
+         </seg>
+      <seg xml:id="l-null-61_2_8" n="8"> Et quia per provincias septemtrionales usque ad <term ref="#mare-oceano">Occeanum mare</term> pervenimus, ammodo revertemur ad locum quod <term ref="#gran-can">Grandis Canis</term> inhabitat, incipientes a provincia super iam nominatam <term ref="#campion">Campicion</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

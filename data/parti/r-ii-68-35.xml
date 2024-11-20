@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-68-35</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-68">
+      <note>
+	<p>Il modello del passo è sicuramente un testimone affine a <ref type="witlink" target="#z-null-85">Z 85 16-17</ref> «Sanccitum erat itaque per <term ref="#fanfur">Factur</term>, regem dicte civitatis et provincie, tempore quo regnabat, quod quilibet deberet
+         exercere artem sui patris; et si quis haberet centum milia bysantiorum, oportebat
+         ipsum artem patris exercere. Non equidem credatis quod ipsos oporteret propris manibus
+         laborare, sed homines retinere, ut dictum est superius, ad dictam artem exercendam».
+         La semplificazione del discorso nella parte centrale, in particolare nel segmento
+         testuale «nondimeno, come diventano ricchi, li era permesso […]», potrebbe essere
+         stata influenzata dalla versione di <ref type="witlink" target="#p-ii-64">P II 64 7</ref> «[…] ex antiquo enim regni statuto consuetudo est ibi ut quilibet in domo propria
+         teneat stationem et artem, sicut fecit hactenus pater eius, sed si dives est non cogitur
+         manibus propriis operari».</p>
+	<p>Il brano appare più stringato in <ref type="witlink" target="#l-null-128">L 128 8</ref> «[…] Est enim ibi talis ordinatio quod oportet quamlibet artem parentum semper facere,
+         quantumcumque sit dives», in <ref type="witlink" target="#v-null-76">V 76 7</ref> «E sono intra loro se li fosse ben re, zaschadun dieno oservar l’arte de so pare,
+         seben l’avesse zentomilia bixanti», in <ref type="witlink" target="#vb-null-114">VB CXIV 7</ref> «Et àno fra loro questo decreto: che alchuno de mestier non pò far el mestier altrui
+         ma coven far el mestier à fatto el padre et antecesori suoi […]» (vd. <ref type="witlink" target="#f-null-151">F CLI 9</ref> «[…] Et si voç di qu’il estoit establi por lor roi qe cascun doie faire les ars de
+         son pere; et, se il avesse .Cm. besanç, ne poroit fair autre ars qe sun pere avoit fait»). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

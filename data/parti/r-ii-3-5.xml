@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-3-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-3">
+      <note>
+	<p>La fonte di R doveva recare un testo molto vicino a quello di <ref type="witlink" target="#f-null-80-4-11">F LXXX 7</ref> «Et encore voç di qe tuit celç qe ont cestes tables on encore brevilejes con escriture
+         [R «hanno anchora privilegii in scrittura»] de tout ce qe [R «di tutte quelle cose
+         che»] il doient faire en lor seingnorie». Meno forte è l’affinità di R con <ref type="witlink" target="#l-null-66">L 66 7</ref> «Et qui habent has tabulas, habent ‹ul›tra hoc privilegia in cartis scripta, demonstrantia
+         quicquid in tali dominio facere debeant […]», e con<ref type="witlink" target="#v-null-41"> V 41 5</ref> «Et tuti questi che àno queste tole sono in quele schrite tuto quelo che loro dieno
+         fare in lo so rezimento e signoria». P omette il passo. </p>
+	<p>In VB e Z manca l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

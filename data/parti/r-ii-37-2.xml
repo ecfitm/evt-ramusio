@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>In gran parte delle pericope («Et perché […] vettovaglie»), Ramusio combina e rielabora
+         materiali provenienti da <ref type="witlink" target="#p-ii-36">P II 36 2</ref> «[…] et quia sic in sollitudinem est redacta oportet ut per .XX. dietas viatores
+         omnes victualia secum ferant [R «[…] oltra il portar seco le vettovaglie»]; insuper
+         et quia habitatoribus caret [R «Et perché vi mancano gli habitatori»], silvestres
+         fere supramodum multiplicate sunt ibi [R «sono moltiplicati in tanto numero»], propter
+         quod periculosum valde est transitum inde facere et maxime nocte» [R «che è grandissimo
+         pericolo a passarvi la notte»]. Il riferimento ai «leoni» potrebbe essere stato suggerito
+         da L o da Z: Z 53 20 «[…] inveniendo huiusmodi silvestria multa, scilicet leones, ursi et alia […]»;<ref type="witlink" target="#l-null-94"> L 94 2-3</ref> «[…] Et transitur bene .XX. dietis per inhabitata loca, per que ferarum multitudo
+         maxima conversatur, sicut leonum, ursorum aliarumque manerierum, qua de causa periculosus
+         est transitus. Invenerunt tamen tale remedium transeuntes in partibus istis […]».
+         La seconda parte della pericope, che non trova riscontro in P (né in L, né in Z),
+         implica l’apporto di una seconda fonte, ma non si danno indizi evidenti di rapporti
+         di R con altri modelli: V 55 17 «Et quando el se à chavalchado per questa chontrada vinti zornade el non se trova
+         albergi né vituarie, mo el bixogna ch’el se ne porta chon loro; et in queste vinti
+         zornade se trovano molte bestie salvadege le qualle sono da temer molto […]» / V 55 14 «et questo chotal fuogo i fano per varentar le suo’ bestie dali diti anemalli salvadegi,
+         li qualli sono in grandissima quantitade per quella prataria»; <ref type="witlink" target="#vb-null-81">VB LXXXI 3</ref> «[…] et in questo modo i viandanti stano seguri la note dale fiere salvatiche, che
+         perichollo choreriano; e per simel modo fano i pastori et chanpano i animalli soi
+         dale dite fiere salvatiche, le qual sono in grandissima quantità per quelle chanpagne»
+         (vd. <ref type="witlink" target="#f-null-114">F CXIV 12</ref> «Et quant l’en a alés por ceste contree bien .XX. jornee, ne treuve l’en erbergies
+         ne viandes, mes convient que il porte viandes por lui et por seç bestes» / <ref type="witlink" target="#f-null-114">F CXIV 5</ref> «Et cest tiel feu font les homes por garantir lor bestes de‹s› fieres bestes sauvajes,
+         qe asez hi ni a por celle contree et por celz païs» / <ref type="witlink" target="#f-null-114">F CXIV 11</ref> «Et encore, si con je voç ai dit, les homes escanpent la noit, et il et lor bestes,
+         des lions et des lonces et d’autres mauvaises bestes, qe hi ni a en grant habundance»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

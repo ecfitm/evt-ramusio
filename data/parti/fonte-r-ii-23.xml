@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>fonte-R-II-23</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="fonte-r-ii-23">
+    <head>
+      <hi rend="bold">F, C </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="fonte-r-ii-23_1_1" n="1"> Ci devise dou vin que les jens dou <term ref="#gran-can">Kaan</term> boivent.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="fonte-r-ii-23_2_1" n="1"> Et encore sachiés que la greingnor partie des jens de la provence dou <term ref="#cataio">Catay</term> boivent un tel vin con je voç divisera‹i›. </seg>
+      <seg xml:id="fonte-r-ii-23_2_2" n="2"> Il font poison de ris, et co’ maintes
+         autres boines espices, et il la laborent en tel mainere et si bien |47a| qu’il vaut
+         miaus a boir qe nul autre vin. </seg>
+      <seg xml:id="fonte-r-ii-23_2_3" n="3"> Il est mout cler et biaus; il fait devenir le home
+         evre plus tost qe autre vin, por ce qu’il est mult chaut. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="fonte-r-ii-23_3_1" n="1"> Or laiseron de ce et voç conteron conmant les pieres s’ardent come buces.</seg>
+    </p>
+    <p n="4"/>
+    <p n="5">
+      <seg xml:id="fonte-r-ii-23_5_1" n="1"> Ci devise d’une maniere des pieres que s’ardent come buces.</seg>
+    </p>
+    <p n="6">
+      <seg xml:id="fonte-r-ii-23_6_1" n="1"> Il est voir que por toute la provence do <term ref="#cataio">Catai</term> a une mainere de pieres noire, qe se cavent des montaingnes come voines, que ardent
+         come buces. </seg>
+      <seg xml:id="fonte-r-ii-23_6_2" n="2"> Il mantienent les feu miaus que ne funt les leingnes; et si voç di
+         qe se vos le metréç en feu le soir et les faites bien aprendre, je voç di qe toute
+         la nuit tienent feu, si que l’en treuve le maitin. [4] Et sachiés qe por toute la
+         provence dou <term ref="#cataio">Catai</term> s’ardent celes pieres. Bien est il voir qu’il ont leingnes aseç, ce sunt buces, mes
+         il ardent de cestes pieres asez por ce qe gostent main et sunt grant espargnamant
+         de lengnes. </seg>
+    </p>
+    <p n="7"/>
+  </div>
+</body>
+</text>
+     </TEI>

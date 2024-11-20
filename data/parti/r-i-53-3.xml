@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-53-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-53">
+      <note>
+	<p>R è modellato con precisione su Z 41 15-17 «Et locus ubi regnat iste est ille locus quem in patria nostra <term ref="#og-et-magog">Og et Magog</term> nuncupamus, sed ibidem habitantes appelant <term ref="#ung">Ung</term> et <term ref="#mongul">Mongul</term>. Et in qualibet istarum provinciarum est una generatio gentis. In <term ref="#ung">Ung</term> sunt <term ref="#og-et-magog">Gog</term> et in <term ref="#mongul">Mongul</term> manent <term ref="#tartari">Tartari</term>». Minime, e puramente formali, sono le differenze tra Z e <ref type="witlink" target="#f-null-73">F LXXIII 16-17</ref> «Et ce est le leu qe nos apellon de sa, e‹n› nostre païs, <term ref="#og-et-magog">Gogo et Magogo</term>, mes il l’apellent <term ref="#ung">Ung</term> et <term ref="#mongul">Mungul</term>. Et en cascune de ceste provence avoit une generasion de jens: en <term ref="#ung">Ung</term> estoient les <term ref="#og-et-magog">Gog</term>, et en <term ref="#mongul">Mungul</term> demoroit les <term ref="#tartari">Tartars</term>».</p>
+	<p>La copia di <ref type="witlink" target="#v-null-38">V 38 14</ref> dipende probabilmente da un antigrafo lacunoso («[…] <term ref="#prete-gianni">Prete Zane</term>, e questo sì è quelo che reze <term ref="#og-et-magog">Disinogon e Magon</term>, e lor li dixe <term ref="#ung">Set</term> e <term ref="#og-et-magog">Mogube</term>»): la lacuna, riscontrabile tra «reze» e «Disinogon», coinvolge la porzione di testo
+         corrispondente grosso modo a F «le leu qe nos apellon de sa, e‹n› nostre païs», Z
+         «[…] ille locus quem in patria nostra […]». Del segmento caduto sopravvive soltanto
+         il verbo («disino» “dicono”, <hi rend="italics">pendant</hi> – con cambio di persona – di F «apellon», Z «nuncupamus» etc.), che il copista, nel
+         tentativo di rettificare il testo, salda al toponimo, producendo un <hi rend="italics">monstrum</hi> (<hi rend="italics">disino</hi> [o <hi rend="italics">diseno</hi>] + *<hi rend="italics">Gon</hi> “Gog” &gt; <hi rend="italics">Disinogon</hi>) ma restituendo all’insieme un senso compiuto.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

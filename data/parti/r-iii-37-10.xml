@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-37-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Non è possibile spiegare nella pericope la presenza dei cani, che non ha corrispondenza
+         in nessuno dei relatori. Per il resto tutti i testimoni si allineano su un tenore
+         informativo uniforme, a partire da F CXCI 5 «Il ont toutes bestes devisés a toutes les autres dou monde. Et si voç di que il
+         ont montonz et berbiç tuit de une faisonç et de un color, car il sunt tuit blance
+         et ont le chief noir. Et en tout ceste ysle ne trevrés ne montonz ne berbiç que ne
+         soit  de ceste mainere que je voç ai devisé». Vedi quindi: P III 41 10 «[…] similiter et bestie omnes insule huius sunt dissimiles bestiis que habentur
+         in regionibus aliis: ibi sunt verveces albi, caput nigrum habentes, et tales sunt
+         omnes qui habentur in insula […]»; <ref type="witlink" target="#z-null-125-1-33">Z 125 11-13</ref> «[…] et omnes bestias diversas ab aliis aliarum regionum. Habent arietes totos unius
+         stature et coloris: nam sunt toti albi et capud nigri. Et in tota ista insula non
+         reperiuntur arietes qui non sint ita facti qualiter vobis retulimus»; L 178 7-8 «[…] et breviter omnes eorum bestie a bestiis aliarum partium sunt diverse. Arietes
+         enim et oves habent omnes unius maneriei: sunt enim albi per totum, et caput totum
+         habent nigrum»). Parziale è il resoconto in VA CL 14-15 «[…] e moltoni e ber[b]isi tuti d’una fata et d’uno chollor, et èno tuti bianchi
+         e àno el collo negro.  E in tuta l’ixolla non èno moltoni che non sia de cotal fata»);
+         V 107 5 «Et àno moltoni de ogni statura: et sono tuti bianchi, el chavo negro, et in tuta
+         l’ixolla non sono moltoni che non sia sì fati chomo io ve ò dito»; VB CLXI 8 «Àno montoni e pecore de alltra façon che in alltra parte: sono tuti bianchi et sollo
+         el chapo àno negro».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

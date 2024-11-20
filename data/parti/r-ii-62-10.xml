@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-62-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-62">
+      <note>
+	<p>La pericope trova riscontro in <ref type="witlink" target="#vb-null-108">VB CVIII 14</ref> «Et dapoi, se i diti nobelli ven‹e›ciani prima dal segnor era amati, molto più cressete
+         el amor e reputacion de quelli apreso quel exelentissimo segnore». Assai diversa è
+         la versione fornita da <ref type="witlink" target="#f-null-145">F CXLV 14</ref> «Et adonc les recevi e cele de la cité se renderent, e cel avent por la bonté de
+         mesere Nicolao e meser Mafeo e mesere Marc. E ce ne foi pas peitete cousse, car sachiés
+         qe ceste cité e sa provence est bien une des meior qe aie le <term ref="#gran-can">Grant Kan</term>, car il en a grant rende e grant profit». Nelle altre fonti questa sezione viene
+         tralasciata.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

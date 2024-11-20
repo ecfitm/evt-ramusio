@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-86</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-86">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 86</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-86_1_1" n="1"> Ad presens dicere volumus et narare immensam quantitatem reddituum quos <term ref="#gran-can">Magnus Dominus</term> ab ista civitate percipit et ab aliis terris que civitati isti respondent, que sunt
+         pars nona, sive regnum nonum, provincie <term ref="#mangi">Ma‹n›çi</term>. </seg>
+      <seg xml:id="z-null-86_1_2" n="2"> Et dicemus primo de sale, quia plus quantum ad reditum valet. </seg>
+      <seg xml:id="z-null-86_1_3" n="3"> Noveritis
+         itaque quod sal reddit anis singulis octuaginta “<term ref="#toman">thoman</term>” de auro; et quodlibet “<term ref="#toman">thoman</term>” est septuaginta milia sadiorum auri, et quodlibet sadium valet pluri uno floreno
+         aureo vel uno ducato aureo. </seg>
+      <seg xml:id="z-null-86_1_4" n="4"> Et ideo tantus est reditus salis in ista civitate
+         quia est in confinibus iuxta mare, ubi multitudo fit salis; et ab ista civitate bene
+         quinque regna <term ref="#mangi">Manci</term> pro eorum usibus sale suplentur. </seg>
+      <seg xml:id="z-null-86_1_5" n="5"> Hoc quidem constat de sale, de aliis vero dicemus.
+         </seg>
+      <seg xml:id="z-null-86_1_6" n="6"> In civitate ista nascitur çucarus in maxima quantitate et in maiori quam in aliquam
+         parte mundi; de quo sequitur multus reditus. </seg>
+      <seg xml:id="z-null-86_1_7" n="7"> Sed dicemus simul de omnibus speciebus:
+         nam quelibet species reddunt tres et tercium per .C°. </seg>
+      <seg xml:id="z-null-86_1_8" n="8"> Percipitur multus reditus
+         de vino quod de risis ‹faciunt›; de carbonibus; de duo|46r|decim artibus que superius
+         nominantur, quarum habet quelibet .XIIm. ypothecarum; de syrico. [9] Sed quid? quilibet mercatores qui per terram ad civitatem
+         istam mercimonia portant, et ab ipsa ad alias partes reportant, et etiam qui ab ipsa
+         reportant per mare, solvunt de mercimoniis ipsis trigesimum, id est de triginta unum,
+         quod capit tres et tercium pro .C.; sed qui mercimonia portant ad ipsam per mare pro
+         centenario reddunt decem. [10] De omnibus vero que nascuntur, tam de animalibus quam
+         de terra provenientibus, decima pars iurisdicioni <term ref="#gran-can">Domini</term> applicatur. [11] Ita quod de istis omnibus dominus Marcus Paulo, qui pluries audivit
+         fieri rationem introitus, absque sale, dicit quod valet continuo, anis singulis, .CCX.
+         “<term ref="#toman">thoman</term>” sadiorum aureorum. [12] Et hec est nona pars provincie <term ref="#mangi">Manci</term>. [13] Sed tamen omnes istos reditus facit expendere <term ref="#gran-can">Magnus Can</term> in exercitibus custodientibus civitates et contratas, et in ipsarum civitatum indigentiam
+         auferendam. [14] Nunc vero ab ista civitate <term ref="#quinsai">Quinsay</term> discedemus, quia suficienter est de eius esse naratum, et dicamus de esse <term ref="#tapinzu">Taipinçu</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

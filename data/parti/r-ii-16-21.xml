@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-21</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>La fonte di R recava un testo sostanzialmente coincidente con <ref type="witlink" target="#f-null-93">F XCIII 35-36</ref> «Et sachiés qu’il demore en ceste leu jusque a primevoile, qe est en celui leu entor
+         la pasque nostre de ‹re›suresion, et en tout cestui terme ne fine d’aler hoisellant
+         a lac, a riviere; et prennoient grues et cesnes et autres osiaus asseç. Et encore
+         les seç jens que sunt expandut per plosors part environ lui, li apportent venesionz
+         et osialasionz asseç». La testimonianza di V – che per altro tramanda un testo molto
+         conciso – parrebbe confermare che anche la perduta fonte di R recasse una lezione
+         analoga a «fino alla prima vigilia della nostra Pasqua»: <ref type="witlink" target="#v-null-44">V 44 17</ref> «Et in questo luogo stano infina el quarto dì avanti la Resurezion del nostro signor
+         Iexu Christo, et in tuto questo tempo non zesa d’andar a oxelar, ora in li lagi ora
+         a livrieri et a zexani e a molte oxele». L’editore non sembra aver tenuto in considerazione
+         anche le versioni accorciate di <ref type="witlink" target="#l-null-77">L 77 6</ref> «Statque <term ref="#gran-can">Magnus Canis</term> in hoc loco usque ad †strime volie†, quod tempus est circa Pascha nostrum resurrectionis,
+         in quo tempore nichil quasi aliud quod venari facit tam avibus quam bestiis […]»,
+         e di <ref type="witlink" target="#p-ii-20">P II 20 11</ref> «In hac planicie moratur rex per totum mensem marcii continuando sic predicta solatia;
+         multa igitur animalia in huiusmodi venationibus capiuntur et infinite aves […]».La
+         forma «argironi» parrebbe essere stata aggiunta da R.</p>
+	<p>VB e Z omettono del tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

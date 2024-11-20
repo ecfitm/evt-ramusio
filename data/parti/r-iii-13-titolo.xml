@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-13-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-13">
+      <note>
+	<p>F CLXVI (Ci devise dou roiaume de <term ref="#samara">Samatra</term>); P III 16 (De regno <term ref="#samara">Samara</term>. Capitulum XVI), VA CXXX (De <term ref="#samara">Samara</term>, dove se fa el vin d’arbori); <ref type="witlink" target="#z-null-100">Z 100</ref>; L 153 (De regno <term ref="#samara">Samara</term>); V 87 17-22 (Del’ixola de <term ref="#giava">Iana Menor</term>); VB CXXXVI. </p>
+	<p>Ramusio utilizza per questo capitolo il testo di Z, ma in par. 8 accoglie la lezione
+         (isolata, ma più ricca) del par. 11 di VB.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

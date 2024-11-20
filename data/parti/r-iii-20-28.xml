@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-28</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La “macroscheda” (6) sulle credenze religiose degli indigeni si compone di quattro
+         pericopi: questa (la devozione verso i bovini) e i parr. 29-31 (i “<term ref="#gavi">gavi</term>”).</p>
+	<p>Nella prima Ramusio segue alla lettera <ref type="witlink" target="#z-null-107">Z 107 86-87</ref> «Isti de hoc regno <term ref="#idolatri">adorant ydola</term>, et pro maiori parte boves. Dicunt enim quod bos sit bona res valde, et nemo de carnibus
+         bovum comederet aliqua causa mundi» (versione letterale di F CLXXIII 35 «Et encore vos di qe celes de cestes roiames aorent les ydres, et les plosors aorent le buef, por ce qe il dient qe le buef est mout bone chouse,
+         ne nul n’en mengieroit dou bouef por rien dou monde ne nulz ne l’ociroit en nulle
+         mainere»).</p>
+	<p>Ripetono F L 161 21 «Gentes huius regionis sunt <term ref="#idolatri">ydolatre</term>; verum quam plures adorant boves, dicentes boves esse optimum quid, quare nullo modo
+         eos occiderent nec bovinas carnes commederent ullo modo»; V 91 34 «Et questi de questo regno <term ref="#idolatri">adorano l’idolle</term>; e la mazor parte adorano buò, perché i dixeno che ’l bò sono una molto bona chossa;
+         et alguno non manzerave del bò per alguna chossa del mondo»; modifica l’<hi rend="italics">ordo</hi> della pericope VB CXLIII 39 «Quei di questa provincia per cossa alchuna non mangeria charne de buo, e questo
+         perché la maor parte de quegi adorano i buoi e dicono quei esser bona cosa».</p>
+	<p>P III 24 1 si occupa solo degli indigeni del primo regno della regione (da Pipino chiamato <term ref="#malabar">Nar</term>  o <term ref="#malabar">Var</term>), e introduce una “coda” eccentrica (che ricorda tra l’altro una prassi descritta,
+         in altro contesto, in <ref type="witlink" target="#r-iii-22">R III 22 13</ref>): «Habitatores regni <term ref="#malabar">Var</term> omnes <term ref="#idolatri">ydolatre</term> sunt; multi qui ex eis bovem adorant dicentes bovem rem esse sanctissimam, neque
+         autem boves occidunt neque carnes eius ob reverentiam comedunt; cum autem moriuntur
+         boves, adipem eorum accipiunt et eo domos suas perungunt» (VA CXXXVII 36 è allineato su F: «Quelli de questa provinzia sono idolatri e molto adora el bò,
+         e dixeno che ’l bò è molto santa cossa; e non manzano charne de bò per chossa del
+         mondo, nì non alzideno neguno bò»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

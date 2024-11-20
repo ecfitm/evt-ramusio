@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-18-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-18">
+      <note>
+	<p>Nella parte iniziale della pericope («Et di queste carte [...] quantità»), che appare
+         semplificata rispetto alla versione che si legge in L V (e F), R ha tenuto conto forse
+         del testo abbreviato di P. Nella parte rimanente del passo la redazione ramusiana
+         segue in modo abbastanza fedele il dettato di F, diversamente dal resto delle sue
+         fonti superstiti (L P V VB), che accorciano o rimaneggiano il testo in modo più o
+         meno vistoso: <ref type="witlink" target="#l-null-78">L 78 3</ref> «Et de tali moneta tanta fabricatur multitudo quod universis provinciis <term ref="#gran-can">Magni Canis</term> sufficit habundanter, ‹eamque nemo evitare ausus est, quare per ipsa universa emuntur
+         necessaria›; ‹immo› quod plus est, tam aurum quam argentum, lapides preciosi, margarite
+         et quecumque alia quantumcumque maximi valoris hac tali emuntur moneta»; <ref type="witlink" target="#p-ii-21">P II 21 4</ref> «De hac igitur pecunia facit fieri rex in copia maxima in civitate <term ref="#cambalu">Cambalu</term>, nullique sub pena mortis in omnibus fere regnis sue ditioni subditis monetam aliam
+         facere aut expendere licitum est aut hanc recusare; nullus etiam de aliis regnis intra
+         terras <term ref="#gran-can">Magni Kaam</term> monetam aliam potest expendere […]»; <ref type="witlink" target="#v-null-45">V 45 11-12</ref> «et fassene in tanta quantitade che se pagerave tuto el texoro del mondo; e de queste
+         tal charte se fano tuti i pagamenti d’oro e de perle et tute altre marchadantie  […]
+         et queste tal monede se spende in tute tere, zitade e chasteli, et in tuti i gli altri
+         luogi suditi al <term ref="#gran-can">Gran Chan</term>»; <ref type="witlink" target="#vb-null-68">VB LXVIII 11</ref> «[…] e fane fare grandissima quantità però che per tute tere e provincie fino spendute,
+         dicho oltra el paexe del <term ref="#gran-can">Gran Chan</term>; però che, per la grandeça del suo paexe e le moltitudene delle so provincie, le
+         sono sì corsive che per tuto le fino acetate però che per quella moneda ogni chossa
+         se trova a conprare, né non ardiria alchuno per chossa del mondo quelle refutare»;
+         <ref type="witlink" target="#vb-null-68">VB LXVIII 9</ref> «[…] la qualle per tuto el so paexe fi spenduta» (<ref type="witlink" target="#f-null-95">F XCV 6-8</ref> «Et en fait faire si grant quantité que tuit le treçor dou monde en paieroit. Et
+         quant cestes chartre sunt fait en la mainiere qe je vos ai contés, il en fait faire
+         tous les paiemant et les fait despendre por toutes les provences et regnes et teres
+         la ou il seingnorie, et nulz ne le ose refuser a poine de perdre sa vie. Et si voç
+         di que toutes les jens et regionz d’omes que sunt sout sa seingnorie prennent voluntier
+         cestes chartre en paiemant, por ce que, laonques il vont, en font tous lor paiemant,
+         et de merchandies et de perles et de pieres presiouses et d’or et d’arjent; toutes
+         chouses en puent achater, et font le paiement de le cartre ke je voç ai dit»). È probabile,
+         dunque, che la fonte principale del passo ramusiano sia stato un esemplare che recava
+         un testo più vicino all’originale di L P V VB.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

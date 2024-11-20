@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-26-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-26">
+      <note>
+	<p>In F CLXXX 2 la posizione di «<term ref="#cumari">Cumari</term>» rispetto alla stella polare è connessa a un’indicazione autobiografica, «la quel
+         noç ne avon veue…»: «<term ref="#cumari">Comari</term> est une contree de <term ref="#india">Ynde</term> meisme, de la quel se poit veoir aucune couse la stoille de tramontaine, la quel
+         noç ne avon veue de l’isle de <term ref="#giava">Java</term> jusque ci. E de ceste leu ala bien .XXX. miles en mer, et voit la tramontaine, et
+         se part sor l’eive entor de un goves». Tale struttura discorsiva è ripetuta: (1) da
+         Z 114 1-2 «<term ref="#cumari">Comari</term> est quedam patria <term ref="#india">Yndie</term>, de qua aliquid videri potest de stella tramontane, quam videre non valemus ab insula
+         <term ref="#giava">Çava</term> hucusque. Et hinc itur bene per .XXXta. miliaria in mare et videtur tramontana»; (2) da L 167 1 «<term ref="#cumari">Comari</term> est contrata quedam ipsius <term ref="#india">Indie</term>, ex qua stella septemtrionalis Poli aliquando videri potest, quam ab insula <term ref="#giava">Java</term> non vidimus usque huc; oportet tamen mare ingredi bene .XXX. milliaria, et tunc apparet
+         super aquam elevari in quantitate cubiti unius». </p>
+	<p>Seguendo l’indicazione di VA CXLII 1-2 («<term ref="#cumari">Comari</term> è una chontrà d’India dela qual se pò veder alchuna cossa della stella tramontana,
+         la qual non par del’ixolla de Iava perfina che l’omo se parte da questo luogo. El
+         va per mar ben trenta meglia e alora par la stella tramontana, e par sora l’aqua l’è
+         uno brazo») <ref type="witlink" target="#p-iii-32">P III 32 1</ref> sopprime il riferimento autobiografico: «<term ref="#cumari">Comari</term> regio est in <term ref="#india">Yndia</term> unde videri potest polus articus, id est stella que dicitur tramontana: nam ab insula
+         <term ref="#giava">Lana</term> usque ad locum istum videri omnino non potest; si quis autem intrat in mare iuxta
+         <term ref="#cumari">Comari</term> ad .XXX. miliaria, inde videbit polum prefatum et videtur esse supra mare id ad unius
+         cubiti mansuram» (con la latinizzazione della misura del <hi rend="italics">brazo</hi>). È la modalità adottata da Ramusio (è quella scelta pure da VB CL 1-2, che presenta però un’informazione abbreviata, omettendo l’informazione su <term ref="#giava">Giava</term>: «<term ref="#cumari">‹C›oman</term> si è una grande citade de <term ref="#india">India</term> dela qual se pò veder alchuna cossa dela stella tramontana. E chaminando da questo
+         luogo migia .XXX. per mare, se vede la tramontana che se parte de sopra l’aqua cercha
+         de una gones»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

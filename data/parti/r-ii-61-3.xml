@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-61-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-61">
+      <note>
+	<p>Come nei parr. 1-2 il testo ramusiano riflette prevalentemente la versione di VB,
+         che presenta varie particolarità che la distinguono da F e dalle altre redazioni poliane:
+         <ref type="witlink" target="#vb-null-107">VB CVII 3-5</ref> «àno sette assai et lavorasse de richi pani de seta et oro in grande quantità et
+         de molte maniere. È locho abondantissimo de tute biave et ecian de tutte vituallie,
+         animalli sì mestechi chome salvatechi in gran quantità et oxelaxon assai; ène lioni
+         in quantità. Sòne de richi marchadanti, per che è utillissima provincia al segnore
+         et massime per le gabelle dela marchadantia» (vd. <ref type="witlink" target="#f-null-144">F CXLIV 4</ref> «Il ont soie en abundance; il font dras dorés et de soie de toutes faisonz. Il ont
+         grant plantee de toutes bles et de{s} toutes couses de vivre, car mout est planteuse
+         provence; il ont venesionz et chaceisson asseç. Il font ardoir lor cors mors. Il ont
+         lionz aseç. Il hi a maintes riches mercant, qe mout en a grant trëu et grant rende
+         le <term ref="#gran-can">Gran Sire</term>»). Rispetto alla sua fonte, il testo ramusiano si mostra più sintetico, in quanto
+         omette il riferimento all’abbondanza di leoni nella provincia. Tale dettaglio viene
+         tralasciato anche in <ref type="witlink" target="#p-ii-58">P II 58 1</ref>, ma non ci sono altri elementi che ci autorizzino a ipotizzare un contatto tra R
+         e questa redazione, che risulta qui notevolmente abbreviata: «[…] ubi multi panni
+         fiunt de auro et serico, ubi etiam bladi et victualium copia est». Sembra invece più
+         ragionevole ascrivere all’effetto di una collazione con altre fonti – Z, o meno verosimilmente
+         L, P, V – l’ordine dei sintagmi nell’espressione «d’oro et di seda», di contro a «de
+         seta et oro» di VB: <ref type="witlink" target="#l-null-119">L 119 3-4</ref> «Et sunt mercatores et artiste, facientes pannos multos aureos et de serico: habent
+         enim de serico habundanter, et breviter sunt victualium omnium habundantes. Habent
+         venationes optimas; adsunt eciam hinc leones optimi»; <ref type="witlink" target="#v-null-70">V 70 8-9</ref> «Et viveno de marchadantie et arte; et àno seda in gran abondanzia, et fano drapi
+         d’oro e de seda e de tute maniere; ed è vituarie in gran abondanzia; et sono ubertoxa
+         patria, et chazaxon de molti oxelli.  Et fano bruxar i chorpi morti; et in quella
+         sono molti lioni; et sono molti marchadanti, dei qualli el <term ref="#gran-can">Gran Chan</term> àno granda intrada e trabuto»; <ref type="witlink" target="#z-null-78">Z 78 3-10</ref> «Habundantiam habent syrici. Faciunt insuper drappos aureos et de syrico. Habent
+         segetes et queque victualia habundanter. Patria quidem est valde fertilis. Habent
+         ibi aucupationes et venationes diversas. Comburunt funera mortuorum. Multi conversantur
+         in patria illa leones. Ibi sunt divites mercatores a quibus <term ref="#gran-can">Magnus Dominus</term> multum introitum percipit».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-33</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-i-33" n="1">
+    <head>
+      <hi rend="bold">R, I 33</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-i-33_1_1" n="1"> Della provincia di <term ref="#peym">Peym</term>, et delle pietre <term ref="#calcedonio">calcedonie</term> et <term ref="#diaspri">diaspri</term> che si trovano in un fiume; et della consuetudine che hanno di maritarsi di novo
+         ogni fiata che vogliono. Cap. 33.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-i-33_2_1" n="1"> <term ref="#peym">Peym</term> è una provincia la cui lunghezza è di cinque giornate tra levante et <term ref="#greco">greco</term>, le cui genti sono macomettane et soggette al <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-i-33_2_2" n="2"> Vi son molte città et castella, ma la piú nobile si chiama <term ref="#peym">Peym</term>; per quella discorre un fiume, nel qual si trovano molte pietre di <term ref="#calcedonio">calcedonii</term> et <term ref="#diaspri">diaspri</term>. </seg>
+      <seg xml:id="r-i-33_2_3" n="3"> Sono in questa provincia tutte le cose necessarie; ivi anchor nasce il <term ref="#bambagio">bambagio</term>. </seg>
+      <seg xml:id="r-i-33_2_4" n="4"> Gli huomini vivono d’arti et di mercantie, et hanno questo brutto costume, che se
+         la donna ha marito al qual accada andar ad altro luogo dove habbia a stare per venti
+         giorni, la donna, secondo la loro consuetudine, subito può torre un altro marito,
+         s’ella vuole; et gli huomini ovunque vadano similmente si maritano. </seg>
+      <seg xml:id="r-i-33_2_5" n="5"> Et tutte le provincie sopradette, cioè <term ref="#caschar">Caschar</term>, <term ref="#cotam">Cotam</term>, <term ref="#peym">Peym</term>, fino alla città di <term ref="#lop">Lop</term>, sono comprese nelli termini della <term ref="#gran-turchia">Gran Turchia</term>. </seg>
+      <seg xml:id="r-i-33_2_6" n="6"> Seguita della provincia <term ref="#ciarcian">Ciarcian</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

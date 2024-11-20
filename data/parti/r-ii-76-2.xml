@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-76-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-76">
+      <note>
+	<p>Prima della pericope 2, R omette sulla scorta di P alcune informazioni sulle professioni
+         praticate dagli abitanti di Fugiu, sulla loro religione e sulla loro sottomissione
+         al Gran Can, che figurano – in tutto o in parte – nelle altre fonti  (<ref type="witlink" target="#l-null-139">L 139 2</ref>, <ref type="witlink" target="#v-null-78">V 78 17</ref>, <ref type="witlink" target="#vb-null-121">VB CXXI 1-2</ref>, <ref type="witlink" target="#z-null-89">Z 89 2-3</ref>; vd. anche <ref type="witlink" target="#f-null-155">F CLV 2-3</ref>); inoltre R si attiene alla versione abbreviata di <ref type="witlink" target="#p-ii-69">P II 69 2</ref> «In hac urbe moratur exercitus <term ref="#gran-can">Magni Kaam</term> pro custodia patrie ut statim curere sit paratus si civitas aliqua presumeret rebellare»,
+         recuperando tuttavia l’aggettivo «grande» da un’altra fonte (forse V). Anche <ref type="witlink" target="#z-null-89">Z 89 4</ref> presenta un testo meno dettagliato delle altre versioni: «Ibi manent homines quam
+         plures pro armis: nam ibi permanent quam plures exercitus Magni <term ref="#gran-can">Can</term>, quia multe civitates et castra quam pluries rebelant». </p>
+	<p>V e VB riflettono in modo abbastanza fedele il testo di <ref type="witlink" target="#f-null-155">F CLV 3</ref> «[…] Il hi demorent grandisme quantité d’omes d’armes, car sachiés que hil hi demorent
+         plusor hostes dou Grant Chan, por ce qe por le païs maintes foies se revelent cité e chastiaus, e celz de l’ost
+         que demorent a ceste cité hi vont mantinant qu’il se revelent e la prenent et destruent;
+         e por cest achaisons hi demorent plusors hostes dou <term ref="#gran-can">Grant Kan</term> en cest cité»; <ref type="witlink" target="#v-null-78">V 78 18 </ref>«E llà stano pixor homeni d’arme; et in quel luogo sono uno gran exerzito del <term ref="#gran-can">Gran Chan</term>, perché molte zitade e chasteli pixor volte revela, et questo exerzito subito vano
+         a queste zitade e chasteli e sì li piglia e vastano: e per questa chaxon stano molti
+         exerziti per queste zitade»; <ref type="witlink" target="#vb-null-121">VB CXXI 3</ref> «In quella vi sta molta gente d’arme che ’l segnor ve tien per guardia della provincia;
+         et è ochorsso che, revellendo citade o chastello questa gente subito vano a ssechorsso
+         de quella e, reavendolla, ne fano grandissima punicione, alle fiade ruina‹n›do del
+         tuto la tera o depopullada segondo la condicion dila tera». L tralascia del tutto
+         questo passaggio.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

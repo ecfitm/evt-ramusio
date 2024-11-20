@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-50-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-50">
+      <note>
+	<p>La digressione sulla gazzella da muschio occupa in R i parr. 9-12 (corrisponde a <ref type="witlink" target="#f-null-71">F LXXI 10-14</ref> «Et en cest contree naist{i} le meillor mosce et le plus finz que soit au monde.
+         Et sachiés ke le mosche se trouve en ceste mainere qe je voç dirai. Sachiés tout voiramant
+         que il est une peitete beste de le grant d’one gaçelle, mes sa faison est tel: elle
+         a poil de cerf mol‹t› gros, les piés come gaçelle, corne ne a pas, coe a de gacelle,
+         mes elle a quatre dens, deus de sot et de ssovre qe sunt lonc bien trois doies et
+         sont soutil et vunt le deus en sus et les deus in jus. Elle est belle beste. Le moscee
+         se treuve en ceste mainere, car, quant l’en l’a prise, il li treuve eu belic enmi
+         sout le ventre, entre le cuir et la char, une posteume de sanc le qel l’en la trince
+         cum tout le cuir et l’an trait hors: et cel sanc est le moscee de coi vient si grant
+         odor. Et sachiés que en ceste contree en a grant quantité et si buen com je vos ai
+         contés»). Ramusio costruisce il testo giustapponendo Z e VB. </p>
+	<p>È sostanzialmente riconducibile a Z la sezione descrittiva dell’animale: ad es. il
+         segmento «et è una bestia picciola come una gazella, cioè della grandezza di una capra
+         […] et è bello animale da vedere» traduce alla lettera <ref type="witlink" target="#z-null-39">Z 39 14</ref> «Est etiam quedam bestia parva que magnitudinis est gaçelle, id est unius capree,
+         et est pulcrum animal ad videndum». Laddove manchi per lacuna la testimonianza toledana,
+         la dipendenza di R da Z è resa evidente dalla perfetta sovrapponibilità di R a F.</p>
+	<p>Il passo sulla caccia e sull’estrazione del muschio dal ventre della gazzella è invece
+         desunto pressoché per intero da VB, latore anche qui di informazioni inedite: secondo
+         VB, come nel passo sugli yak, sarebbe stato lo stesso Marco Polo a confermare <hi rend="italics">in rebus</hi> il proprio scritto, portando con sé a Venezia la testa e i piedi della gazzella (vd.
+         <ref type="witlink" target="#vb-null-60">VB LX 4-6</ref> «Et è bello animale a vedere: et portai miego qui in Veniexia la testa e i piedi
+         de uno de diti animali sechi et del muschio, e nel chapo del muschio pare ponte de
+         denti picoli. Nase el muschio in questo modo: che quando la luna è piena, a queste
+         bestie nel boligono naschono chome una postrema piena di sangue; e i chaçatori, nel
+         tondo dela luna, escono fuori a prender de diti animalli; et trage questa postrema
+         con la pella e quela i secha al solle: et de questa contrata è ’l più fin muschio
+         se trova. La charne di questo animale è molto buono da mangiare e pigliasene gran
+         quantitade»). Può trattarsi naturalmente di un espediente narrativo del redattore,
+         volto a conferire veridicità al racconto.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

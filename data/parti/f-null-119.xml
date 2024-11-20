@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-119</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-119">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXIX</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-119_1_1" n="1"> Ci devise de la grant provence de <term ref="#cardandan">Çardandan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-119_2_1" n="1"> Quant l’en s’en part de <term ref="#carazan">Carajan</term>, il ala por ponent |54c| .V. jornee, adonch treuve l’en une provence qe s’apelle
+         <term ref="#cardandan">Çardandan</term>, qe sunt <term ref="#idolatri">ydres</term> et sunt au Grant Chan. </seg>
+      <seg xml:id="f-null-119_2_2" n="2"> La mestre cité de ceste provence est apellé <term ref="#vociam">Vocian</term>. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-119_3_1" n="1"> Les jens ont tous les dens d’or, ce est qe chascun dens est covert d’or, car il
+         font une forme d’or faite a la mainere de seç dens et couvrent les dens desout come
+         celz desovre; et ce font les homes et nen les dames. </seg>
+      <seg xml:id="f-null-119_3_2" n="2"> Et les homes sunt tuit chevalers,
+         selonc lor usance, et ne font rien for qe aler en host et aler chaçant et oselant.
+         </seg>
+      <seg xml:id="f-null-119_3_3" n="3"> Les dames font toutes chouses, et les autres honmes, qu’il ont pris et conquisté,
+         qu’il tienent por esclaif; et cesti funt toutes lor beinçoingnes con lor femes. </seg>
+      <seg xml:id="f-null-119_3_4" n="4">
+         Et quant les dames ont enfantés et ont fait fil, il li lavent et envolupent en dras,
+         et le baron a la dame entre eu lit et tient l’enfant aveqes lui, et jut eu lit .XL.
+         jors, qe ne s’en lieve for por necesite beiçoigne. </seg>
+      <seg xml:id="f-null-119_3_5" n="5"> Et tous les amis et parens
+         le vienent veoir et demorent con lui et li font joie et seulas. [9] Et ce font il
+         por ce qu’il dient qe sa feme a duré grant fatie en porter l’enfant en son ventre,
+         et por ce dien il qu’il ne velent qe endure plus en cel terme de .XL. jor. [10] Et
+         sa feme, tant tost qe a enfanté son fil, elle lieve do lit et fait tute la beçogne
+         de la maison et serve son baron eu lit. [11] El menuent de toutes chars et cuite et
+         crue; el men‹j›uent ris cot con chars et cum autre cousse selonc lor usance. Il boi|54d|vent
+         vin, qu’il font de ris et con bones espices, qe mout est buen. </seg>
+    </p>
+    <p n="4"/>
+    <p n="5"/>
+    <p n="6"/>
+    <p n="7"/>
+  </div>
+</body>
+</text>
+     </TEI>

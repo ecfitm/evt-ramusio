@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-47-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-47">
+      <note>
+	<p>R presenta qui un <hi rend="italics">ajout</hi> sul numero – esorbitante, probabilmente erroneo (vd. pure i dubbi di Yule, Cordier,
+         1929, I, p. 264) – di cavalli a disposizione di ciascun guerriero tartaro, incastonandolo
+         tra un riferimento al consumo di latte e l’informazione sui recipienti per la cottura
+         delle carni, che invece si riallacciano, pur vagamente, al testo di tradizione (<ref type="witlink" target="#f-null-69">F LXIX 18</ref> «[…] il portent deus botaces de cuir, la u il metent <hi rend="italics">lor lait qu’il boivent</hi>, et portent <hi rend="italics">une petite pignate</hi>, ce est baratere, <hi rend="italics">la ou il cuirent lor carç</hi> […]»).</p>
+	<p>In questo stesso luogo del testo, L e V sono accomunati da un <hi rend="italics">addendum</hi> (irrelato nella tradizione e diverso da quello di R) che ne sancisce una volta di
+         più il loro stretto legame: vd. <ref type="witlink" target="#v-null-36">V 36 22</ref> «[…] et quando li trova qualche animal, eli lo alzide e tuol lo ventre, et sì lo
+         voda e puo’ lo inpi de aqua, e tuol la charne che li vol chuxinar e taiala in pezi,
+         e mete dentro ’sto ventre chussì pien d’aqua, et poi lo ’l mete suxo el fuogo e lassa
+         chuxinar; e chota che la sono, manza la charne chon tuto el lavezo»; <ref type="witlink" target="#l-null-60">L 60 21</ref> «[…] (quod si hac carerent, in ventribus animalium aqua plenis quemadmodum in lebetibus
+         carnes coquunt, ipsasque simul et lebetes commedunt) […]».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

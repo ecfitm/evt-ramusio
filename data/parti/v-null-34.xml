@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-34</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-34">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 34 </hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-34_2_1" n="1"> ‹P›artendosse dela zità de <term ref="#campion">Chapion</term> el se chavalcha dodexe zornade, et in chavo de queste dodexe zornade el se trova
+         una zitade la quale sono chiamata <term ref="#ezina">Azian</term>, ed è a chavo del deserto dela rena deverso tramontana, e dela provinzia de <term ref="#tanguth">Tangut</term>. </seg>
+      <seg xml:id="v-null-34_2_2" n="2"> La zente de quela <term ref="#idolatri">adora le idole</term>. </seg>
+      <seg xml:id="v-null-34_2_3" n="3"> Et nasse in quela asà ganbeli, et altri bestiami et molti falchoni; et sono
+         abondanzia de molti fruti e de anemali. </seg>
+      <seg xml:id="v-null-34_2_4" n="4"> Et in questa non sono omeni marchadanti,
+         et vieno molti marchadanti lutani et fornisse questa de tute vituarie; et sono ben
+         quaranta zornade lutan, ed è uno gran dexerto, sì che ognuno se chonvien fornir a
+         questa zitade. </seg>
+      <seg xml:id="v-null-34_2_5" n="5"> E partandosse da ’sta zitade el se chavalcha per tramontana per
+         uno dexerto ben quaranta zornade che non se trova abitazion alguna, et molte zente
+         stano per li monti e vale; et trovasse de molte aque nele qual sono molti pesi e luzi,
+         e molte bestie salvadege. </seg>
+      <seg xml:id="v-null-34_2_6" n="6"> Et essendo passado questo dexerto el se trova una provinzia
+         nela qual sono una zitade chiamata <term ref="#caracoran">Charachoron</term> la qual volta tre amia, et in questa fo la prima seza che avesse <term ref="#tartari">Tartari</term>; et quando lor insì de questa tera tuti li zitadini andò al palazo là che stava el
+         signor e quelo tene. </seg>
+      <seg xml:id="v-null-34_2_7" n="7"> Or io vi voio dir chomo li <term ref="#tartari">Tartari</term> andò despersi per lo mondo e possa ave signor. </seg>
+      <seg xml:id="v-null-34_2_8" n="8"> Al chomenzamento li <term ref="#tartari">Tartari</term> stava in tramontana et in *<term ref="#zorzania">Zorzania</term>, et in queli luogi erano grandissime pianure e boni pascholi per anemali et de grandinissimi
+         flumi de bone aque; et chostoro non avea alguna signoria sovra chavo, ma dava per
+         sua spontanea volontade trabuto al <term ref="#prete-gianni">Prete | Zane</term>,  |33v| el qual in so lengua sono chiamato <term ref="#umcan">On Chan</term>, che tanto vien a dir chomo “el <term ref="#gran-can">Gran Signor</term>”; et questo sono quel <term ref="#prete-gianni">Prete Zane</term> che tuto el mondo parla, et questi <term ref="#tartari">Tartari</term> dava a questo per suo’ trabuto la dezima parte de tuti i suo’ anemali. [9] Or advene
+         che li <term ref="#tartari">Tartari</term> multiplichò in gran quantitade, et questo vedendo el <term ref="#prete-gianni">Prete Zane</term> si pensò de doverli sotometer al suo’ dimino et mandòli una inbasaria, digando che
+         per bontade i se dovesse sotometer ala so signoria, e, non voiando questo far, lo
+         i farà sotometer a so chosto et al suo’ dispeto. [10] Di che abiando li <term ref="#tartari">Tartari</term> aldido questo, ebe grandissima melinchonia e partìsse de quel luogo, et andò per
+         luogi deserti inverso tramontana molto lutani dal <term ref="#prete-gianni">Prete Zane</term>, ch’elo non li podeva nuoxer, et fono suo’ rebeli, et molto tempo non li volse dar
+         el suo’ trabuto.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

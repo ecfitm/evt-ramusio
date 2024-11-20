@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-36-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>R segue Z 53 14 sia per la sostanza testuale, sia per l’organizzazione delle informazioni: «Iuxta
+         ista flumina et per circumstantias, multe sunt civitates et castra; et in ipsis fluminibus
+         navigia multa, in quibus ad predictas civitates multa mercimonia feruntur et referuntur».
+         Nella maggior parte delle altre fonti, come anche in F, le informazioni sul commercio
+         fluviale sono un po’ più ampie: <ref type="witlink" target="#l-null-93">L 93 3</ref> «[…] et sunt super ipso valde multe et magne civitates et castra» / <ref type="witlink" target="#l-null-93">L 93 5</ref> «Per hoc enim flumen ducitur et portatur innumerabilis multitudo mercimoniorum, quare
+         in ipso est tanta multitudo navium quod mirabile est. Videtur enim potius mare quam
+         flumen, tante latitudinis est»; <ref type="witlink" target="#p-ii-35">P II 35 4-5</ref> «Super fluvium illum multe civitates et oppida sunt […] Navium autem et mercacionum
+         transsit per eum innumera multitudo, adeo ut vix credi narrantibus queat nisi homo
+         proprio ea cernat intuitu»; V 55 5-6 «Et sovra questo flume sono molte zitade e chastelli. Et là sono gran moltitudine
+         de nave, le qualle porta uno mirabel chargo de marchadantia; et per quel flume sono
+         tanta moltitudine de marchadanti che alguno no ’l poria chreder se i non vedesse»
+         (<ref type="witlink" target="#f-null-113">F CXIII 8-10</ref> «Il h‹i› a sor ceste flum grandismes quantités de cité et de castiaus. Il hi a si
+         grant naives, ce est si grant moutitude, qe ne est cor d’omes ne iaus qe ne le veises
+         qe peust croire. Il est si grant la moutitude et la grant abundance de les grant mercandie
+         que les mercaant portent sus et jus por cest flum qe ne est homes au monde qe ne le
+         veisse qe le peust croir»). Il testo viene abbreviato solo in <ref type="witlink" target="#vb-null-80">VB LXXX 4</ref> «E su per dito fiume è de molte e belle citade; et navega molti navilii grose […]
+         e choreno marchadantie assai e per le rive e grandissime et allte montagne». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

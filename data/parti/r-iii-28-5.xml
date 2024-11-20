@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-28-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-28">
+      <note>
+	<p>Il modello di Ramusio è, evidentemente, P III 34 5 «Faciunt autem in mari marinas scalas ne naves transeuntium manus eorum possint effugere.
+         Scale vero marine fiunt hoc modo: per transversum maris regionis illius navis una
+         pirratarum elongatur ab alia per miliaria quinque, ita quod .XX. naves centum miliaria
+         de maris spacio capiunt; cum autem pirrate unius navis vident navem aliquam transeuntem,
+         cum igne et fumo aliis suis collateralibus annuunt et illi similiter reliquis collateralibus
+         faciunt et sic concurrunt quot necessarii sunt et depredantur cuncta que reperiuntur
+         in navibus atque in hunc modum nullus eorum manus potest evadere». Pipino rielaborò
+         un testo che, nel relatore quattrocentesco (VA3), conserva nella maggior brevità la frase ipotetica sull’armamento delle navi: «I
+         fano schiere in mar, e lutana-sse una nave dal’altra ben zinque meglis, sì che vinti
+         nave tien ben zento mia. E quando alguno de queli legni vedeno alchuna nave, i se
+         fa segnio de fuogo l’un al’altro, sì che puoche nave schanpano s’ele nonn è ben armade
+         e ben achonpagniade» – dettaglio, quello dell’armamento, che si ritrova nel più articolato
+         resoconto del modello  franco-veneto, F CLXXXII 4-6 «E si sachiés qe les plusors de cestes nes de cesti mauveis corsaus se partent or
+         ça or la por atendre e trover les nes des mercant. Et encore font autre mauvestié:
+         car il font eschiele ’n la mer, ce est a dire qu’il s’esloingne ‹…› de le autre entor
+         de .V. miles, et ensi se partent le une jouste l’autre .XX. nes si qe .C. miles tienent
+         de mer e, tantost qe il voient aucune nes de mercaant, il font luminarie de feu le
+         une a l’autre; et en ceste maineres ne poent aler nule nes por cel mer q’il ne la
+         v‹oi›ent. Mes les mercant, que bien sevent la mainere de celz mauveis corsaus e qe
+         bien sevent qu’il le doient trover, il von si bien forni et si bien aparoillés qe
+         il ne ont doutance d’elz puis qe il ‹les› treuvent, car il se defendent ardiemant
+         e font elz grant domajes. E bien est voir ne puest estre qe il n’en prennent aucune».
+         La traduzione di <ref type="witlink" target="#z-null-116">Z 116 6-11</ref> contiene le stesse informazioni: «Et maior pars navium istorum piratarum se dividunt
+         in multas partes causa atingendi et inveniendi naves quaslibet transeuntium mercatorum.
+         Talem quidem habent cautelam: nam ordinant acies in mari, videlicet quod una navis
+         ab alia prolongatur per quinque miliaria, et ita se dividunt naves una iuxta aliam
+         ita quod viginti naves ocupant miliaria .C°. in mari. Et statim cum vident navem aliquam
+         mercatorum, unus alteri lumen facit. Isto quidem modo nulla navis navigare potest
+         per mare quam statim non videant. Sed mercatores, qui cognoscunt nequitia istorum
+         piratarum et bene sciunt quod debent ipsos invenire, vadunt tam bene muniti et preparati
+         quod de ipsis non timent, posito quod inveniantur ab ipsis: nam se audacter defendunt,
+         dampnum ipsis piratis quam pluries inferendo. Verumtamen non potest esse quod aliquam
+         non capiant». Molto simile anche V 99 3-6: «[…] e la mazor parte de queste nave fano gran dano ai marchadanti. Et questi robadori
+         vano in molte parte per chaxon de zonzer le nave de marchadantie. Et fano anchora
+         un’altra mal uxanza: che i ordena le schiere in mar, zo‹è› che una nave se perlonga
+         dal’altra et sono zinque per schiera; et chussì divideno le nave per tal muodo, che
+         vinti nave ochupano zento mia, et quando i vedeno alguna nave de marchadantie le se
+         fano luminaria l’una al’altra, et a questo muodo nesuna nave non puol andar per mar
+         che la non sia vezuda. Ma i marchadanti, che sano la nequizia de chostoro, vano sì
+         ben in ponto che de lor non temeno alguna chosa, chon zo sia che i se defendono da
+         loro, bench’el non puol essere che qualche una non siano prexa; et quando questi robadori
+         píano qualche nave de merchadanti li tuol le nave e tuta la marchadantia […]». Abbreviato
+         (al limite dell’incomprensibilità) VB CLII 6 «Fano schalla in mar, e lligase tute .C. nave la note insieme e fano da una all’altra
+         la note perché molti navili i prendeno; e per tal chaxon i marchadanti vano sì posenti
+         che i prendeno di corsari». Su L 169 2 vedi la nota a <ref type="witlink" target="#r-iii-28">R III 28 3</ref>.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

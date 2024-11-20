@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-35</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-35">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XXXV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-35_1_1" n="1"> Ci devise de la cité de <term ref="#camandu">Comadi</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-35_2_1" n="1"> Et quant l’en ha descendu celle deus jorné que je voç ai dit, adonc treve une
+         grandisme plaingne et ao començamant de cel plain a une cité, qe est apelés <term ref="#camandu">Camandi</term>, que jadis fu grant cité et noble a mervoille, mes orendroit ne est pas si grant
+         ne si bone, car <term ref="#tartari">Tartarç</term> d’autre païs la ont domajés plusor foies. </seg>
+      <seg xml:id="f-null-35_2_2" n="2"> Et voç di qu’il est ‹en› celle plaingne
+         mout chaut. </seg>
+      <seg xml:id="f-null-35_2_3" n="3"> Et la proense de coi nos comi‹n›son hore est apellé <term ref="#reobarle">Reobar</term>. </seg>
+      <seg xml:id="f-null-35_2_4" n="4"> Les sien fruit sunt datarl et pome de paraïse et pistac et autres fruit les
+         quelz ne sunt en nostre leu froit. </seg>
+      <seg xml:id="f-null-35_2_5" n="5"> Et en ceste plaingn a une generasion d’oisiaus
+         que l’en apelle francolin, que sunt devissé a les autres francolin des autres païs,
+         car il sunt noir et blance mesleemant, et les piés et les bech{o} ont rouges. </seg>
+      <seg xml:id="f-null-35_2_6" n="6">
+         Les bestes sunt aussi divisee, et voç dirai des bué primeramant. </seg>
+      <seg xml:id="f-null-35_2_7" n="7"> Les buef sunt
+         grandismes et sunt tuit blance come nois; le poi‹l› il ont peitet et |16a| plain,
+         et ce avient por le caut leu; il ont les cornes cortes et groses et non agues; entre
+         les spaules ont un çinb reont haut bien deus paumes: il sunt la plus belle chause
+         dou monde a veoir. Et quant l’en le vuelt chargier, il se coucent ausint con font
+         les giamiaus; et quant l’en le a chargés, il se levent et portent lor chargies mout
+         bien, car il sunt forte outre meçure. [9] Il ha mouton grant com asne; et ont la coe
+         si grosse et si large que bien poisse trente livres; il sunt mout biaus et gras et
+         sunt buen a manger. [10] En ceste plaingne a plusor castiaus et viles que unt les
+         mur de tere hautes et groses por defendre{s} elç des <term ref="#caraunas">Caraunas</term>, ce sunt berovierç que vont corant les païs. [11] Et por coi s’apellent <term ref="#caraunas">Caraonas</term>? Po‹r› ce ke lor mere sunt esté indiene et lor pere tartarç. [12] Et cest gens quant
+         il vuelent corer les païs et rober, il font por lor encantemant, pour evre diablotique,
+         tout le jor devenir oscur, si que l’en ne voit loingne se pou non, e ceste oscurité
+         font durer .VII. jornee a lonc. [13] Il sevent mout bien les païs. Il chevauchent,
+         quant il ont faite la scurité, le un dejoste l’autre; et sunt bien |16b| .Xm. tel fois, et telz fois plus, et tel foiz moin, si qu’il prennent tout le plan dont
+         il vuelent rober, si que tuit celz que il trovent en les plennes ne poent excanper,
+         ne homes ne bestes ne couses, qu’il n’estoient prises. [14] Et puis qu’il ont pris
+         les homes, il occient tuit les velz, et les jeunes enmoinent et les vendent pour sers
+         et pour esclaif. [15] Le{s} lor roi est apellés <term ref="#nugodar">Nogodar</term>. E cestui <term ref="#nugodar">Nogodar</term> ala ‹a la› cort de <term ref="#zagathai">Ciagati</term>, qui estoit frere charnaus au <term ref="#gran-can">Grant Can</term>, bien cun .Xm. homes de sa jens, et demoroit o lui por ce que sen oncle estoit et mout grant sire;
+         et atant qu’il demoroit ho lui, <term ref="#nugodar">Nogodar</term> se pense et fist grant felonie, e voç dirai comant. [16] Il se parti da son uncle
+         <term ref="#zagathai">Ciagatai</term>, ke en la <term ref="#armenia">Grant Arminie</term> estoit, et s’enfui bien cun .Xm. de se gens, qe mout estoient cruelz et fellonç, et s’en passe por <term ref="#balaxiam">Badasian</term> et por une provence que s’apelle <term ref="#bascia">Pasciai</term> et por un’autre provence ‹que› a a nom <term ref="#chesmur">Chesciemur</term>, et el l’an perdi maintes des ses jens et de ses bestes, por ce ke les voies estoient
+         estroites et mauveises. [17] Et quant il unt toutes cestes provences passé, il entrent
+         en <term ref="#india">Yndie</term>, en lo confin a une provence qui est apellés Dilivar; il pristent une noble cité
+         que a a nom <term ref="#dely">Dili Dilivar</term>. [18] Et demore en cele cité et pri le |16c| regne qu’il tolli a un roi, que avoit
+         a nom <term ref="#asidin-soldano">Asidin Soldan</term>, que mout estoit grant et riche. [19] Et iluec demore <term ref="#nugodar">Nugodar</term> cun seç jens, et no a doutre de nelui; il fait ghere a tous les autres <term ref="#tartari">Tartarç</term> que environ son reingne demorent. </seg>
+    </p>
+    <p n="3"/>
+  </div>
+</body>
+</text>
+     </TEI>

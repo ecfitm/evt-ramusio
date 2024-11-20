@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-48</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-48">
+    <head>
+      <hi rend="bold">P, I 48</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-48_2_1" n="1"> Quando vero, relicta provincia <term ref="#chinchintalas">Chinchintalas</term>, itur ad orientem per dietas .X. continuas, nulla habitacio |23a| reperitur nisi
+         in paucis locis, quibus transactis, invenitur provincia <term ref="#succuir">Succuir</term>. </seg>
+      <seg xml:id="p-i-48_2_2" n="2"> In hac provincia sunt christiani quidam, reliqui vero provincie incole ydolatre
+         sunt et subiecti <term ref="#gran-can">Magno Kaam</term>. </seg>
+      <seg xml:id="p-i-48_2_3" n="3"> Negociatores non sunt, sed de fructibus terre vivunt: in cunctis montibus huius
+         provincie invenitur <term ref="#rheubarbaro">reobarbarum</term> in copia maxima, et inde per mercatores defertur ad ceteras mundi partes.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

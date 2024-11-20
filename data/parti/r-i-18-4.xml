@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-18-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-18">
+      <note>
+	<p>La digressione sulla fenomenologia carsica di alcuni corsi d’acqua del deserto iraniano
+         è un tratto originale di R forse desunto da Z1 (impossibile, tuttavia, verificarlo sul toledano, il cui testo si interrompe appena
+         prima). Nessun cenno alla presenza di risorse idriche di questo tipo, né alla possibilità
+         di trarne beneficio, compare nella restante tradizione, che riferisce di sette giornate
+         di cammino inesorabilmente inospitale. Cfr. <ref type="witlink" target="#f-null-37">F XXXVII 7</ref> («A chief de trois jornee, trovon un autre leu que dure quatro jornee, que ausint
+         est deçert toute seche et l’eive est ausi amer; et ne est arbres ne bestes, for che
+         asne solemant»), <ref type="witlink" target="#l-null-32">L 32 2</ref> («Ultra hoc desertum invenitur aliud dietarum quatuor, ubi similiter est ariditas,
+         et aque amare, et non invenitur animal aliquod nisi forte asini silvestres solummodo»),
+         <ref type="witlink" target="#p-i-25">P I 25 3</ref> («Nulla in deserto hominum habitacio est, nec etiam ferarum agrestium, nisi solummodo
+         onagrorum propter cibi potusque defectum»), <ref type="witlink" target="#v-null-20">V 20 39</ref> («Et in chavo de queste tre zornade sono luogi molti sechi e aredi et in alguni luogi
+         se trova aqua, ma la sono molto amara; et non sono albori né bestie, se no hoxeli
+         salvadegi»), <ref type="witlink" target="#vb-null-23">VB XXIII 6</ref> (con le consuete, prolisse fioriture: «Et alla fin de queste .III. giornate se trova
+         un pocho de abitado ma pasado questa pocha abitaciun per alltre .IIII. giornate, non
+         si trova abitaciun alchuna per esser arido chome nelle sopra .III. giornate; ma pur
+         in qualche luogo vi si trova dei axeni salvatichi»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

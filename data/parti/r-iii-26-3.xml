@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-26-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-26">
+      <note>
+	<p><ref type="witlink" target="#p-iii-32">P III 32 2</ref> «[…] ibi sunt catti qui dicuntur pauli, valde diversis ab aliis; ibi sunt leones,
+         leontie, leopardi in copia maxima» traduce VA CXLII 4 «[…] el g’è chati paosani molto stranii; el ge n’è lioni e lionpardi e onze assai».
+         Gli altri relatori (a partire da F CLXXX 3 «Il hi a gat paul si deviséç qe ce estoit mervoille. Lions, liopars, lonces ont en
+         abondance») offrono le stesse informazioni: L 167 3 «Sunt eciam gatti de palude ‹mirabiliter extranei›, et leones, leopardi ‹et lonces›
+         in habundantia multa», VB CL 4 «[…] àno gati pavoli molto diversi; àno lioni, lionpardi, leonçe de molte maniere
+         in gran quantità»; solo Z 114 5-6 presenta un dettaglio difforme (che segnalo in corsivo): «Et sunt ibi <hi rend="italics">gati mamones</hi> tam diversi ab aliis quod mirabile est. Leones, leopardos habent multos et lonças»
+         – da Z Ramusio deve aver recuperato la tarsia dei «gatti maimoni».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

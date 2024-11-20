@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-57-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-57">
+      <note>
+	<p>R riproduce con minime varianti formali <ref type="witlink" target="#vb-null-103">VB CIII 5-6</ref> «Viveno de marchadantie e mestieri. Àno sede e fano pani de seta et oro in quantittà
+         et è abondante de tute vituarie da viver» (sostanzialmente coincidente con <ref type="witlink" target="#f-null-140">F CXL 3</ref> «[…] Il vivent de mercandies et d’ars; soie ont en grant abundance, dras de soie
+         et dorés de maintes faisonz hi se font asez. Des chouses de vivre ont a grant plantee»).
+         Non ci sono motivi per credere che Ramusio abbia collazionato VB con altri esemplari:
+         vd. <ref type="witlink" target="#l-null-115">L 115 3</ref> «Et sunt mercatores et artiste: faciunt enim pannos aureos et de serico diversarum
+         manerierum. Habent enim sericum in habundantia multa et victualia multa»; <ref type="witlink" target="#p-ii-56">P II 56 1</ref> «[…] ubi mercaciones maxime fiunt et est ibi serici ac victualium copia maxima»;
+         <ref type="witlink" target="#v-null-68">V 68 5</ref> «[…] e viveno de marchadantie et arte; et àno sede in quantitade, et fasse in quel
+         luogo molti drapi d’oro e de seda e de altre maniere; e àno vituarie in granda abondanzia»;
+         <ref type="witlink" target="#z-null-74">Z 74 6-9</ref> «Gentes vivunt de mercimoniis et artibus. Habent habunda‹n›tiam syrici. Fiunt etiam
+         ibi drappi aurei et de syrico, et de multis aliis maneriebus. Victualia habent copioxa».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

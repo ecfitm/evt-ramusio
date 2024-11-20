@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-33</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-33">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 33</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-33_2_1" n="1"> <term ref="#cobinam">Cobinam</term> est magna civitas, cuius gentes adorant Machomet. </seg>
+      <seg xml:id="l-null-33_2_2" n="2"> Et habent ferrum et calibem andanicum in quantitate multa; et ibi fiunt specula
+         ex calibe pulcherrima et magna. </seg>
+      <seg xml:id="l-null-33_2_3" n="3"> Et hic similiter fit thutia et spodium hoc modo:
+         sumunt qua‹n›dam venam terre ad hoc aptam, quam ponunt in fornace ardenti, et superius
+         in fornace sunt craticule ferree. Fumus vero et humiditas que ex dicta terra virtute
+         ignis eleva‹n›tur et craticulis adhere‹n›t, est thutia; quod vero in fundo fornacis
+         combustum remanet, spodium dicitur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

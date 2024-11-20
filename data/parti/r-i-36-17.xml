@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-36-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-36">
+      <note>
+	<p>Usuale segmento di raccordo, caduto in tutte le fonti di R – o quantomeno nelle loro
+         copie superstiti – tranne che in <ref type="witlink" target="#l-null-52">L 52 14</ref> «Dicemus amodo de aliis civitatibus que sunt versus maistrum, prope caput huius deserti»,
+         del tutto prossimo a <ref type="witlink" target="#f-null-57">F LVII 23</ref> «Or voç laison de ceste matiere et voç parleron d’autre cité que sunt ver maistre,
+         joste le chief de cest deçert».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

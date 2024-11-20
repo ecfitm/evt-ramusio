@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-18">
+    <head>
+      <hi rend="bold">P, I 18</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-18_2_1" n="1"> In illis regionibus inter <term ref="#thauris">Thaurisium</term> et <term ref="#baldach">Baldachum</term>, mons est qui olim de loco suo ad locum alium est translatus virtute divina. </seg>
+      <seg xml:id="p-i-18_2_2" n="2">
+         Volebant enim Saraceni Christi Euvangelium vanum ostendere pro eo quod Dominus ait:
+         «Si habueritis fidem sicut granum sinapis dicetis huic monti transi hinc, et transibit,
+         et nichil impossibile erit vobis». Dixerunt ergo christianis qui sub eorum dominio
+         in partibus illis habitabant: «Aut in Christi nomine montem istuc trasferte, aut omnes
+         ad <term ref="#macometto">Machometum</term> convertimini, aut omnes peribitis gladio». Tunc devotus quidam vir christianus, confortans
+         se oracione fideliter ad dominum Iesum Christum, montem illum, vidente multitudine
+         populorum, transtulit |10b| ad designatum locum, propter quod multi ex Saracenis ad
+         Christum conversi sunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

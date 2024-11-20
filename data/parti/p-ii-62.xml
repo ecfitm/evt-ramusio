@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-62</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-62">
+    <head>
+      <hi rend="bold">P, II 62</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-62_2_1" n="1"> Post recessum vero a civitate <term ref="#cinghianfu">Cingianfu</term> itur per dietas .III. per syrochum et per viam inveniuntur civitates et oppida magnarum
+         mercacionum et artium. </seg>
+      <seg xml:id="p-ii-62_2_2" n="2"> Ulterius autem ad dietas tres est civitas Tinghinguy nobilis valde et grandis, ubi est victualium omnium habundancia magna. </seg>
+      <seg xml:id="p-ii-62_2_3" n="3"> Quando
+         <term ref="#chinsanbaian">Baian</term> princeps exercitus <term ref="#gran-can">Magni Kaam</term> ‹mittebat exercitus suos ad debellandum et subiugandum civitates <term ref="#mangi">Mangi</term>› |64c| misit ad civitatem istam <term ref="#tinguigui">Tinghingui</term> christianos multos qui dicebantur Alani. </seg>
+      <seg xml:id="p-ii-62_2_4" n="4"> Cum autem civitatem fortissime impugnarent,
+         hii qui in civitate erant, impugnancium virtute devicti, civitatem eis libere tradiderunt;
+         cunctus igitur exercitus pacifice ingressus est civitatem, neminem offendens ulterius,
+         ex quo ad <term ref="#gran-can">Magni Kaam</term> libere venire decreverunt mandata. </seg>
+      <seg xml:id="p-ii-62_2_5" n="5"> Invenerunt igitur prefati Alani, qui devicerant
+         civitatem, vinum ibi optimum in copia magna, de quo tam copiose biberunt quod omnes
+         inebriati sunt, sero autem vino gravati tanto sunt sumpno oppressi quod dormierunt
+         in simul omnes, et nullam fecerunt in civitate custodiam. </seg>
+      <seg xml:id="p-ii-62_2_6" n="6"> Quod videntes cives
+         qui illos cum pace susceperant, irruerunt omnes in illos dormientes et totaliter occiderunt,
+         ita ut nullus omnino ex illis evaderet. </seg>
+      <seg xml:id="p-ii-62_2_7" n="7"> <term ref="#chinsanbaian">Ba|ian</term> |64d| vero, hec audiens, misit contra eos exercitum maximum et civitate per violentiam
+         capta precepit ut cives omnes in vindictam prodicionis et infidelitatis illius gladiis
+         necarentur; quod ita, ut iusserat, factum est.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

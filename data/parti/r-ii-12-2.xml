@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-12-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-12">
+      <note>
+	<p>Vari indizi suggeriscono che la fonte perduta su cui si fonda questo passo presentasse
+         un testo molto vicino a: <ref type="witlink" target="#f-null-88">F LXXXVIII 5-6</ref> «Et en cestui jor, toutes les jens et toutes les provences [R «tutte le genti, provincie»]
+         et regionz, et reingnes qe de lui tenent teres et seingneuries, li aportent grandismes
+         present d’or et d’argent et de perles et des pieres presieuses et de maint riches
+         dras blances [R «et molti drappi bianchi»]; et ce font il por ce qe tout le an ait
+         lor seingnor treçors asseç et que ait joie et leese. Et encore voç di qe les baronz
+         et les chevalers et tous les pueples [R «i baroni, principi et cavalieri et popoli»]
+         se presentent les uns a les autres couses blances [R «si presentano l’un l’altro cose
+         bianche»], et s’acolent et se font joie et feste [R «et festa»]; et ce funt il [R
+         «et ciò fanno»] por ce qe tout l’an prennent lor bien et que aient bone aventure».
+         Parallelamente, R presenta anche una serie di affinità con <ref type="witlink" target="#v-null-43">V 43 8</ref> «Et in questo dì tute le zente dele provinzie e reami [R «provincie et regni»] e
+         tuti quelli che tieno tere e signorie li duxeno de gran doni d’oro e d’arzento, e
+         perle, e zoie prezioxe, e de molto drapo biancho; et questo fali azò che ’l <term ref="#gran-can">Signor</term> abia tuto l’ano asè texoro a sufizienzia [R «thesoro a sufficienza»], et abia alegreza
+         et gaudio [R «thesoro a sufficienza»]; et per lo simel li zentilomeni, li chamerieri,
+         et tuto el suo’ populo in quelo zorno uno e l’altro se abraza insenbre et fasse gran
+         gaudio et alegreza, azò che tuto l’ano li vegna ben». La frase «dicendosi l’un l’altro
+         […] farete» è quasi sicuramente un’interpolazione ramusiana.</p>
+	<p>Non c’è ragione di credere che l’editore abbia fatto ricorso in questo punto anche
+         alla testimonianza di <ref type="witlink" target="#l-null-73">L 73 2-3</ref> «Et hac die omnes gentes, scilicet reges principes et barones, quicumque tenent terras
+         a <term ref="#gran-can">Magno Cane </term>similiter et omnes provincie, ex auro ei et argento, lapidibus, margaritis nobilibus,
+         eciam pannis albis munera solempnia donant, enuntiantes ex hoc domino per totum annum
+         grata succedere. Simile eciam fit per universas gentes, quilibet enim sibi invicem
+         alba ‹aliqua› donant», o di<ref type="witlink" target="#p-ii-15"> P II 15 2-3</ref> «Hac die cuncti terrarum domini et rectores qui prefecturas tenent a rege, offerunt
+         ei munera auri et argenti et margaritas et gemmas vel pannos pulcherimos albi coloris
+         […] Similiter etiam ceteri <term ref="#tartari">Tartari</term> hac die sibi invicem dona  transmittunt, et multum letantur ad invicem ut ex hoc
+         ipso anno postmodum leti vivant».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

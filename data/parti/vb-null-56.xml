@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-56</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-56">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LVI</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="vb-null-56_2_1" n="1"> Nel tenpo del’inverno tuti abitano nela pianura, per le cha‹n›pagne, per i lluogi
+         più chaldi dove i trovano l’erbe per suo’ animalli; e l’instate abitano nele valure
+         e nelle montagne. </seg>
+      <seg xml:id="vb-null-56_2_2" n="2"> Et ànno le suo’ chaxe de legname choverte de tavole, le qual
+         chaxe senpre i portano con loro dove i vano et tanto sono bene ligate et chonposte
+         che lievemente i portano quelle dove gli piaquono. </seg>
+      <seg xml:id="vb-null-56_2_3" n="3"> E senpre che i dreçano suo’
+         chaxe i meteno la porta verso meçodì et àno le suo’ charete choperte di felltro la
+         qual la pioça mai non passano; e ssono tirate per ganbelli; e sopra dete charete portano
+         i lloro moglie et fiolli e soe arnixe. </seg>
+      <seg xml:id="vb-null-56_2_4" n="4"> Le moglie loro sono quele che conprano
+         et vendono e quelle àno cura dela chaxa et a tute chosse pro|vedon [241v] nele fachultà
+         e besogni dela famiglia. </seg>
+      <seg xml:id="vb-null-56_2_5" n="5"> I mariti sollo atendeno ad armiçare, osellare et chaçare
+         et in questo molto i se diletano. </seg>
+      <seg xml:id="vb-null-56_2_6" n="6"> Ànno falconi di boni del mondo e simelle chani.
+         </seg>
+      <seg xml:id="vb-null-56_2_7" n="7"> Mangiano charne di chavallo et de chani (pur siano grasi) et sorçi de faraon di
+         qual ne àno gran quantità, charne de ogni salvadesina che nele suo’ paisse i pigliano
+         et quaxi ogni charne; beveno late de ganbelli et çumente. </seg>
+      <seg xml:id="vb-null-56_2_8" n="8"> Le done loro sono le
+         più oneste done del mondo et quelle più amano i lloro mariti, né troveriasse done
+         fesse fallo né i homeni per chossa del mondo staria con alltra femina che con la moglie;
+         e sse l’ochoresse che algun homo fosse trovato con alltra femina fi reputatto de grandissimo
+         suo inchargo et da tuti svilito. [9] È una meraveiosa chossa la lialtà di mariti con
+         le moglie e nobelissima cossa la vertù de quelle done atte alle lor marchadantie,
+         alla chura de ogni exercicio del viver et alla fede e lialtà versso i mariti, per
+         che al mio giudicio sollo quelle done nel mondo meritano fir da tuti di grandissima
+         vertude chomendate. [10] Et tanto più quelle done meritano dignissima laude de vertù,
+         de onestà quanto gli è concesso ai homeni poter tuor quante moglie gli piaçe, a grandissima
+         confusione dele femine cristiane dicho de queste nostre parte che, avendo uno homo
+         una solla moglie, nei quali matremoni doveria esser una sengularissima fede de pudicicia
+         et honestà a chonfusione de tanto sacramento quanto è quello del matremonio, io mi
+         ni vergogno quando io riguardo la infedellità dele femene cristiane. [11] Adonqua
+         beate quelle che çento moglie à uno marito i oservano la fede con suo dignissima laude
+         a grandissima confusione de tute le alltre done dil mondo. [12] Chome i’ò dito è conçeso
+         ai homeni tuor quante moglie i piaçeno, pur abiano la possebilità mantenir quelle;
+         e ssenpre i mariti dano dota alla moglie et alla madre per aver quelle, e la prima
+         moglie tolta dal marito è lla più chiara e lla più legitima et simelle i figiuoli
+         che de quella naschono. [13] Per tante moglie, questa generacion molto multiplichano
+         et è uno stupore quanti figuolli à uno homo. [14] Dico quelli àno fachultà de tenere
+         assai moglie. [15] Questi talli pò tuor suo’ germane chusine per moglie; e sel more
+         alguno abia fiolli el maçor figlio pò tore la madregna per moglie; et eçian pono tuor
+         le chugnate, çoè morto el fratello, per moglie. [16] La fede loro: chome ò dito <term ref="#idolatri">adorano idolli</term> et àno 1° idio che i chiamano <term ref="#natigay">Natagai</term> el qual dicono è dio e re tereno e ch’è quelo alla guardia et chura dei lloro fiolli,
+         bestiami et biave. [17] Et a questo Idio i fano grandissima reverencia et honore,
+         et chadauno tengono in chaxa una de questa ima‹g›ine over Idio <term ref="#natigay">Natagai</term> apresso la moglie. [18] E fano un’altra imagine femenile e dicono essere la moglie
+         e quella meteno da man sinistra; e fano alltre imagine picolle e dicono esser i llor
+         figioli, le qualli meteno apresso ale imagine grande e tute tengono coperte onorevellemente
+         e con gran reverencia. [19] E quando vano a mançare, i toglieno la charne la più grassa
+         et ongieno la bocha a quelli idolli et el brodo dila charne spargeno fuori dela chaxa
+         et dicono i lloro idii avere mangnato la sustancia de quele vivande; possa loro mangiano
+         el resto. [20] I homeni richi vesteno onorevellemente de pani de seta e de oro e fodre
+         de çebelini, armelini e volpe molto belle et àno de belle arnise e de gran vaglia.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

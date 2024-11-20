@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-67-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-ii-67">
+      <note>
+	<p><ref type="witlink" target="#f-null-150">F CL</ref> (Ci devise de la cité de <term ref="#singui">Sugiu</term>); <ref type="witlink" target="#l-null-125">L 125</ref> (De civitate <term ref="#singui">Suigiu</term> et eius pontibus) / <ref type="witlink" target="#l-null-126">L 126</ref> (De civitatibus <term ref="#uguiu">*Vugiu</term> et Vughin); <ref type="witlink" target="#p-ii-63">P II 63</ref> (De nobili civitate <term ref="#singui">Synguy</term>. Capitulum LXIII), <ref type="witlink" target="#va-null-116">VA CXVI</ref> (Della gran zità de <term ref="#singui">Singui</term>, ch’è a dir la zità della te[r]a); <ref type="witlink" target="#v-null-75">V 75</ref> (Dela zità de <term ref="#singui">*Figui</term>); <ref type="witlink" target="#vb-null-113">VB CXIII</ref>; <ref type="witlink" target="#z-null-84">Z 84</ref>.</p>
+	<p>Nei parr. 1-8 Ramusio adotta come testo base VB, collazionandolo però a più riprese
+         con P (parr. 2 e 8) e con Z (parr. 5-7). In par. 9 il ricorso a VB si fa più sporadico,
+         mentre cresce simmetricamente  l’importanza di Z. L’affinità di R con F nell’ultima
+         pericope suggerisce che l’editore avesse sottomano un esemplare di Z più corretto
+         di Z toledano. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-53</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-53">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, LIII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-53_2_1" n="1"> Dapuo’ la morte de <term ref="#cingis-can">Chinchis</term> fo segnior d’i <term ref="#tartari">Tartari</term> <term ref="#cyn-can">Chui Chaan</term>, lo terzo segnior ave nome <term ref="#bathyn-can">Bachui Chaan</term>, lo quarto ‹…› e llo quinto <term ref="#mongu-can">Mongu Chaan</term>, lo sexto <term ref="#cublai-can">Chublai Chaan</term>, el qual regnia mo’, e questo sollo à plui posanza che non ave tuti i altri zinque.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-53_3_1" n="1"> E sapiate per zerto che tuti l’inperatori e re de’ cristiani e de’ seraini nonn
+         à tanta posanza nì chusì grande segnioria dentro tuti chusì chome à Chublai solo; e questo ve mostrerà el nostro libro veramente. </seg>
+      <seg xml:id="va-null-53_3_2" n="2"> Tuti i <term ref="#gran-can">Grandi Chaan</term>, queli che sono desexi de Chinchis Chaan, èno portati a sepelire a una montagnia molto granda, la qual è apelata <term ref="#altai">Alchai</term>. </seg>
+      <seg xml:id="va-null-53_3_3" n="3"> E se ’l <term ref="#gran-can">Grande Chaan</term> morisse zento zornate lonzi da quella montagnia, sì firave portato el suo chorpo
+         a sepellire a quella montagnia. |25r| </seg>
+      <seg xml:id="va-null-53_3_4" n="4"> Quando el corpo del <term ref="#gran-can">Gran Chaan</term> fì portà alla montagnia, quelli che achonpagniano el corpo alzide tuta la zente che
+         incontrano in la via, e dixe: «Andate a servir al nostro segnior in l’altro mondo».
+         </seg>
+      <seg xml:id="va-null-53_3_5" n="5"> E àno questa chredenza: che tuti quelli che i alzideno vadano ad achonpagniar
+         e a servir el <term ref="#gran-can">Gran Chaan</term> in l’altra vita. </seg>
+      <seg xml:id="va-null-53_3_6" n="6"> E questa medexima cossa fano d’i chavali che i trovano in la
+         via, e dixeno che i à tanti chavali in l’altro mondo; e alzideno altrosì i mior chavali
+         che aveva el segnior. </seg>
+      <seg xml:id="va-null-53_3_7" n="7"> Per questa chaxion, quando morì <term ref="#mongu-can">Mongu Chan</term>, el fo morti plui de vintimilia omeni che fono incontradi per la via quando fo portà
+         el so corpo ala montagnia.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

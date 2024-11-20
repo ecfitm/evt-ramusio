@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-72-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-72">
+      <note>
+	<p>Nella pericope sono riscontrabili gli apporti di molteplici fonti: Z, P e forse V.
+         L’attacco riecheggia <ref type="witlink" target="#z-null-87-1-4">Z 87 28</ref> «Et in capite quatuor dietarum invenitur […]» (vs <ref type="witlink" target="#p-ii-66"> P II 66 9</ref> «Post illas quatuor dietas invenitu […]»;  <ref type="witlink" target="#l-null-136">L 136 1 </ref>«Ultra civitatem <term ref="#gengui">Ghengiu</term> quatuor dietis versus syroch [...] adest […]»; <ref type="witlink" target="#v-null-77">V 77 12</ref> «Partendosse da questa el se vano quatro zornade e trovasse […]»; VB CXVIII 1 «‹P›asato le .IIII°. giornate, dapo’ partitosi da Çingui, se trova […]»). </p>
+	<p>Il toponimo <term ref="#zengian">Zengian</term> sembra combinare assieme <ref type="witlink" target="#p-ii-66">P II 66 9</ref> Ciangiam e <ref type="witlink" target="#v-null-77">V 77 12</ref> <term ref="#zengian">Zansian</term> (meno probabile invece l’influsso di <term ref="#zengian">Çiasia</term> VB CXVIII 1). </p>
+	<p>Nella lezione «edificata sopra un monte» R si distacca da <ref type="witlink" target="#z-null-87-1-4">Z 87 28</ref> «et est sita supra quoddam flumen», e da <ref type="witlink" target="#v-null-77">V 77 12</ref> «ed è fondada sopra uno fiume», che innovano rispetto a <ref type="witlink" target="#f-null-153">F CLIII 19 </ref>(«et est sus un mont que parte le flum»), per seguire il testo di P, L, VB (e F):
+         <ref type="witlink" target="#p-ii-66">P II 66 9</ref> «que in monte sita est»; <ref type="witlink" target="#l-null-136">L 136 1</ref> «que est super monte quodam»; VB CXVIII 1 «la quale si è in monte e parte lo fiume».</p>
+	<p>Nella parte finale del periodo la rielaborazione delle fonti da parte di Ramusio appare
+         senz’altro più marcata, ma si può ugualmente rinvenire un’ulteriore tessera ricavata
+         da <ref type="witlink" target="#p-ii-66">P II 66 9</ref>: R «et poi corrono all’opposito l’un dell’altro» ~ P «que postmodum ad oppositas
+         sibi plagas tendunt». Il riferimento finale ai punti cardinali («cioè uno verso sirocco
+         et l’altro verso maestro») va quasi sicuramente considerato come un’aggiunta dell’editore
+         volta a conferire maggiore specificità a un dettaglio che in tutte le sue fonti suonava
+         piuttosto generica: <ref type="witlink" target="#z-null-87-1-4">Z 87 28</ref> «quia pars una fluminis transit ab una parte civitatis et alia transit a parte altera»
+         (vd. <ref type="witlink" target="#f-null-153">F CLIII 19</ref> «que le une moitié ala en sus, e l’autre moitié en jus»); <ref type="witlink" target="#l-null-136">L 136 1</ref> «quarum una tendit ad supra, reliqua vero ad infra»; <ref type="witlink" target="#v-null-77">V 77 12</ref> «che una parte va de soto e l’altra di sopra»; VB CXVIII 1 «çoè parte va in su e parte in giu» (per <ref type="witlink" target="#p-ii-66">P II 66 </ref>9 vd. sopra).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

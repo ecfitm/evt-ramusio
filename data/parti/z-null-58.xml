@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-58</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-58">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 58</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-58_1_1" n="1"> Quando vero itum est versus ponentem .V. dietis a provincia Caraiam discedendo, invenitur quedam provincia nomine <term ref="#cardandan">Çardandan</term>, cuius gentes adorant ydola et sunt subdite <term ref="#gran-can">Magno Can</term>. </seg>
+      <seg xml:id="z-null-58_1_2" n="2"> Magistra civitas huius provincie <term ref="#vociam">Vocian</term> appelatur. </seg>
+      <seg xml:id="z-null-58_1_3" n="3"> Gentes ipsius dentes habent deauratos, videlicet quod omnes dentes
+         sunt coperti auro: nam fieri faciunt in similitudinem dentium unam formam de auro,
+         cum qua dentes coperiunt. </seg>
+      <seg xml:id="z-null-58_1_4" n="4"> Homines itaque, secundum eorum consuetudinem, milites
+         sunt omnes, et ad nil aliud intendunt quam ad aucupationes, venationes et res ad exercitus
+         pertinentes. </seg>
+      <seg xml:id="z-null-58_1_5" n="5"> Et alii homines quos ipsi capiunt et retinent pro servis. </seg>
+      <seg xml:id="z-null-58_1_6" n="6"> Item,
+         statim cum mulieres filium peperierint, de lecto exurgunt, filios lavantes et ipsos
+         panis involventes. </seg>
+      <seg xml:id="z-null-58_1_7" n="7"> Tu‹n›c earum viri in lectis se reponunt iuxta se |30v| filios
+         retinentes; quibus uxores serviunt tamquam ipsimet filios peperisent. </seg>
+      <seg xml:id="z-null-58_1_8" n="8"> Sic vero
+         iacent viri circa .XX. dies vel plures, secundum consuetudines eorum. [9] Gentes comedunt
+         carnes crudas et coctas. [10] Cibus eorum est risi cum carnibus. [11] Vinum eorum
+         est de riso factum, cum multis admixtis speciebus; valde bonum. [12] Moneta eorum
+         est aurum, sed expendunt etiam porcelanas. [13] Sed revertatur ad tractatum provincie
+         <term ref="#cardandan">Çardandan</term>. [14] Noveritis itaque quod gentes ipsius non habent ydola neque templa, sed maiorem
+         adorant de domo. [15] Dicunt enim: «De isto exivimus». [16] Non habent literas, et
+         nullas faciunt scripturas. [17] Et hoc non est mirabile: nam orti sunt in loco multum
+         devio et silvestri, videlicet in lucis et montibus, per quos iri non potest in estate
+         aliqua causa mundi, quia aer est ibi tam malus et coruptus quod nullus forensis poset
+         evadere quin periret.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

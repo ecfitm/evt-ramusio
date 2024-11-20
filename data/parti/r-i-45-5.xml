@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-45-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-45">
+      <note>
+	<p>Il testo di R coincide, nella sostanza, con quanto si legge in <ref type="witlink" target="#p-i-55">P I 55 2</ref> «[…] Super eas autem uxores et filios ac utensilia necessaria deferunt», <ref type="witlink" target="#vb-null-56">VB LVI 3</ref> «[…] e sopra dete charete portano i lloro moglie et fiolli e soe arnixe», e forse
+         anche in <ref type="witlink" target="#v-null-36">V 36 6</ref> «[…] et dentro quele porta lor moier et fioli et la suo’ marchadantia […]»: ma la
+         collocazione del lemma <hi rend="italics">marchadantia</hi> in coda a questa pericope invece che nella successiva – dove si parla effettivamente
+         delle attività commerciali delle donne tartare – può essere un’ennesima <hi rend="italics">défaillance</hi> del traduttore di V: cfr. infatti l’esordio di <ref type="witlink" target="#r-i-45">R I 45</ref> «Le donne fanno mercantie […]», forse debitore di una fonte prossima a quella di
+         V).</p>
+	<p>Come in F, il dettaglio sul “trasporto oggetti” manca pure in <ref type="witlink" target="#l-null-60">L 60 3</ref> «[…] et in talibus curribus ferunt eorum uxores et filios […]» (vd. <ref type="witlink" target="#f-null-68">F LXVIII 13</ref> «[…] et desus cestes carrete portent il lor feme et lor enfanz»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

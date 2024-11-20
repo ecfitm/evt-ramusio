@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-47</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>L’ultima pericope relativa alla divinazione riguarda la prassi di mettere per iscritto
+         i dati, relativi alla nascita, pertinenti all’analisi astrologica; Ramusio traduce
+         alla lettera <ref type="witlink" target="#z-null-107">Z 107 146-147</ref> «Ittem, quando aliquis puer vel puela nascitur in hoc regno, statim pater vel mater
+         facit poni in scriptis diem sue nativitatis, lunam, mensem et horam. Et hoc faciunt
+         quia omnia sua facta exercent per astronomiam» (versione rielaborata di F CLXXIII 48-49 «Et encore voç di qe en ceste rengne, tantost qe l’enfant est nes, ou masles ou femes,
+         qu’il soit le pere ou la mer, fait metre en script sa nativité, ce est qel jor est
+         nes e de quel mois e de quel lune e quel ore. E ce font por ce que il sont tuit foies
+         con astroniqe et con endivins qe sevent mout de encantemant e d’art magiche et de
+         jomansie. Et de tiel hi a, ensi com je voç ai dit, ‹que› sevent d’astronomie»).</p>
+	<p>La pericope manca in P III 24 4 e in VA CXXXVII 54 per le ragioni indicate nella nota a <ref type="witlink" target="#r-iii-20">R III 20 44</ref>; si attengono al tenore informativo di F-Z L 161 32 «Nascentium omnium nativitates valde considerant, easque in scriptis notant mensem,
+         videlicet diem et horam lunationemque; omnia enim eorum facta per astrologos, augures
+         divinatoresque regunt»; V 91 48 «Et quando algun puto over puta nase in questo reame, subito el padre hover la madre
+         fa schrivere el dì dela soa nasion, el mexe e la luna: et questo fali perché i vixita
+         tuti i fati soi per strologia»; VB CXLIII 56 «[…] e però quando alchuno nase el padre fa notare subito l’ano, el mese, el dì e
+         ll’ora e l’atimo e in che luna a chaxone che quando sono grandi, questi astrolegi
+         possano iudicare quello i abiano a fare e fige dato gran fede tegnendo fermo quelo
+         i ge dicono debiano esser fermo né possage fallire»</p>
+	<p>(Ramusio non usa Z fino in fondo; in questa sede ha appena omesso un ampio passo sul
+         valore divinatorio delle tarantole, <ref type="witlink" target="#z-null-107">Z 107 138-145</ref> «Ittem in domibus eorum quedam animalia nomine taratule conversantur, que similantur
+         lacertis que ascendunt per muros. Iste tarantule venenosum habent morsum et valde
+         ledunt hominem si ipsum morsu attingant. Vocem habent sicut dicentur : “cis” ; et
+         isto modo clamant. In istis tarantulis tale habent auspicium, videlicet quod, cum
+         aliqui insimul mercarentur in una domo ubi tarantule iste sunt, et ipsis mercantibus
+         una tarantula clamet ibidem super eos, ipsi vident a qua parte mercatoris, sive ementis
+         sive vendentis, videlicet utrum a p‹ar›te sinistre utrum a dextera, a parte anteriori
+         vel posteriori vel supra capud; et secundum quamlibet partem ipsi sciunt utrum bonum
+         significet vel malum. Et si bonum, perficiunt mercatum; si malum significet, nunquam
+         illud mercatum initur. Et quandoque significat bene pro vendente et male pro emente,
+         quandoque male pro vendente et bene pro emente, quandoque bene pro utroque vel male
+         pro utroque. Et secundum illud se regunt. Ista quidem habent ab experto». Il passo
+         manca all’altezza di F CLXXIII 47-48, P III 24 4, VA CXXXVII 54, L 161 31-32, V 91 47-48, VB CXLIII 56). </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

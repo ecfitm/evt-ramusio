@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-5" n="1">
+    <head>
+      <hi rend="bold">R, III 5</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-5_1_1" n="1"> Del colfo detto <term ref="#cheinan">Cheinan</term> et de’ suoi fiumi. Cap. 5.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-5_2_1" n="1"> Partendosi dal porto di <term ref="#zaitum">Zaitum</term>, si naviga per ponente alquanto verso garbin mille et cinquecento miglia, passando un colfo nominato <term ref="#cheinan">Cheinan</term>, il qual colfo dura di lunghezza per il spatio di due mesi, navigando verso la parte
+         di tramontana, il qual per tutto confina verso <term ref="#sirocco">sirocco</term> con la provincia di <term ref="#mangi">Mangi</term>, et dall’altra parte con Ania et <term ref="#tholoman">Toloman</term> et con molte altre provincie con quelle di sopra nominate. </seg>
+      <seg xml:id="r-iii-5_2_2" n="2"> Per dentro a questo colfo vi sono isole infinite, et quasi tutte sono bene habitate,
+         et trovasi in quelle gran quantità d’oro di paiola, qual si raccoglie dell’acqua del
+         mare dove sboccano i fiumi, et anchora di rame et d’altre cose: et fanno mercantie
+         di quello che si trova in una isola et non si trova nell’altra. </seg>
+      <seg xml:id="r-iii-5_2_3" n="3"> Et contrattono
+         anchora con quelli di terra ferma, perché li vendono oro, rame et altre cose, et da
+         loro comprano le cose che sono loro necessarie. </seg>
+      <seg xml:id="r-iii-5_2_4" n="4"> Nella maggior parte di dette isole
+         vi nasce assai grano. </seg>
+      <seg xml:id="r-iii-5_2_5" n="5"> Questo colfo è tanto grande, et tante genti habitano in
+         quello, che par quasi un altro mondo.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

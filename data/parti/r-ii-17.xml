@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-17</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-ii-17" n="1">
+    <head>
+      <hi rend="bold">R, II 17</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-ii-17_1_1" n="1"> Della moltitudine delle genti che di continuo vanno et vengono alla città di <term ref="#cambalu">Cambalú</term>, et mercantie di diverse sorti. Cap. 17.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-ii-17_2_1" n="1"> Giunto il <term ref="#gran-can">Gran Can</term> nella città, tien la sua corte grande et ricca per tre giorni, et fa festa et grandissima
+         allegrezza con tutta la sua gente che è stata seco; et la solennità che egli fa in
+         questi tre giorni è cosa mirabile a vedere. </seg>
+      <seg xml:id="r-ii-17_2_2" n="2"> Et evvi tanta moltitudine di gente et di case nella città et di fuori (perché vi
+         sono tanti borghi come porte, che sono dodici, molto grandi) che niuno potria comprendere
+         il numero, però che sono piú genti nelli borghi che nella città. </seg>
+      <seg xml:id="r-ii-17_2_3" n="3"> Et in questi borghi stanno et alloggiano li mercatanti, et altri huomini che vanno
+         là per sue faccende, i quali sono molti, per causa della residentia del signore: et
+         dovunque egli tiene |29r| la sua corte, là vengono le genti da ogni banda, per diverse
+         cagioni. </seg>
+      <seg xml:id="r-ii-17_2_4" n="4"> Et nelli borghi sono belle case et palazzi come nella città, eccetto il palazzo del
+         <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="r-ii-17_2_5" n="5"> Et nessuno che muore è sepelito nella città, ma s’egli è <term ref="#idolatri">idolatra</term> è portato al luogo dove si dee brusciare, il qual è fuor di tutti i borghi; et parimente
+         nessuno maleficio si fa nella città, ma solamente fuor delli borghi. </seg>
+      <seg xml:id="r-ii-17_2_6" n="6"> Item nessuna meretrice (salvo se non è secreta), come altre volte si è detto, ha
+         ardimento di star nella città, ma tutte habitano ne’ borghi, et passano venticinquemila,
+         che servono gli huomini per danari: nondimeno tutte sono necessarie, per la gran moltitudine
+         delli mercatanti et altri forestieri che là vanno et vengono di continuo per la corte.
+         </seg>
+      <seg xml:id="r-ii-17_2_7" n="7"> Item a questa città si portano le piú care cose et di maggior valuta che siano in
+         tutto il mondo, però che primamente dall’<term ref="#india">India</term> si portano pietre preciose et perle et tutte le speciarie; item tutte le cose di
+         valuta della provincia del <term ref="#cataio">Cataio</term> et che sono in tutte le altre provincie, et questo per la moltitudine della gente
+         che ivi dimora di continuo per causa della corte: et quivi si vendono piú mercantie
+         che in alcuna altra città, perché ogni giorno v’entrano piú di mille fra carrette
+         et some di seda, et si lavorano panni d’oro et di seda in grandissima quantità. [8] Et intorno a questa città vi sono infinite castella et altre città, le genti delle
+         quali vivono per la maggior parte, quando ivi è la corte, vendendo le cose necessarie
+         alla città et comprando quelle che a loro fa di bisogno.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

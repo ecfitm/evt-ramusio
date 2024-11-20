@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-24</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>A parte l’aggiunta del sintagma «et uccelli grossi», R segue piuttosto fedelmente
+         <ref type="witlink" target="#f-null-93">F XCIII 39</ref> «Et encore sachiés voiremant qe por toutes les teres la o le <term ref="#gran-can">Grant Sire</term> a seingnorie nulz rois ne nulz baronz ne nul homes ne osent prendre ne cacer levre
+         ne daine ne cavriolz ne cerf, ne de ceste tel maineres des bestes que moltiplient
+         dou mois de mars jusqe ad otobre; et qi contre ce feist en seroit fait repentir duremant,
+         por ce qe le seingnor le a ensi estabeli». Il passo figura, ma in una versione più
+         stringata, anche in <ref type="witlink" target="#p-ii-20">P II 20 11</ref> «[…] insuper nulli magno vel parvo venari licet a principio marcii usque ad mensem
+         octobris, neque modo aliquo vel ingenio licet eis capere capreas, damulas, cervos,
+         lepores vel huiusmodi animalia silvestria: si quis autem contrarium presumeret, puniretur
+         […]», e in <ref type="witlink" target="#v-null-44">V 44 18</ref> «[…] sì che ní baron né signor ní chavalier non osa piar zervo né altro animal che
+         se pia el mexe de marzo infina el mexe de otubrio; et quello che chontrafesse a quel
+         tal chomandamento grievemente vien ponido». La testimonianza di V parrebbe confermare
+         che lezioni analoghe a «contrafacesse» e «verrebbe punito» fossero presenti già nella
+         perduta fonte di R. </p>
+	<p>Il passo manca in L. VB e Z omettono il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

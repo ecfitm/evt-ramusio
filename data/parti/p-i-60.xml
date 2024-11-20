@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-60</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-60">
+    <head>
+      <hi rend="bold">P, I 60</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-60_2_1" n="1"> Ordo autem eorum in gubernacione exercitus et modus preliandi talis est: quando
+         dux aliquis preficitur exercitui, centum milium militum eligit quos vult, ciliarchos
+         sive tribunos, qui scilicet mille equitibus |27d| presint, centuriones et decuriones;
+         sic enim universus exercitus ordinatur per mille, centum et decem; similiter etiam
+         decem milibus preest unus. Hii prefecti exercitus consiliarii sunt hoc modo: nam illi
+         decem, quilibet decem milibus preest, consiliarii ducis sunt; qui vero mille presunt,
+         consiliarii sunt eius qui decem millibus presunt; centuriones autem consiliarii sunt
+         tribuni; decuriones vero consiliarii centurionis, ita dumtaxat ut nullus prepositus
+         consiliarius ultra decem. Hunc modum servant in magno exercitu et in parvo: quando
+         vero is qui centum milibus preest mittere mille vult, mandat uni qui decem milibus
+         presit ut mille de suis eligat; ille vero mandat tribuno ut eligat centum de mille,
+         et quilibet centurio eligit decem, quilibet vero decurio dat unum; et hoc modo mille
+         de |28a| decem millibus eliguntur; hoc autem tanto servatur ordine ut per equales
+         vices mittantur singuli sciatque unusquisque quando de iure ad hoc eligendus sit.
+         </seg>
+      <seg xml:id="p-i-60_2_2" n="2"> Quilibet autem dum eligitur statim obedit, non enim in universo reperiuntur homines
+         tante obedience ad dominos suos sicut <term ref="#tartari">Tartari</term> sunt. </seg>
+      <seg xml:id="p-i-60_2_3" n="3"> Cum autem de loco ad locum procedit exercitus, semper a quatuor lateribus
+         eius ducenti vel amplius custodes sunt in distancia congrua, ne occurrere possint
+         hostibus improvisi; quando autem in campo cum hostibus preliantur, sepe fugam arte
+         simulant post se nichilominus sagittantes, donec insequentes quo volunt deducant;
+         tunc se unanimiter vertentes ad ipsos de ipsis sepissime victoriam obtinent: sepe
+         enim hostes eorum ex hoc confusioni patent dum se vicisse putant. Equi autem eorum
+         sic assueti ut ad voluntatem |28b| sessorum facillime huc illucque vertantur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

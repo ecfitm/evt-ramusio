@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-55</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-55">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 55</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-55_2_1" n="1"> Recedendo ab hac provincia itur .X. dietis inter oriens et grecum, in qua via
+         sunt modice habitationes; et tunc invenitur provincia quodam dicta <term ref="#succuir">Suthiur</term>, in qua sunt civitates et castra multa (principalior tamen est <term ref="#succuir">Suthiur</term>). </seg>
+      <seg xml:id="l-null-55_2_2" n="2"> Et sunt ‹hee› gentes christiani et <term ref="#idolatri">ydolatre</term>. </seg>
+      <seg xml:id="l-null-55_2_3" n="3"> Et magna provincia †Jereraus† in qua est hec dicta provincia, et eciam due statim
+         ante dicte, nominatur <term ref="#tanguth">Tangut</term>. </seg>
+      <seg xml:id="l-null-55_2_4" n="4"> Hic vero per omnes eorum montes invenitur <term ref="#rheubarbaro">reubarbarum</term> in maxima quantitate. </seg>
+      <seg xml:id="l-null-55_2_5" n="5"> Non sunt mercatores, sed ex fructibus terre vivunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-102</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-102">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-102_1_1" n="1"> Comant le <term ref="#gran-can">Grant Kaan</term> fait amasser et repondre grant quantité des bles por secorrer seç jens.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-102_2_1" n="1"> Or sachiés qu’il est verité qe le <term ref="#gran-can">Grant Sire</term>, quant il voit qe de les bles soient en grant abundance et qu’il en est grant marchiés,
+         il en fait amasser grandisme quantité et le fait metre en grant maison et le fait
+         si bien estudier qu’il ne se gastent por trois anz ne por quatre. </seg>
+      <seg xml:id="f-null-102_2_2" n="2"> Et entendés
+         qu’il fait cavane de toutes bles, ce est forment et orce et mil et ris et panis et
+         autres bles, et de cestes bles fait amaser en grandisme moutitude. </seg>
+      <seg xml:id="f-null-102_2_3" n="3"> Et quant il
+         avint qe de les bles ne soient et qe la charestie soit grant, adonc le <term ref="#gran-can">Grant Sire</term> fait traire hors de seç bles, qe en a tant com je voç ai contés. </seg>
+      <seg xml:id="f-null-102_2_4" n="4"> Et se la mesure
+         se vendent un beçant, ce voç di forment, il ne fait doner .IIII., et en trait tant
+         hors qe tous en puet avoir, si qe chascun a devise et abundance des bles. </seg>
+      <seg xml:id="f-null-102_2_5" n="5"> Et en
+         ceste maniere se porvoit si le <term ref="#gran-can">Grant Sire</term> que sez homes ne puent avoir carestie, et ce fait faire por toutes les terres la
+         ou il a singnorie. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-102_3_1" n="1"> Or voç ai contés de ce, et adonc voç conteron d’un autre chapitre: comant le <term ref="#gran-can">Grant Sire</term> fait carité.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-99-10-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-99-10-13">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 99 10-13</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-99-10-13_1_1" n="1"> Incipiamus itaque enarare a regno <term ref="#felech">Felech</term>, quod est unum de octo regnis insule nominate. </seg>
+      <seg xml:id="z-null-99-10-13_1_2" n="2"> Noveritis itaque quod in hoc
+         regno <term ref="#felech">Felech</term> gentes omnes <term ref="#idolatri">ydola adorabant</term>; sed propter mercatores saracenos ibidem continue conversantes, omnes ad legem <term ref="#macometto">Macometi</term> conversi sunt. </seg>
+      <seg xml:id="z-null-99-10-13_1_3" n="3"> Et solum in civitatibus; sed comorantes in montibus sunt tanquam
+         bestie: nam ipsi comedunt carnem humanam et generaliter omnes carnes, mundas et immundas;
+         et diversas adorant res, quia, quando aliquis exurgit in mane, primam rem quam videt
+         illam adorat. </seg>
+      <seg xml:id="z-null-99-10-13_1_4" n="4"> Nunc vero, dicto de <term ref="#felech">Forlech</term>, dicemus de regno <term ref="#basma">Basma</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

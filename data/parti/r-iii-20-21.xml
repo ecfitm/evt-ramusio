@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-21</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Ramusio cambia modello: la pericope riprende, almeno in parte, VB CXLIII 32 «Ma io tegno l’aiere de quella provincia non sia conforme alla natura dei cavalli,
+         però che lì non nascono e per simelle non si posono conservar; et è sì grande la marchadantia
+         che se fano de chavalli ch’è mirabelle cossa». P III 26 1 offre un’informazione ridotta alla sostanza delle pericope «[…] aer autem ille equis
+         contrarius est […]» (più generico VA3 in VA CXXXVII 28 «I non sano guardar i chavali perché el tereno nonn è bon per chavali […]» – non
+         è più specifico L 161 18 «Est enim hec provincia nullatenus ferax, neque servatrix equorum […]»).</p>
+	<p>La pericope è omessa da F CLXXIII 28, <ref type="witlink" target="#z-null-107">Z 107 74</ref>, V 91 29.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

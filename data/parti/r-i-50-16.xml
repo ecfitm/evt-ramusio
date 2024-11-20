@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-50-16</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-50">
+      <note>
+	<p>Per la descrizione dei tipi umani del Gansu e dei loro costumi poligamici (parr. 16-19:
+         corrisponde a <ref type="witlink" target="#f-null-71">F LXXI 21-25</ref> «Les gens sunt <term ref="#idolatri">ydres</term>. Et sunt gras et ont peitet nes, qevoilz noir; il ne ont barbe for q’oquant poil
+         eu greingnon. Les dames ne ont nul poil for que en chef, ne nulle autre part ne ont
+         nul poil; elle ‹s›ont mout bien faites de toutes faisionç. Et sachiés qe il se deletent
+         mout en luxurie et prennent femes asseç, por ce que lor loy ne lor uçançe ne lor contrarie,
+         mes em puet prandre toutes com el vuelent et qu’il ont pooir de tenoir. Et si voç
+         di que se il a une belles femes et elle soit de vil leingnages, si la prent por sa
+         biauté un grant baronç ou un grant home a fame, et en done a sa mier arjent asseç
+         selonc qe il sunt en acorde»), Ramusio prosegue l’intreccio di Z e VB.</p>
+	<p>A Z è riconducibile la prima parte del passo («Quelle genti […] quante mogli vogliono
+         […]»), che traduce pressoché alla lettera <ref type="witlink" target="#z-null-39">Z 39 17-21</ref> «Gentes vero <term ref="#idolatri">adorant ydolla</term>. Et sunt pingues; quibus est parvus naso et nigri capili. Barba non est eis, nisi
+         solum .IIII. pila in mentto. Domine nullum habent pillum preterquam in capite. Sunt
+         mulieres albe, pulcram carnem habentes; et in omnibus membris optime sunt formate»;
+         tuttavia, l’appunto sulla lussuria femminile («ben formate in tutti i membri, ma <hi rend="italics">molto lussuriose</hi>») coincide con una peculiarità di <ref type="witlink" target="#vb-null-60">VB LX 10</ref> «[…] femene ben conplisionade et <hi rend="italics">molto lusurioxe</hi>». Sul finale è più decisa l’impronta di VB: cfr. ad es. R «[…] purché possino sustentarle
+         […] altro che la bellezza» / <ref type="witlink" target="#vb-null-60">VB LX 11</ref> «[…] tante ne piglia quanto è la fachultà loro a sostenerle; e se sono alguna femena
+         bella e povera et de vil condicione, quei sono richi, per avere quelle, da’ dela roba
+         alla madre dela çovene per aver quella per moglie e tanto sono aprexiate quanto le
+         sono belle».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

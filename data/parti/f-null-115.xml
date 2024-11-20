@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-115</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-115">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXV</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-115_1_1" n="1"> Encore de la provence de <term ref="#thebeth">Tebet</term> meisme.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-115_2_1" n="1"> <term ref="#thebeth">Tebet</term> est une grandisime provence qe lengajes ont por elles; et sunt <term ref="#idolatri">ydres</term> et confines con les <term ref="#mangi">Mangi</term> et co’maintes autres provences; il ‹hi›sunt maint grant laironç. </seg>
+      <seg xml:id="f-null-115_2_2" n="2"> Il est grandisimes
+         provence, qu’il hi a .VIII. roiames et grandisme quantitité de cités et de castiaus.
+         </seg>
+      <seg xml:id="f-null-115_2_3" n="3"> Il hi a, in plosors leus, et fluns et lac et mons, la ou il se treuvent les or
+         de paliolle en grant quantité. Il hi nast canele en grant abondance. Et en ceste provence
+         s’espent le coraus et hi est mout chier, ca’ le metent au cuel de lor femes et de
+         lor ydres por grant joie. </seg>
+      <seg xml:id="f-null-115_2_4" n="4"> Encore voç di qe en ceste provence a gianbelot asseç
+         et autres dras d’or et de soie. </seg>
+      <seg xml:id="f-null-115_2_5" n="5"> Et hi naist maintes especes qe unques ne furent
+         veue en notre païs. </seg>
+      <seg xml:id="f-null-115_2_6" n="6"> Et encore voç di qu’il ont les plus sajes encanteor et les
+         meior astroniqe, selonc lor usanç, qe soient en toutes celles provences qe entor euç
+         sunt, car il font les plus fere encantemant et les greingnor mervoiles a oïr et a
+         veoir, por ars de diables, qe ne est pas buen a contere en nostre livre, por ce qe
+         trop se merveileroient les jens. </seg>
+      <seg xml:id="f-null-115_2_7" n="7"> Il sunt maucu|52a|stumés. [9] Il ont grandismes
+         chenz mastin qe sunt grant come asnes et sunt mout buen a prendre bestes sauvajes.
+         Il ont encore de plusors maineres de chiens de cace. [10] Il ont encore que hi naisent
+         mout buen fauchon lainier, qe sunt volant et mout hoiselent bien. </seg>
+    </p>
+    <p n="3"/>
+    <p n="4"/>
+  </div>
+</body>
+</text>
+     </TEI>

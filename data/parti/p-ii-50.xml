@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-50</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-50">
+    <head>
+      <hi rend="bold">P, II 50</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-50_2_1" n="1"> Post di‹s›cessum a provincia <term ref="#cintigui">Cynguy</term> per dietas .IIII. inveniuntur civitates plures et multa castra; post dietas .IIII.
+         est nobilis civitas <term ref="#pazanfu">Cacausa</term> que pertinet ad provinciam <term ref="#cataio">Cathay</term> et est ad meridiem, ubi serici copia est, ubi panni de auro et serico fiunt et sindones
+         de serico in copia maxima. </seg>
+      <seg xml:id="p-ii-50_2_2" n="2"> Ab hac civitate itur ad meridiem diebus tribus et invenitur
+         civitas <term ref="#cianglu">Cianglu</term> grandis valde, que etiam est de provincia <term ref="#cataio">Cathay</term>, ubi fit sal in copia maxima: est enim ibi terra salsissima de qua monticulos faciunt
+         super quos aquam proiciunt; postea colligunt aquam que erupit de subpede monticuli,
+         quam in magnam ponentes caldariam ad ignem diu bulire faciunt; postea congelatur in
+         sal minutum et album. </seg>
+      <seg xml:id="p-ii-50_2_3" n="3"> Ultra vero civitatem <term ref="#cianglu">Cyanglu</term> ad .V. dietas est civitas <term ref="#ciangli">Cyangli</term>, |60b| per cuius medium transit flumen magnum per quod naves multe cum multis mercacionibus
+         deducuntur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

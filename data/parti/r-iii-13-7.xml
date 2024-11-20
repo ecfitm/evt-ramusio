@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-13-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-13">
+      <note>
+	<p>Ramusio traduce alla lettera  <ref type="witlink" target="#z-null-100">Z 100 17</ref> «Et alique arbores sunt que de natura liquorem ipsum rubeum emitunt, alique vero
+         album» (elaborazione di F CLXVI 8 «[…] e voç di qu’il en i a de blance e de vermoille» – vd. V 87 20 «[…] et àno de questi vini bianchi e rosi»). P III 16 6 ha una descrizione più ricca e articolata: «Hoc liquore pro vino utuntur, de quo
+         copiam habent magnam et est valde grati saporis; colorem habet album vel rubeum ad
+         similitudinem vini» (attestata pure in VA CXXX 8 «I uxano quel ligore in luogo de vino, et è molto bon et àno-nde asai, e nge n’è
+         de biancho et de vermeglio, ch’el par pur vino») – a essa si allinea pure VB CXXXVI 10, che spiega come  <hi rend="italics">el licore</hi> «[…] nonn è vermeio chome el primo ma più chiaro: et à bon sapore quanto vino terano
+         biancho e de quello ussano per suo bevanda».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

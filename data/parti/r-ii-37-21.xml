@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-21</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Ramusio combina il testo di Z – che riflette la lezione di F – con quello, più innovativo,
+         di <ref type="witlink" target="#vb-null-81">VB LXXXI 16</ref> «Fase çanbelloti assai et pani de seta et oro; nasene ecian alchune sorte [R «sorti
+         di»] specie dele qual in questi nostri paexi [R «nelli nostri paesi»] non fi portate»
+         [R «non si portano»];<ref type="witlink" target="#z-null-54"> Z 54 9-10</ref> «In ista provincia fiunt multi çambeloti et alii drappi aurei et de syrico [R «d’oro
+         et di seda»] et fustanei. Multe [R «molte»] species nascuntur ibi que nunquam [R «mai»]
+         fuerunt in partibus nostris vise» (vd.<ref type="witlink" target="#f-null-115"> F CXV 5-6</ref> «Encore voç di qe en ceste provence a gianbelot asseç et autres dras d’or et de soie.
+         Et hi naist maintes especes qe unques ne furent veue en notre païs»). La lezione «non
+         si portano» potrebbe essere stata suggerita a Ramusio anche da <ref type="witlink" target="#p-ii-37">P II 37 13-14</ref> «In hac provincia crescit in magna copia cynamomum et aloe; aromatice species multe
+         habentur ibidem que non deferuntur ad nos, nec in nostris partibus vise sunt. Ibi
+         fiunt çambelloti multi aliique panni de auro et serico». Non si danno invece tracce
+         di contatti di R con <ref type="witlink" target="#l-null-94">L 94 14-15</ref> «Et nascuntur hic multe maneries specierum optimarum, que in nostris partibus non
+         habentur. Fiunt eciam hic multi çambelotti, et panni de seta et auro», o con V 55 22-23 «Et anche in questa provinzia sono zanbelloti e altri drapi d’oro e de seda. Et anchora
+         in questa nasse molte spezie le qualle in le nostre parte non sono vezude».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

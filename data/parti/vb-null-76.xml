@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-76</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-76">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXVI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-76_1_1" n="1"> ‹E›sendo partito da <term ref="#pianfu">Pianfu</term> e chaminando per .II. giornate, trovassi uno chastello nominato <term ref="#thaigin">Cangiafu</term>, el qual se dice fece far el re <term ref="#dor">Doro</term> nobellissimo segnore nel suo tenpo. </seg>
+      <seg xml:id="vb-null-76_1_2" n="2"> In questo chastello è 1° nobelle palaço,
+         nel qual è una bella salla in la qual è depinto tuti i nominadi segnori de quele parte
+         e che ànno abuto fama. </seg>
+      <seg xml:id="vb-null-76_1_3" n="3"> I’ son contento qui non preterire quello ochorsse al dito
+         re <term ref="#dor">Doro</term>, degno al mio iudicio de memoria. </seg>
+      <seg xml:id="vb-null-76_1_4" n="4"> Essendo el dito re <term ref="#dor">Doro</term> sottoposto alla segnoria de <term ref="#prete-gianni">Presto Çane</term>, pur per suo arogancia se rebellò a quello né possendo el dito <term ref="#prete-gianni">Presto Çane</term> nuocere a quello per la forteça del suo paexe. </seg>
+      <seg xml:id="vb-null-76_1_5" n="5"> Dapo’ algun tenpo, .VII. nobelli
+         chavallieri del dito <term ref="#prete-gianni">Presto Çuane</term>, disse: «Segnor, nui abiamo deliberato darte nele mane el to nemicho re <term ref="#dor">Doro</term> et a nostro podere nui te’l daremo vivo e se non nui l’alcideremo». </seg>
+      <seg xml:id="vb-null-76_1_6" n="6"> Aldito el
+         <term ref="#prete-gianni">Presto Çane</term> i valloroxi chavallieri ne ebe grande apiacere et a quelli promesseno molte richeçe
+         e beni se i metesseno ad esechucione quel i prometevano. </seg>
+      <seg xml:id="vb-null-76_1_7" n="7"> I sete chavallieri fensse
+         esser rebellati al suo segnore, andòsene al re <term ref="#dor">Doro</term> e con quello i se aconçono, e chome nobellissimi chavallieri fono receuti lietamente
+         e data bone provissione, i qual .VII. chavallieri per .II. anni stete con quel segnor
+         servando quello nobellissimamente e mostrando a quel segnore grandissima fedeltà,
+         per modo che a quell segnor molto erano chari e de quelli molto el se fidava e ssenpre
+         in tute chosse con quello erano. </seg>
+      <seg xml:id="vb-null-76_1_8" n="8"> Essendo andato el re <term ref="#dor">Doro</term> fuori nel paexe in chaça, et essendo passato algun fiume e remaxo con questi .VII.
+         chavalieri, parsse ai diti el tenpo de potere meter a ssecucione la promisione fata
+         al suo segnore <term ref="#prete-gianni">Presto Çane</term>. [9] Datose fra loro i ssegni aferò quell misero segnore né vaiendo a quello pregiere
+         né lusenge né promissione, quei costanti che il voleva per prixone e che il voleva
+         conducere alla presencia et in podestà de <term ref="#prete-gianni">Presto Çane</term>. [10] Aldito el re <term ref="#dor">Doro</term> nominar <term ref="#prete-gianni">Presto Çane</term> chome furibondo pregava i chavallieri piutosto quello dovesse alcidere, né çovandoi
+         alchuna pregiera nei rechordati beneficii fo constreto andar con quelli; i qualli,
+         essendo al confine del suo paexe, fu de breve sul paexe de <term ref="#prete-gianni">Presto Çane</term>. [11] E conduto alla presencia soa, intexo <term ref="#prete-gianni">Presto Çane</term> dela presura del suo nemico ne ebe segular piacere: e fatose venir quello con teribelle
+         e manacevelle parolle, quello recevete recordandoge i beneficii fati e quanto da lui
+         era stato amato e sopra tuti alltri suo’ baroni onorato. [12] El re <term ref="#dor">Doro</term>, tuto spauroso, niente respondeva, sollo dimandando misericordia acussando el fallo
+         suo. |249r| [13] Dapo’ molto minacevelle parolle aspetando el re <term ref="#dor">Doro</term> se‹n›tencia dela morte soa, el <term ref="#prete-gianni">Presto Çane</term> chomandò ch’el fosse fato guardiano del’armento suo, açò che chome segnore quello
+         avesse a chomandare sollo alle pechore et alltri animalli del segnore. [14] Nel qualle
+         uficio in grandissima miseria el re <term ref="#dor">Doro</term> stete, ma senpre ben guardatto ch’el non se ne potese fugire. [15] Essendo statto
+         el re <term ref="#dor">Doro</term> guardatore del’armento del segnore per ani do, el <term ref="#prete-gianni">Presto Çane</term> se’l feçe venire vestito chome pastore; et çonto ala pressencia soa, soridendo disse:
+         «Ben venga el pastore mio! E chome sta l’armento?». [16] A cui el re <term ref="#dor">Doro</term> con umanissime parolle respoxe: «Segnor mio, che ’l tuo umillissimo servitore te
+         sia richomandato». [17] A chui el <term ref="#prete-gianni">Presto Çane</term> disse: «Echo chome bene te sta, che alçato in tanta soperbia alquanto umilliato sei.
+         [18] Vedi chome lievemente eri insoperbito? eri alçato di grandissima soperbia e contra
+         el segnor to (al qualle tanto eri ubligato per i grandissimi beneficii da quello receuti)
+         eri pieno di grande ingratitudene, presumesti rebelargi non te richordendo dela possança
+         soa, sollo esistimendo la toa non bene da te mexurata. [19] Echo che con sete solli
+         mei servitori, te reputandote tanto allto segnore sei fatto mio prixone: iudicha adoncha
+         per te steso la pena del tuo fallo». [20] A chui el re <term ref="#dor">Doro</term>, tutto tremante, disse: «Segnore mio, benché io chognoscha el fallo mio pieno de
+         ingratitudene meritar ogni suplicio, pur richordandoti dela toa clemecia, prègoti
+         ritornami a l’armento tuo non chome chapo ma chome ultimo de quello servitore». [21]
+         A chui el <term ref="#prete-gianni">Presto Çane</term> disse: «Re <term ref="#dor">Doro</term>, non rechordevelle de alchuno tuo ingrato fallo, ma sollo del’amore io te ò portato
+         et dela liberalitade dela segnoria mia, comando che dei vestimenti pastoralli sei
+         spoiato e vestito dei primi vestimenti regalli». [22] El re <term ref="#dor">Doro</term>, aldendo el chomandamento del segnore, tuto atonito, non sapendo iudichare se quello
+         era per soa salude o per la morte soa in abito regalle, stando tuto tremante qual
+         dovesse esser el fine dele regal vestimente fu de quelle nobellissimamente vestito.
+         [23] A chui el <term ref="#prete-gianni">Presto Çane</term> parllò e disse: «Io çudego che se io fose te, te faria sentir la pena dela rebeliun
+         toa tanto piena de ingratitudene con amarissimo suplicio di morte, ecian non chome
+         te ma se chome iusto iudeçe quella dovesse iudichare. [24] Ma voiendo esser me non
+         rechordevelle de alchuna toa ingratitude ma sí del’amistade tiego ò abuta, che sopra
+         tuti alltri te ò honorato et exaltato, delibero ritornarti nel tuo regno con questa
+         amunicione: che tu deliberi esser grato a tanti beneficii da me to segnore receuti,
+         però se chossì farai chogneserai eser bene conseiato e viverai nel tuo reame onoratamente
+         chome merita quella segnoria, e non chon menore fellecità de quello l’ài abuta la
+         laserai a to’ fiolli. [25] Ma se serai sì temerario che non te voi chognosere, né
+         intender la inegualità dela toa possança con quella del tuo segnore, io te richordo
+         che io ò molti miara de servitori de non men vertude de quel sono i sete che i ne
+         te dusse prixone; e se de qui avanti fallirai, non arai chaxone de trovar in me alchuna
+         misericordia del fallo tuo ma sí giusticia, né dei dubitar poder chanpar dele mane
+         mie. [26] Conseiandoti adonqua chome me strençe l’amistade nostra, vivi nel reame
+         to felliçemente et ubediente al to segnore dal qualle in quest’ora ài la vita e la
+         segnoria de dono». [27] Avendo aldito el re <term ref="#dor">Doro</term> el dono del segnore, prostato |249v| in tera cridò e disse: «Umanissimo segnore,
+         el to engrato servitore non merita sì alto dono dala toa segnoria; bastavami di gracia
+         la vita, ultimo servitore del’armento to. [28] Ma possa che la clemencia dela toa
+         segnoria è tanta che a un trato me abi donato la vita e lla segnoria, sumamente io
+         te ne regrancio con questa ferma promisione: che niuno più fedel di me arai per servitore,
+         né più rechordevelle de tanti da te beneficii receuti, né mai ceserò pregar i dii
+         conservi la toa clementissima segnoria». [29] Dapoi el <term ref="#prete-gianni">Presto Çane</term> ge donò de molti e nobellissimi chavalli et altri nobellissimi doni aconpagnato con
+         orevellissima conpagnia el mandò nel reame suo.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

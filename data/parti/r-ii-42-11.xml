@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-42-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-42">
+      <note>
+	<p>La fonte di R parrebbe essere <ref type="witlink" target="#vb-null-86">VB LXXXVI 8</ref>, anche se le somiglianze tra le due versioni appaiono abbastanza generiche: «Mosso
+         [R «si mosse»] el Re de <term ref="#mien">Damian</term> le schiere soe vene con gran vigore [R «con gran vigore»] contra l’oste tartara [R
+         «[l’oste] d’i <term ref="#tartari">Tartari</term>»]; i <term ref="#tartari">Tartari</term> non con minore virtude e vigoroxità d’animo [R «con grande animo»] mossese contra
+         quegli […]». Le altre redazioni non presentano particolari affinità con R: <ref type="witlink" target="#p-ii-42">P II 42 4</ref> «Rex autem <term ref="#mien">Mien</term> venit ut exercitum illius invaderet; <term ref="#tartari">Tartari</term> vero audacter occurerunt illis»; <ref type="witlink" target="#v-null-58">V 58 10</ref> «[…] et quando l’ave ordenado tuto lo so exerzito dela suo’ zente el prexe la via
+         chontra i suo’ nemixi; et quando li <term ref="#tartari">Tartari</term> vete quelli vegnire, i qualli veniano che apena iera sentidi, tuti se radunò insieme
+         saviamente» (vd. <ref type="witlink" target="#f-null-121">F CXXI 11-12</ref> «Et quant il ot ordree et asetté tout son afer, il se mist a aler con tuit sa ost
+         ver les ennimis. Et quant les <term ref="#tartari">Tartarç</term> les virent vinir, il ne font senblant qe il soient de rien esbaïs, mes mostrent qe
+         il sunt preuç et ardis duremant, car sachiés senç nulle faille qe il se mistrent a
+         la voie tuit ensenble bien et ordreemant et sajemant vers les ennimis»). R presenta
+         alcuni dettagli aggiuntivi («quali stettero fermi et non si mossero, ma li lassorono
+         venir vicini al suo alloggiamento»), ma l’assenza della testimonianza di Z (e di L)
+         non ci pertmette di stabilire con sicurezza se si tratti di informazioni originali
+         o – come tutto fa pensare – di amplificazioni ramusiane.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

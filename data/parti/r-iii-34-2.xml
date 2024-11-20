@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-34-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-34">
+      <note>
+	<p>La pericope traduce alla lettera P III 37 2 «Hii qui has insulas habitant unum ad invicem sunt et sunt christiani». La fonte
+         è VA CXLVII 3 «Quelli de queste ixolle è una chossa insieme, et sono cristiani»; il compilatore
+         di VA ha “potato” il testo, come si vede agevolmente dall’affine <ref type="witlink" target="#vb-null-158">VB CLVIII 3</ref> «Questa gente che abitano in queste .II. isolle sono cristiani batiçadi i qualli
+         in questo chaxo oserva i comandamenti del vechio testamento: çoè che chome la dona
+         è grosa, i non çase con quella fino non à partorido e dapoi el parto a .XL. dì çaseno
+         con la mogie», e dal modello francoveneto: F CLXXXVIII 2-3 legge «Il sunt cristiens batiçés e se mantient a la foy et as costumes dou Viel Testament.
+         Car je voç di que, quant sa feme est enceinte, il ne la touche plus dusque a tant
+         q’elle ne a enfanté; …†… encore la laisse que ne la touche .XL. jors, mes de .XL.
+         jors avant, le touqe a sa volunté».</p>
+	<p>Gli altri relatori si tengono al tenore informativo di F: Z 122 2-4 «Omnes sunt christiani baptizati et observant mores et consuetudinem Veteris Testamenti.
+         Quia, quando eorum uxores sunt pregnantes, ipsas non tangunt donec peperierint. Et
+         a tempore quo partum fecerint usque ad quadragessimam diem ipsas non tangunt, sed
+         a quadragessima die inantea tangunt eas ad vele eorum»; V 104 2-3 «Tuti sono christiani batizati, et observano el chostume e l’uxanza del Vechio Testamento.
+         Et quando so moier sono gravede i non le tocha fina che le nonn à parturido; e dapuo’
+         che le àno parturido i non le tocha fina ala quarantena, ma le tocha dapuo’ la quarantena».
+         </p>
+	<p>L 175 2-3 sopprime il richiamo alle pratiche sessuali degli indigeni, e anticipa informazioni
+         collocate più avanti negli altri relatori (vedi la nota a <ref type="witlink" target="#r-iii-34">R III 34 6</ref>): «Habitantes sunt omnes christiani, et non habent regem neque dominum temporalem,
+         nisi quendam suum archiepiscopum, qui tamen suppositus est archiepiscopo de <term ref="#soccotera">Scotra</term>. Et loquuntur ydiomate proprio, et utuntur Veteri Testamento». </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

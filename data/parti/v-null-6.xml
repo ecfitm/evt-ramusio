@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-6">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 6</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-6_2_1" n="1"> ‹O›r sapiate che Marcho, fiol de misier Nicholò, in pocho tempo inparò li chostumi
+         e la lengua del paixe, et sapeano lezer e schriver in la lor lengua, sì che el <term ref="#gran-can">Gran Chan</term> li volea tuto el suo’ bene vedandolo sì dischreto che in pocho tempo avea inparado
+         do lenguazi. </seg>
+      <seg xml:id="v-null-6_2_2" n="2"> Onde el <term ref="#gran-can">Gran Chan</term> el mandò per anbassadore ad una zitade chiamata <term ref="#carazan">Chiarenza</term>, onde quelo ne andò et fezie la sua inbasata, et tute le novitade et diverse chosse
+         le qual ello trovò in lo avegnimento elo anonziò al <term ref="#gran-can">Gran Signor</term>; et da quel’ora in za fo chiamado misier Marcho Polo, et simelmente il nostro libro.
+         </seg>
+      <seg xml:id="v-null-6_2_3" n="3"> Et veramente voio che sapiate che ’l dito misier Marcho stete in le parte del
+         <term ref="#gran-can">Gran Chan</term> ani diexesete, et in questo tempo non zessò mai de andar inbasador in molte tere.
+         </seg>
+      <seg xml:id="v-null-6_2_4" n="4"> Et questa fo la chaxon che misier Marcho sape più chosse de quele parte che altra
+         persona, perché l’andò molto zerchando quele parte, ed ezian mese più la so fantaxia
+         per dover chognoser quele novitade.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

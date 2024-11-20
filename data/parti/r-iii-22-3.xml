@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-22-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-22">
+      <note>
+	<p>Il testo ramusiano costituisce una rielaborazione piuttosto libera delle informazioni
+         contenute nei suoi modelli (caratterizzati dall’inversione dell’ordine dei membri
+         adottato da Ramusio): <ref type="witlink" target="#z-null-110">Z 110 7</ref> «Ducunt vitam honestam multum secundum consuetudinem eorum, et non fornicantur nisi
+         cum eorum uxoribus et non raperent aliquid alicui» (resa alla lettera di F CLXXVI 4 «[…] Il font mout honeste vie selonc lor uxançe; il ne font luxure for qe con lor
+         femes. Il ne tollirént a nelui nulle couse […]»); P III 30 1 «[…] sunt etiam casti valde, nam unusquisque eorum uxore propria contentatur. Aliena
+         non rapere vel furari omnino cavent […]» (da VA CXL 3 «Et sono molto chasti; zaschuno è contento de soa moglier, e si guarda molto de tuor
+         l’altrui e de robar e de involar»).</p>
+	<p>V 94 3 «[…] et menano molto honesta vita segondo uxanza; et non fornicha ‹se no› chon so
+         moier; et non torave alguna chossa de alguno […]» si allinea perfettamente a F; meno
+         aderente è la lezione di VB CXLVI 3-4 «[…] non staria con altra femena che con la mogie. Per cossa alchuna non toria de
+         quel d’altrui; per alguna cossa non fariano chossa che i savese fose pechado per niente»;
+         L 164 1 si limita a «Sunt enim maxime abstinentie homines».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

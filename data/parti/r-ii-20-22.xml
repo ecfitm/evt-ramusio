@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-20-22</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>Il relatore qui più prossimo a R è V (che a sua volta riflette piuttosto fedelmente
+         F). Va rilevato tuttavia che si danno vari punti di divergenza tra le tre versioni.
+         Nella prima parte («Ma quando […] velocissimamente»), la corrispondenza tra R e V
+         F è abbastanza forte; nella sezione successiva («se sono due […] quanto più possono»),
+         R si mostra più vicino a F che a V, che reca una lezione poco soddisfacente; nella
+         terza parte («et come […] quelli), R presenta un testo in parte diverso, in parte
+         più compendioso di quello che si legge in V e F; nella parte finale (da «et così»)
+         la versione di R torna aderente a quella V e F, tranne che nella frase conclusiva,
+         che viene tralasciata: <ref type="witlink" target="#v-null-47">V 47 13-15</ref> «Et quando sono bexogno far asaver alguna chosa al <term ref="#gran-can">Gran Signor</term>, o che algun baron o tera revelasse, l’è di nezeso li chavalcha duxento o duxento
+         e quaranta mia al zorno; e mostreròve la raxon: quando questi tal mesi vol chavalchar
+         li vien dado una tola de zifalchi in segno ch’elo vol andar, et sano ove eli deba
+         andar; per una medema via elli monta suxo boni chavali chorsieri, infasadi ben lo
+         chorpo e lo chavo, et chore quanto el puol. E tanto chavalcha ch’elo vien ala posta
+         de vintizinque mia, et zonto a quela posta trova altri chavali sufizienti e gaiardi,
+         et presto li monta suxo, e per nesun modo zesa andar al suo’ viazo † cholor de Chandir
+         †; et chussì chontinua infina al’altre poste. E zonti in quel luogo chatano li chavali
+         apariadi, et subito montono suxo e vano al suo’ chamin; et chussì fano infina sera,
+         e per questo modo i mesi vano duxento e quaranta mia per chaxon de portar novele al
+         <term ref="#gran-can">Gran Signor</term>; e talvolta fano ben trexento mia e plui tal mesi» (<ref type="witlink" target="#f-null-98">F XCVIII 19-24</ref> «Et si voç di qe quant il est bei{n}çonz qe mesajes de chevaus aille tostainemant
+         por conter au <term ref="#gran-can">Grant Sire</term> d’oucune tere qe soit revellés ou d’aucun baron ou des chouses qe soient beiçognables
+         au seingnor, il chevauchent bien .IIc. miles en un jor, ou voir .CCL., et voç mostrerai raison comant. Qua‹n›t les mesajes
+         vuelent aller si tostainemant, et tantes miles en un jor, com je voç ai contés, il
+         a la table dou gerfaus en senifi{c}ance qe il vuelt aler tostainemant. Se il sunt
+         deus, il se muent dou leu ou il sunt sor .II. buens chavaus fors et corant; il se
+         bindent tout lor ventre et lient lor chief, et se metent le grant cors tant com il
+         plus puent, et corent tant qu’il sunt venus a l’autre poste de .XXV. miles; et adonc
+         treuvent autre deus chevaus aparoilés, fres et repousés; et corant il montent tant
+         tost{o}, qu’il ne se repousent ne pou ne grant. Et quant il sunt montés, il se metent
+         maintenant, tant com il puent dou cheval traire, et ne restent de corer tant qu’il
+         sunt venus a l’autre poste; et iluec treuvent les autres chevaus aparoillés, et il
+         montent ausi erament et se metent ‹a› la voie, et ensi font dusqu’au soir. Et en ceste
+         mainere qe je voç ai contés vont cesti tiel mesajes bien .CCL. miles por aporter novelles
+         au <term ref="#gran-can">Gran Sire</term>. Et encore, quant il beiçogne, vont il bien .IIIc. […]»).</p>
+	<p>Non ci sono motivi per ritenere che Ramusio abbia tenuto conto anche delle versioni
+         abbreviate di <ref type="witlink" target="#l-null-80">L 80 6-7</ref> «[…] quod si necesse fuerit, aliquando aliquem cursorem equestrem velocissime aliquod
+         novum ferre equitabunt bene .CC. vel .CCL. miliaribus die una, et aliquando .CCC.
+         […] Hiis exhibetur tabula habens ymaginem çirifalchi, in signum quod velocissime ire
+         intendunt, et cum ire debet, unus sit vel duo, ascendit equum, totumque ventrem et
+         caput fasciat stricte valde; deinde equo incitato, numquam currere cessat donec ad
+         aliquam pervenerit postam. Sicque continuo faciendo longum terre spacium perambulant
+         una die», e di<ref type="witlink" target="#p-ii-23"> P II 23 7</ref> «Igitur nuntii qui in equis currunt ad regis imperium ad nova aliqua velociter deferenda,
+         currunt in die pro miliaria .CC. aut .CCC.; hoc modo duo simul in equis currunt, qui
+         fortiter sibi ventrem et capita ligant cursumque continuant quantum equi perdurare
+         possunt; et cum perveniunt ad aliquem de mansionibus predictis, equos alios ibi recipiunt
+         fessosque dimittunt statimque cum equis aliis velociter currunt, et sic equos alternant
+         in omni custodia et tota die cursum continuant, et sic nova ad <term ref="#gran-can">Magnum Kaam</term> a remotis partibus velociter deferunt et mandata eius ad remota loca cum magna festinatione
+         portantur». VB omette il passo. </p>
+	<p>In Z manca l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

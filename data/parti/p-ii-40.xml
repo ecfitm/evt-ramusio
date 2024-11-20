@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-40</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-40">
+    <head>
+      <hi rend="bold">P, II 40</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-40_2_1" n="1"> Post di‹s›cessum a civitate <term ref="#iaci">Iaci</term> per .X. dietas proceditur per provincia <term ref="#carazan">Carayam</term> ad regnum aliud cuius principalior civitas dicitur <term ref="#carazan">Carayam</term> ubi rex est, <term ref="#cogatin">Cogacuy</term> nomine, filius <term ref="#cublai-can">Cublay</term> regis. </seg>
+      <seg xml:id="p-ii-40_2_2" n="2"> Ibi invenitur multum de auro quod dicitur de la plagola quod in fluminibus
+         habetur; in aliis autem lacunis et montibus invenitur aurum grossius quam sit aurum
+         de la paglola, datur autem de ipso unum auri sagium pro .VI. sagiis de argento. </seg>
+      <seg xml:id="p-ii-40_2_3" n="3">
+         Monetam tamen de porcellanis habent de quibus superius dictum est, que de <term ref="#india">India</term> deferuntur. </seg>
+      <seg xml:id="p-ii-40_2_4" n="4"> Homines huius regionis <term ref="#idolatri">ydolatre</term> sunt. </seg>
+      <seg xml:id="p-ii-40_2_5" n="5"> In hac regione inveniuntur serpentes magni valde: mul|ti |54c| enim ex
+         his sunt decem passuum longitudinis, et in grossicie .X. palmorum in circuitu mensuram
+         continent, et isti maiores sunt; habent autem quidam illorum magnorum serpentium iuxta
+         caput duo crura carentia pedibus, sed loco pedis habet ungulam unam ad modum leonis
+         ungule vel falconis, caput valde magnum habet; oculi eius pregrandes sunt veluti duo
+         panes; os tante magnitudinis habet quod unum hominem de facili transglutiret; dentes
+         habet maximos, et quia ita terribilis est serpens ille, nullus homo est qui non paveat
+         appropinquare illi sed et animalia quecumque agrestia timent illum. </seg>
+      <seg xml:id="p-ii-40_2_6" n="6"> Modus quo
+         capitur a venatoribus talis est. </seg>
+      <seg xml:id="p-ii-40_2_7" n="7"> Serpens dictus de die in cavernis subterraneis
+         latitat propter estum, nocte vero egrediens circuit querens bestias ad devorandum;
+         vadit ad earum cubilia et cavernas ubi leo|nes |54d|, ursi et animalia huiusmodi habitant
+         et comedit bestias magnas et parvas; nam nulla bestia insultum eius et fortitudinem
+         sustinere potest. Post comestionem autem ad cavernam revertitur propria. </seg>
+      <seg xml:id="p-ii-40_2_8" n="8"> Est autem
+         ibi transitorium sabulosum et cum ille per sabulum reptat fortissime se iactat in
+         sabulum, et quia sic ponderosus est et grossus, foveas in sabulo adeo magnas cum pectore
+         et ventre facit, ut videatur veges magna vino piena per sabulum volutata. [9] Venatores
+         igitur de die sub sabulo palos multos et fortes huc et illuc per planiciem infigunt,
+         in quorum summitatibus sunt gladii de calibre firmiter infixi, acuti valde, quos postmodum
+         operiunt sabulo ut a serpente postea videri non possint; cum igitur nocte inde transitum
+         facit super sabulum, solito more reptando, se iactat et in ferrum absconditum et acutum
+         pectore pro|siliens |55a| et impingens aut statim moritur aut gravissime vulneratur.
+         Tunc venatores supervenientes ipsum si adhuc vivit occidunt. [10] Et primo fel ipsius
+         extrahunt quod precio magno vendunt, eo quod medicinale est valde: si quis enim morsum
+         patitur canis rabidi, modicum de ipso bibens ad pondus scilicet denarii unius parvuli,
+         statim plene liberatur; mulier etiam in partiis doloribus constituta modicum sumens
+         ex eo expeditur a partu; qui etiam apostema aliquod patitur, si in infirmitatis locum
+         hoc felle perungit in paucis diebus perfecte curatur. [11] Carnes autem illius serpentis
+         vendunt quia in cibum optime sunt et libenter ab hominibus comeduntur. [12] In hac
+         provincia multi et optimi equi nascuntur qui a negotiatoribus deferuntur in <term ref="#india">Indiam</term>; omnibus autem equis nodos duos aut tres de ossibus caude extrahunt, ne equus currens
+         equitem cauda feriat et ne caudam |55b| huc illucque contorqueat dum currit, quoniam
+         hoc in equo turpissimum reputant; equites huius patrie strepis utuntur longis ad cellas
+         ut apud nos gallici faciunt. [13] In bellis utuntur corrachiis de corio buballorum;
+         utuntur etiam scutis, lanceis et balistis, et sagittas quas iaciunt toxicant. [14]
+         Ante quam <term ref="#cublai-can">Cublay</term> <term ref="#gran-can">Magnus Kaam</term> hanc provinciam obtineret, viri huius provincie huiusmodi rem detestabilem faciebant:
+         quando enim vir aliquis transibat per eos alicuius alterius patrie decentis apparentie
+         et bonorum morum, qui prudens in verbis et actibus videretur, si apud eos hospitabatur
+         ipsum noctem occidebant, dicentes quod prudentia, mores et gratie et anima eius in
+         domo illa postmodum apparebat et remanebat, ob quam causam multi ibi occisi sunt.
+         Sed <term ref="#gran-can">Magnus Kaam</term>, postquam regnum prefatum suo dominio subiugavit, hanc impietatem et stultitiam de
+         illa |55c| patria penitus extirpavit.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

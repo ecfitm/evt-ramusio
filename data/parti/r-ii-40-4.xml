@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-40-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-40">
+      <note>
+	<p>Nella prima parte (fino a «sopra») R si mostra affine a <ref type="witlink" target="#z-null-57">Z 57 7</ref> «In ista quoque provincia expe‹n›dunt similiter porcelanas de quibus superius declaratum».
+         Nella seconda parte R riporta un’informazione assente in Z toledano ma attestata in
+         forme più o meno equivalenti in tutti gli altri relatori:<ref type="witlink" target="#l-null-97"> L 97 3</ref> «Hii eciam expendunt porcellanas pro moneta, et quia in hiis partibus non inveniuntur
+         apportantur ex <term ref="#india">India</term>»; <ref type="witlink" target="#p-ii-40">P II 40 3</ref> «Monetam tamen de porcellanis habent de quibus superius dictum est, que de <term ref="#india">India</term> deferuntur»; <ref type="witlink" target="#v-null-56">V 56 27</ref> «[…] et in questa provinzia el se spende porzelane dele qualle io ve ò dito di sopra,
+         le qual porzelane non se trova in quella provinzia, ma vieno de <term ref="#india">India</term>»; <ref type="witlink" target="#vb-null-84">VB LXXXIV 4</ref> «Spendeno per suo moneta menuta porcellane, le qual però non se trova in suo paexe
+         ma fino portate per merchadanti de alltri luogi» (vd. <ref type="witlink" target="#f-null-118">F CXVIII 5</ref> «Et encore en ceste provence s’espendent les porcelaine qe je voç contai desovre
+         por monoi‹e›; et voç di qe en celle provence ne se treuvent celles porcelaines, mes
+         hi vienent de <term ref="#india">Yndie</term>»). Non è escluso che Ramusio abbia contaminato il suo modello base con altri esemplari,
+         ma è più sensato ritenere che la sua fonte Z1 recasse un testo più completo di quello di Z toledano.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

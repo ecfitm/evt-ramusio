@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-61-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-61">
+      <note>
+	<p>La pericope trova riscontro solo in F e – in solo in modo parziale – in V: <ref type="witlink" target="#f-null-144">F CXLIV 5</ref> «Or nos partiron de ci, car ne a autre chouse qe a mentovoir face. Et adonc voç conteron
+         de la tres noble cité de <term ref="#saianfu">Saianfu</term>, que bien fait a conter en nostre livre por ce que trop est grant fait son afer» ;
+         <ref type="witlink" target="#v-null-70">V 70 10</ref> «Mo’ in questa nonn è altro da dire, et nareremo de tre nobelle zitade et diremo
+         de nobel chosse». È probabile che Ramusio abbia ricavato tale passaggio dalla sua
+         fonte Z1, che in questo punto doveva recare un testo più completo di quello che si legge in
+         Z toledano.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

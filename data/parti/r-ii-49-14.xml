@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-49-14</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-49">
+      <note>
+	<p>La maggior parte delle fonti (L, P, VB e Z) omette tale passaggio. Si presenta estremamente
+         concisa la versione che figura in <ref type="witlink" target="#v-null-62">V 62 16</ref> «Or lasseremo questa et anderemo più avanti». La pericope di R trova preciso riscontro
+         solo in <ref type="witlink" target="#f-null-130">F CXXX 3</ref>: «Or nos partiron de ci et aleron avant por midi .III. jornee et voç conteron do
+         une autre cité qe a non <term ref="#cianglu">Cianglu</term>». Si tratta senza dubbio di un passaggio che Ramusio ha ricavato dal perduto Z1 e che poi è stato omesso dal copista di Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

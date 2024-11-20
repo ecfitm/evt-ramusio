@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-39-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-39">
+      <note>
+	<p>Nelle parti confrontabili, Z e R mostrano una buona corrispondenza tanto nel lessico
+         quanto nella <hi rend="italics">dispositio</hi> delle tessere: cfr. <ref type="witlink" target="#z-null-36">Z 36 6</ref> «Maiora quidem, quorum aliqua bene sunt mensure passuum .X., iacent extensa» [R «quelli
+         che sono grandi sono <hi rend="italics">ben</hi> passa dieci di lunghezza et <hi rend="italics">giaceno distesi</hi>»] (sul posizionamento a quest’altezza – caratteristico di Z, R, P – dell’informazione
+         sulle dimensioni degli idoli, vd. la nota al par. 3).</p>
+	<p>Per il resto, la lezione toledana è priva sia di un corrispettivo dell’esordio di
+         R («Di questi ne sono de grandi et de piccioli»), elemento di raccordo riconducibile
+         al compilatore; sia del riferimento alla disposizione e all’apparente attitudine sottomessa
+         dei simulacri più piccoli, che invece compare in <ref type="witlink" target="#f-null-61">F LXI 6</ref> «Ceste grant ydre gigent et plusor autres idres peitetes son environ celle grant
+         et senble qu’il i faichent humilité e reverence», e, in forme consimili, in <ref type="witlink" target="#l-null-56">L 56 3</ref> «Et circa hec ydola magna sunt quam plura parva que videntur ‹multum› hiis magnis
+         ydolis obedire»,  in <ref type="witlink" target="#p-i-49">P I 49 2</ref> «quedam autem ex ipsis sunt magnitudinis passuum .X. que iacere videntur, circa que
+         sunt parva ydola posita que videntur eis reverenciam exhibere», e in <ref type="witlink" target="#vb-null-45">VB XLV 3</ref> «e le idolle grande sono molto più reverite che le piçole, ançi le idole piçole par
+         onorano e reverischa le grande»); la versione V, nel suo dettato eccentrico, mostra
+         – qui come altrove – un fraintendimento del modello: vd. <ref type="witlink" target="#v-null-33">V 33 5</ref> «[…] e le idole grande sono lutane dale pizole».</p>
+	<p>Ramusio può avere tratto il testo per intero dal suo Z1 completo, oppure avere integrato Z1 con P («reverenciam exhibere» P &gt; «farli riverenza» R).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

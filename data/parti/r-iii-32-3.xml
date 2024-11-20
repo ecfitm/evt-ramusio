@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-32-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-32">
+      <note>
+	<p>Dopo la descrizione delle pratiche commerciali nella regione Z e V – in coincidenza
+         con l’<hi rend="italics">ordo </hi>fissato in F – tornano sulla fede religiosa degli indigeni: <ref type="witlink" target="#z-null-120">Z 120 5</ref> «Sunt insuper multum crudeles et perfidi ydolatri»; V 102 8 (in forma abbreviata) «In questo reame sono perfeti <term ref="#idolatri">idolatri</term>» («perfetti» è probabilmente l’esito di un equivoco sull’agg. «perfidi», garantito
+         da F CLXXXVI 3 «Et encore voç di que il sunt mout cruelz e fieres <term ref="#idolatri">ydres</term>», di cui Z è traduzione letterale; L 173 2 incorpora l’informazione nella descrizione introduttiva: «Gentes sunt perfidi <term ref="#idolatri">ydolatre</term>»). La soluzione adottata da Ramusio – la restrizione focalizzante su quelli che «servono
+         agl’idoli», anticipata dal richiamo all’<hi rend="italics">auctoritas </hi>orale di «mi fu detto…» – è un <hi rend="italics">hapax </hi>nella tradizione, modellato sull’attacco della pericope in VB CLXVI 5 «Sono in questa provincia quei che serveno i suo’ idolli et tenpi i più austeri homeni
+         abia el mondo», ed <hi rend="italics">escamotage</hi> (un tradimento del traduttore) forse necessitato dal chiudere il conto con l’acclarata
+         – in <ref type="witlink" target="#r-iii-32">R III 32 1</ref> – “bontà” degli indigeni. Il prodotto è un’innovativa “classificazione” degli indigeni
+         – divisi tra la generale “bontà” della «gente» e la crudeltà dei servitori della loro
+         religione – a mezzo tra lo schema positivo adottato da VB e quello, tradizionalmente
+         negativo (la <hi rend="italics">perfidia</hi> degli <term ref="#idolatri">idolatri</term>), attestato nella più parte della tradizione.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

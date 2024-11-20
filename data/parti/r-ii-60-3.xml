@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-60-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-60">
+      <note>
+	<p>Ramusio segue quasi alla lettera la testimonianza di <ref type="witlink" target="#vb-null-106">VB CVI 3-4</ref>, che si presenta più sintetica di quella di V e Z (e di F): «Sono tuti <term ref="#idolatri">idolatrii</term>. Viveno de marchadantie et de mestieri e fase molte arme et arnixe de bataia però
+         che per quelle contrade ’ve sso’ çente d’arme assai» (vd. <ref type="witlink" target="#f-null-143">F CXLIII 2-4</ref> «[…] Il sunt <term ref="#idolatri">ydres</term>; lor monoie ont de carte […] Il vivent de mercandies et d’ars, car il i se font arnois
+         de chevalers et d’omes d’armes en grandisime quantité, car je voç di tout voirmant
+         qe en ceste cité et environ por sa pertinence demorent maintes homes d’armes»). Non
+         è escluso, tuttavia, che l’omissione in R dell’indefinito <hi rend="italics">tuti </hi>(R «Sono idolatri» vs. VB «Sono tuti idolatrii») sia l’effetto di una collazione di
+         VB con altre esemplari (L, V o Z): vd.<ref type="witlink" target="#l-null-118"> L 118 2-3</ref> «Gentes sunt <term ref="#idolatri">ydolatre</term>, habentes monetam ex cartis. Et sunt mercatores et artiste: fiunt ibi armamenta multa»;<ref type="witlink" target="#v-null-70"> V 70 3-5</ref> «[…] la zente dela qualle <term ref="#idolatri">adora le idolle</term>; et non àno pechunia de charta […]. Et viveno de marchadantie et arte; et trovasse
+         molti chavalli; et sono zente in gran quantità. E dentro questa zitade stano molti
+         homeni d’arme»; <ref type="witlink" target="#z-null-77">Z 77 5-6</ref> «Gentes civitatis huius <term ref="#idolatri">ydolatre</term> sunt, pecuniam habent de cartis […] Vivunt de mercimoniis et artibus: nam faciunt
+         munimina militum et hominum ab armis in magna quantitate, quia circa istam civitatem
+         et in civitate, et in eius pertinentiis sunt homines multi pro armis». P omette questa
+         parte del testo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

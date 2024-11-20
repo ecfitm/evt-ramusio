@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-38-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-38">
+      <note>
+	<p>Il testo della pericope si fonda in modo prevalente su <ref type="witlink" target="#z-null-55">Z 55 25-27</ref> «Monetam quidem habent talem. Quia habent virgas auri; et ponderant eas et, secundum
+         quod pondus est, ita valent. Et non habent cum aliquo signo monetam» (testo che rispecchia
+         abbastanza fedelmente <ref type="witlink" target="#f-null-116">F CXVI 8-9</ref> «Et voç di qu’il ont monoie en tel mainere com je vos dirai. Sachiés qu’il a or en
+         verge, et le poisent a sajes et, selonc qe poise, vaut. Mes ne ont monoie cungné cun
+         estanpe»). L’annotazione di R «et questa è la loro moneta maggiore» è però ricavata
+         da <ref type="witlink" target="#p-ii-38">P II 38 12</ref> «Monetam vero in hunc modum habent: virgulas aureas sub certo pondere faciunt quas
+         pro pecunia expendunt, et iuxta pondus virgule pretium eius est, et hec est moneta
+         maior […]». Abbastanza simile a P è quanto si legge in <ref type="witlink" target="#l-null-95">L 95 5</ref>: «Istorum moneta non est ymaginibus insignita, sed ex simplici auro faciunt frustra
+         ponderantia unum exagium, quo pro grossa utuntur moneta […]». Notevolmente compendiato
+         è invece<ref type="witlink" target="#vb-null-82"> VB LXXXII 8</ref> «Questi àno verge d’oro le qual i spendono a pexo […]». V omette del tutto il passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

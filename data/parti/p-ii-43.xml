@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-43</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-43">
+    <head>
+      <hi rend="bold">P, II 43</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-43_2_1" n="1"> Post recessum a provincia <term ref="#carazan">Carayam</term> invenitur descensus quidam maximus per quem descenditur continue per dietas duas
+         et dimidiam ubi nulla est habitacio, sed ibi una lata et spaciosa planicies in qua
+         tribus diebus in ebdomada multi conveniunt ad nundinas et mercata; descendunt enim
+         multi de montibus magnis regionis illius et deferunt aurum quod pro argento commutant
+         dantque unam auri unciam pro quinque argenti, multique negotiatores de montibus illis
+         illuc conveniunt cum argento. </seg>
+      <seg xml:id="p-ii-43_2_2" n="2"> Ad montes alios fortissimos, ubi illi pro securitate
+         sua habitant, nullus accedit exercitus, quia loca valde invia sunt, nec ex hoc scitur
+         ad aliis ubi illorum habitacio sit. </seg>
+      <seg xml:id="p-ii-43_2_3" n="3"> Post hec invenitur provincia <term ref="#mien">Mien</term> que affinis est Indie ad meridiem, per quam itur diebus .XV. per loca silvestria
+         |58a| et nemorosa ubi multi sunt elephantes et unicornes alieque fere agrestes innumere,
+         et nulla ibi habitacio est.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-52</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La pericope ripete fedelmente <ref type="witlink" target="#z-null-107">Z 107 160-161</ref> «Nam habent vespertiliones magnos quemadmodum sunt austures. Habent insuper austures
+         nigros ut sunt corvi; et sunt multo maiores nostris, et bene volant et aucupantur»
+         (versione semplificata, sopprimendo la spiegazione sui pipistrelli, di F CLXXIII 50-51 «[…] car je voç di tout voiremant qe il ont le qief soris, ce sunt les oisiaus qe
+         volent la nuit e qe ne ont poines ne plume: cesti tiel oisiaus ‹s›ont grant come un
+         hostor. Il ont hostor tuit noir come corbiaus et sunt d’aseç greingnorç des nostres,
+         et sunt bien volant e bien oselant»). P III 26 4 («[…] ibi sunt austures nigri ut corvi, nostris maiores, qui aves optime capiunt;
+         ibi sunt vespertiliones grandes ut austures») presenta un discorso semplificato (e
+         aderente – nell’inversione degli elementi – alla lezione dell’antigrafo VA CXXXVII 56-57 «El ge n’è astori tuti negri chome chorvi, et sono megliori cha i nostri e oxella
+         tropo ben. El ge n’è balbastreli grandi chomo astori, i quali volano pur de note.»).</p>
+	<p>Si mantiene fedele a F L 161 33 «Est ibi noctula avis scilicet, carens penna similis muri, in magnitudine austuris.
+         Sunt eciam austures per totum nigerrimi sicut corvi, et sunt valde maiores nostris
+         et bene volantes aucupantesque»; equivoca V 91 49 «[…] ma i àno hoxelli grandi chomo sono astori, negri chomo chorbi, et sono molto
+         mazor, et volla ben et hoxelano ben»; abbrevia VB CXLIII 57-58 «[…] le notole che volano di note èno grande quanto ostori. Àno ostori negri quanto
+         corvi e grandi i quali prendeno bene ogni ocello».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

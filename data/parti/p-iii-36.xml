@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-III-36</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-iii-36">
+    <head>
+      <hi rend="bold">P, III 36</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-iii-36_2_1" n="1"> Post hoc pervenitur per mare <term ref="#canam">Thana</term>, <term ref="#cambaia">Cambaeth</term>, <term ref="#servenath">Semenath</term> et <term ref="#chesmacoran">Resmacoram</term> ad occidentalem plagam; in quibus regnis mercaciones maxime fiunt, unumquotque horum
+         regnorum regem proprium habet et proprium ydeoma et sunt in <term ref="#india">Yndia</term> |84a| Maiori. </seg>
+      <seg xml:id="p-iii-36_2_2" n="2"> Non sunt ibi alia, que in nostro libro iudicaverim describenda; de Maiori autem <term ref="#india">Yndia</term> non scripsi, nisi de terris et regnis que mari adiacent, vel de insulis quibusdam
+         que in illo mari sunt, quia terras scribere que in <term ref="#india">Yndia</term> sunt infra terram laboriosum esset valde et adderetur libro nostro prolixitas nimia.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

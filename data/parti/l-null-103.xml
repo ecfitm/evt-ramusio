@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-103</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-103">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 103</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-103_2_1" n="1"> Longe ad <term ref="#amu">Amu</term> versus oriens .VIII. dietis est provincia dicta <term ref="#tholoman">Tholoman</term>, cuius gentes sunt <term ref="#idolatri">ydolatre</term> habentes proprium ydeoma; et sunt pulcri homines, bruni tamen. </seg>
+      <seg xml:id="l-null-103_2_2" n="2"> Et ‹habent› civitates
+         multas et castra plurima in maximis et asperrimis montibus. </seg>
+      <seg xml:id="l-null-103_2_3" n="3"> Mortuorum corpora
+         comburunt; que vero incombusta remanent corporum ossa in parvis locant capsulis, quas
+         in altissimorum montium cavernis taliter appendunt, quod tam a bestiis quam ab hominibus
+         nullatenus tangi possunt. </seg>
+      <seg xml:id="l-null-103_2_4" n="4"> Invenitur in hac provincia multum aurum. </seg>
+      <seg xml:id="l-null-103_2_5" n="5"> Est enim
+         eorum moneta aurum, et porcellanas minutim expendunt, ut superius dictum; similiter
+         faciunt predicte provincie, s‹cilicet› <term ref="#bangala">Bangala</term>, <term ref="#cangigu">Caugigu</term> et <term ref="#amu">Amu</term>. </seg>
+      <seg xml:id="l-null-103_2_6" n="6"> Horum victualia sunt carnes, ‹lac› et riçi; vinum vero ex vitibus non habent,
+         sed ipsum faciunt ex riçi‹s› et aliis speciebus.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-21-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-21">
+      <note>
+	<p>Diverse fonti concorrono a formare il testo di R. Nella sua prima parte («Et se in
+         alcuno […] anno»), Ramusio si attiene prevalentemente a <ref type="witlink" target="#v-null-48">V 48 1</ref> «[…] et s’el trova se alguno abia abudo dano e non abia abudo biava non li fa tuor
+         trabuto el qualle li sol dar in quel’ano, ma i fano dar dele suo’ biave, azò che i
+         abia da semenar e da manzar: et questa sono gran bontade del <term ref="#gran-can">Signor</term>» (= <ref type="witlink" target="#f-null-98">F XCVIII 3</ref> «E se il treuvent que auchune jens aient eu domajes et que ne ont blees, il ne lor
+         fait tollir le treü qe il doient doner celui an, mes i fait doner de sien bles por
+         coi il en aient a semener et a mengier: et ce est bien grant bontés dou seingnor»).
+         A partire da «anzi» il modello principale di R diviene <ref type="witlink" target="#p-ii-24">P II 24 2</ref> «Cum autem de detrimento huiusmodi de provincia vel civitate aliqua sibi fuerit intimatum,
+         illi regioni anni illius tributa remittit; facit etiam illuc de suis horreis blada
+         deferri quantum necessarium est [R «anzi le fa dare tanta biada d’i suoi granai quanto
+         lor bisogna»] pro victualibus et semine […]». Non si notano in questo punto indizi
+         di contatti con <ref type="witlink" target="#vb-null-70">VB LXX 2</ref> «Ecian, se alchuna provincia avesse receuto algun senestro in suo’ biave o per altro
+         modo (chome speso adevien, o per chavalete o altra pestelencialle piaga) et da queste
+         talle tere pestelenciate non voglieno per quello ano algun trabuto, ançi essendoge
+         bisogno, ge fa provedere de biave et altre chose besognose de quelo del segnore».</p>
+	<p>Sempre <ref type="witlink" target="#p-ii-24">P II 24 2</ref> è la fonte principale della seconda parte della pericope («conciosiacosaché […] guastano»):
+         «[…] temporibus ubertatis magne emit rex copiosissime blada multa, que in suis horreis
+         per annos tres aut quatuor servantur provide ne putrescant […]». Come P, Ramusio anticipa
+         in questo punto delle informazioni che le altre sue fonti (e il resto della tradizione
+         poliana) collocano più avanti, nel capitolo in cui si parla specificamente della politica
+         di ammasso e conservazione del grano attuata dal <term ref="#gran-can">Gran Can</term> per prevenire i periodi di carestia: <ref type="witlink" target="#v-null-48">V 48 11</ref> «Quando el <term ref="#gran-can">Gran Signor</term> vede che le biave sì àno in gran abondanzia et che dele dite biave sì àno gran marchado,
+         el ne fa sunar in grandissima quantitade, et fale meter in una gran chaxa, et fale
+         ben stadiare che per tre ní per quatro ani non se vasta […]»; <ref type="witlink" target="#vb-null-72">VB LXXII 4</ref> «Aprovistò ecian in <term ref="#cambalu">Chamalau</term> e per tute altre suo’ provincie de asaissimi granari i qualli nele ubertà à fatto
+         inpir de grano, el qual se conserva per .III. ani che non se guasta et ogni .III.
+         ani el fa chanbiare» (vd. <ref type="witlink" target="#f-null-102">F CII 2</ref> «Or sachiés qu’il est verité qe le <term ref="#gran-can">Grant Sire</term>, quant il voit qe de les bles soient en grant abundance et qu’il en est grant merchiés,
+         il en fait amasser grandisme quantité et le fait metre en grant maison et le fait
+         si bien estudier qu’il ne se gastent por trois anz ne por quatre»). È possibile, tuttavia,
+         che dietro al riferimento di R ai «granari che sono deputati in ciascuna provincia»
+         si celi uno sporadico ricorso a VB (vd. sopra «Aprovistò ecian in <term ref="#cambalu">Chamalau</term> e per tute altre suo’ provincie de asaissimi granari […]»).</p>
+	<p>In L e in Z il capitolo è assente.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

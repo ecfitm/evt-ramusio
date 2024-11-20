@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-46</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>La pericope è attestata nella sua interezza solo da <ref type="witlink" target="#z-null-107">Z 107 128-137</ref> «Item pro qualibet die in ebdomada dicunt esse unam horam infelicem, id est “uciacham”,
+         quam appellant “choiach”, videlicet sicut die lune hora dimidie tercie, die martis
+         hora tercie, die mercurii hora none, et sic de singulis per totum annum; que omnia
+         scripta et determinata habent in suis libris. Et cognoscunt horas ad computum pedum,
+         videlicet umbre hominis, ut, cum tali die umbra hominis erit longa ad mensuram .VII.
+         pedum ex opposito solis, tunc erit hora “uciacha”, id est “coiach”; et cum transacta
+         erit illa mensura, vel augendo vel minuendo – nam, cum sol ascendit umbra breviatur,
+         cum descendit elongatur –, tunc non est “coiach”. Et cum alia die umbra erit .XII.
+         pedum, tunc erit “choiach” ; et illa mensura transacta transactum erit et “coiach”.
+         Et omnia ista habent in scriptis. Et debetis scire quod in istis horis sibi precavent
+         a mercationibus et quibuslibet peragendis. Nam, dum duo homines in actu sunt aliquid
+         simul mercandi, aliquis ad speram solis sive radium accedet et mensurabit umbram;
+         et si erit in termino hore illius diei, secundum quod debet esse illa die, tunc statim
+         dicet istis: “‘Coiach’ est! non faciatis aliquid”. Et illi cessabunt. Tunc mensurabit
+         iterum, et inveniet horam illam esse transactam et dicet: “Transactum est ‘coiach’ :
+         faciatis quicquid vultis». Et valde habent illam rationem pre manibus. Dicunt enim
+         quod si quis in illis horis aliquod mercatum perficiat, nunquam proficiet in eo, sed
+         male sibi continget».</p>
+	<p>Tacciono F CLXXIII 47, P III 24 4, VA CXXXVII 54, L 161 31, V 91 47, VB CXLIII 56. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

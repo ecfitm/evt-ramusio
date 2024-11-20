@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-11-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-11">
+      <note>
+	<p><ref type="witlink" target="#f-null-32">F XXXII</ref> (Ci devise de .VIII. roiaumes de <term ref="#persia">Perse</term>); <ref type="witlink" target="#z-null-10">Z 10</ref>;<ref type="witlink" target="#l-null-26"> L 26</ref> (De quibusdam regnis in <term ref="#persia">Persya</term>); <ref type="witlink" target="#p-i-19">P I 19</ref> (De regione Persarum), <ref type="witlink" target="#va-null-20">VA XX 1-11 </ref>(De Tonochain, là dove è destrieri da CC livre de tornexi grossi, et axeni da XXX marche d’arzento
+         de p‹ri›ex‹i›o); <ref type="witlink" target="#v-null-18">V 18</ref> (De molte altre zitade de <term ref="#persia">Persia</term> e deli lor chostumi); <ref type="witlink" target="#vb-null-21">VB XXI 1-8</ref>.</p>
+	<p>Ricalcando la struttura del <hi rend="italics">Milione</hi> pipiniano, <hi rend="italics">in</hi> <hi rend="italics">limine</hi> alla trattazione della Persia Ramusio depenna la digressione sui luoghi di sepoltura
+         dei Re Magi e l’<hi rend="italics">exemplum</hi> di tradizione cristiano-orientale ad essi collegato (su cui cfr. almeno Scorza Barcellona
+         2008). Per quanto concerne il capitolo sugli otto regni di Persia, è invece evidente
+         il debito di Ramusio nei confronti di Z.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

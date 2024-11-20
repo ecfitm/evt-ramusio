@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-15-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-15">
+      <note>
+	<p>La lezione toledana è purtroppo scorciata in corrispondenza dell’<hi rend="italics">incipit</hi> e dell’<hi rend="italics">explicit</hi> della pericope (Z 14 1-2 «Nota quod super riperiam maris ‹est› civitas quedam nomine <term ref="#ormus">Cormos</term>, que portum habet; ad quam civitatem mercatores de diversis <term ref="#india">Indye</term> partibus navigantes cum omnibus aromatibus, lapidibus preciosis, perlis, drapis aureis
+         et syriceis, dentibus elephantum et aliis mercimoniis multis aplicant universi»);
+         che R dipenda anche qui da uno Z completo è comunque accertato dalla coincidenza dei
+         due testi in una minima originalità di Z: «arrivano <hi rend="italics">tutti</hi> i mercatanti di <hi rend="italics">tutte le parti </hi>dell’India» R (&lt; «mercatores <hi rend="italics">de diversis Indye partibus</hi> […] aplicant <hi rend="italics">universi»</hi> Z). Tramite Z Ramusio si approssima, in forma e sostanza, al dettato di<ref type="witlink" target="#f-null-36"> F XXXVI 5</ref> «Et quant l’en a chevauchés deus jornee, il treuve la <term ref="#mare-oceano">mer Osiane</term>, et sour la rive ha une cité que est apelés <term ref="#ormus">Cormos</term>, le quel a port, et voç di que les mercaant hi vienent de <term ref="#india">Yndie</term> con leur nes, hi aportent de toutes especeries et pieres presieuses et perles et
+         dras de soie et dorés et dens d’olifant et maintes autres mercandies, et en cel cité
+         le vendent a les autres homes que puis l’aportent por tute universe monde, vendant
+         a les autres gens». In almeno due punti della traduzione ramusiana il dettato di Z
+         pare snellito dal ricorso alla più agile sintassi di <ref type="witlink" target="#p-i-23">P I 23 4</ref> («Deinde pervenitur ad <term ref="#mare-oceano">mare Occeanum</term>, in cuius littore est civitas <term ref="#ormus">Cormos</term>, ad cuius portum conveniunt negociatores Indorum deferentes aromata, margaritas,
+         lapides preciosas, pannos aureos et spericeos, dentes elephantum et alia preciosa;
+         […]»): ciò avviene in corrispondenza dell'<hi rend="italics">incipit</hi> della pericope («Alla fine si giunge […]» &lt; «Deinde pervenitur») e, più dubitativamente,
+         del sintagma «al porto della qual […]» (&lt; «ad cuius portum […]»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-38</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-38">
+    <head>
+      <hi rend="bold">P, II 38</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-38_2_1" n="1"> Per provincia <term ref="#thebeth">Thebeth</term> invenitur provincia <term ref="#caindu">Cayndu</term> ad occidentem, que regem habet et est subdita <term ref="#gran-can">Magno Kaam</term>. </seg>
+      <seg xml:id="p-ii-38_2_2" n="2"> Ibi sunt civitates multe et castra. </seg>
+      <seg xml:id="p-ii-38_2_3" n="3"> Ibi est lacus in quo margarite sunt
+         in copia tanta, quod si <term ref="#gran-can">Magnus Kaam</term> libere eas capi et asportari permitteret valde earum vilesceret precium pre moltitudine
+         nimia, sed <term ref="#gran-can">Magnus Kaam</term> non permittit ut libere capiantur: si quis autem sine regis licencia ad margaritas
+         piscari ‹presumeret›, occideretur. </seg>
+      <seg xml:id="p-ii-38_2_4" n="4"> In hac provincia sunt in multitudine magna
+         <term ref="#gudderi">gudderi</term> ex quibus muscatum habetur. </seg>
+      <seg xml:id="p-ii-38_2_5" n="5"> Ibi etiam sunt pisces in copia maxima in lacu, scilicet
+         ubi sunt margarite. </seg>
+      <seg xml:id="p-ii-38_2_6" n="6"> Ibi etiam leones multi sunt, ursi, cervi, damule, caprioli,
+         lincei in multitudine magna valde; |53a| ibi sunt volucres multarum specierum habundantissime.
+         </seg>
+      <seg xml:id="p-ii-38_2_7" n="7"> Ibi vinum non crescit nec vinee ibi sunt, sed de tritico, riso et diversis speciebus
+         vinum optimum faciunt. </seg>
+      <seg xml:id="p-ii-38_2_8" n="8"> Ibi sunt gariofoli in copia maxima qui colliguntur ex arbusculis
+         parvis habentibus ramuscolos parvulos, florem album faciunt et parvum, sicut est gariofoli
+         granum; ibi est çinçimber habundanter valde similiter et synamomum, alieque species
+         multe aromatice ibi sunt que ad regiones nostras non deferuntur. [9] In huius provincie
+         montibus inveniuntur lapides, qui “turchisci” dicuntur, pulcri valde et in copia maxima,
+         quos sine licencia <term ref="#gran-can">Magni Kaam</term> nulli licitum est excavare. [10] Incole provincie huius <term ref="#idolatri">ydolatre</term> sunt; sunt autem viri a suis ydolis taliter dementati ut se credant eorum graciam
+         promereri si uxores proprias et filias viatoribus tradant: nam quando viator quicumque
+         per eos transit et ad domum |53b| cuiuscumque diverterit, confestim dominus domus
+         convocans uxorem, filias ac mulieres ceteras quas in domo habet, mandat ut hospiti
+         et sotiis per omnia pareant. Facto hoc mandato, discedit et peregrinum illum cum sotiis
+         in domo propria dimittit ut dominum, neque autem redire presumit donec ibi ille voluerit
+         immorari; peregrinus igitur ille pileum suum aut signum aliquod ante fores domus appendit.
+         Cumque dominus domus redire vult, putans illum forsitan discessisse, si signum ante
+         ianuam viderit retrocedit statim, unde peregrinus ille duobus vel tribus diebus ibi
+         immorari potest. [11] Hec autem ceca et detestanda abusio per totam provinciam <term ref="#caindu">Cayndu</term> observatur ab omnibus, nec ullus sibi hoc ad vituperium reputat, eo quod hoc faciunt
+         pro suorum honore deorum, creduntque quod ob hanc benignitatem quam exhibent viatoribus
+         a diis suis terrenorum |53c| fructuum obtinere habundantiam mereantur. [12] Monetam
+         vero in hunc modum habent: virgulas aureas sub certo pondere faciunt quas pro pecunia
+         expendunt, et iuxta pondus virgule pretium eius est, et hec est moneta maior; minor
+         vero talis est: sal in caldaria coquunt, quod postea in formella proiciunt ubi consolidatur,
+         et talem monetam expendunt; octoginta enim de hiis parvulis denariis sagium unum aureum
+         valent. [13] Post hec itur per dietas decem et inveniuntur in illa castra et vici
+         multi, ubi sunt per omnia consuetudines provincie <term ref="#caidu">*Caydu</term>, ubi etiam sunt venaciones maxime bestiarum et volucrum. [14] Terminatis decem dietis
+         invenitur flumen quod dicitur <term ref="#brius">Brius</term>, ubi terminatur provincia <term ref="#caindu">Cayndu</term>; in hoc flumine invenitur copia maxima auri quod dicitur de la paglola; super crepidinem
+         vero fluminis cynamomum copiosissime cres|cit |53d|; flumen ad <term ref="#mare-oceano">mare Occeanum</term> terminatur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

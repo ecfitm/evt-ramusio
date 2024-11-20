@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-52-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-52">
+      <note>
+	<p>Come nelle pericopi precedenti, Ramusio si attiene a <ref type="witlink" target="#vb-null-96">VB XCVI 8-9</ref> «[…] con grandissima ucisione de una parte e del’altra; ma finalmente <term ref="#lucansor">Luchansagor</term> fu morto nella bataglia. Morto el chapitano, tuta l’oste soa si messe a fugire […]».
+         La versione che si legge nelle altre redazioni è più stringata: <ref type="witlink" target="#v-null-64">V 64 9</ref> «Or ale fin questo <term ref="#lucansor">Lufa</term> fo schonfito e morto chon molti altri […]»; <ref type="witlink" target="#z-null-68">Z 68 15</ref> «[…] qui subito devicerunt <term ref="#lucansor">Liitan</term> cum suo exercitu» (<ref type="witlink" target="#f-null-133">F CXXXIII 12</ref> «Mes tel fu l’aventure qe <term ref="#lucansor">Liitan</term> perdi la bataille et hi fu ocis{i} con maint autres»). Il passo manca in L e P.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

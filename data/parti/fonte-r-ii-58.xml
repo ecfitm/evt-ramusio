@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>fonte-R-II-58</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="fonte-r-ii-58">
+    <head>
+      <hi rend="bold">Z, 75 1-2</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="fonte-r-ii-58_1_1" n="1"> Quando quidem disceditur a civitate <term ref="#paughin">Paugin</term>, itur una dieta per syrocum. </seg>
+      <seg xml:id="fonte-r-ii-58_1_2" n="2"> Tunc invenitur quedam civitas nomine <term ref="#caim">Cauyu</term> multum nobilis et magna, cuius gentes <term ref="#idolatri">adorant ydola</term>, sunt sub dominio <term ref="#gran-can">Magni Can</term> et monetam de cartis eius expendunt. </seg>
+    </p>
+    <p n="2"/>
+    <p n="3">
+      <seg xml:id="fonte-r-ii-58_3_1" n="1"> Ad terminum vero diete alterius est civitas nobilis <term ref="#caim">Cayn</term> ubi pisces habentur in copia maxima, ubi etiam sunt venationes magne bestiarum et
+         volucrum: fagiani vero in tanta copia ibi sunt ut pro tanto argenti pondere quantum
+         unus venetus habet, dantur tres optimi fagiani.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-97</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-97">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, CXVII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-97_2_1" n="1"> L’omo, quando el se parte de <term ref="#carazan">Charaian</term>, el ‹va› zinque zornade e truova una provinzia che à nome <term ref="#cardandan">Ardandan</term>. </seg>
+      <seg xml:id="va-null-97_2_2" n="2"> La zente è sotoposta al <term ref="#gran-can">Gran Chaan</term>. </seg>
+      <seg xml:id="va-null-97_2_3" n="3"> La maistra zità à nome <term ref="#vociam">Notian</term>. </seg>
+      <seg xml:id="va-null-97_2_4" n="4"> I omeni de quella provinzia àno i denti choverti d’oro e zaschuno fano formelle
+         segondo che requiere i suo’ denti: questo fa homeni e non le femene. </seg>
+      <seg xml:id="va-null-97_2_5" n="5"> I omeni sono
+         tuti chavalieri sechondo la soa uxanza, e non fano chossa del mondo se non andar in
+         oste e chazare; e lle done fano tute quelle cosse che bixognia alla fameglia; e àno
+         schiavi altrosì che fano quelli |47r| servixii che chomanda i signiori.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-97_3_1" n="1"> In questa provinzia è uxanza che quando l[a] femen[a] à partorito, ella lava e
+         fassa suo fiuolo, e al plui tosto ch’ella pò ‘la se lieva de lleto e fa i fati della
+         chaxa. </seg>
+      <seg xml:id="va-null-97_3_2" n="2"> Et de llà a quaranta dì ella nonn à nesuna briga del suo fiuolo se non
+         de dar-li lo late, ma el marito della femena se mete a zaxer in leto e tien el figiuol
+         siego, e à-ne chura defina a quaranta dì. </seg>
+      <seg xml:id="va-null-97_3_3" n="3"> E infra quel tenpo i parenti e i amixi
+         vixitano e achonpagniano quel homo che zaxe chome s’el fosse apartorido, e fa-ge gran
+         solazo. [9] E questo fano perché i dixeno che quella femena sì à abuda tanta fadiga
+         a portar el figiol in chorpo nuove mexi e partorir-lo ch’el nonn è chonvenevolle chossa
+         ch’ella non eba plui briga. [10] La femena porta da manzar al so marido alo leto.</seg>
+    </p>
+    <p n="4"/>
+    <p n="5"/>
+  </div>
+</body>
+</text>
+     </TEI>

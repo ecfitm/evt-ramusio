@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-25-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-25">
+      <note>
+	<p>Nei parr. 7-8 Ramusio segue alla lettera <ref type="witlink" target="#z-null-21">Z 21 7-9</ref> «Item hic inveniuntur montes, in quibus sunt lapides de quibus fit açurum melius
+         quod reperiatur in mundo. Sunt etiam ibi montes, in quibus vene inveniuntur argentum,
+         ramum et plumbum producentes in maxima quantitate. Frigida quidem provincia est» –
+         che aggiunge alle informazioni offerte da F e dalla restante tradizione un piccolo
+         <hi rend="italics">addendum</hi> sulla presenza nella regione di ricche miniere di rame e piombo, oltreché d’argento.
+         Vd. <ref type="witlink" target="#f-null-46">F XLVI 9-12</ref> «Et encore sachiés de voir que en cest meisme contree, en une autres montagnes, se
+         treuvent les pieres des quelz l’en fait le açur, et ce est le plu fin açur et le meior
+         qui soit ou monde. E les pieres que je voç ai dit, de coi l’en fait l’açur, est voine
+         qe naist en montagnes come autres voines. Et encore voç di qu’il hi a montagnes de
+         quoi l’en treuve voine des quelz traient argent a grant plantee. Il est mout froide
+         contree et provence».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

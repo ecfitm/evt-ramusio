@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-30-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-30">
+      <note>
+	<p>Nelle fonti ramusiane l’informazione, attestata in quasi tutta la tradizione antica,
+         si trova a questo punto del testo – sulla scorta di <ref type="witlink" target="#f-null-51">F LI 3-4</ref> «[…] a nimisté cun lui. Ele est ver maistre» – soltanto in <ref type="witlink" target="#v-null-27">V 27 6</ref> «[…] chon loro inemistade; ed è verso maistro» e in <ref type="witlink" target="#vb-null-34">VB XXXIV 2-3</ref> «[…] v’è stato gran guere. Et è questa citade verso maistro»). VB è senz’altro fonte
+         di R per il passo specifico: lo conferma la sostanziale identità della pericope nelle
+         due redazioni.</p>
+	<p>Z toledano tace per lacuna, L anticipa l’informazione in esordio di capitolo (<ref type="witlink" target="#l-null-46">L 46 1</ref> «<term ref="#samarchan">Sanmarcan</term> est maxima civitas et nobilis; et est versus maistrum»), Pipino la elimina.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

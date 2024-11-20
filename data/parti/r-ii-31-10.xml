@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-31-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-31">
+      <note>
+	<p>Ramusio compendia e combina assieme la testimonianza di VB e quella di un esemplare
+         affine, probabilmente, a V:<ref type="witlink" target="#vb-null-77"> VB LXXVII 7-8</ref> «I sete chavallieri fensse [R «fingendo»] esser rebellati al suo segnore, andòsene
+         al re <term ref="#dor">Doro</term> e con quello i se aconçono [R «si acconciorono»], e chome nobellissimi chavallieri
+         fono receuti lietamente e data bone provissione, i qual .VII. chavallieri per .II.
+         anni stete con quel segnor servando quello nobellissimamente [R «diligentemente lo
+         servivano»] e mostrando a quel segnore grandissima fedeltà, per modo che a quell segnor
+         molto erano chari [R «havea carissimi»] e de quelli molto el se fidava e ssenpre in
+         tute chosse con quello erano. Essendo andato el re <term ref="#dor">Doro</term> fuori nel paexe in chaça […]» [R «gl’andava alla caccia»]; <ref type="witlink" target="#v-null-51">V 51 11-13</ref> «Et quando quelli vassalli, li qualli erano belli zoveni, ebeno lizenzia dal <term ref="#prete-gianni">Prete Zane</term>, elli furono partiti insenbre et andò da quel re <term ref="#dor">Dor</term>, dizendo se li piaxeva li stesse chon lui; et ello i dimandò che zente li era, et
+         li disse che li era de stranio paixe [R «di lontani paesi»] et che li era vegnudi
+         a servir la suo’ chorona. Et ello disse: “Vui siati li ben vegnudi”, et félli grando
+         honor; sì che in questo muodo i diti vasalli del <term ref="#prete-gianni">Prete Zane</term> andò a servir el re <term ref="#dor">Dor</term>. Et quando li fo demoradi do ani el re amava [R «gli amava»] molto quelli, perché
+         quelli el servia degniamente [R «diligentemente lo servivano»], sì che lo re se fidava
+         de queli chomo se li fosse stadi so fioli» (V appare abbastanza affine a <ref type="witlink" target="#f-null-107">F CVII 8-12</ref> «Et quant le .VII. vale‹e›z ont eu le conjé dou <term ref="#prete-gianni">Prestre Johan</term>, il se partirent tuit ensenble, conpagnié d’escuiers; et s’en alent a cest roi d’Or et li distrent qu’il estoient venu por lui servir. Le roi dist elz qu’il soient li
+         tres bien venus et qu’il fira elz honor et plaisir. En tiel mainere com voç avés hoï
+         se mistrent les .VII. valeç dou <term ref="#prete-gianni">Prestre Johan</term> a servir le roi d’Or. Et quant il hi furent demorés entor deus anz, il estoient mout amés dou roi por
+         lor bien servir. Et que vos en diroie? Le roi se fioit d’elz ausint con ce il tuit
+         et .VII{I}. fuissent seç filz»).</p>
+	<p>Anche la versione di P è notevolmente abbreviata, ma non presenta coincidenze significative
+         con R: <ref type="witlink" target="#p-ii-30">P II 30 3-4</ref> «Qui, simulata causa, discedentes ab eo ad <term ref="#dario">Darii</term> curiam accesserunt, eius se obsequiis offerentes; qui eorum caliditatem advertere
+         nesciens in sui, eos suscepit obsequium. Per duos annos cordis maliciam perficere
+         nequiverunt; cum igitur rex de ipsis confideret […]». L omette del tutto il passo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

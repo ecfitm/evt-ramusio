@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-III-35</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-iii-35">
+    <head>
+      <hi rend="bold">P, III 35</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-iii-35_2_1" n="1"> Aliud regnum vicinum regno <term ref="#malabar">Melibar</term> dicitur <term ref="#guzzerat">Goçurath</term>, ubi est rex proprius et proprium ydeoma; est autem regnum hoc ad plagam occidentalem
+         in <term ref="#india">Maiori India</term>; in hoc regno apparet polus articus super mare ad altitudinem brachiorum .VI. </seg>
+      <seg xml:id="p-iii-35_2_2" n="2">
+         In hoc regno sunt pirrate maiores qui in mundo sint: quando ipsi in mari capiunt mercatores
+         dant eis bibere tamarendos cum aqua maris, propter quod mercatores fluxum ventris
+         continuo patiuntur; hoc autem ideo faciunt quia mercatores videntes a longe pirratas
+         consueverunt margaritas et preciosos lapides deglutire; per hunc igitur modum pirrate
+         omnia habent et illi |83d| nichil omnino abscondere possunt. </seg>
+      <seg xml:id="p-iii-35_2_3" n="3"> In hac regione est
+         copia endici, piperis et çinçimbris; sunt etiam ibi arbores de quibus bambatium seu
+         <term ref="#bambagio">bombicem</term> colligunt in copia magna: arbor enim que <term ref="#bambagio">bambatium</term> producit ascendit in altitudinem communiter sex passum et annis .XX. fructificat;
+         post .XX. annos ad nichilum valet. <term ref="#bambagio">Bombatium</term> autem quod in arbore producitur usque ad annos .XII. valet pro tela quia filari potest;
+         a .XII. annis supra valet pro cultris vel duplodibus aut pro opere simili. </seg>
+      <seg xml:id="p-iii-35_2_4" n="4"> In
+         hoc regno copia est magna optimi corii quod ibi nobilissime conficitur et paratur.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

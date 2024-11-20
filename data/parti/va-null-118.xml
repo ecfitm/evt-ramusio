@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-118</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-118">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, CXVIII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-118_2_1" n="1"> Quando l’omo se parte de <term ref="#quinsai">Quinsai</term>, el va una zornada verso sirocho, tuta fiada trovando chaxe e zardini e tere de gran
+         fruti, e possa vi truovi ‹la zità› de <term ref="#tapinzu">Chanpingui</term>, ch’è molto grande e bella.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-118_3_1" n="1"> E poi vai tre zornade, sì truova la zità de <term ref="#uguiu">Ugin</term>. </seg>
+      <seg xml:id="va-null-118_3_2" n="2"> Po’ se parte de <term ref="#uguiu">Ugin</term> e va tre zornade per sirocho trovando tuta fiada zitade asai, e sì spesse ch’el par
+         se vada per una. </seg>
+      <seg xml:id="va-null-118_3_3" n="3"> Et è-ne abondanzia de tute chosse da viver. </seg>
+      <seg xml:id="va-null-118_3_4" n="4"> Et è-ne le plui
+         grosse chane che siano in tute quelle chontrade: el ge n’è chane grosse ben quatro
+         spane e longe ben quindesse passa.</seg>
+    </p>
+    <p n="4">
+      <seg xml:id="va-null-118_4_1" n="1"> De chavo de do zornade è la zità de <term ref="#gengui">Giengui</term>, molto grande e nobelle. </seg>
+      <seg xml:id="va-null-118_4_2" n="2"> Poi va l’omo quatro zornade per sirocho trovando tuta
+         fiada zità e chastelle. </seg>
+      <seg xml:id="va-null-118_4_3" n="3"> E in quella chontrà è molt‹i li›oni grandi e fieri; non
+         à quella provinzia de <term ref="#mangi">Mangi</term> moltoni [n]é berbixi, ma àno boi e vache, chavre e porzi in gran quantità.</seg>
+    </p>
+    <p n="5"/>
+  </div>
+</body>
+</text>
+     </TEI>

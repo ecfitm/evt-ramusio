@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-36-15</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>Come in gran parte del capitolo, Ramusio segue Z, che a sua volta appare molto vicina
+         a F: Z 53 19 «Et cum itum est istis quinque dietis, invenitur quedam provincia devastata nomine
+         <term ref="#thebeth">Thebet</term>» (<ref type="witlink" target="#f-null-113">F CXIII 22</ref> «Et quant l’en est alés .V. jornee que je voç ai contés desovre, adonc treuve l’en
+         une provence mout gaste qe s’apelle <term ref="#thebeth">Tebet</term>, et noç en trateron ci desout»). L’informazione si legge, con qualche variante, anche
+         in V, e, in una forma molto sintetica, in VB: V 55 12 «Et in chavo de queste zinque zornade el se trova una provinzia la qual à nome <term ref="#thebeth">Tebet</term>, la qualle sono molto vasta e destruta […]»; <ref type="witlink" target="#vb-null-81">VB LXXXI 1</ref> «‹P›asato se à le .V. giornate, se trova la gran provincia de <term ref="#thebeth">Thabet</term> […]». Il passo è invece del tutto omesso in L e P.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

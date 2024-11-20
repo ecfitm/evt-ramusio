@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-21</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-21">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XXI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-21_1_1" n="1"> Ci devise de la <term ref="#armenia">Grant Armenie</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-21_2_1" n="1"> La <term ref="#armenia">Grant Armenie</term> est une grant provence. Elle comance da une cité ki est apelé <term ref="#arcingan">Arçinga</term>, en la quel se laborent les meilior <term ref="#bochassini">bocaran</term> ke soit au monde. Et hi a les plus biaus bangnes et les meiliors d’eive surgent qe
+         soient au seicle. </seg>
+      <seg xml:id="f-null-21_2_2" n="2"> Les jens sunt Armin et sunt homes do <term ref="#tartari">Tartar</term>. </seg>
+      <seg xml:id="f-null-21_2_3" n="3"> Il hi a mantes castaus et cités: la plus noble{s} cité{s} est Arçingal, que ‹a› arcevesch‹e›ve; l’autres sunt <term ref="#argiron">Argiron</term> et <term ref="#darzizi">Darçiçi</term>. </seg>
+      <seg xml:id="f-null-21_2_4" n="4"> El est mout grant provence. Et voç di ke le esté hi demorent toute le hoste
+         dou Tartar dou Levant, por ce ke en ceste provence ha mout bon pasquor l’esté as bestes, et por ce qe demorent
+         le <term ref="#tartari">Tartar</term> et lor bestes l’estee, mes l’inver ne i demorent pas por la grant froidure de la
+         nois, q’en i a outre mesure, dont les bestes n’en poroi vivere. Et por ce |10b| se
+         partirent le <term ref="#tartari">Tartar</term> l’inver et s’en vont es leu chaut, la o trovent grant erbes et buen pasquor por lor
+         bestes. </seg>
+      <seg xml:id="f-null-21_2_5" n="5"> Et encore voç di ke en cest <term ref="#armenia">Grant Arminie</term> est l’arche de Noé sor une grant montaigne. </seg>
+      <seg xml:id="f-null-21_2_6" n="6"> Elle confine dever midi enver levant
+         con uns roiames qui est apelés <term ref="#moxul">Mosul</term>, ke sunt jens cristienç: ce sunt jacopins et nestorins, des quelz voç en conterai
+         enn’avant. </seg>
+      <seg xml:id="f-null-21_2_7" n="7"> Dever tramontane confines con <term ref="#zorzania">Jorgiens</term>, des quelz voç en parlerai encore avant. Et a ceste confine dever <term ref="#zorzania">Jorjens</term> ha une fontane ke sorçe oleo en grant abundance, si que cent nes hi kargent a une
+         foies: mes il n’est pas bon a manger, me il est bon a ardoir et a onger les giamiaus
+         por la rogne et por le farbores; et vienent les homes de mout loingne por cest{o}
+         olio; et tot la contree environ ne ardent autre olio ke cest.</seg>
+    </p>
+    <p n="3"/>
+  </div>
+</body>
+</text>
+     </TEI>

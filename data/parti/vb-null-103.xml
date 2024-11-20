@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-103</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-103">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, CIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-103_1_1" n="1"> ‹P›artendosi da <term ref="#singui">Cinguy</term>, chaminando una çornada inver l’ixolla vasse per una †cautia† la qualle è a l’intrada
+         del <term ref="#mangi">Mançi</term>, la qualle cautia à molte belle porte. </seg>
+      <seg xml:id="vb-null-103_1_2" n="2"> Et apresso alla †cautia†, da uno di ladi
+         e dal’altro, si è aqua onde nella provincia non se pò intrare se no per questa †cautia†.
+         </seg>
+      <seg xml:id="vb-null-103_1_3" n="3"> Sì che in questo camino per una giornatta se trova grande giente e una bellissima
+         e grande citade la qualle se chiama <term ref="#paughin">Parchim</term>. </seg>
+      <seg xml:id="vb-null-103_1_4" n="4"> La giente tuti sono <term ref="#idolatri">idolatrii</term>, i qualli bruxano i corpi de lor morti e spendeno dilla moneta di carta del segnore
+         però che ssono sottoposti al <term ref="#gran-can">Gran Can</term>. </seg>
+      <seg xml:id="vb-null-103_1_5" n="5"> Viveno de marchadantie e mestieri. </seg>
+      <seg xml:id="vb-null-103_1_6" n="6"> Àno sede e fano pani de seta et oro in
+         quantittà et è abondante de tute vituarie da viver.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

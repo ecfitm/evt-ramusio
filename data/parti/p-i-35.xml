@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-35</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-35">
+    <head>
+      <hi rend="bold">P, I 35</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-35_2_1" n="1"> <term ref="#bascia">Bascia</term> est provincia distans per dietas decem a provincia <term ref="#balaxiam">Balascie</term>; regio valde calida est. </seg>
+      <seg xml:id="p-i-35_2_2" n="2"> Homines habet nigros, astutos et malos, linguam habent
+         propriam et in auribus inaures aureas et argenteas deferunt cum margaritis et lapidibus
+         preciosis. </seg>
+      <seg xml:id="p-i-35_2_3" n="3"> Carnibus vescuntur et riso. </seg>
+      <seg xml:id="p-i-35_2_4" n="4"> <term ref="#idolatri">Idolatre</term> autem sunt vacantes incantacionibus et invocacionibus demonum.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-29-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-29">
+      <note>
+	<p>Ramusio traduce <ref type="witlink" target="#z-null-117">Z 117 21</ref> «In isto quidem regno melius laboratur de operibus suendi, et magis subtiliter quam
+         in toto alio mundo» (la cui lezione ripete F CLXXXIII 8 «E que voç en diroi? Sachiés tout voiremant qe en ceste reingne se labore miaus de
+         cousse de cuir, et plus sotilment, que ne fait en tout lo monde, e çelz qe sunt de
+         greingnors vailance»). L 170 7 si limita a: «In nulla enim parte mundi de coriis tam pulcre et subtiliter laboratur».
+         Il passo manca dopo VB CLIII 11.</p>
+	<p>Sul silenzio di <ref type="witlink" target="#p-iii-35">P III 35</ref> e VA CXLV vedi la nota al par. 5; sul silenzio di V 100 la nota al par. 6.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-3-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-3">
+      <note>
+	<p>F CLX 1-7 (Ci devise des maineres des ydres); P III 7 (De <term ref="#idolatri">ydolatria</term> et crudelitate virorum <term ref="#zipangu">Çimpangu</term>. Capitulum VII), VA CXXII 31-34 (Dell’ixolla de <term ref="#zipangu">Zinpagu</term>, dove è cotanto oro); Z 94 1-10 (Hic naratur de modo et manerie ydolorum); L 143 15-17 (De insula Cimpingu); V 82 1-6 (Dela maniera dele idolle); VB CXXVIII.</p>
+	<p>Il capitolo è l’esito della “contaminazione” di due fonti (facilmente identificabili
+         per la forma del loro discorso), usate consecutivamente e per porzioni diseguali:
+         P III 7 1 è l’antigrafo del par. 1 (e fornisce a Ramusio i confini dell’unità-capitolo, attestata
+         poi dal solo VB CXXVIII), mentre i parr. 2-3 nascono dalla traduzione di Z 94 7-10. Diamo a fronte, perché maggioritaria nella composizione di R, la lezione di quest’ultima
+         redazione.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

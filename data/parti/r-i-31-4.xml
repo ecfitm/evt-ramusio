@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-31-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-31">
+      <note>
+	<p>Alcune delle informazioni contenute in questa pericope, sconosciute al grosso della
+         tradizione, si leggono nello Z toledano, ma anche in L e V: la lezione ramusiana dipenderà
+         dunque da Z1. </p>
+	<p>L’appunto sulle gambe degli abitanti dello Yarcant, ad es., si ritrova nello Z toledano
+         e in L, in una versione più raffinata e ricca di particolari rispetto a quella di
+         R (se ne può dedurre che Z1, qui, semplificasse): vd. <ref type="witlink" target="#z-null-26-2-7">Z 26 6</ref> «Et pro maiori parte in illa provincia habitantes pedem unum habent valde grosum,
+         reliquum vero subtillem; et optime tamen incedunt», <ref type="witlink" target="#l-null-47">L 47 3</ref> «Et maior pars harum gentium habet unum ex pedibus grossum, alium vero non». La notevole
+         rispondenza dei due testi suggerisce peraltro che la fonte di L avesse un’informazione
+         affine a Z1, dal momento che vi compare anche la descrizione del gozzo, assente invece nel toledano:
+         cfr. <ref type="witlink" target="#l-null-47">L 47 3</ref> «et habent gossum in gula». </p>
+	<p>Il gozzo è citato, un po’ <hi rend="italics">en passant</hi> e in un altro luogo del capitolo, anche in <ref type="witlink" target="#v-null-28">V 28 1</ref> «[…] et sono alguni christiani nosterini; e la mazor parte de queli sì àno el goso
+         soto la gola; ed è soto la signoria del nievo del <term ref="#gran-can">Gran Chan</term> […]». </p>
+	<p>Soltanto in Z1, e di conseguenza in R, sono infine il dato sull’abilità tecnica degli uomini della
+         regione («Gli habitanti sono grandi artefici») e quello sull’impurità delle sue acque
+         come causa dell'insorgenza del gozzo («[…] avviene per la proprietà dell’acque che
+         bevono»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

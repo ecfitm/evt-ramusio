@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-67</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-67">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 67</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-67_1_1" n="1"> <term ref="#ciangli">Ciangli </term>est quedam civitas in <term ref="#cataio">Cathay</term> versus meridiem, subdita <term ref="#gran-can">Magno Can</term>; cuius gentes <term ref="#idolatri">adorant ydola</term> et pecuniam habent de cartis. </seg>
+      <seg xml:id="z-null-67_1_2" n="2"> Que civitas distat a <term ref="#cianglu">Çianglu</term> per .V. dietas; et in istis .V. dietis multe inveniuntur |34r| civitates et castra,
+         que sunt subdite <term ref="#gran-can">Magno Can</term>; et sunt civitates de magnis mercationibus et artibus. </seg>
+      <seg xml:id="z-null-67_1_3" n="3"> Et per medium civitatis
+         <term ref="#ciangli">Çiangli</term> quoddam flumen pertransit largum et profundum, per quod feruntur multa mercimonia
+         de syrico, de speciebus et aliis multis.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

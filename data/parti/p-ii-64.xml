@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-64</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-64">
+    <head>
+      <hi rend="bold">P, II 64</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-64_2_1" n="1"> Post recessum a civitate <term ref="#singui">Singuy</term> itur per dietas .V. et inveniuntur in via civitates plures magne ubi negotiaciones
+         maxime fiunt. </seg>
+      <seg xml:id="p-ii-64_2_2" n="2"> Postmodum pervenitur ad nobi|65b|lissimam civitatem <term ref="#quinsai">Quinsay</term> quod in nostra lingua sonat civitas celi, que maior civitas orbis est et est principalior
+         in provincia <term ref="#mangi">Mangi</term>. </seg>
+      <seg xml:id="p-ii-64_2_3" n="3"> Ego Marchus fui in hac civitate et curiose et diligenter condiciones illius
+         perscrutatus sum, quas summatim, ut reperi, et breviter enarrabo. </seg>
+      <seg xml:id="p-ii-64_2_4" n="4"> Huius civitatis
+         circuitus continet in giro miliaria centum aut circa; habet vero pontes lapideos .XII.
+         milia tante altitudinis ut navis sub eis ut plurimum transire possit; est autem civitas
+         in lacunis ut civitas Venetiarum et si careret pontibus de vico ad vicum additus non
+         pateret per terram, et ob hoc oportet ut ibi sint tot milia pontium. </seg>
+      <seg xml:id="p-ii-64_2_5" n="5"> In hac civitate
+         sunt artes principales .XII. et pro qualibet ipsarum sunt in civitate .XII. milia
+         stacionum, in quibus ipsarum artium artifices operantur; quelibet autem stacio |65c|
+         operarios habet inter magistros et ministros .X. aut .XV. sive .XX., et sunt quandoque
+         in aliquibus .XL. </seg>
+      <seg xml:id="p-ii-64_2_6" n="6"> Tanta est ibi artificum et mercacionum innumera multitudo quod
+         hiis qui non viderunt incredibile penitus videretur. </seg>
+      <seg xml:id="p-ii-64_2_7" n="7"> Homines civitatis huius delitiosissime
+         vivunt; divites, qui principales sunt, in stationibus artium honorifice valde vivunt
+         et neque ipsi neque uxores ipsorum manibus propriis operantur; faciunt autem ministros
+         alios operari: ex antiquo enim regni statuto consuetudo est ibi ut quilibet in domo
+         propria teneat stationem et artem, sicut fecit hactenus pater eius, sed si dives est
+         non cogitur manibus propriis operari. </seg>
+      <seg xml:id="p-ii-64_2_8" n="8"> In hac civitate sunt mulieres formose valde
+         et communiter sunt multis delitiis enutrite. [9] Versus meridiem est in ipsa civitate
+         lacus magna que .XXX. miliaria in giro continet; in hoc circuitu sunt |65d| multa
+         palatia et multe domus magne nobilium et sunt interius et exterius mirabiliter adornate,
+         sunt etiam ibi eclesie ydolorum; in medio lacus ipsius due parvule insule sunt et
+         in qualibet ipsarum est palatium nobile et pulcrum valde ubi sunt preparamenta et
+         vasa omnia necessaria pro nuptiis et solemni convivio; si quis igitur vult in solemni
+         loco tenere convivium accedit illuc, ubi potest convivium vel nuptias cum honore tenere.
+         [10] In civitate hac <term ref="#quinsai">Quinsay</term> multe pulcherrime domus sunt. [11] Sunt etiam per vicos eius parve lapidee turres
+         pro communi usu contrate ut quando fortuitu ignis accenditur possint convicini res
+         suas ad prefatas turres ne comburantur deferre, quia enim in civitate domus lignee
+         multe sunt; sepe in civitate ignis accenditur. [12] In hac civitate <term ref="#idolatri">adorantur ydola</term>. [13] Comedunt autem carnes equorum et canum et animalium |66a| omnium. [14] Et expenditur
+         ibi moneta <term ref="#gran-can">Magni Kaam</term>. [15] In hac civitate custodia maxima fit ex mandato <term ref="#gran-can">Magni Kaam</term> ne vel civitas rebellare presumat aut ibi furta vel homicidia fiant. [16] In quolibet
+         enim ponte civitatis de die et nocte .X. custodes sunt. [17] In hac civitate mons
+         unus est super quem est turris et super turrem tabule sunt de aceribus; quando autem
+         ignis in urbe accenditur, si custodes turris hoc videre possunt, cum ligneo maleo
+         percutiunt tabulas, ut huius sonitus circumquaque per terram eminus audiatur et concurrant
+         homines ad auxilium conferandum; simile etiam fit si pro quacumque causa commotio
+         vel tumultus in civitate fiat. [18] Vie omnes civitatis sunt strate lapidibus ita
+         quod civitas tota munda est valde. [19] In hac civitate sunt terme circiter tria milia
+         pulcre valde et magne, in |66b| quibus sepe homines balneantur: multum enim student
+         mundicie corporali. [20] Ultra civitatem <term ref="#quinsai">Quinsay</term> ad miliaria .XXV. ad plagam orientalem est <term ref="#mare-oceano">Occeanum mare</term>, et ibi supra mare est civitas <term ref="#gampu">Ganfu</term> ubi portus est optimus ad quem conveniunt naves in multitudine maxima de <term ref="#india">India</term> et de regionibus aliis; a civitate autem usque ad mare est fluvius maximus per quem
+         naves ad civitatem veniunt, qui fluvius transit per plurimas alias regiones. [21]
+         Provinciam <term ref="#mangi">Mangy</term> divisit Magnus <term ref="#gran-can">Kaam</term> in regna .IX. dans regem proprium unicuique regno iuxta sue beneplacitum voluntatis;
+         sunt autem omnes hii reges potentes valde, sed subditi <term ref="#gran-can">Magno Kaam</term>, et oportet eos annis singulis de omnibus regnorum suorum proventibus et expensis
+         et de suo regimine <term ref="#gran-can">Magni Kaam</term> officialibus reddere ra|66c|tionem; unus autem illorum regum in civitate <term ref="#quinsai">Quinsay</term> continue commoratur, qui sub ditione sua .CXL. civitates habet. [22] Provincia enim
+         <term ref="#mangi">Mangy</term> habet in universo civitates .MCC. et in singulis ipsarum per <term ref="#gran-can">Magnum Kaam</term> positi sunt custodes, ne forte presumant ‹rebellare›; hominum custodum innumerabilis
+         est stupenda magnitudo; non sunt tamen omnes <term ref="#tartari">Tartari</term>, sed sunt de diversis exercitibus et stipendiariis <term ref="#gran-can">Magni Kaam</term>. [23] In hac civitate <term ref="#quinsai">Quinsay</term> et in tota provincia <term ref="#mangi">Mangy</term> consuetudo est ut statim cum puer nascitur parentes eius scribi faciunt diem et horam
+         nativitatis eius et sub quo planeta natus est: in cunctis itineribus suis et factis
+         astrologorum reguntur iudiciis, ideoque scire volunt sui ortum diem et horam. [24]
+         Quando in hac provincia moritur quis, canapinis saccis eius consanguinei induuntur
+         et mortui cadaver cum magno cantu et ymagi|66|nibus servorum, ancillarum, equorum
+         et denariorum comburunt, que omnia de papiro faciunt, creduntque quod in vita alia
+         talia obtinebit defunctus, qualia in similitudine sunt combusta; post hec cum leticia
+         magna tangunt musica instrumenta, dicentes quod dii sui cum tali eos honore suscipiunt
+         cum quali corpora comburuntur. [25] In hac civitate <term ref="#quinsai">Quinsay</term> est palatium mirabile in quo <term ref="#fanfur">Facfur</term> quondam rex <term ref="#mangi">Mangy</term> tenebat curiam primo; locus magnus circumcinctus est muro per quadrum altitudinis
+         magne que in giro continet miliaria .X., intra quos muros sunt viridaria pulcra valde
+         cum fructibus delicatis; ibi sunt fontes et lacune in quibus multi et optimi pisces
+         habentur. [26] In medio autem interioris spacii palatium pulcherrimum est et maius
+         quod sit in mundo: habet enim aulas .XX. magnitudinis eiusdem ‹omnes›, in quarum |67a|
+         qualibet comederent simul .X. milia hominum in multa commoditate et debita congruitate
+         cunctis discumbentibus collocatis; sunt autem aule depicte et deaurate pulcherrimo
+         opere. In ipso etiam palacio sunt camere mille aut circa. [27] In civitate <term ref="#quinsai">Quinsay</term> sunt ignes iuxta vulgare ytalicum seu familie tot numero, quod ad .CLX. <term ref="#toman">tomani</term> ascendunt in computacione summaria; <term ref="#toman">tomani</term> vero .X. milia continent, sunt igitur tot in universo familie ut earum numerus ad
+         mille milia et .LX. milia familiarum ascendat. [28] Palatia autem multa in hac civitate
+         sunt et pulcra valde. [29] In tota enim hac civitate una ecclesia sola christianorum
+         nestorinorum est. [30] In hac civitate et in tota provincia <term ref="#mangi">Mangy</term> oportet ut quilibet pater familias super hostium domus sue scribi faciat nomen suum
+         et uxoris sue et nomina omnia de familia sua et numerum etiam equorum suorum; |67b|
+         cum autem quis de familia moritur vel domitilium mutat oportet ut deleatur inde nomen
+         discedentis aut mortui, et scribatur ibi nomen cuiuscumque de novo nascentis vel ad
+         familiam additi, et in hunc modum sciri faciliter potest numerus hominum qui in civitate
+         sunt; similiter etiam stabularii seu hospitium receptores scribunt in suis quaternis
+         nomina omnium viatorum quos in suis hospitiis recipiunt, et quo mense et quo die in
+         eius hospitium sunt ingressi.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

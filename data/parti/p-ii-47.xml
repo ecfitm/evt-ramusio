@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-47</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-47">
+    <head>
+      <hi rend="bold">P, II 47</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-47_2_1" n="1"> <term ref="#amu">Amu</term> vero provincia est ad orientalem plagam que <term ref="#gran-can">Magno Kaam</term> subiecta est. </seg>
+      <seg xml:id="p-ii-47_2_2" n="2"> Homines <term ref="#idolatri">ydolatre</term> sunt. </seg>
+      <seg xml:id="p-ii-47_2_3" n="3"> Linguam propriam habent. </seg>
+      <seg xml:id="p-ii-47_2_4" n="4"> Animalium greges habent magnos et victualium
+         copiam. </seg>
+      <seg xml:id="p-ii-47_2_5" n="5"> Equos multos habent et optimos, quos negotiatores in <term ref="#india">Yndiam</term> deferent. </seg>
+      <seg xml:id="p-ii-47_2_6" n="6"> Bubali ibi multi sunt, boves et vacce in copia magna quia ibi sunt
+         pascua delicata. </seg>
+      <seg xml:id="p-ii-47_2_7" n="7"> Viri et mulieres deferunt ad brachia monilia seu brachialia aurea
+         et argentea magni valoris.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

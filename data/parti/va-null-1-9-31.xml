@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-1-9-31</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-1-9-31">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, I 9-31</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="va-null-1-9-31_1_1" n="1"> In quelo tenpo che misier <term ref="#balduino">Balduino</term> era inperador de <term ref="#constantinopoli">Chostantinopoli</term>, che fo ani MCCL, misier Nichuola Pollo, che fo pare de Marcho, e misier Mafio Pollo,
+         fradelo de misier Nicollò, valenti e savii e avezuti, se partìno de Veniexia e andò
+         chon suo’ merchadantie in la zità de <term ref="#constantinopoli">Chostantinopoli</term>. </seg>
+      <seg xml:id="va-null-1-9-31_1_2" n="2"> E llì àveno chonseglio de dover andar plui innanzi, et per sua utilitate et
+         per sue merchadantie. </seg>
+      <seg xml:id="va-null-1-9-31_1_3" n="3"> E chonprarono molte zoie e intrò in nave in <term ref="#constantinopoli">Chostantinopoli</term> e andò in <term ref="#soldadia">Soldania</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="va-null-1-9-31_2_1" n="1"> Quando ’li fono in <term ref="#soldadia">Soldania</term>, aparsse a lor un tenpo de andar plui avanti, e partì-sse de <term ref="#soldadia">Soldania</term> e mese-sse in chamino. </seg>
+      <seg xml:id="va-null-1-9-31_2_2" n="2"> E chavalcòno tanto che i zonse ala zità là dove era <term ref="#barcha">Barcha Chan</term>, che era segnior d’una parte de’ <term ref="#tartari">Tartari</term>, li quali abitava in la contrà de <term ref="#bolgara">Balgara</term>. </seg>
+      <seg xml:id="va-null-1-9-31_2_3" n="3"> Et era questo segnior <term ref="#barcha">Barcha Chan</term> signior onorà. </seg>
+      <seg xml:id="va-null-1-9-31_2_4" n="4"> A misier Nicolò e misier Mafio i mostrò grande alegreza de soa
+         venuta. </seg>
+      <seg xml:id="va-null-1-9-31_2_5" n="5"> Egli ge donò tute le zoie che lor avevano siego et <term ref="#barcha">Barcha Chan</term> li rezevete volentiera e molto li piaque, e fè’-ge donar altre cosse che valevano
+         ben do a tanto, le qual cosse egli le mandàno a vender in quelle parte ‹e› fono molto
+         ben vendute. </seg>
+    </p>
+    <p n="3"/>
+    <p n="4"/>
+    <p n="5"/>
+  </div>
+</body>
+</text>
+     </TEI>

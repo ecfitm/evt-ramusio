@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-32-4</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-32">
+      <note>
+	<p>La transizione si presenta nella più parte della tradizione (la omettono VB e L) in
+         forme maggiormente articolate: <ref type="witlink" target="#z-null-120">Z 120 6</ref> «Alia vero dicenda ibi non sunt; quare, ulterius procedentes, dicemus de quodam regno
+         nomine <term ref="#chesmacoran">Kesmacoran</term>», traduzione di F CLXXXVI 4 «Autres couses ne i a que a mentovoir face: e por ce nos en partiron e vos contaron
+         avant do u‹n› autre rengne qe est apellés <term ref="#chesmacoran">Kesmacoran</term>»; V 102 9 «Or in questo nonn è altro da dire, però da questo se partiremo et anderemo più avanti,
+         e diremo de uno altro reame».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VA-NULL-72</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="va-null-72">
+    <head corresp="#va_body">
+      <hi rend="bold">VA, LXXII</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="va-null-72_2_1" n="1"> Ancora sapiate che per lo <term ref="#gran-can">Gran Chaan</term> è ordenati dodexemilia baroni, li quali è apelati <term ref="#quiecitari">Ispini</term>, che è a dire “fedeli |36v| del segnior”, ai qual dona el segnior tredexemilia vestimente
+         al’ano per zaschadun. </seg>
+      <seg xml:id="va-null-72_2_2" n="2"> E fa tredexe feste al’ano, sì ch’el veste queli dodexemilia
+         baroni tredexe fiade al’ano, e ogni festa sì muta cholori. </seg>
+      <seg xml:id="va-null-72_2_3" n="3"> E queste vestimente
+         è ornate de perle e de piere prezioxe, sì che ziaschuna vestimenta è de gran valor.
+         </seg>
+      <seg xml:id="va-null-72_2_4" n="4"> E anchora sì dona a zaschuno de queli baroni una zentura d’oro de gran valor;
+         e anchora sì dona a zaschuno de queli baroni una chalzamenta de chamuto, lavorade
+         chon fil d’arzento sotilmente, sì che zaschuno de loro par uno re quando i àno queli
+         ornamenti chusì meraveglioxi. </seg>
+      <seg xml:id="va-null-72_2_5" n="5"> Lo re se veste senpre chon queli de quel cholor,
+         ma le suo’ vestimente sono plui prezioxe. </seg>
+      <seg xml:id="va-null-72_2_6" n="6"> E sapiate che queste vestimente ènno
+         in suma zento e zinquantasiemillia, et èno de sì gran valor che apena se porave contar.
+         </seg>
+      <seg xml:id="va-null-72_2_7" n="7"> E questo fa lo signior perché soa chorte e soa festa sia plui ornata.</seg>
+    </p>
+    <p n="3">
+      <seg xml:id="va-null-72_3_1" n="1"> Anchora ve digo una gran maraveglia: che quando el <term ref="#gran-can">Gran Chaan</term> fa festa e solennitade segondo ò dito de sopra, li fì menado dananzi uno lione molto
+         grande, lo qual se mete a zaxere e mostra ch’el aba segnior chome farave uno chan.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

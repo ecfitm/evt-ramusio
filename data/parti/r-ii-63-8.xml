@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-63-8</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-63">
+      <note>
+	<p>Ramusio combina la lezione di <ref type="witlink" target="#p-ii-59">P II 59 4</ref> «[…] cum his pilorcis quandoque naves per flumina trahuntur […]» [R «Con queste in
+         luogo di alzana si tirano su per il fiume le navi»], con quella di <ref type="witlink" target="#z-null-80">Z 80 21-23</ref> «Restam quidem habent de canis cum qua trahuntur per flumen. […] Et quelibet istarum
+         navium habet .VIII. vel .X. vel .XII. equos [R «et ciascuna ha dieci o dodici cavalli»]
+         qui trahunt ipsas per flumen». Il riferimento all’uso dei cavalli figura in forma
+         abbreviata anche in <ref type="witlink" target="#v-null-72">V 72 7-8</ref> «[…] chon li qualli i tirano le velle […] et zaschaduna de queste nave àno dodexe
+         chavali i qualli tirano quelle per lo fiume». Nelle altre redazioni poliane non se
+         ne fa menzione: <ref type="witlink" target="#f-null-146">F CXLVI 9</ref> «[…] con le quele se tirent les nes sor por cest flum […]». <ref type="witlink" target="#l-null-121">L 121 4</ref> «Trahunt autem has naves per flumen non cum funibus […]». Il passo manca in VB.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

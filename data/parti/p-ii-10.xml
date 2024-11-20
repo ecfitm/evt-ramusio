@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-II-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-ii-10">
+    <head>
+      <hi rend="bold">P, II 10</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-ii-10_2_1" n="1"> Civitas <term ref="#cambalu">Cambalu</term> super flumen magnum est in provincia <term ref="#cataio">Cathay</term> que olim nobilis fuerat et regalis; <term ref="#cambalu">Cambalu</term> enim in nostra lingua sonat “civitas domini”; hanc <term ref="#gran-can">Magnus Kaam</term> ad partem aliam fluminis transtulit quia ab astrologis didicerat quod imperio eius
+         futura rebellis erat. </seg>
+      <seg xml:id="p-ii-10_2_2" n="2"> Civitas hec quadrata est et per .XXIIII. miliaria in giro
+         protenditur, ita ut cuiuslibet quadrature facies sex miliaria longitudinis habet;
+         muros de terra habet dealbatos exterius altitudinis passuum .XX., latitudo quorum
+         habet inferius passus decem, sed quanto amplius ad superiora ascenditur, sunt subtiliores
+         adeo ut summitas solummodo passus tres latitudinis habet. Habet etiam portas principales
+         duodecim in qualibet scilicet quadratura tres |39b| et super singulas portas singula
+         palatia sunt, et in omnibus murorum angulis similiter palatia sunt, in quibus sunt
+         aule plurime ubi servantur arma custodum civitatis illius; habet insuper civitas vicos
+         latos et rectos adeo ut ab una porta, propter vici rectitudinem, porta alia sibi perdirectum
+         opposita videatur. </seg>
+      <seg xml:id="p-ii-10_2_3" n="3"> Intra urbem vero multa et pulcra palatia sunt et alie domus
+         multe pulcre sunt valde; in medio autem civitatis palatium magnum est ubi est campana
+         pregrandis cum qua tria signa omni sero fiunt, postquam nulli licet domum egredi,
+         nisi propter infirmi vel parientis mulieris necessitatem. Oportet autem omnes de nocte
+         per civitatem euntes lumen deferre; quelibet vero civitatis porta noctibus singulis
+         a mille hominibus custoditur, non quidem propter timorem hostium sed latronum: summum
+         enim studium |39c| adhibet rex ut arceantur fures.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

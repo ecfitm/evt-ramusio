@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-51</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-51">
+    <head>
+      <hi rend="bold">P, I 51</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="p-i-51_1_1" n="1"> Terminata via prenominati deserti pervenitur ad civitatem <term ref="#caracoran">Carocoram</term>, que est ad aquilonarem plagam, ubi dominium <term ref="#tartari">Tartarorum</term> habuit originem: habitabant primitus in campestribus magnis regionis illius, ubi
+         non erant civitates vel oppida, sed pascua solum et flumina multa, nec habebant dominum
+         de gente ipsorum, sed tributarii erant magni regis qui dicebatur Uncham, quem Latini Presbiterum Johannem vocant, de quo totus loquitur orbis. </seg>
+      <seg xml:id="p-i-51_1_2" n="2"> Postquam autem crevit populus <term ref="#tartari">Tartarorum</term> et augmentatus est nimis, timuit rex ille ne ab illa multitudine offendi posset,
+         si forte vellent esse rebelles; cogitavit igitur eos ab invicem in partes divi|24b|dere
+         et ad diversas regiones transferre, ut ex hoc eorum potencia minor esset. Ipsi autem
+         nolentes omnino ab invicem separari omnes simul transierunt desertum ad aquilonarem
+         plagam et pervenerunt ad locum ubi prenominatum regem timere non potuerant, cui postea
+         tributum reddere noluerunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-62-5</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-62">
+      <note>
+	<p>La prima parte («Et la causa […] vietar») presenta diverse affinità <ref type="witlink" target="#z-null-79">Z 79 8</ref> «Sed exercitus permanere non poterat, nisi solummodo a facie una, videlicet versus
+         tramontanam: nam ab omnibus aliis lateribus erant lacus profundi et stagna, unde per
+         aquam victualia civitati sufficientia ferebantur, nec poterat exercitus prohibere»
+         [R «d’onde si portavano alla città vettovaglie di continuo, né si poteva vietar»];
+         (a sua volta abbastanza vicino a <ref type="witlink" target="#f-null-145">F CXLV 3</ref> «[…] mes ne i poit demorer for qe de un les, et ce estoit ver traimontaine, car de
+         toutes les autres parties hi estoit grant lac e porfond. Et le host dou <term ref="#gran-can">Grant Kan</term> ne la poit asejer qe de celle part de traimontaine. Et il avoient por toutes les
+         autres pars viandes asez, et ce avoient por l’eive. Et si vos di qe jamés ne l’aüse
+         eue se ne fust une cousse qe je vos dirai»). Alcuni dettagli di R che trovano riscontro
+         solo parziale in Z («dall’altre parte»; «laghi grandissimi») potrebbero essere state
+         suggeriti da <ref type="witlink" target="#vb-null-108">VB CVIII 6</ref> «Alla qual el <term ref="#gran-can">Gran Chan</term> ne tene l’asedio .III. anni, né mai quella aria a‹b›uta per el sito de quella, però
+         che ssollo da una parte (çoè dever tramontana) podeva fir canpiçada; e da tute alltre
+         parte v’è lagi profondi, né mai per assedio quella non se aria abuta […]». Per il
+         resto, non si danno tracce di contatti di R con <ref type="witlink" target="#l-null-120">L 120 1</ref> «[…] et ab omnibus eius partibus preterquam a septemtrione est circumdata maximo
+         quodam lacu», <ref type="witlink" target="#p-ii-58">P II 58 3</ref> «[…] non enim ante eam locari potuit exercitus nisi a parte aquilonari, nam undique
+         ex partibus reliquis lacune profunde erant per quas naves ad eam ingredi et ab ea
+         egredi poterant et sic in victualibus non poterat habere defectum», <ref type="witlink" target="#v-null-71">V 71 5</ref> «Et mai l’exerzito non poté romagnir, se no da una parte, zoè inverso la tramontana;
+         ché da tuti i altri ladi iera uno lago molto profondo, sì che mai non l’averia abuda
+         se non fosse stado una chossa che io ve dirò».</p>
+	<p>Nella seconda parte («la qual cosa […] ostinatione») manca la testimonianza di Z,
+         che accorcia notevolmente il capitolo. R non presenta particolari affinità con la
+         versione che si legge in <ref type="witlink" target="#f-null-145">F CXLV 4</ref> «Or sachiés que quant les host dou <term ref="#gran-can">Grant Kaan</term> fu demorés a le seje de cest cité .III. anz, et il ne la pooient avoir, il en avoient
+         grant ire» e in <ref type="witlink" target="#v-null-71">V 71 6</ref> «Quando lo exerzito del <term ref="#gran-can">Gran Chan</term> fono stato molto al’asedio de questa zitade e non l’avea possudo aver, se chorozò
+         fortemente […]»; maggiori affinità emergono con <ref type="witlink" target="#p-ii-58">P II 58 4</ref> «Quo audito [R «la qual cosa essendo referita al <term ref="#gran-can">Gran Can</term>»], rex <term ref="#gran-can">Kaam</term> turbatus est supra modum» e con <ref type="witlink" target="#vb-null-108">VB CVIII 6</ref> «[…] Vedendo l’oste del <term ref="#gran-can">Gran Can</term> indarno stare all’asedio de quella citade, però che sollo da una parte quella se
+         potea stringere, mandò sua anbasiada al segnor <term ref="#gran-can">Gran Chan</term> a notificharge el perdimento del tenpo suo però che inpossibelle era poter assediar
+         la cità e ch’el comandase quello i aveano a far. Aldendo el segnore l’anbasada del’oste
+         ne ebe grandissimo afano et despiacere [R «ne pigliava un estremo dispiacere»], e
+         non con picollo despiacere deliberava far abandonar l’asedio». È verosimile che Ramusio
+         abbia tenuto conto della testimonianza di queste due redazioni, sottoponendole però
+         a un profondo processo di rielaborazione.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

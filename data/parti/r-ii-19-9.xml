@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-19-9</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-19">
+      <note>
+	<p>Anche qui, come nella pericope precedente, R presenta delle varianti notevoli che
+         lo isolano dalle sue fonti  (L P V VB) – ricordiamo che qui manca la testimonianza
+         di Z toledano, che omette l’intero capitolo – e dalle altre redazioni poliane: <ref type="witlink" target="#l-null-79">L 79 4</ref> «Et hii tales dicuntur “<term ref="#singh">scieng</term>”, quod sonat “maior curia”»; <ref type="witlink" target="#p-ii-22">P II 22 2</ref> «Vocantur autem “<term ref="#singh">scieng</term>”, id est “officiales curie maioris”»; <ref type="witlink" target="#v-null-46">V 46 4</ref> «[…] et questi sono apeladi in la sso lengua <term ref="#singh">Sian</term>, che in nostro muodo vien a dir “el mazor dela chorte”; et non àno nesun sovra chavo
+         se no el <term ref="#gran-can">Gran Signor</term>»; <ref type="witlink" target="#vb-null-68">VB LXVIII 19-20</ref> «[…] e sono chiamati i diti .XII. baroni <term ref="#singh">Sieng</term> che vieno a dir la gran chorte –; […] né non àno soperior alguno, salvo el Gran Chan
+         […]» (vd. <ref type="witlink" target="#f-null-96">F XCVI 9</ref> «Et cesti sunt appelés <term ref="#singh">scieng</term>, que vaut a dire la cort greingnor, qe ne ont sor elz que le <term ref="#gran-can">Grant Sire</term>»). La lezione di R «seconda maggior corte» si spiega solo sulla base di ciò che si
+         dice nel par. 5 e nelle pericope succcessiva.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

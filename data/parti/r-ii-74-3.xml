@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-74-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-74">
+      <note>
+	<p>Dal punto di vista sintattico e lessicale, la versione più prossima a R è <ref type="witlink" target="#p-ii-68">P II 68 3</ref> «Viri et mulieres civitatis huius pulcri sunt valde»), che però presenta un’aggiunta
+         («Viri et») che Ramusio non recepisce, probabilmente sulla scorta della testimonianza
+         di <ref type="witlink" target="#vb-null-120">VB CXX 14</ref> «Le femene loro sono bellisime», o di <ref type="witlink" target="#z-null-88-1-16">Z 88 23</ref> «In civitate ista sunt pulcerime mulieres». Da rilevare, comunque, che anche nelle
+         restanti fonti le varianti sono minime: <ref type="witlink" target="#l-null-138">L 138 8</ref> «[…] et habent pulcras mulieres», <ref type="witlink" target="#v-null-78">V 78 9</ref> «Et in questo luogo sono belle done». La seconda parte della pericope («et vivono
+         con gran delicatezza») non è attestata in nessun altro testimone e sarà verosimilmente
+         da considerare un’interpolazione ramusiana.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

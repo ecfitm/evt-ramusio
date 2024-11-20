@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-21-titolo</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-21">
+      <note>
+	<p><ref type="witlink" target="#f-null-40">F XL</ref> (Ci devise dou <term ref="#vecchio-della-montagna">Viel de la montagne</term> et de seç <term ref="#assassini">asciscinç</term>) / <ref type="witlink" target="#f-null-41">F XLI</ref> (Comant le <term ref="#vecchio-della-montagna">Viel de la montagne</term> fait parfait et obeient se <term ref="#assassini">asciscinç</term>) / <ref type="witlink" target="#f-null-42">F XLII</ref> (Comant les <term ref="#assassini">asciscin</term> se afaitent a mal fer); <ref type="witlink" target="#z-null-17">Z 17</ref>;<ref type="witlink" target="#l-null-35"> L 35</ref> (De <term ref="#vecchio-della-montagna">Sene de la montagna</term>); <ref type="witlink" target="#p-i-28">P I 28</ref> (De tyranno qui dicebatur <term ref="#vecchio-della-montagna">Senex de Montanis</term> et siccariis seu <term ref="#assassini">assessinis</term> eius) / <ref type="witlink" target="#p-i-29">P I 29</ref> (De morte eius et destructione loci illius), <ref type="witlink" target="#va-null-28">VA XXVIII</ref> (De <term ref="#mulehet">Mulete</term>, dove abitava el <term ref="#vecchio-della-montagna">Vechio della montagnia</term>) / <ref type="witlink" target="#va-null-29">VA XXIX</ref> (Chome fu morto e dexerto el <term ref="#vecchio-della-montagna">Vechio della montagnia</term>); <ref type="witlink" target="#v-null-21">V 21</ref>; <ref type="witlink" target="#vb-null-26">VB XXVI</ref>.</p>
+	<p>Non è possibile individuare una fonte prioritaria per questo capitolo, nel quale Ramusio
+         sembra rielaborare, con un’autonomia più marcata che altrove, il contenuto delle varie
+         redazioni a sua disposizione. Gli apporti meglio riconoscibili sono quelli da VB,
+         che costituisce il testo base per la parte finale della narrazione, mentre in esordio
+         di capitolo desume senz’altro da Z un minimo <hi rend="italics">ajout</hi>. In qualche luogo è possibile riconoscere qualche dettaglio estrapolato da P e, forse,
+         anche da V. </p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-118</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-118">
+    <head corresp="#f_body">
+      <hi rend="bold">F, CXVIII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-118_1_1" n="1"> Encore devise de la provence de <term ref="#carazan">Carajan</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-118_2_1" n="1"> Quant l’en se part de la cité de <term ref="#iaci">Iaci</term> et ala .X. jornee por ponent, adonc treuve l’en la provence de <term ref="#carazan">Carajan</term>, et la mestre cité dou reingne est apellé <term ref="#carazan">Caraian</term>. </seg>
+      <seg xml:id="f-null-118_2_2" n="2"> Il sunt <term ref="#idolatri">ydres</term> et sunt au Grant Chan, et en est{e} roi <term ref="#cogatin">*Cogacin</term>, qe filz est au <term ref="#gran-can">Grant Kan</term>. </seg>
+      <seg xml:id="f-null-118_2_3" n="3"> En ceste provence se treuve le or de paliole, ce est en flum; et encore i se
+         treuve en lac et es montagnes or plus gros qe paliuole: il ont tant or qe je voç di
+         q’il donent un saje d’or por sex d’arjent. </seg>
+      <seg xml:id="f-null-118_2_4" n="4"> Et encore en ceste provence s’espendent
+         les porcelaine qe je voç contai desovre por monoi‹e›; et voç di qe en celle provence
+         ne se treuvent celles porcelaines, mes hi vienent de <term ref="#india">Yndie</term>. </seg>
+      <seg xml:id="f-null-118_2_5" n="5"> Et en ceste provence naisent les grant colunbres et celes grant serpanz que
+         sunt si desmesuréç que tous homes en doient avoir mervoille, et sunt mout ydeuse chouse
+         a veoir et a regarder; et voç dirai comant elles sunt grant et groses. </seg>
+    </p>
+    <p n="3">
+      <seg xml:id="f-null-118_3_1" n="1"> Or sachiés por verité qe hi a de longues .X. pas, que sunt groses, car elle girent
+         environ .X. paumes, et ceste sunt les greingnor; elle ont .II. janbes devant, pres
+         au chef, qe ne ont piés for une ongle faite come de faucon ou come de lion; le{s}
+         chief ha mout grant et les iaus tielz que sunt greingnor que un pain; la boce si grant
+         que bien engloiteroit |53d| un home a une foies; les dens a grandisme: ele est si
+         desmesuremant grandismes et fieres que ne est ne homes ne bestes qe ne les dotent
+         et que n’en aient paor. </seg>
+      <seg xml:id="f-null-118_3_2" n="2"> Et encore en sunt de mendres, ce est de .VIII. pas, et
+         de .V‹I›. et de .V. </seg>
+    </p>
+    <p n="4"/>
+    <p n="5"/>
+    <p n="6"/>
+  </div>
+</body>
+</text>
+     </TEI>

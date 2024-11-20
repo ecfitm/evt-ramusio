@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-34-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-34">
+      <note>
+	<p>L 175 e <ref type="witlink" target="#vb-null-158">VB CLVIII</ref> omettono per intero la pericope; V 104 9 si limita a un sintetico riferimento al lavoro delle donne (contraddittorio con la
+         tradizione): «[…] le femene non fano altro se no le nodriga i so fiolli; et non àno
+         algun fruto de questa ixola» (alla fonte dell’equivoco c’era un testo affine a F CLXXXVIII 7 «Bien est il voir que lor femes ne font for norir lor filz et recuil aucun fruit
+         que il ont en celle isle»). Pur restando nella linea di F, P III 37 3 presenta un resoconto più articolato: «[…] mulieres filios nutriunt et quorundam
+         fructuum sue insule curam habent, viri autem sibi et filiis et uxoribus de victu provident»
+         (resa fedele di VA CXLVII 6-7 «Le femene non fano se non nutrigar figlioli e aver chura de’ figliolli et de zerti
+         fruti che èno in l’ixolla. I omeni fano tute chosse bexognia a mantegnir-sse elli
+         e lle suo’ moglier»). In questo luogo Ramusio ricorre al resoconto più ricco e articolato,
+         Z 122 19-20 «Verum est quod quando homines veniunt ad insulas mulierum, ipsi serunt blada, et
+         tunc mulieres ipsa laborant et coligunt. Colligunt etiam mulieres fructus qui de multis
+         maneriebus ibi nascuntur».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

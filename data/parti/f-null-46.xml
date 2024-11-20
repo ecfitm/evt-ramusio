@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>F-NULL-46</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="f-null-46">
+    <head corresp="#f_body">
+      <hi rend="bold">F, XLVI</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="f-null-46_1_1" n="1"> Ci devise de la grant provence de <term ref="#balaxiam">Balascian</term>.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="f-null-46_2_1" n="1"> <term ref="#balaxiam">Balascian</term> est une provence que les gens aorent <term ref="#macometto">Maomet</term> et ont langajes por elz. </seg>
+      <seg xml:id="f-null-46_2_2" n="2"> Il est grant roiames et seroit por hereditajes, ce est
+         que de un lingnajes sunt desendu dou roi <term ref="#alessandro">Alexandre</term> et de la file del roi <term ref="#dario">Dayre</term> le grant, sire de <term ref="#persia">Persie</term>, et encore s’apelent tuit celz rois <term ref="#zulcarnen">Çulcarnein</term>, en saraisin lor langajes, que vaut a dire en fransois <term ref="#alessandro">Alixandre</term>, por le amor dou |20c| grant <term ref="#alessandro">Alixandre</term>. </seg>
+      <seg xml:id="f-null-46_2_3" n="3"> En ceste provence naisent le pieres presioses, que l’en appelle <term ref="#balassi">balasci</term>, que sunt mout belles et de grant vailance, et naisent en le roces des montagnes.
+         </seg>
+      <seg xml:id="f-null-46_2_4" n="4"> Et voç di qu’il font grant cavernes es montagnes et vont mout sout, aussi cum
+         funt celz que cavent la voine de l’argent, et ce est en une prope montangne qe est
+         apellee <term ref="#sicinan">Sighinan</term>. </seg>
+      <seg xml:id="f-null-46_2_5" n="5"> Et encore sachiés que le roi les fait caver por lui ne null’autre home ne i
+         poroit aler a cele montangne por caver de celz <term ref="#balassi">balasci</term> que ne fost mort mai‹n›tinant. </seg>
+      <seg xml:id="f-null-46_2_6" n="6"> Et encore il di‹t› qu’il est poine la teste et
+         l’avoir se nul en tra‹ï›sse aucun de son roiames, car le roi les envoie por sez homes
+         as autres rois et as autres princes et grant seingnorç, a cel por trëu et a cel por
+         amor; et encore en fait vendre por ‹or› et por arjento. </seg>
+      <seg xml:id="f-null-46_2_7" n="7"> Et ce fait le roi por
+         ce que sez balaxi soient chier et de grant vailance come il sunt, car, ce il en laisast caver as autres
+         homes et porter por le monde, il se ne traierént tant qu’il ne seroient si cher ne
+         de si grant vailançe; et por ce hi a mis si grant paine le roi por coi nul n’en traie
+         nul sanz sa paroulle. [9] Et encore sachiés de voir que en cest meisme contree, en
+         une autres montagnes, se treuvent les pieres des quelz l’en fait le açur, et ce est
+         le plu fin açur et le meior qui soit ou mon|20d|de. [10] E les pieres que je voç ai
+         dit, de coi l’en fait l’açur, est voine qe naist en montagnes come autres voines.
+         [11] Et encore voç di qu’il hi a montagnes de quoi l’en treuve voine des quelz traient
+         argent a grant plantee. [12] Il est mout froide contree et provence. [13] Et encore
+         sachiés qu’il hi naisent mout buen chavalz: et sunt grant coreor et ne portent fer
+         en lor piés et si vont por montagnes toç jors. [14] Encore hi naisent en celle montagnes
+         fauchons sacri que mout sunt buen et bien volant; et ausint hi naisent les faucons
+         lanier. [15] Venesion et chach‹a›jonz de bestes et d’ausiaus hi a grant plantee. [16]
+         Forment ont buen; orçe ont sancz escorçe; olio ne ont d’olive, mes il le font de susiman
+         et de noce. [17] E‹n› ceste roiame ha maint estroit pas et maint fort{i} leu, si qu’il
+         ne ont doutee que nulles jens hi peusent entrer por lor daumages; et lor cités et
+         lor ca{u}stiaus sunt en grande montagnes en fortisme leus. [18] Il sunt buen archier
+         et bon caçaor; et la greignor partie vestent cuir des bestes, por ce qu’il ont grant
+         charestie de dras. [19] Et les grant dames et les gentilz portent braies tel com je
+         voç dirai. [20] Il hi a de telz dames que en une brae, ce sunt le muandes de janbe,
+         |21a| metent bien .C. brace de toile <term ref="#bambagio">ban‹ba›sin</term>, et de tel hi a que i mette .LXXX., et de tel .LX.; et ce font elle por mostrer qe
+         aient grose natege, por ce qe lor homes se deletent en groses femes. </seg>
+    </p>
+    <p n="3"/>
+  </div>
+</body>
+</text>
+     </TEI>

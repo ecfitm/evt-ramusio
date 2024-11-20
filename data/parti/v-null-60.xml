@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>V-NULL-60</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="v-null-60">
+    <head corresp="#v_body">
+      <hi rend="bold">V, 60</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="v-null-60_2_1" n="1"> <term ref="#bangala">‹B›angalla </term>sono una provinzia inverso el mezodì, la qualle el <term ref="#gran-can">Gran Chan </term>non avea anchora messo quella alla so signoria, ma la suo’ zente chontinuamente i
+         stimolava per chaxon de aquistarla. </seg>
+      <seg xml:id="v-null-60_2_2" n="2"> E la zente di questa à loquela per sí, et
+         <term ref="#idolatri">adora le idolle</term>. </seg>
+      <seg xml:id="v-null-60_2_3" n="3"> Et questa provinzia sono in li chonfini del’<term ref="#india">India</term>, e là sì sono molti lioni che sono chastradi, et sono anchora de grandissime piegore,
+         et sono buò chomo lionfanti, ma non di tanta groseza. </seg>
+      <seg xml:id="v-null-60_2_4" n="4"> Et questa zente viveno de
+         charne, de late e de rixi; et in questa sono granda abondanzia de banbaxo, et sono
+         molti marchadanti; anchora trovasse spezie, zoè galanga, zenzero et molte altre chosse.
+         </seg>
+      <seg xml:id="v-null-60_2_5" n="5"> Queli del’<term ref="#india">India</term> trafega molto in ’sto luogo, chomo ve ò dito di sopra, e chonpra molti chastroni,
+         schiavi e schiave. </seg>
+      <seg xml:id="v-null-60_2_6" n="6"> Et le femene de questa porta mudande. </seg>
+      <seg xml:id="v-null-60_2_7" n="7"> De questa provinzia
+         nonn è altro da dir, ma diremo de algune altre provinzie ch’è inverso levante. </seg>
+      <seg xml:id="v-null-60_2_8" n="8">
+         <term ref="#cangigu">Gangigu</term> sono una |75v| provinzia inverso levante. [9] La zente di quela àno uno re; et <term ref="#idolatri">adora le idolle</term>, et àno loquella per sí; et sono sotoposta al <term ref="#gran-can">Gran Chan</term> et ogni àno i dà gran trabuto. [10] E lo re de questa provinzia sono sì luxurioxo
+         ch’el tien a so posta trexento femene et quando ch’el sano che in la so patria sia
+         alguna bella femena lo la tuol per moier. [11] Et in questa provinzia se trova gran
+         quantità d’oro et spezie de molte maniere in gran abondanzia. [12] Et sono molto lutana
+         questa provinzia dal mar, e però le suo’ marchadantie val pocho. [13] Et anchora in
+         questa provinzia se trova molti lionfanti e bestie de molte maniere, et molte chazaxon.
+         [14] E la zente de questa vive de charne, late e rixi, et non àno vigne, ma fano bevande
+         de rixi e d’altre spezie, ch’è molto bone. [15] Le charne de quella zente, sì de mascholli
+         chomo de femene, sono depente d’uno cholor di sangue, de grue e lioni, per tal modo
+         che mai non va via; et questo sono per tuto el chorpo, et questo fano per gran nobelitade;
+         et quelli che àno più pentura sono tegnudi mazor e plu belli. [16] Or de questa provinzia
+         lasseremo et diremo d’altre chosse.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-25</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-25" n="1">
+    <head>
+      <hi rend="bold">R, III 25</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-25_1_1" n="1"> Del regno di <term ref="#coulam">Coulam</term>. Cap. 25.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-25_2_1" n="1"> <term ref="#coulam">Coulam</term> è un regno che si trova partendosi dalla provincia di <term ref="#malabar">Malabar</term> verso garbin cinquecento miglia. </seg>
+      <seg xml:id="r-iii-25_2_2" n="2"> <term ref="#idolatri">Adorano gl’idoli</term>; vi sono ancho christiani et Giudei, che hanno parlare da per sé. </seg>
+      <seg xml:id="r-iii-25_2_3" n="3"> Il re di questo regno non dà tributo ad alcuno. </seg>
+      <seg xml:id="r-iii-25_2_4" n="4"> Vi nasce <term ref="#verzino">verzino</term> molto buono et pevere in grande abondantia, perché in tutte le foreste et campagne
+         se ne trova. </seg>
+      <seg xml:id="r-iii-25_2_5" n="5"> Lo raccolgono nel mese di maggio, giugno et luglio, et gli arbori che lo producono
+         sono domestichi. </seg>
+      <seg xml:id="r-iii-25_2_6" n="6"> Hanno anchora <term ref="#endego">endego</term> molto buono et in grande abondantia, qual fanno di herbe alle quali, levateli le
+         radici, pongono in mastelli grandi pieni di acqua, dove le lassano star fin che si
+         putrefanno, et poi vi esprimono fuori il succo; qual posto al sole bolle tanto che
+         si disecca et fassi come una pasta, qual poi si taglia in pezzi, al modo che si vede
+         che viene condotta a noi. </seg>
+      <seg xml:id="r-iii-25_2_7" n="7"> Qui è grandissimo caldo in alcuni mesi, che a pena si puol sopportare; pur li mercatanti
+         vi vengono di diverse parti del mondo, come del regno di <term ref="#mangi">Mangi</term> et dall’<term ref="#arabia">Arabia</term>, per il gran guadagno che trovano delle mercantie che portano dalla loro patria et
+         di quelle che riportano con le loro navi di questo regno. [8] Vi si trovano molte bestie diverse dall’altre del mondo, perché vi sono leoni tutti
+         negri, et pappagalli di piú sorte, alcuni bianchi come neve con li piedi et becco
+         rosso, altri rossi et azzurri et alcuni piccolissimi. [9] Hanno ancho pavoni, piú belli et maggiori delli nostri et di altra forma et statura,
+         et le loro galline sono molto diverse dalle nostre; et il simile è in tutti li frutti
+         che nascono appresso di costoro: la causa dicono che sia per il gran caldo che regna
+         in quelle parti. [10] Fanno vino di un zucchero di palma, quale è molto buono et fa imbriacare piú di quello
+         di uva. [11] Hanno abondantia di tutte le cose necessarie al vivere humano, eccetto che di biave,
+         perché non vi nasce se non riso, ma quello in gran quantità. [12] Hanno molti astrologhi et medici che sanno ben medicare; et tutti, cosí huomini come
+         donne, sono neri et vanno nudi, eccetto che si pongono alcuni belli drappi avanti
+         la natura. [13] Sono molto lussuriosi, et pigliano per mogli le parenti germane, le matrigne (se
+         ’l padre è morto), et le cugnate: et questo si osserva, per quello ch’io intesi, per
+         tutta l’<term ref="#india">India</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

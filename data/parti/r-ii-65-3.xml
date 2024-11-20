@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-65-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-65">
+      <note>
+	<p>Ramusio combina assieme la lezione di due modelli. Nella prima parte si attiene a
+         <ref type="witlink" target="#z-null-82">Z 82 2</ref> / <ref type="witlink" target="#z-null-82">Z 82 4-5 </ref>«[…] et laborant drapos aureos et de syrico [R «Lavorano panni d’oro et di seda»],
+         et de multis maneriebus. […] Ipsi habent aucupationes et venationes multas. Habent
+         et segetes et victualia habundanter» (che a sua volta riflette <ref type="witlink" target="#f-null-148">F CXLVIII 3</ref>: «[…] Il ont soie aseç. Il font dras dorés et de soies de maintes faisonz. […]  Il
+         ont venejonç et chaceison de bestes et de osiaus aseç. Il ont grant plantee des bles
+         et des chouses de vivre»). Nella parte centrale e finale del paragrafo, R segue VB,
+         sia per l’ordinamento dei contenuti sia per la sostanza testuale:<ref type="witlink" target="#vb-null-111"> VB CXI 4-5</ref> «Àno sete asai dele qual ne fano pani et de seta e de oro. È paexe diletevole [R
+         «et è paese dilettevole»] di ogni [R «ogni»] chaçaxon et oxelaxon; èt abondante paexe
+         de tute vituallie» [R «et è abondante di vettovaglie»]. La lezione di R «cacciare
+         ogni sorte di salvaticine et uccelli» è probabilmente una libera rielaborazione di
+         VB, ma è anche possibile che sia stata suggerita all’editore da <ref type="witlink" target="#l-null-123">L 123 3-4</ref> «[…] faciuntque pannos aureos et de serico: habent enim sericum habundanter. Et habent
+         venationes optimas, tam bestiarum quam avium, similiterque bladi et reliquorum victualium
+         copiose» o da <ref type="witlink" target="#v-null-73">V 73 5</ref> «[…] et fano drapi d’oro e de seda de molte maniere; et sono molte chazaxon de bestie
+         volative; et àno biave in gran abondanzia». <ref type="witlink" target="#p-ii-61">P II 61 1</ref> reca un testo notevolmente compendiato: «[…] ubi multa opera de auro et serico fiunt».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

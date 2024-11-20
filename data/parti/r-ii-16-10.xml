@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-16-10</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-16">
+      <note>
+	<p>R segue perlopiù <ref type="witlink" target="#f-null-93">F XCIII 14-15</ref> «Le <term ref="#gran-can">Grant Sire</term> il tient toutes foies .XII. gerfaus des meillorz q’il ait [R «dodici d’i migliori
+         girifalchi che egli habbia»]. Et encore hi demorent plusors baronç por lui faire seulas
+         et conpagnie» [R «per sua compagnia et sollazzo»]. D’altro canto, la variante «dodici
+         baroni», che isola R da F (ma anche da P e L, vd. avanti), trova riscontro solo in
+         <ref type="witlink" target="#v-null-44">V 44 8</ref> (in un testo assai rimaneggiato) «Et sono in chonpagnia del <term ref="#gran-can">Signor</term> nela dita chamera dodexe zentilomeni chon dodexe muier, li qualli li fano chontinuamente
+         chonpagnia e solazo […]». Non si danno tracce di contatti di R con le versioni abbreviate
+         di <ref type="witlink" target="#l-null-77">L 77 2</ref> «[…] in qua ipse dominus cum aliquibus baronibus manet […]»  e di <ref type="witlink" target="#p-ii-19">P II 19 3</ref> «[…] Ibi tenet pro suo solatio barones aliquos secum et girfalcos .XII. electos […]».
+         </p>
+	<p>VB e Z omettono tutto il capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

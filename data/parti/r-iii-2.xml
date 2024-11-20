@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-2" n="1">
+    <head>
+      <hi rend="bold">R, III 2</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-2_1_1" n="1"> Dell’isola di <term ref="#zipangu">Zipangu</term>. Cap. 2.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-2_2_1" n="1"> <term ref="#zipangu">Zipangu</term> è un’isola in oriente, la qual è discosta dalla terra et lidi di <term ref="#mangi">Mangi</term> in alto mare millecinquecento miglia, et è isola molto grande, le cui genti sono
+         bianche et belle et di gentil maniera. </seg>
+      <seg xml:id="r-iii-2_2_2" n="2"> <term ref="#idolatri">Adorano gl’idoli</term> et mantengonsi per se medesimi, cioè che si reggono dal proprio re. </seg>
+      <seg xml:id="r-iii-2_2_3" n="3"> Hanno oro in grandissima abbondanza, perché ivi si trova fuor di modo et il re non
+         lo lascia portar fuori; però pochi mercatanti vi vanno, et rare volte le navi d’altre
+         regioni. </seg>
+      <seg xml:id="r-iii-2_2_4" n="4"> Et per questa causa diremovi la grand’eccellenza delle ricchezze del palazzo del
+         signore di detta isola, secondo che dicono quelli c’hanno prattica di quella contrada:
+         v’ha un gran palazzo tutto coperto di piastre d’oro, secondo che noi copriamo le case
+         o vero chiese di piombo, et tutti i sopracieli delle sale et di molte camere sono
+         di tavolette di puro oro molto grosse, et cosí le finestre sono ornate d’oro. </seg>
+      <seg xml:id="r-iii-2_2_5" n="5"> Questo palazzo è cosí ricco che niuno potrebbe giamai esplicare la valuta di quello.
+         </seg>
+      <seg xml:id="r-iii-2_2_6" n="6"> Sono anchora in questa isola perle infinite le quali sono rosse, ritonde et molto
+         grosse, et vagliono quanto le bianche, et piú. </seg>
+      <seg xml:id="r-iii-2_2_7" n="7"> Et in questa isola alcuni si sepeliscono quando son morti, alcuni s’abbrucciano,
+         ma a quelli che si sepeliscono vi si pone in bocca una di queste perle, per esser
+         questa la loro consuetudine. [8] Sonvi etiandio molte pietre preciose. [9] Questa isola è tanto ricca che per la fama sua il <term ref="#gran-can">Gran Can</term> ch’al presente regna, che è <term ref="#cublai-can">Cublai</term>, deliberò di farla prendere et sottoporla al suo dominio. [10] Mandò adunque duoi suoi baroni con gran numero di navi piene di gente per prenderla,
+         de’ quali uno era nominato <term ref="#abbacatan">Abbaccatan</term> et l’altro <term ref="#vonsancin">Vonsancin</term>, quali, partendosi dal porto di <term ref="#zaitum">Zaitum</term> et <term ref="#quinsai">Quinsai</term>, tanto navigorono per mare che pervennero a questa isola. [11] Dove smontati, nacque invidia fra loro, che l’uno dispregiava di obedire alla volontà
+         et consiglio dell’altro, per la qual cosa non poteron pigliare alcuna città o castello,
+         salvo che uno che presono per battaglia, però che quelli ch’erano dentro non si volsero
+         mai rendere: onde, per comandamento d’i detti baroni, a tutti furono tagliate le teste,
+         salvo che a otto huomini, li quali si trovò c’havevano una pietra preciosa incantata
+         per arte diabolica cucita nel braccio destro fra la pelle et carne, che non potevano
+         esser morti con ferro né feriti. [12] Il che intendendo, quei baroni fecero percotere li detti con un legno grosso, et
+         subito morirono. [13] Avvenne un giorno che ’l vento di tramontana cominciò a soffiar con grande impeto,
+         et le navi de’ <term ref="#tartari">Tartari</term>, ch’erano alla riva dell’isola, sbattevano insieme. [14] Li marinari adunque consigliatisi deliberorono slontanarsi da terra, onde, entrato
+         l’essercito nelle navi, si allargorono in mare, et la fortuna cominciò a crescere
+         con maggior forza, di sorte che se ne ruppero molte, et quelli che v’erano dentro,
+         notando con pezzi di tavole, si salvorono ad una isola vicina a <term ref="#zipangu">Zipangu</term> quattro miglia. [15] Le altre navi che non erano vicine, scapolate dal naufragio con li duoi baroni, havendo
+         levati gli huomini da conto, cioè li capi de’ centenari di mille et diecemila, drizzorono
+         le vele verso la patria et al <term ref="#gran-can">Gran Can</term>. [16] Ma i <term ref="#tartari">Tartari</term> rimasti sopra l’isola vicina (erano da circa trentamila), vedendosi senza navi et
+         abbandonati dalli capitani, non havendo né arme da combattere né vettovaglie, credevano
+         di dovere essere presi et morti, massimamente non vi essendo in detta isola habitatione
+         dove potessero ripararsi. [17] Cessata la fortuna et essendo il mare tran|50v|quillo et in bonaccia, gli huomini
+         della grande isola di <term ref="#zipangu">Zipangu</term>, con molte navi et grande essercito, andorono all’isola vicina per pigliar li <term ref="#tartari">Tartari</term> che ivi s’erano salvati, et smontati delle navi si missero ad andarli a trovare con
+         poco ordine. [18] Ma li <term ref="#tartari">Tartari</term> prudentemente si governorono, percioché l’isola era molto elevata nel mezzo, et mentre
+         che li nimici per una strada s’affrettavano di seguitarli, essi andando per un’altra
+         circondorono a torno l’isola et pervennero alli navilii delli nimici, quali trovorono
+         con le bandiere et abbandonati; et sopra quelli immediate montati andorono alla città
+         maestra del signor di <term ref="#zipangu">Zipangu</term>, dove, vedendosi le loro bandiere, furono lasciati entrare, et quivi non trovorono
+         altro che donne, le qual tennero per loro uso, scacciando fuori tutto il resto del
+         popolo. [19] Il re di <term ref="#zipangu">Zipangu</term>, intesa la cosa come era passata, fu molto dolente, et subito se ne venne a mettere
+         l’assedio, non vi lassando entrare né uscire persona alcuna, qual durò per mesi sei;
+         dove, vedendo i <term ref="#tartari">Tartari</term> che non potevano haver aiuto alcuno, al fine si resero salve le persone: et questo
+         fu correndo gli anni del Signore 1264. [20] Il <term ref="#gran-can">Gran Can</term> dopo alcuni anni, havendo inteso il disordine sopradetto, successo per causa della
+         discordia d’i duoi capitani, fece tagliar la testa ad un di loro, l’altro mandò ad
+         una isola salvatica detta <term ref="#zorza">Zorza</term>, dove suol far morire gli huomini che hanno fatto qualche mancamento, in questo modo:
+         gli fa ravolgere tutte due le mani in un cuoio di buffalo allhora scorticato et strettamente
+         cucire, qual come si secca si strigne talmente intorno che per niuno modo si può movere,
+         et cosí miseramente finiscono la loro vita, non possendosi aiutare.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

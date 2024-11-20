@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-37-12</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-37">
+      <note>
+	<p>Come nella pericope precedente, R segue quasi alla lettera Z 53 37-38 «Gentes <term ref="#idolatri">adorant ydola</term>, et sunt perfide et inique, quia depredari et male agere non reputant ad pecatum.
+         Et sunt maiores depredatores qui sint in mundo» (Z riflette – con qualche semplificazione
+         – <ref type="witlink" target="#f-null-114">F CXIV 22</ref> «Les jens sunt <term ref="#idolatri">ydres</term> et maveisez duremant, car il tienent por nul pechés le rouber et le fer maus, et
+         sunt les greingnor escaran et les greingnors robeor dou monde»). Assai vicino a F
+         risulta V, che però reca in alcuni punti un testo più semplificato di quello di Z: V 55 24-25 «E la zente di quella adora le idolle. Et sono perfedi, perché li non pensa far pechado
+         quando li fano mal, e sono i mazor traditori e robadori del mondo». Ugualmente abbreviati
+         appaiono <ref type="witlink" target="#p-ii-37">P II 37 5</ref> «Huius habitatores regionis <term ref="#idolatri">ydolatre</term> sunt et crudeles, nec peccatum reputant predari et latrocinia exercere», e <ref type="witlink" target="#vb-null-81">VB LXXXI 8</ref> «Tuti i abitanti sono idolatrii et non tengono a pecato el robare per che i ssono
+         i mior ladri che credo abia el mondo e robatori». L omette del tutto questa parte.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

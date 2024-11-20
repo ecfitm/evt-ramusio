@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-59</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-59">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 59</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-59_2_1" n="1"> Post hanc tam immensam victoriam regnavit <term ref="#cingis-can">Cinghis Kan</term> .VI. annis; sed in obsidione cuiusdam castri dicti <term ref="#thaigin">Caagiu</term> percussus sagitta in genu mortuus est. </seg>
+      <seg xml:id="l-null-59_2_2" n="2"> Post hunc vero regnavit <term ref="#cyn-can">Cui Kan</term>; tercio regnavit <term ref="#bathyn-can">Bachui Kan</term>, quarto <term ref="#ulau">Althon Kan</term>, .V°. <term ref="#mongu-can">Mongu Kan</term>; sexto <term ref="#cublai-can">Cublai Kan</term> qui ad presens regnat, et est potentior omnium predecessorum suorum – ymo, quod plus
+         est, si omnes reges et imperatores mundi tam christianorum quam Sarracenorum essent
+         simul, non equarentur potentie istius. </seg>
+      <seg xml:id="l-null-59_2_3" n="3"> In morte omnium dominorum <term ref="#tartari">Tartarorum</term>, et omnium descendentium ex progenie ‹et linea› <term ref="#cingis-can">Cinghis Kanis</term> (scilicet primi domini <term ref="#tartari">Tartarorum</term>), talis observatur consuetudo. Ubicumque enim moriantur ducuntur ad sepulturam in
+         monte quodam maximo dicto <term ref="#altai">Allcay</term>; in tali autem itinere, dum corpus sepulture portatur, quoscumque invenerint morti
+         tradunt dicentes: «Vade servire domino in alieno mundo» – talis enim est eorum crudelitas.
+         Simile eciam faciunt de equis: in morte eius domini omnes meliores equos occidunt,
+         credentes dominum eos in alieno mundo ‹debere› habere. </seg>
+      <seg xml:id="l-null-59_2_4" n="4"> In morte vero Mongu Mongihu Kanis, dum ad sepulturam portaretur corpus, plus quam .XXm. hominum in itinere occiderunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

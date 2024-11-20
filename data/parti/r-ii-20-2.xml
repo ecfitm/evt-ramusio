@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-20-2</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p>R fonde assieme e compendia qui informazioni che le sue fonti collocano in punti diversi
+         del capitolo. Varie lezioni della seconda parte della pericope denunciano l’influsso
+         preponderante di <ref type="witlink" target="#p-ii-23">P II 23 6</ref> «Omnibus autem equis et custodibus ad hoc deputatis de annona et expensis omnibus
+         per civitates et castra in quorum sunt confinio integraliter providetur [R «vien provisto
+         del tutto per le città o castelli vicini»]; his autem qui sunt in mansionibus cuiuscumque
+         deserti per regis curiam providetur» [R «la corte vi provede»]. Meno forti appaiono
+         invece i legami tra R e gli altri suoi modelli:<ref type="witlink" target="#l-null-80"> L 80 4</ref> «[…] quos equos circumstancia loca propriis manutenent expensis»; <ref type="witlink" target="#v-null-47">V 47 11-12</ref> «[…] perché lo sano quelle zitade che sono apreso le tal poste, et fano vedere quanti
+         chavali che le pò tegnir ale poste, e per li mesi li vien dito: «Signor, tanti», et
+         lo fa chomandamento che quelle zitade ne tegna tanti a tute suo’ spexe; e per el simel
+         i chasteli, segondo la lor falchutade. Et per questo tute le poste sono fornide senza
+         spexa, salvo le poste che sono in luogo dexuxado da tuta zente, le qualle sono fornide
+         de chavali e de tute le altre chosse nezesarie al’uxo deli omeni e delli anemalli»
+         (vd. <ref type="witlink" target="#f-null-97">F XCVII 18</ref> «Et en tel maineres sunt ordenee toutes les postes si qe rien ne i met le <term ref="#gran-can">Grant Sire</term>, for tant seulemant qe les postes des leu desvoiables fait il fornir de seç chevaus
+         propes»).</p>
+	<p>Le informazioni contenute nella prima parte del passo («Et in ciascuna […] alloggiare»)
+         mancano in P, ma trovano riscontro parziale in <ref type="witlink" target="#l-null-80">L 80 1</ref> «[…] ut, dum casus acciderit, possint legati vel ambaxiatores honorifice [L «honoratamente»]
+         permanere», e in <ref type="witlink" target="#v-null-47">V 47 3</ref> «[…] et bene aparechiadi de tuti fornimenti d’albergar gran signori, re [R «gran
+         re»] e prinzipi». Il fatto che R si mostri affine soprattutto a <ref type="witlink" target="#f-null-97">F XCVII 4</ref> «[…] et, se un rois hi venust, si seroit bien herbergiés» potrebbe suggerire, come
+         già nel par. 1, che il modello principale di questa parte della pericope sia stato
+         il perduto Z1. VB omette il passo. </p>
+	<p>Z omette l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

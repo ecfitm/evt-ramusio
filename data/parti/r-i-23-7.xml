@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-23-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-23">
+      <note>
+	<p>R rispecchia, per forma e sostanza, <ref type="witlink" target="#f-null-45">F XLV 7</ref> «Il sunt mout buen chaçaor et prenent venesion assez; et ne ont autres vestimens
+         for che le pelles des bestes qu’il prenent, et celles concent et s’en font vestimens
+         et causemant»: l’ipotesi più economica – considerato anche il contesto di un capitolo
+         interamente debitore di Z – è che Ramusio abbia desunto la pericope da Z1, per quanto la lezione toledana, qui ridotta all’osso, non dia modo di verificarlo
+         compiutamente (vd. <ref type="witlink" target="#z-null-20-1-23">Z 20 7</ref> «Nec vestes alias ferunt nisi de bestiarum pelibus»). </p>
+	<p>Del tutto prossimo a F è anche <ref type="witlink" target="#v-null-23">V 23 11</ref> «Ed è boni chantadori e pia asè salvadixine; altre vestimente non porta se no dele
+         pele de queli anemali che lor pia; e chonzale, e de queli se fa vestimente e chalzamenti»
+         (<hi rend="italics">chantadori</hi> è naturalmente <hi rend="italics">faute</hi> del copista a partire da *<hi rend="italics">chazadori</hi> o sim.): perciò, in linea di massima, non si può nemmeno escludere che qui R dipenda
+         occasionalmente dal modello veneziano. </p>
+	<p>Meno aderenti alla lezione francoit. sono gli altri relatori: <ref type="witlink" target="#p-i-32">P I 32 5-6</ref> separa le informazioni, disseminandole lungo due pericopi («[…] homines autem pessimi
+         sunt, sed optimi venatores, et multas silvestres bestias capiunt. In capite nichil
+         aliud deferunt nisi quod vir quilibet cordellam […] bestiarum quas capiunt pelles
+         conficiunt et illo corio vestiuntur et calciantur, nec vestes alias seu caligas habent»);
+         <ref type="witlink" target="#vb-null-28">VB XXVIII 2</ref> rimodella e disloca il passo («Vestono pelle de animalli dele chaçaxon i prendeno,
+         le qual i conçano a suo modo e quelle vesteno; sono gran maistri de chaçare»); <ref type="witlink" target="#l-null-40">L 40 3</ref> riassume («Et sunt optimi venatores, quorum vestimenta et calciamenta sunt terga
+         bestiarum quas venantur»).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

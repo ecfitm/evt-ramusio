@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-7-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-7">
+      <note>
+	<p>La parte iniziale («La città adunque […] nuova») e quella finale («et nondimeno […]
+         intendere») della pericope trovano riscontro nel testo di V e, soprattutto, di F:
+         <ref type="witlink" target="#v-null-41">V 41 33</ref> «Et la zente che abitava in quela rimaxe in la zitade che lui avea edifichado chiamata
+         <term ref="#taidu">Gaidu</term>, la qualle erano granda chomo ve ò dito […]»; <ref type="witlink" target="#f-null-84">F LXXXIV 6-7</ref> «[…] Et fist traire les jens de celle cité et metre en la ville q’il avoit estoré,
+         qui est apellé <term ref="#taidu">Taidu</term>. Elle est si grant com je voç conterai […]». In P e L tali informazioni sono assenti.
+         La parte centrale della pericope («et quelli di che […] grande»), è tràdita esclusivamente
+         da R. </p>
+	<p>VB e Z omettono l’intero capitolo.</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

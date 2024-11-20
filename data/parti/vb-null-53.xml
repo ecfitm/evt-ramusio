@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-53</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-53">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LIII </hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-53_1_1" n="1"> ‹V›enuto el giorno desegnato alla bataglia, preparati intram‹b›i gli osti, con
+         grandissimo ordene ascherati, chome ussança loro confortati chadauno dai loro segnori
+         et chapitani, con ferma sperança de vitoria venero alla bataia; e perchotendose gli
+         osti con ogni istrumenti beleçi – che mirabelle chossa era vedere et udire el strepitto
+         del’armi, l’ucissione e ferita di cadauna dele parte, el spargimento dil sangue– i
+         chapitani, chadauno con sumo studio et solicitudene si forçavano a maestrare ‹et›
+         confortare i lloro chavallieri ‹ad› essere costanti et vigorosi alla bataglia. </seg>
+      <seg xml:id="vb-null-53_1_2" n="2">
+         La fortuna per longo spacio pareva ugualle con grandissima ucisione et spargimento
+         di sangue d’etranbe l’osti per modo aresti creduto uno grandissimo fiume di sangue
+         per quel piano essere sparto. </seg>
+      <seg xml:id="vb-null-53_1_3" n="3"> Né potendo per longo spacio questa ugu‹a›lità de
+         fortuna durare, che la non mostrasi la faça soa a una dele parte, non potendo l’oste
+         de <term ref="#umcan">Umechan</term> sostenere la ferocità dela giente de <term ref="#cingis-can">Çecino</term>, volsero le spalle. |241r| </seg>
+      <seg xml:id="vb-null-53_1_4" n="4"> <term ref="#umcan">Umechan</term>, come vallorosso chapitano, vedendo la paura di soi chavalieri, metendosi avanti
+         in chadauna parte dove la chossa parea più dubiosa, né llasendo neuna arte de bon
+         chapitano a confortare con promissione e priegi fosseno costanti a sostenere e percotere,
+         fo ferito de una saeta et chade inmediate morto. </seg>
+      <seg xml:id="vb-null-53_1_5" n="5"> Morto Umechane, sença alchuno retenimento tutto l’oste se messe in fuga; <term ref="#cingis-can">Çecino</term>, seguendo quelli con grandissima ucissione di nemici, fu vincitore dila bataglia.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

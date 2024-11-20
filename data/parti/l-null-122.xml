@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>L-NULL-122</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="l-null-122">
+    <head corresp="#l_body">
+      <hi rend="bold">L, 122</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="l-null-122_2_1" n="1"> Revertamur ergo a <term ref="#quanzu">Caigiu</term>, que est parva civitas versus syroch, et est super dicto flumine. </seg>
+      <seg xml:id="l-null-122_2_2" n="2"> Gentes sunt
+         <term ref="#idolatri">ydolatre</term>, habentes ex cartis monetam. </seg>
+      <seg xml:id="l-null-122_2_3" n="3"> Et in hac civitate fit maxima congregatio bladi,
+         quod postea portatur ad <term ref="#cambalu">Cambalu</term> ad curiam <term ref="#gran-can">Magni Canis</term>; maior enim pars curie ex huiusmodi blado munitur. Portatur autem cum navibus, non
+         quod sit terminatum flumen; sed facte sunt fovee magne coniungentes flumen et lacus
+         taliter quod a dicta civitate usque ad <term ref="#cambalu">Cambalu</term> per flumina, foveas et lacus continuatim commode pervenitur. Similiter ‹eciam› per
+         terram potest comode iri; est enim via iuxta foveas, et alibi ubicumque expedit manu
+         facta. </seg>
+      <seg xml:id="l-null-122_2_4" n="4"> Ex opposito predicte civitatis in flumine est insula saxea, in qua est
+         maximum monasterium ydolorum, in quo sunt plus quam .CC. fratres et ydola multa; est
+         enim caput plurium aliorum.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

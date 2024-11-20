@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-36-6</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-36">
+      <note>
+	<p>Ramusio insiste sugli effetti dell’eccesso di offerta di sandalo nel mercato locale:
+         informazione che manca a P III 39 5 «In hac insula sunt multa nemora sandalorum rubeorum de quibus ibi sunt arbores magne
+         ex quibus negotiationes maxime fiunt» (perché manca nell’antigrafo VA CXLIX 8-9 «El ge n’è molti boschi de sandali vermegli: è albori molto grandi. E fa-sene gran
+         merchadantie»), ma è ben presente a <ref type="witlink" target="#z-null-124">Z 124 10-11</ref> «Et sunt etiam in hac insula arbores de sandalo rubeo tam magne sicut sunt arbores
+         de nostra contrata. Iste arbores multum valeret in alia contrata, et ibi sunt luci
+         de ipsis, sicut in nostra patria sunt de aliis arboribus» (versione di F CXC 5 «Encore sachiés que en ceste ysle a arbres de sandal vermoille ausi grant come sunt
+         les arbres de nostre contree; e ceste arbres vaudrént asez en autre païs, et il en
+         {en} ont bois come nos avuns d’autres arbres sauvajes»).</p>
+	<p>V 106 6 presenta una lezione che elimina il sandalo, ma rende il punto in questione: «Et
+         sono in questa ixola albori che val molto in le nostre parte, che sono bosi […]».
+         Concordano con VA-P nell’omissione L 177 6 «Sunt hic in eorum nemoribus sandali rubei in maxima quantitate» e VB CLX 7 «Àno sandalli rossi molto grosi».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

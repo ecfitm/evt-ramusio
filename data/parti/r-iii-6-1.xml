@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-6-1</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-6">
+      <note>
+	<p>Il contenuto informativo e l’andatura del discorso (modellata sul richiamo analettico
+         della transizione incipitaria) vengono a Ramusio da Z 95 8 «Modo revertamur ad tractatum primum, videlicet quod, cum discedendo a <term ref="#zaitum">Çaytum</term> transnavigatum est pareçium istius gulfi, ut dictum est superius, miliaribus mille
+         et quingentis, invenitur quedam contrata nomine <term ref="#ziamba">Çamba</term>, que multum dives est et magne continentie» (la transizione di F CLXI 2 è molto meno specifica: «Or sachiés qe quant l’en s’en part dou port de <term ref="#zaitum">Çaiton</term> et naje por ponent, aucune couse ver garbin, .M.D. miles, adonc vient a une contree
+         qe est apellé <term ref="#ziamba">Cianba</term>, qe mout est riche terre e grant»).</p>
+	<p>Gli altri relatori si mantengono su un <hi rend="italics">incipit</hi> tradizionalmente referenziale: P III 9 1 «Post recessum igitur a portu Çaicem navigando per garbinum per mille et quingenta miliaria pervenitur ad provinciam <term ref="#ziamba">Ciamba</term>, que magna est valde et multarum opum» (apografo di VA CXXIII 1 «Quando l’omo se parte de <term ref="#zaitum">Zaiton</term> e ’l navega per ponente, alchuna cossa verso garbin, XIIc meia, el truova una zità ch’è apelata <term ref="#ziamba">Cianban</term>, ch’è molto richa tera e grande» – la cui difforme misura è da attribuire al relatore
+         quattrocentesco); L 145 1 «A portu de <term ref="#zaitum">Çairon</term> per mare versus occidens aliquantulum tamen versus garbin .M.CCCCC. miliaribus, pervenitur
+         ad quandam maximam et divitem contratam dictam <term ref="#ziamba">Ciamban</term>»; V 83 1 (erroneo nella misura della distanza) «‹Q›uando el se parte dal porto de <term ref="#zaitum">Zaiton</term> el se navega per ponente alguna chossa inverso el garbin mille e quaranta mia, e
+         trovasse una chontrada la qual sono chiamata Zianban, la qual sono molto richa e granda»; VB CXXXI 1 (dall’andatura tortuosa, e generico nell’informazione) «‹P›artendossi de queste parte
+         et chaminasi verso el porto de <term ref="#zaitum">Çarito</term> (del qualle avanti ò parllatto) e partendossi da questo porto et navigi per ponente
+         cercha meçodì, trovassi una contrada la qual fi apelada <term ref="#ziamba">Çanba</term>, la qualle è molto grande e richa contrada».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

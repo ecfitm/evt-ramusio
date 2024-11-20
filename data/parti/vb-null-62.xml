@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-62</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-62">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-62_1_1" n="1"> <term ref="#tenduch">‹S›endug</term> si è una provincia posta verso levante la qual à citade et chasteli asai et è sottoposta
+         al <term ref="#gran-can">Gran Chan</term>; e la çitade maistra se chiama <term ref="#tanguth">*Tangut</term> et questa provincia fo çà del <term ref="#prete-gianni">Presto Çane</term>. </seg>
+      <seg xml:id="vb-null-62_1_2" n="2"> Et è segnoregiata da uno re che desese de·legnaço de <term ref="#prete-gianni">Presto Çane</term> et chiamasi <term ref="#georgio">Çiorçin</term>, e rechognose la segnoria dal <term ref="#gran-can">Gran Chan</term> ma non con intregità chome el tene per avanti <term ref="#prete-gianni">Presto Çane</term>. </seg>
+      <seg xml:id="vb-null-62_1_3" n="3"> Et questi segnori, çoè çiorçini, sono reputadi di nobel sangue perché senpre
+         i se aparentano con el <term ref="#gran-can">Gran Chan</term> e tengono parentado con el <term ref="#prete-gianni">Presto Çane</term>, desesi de <term ref="#cingis-can">Çeçino</term>, el qual ebe per moglie la fiola de <term ref="#umcan">Umechan</term> – el qual nui in lengua nostra chiamemo <term ref="#prete-gianni">Presto Çane</term> – dela qual dona tuti questi segnori sono desesi. </seg>
+      <seg xml:id="vb-null-62_1_4" n="4"> In questa provincia se trova
+         le pietre se adopera nello açalle, e sono boni maistri de far quello. </seg>
+      <seg xml:id="vb-null-62_1_5" n="5"> La maistra
+         çitade è chiamada <term ref="#tanguth">*Tangut</term>, et fasi boni çanbelloti de pello de ganbello. </seg>
+      <seg xml:id="vb-null-62_1_6" n="6"> In questa provincia è una citade
+         la qual fi apellada <term ref="#og-et-magog">Desain</term> et in nostra lengua <term ref="#og-et-magog">Gogmagog</term>: la giente viveno solo de bestiame et de fruti de qualli ve si fano de gran marchadantie
+         et de archi. </seg>
+      <seg xml:id="vb-null-62_1_7" n="7"> La Segnoria de quella si è cristiani ma sòne per quelle contrade
+         molti <term ref="#idolatri">idolatri</term>: et abitaçi una generacion che se apella in soa lingua <term ref="#argon">*Argon</term> che in nostra lingua se diria Gusmulli, però che quelli sono nati de do generacion: e questi sono più belli homeni che i
+         alltri et più merchadanti. </seg>
+      <seg xml:id="vb-null-62_1_8" n="8"> In questa provincia era el setro principal de <term ref="#prete-gianni">Presto Çane</term> quando el segnoregiava i <term ref="#tartari">Tartari</term>. [9] Questa citade chome ò dito fi apelada <term ref="#og-et-magog">Gogmagog</term>, et questo per do generacion de giente ve abitavano: l’una fia chiamada <term ref="#ung">Ung</term>, l’altra <term ref="#mongul">Mungul</term>, i qual demoravano in conpagnia con <term ref="#tartari">Tartari</term>.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

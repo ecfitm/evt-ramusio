@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>VB-NULL-72</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="vb-null-72">
+    <head corresp="#vb_body">
+      <hi rend="bold">VB, LXXII</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="vb-null-72_1_1" n="1"> ‹I›o avea trapassato una nobelissima lemosena che senpre questo nobellisimo
+         segnor <term ref="#gran-can">Gran Chan</term> oserva da fir comemorata. </seg>
+      <seg xml:id="vb-null-72_1_2" n="2"> Nella suo citade de <term ref="#cambalu">Camalau</term> el vol sapere tuti poveri son in quella e simel nei borgi e nel contado; et a tute
+         le fameie besognose ge fa dare dela biava segondo el bisogno dila fameia; e vol avere
+         tuti per scriti. </seg>
+      <seg xml:id="vb-null-72_1_3" n="3"> Et oltra questo, quanti poveri dela cità vol andar a mangiare
+         a chorte a niuno è vetato el mangiare, anci a tuti è dato quel i àno bisogno, e de
+         certo io non vi credo mentire: io credo che ogni dì de questi poverelli el mangia
+         nela soa chorte forsi .XXXc. persone. </seg>
+      <seg xml:id="vb-null-72_1_4" n="4"> Aprovistò ecian in <term ref="#cambalu">Chamalau</term> e per tute altre suo’ provincie de asaissimi granari i qualli nele ubertà à fatto
+         inpir de grano, el qual se conserva per .III. ani che non se guasta et ogni .III.
+         ani el fa chanbiare. </seg>
+      <seg xml:id="vb-null-72_1_5" n="5"> E quando l’ochore charestia, fa dar dele biave di suo’ granari
+         per molto meno precio de quel valeno per i marchadanti. </seg>
+      <seg xml:id="vb-null-72_1_6" n="6"> E per queste chaxone ell’è
+         tanta la benivolencia de tutti versso quello nobellisimo segnore che è una chosa stupenda.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

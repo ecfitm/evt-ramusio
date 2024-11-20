@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-35-7</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-35">
+      <note>
+	<p>La fonte principale del capitolo, Z, omette la prima parte della pericope («Et questa
+         [...] boschi»), ma la vicinanza di R con V e, soprattutto, con F induce a ritenere
+         che anche in questo punto Ramusio si sia attenuto alla testimonianza del perduto Z1: <ref type="witlink" target="#v-null-54">V 54 7-8</ref> «Et questa pianura dura do zornade, et sono bela chomo avete aldido di sopra, chon
+         molte zitade et chastelli. Et in chavo de do zornade se trova gran monti e valle et
+         boschi et vasse vinti zornade per ponente trovando molte zitade e chasteli […]»;<ref type="witlink" target="#f-null-112"> F CXII 8</ref> «Ceste plaingne dure dos jornee, si biaus con je voç ai dit et con tantes viles et
+         castiaus; et a chief de .II. jornee, adonc treuve l’en grant mons et grant vaus et
+         grant boschajes aseç. ‹Il› ala bien .XX. jornee por ponent treuvant villes et castiaus
+         aseç». È possibile che la lezione «molti boschi» sia stata suggerita all’editore da
+         L, P o da VB (ma cfr. sopra F «grant boschajes aseç»): <ref type="witlink" target="#l-null-92">L 92 6-7</ref> «Et durat hec planicies duabus dietis; et tunc inveniuntur montes magni, valles et
+         nemora multa. Et itur versus occidens dietis .XX., ubi continue inveniuntur civitates
+         et castra multa […]»; <ref type="witlink" target="#p-ii-34">P II 34 3</ref> «Hec provincia in primis tribus dietis planiciem habet, ultra quas postea montes
+         magni sunt et valles maxime ac nemora multa; protenditur autem provincia hec ad dietas
+         .XX., multas civitates et oppida multa habens»;<ref type="witlink" target="#vb-null-79"> VB LXXIX 3-4</ref> «[…] e dura questa pianura ii giornate. E nel chapo de questa pianura se trova molti
+         boschi e grandi».</p>
+	<p>Nella seconda parte della pericope, R si attiene fedelmente alla testimonianza di
+         Z, tranne che nelle battute finali, che sono state verosimilmente rimaneggiate per
+         esigenza di sintesi o di <hi rend="italics">variatio</hi>: <ref type="witlink" target="#z-null-52">Z 52 7</ref> «Et itur bene .XX. dietis per ponentem, inveniendo multas civitates et castra».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

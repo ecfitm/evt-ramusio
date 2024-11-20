@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-I-47-11</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-i-47">
+      <note>
+	<p>La pericope è piuttosto coerente con quanto si legge nella maggior parte dei testimoni
+         della tradizione antica.</p>
+	<p><hi rend="italics">In absentia</hi> della testimonianza di Z toledano, sono le tangenze esclusive con il dettato di <ref type="witlink" target="#f-null-69">F LXIX 21-23</ref> «Et quant il vienent a baitaille con lor ennimis, il les vinquent en ceste maineres,
+         car il ne s’en tornent ad honte de fuir, quant il voit arcaor la or entor a lor ennimis:
+         il ont si costumés lor cavalz qu’il se girent cha e la ‹a›usi tost com firoit un chien.
+         Et quant l’en li cace et il vunt fuiant, il conbatent ausi bien et ausi fort come
+         quant il sunt vis a vis con les inimis, car, quant il fuit plus tost, adonc se gire
+         ariere con sun arche et fait grant coux de saiete et occit des chevaç des ennemis
+         et encore des homes. Et quant les inimis les creunt avoir desconfit et vencu, {et}
+         il ont perdu, car lor chevaus sunt occis et elles meesme asseç. Et quant les <term ref="#tartari">Tartarç</term> veont q’il ont occis deus cavaus lor ennimis et des homes ausint, il se girent sor
+         elz et s’esprovent si bien et si vaillanzment qu’il desconfisent lor ennimis et li
+         vinquent» a suggerire anche per questo passo la dipendenza di R da Z: vedi ad es.
+         R «cavalcano a torno <hi rend="italics">qua et là</hi>» / F «lor cavalz […] se girent <hi rend="italics">cha e la</hi>», «come se combattessero <hi rend="italics">a faccia a faccia</hi>» / «il combatent ausi bien come quant il sunt <hi rend="italics">vis a vis</hi>», «i nimici, <hi rend="italics">credendo</hi> <hi rend="italics">haver havuto vittoria</hi>, si trovano<hi rend="italics"> haver perso</hi>» / «Et quant les inimis les <hi rend="italics">creunt avoir </hi>desconfit et <hi rend="italics">vencu</hi>, {et} il <hi rend="italics">ont perdu</hi>» etc. (segnalo però che F è palesemente corrotto, e di difficile emendazione, nel
+         passo compreso tra «fuir» e «entor», così nel manoscritto: «[…] car il ne sen torne<hi rend="italics">n</hi>t ad honte d<hi rend="italics">e</hi> fuit [<hi rend="italics">sic</hi>] / car il voit arcaor la or entor alor / enzimi […]»; qui a testo la correzione Eusebi;
+         per la soluzione proposta da Benedetto e ripresa da Ronchi, cfr. Ronchi 1982, p. 390;
+         per un confronto con la buona lezione di Fr, cfr. Ménard 2001-2009, II, p. 34). </p>
+	<p>Sullo scheletro di Z Ramusio ha innestato almeno una tessera di VB: «et alle volte
+         fingono di fuggire, et fuggendo saettano da dietro gli nimici che seguitano» &lt; <ref type="witlink" target="#vb-null-57">VB LVII 15</ref> «Molte fiate i f‹en›ceno fugire et, fugendo, i saetano a dietro i soi nemici […]».</p>
+	<p>Prossime a R nei contenuti, ma nello svolgimento troppo distanti per esserne state
+         i modelli, sono anche le altre fonti: <ref type="witlink" target="#p-i-60">P I 60 3</ref> «[…] quando autem in campo cum hostibus preliantur, sepe fugam arte simulant post
+         se nichilominus sagittantes, donec insequentes quo volunt deducant; tunc se unanimiter
+         vertentes ad ipsos de ipsis sepissime victoriam obtinent: sepe enim hostes eorum ex
+         hoc confusioni patent dum se vicissime putant»; <ref type="witlink" target="#l-null-60">L 60 23</ref> «Cum inimicis autem taliter preliantur. Incepto proelio et aliquantulum peracto,
+         omnes se vertunt in fugam, et dum fugiunt maiorem conflictum faciunt inimicis. Est
+         enim eorum modus fugiendo continue sagittare, quare inimicos et eorum equos interimunt
+         fugiendo; et tandem in unum coniuncti in inimicos se vertunt, et sic multociens victores
+         existunt»; <ref type="witlink" target="#v-null-36">V 36 24-25</ref> «[…] sì che a questo muodo eli va chontra li suo’ nemixi, et uxano li suo’ chavali
+         per tal modo. Et quando li sono ale man chon i suo’ nemixi li mostra de schanpar,
+         et in quel schanpar li se volze indriedo chontra loro chon le freze, e feriseli molto
+         forte et olzide molti de loro e dei suo’ chavali; e li lor nemixi chrede aver venta
+         la bataia e trova che li lor chavali sono morti per quele freze che sono atosegade;
+         et quando li <term ref="#tartari">Tartari</term> vede che li chavali deli suo’ nemixi sono morti eli torna ala bataia, e per questo
+         modo eli sono venzidori» (che le frecce siano avvelenate è specificato soltanto in
+         V).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

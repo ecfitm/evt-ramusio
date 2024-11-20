@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-II-49-3</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-49">
+      <note>
+	<p>Il modello base della pericope pare essere un esemplare Z, anche se alcune varianti
+         formali («nell’armi», «se non») potrebbero suggerire anche un contatto con V:<ref type="witlink" target="#z-null-64"> Z 64 7-8</ref> «Homines sunt valentes pro armis. Nullam habent monetam, preterquam de cartis <term ref="#gran-can">Domini Grandis</term>»;<ref type="witlink" target="#v-null-62"> V 62 4-5</ref> «[…] et sono molto valenti nel’arme. Quelli non àno alguna moneda, se no sollamente
+         de charte chomo avete intexo avanti, le qualle se spendeno per monede» (vd.<ref type="witlink" target="#f-null-129"> F CXXIX 4-5</ref> «[…] Il sunt homes d’armes. Il ne ont monoie for qe le charte dou <term ref="#gran-can">Grant Kaan</term> qe je voç ai dit, car je voç di qe desormés somes en les teres qe espendent les cartre
+         dou <term ref="#gran-can">Grant Kaan</term>»). Il sintagma «della stampa» è però chiaramente ricavato da <ref type="witlink" target="#vb-null-92">VB XCII 4</ref> «Sono quaxi tuti homeni d’arme, spendeno moneta di carta dela stanpa del <term ref="#gran-can">Gran Can</term>». Non si danno, invece, indizi di contatti di R con L e P, che presentano un testo
+         abbreviato: <ref type="witlink" target="#l-null-104">L 104 3</ref> «Hic, et ab hinc in antea, expenditur moneta de cartis quam <term ref="#gran-can">Magnus Canis</term>, ut dictum est, fabricare facit»; <ref type="witlink" target="#p-ii-49">P II 49 5</ref> «Viri strenui sunt in armis et fortes».</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

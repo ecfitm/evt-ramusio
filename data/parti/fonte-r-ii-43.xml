@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>fonte-R-II-43</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="fonte-r-ii-43">
+    <head>
+      <hi rend="bold">P, II 43 1</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="fonte-r-ii-43_1_1" n="1"> Post recessum a provincia <term ref="#carazan">Carayam</term> invenitur descensus quidam maximus per quem descenditur continue per dietas duas
+         et dimidiam ubi nulla est habitacio, sed ibi una lata et spaciosa planicies in qua
+         tribus diebus in ebdomada multi conveniunt ad nundinas et mercata; descendunt enim
+         multi de montibus magnis regionis illius et deferunt aurum quod pro argento commutant
+         dantque unam auri unciam pro quinque argenti, multique negotiatores de montibus illis
+         illuc conveniunt cum argento. </seg>
+    </p>
+    <p n="2"/>
+    <p n="3">
+      <seg xml:id="fonte-r-ii-43_3_1" n="1"> Et quant l’en a desendue cest .II. jornee et demi, adonc treuve l’en une provence
+         qe est ver midi et est a les confin de <term ref="#india">Yndie</term>: <term ref="#mien">Mien</term> est apelés. </seg>
+      <seg xml:id="fonte-r-ii-43_3_2" n="2"> L’en ala .XV. jornee por mout desviable leu et por grant boscajes,
+         la ou il ha leofans asez, et unicorn aseç, et autres diverses bestes sauvajes. </seg>
+      <seg xml:id="fonte-r-ii-43_3_3" n="3">
+         H‹o›mes ne habitasion n’i a: et por ce voç laison de ce boscajes et voç conteron d’une
+         estoire, si con vos la pori oïr.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

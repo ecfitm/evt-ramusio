@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>P-I-39</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="p-i-39">
+    <head>
+      <hi rend="bold">P, I 39</hi>
+    </head>
+    <p n="1"/>
+    <p n="2">
+      <seg xml:id="p-i-39_2_1" n="1"> <term ref="#samarchan">Samarchan</term> nobilis civitas est et magna, in regione illa que tributaria est nepoti <term ref="#gran-can">Magni Kaam</term>, ubi simul habitant christiani et qui <term ref="#macometto">Machometum</term> adorant, qui se Saracenos vocant. </seg>
+      <seg xml:id="p-i-39_2_2" n="2"> In hac civitate tale, his temporibus, factum
+         est, Christi virtute, miraculum: quidam frater <term ref="#gran-can">Magni Kaam</term> qui dicebatur <term ref="#zagathai">Cigatai</term>, qui huic |18b| preerat regioni, inductus a christianis et doctus, baptismum suscepit;
+         tunc christiani, principis favorem habentes, edificaverunt basilicam magnam in urbe
+         <term ref="#samarchan">Samarchan</term> in honorem beati Iohannis Baptiste; tali autem ingenio fuit per architectos ecclesia fabricata, ut tota testudo basilice
+         super columpnam unicam firmaretur, que columpna in medio eius erat; acceperunt autem
+         dum fieret quemdam Saracenorum lapidem de quo basim formaverunt sub columpna prefata.
+         Sarraceni vero, qui christianos oderant, de sublato eis lapide doluerunt, sed <term ref="#zagathai">Cigatai</term> principem metuentes ausi contradicere non fuerunt. </seg>
+      <seg xml:id="p-i-39_2_3" n="3"> Factum est autem ut moreretur
+         princeps, cui filius in regno sed non in fide successit: Sarraceni vero impetraverunt
+         ab ipso ut christiani suum |18c| eis lapidem restituere cogerentur; offerentibus vero
+         christianis illis precium de lapide magnum, renuerunt Sarraceni precium, volentes
+         ut, sublato lapide, destrueretur ecclesia, cadente columpna. </seg>
+      <seg xml:id="p-i-39_2_4" n="4"> Cumque christianis
+         pro hac re nullum adesset remedium, beatum Iohannem Baptistam lacrimosis precibus invocare ceperunt; adveniente igitur die quando lapis de sub
+         columpna fuerat removendus et a Saracenis, per consequens, ruina tocius tecti ecclesie
+         sperabatur, nutu divino, columpna adeo a basi sublevata est, ut per palmorum trium
+         spacium elevata ab ea sustentaretur in aere, et sic absque humani adminiculi fulcimento
+         usque hodie perseverat.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

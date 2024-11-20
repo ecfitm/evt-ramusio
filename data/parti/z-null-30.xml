@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>Z-NULL-30</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <div xml:id="z-null-30">
+    <head corresp="#z_body">
+      <hi rend="bold">Z, 30</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="z-null-30_1_1" n="1"> <term ref="#lop">Lop</term> est quedam civitas a qua dum homo discedit, magnum intrat desertum. </seg>
+      <seg xml:id="z-null-30_1_2" n="2"> Civitas vero
+         est <term ref="#gran-can">Magni Canis</term>; cuius gentes <term ref="#macometto">Macometi</term> legem observant.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="z-null-30_2_1" n="1"> Hic bestie, nec aves habitant, quia non inveniunt ad vivendum. </seg>
+      <seg xml:id="z-null-30_2_2" n="2"> In isto itaque
+         deserto huiusmodi mirum habetur: nam si, dum aliqua comitiva |15v| mercatorum vel
+         aliorum transit per desertum, accidat ex eis aliquem in nocte causa dormiendi vel
+         aliquid aliud faciendi ab eius sotiis remanere, postmodum audit spiritus loquentes
+         ad similitudinem sotiorum; qui spiritus, proprio nomine ipsum vocantes, sepe faciunt
+         a recto tramite deviare. </seg>
+      <seg xml:id="z-null-30_2_3" n="3"> Et sic nescit reverti. </seg>
+      <seg xml:id="z-null-30_2_4" n="4"> Et cibo potuque carens, decedit.
+         </seg>
+      <seg xml:id="z-null-30_2_5" n="5"> Hoc vero modo multi homines perierunt.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

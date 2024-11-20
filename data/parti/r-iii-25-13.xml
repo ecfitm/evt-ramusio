@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-25-13</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-25">
+      <note>
+	<p>La pericope pare l’esito di <hi rend="italics">bricolage</hi>. L’<hi rend="italics">incipit </hi>«Sono molto lussuriosi…» pare recuperato dalla pericope di P III 31 12 «Omnes communiter luxuriosi sunt: consanguineas tercii gradus uxores accipiunt et
+         hoc per totam <term ref="#india">Indiam</term> observatur»; il resto del frammento traduce alla lettera (da «accipiunt…» in poi)
+         <ref type="witlink" target="#z-null-113">Z 113 30-32</ref> «Non reputant peccatum aliquam luxuriam vel aliquod peccatum carnalem. Conubia quidem
+         taliter faciunt, videlicet quod accipiunt consanguineas germanas, et novercas – si
+         patres eorum deceserint – et cognata‹s› similiter. Et hanc consuetudinem omnes Yndi
+         observant».</p>
+	<p>La lezione di P rinvia a VA CXLI 19-20 «I sono luxuriosa zente; i tolleno per moglier le chuxine e lle maregnie e lle chugniade
+         dapoi la morte d’i maridi. E questo se observa per tuta <term ref="#india">India</term>»; il modello è F CLXXIX 9 «Il ne tienent a pechiés nul luxurie ne nul pechiés carnaus. Le mariajes font en
+         ceste mainere qe je voç dirai: car il prenent la coisine germaine, il prenent la feme
+         son pere, se il morust, e la feme son frere ausint; et cest costumes ont tuit celz
+         de <term ref="#india">Yndes</term>». Si mantegono fedeli a tale lezione L 166 17-18: «Nullam luxuriam nullamque carnalitatem pro peccato habent. Mulieres quascumque
+         accipiunt in uxorem, nullo parentele obstaculo impediti; primas consanguineas – uxores
+         patris vel fratris –, dum vidue remanserint accipiunt in uxorem: et talem consuetudinem
+         ubicumque ‹omnes› Indiani tenent», e (in misura minore) VB CXLIX 22 «Non tieno pecado alchun ato de lusuria; è licito a lloro a tuor le parente per mogie
+         fino ale cermane, ecian la madregna morto el padre, e la moier del fratello essendo
+         el fratello morto». Sulla prima parte della pericope in V 97 10 vedi la nota a <ref type="witlink" target="#r-iii-25">R III 25 12</ref>; il discorso continua in V 97 11: «Et fano i suo’ maridazi in questa forma: i tuol per moier le zermane chuxine, et
+         simelmente le chugnade; et simelmente questa uxanza oservano i Zudei» (<hi rend="italics">Zudei</hi> è manifestamente una <hi rend="italics">bévue</hi> del testo hamiltoniano).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-18</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body xml:id="r_body">
+  <div xml:id="r-iii-18" n="1">
+    <head>
+      <hi rend="bold">R, III 18</hi>
+    </head>
+    <p n="1">
+      <seg xml:id="r-iii-18_1_1" n="1"> Dell’isola di <term ref="#angaman">Angaman</term>. Cap. 18.</seg>
+    </p>
+    <p n="2">
+      <seg xml:id="r-iii-18_2_1" n="1"> <term ref="#angaman">Angaman</term> è una isola grandissima, che non ha re, le cui genti <term ref="#idolatri">adorano gl’idoli</term>, et sono come bestie salvatiche, conciosiacosaché mi fu detto che hanno il capo simile
+         a quello de’ cani, et gli occhi et denti. </seg>
+      <seg xml:id="r-iii-18_2_2" n="2"> Sono genti crudeli, et tutti quegli huomini che possono prendere gli ammazzano et
+         mangiano, pur che non siano della sua gente. </seg>
+      <seg xml:id="r-iii-18_2_3" n="3"> Hanno abondanza di tutte le sorti di specie. </seg>
+      <seg xml:id="r-iii-18_2_4" n="4"> Le sue vettovaglie sono risi et latte et carne d’ogni maniera; hanno <term ref="#noci-dindia">noci d’India</term>, <term ref="#pomo-di-paradiso">pomi paradisi</term>, et molti altri frutti diversi dalli nostri.</seg>
+    </p>
+  </div>
+</body>
+</text>
+     </TEI>

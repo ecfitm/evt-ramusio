@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+           <fileDesc>
+              <titleStmt>
+                 <title>R-III-20-37</title>
+                 <respStmt>
+                    <resp/>
+                    <name/>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <p>Publication Information</p>
+              </publicationStmt>
+              <sourceDesc>
+                 <p>Information about the source</p>
+              </sourceDesc>
+           </fileDesc>
+        </teiHeader>
+        <text><body>
+  <listApp>
+    <app from="#r-iii-20">
+      <note>
+	<p><ref type="witlink" target="#z-null-107">Z 107 103-105</ref> è l’unica redazione a riferire della pratica indigena di bere «solamente con boccali»:
+         «Item bibunt cum bochyalibus solum, et quilibet cum suo; nec aliquis biberet cum alterius
+         bochyali. Et cum bibunt bochyale ori non apponunt, sed ipsum retinentes sursum elevatum,
+         in os potationem infundunt; nec aliquo modo cum ore tangerent bochyale, nec darent
+         cum illis bochyalibus aliquibus forensibus ad potandum. Sed si forensis secum vas
+         proprium non habebit, si bibere volet, ipsi infundent ei potationem sive vinum intra
+         manus, et de manibus bibet, ita quod manus proprie erunt cupa».</p>
+	<p>(Vedi <hi rend="italics">contra</hi> F CLXXIII 42-43, P III 25 4-5, VA CXXXVII 48-49, L 161 27-28, V 91 42-43, VB CXLIII 49-50).</p></note>
+    </app>
+  </listApp>
+</body>
+</text>
+     </TEI>
