@@ -3,6 +3,21 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 
+symbol_map = {
+    "f": "-null",
+    "l": "-null",
+    "v": "-null",
+    "va": "-null",
+    "vb": "-null",
+    "z": "-null",
+    "r_i": "",
+    "r_ii": "",
+    "r_iii": "",
+    "p_i": "",
+    "p_ii": "",
+    "p_iii": "",
+}
+
 def add_xml_declaration(file_path):
     xml_declaration = '<?xml version="1.0" encoding="UTF-8"?>\n'
 
@@ -32,6 +47,7 @@ def remove_seg_pattern(file_path):
         print(f"Removed pattern from {file_path}")
 
 def add_chapter_type_and_wrap_head(file_path):
+    file_prefix = os.path.basename(file_path).replace("_completo.xml", "").lower()
     # Parse the XML file
     ET.register_namespace('', "http://www.tei-c.org/ns/1.0")
     tree = ET.parse(file_path)
@@ -47,27 +63,27 @@ def add_chapter_type_and_wrap_head(file_path):
         # Add xml:id="r-i-<n>" attribute based on the n attribute
         n_value = div.get("n", "")
         if n_value:
-            # div.set("{http://www.w3.org/XML/1998/namespace}id", f"r-i-{n_value}")
-            # div.set("{http://www.w3.org/XML/1998/namespace}id", f"f-null-{n_value}")
-            # div.set("{http://www.w3.org/XML/1998/namespace}id", f"l-null-{n_value}")
-            # div.set("{http://www.w3.org/XML/1998/namespace}id", f"z-null-{n_value}")
-            div.set("{http://www.w3.org/XML/1998/namespace}id", f"p-i-{n_value}")
+            
+            div.set("{http://www.w3.org/XML/1998/namespace}id", f"{file_prefix}{symbol_map[file_prefix]}-{n_value}")
+            # div.set("{http://www.w3.org/XML/1998/namespace}id", f"p-i-{n_value}")
 
         # Process the <head> inside the <div>
         head = div.find("tei:head", namespace)
         if head is not None:
-            # Wrap head's content in a <seg> with xml:id = div's id + "-titolo"
-            div_id = div.get("{http://www.w3.org/XML/1998/namespace}id", "")
-            seg_id = f"{div_id}-titolo"
-            seg = ET.Element(f"{{{namespace['tei']}}}seg", attrib={"xml:id": seg_id})
+            existing_seg = head.find("tei:seg", namespace)
+            if existing_seg is None:
+                # Wrap head's content in a <seg> with xml:id = div's id + "-titolo"
+                div_id = div.get("{http://www.w3.org/XML/1998/namespace}id", "")
+                seg_id = f"{div_id}-titolo"
+                seg = ET.Element(f"{{{namespace['tei']}}}seg", attrib={"xml:id": seg_id})
 
-            # Move head's content into the <seg>
-            if head.text:
-                seg.text = head.text
-                head.text = None
+                # Move head's content into the <seg>
+                if head.text:
+                    seg.text = head.text
+                    head.text = None
 
-            # Insert the <seg> into <head>
-            head.append(seg)
+                # Insert the <seg> into <head>
+                head.append(seg)
 
     # Write back to the file
     tree.write(file_path, encoding="utf-8", xml_declaration=True)

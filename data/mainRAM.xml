@@ -20,8 +20,12 @@
             <listWit>
                <witness xml:id="F" corresp="#v_F"></witness>
                <witness xml:id="L" corresp="#v_L"></witness>
-               <witness xml:id="P" corresp="#v_P"></witness>
-               <witness xml:id="R" corresp="#v_R"></witness>
+               <witness xml:id="P_I" corresp="#v_P_I"></witness>
+               <witness xml:id="P_II" corresp="#v_P_II"></witness>
+               <witness xml:id="P_III" corresp="#v_P_III"></witness>
+               <witness xml:id="R_I" corresp="#v_R_I"></witness>
+               <witness xml:id="R_II" corresp="#v_R_II"></witness>
+               <witness xml:id="R_III" corresp="#v_R_III"></witness>
                <witness xml:id="V" corresp="#v_V"></witness>
                <witness xml:id="VA" corresp="#v_VA"></witness>
                <witness xml:id="VB" corresp="#v_VB"></witness>
@@ -39,11 +43,23 @@
       </xi:include>
       <group>
          <!-- Redazioni -->
-         <text xml:id="v_R" type="redazione">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/R_completo.xml" xpointer="r_body">
+         <text xml:id="v_R_I" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/R_I_completo.xml" xpointer="r_i_body">
                <xi:fallback></xi:fallback>
             </xi:include>
          </text>
+         
+         <text xml:id="v_R_II" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/R_II_completo.xml" xpointer="r_ii_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text>
+        
+         <text xml:id="v_R_III" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/R_III_completo.xml" xpointer="r_iii_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text> 
          <text xml:id="v_L" type="redazione">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/L_completo.xml" xpointer="l_body">
                <xi:fallback></xi:fallback>
@@ -54,8 +70,18 @@
                <xi:fallback></xi:fallback>
             </xi:include>
          </text>
-         <text xml:id="v_P" type="redazione">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/P_completo.xml" xpointer="p_body">
+         <text xml:id="v_P_I" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/P_I_completo.xml" xpointer="p_i_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text> 
+         <text xml:id="v_P_II" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/P_II_completo.xml" xpointer="p_ii_body">
+               <xi:fallback></xi:fallback>
+            </xi:include>
+         </text> 
+         <text xml:id="v_P_III" type="redazione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/P_III_completo.xml" xpointer="p_iii_body">
                <xi:fallback></xi:fallback>
             </xi:include>
          </text> 
