@@ -54,12 +54,11 @@
                <xi:fallback></xi:fallback>
             </xi:include>
          </text>
-         
          <text xml:id="v_P" type="redazione">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/P_completo.xml" xpointer="p_body">
                <xi:fallback></xi:fallback>
             </xi:include>
-         </text>
+         </text> 
          <text xml:id="v_V" type="redazione">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="redazioni/V_completo.xml" xpointer="v_body">
                <xi:fallback></xi:fallback>

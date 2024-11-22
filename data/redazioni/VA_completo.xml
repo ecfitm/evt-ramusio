@@ -1,28 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
            <fileDesc>
               <titleStmt>
-                 <title></title>
+                 <title />
                  <respStmt>
-                    <resp/>
-                    <name/>
+                    <resp />
+                    <name />
                  </respStmt>
               </titleStmt>
               <publicationStmt>
-                 <p></p>
+                 <p />
               </publicationStmt>
               <sourceDesc>
-                 <p></p>
+                 <p />
               </sourceDesc>
            </fileDesc>
         </teiHeader>
         <text><body xml:id="va_body">
-  <div n="1"><head>1</head>
+  <div n="1" type="chapter" xml:id="va-null-1"><head><seg xml:id="-titolo">1</seg><seg xml:id="va-null-1-titolo" /></head>
          <p n="1">I</p>
          <p n="2">Del prolago: sì come misier Nicollò e misier Mafio Pollo, zitadini de Veniexia, andò
             inprimamente in <term ref="#constantinopoli">Chostantinopolli</term>, e dapuo’ in <term ref="#soldadia">Soldania</term>, e possa là dove era <term ref="#barcha">Barcha Achaan</term>; e molte altre cosse.</p>
@@ -62,7 +58,7 @@
                chon mi, e’ ve menerò salvi e seguri, e sì ve fazo zerti ch’el ve farà grande onor
                e averé de tal venuta grande utilità».</seg></p>
       </div>
-  <div n="2"><head>2</head>
+  <div n="2" type="chapter" xml:id="va-null-2"><head><seg xml:id="-titolo">2</seg><seg xml:id="va-null-2-titolo" /></head>
          <p n="1">II</p>
          <p n="2">Chome misier Nicollò e misier Mafio andò chon uno anbasiator al <term ref="#gran-can">Gran Chaan</term> e chomo egli fo visti vollentiera.</p>
          <p n="3"><seg n="1"> Quando quelli do fratelli àveno intexo quelle parolle, egli àveno suo chonseglio
@@ -78,7 +74,7 @@
                Giexia de Roma, e de tute le uxanze e chondizion de’ Latini. </seg><seg n="7"> E misier Nicollò e misier Mafio, li qual era savii e aveduti e saveva ben la lengua
                tartarescha, a zaschaduno ponto per si rispoxe ordenatamente.</seg></p>
       </div>
-  <div n="3"><head>3</head>
+  <div n="3" type="chapter" xml:id="va-null-3"><head><seg xml:id="-titolo">3</seg><seg xml:id="va-null-3-titolo" /></head>
          <p n="1">III</p>
          <p n="2">Chome misier Nicollò e misier Mafio andò anbasiatori al papa per lo <term ref="#gran-can">Gran Chaan</term>, qué ’llo i mandasse ‹omeni de› seno per desputar.</p>
          <p n="3"><seg n="1"> Quando el <term ref="#gran-can">Gran Chaan</term>, zoè el segnior de tuti i segniori, el qual segnioriza tuti i <term ref="#tartari">Tartari</term> del mondo e tute le provi|7r|nzie e regniami de quella grandisima parte del mondo,
@@ -107,7 +103,7 @@
                ove era lo <term ref="#gran-can">Grande Chaan</term> defina <term ref="#giazza">Lagiaza</term>, tre ani, peroché i trovòno molti grandi fiumi in molti luogi, che erano sì grande
                che àveno spese fiate rio tenpo per la via. </seg><seg n="14"> Et però stete-li tanto a zonzer a <term ref="#giazza">Lagiaza</term>.</seg></p>
       </div>
-  <div n="4"><head>4</head>
+  <div n="4" type="chapter" xml:id="va-null-4"><head><seg xml:id="-titolo">4</seg><seg xml:id="va-null-4-titolo" /></head>
          <p n="1">IV</p>
          <p n="2">Chome misier Nicollò e misier Mafio menò Marcho, fio de misier Nicolò, ala chorte
             del <term ref="#gran-can">Gran Chaan;</term> e molte altre cosse.</p>
@@ -136,7 +132,7 @@
                chome egli aveano fato chon el papa, e chome aveano fato per la via. </seg><seg n="29"> Et egli respoxeno ordenatamente a tute quelle cosse ch’elli aveano a dire. </seg><seg n="30"> E poi li aprexentò l’olio ch’elli avevano portato de <term ref="#hierusalem">Ieruxalem</term>, lo qual lui el rezevé chon gran reverenzia, e mostrò ch’ello l’avesse molto charo,
                e fexe-llo logar ordenatamente. </seg><seg n="31"> E poi domandò de Marcho, chi lui era. </seg><seg n="32"> Misier Nicolò respoxe chome era suo figlio, e lui i feze grande chareze.</seg></p>
       </div>
-  <div n="5"><head>5</head>
+  <div n="5" type="chapter" xml:id="va-null-5"><head><seg xml:id="-titolo">5</seg><seg xml:id="va-null-5-titolo" /></head>
          <p n="1">V</p>
          <p n="2">Chome Marcho intrà in grazia del <term ref="#gran-can">Gran Chaan</term>, e chome lui lo mandava in tute suo’ gran fazende e anbasiate.</p>
          <p n="3"><seg n="1"> Hor avene che chostor stete alla chorte del <term ref="#gran-can">Gran Chaan</term>, e tuta la chorte li feva grande onor et erano onoradi altratanto quanto baroni che
@@ -151,7 +147,7 @@
                sì che in la corte chomenzò a chiamar Marcho, de llì inanzi, missier Marcho, e chusì
                l’apellerà da qui inanzi el nostro libro.</seg></p>
       </div>
-  <div n="6"><head>6</head>
+  <div n="6" type="chapter" xml:id="va-null-6"><head><seg xml:id="-titolo">6</seg><seg xml:id="va-null-6-titolo" /></head>
          <p n="1">VI</p>
          <p n="2">Chome misier Marcho vete chotante cosse, e chome lui le fè’ scriver in questo libro.</p>
          <p n="3"><seg n="1"> Hor stete misier Marcho in corte del <term ref="#gran-can">Gran Chaan</term> ben XVII ani. </seg><seg n="2"> E in tuto questo tenpo el non challò d’andar per anba|8v|siade, perché ’l signior
@@ -162,7 +158,7 @@
                de Oriente, perché ’lo andava tanto atorno e invegnìa d’ogni gran cosse, e grande
                dilligienzia aveva de saver render raxione al signior.</seg></p>
       </div>
-  <div n="7"><head>7</head>
+  <div n="7" type="chapter" xml:id="va-null-7"><head><seg xml:id="-titolo">7</seg><seg xml:id="va-null-7-titolo" /></head>
          <p n="1">VII</p>
          <p n="2">Chome i anbasiatori de uno re vene ala chorte del <term ref="#gran-can">Gran Chaan</term> e domandò per grazia al signior che quel misier Nicollò, Mafio e Marcho andasse con
             loro.</p>
@@ -178,7 +174,7 @@
                domandà per grazia al Gran Signior che i lli desse in soa conpagnia, ché ’lli andaseno
                seguri per mar chon quella dona. </seg><seg n="11"> Sì che lo <term ref="#gran-can">Grande Chaan</term> disse alle fin de far ziò ch’elli volleano, e mostrò che molto li agravasse.</seg></p>
       </div>
-  <div n="8"><head>8</head>
+  <div n="8" type="chapter" xml:id="va-null-8"><head><seg xml:id="-titolo">8</seg><seg xml:id="va-null-8-titolo" /></head>
          <p n="1">VIII</p>
          <p n="2">Chome misier Nicollò, Mafio et Marcho tornò a Veniexia; et molte altre cosse.</p>
          <p n="3"><seg n="1"> Quando i do fradelli e misier Marcho se doveano partire, lo <term ref="#gran-can">Gran Segnior</term> li fè’ vegnir denanzi e fè’-lli dare do tavolle d’oro de chomandamento che i foseno
@@ -208,7 +204,7 @@
                do fratelli e misier Marcho veder e sapere e udir tante cosse che se scriverano in
                questo libro.</seg></p>
       </div>
-  <div n="9"><head>9</head>
+  <div n="9" type="chapter" xml:id="va-null-9"><head><seg xml:id="-titolo">9</seg><seg xml:id="va-null-9-titolo" /></head>
          <p n="1">IX</p>
          <p n="2">Chome chomenzo a dire delle cosse che vete misier Marcho andando e vigniando e stagando;
             e prima de <term ref="#armenia">Armenia Pizolla</term>, et de quella mollte altre cosse.</p>
@@ -221,7 +217,7 @@
                d’ogni mainiera. </seg><seg n="6"> Ma non è sana provinzia, anzi inferma duramente; ma solea per li tenpi li gentilomeni
                eser prodomeni e valenti per arme, ma ora sono chativi e villi e sono grandi bevadori.</seg></p>
       </div>
-  <div n="10"><head>10</head>
+  <div n="10" type="chapter" xml:id="va-null-10"><head><seg xml:id="-titolo">10</seg><seg xml:id="va-null-10-titolo" /></head>
          <p n="1">X</p>
          <p n="2">De <term ref="#giazza">Llagiaza</term>, o’ che meteno tute le merchadantie che vien de zia da mar.</p>
          <p n="3"><seg n="1"> Anche mo’ è in quella provinzia sul mare una zità ch’à nome Laglsaza, la qual è zità de gran merchadantia. </seg><seg n="2"> E tute le spezie che sono infra tera e tuti i drapi che se den adur de llì in
@@ -229,7 +225,7 @@
                parte, se reduxeno molto lì. </seg><seg n="4"> E tuti quelli che vuol andar verso oriente per tera, tuti meteno chavo in questa
                zità.</seg></p>
       </div>
-  <div n="11"><head>11</head>
+  <div n="11" type="chapter" xml:id="va-null-11"><head><seg xml:id="-titolo">11</seg><seg xml:id="va-null-11-titolo" /></head>
          <p n="1">XI</p>
          <p n="2">De <term ref="#turchomania">Turchomania</term>, [o’] se trova boni chavali e muli, e dove fo martorizià <term ref="#san-biagio">san Biaxio</term>.</p>
          <p n="3"><seg n="1"> Ò dito de <term ref="#armenia">Armenia Pizolla</term>, sì ve dirò de <term ref="#turchomania">Turchomania</term>. </seg><seg n="2"> In <term ref="#turchomania">Turchomania</term> si è tre generazion de zente; l’una si è Turchimani che adorano <term ref="#macometto">Machometo</term> e àno soa lezie, ed èno senplize zente, e àno sozo lenguazio, e stano in montagnie
@@ -240,7 +236,7 @@
                drapi de seta cremexi e d’altri colori molto richamente. </seg><seg n="6"> Le mior e lle plui famoxe cità de quella provinzia si èno <term ref="#cogno">Chomo</term>, <term ref="#cayssaria">Cesare</term> e Sabastala. </seg><seg n="7"> E lì fo marturizià misier <term ref="#san-biagio">san Biaxio</term>. </seg><seg n="8"> Molte altre zità e chastelle ve n’è, delle qual non fazo menzion perché serève
                tropo longo. </seg><seg n="9"> Egli sono sotoposti al Tartaro del Levante e el [i manda] signior sì chome li piaxe.</seg></p>
       </div>
-  <div n="12"><head>12</head>
+  <div n="12" type="chapter" xml:id="va-null-12"><head><seg xml:id="-titolo">12</seg><seg xml:id="va-null-12-titolo" /></head>
          <p n="1">XII</p>
          <p n="2">Della <term ref="#armenia">Grande Armenia</term>, dove è l’archa da Noè e risorze una fontana d’oio.</p>
          <p n="3">|10r| <seg n="1"> La <term ref="#armenia">Grande Armenia</term> è una grande provinzia. </seg><seg n="2"> Lo chomenzamento suo è una zità che à nome <term ref="#arcingan">Artinga</term>, in la qual se llavora i mior bochasini che sia al mondo. </seg><seg n="3"> Ed è i mior e i plui belli bagni che sia al mondo, ed èno d’aqua sorzente. </seg><seg n="4"> Èno Armini ed èno sotoposti al <term ref="#tartari">Tartaro</term>. </seg><seg n="5"> È-ne molte chastelle e zità; la plui nobille zità della contrà è apellata <term ref="#arcingan">Artinga</term>, e à arzivescovo; è-ne do altre mazior: àno nome <term ref="#argiron">Argiron</term> e <term ref="#darzizi">Dercieri</term>, ed è molto grande provinzia. </seg><seg n="6"> L’instade ge abita l’oste del Tartaro del Levante perché el ve n’è molti boni pàscolli l’instate per le bestie, ma l’inverno non ge
@@ -254,7 +250,7 @@
                altre infirmitate. </seg><seg n="13"> E ne viene le zente de molto lonzi per questo olio, e tute le contrate atorno
                non arde altro oglio se non questo.</seg></p>
       </div>
-  <div n="13"><head>13</head>
+  <div n="13" type="chapter" xml:id="va-null-13"><head><seg xml:id="-titolo">13</seg><seg xml:id="va-null-13-titolo" /></head>
          <p n="1">XIII</p>
          <p n="2">De <term ref="#zorzania">Zorzania</term>, la qual non poté prender re <term ref="#alessandro">Alexandro</term>, e dove è una tore de fero.</p>
          <p n="3"><seg n="1"> In <term ref="#zorzania">Zorzania</term> è uno re ch’è apellato senpre <term ref="#david">Mandemilich</term>, che è a dire in nostra lengua Davit re, ed è sotoposto al <term ref="#tartari">Tartaro</term>. </seg><seg n="2"> In antico tenpo, sechondo che se dixe, naseva tuti li re de quella provinzia chon
@@ -268,7 +264,7 @@
                alla bocha de quel passo, e messe nome a quela |10v| tore la <term ref="#porta-di-ferro">Tore del Fero</term>. </seg><seg n="9"> In la provinzia de <term ref="#zorzania">Zorzania</term> si è zitade e chasteli asai. </seg><seg n="10"> È-ne seda in grande abondanzia, là se lavora draparia belletisima de seda e d’oro,
                e là è i mior astori del mondo. </seg><seg n="11"> Lì è abondanzia de tute cosse da viver. </seg><seg n="12"> La zente viveno de lavor de tera e de merchadantie. </seg><seg n="13"> La provinzia è tuta piena de montagnie e de streti passi e forti sì che <term ref="#tartari">Tartari</term> non àno posuto aver intriegamente la segnioria de quella provinzia.</seg></p>
       </div>
-  <div n="14"><head>14</head>
+  <div n="14" type="chapter" xml:id="va-null-14"><head><seg xml:id="-titolo">14</seg><seg xml:id="va-null-14-titolo" /></head>
          <p n="1">XIV</p>
          <p n="2">Del monestier de sen Lunardo, hove è uno lago che non se trova pesie se non de quarexema.</p>
          <p n="3"><seg n="1"> Ancora in quella contrà è uno monestier de munexi che è apellato san Lionardo. </seg><seg n="2"> A pe’ de quel monestier è uno gran lago che vien d’una montagnia, e in quella
@@ -277,7 +273,7 @@
                ch’è uno d’i quatro fiumi del Paradixo, e molti altri fiumi, ed è tuto zircondado
                da montagnie e de tera. </seg><seg n="5"> De llì vien la seda ch’è apellata <term ref="#ghellie">ghella</term>. </seg><seg n="6"> Or avemo dito delle confine d’<term ref="#armenia">Armenia</term> deverso tramontana, mo’ ve diremo delle altre confine dentro mezodì e llevante.</seg></p>
       </div>
-  <div n="15"><head>15</head>
+  <div n="15" type="chapter" xml:id="va-null-15"><head><seg xml:id="-titolo">15</seg><seg xml:id="va-null-15-titolo" /></head>
          <p n="1">XV</p>
          <p n="2">De <term ref="#moxul">Mosul</term>, dove è el papa de’ cristiani ch’è de llà dal mar.</p>
          <p n="3"><seg n="1"> <term ref="#moxul">Mosul</term> è uno regniame ove abita piuxor gieneration de zente. </seg><seg n="2"> El n’è una zente ch’è apelata Arabi e adorano Macometo. </seg><seg n="3"> Ancora n’è un’altra gienerazion de altra zente che èno cristiani, ma non chredeno
@@ -287,7 +283,7 @@
                de tute cosse ‹e› c[a] re spezie, èno de questo regniame la maor parte. </seg><seg n="9"> Anchora in le montagnie de questa provinzia abita zente ch’èno diti <term ref="#curdi">Chardi</term>, e una parte de quella zente èno cristiani nestorini e iachobini. </seg><seg n="10"> E in altre parte èno saraxini |11r| che adorano <term ref="#macometto">Machometo</term>, chi altra cossa; ed èno prodomini per arme, ma sono malvaxia zente e robano volentiera
                le merchadantie. </seg><seg n="11"> Or lasamo de questo regniame e diremo della grande citade de <term ref="#baldach">Baldacho</term>.</seg></p>
       </div>
-  <div n="16"><head>16</head>
+  <div n="16" type="chapter" xml:id="va-null-16"><head><seg xml:id="-titolo">16</seg><seg xml:id="va-null-16-titolo" /></head>
          <p n="1">XVI</p>
          <p n="2">Del castello dove sta el papa de’ saraini, e chome el fo prexo, e del texoro i fo
             trovato.</p>
@@ -310,7 +306,7 @@
          <p n="5"><seg n="23"> Or avete odito de <term ref="#baldach">Baldacho</term> e del texoro, mo’ ve dirò de <hi rend="italics"><term ref="#thauris">Turis</term></hi>. </seg><seg n="24"> Ben ve porìa dir dei lor chostumi e delle lor uxanze, ma perché tropo sera‹ve›
                longo a dire, sì taxerò e chonterò-ve altre cosse meraveglioxe e stranie.</seg></p>
       </div>
-  <div n="17"><head>17</head>
+  <div n="17" type="chapter" xml:id="va-null-17"><head><seg xml:id="-titolo">17</seg><seg xml:id="va-null-17-titolo" /></head>
          <p n="1">XVII</p>
          <p n="2">De <term ref="#thauris">Turis</term>, là dove abita diverse zenerazion de zente.</p>
          <p n="3"><seg n="1"> <term ref="#thauris">Turis</term> è una gran zità in una grande provinzia, ed à molte zità e molte chastele, ma perzioché
@@ -318,7 +314,7 @@
                de gran valor. </seg><seg n="3"> La zità è in sì bon luogo ch’el vienno li merchadanti d’<term ref="#india">India</term> e de <term ref="#baldach">Baldacho</term>, e de <term ref="#moxul">Mosul</term> e de <term ref="#ormus">Chremosor</term>, e de molte altre parte; eziandio li merchadanti latini ge vano spesse fiade. </seg><seg n="4"> Lì s’achata piere prezioxe in grande abondanzia. </seg><seg n="5"> In quella zità guadagnia molto li merchadanti. </seg><seg n="6"> In quella zità abita grandisima zente: armini, nestorini, iachobini e persi. </seg><seg n="7"> Lo puovolo della tera adorano <term ref="#macometto">Machometo</term>. </seg><seg n="8"> La zità è tuta intorniata de molti belli zardini ch’èno pieni di nobelisimi fruti.
                </seg><seg n="9"> ‹Li› saraini de <term ref="#thauris">Turis</term> èno malvaxia zente e falssa e deslialle.</seg></p>
       </div>
-  <div n="18"><head>18</head>
+  <div n="18" type="chapter" xml:id="va-null-18"><head><seg xml:id="-titolo">18</seg><seg xml:id="va-null-18-titolo" /></head>
          <p n="1">XVIII</p>
          <p n="2">De uno bel miracollo che adevene dentro <term ref="#baldach">Baldacho</term> e <term ref="#moxul">Mosul</term>; et altre cosse.</p>
          <p n="3"><seg n="1"> Ancora ve voio chontar una grande meraveia ch’e’ incontrò dentro <term ref="#baldach">Baldacho</term> e <term ref="#moxul">Mosul</term>. </seg><seg n="2"> El fo uno <term ref="#califa">chalifo</term> de’ saraini in <term ref="#baldach">Baldacho</term> che voleva gran mal a’ cristiani, e dì e note pensava chomo el podesse a tuti quelli
@@ -375,7 +371,7 @@
                al collo.</seg></p>
          <p n="7"><seg n="36"> Dite è queste chosse che nonn era da taxer, le qual fo in le contrade de <term ref="#thauris">Turis</term> e <term ref="#baldach">Baldacho</term>. </seg><seg n="37"> E mo’ sì ve diremo della provinzia de <term ref="#persia">Persia</term>.</seg></p>
       </div>
-  <div n="19"><head>19</head>
+  <div n="19" type="chapter" xml:id="va-null-19"><head><seg xml:id="-titolo">19</seg><seg xml:id="va-null-19-titolo" /></head>
          <p n="1">XIX</p>
          <p n="2">Del castello ch’è in <term ref="#persia">Persia</term>, innel qual stano quelli che adorano el fuogo.</p>
          <p n="3"><seg n="1"> <term ref="#persia">Persia</term> si è una provinzia grandinisima, la qual fo molto nobelle e de gran afar in anticho
@@ -401,7 +397,7 @@
                quel fuogo a inprender le suo’ lanpade: e mai non la prenderano chon altro fuogo.
                </seg><seg n="15"> E vano molte fiate per trovar de quel fuogo ben diexe zornate. </seg><seg n="16"> Per questa chaxione adora quella zente el fuogo. </seg><seg n="17"> E sapiate che molta zente èno in queli erori. </seg><seg n="18"> E tute queste cosse chontàno quelli de quel castello a misier Marcho Pollo. </seg><seg n="19"> Mo’ ve voglio dire de altre zitate de <term ref="#persia">Persia</term>.</seg></p>
       </div>
-  <div n="20"><head>20</head>
+  <div n="20" type="chapter" xml:id="va-null-20"><head><seg xml:id="-titolo">20</seg><seg xml:id="va-null-20-titolo" /></head>
          <p n="1">XX</p>
          <p n="2">De Tonochain, là dove è destrieri da CC livre de tornexi grossi, et axeni da XXX marche d’arzento
             de p‹ri›ex‹i›o.</p>
@@ -423,7 +419,7 @@
                chazaxone. </seg><seg n="17"> Anchora egli è pernixe e chotrinixe asai, e li merchadanti che pasano de llì,
                sì àno grande solazo; anchora si n’è axeni salvadegi. </seg><seg n="18"> E in chavo de sete zornate se trova un regniame che s’apella <term ref="#chermain">Chrerina</term>.</seg></p>
       </div>
-  <div n="21"><head>21</head>
+  <div n="21" type="chapter" xml:id="va-null-21"><head><seg xml:id="-titolo">21</seg><seg xml:id="va-null-21-titolo" /></head>
          <p n="1">XXI</p>
          <p n="2">De <term ref="#chermain">Chrerina</term>, là dove nasie le turchexe e i falchoni pellegrini; et altre cosse.</p>
          <p n="3"><seg n="1"> <term ref="#chermain">Chrerina</term> si è uno grande regniame de <term ref="#persia">Persia</term>. </seg><seg n="2"> In antigo tenpo andava la signioria per ereditade, ma dapo’ che ‹i› <term ref="#tartari">Tartari</term> la conquistò, non à plui heredità, ma el <term ref="#tartari">Tartaro</term> i manda signor sì chome i piaxe. </seg><seg n="3"> In questo regniame nase le piere che sono apelate turchexe et è-ne in grande abondanzia;
@@ -434,7 +430,7 @@
                che sia al mondo; ed è menori cha falchoni pelegrini, e volla sì fortemente ch’el
                nonn è oxello che per volar li possa schanpar innanzi.</seg></p>
       </div>
-  <div n="22"><head>22</head>
+  <div n="22" type="chapter" xml:id="va-null-22"><head><seg xml:id="-titolo">22</seg><seg xml:id="va-null-22-titolo" /></head>
          <p n="1">XXII</p>
          <p n="2">Della grande desexa et del pian dove è grandisimi boi e moltoni.</p>
          <p n="3"><seg n="1"> E quando l’omo se parte dala zità de <term ref="#chermain">Chrerina</term>, el chavalcha sete zornade trovando senpre zità e chastelle e abitazion asai. </seg><seg n="2"> Et è tropo bon chavalchar per quela contrà, et è bon solazo; el se ge prende pernixe
@@ -474,7 +470,7 @@
                da quella zente in quella oschurità, ma e’ schanpì a uno chastello che era lì apresso
                avea nome <term ref="#consalmi">Chalosebini</term>, ma piuxor dei mie’ conpagni fono prexi, e tali morti e tali fono venduti.</seg></p>
       </div>
-  <div n="23"><head>23</head>
+  <div n="23" type="chapter" xml:id="va-null-23"><head><seg xml:id="-titolo">23</seg><seg xml:id="va-null-23-titolo" /></head>
          <p n="1">XXIII</p>
          <p n="2">De uno piano dove addiviene alle fiate sì gran caldo che lla zente chonvien star soto
             aqua se deno viver.</p>
@@ -516,7 +512,7 @@
                ani, ogni dì una volta, e chongrega-sse li parenti e li vexini in chaxa del morto
                e fano gran pianto e chridano molto forte, e sì se lamenta molto della morte.</seg></p>
       </div>
-  <div n="24"><head>24</head>
+  <div n="24" type="chapter" xml:id="va-null-24"><head><seg xml:id="-titolo">24</seg><seg xml:id="va-null-24-titolo" /></head>
          <p n="1">XXIV</p>
          <p n="2">De uno piano ove nasie formento che fa el pan amaro sì che el non se può manzar.</p>
          <p n="3"><seg n="1"> Or ve laserò de questa zitade e sì ve dirò della tramontana, per chontare de quelle
@@ -525,7 +521,7 @@
                è uxato un bon tenpo, e ziò ‹in›contra per le aque de quelle contrà, che sono amare.
                </seg><seg n="7"> Or ve voglio dir delle contrade deverso tramontana.</seg></p>
       </div>
-  <div n="25"><head>25</head>
+  <div n="25" type="chapter" xml:id="va-null-25"><head><seg xml:id="-titolo">25</seg><seg xml:id="va-null-25-titolo" /></head>
          <p n="1">XXV</p>
          <p n="2">De do dexerti, là dove non abita alchuno se non <term ref="#asini-salvatichi">axeni salvadegi</term>.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte da <term ref="#chermain">Chrerina</term>, el chavalcha ben sete zornate ed è molto malvaxie via. </seg><seg n="2"> L’omo va ben tre zornade ch’el non trova aqua, né fiume né riazuol, se non molto
@@ -539,7 +535,7 @@
                innel qual nonn è arbori nì aqua se non amara, e le bestie non ’de abitano se non
                solamente <term ref="#asini-salvatichi">asini salvadegi</term>.</seg></p>
       </div>
-  <div n="26"><head>26</head>
+  <div n="26" type="chapter" xml:id="va-null-26"><head><seg xml:id="-titolo">26</seg><seg xml:id="va-null-26-titolo" /></head>
          <p n="1">XXVI</p>
          <p n="2">De <term ref="#cobinam">Chobinan</term>, dove se fa la tuzia e ’l spudio.</p>
          <p n="3"><seg n="1"> <term ref="#cobinam">Cobinan</term> è una zità molto grande. </seg><seg n="2"> Le zente adora <term ref="#macometto">Machometo</term>. </seg><seg n="3"> Lì è fero e azalle e andanicho asai; e llì se fa molt[i] spe[chi] de azali molto
@@ -547,7 +543,7 @@
                ch’è in quella contrà e sì la mete in una fornaxia de fuogo ardente. </seg><seg n="5"> De sovra la bocha della fornaxia è una gradella de fero. </seg><seg n="6"> Lo vapor che esie de quella tera che s’apicha a quella gradella si è tutia; e
                quella altra tera che roman in fuogo è el spodio.</seg></p>
       </div>
-  <div n="27"><head>27</head>
+  <div n="27" type="chapter" xml:id="va-null-27"><head><seg xml:id="-titolo">27</seg><seg xml:id="va-null-27-titolo" /></head>
          <p n="1">XXVII</p>
          <p n="2">De <term ref="#timocaim">Chanochai</term>, là dove è l’<term ref="#arbore-secco">Alboro Solo</term> che s’apella Secho.</p>
          <p n="3"><seg n="1"> L’omo, quando el se parte de questa zità <term ref="#cobinam">Chobinan</term>, el va per uno dexerto ben oto zornade, lo qual è molto secho e arido luogo e non
@@ -560,7 +556,7 @@
                d’esso ben a zento mia, se non dal’uno lato de quel’alboro, apresso a quello a diexe
                meglia. </seg><seg n="8"> E lì se dixe che fo la bataglia dentro <term ref="#alessandro">Allexandro</term> e <term ref="#dario">Dario</term>. </seg><seg n="9"> Le zitade e lle chastelle della provinzia de Chunonchain àno grande abundanzia de tute chosse. </seg><seg n="10"> La contrà è molto tenperata, e in tenpo chalda e in tenpo freda. </seg><seg n="11"> Le zente adorano <term ref="#macometto">Machometo</term> et è-ne molto bella zente, e spizialmente le femine sono molto belle oltra modo.</seg></p>
       </div>
-  <div n="28"><head>28</head>
+  <div n="28" type="chapter" xml:id="va-null-28"><head><seg xml:id="-titolo">28</seg><seg xml:id="va-null-28-titolo" /></head>
          <p n="1">XXVIII</p>
          <p n="2">De <term ref="#mulehet">Mulete</term>, dove abitava el <term ref="#vecchio-della-montagna">Vechio della montagnia</term>.</p>
          <p n="3"><seg n="1"> <term ref="#mulehet">Mullete</term> è una grande chontrata, là ove solea abitar el <term ref="#vecchio-della-montagna">Vechio della montagnia</term> per li tenpi passati. </seg><seg n="2"> Dirò-ve delli fati del <term ref="#vecchio-della-montagna">Vechio</term> sechondo che io, Marcho, intixi da molte |16v| giente de quella contrà.</seg></p>
@@ -600,14 +596,14 @@
                niuno che non fosse morto. </seg><seg n="30"> Egli non feva forza s’elli erano morti. </seg><seg n="31"> E sì ve digo che piuxor re e baroni li fevano trabuto per star ben chon lui,
                per paura che lui non i fesse alzider. </seg><seg n="32"> Or avemo chontà del <term ref="#vecchio-della-montagna">Vechio della montagnia</term>, mo’ ve voio dir della sua destruzione.</seg></p>
       </div>
-  <div n="29"><head>29</head>
+  <div n="29" type="chapter" xml:id="va-null-29"><head><seg xml:id="-titolo">29</seg><seg xml:id="va-null-29-titolo" /></head>
          <p n="1">XXIX</p>
          <p n="2">Chome fu morto e dexerto el <term ref="#vecchio-della-montagna">Vechio della montagnia</term>.</p>
          <p n="3"><seg n="1"> Ano domini MCCLXII, <term ref="#ulau">Allau</term>, che era re de’ <term ref="#tartari">Tartari del Levante</term>, aldando questa cossa che feva el <term ref="#vecchio-della-montagna">Vechio della montagnia</term>, mandò el suo oste sora el suo castello, ove stava el <term ref="#vecchio-della-montagna">Vechio</term>. </seg><seg n="2"> E durò l’asedio tre ani, perché el castello era sì fortisimo che per bataglia
                non porave eser prexo. </seg><seg n="3"> E l’oste era de fuora grandisimo e meraveioxo, e però non l’averìa mai prexo se
                non fusse che li manchò la vituaria al castello. |17v| </seg><seg n="4"> Sì che, chonpidi i tre ani, per difeto de vituaria el fo prexo e fo morto el <term ref="#vecchio-della-montagna">Vechio</term> che avea nome <term ref="#aloadin">Alodin</term> e tuta soa zente e tuti quelli <term ref="#assassini">asasini</term>. </seg><seg n="5"> E da quello <term ref="#aloadin">Alodin</term> in zia nonn è nesuno <term ref="#vecchio-della-montagna">Vechio</term> né de quelli assasini in quel luogo. </seg><seg n="6"> E in chotal modo fenì la segnioria quel malvaxio <term ref="#vecchio-della-montagna">Vechio</term> e quelli <term ref="#assassini">asasini</term>.</seg></p>
       </div>
-  <div n="30"><head>30</head>
+  <div n="30" type="chapter" xml:id="va-null-30"><head><seg xml:id="-titolo">30</seg><seg xml:id="va-null-30-titolo" /></head>
          <p n="1">XXX</p>
          <p n="2">De <term ref="#sapurgan">Sipurgan</term>, dove è i mior meloni del mondo.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte da quel chastello, el chavalcha per uno bel piano e per
@@ -620,7 +616,7 @@
                salvare, e poi li meteno a sechar al solle, e deventano dolzi chome mielle; e porta-li
                vendendo per la contrà d’intorno in grande abondanzia. </seg><seg n="8"> El ge nasie asai bestie e oxeli oltra muodo.</seg></p>
       </div>
-  <div n="31"><head>31</head>
+  <div n="31" type="chapter" xml:id="va-null-31"><head><seg xml:id="-titolo">31</seg><seg xml:id="va-null-31-titolo" /></head>
          <p n="1">XXXI</p>
          <p n="2">De <term ref="#balach">Balach</term>, dove Allesandro tolsse per moier la fia de <term ref="#dario">Dario</term>; e altre cosse.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de quella contrata, el trova una zità che à nome <term ref="#balach">Balach</term>, che fo in antigo tenpo tropo bella e granda, ma ‹li› <term ref="#tartari">Tartari</term> e altra zente l’à molto guastà. </seg><seg n="2"> Solea-ne esser de molte chaxe e molti palazi de molte maniere, ma ora sono guasti.
@@ -629,7 +625,7 @@
                la zente sono tuta fuzita e reduta ala montagnia per paura de malla zente et delli
                exerziti li feva gran dalmazio. </seg><seg n="9"> Lì se trova aqua asai; e sì nde n’è chazaxion de bestie, e trova-sse dei buò.</seg></p>
       </div>
-  <div n="32"><head>32</head>
+  <div n="32" type="chapter" xml:id="va-null-32"><head><seg xml:id="-titolo">32</seg><seg xml:id="va-null-32-titolo" /></head>
          <p n="1">XXXII</p>
          <p n="2">Del chastello de <term ref="#thaican">Taichan</term>, là dove è le montagnie de sal e li porzispini.</p>
          <p n="3">|18r| <seg n="1"> E in cavo de queste do zornade, se trova uno chastello che è apellato <term ref="#thaican">Taichan</term>. </seg><seg n="2"> Là si è gran merchato de biava et è molto bela chontrata. </seg><seg n="3"> E lle suo’ montagnie sono deverso mezodì, e sono molto alte e grande et sono tute
@@ -650,7 +646,7 @@
                non se trova abitazion, nì da manzar nì da ber, ma li viandanti el portano siego quanto
                i bexognia per chamino; et in capo de tre zornate si trova la provinzia de <term ref="#balaxiam">Balastia</term>.</seg></p>
       </div>
-  <div n="33"><head>33</head>
+  <div n="33" type="chapter" xml:id="va-null-33"><head><seg xml:id="-titolo">33</seg><seg xml:id="va-null-33-titolo" /></head>
          <p n="1">XXXIII</p>
          <p n="2">Del regniame de <term ref="#balaxiam">Balastia</term>, là ove porta le femene brage; et altre cosse.</p>
          <p n="3"><seg n="1"> <term ref="#balaxiam">Ballastia</term> è una provinzia che à lenguazio per si. </seg><seg n="2"> La zente à lla leze de <term ref="#macometto">Machometo</term> e ’l regniame è grande e va per hereditade. </seg><seg n="3"> Questi re èno dessessi dal re <term ref="#alessandro">Allexandro</term> et della figliola de <term ref="#dario">Dario</term>, re de <term ref="#persia">Persia</term>; e anchora s’apellano tuti queli re <term ref="#zulcarnen">Chulitame</term>, che vien a dir in nostra lingua re <term ref="#alessandro">Allexandro</term>, per amor del gran <term ref="#alessandro">Alexandro</term>.</seg></p>
@@ -675,14 +671,14 @@
                <term ref="#bambagio">banbaxio</term> –, e tal ne porta LXXX et tal XXX. </seg><seg n="20"> E questo fano per parer che i sia grossi da zentura in zio; e questa è reputata
                gran belleza in le done de quella contrada.</seg></p>
       </div>
-  <div n="34"><head>34</head>
+  <div n="34" type="chapter" xml:id="va-null-34"><head><seg xml:id="-titolo">34</seg><seg xml:id="va-null-34-titolo" /></head>
          <p n="1">XXXIV</p>
          <p n="2">De <term ref="#bascia">Basia</term>, là ove se porta zerchi d’oro ale orechie.</p>
          <p n="3"><seg n="1"> Da llonzi da <term ref="#balaxiam">Balastia</term> ben X zornate verso mezodì è una provinzia che à nome <term ref="#bascia">Baxia</term>; e àno lenguazi‹o› per si. </seg><seg n="2"> La zente della provinzia <term ref="#idolatri">adora le idolle</term> et è zente bruna; e sano molto de inchantamento et de arte de demonii. </seg><seg n="3"> I omeni |19r| portano ale orechie zerchi d’oro et d’arzento et de perle et de
                piere prezioxe. </seg><seg n="4"> Et è zente molto malizioxa e schaltrita segondo le suo’ uxanze. </seg><seg n="5"> Lo luogo è molto chaldo. </seg><seg n="6"> La lor vita si è charne e rixo.</seg></p>
          <p n="4"><seg n="7"> Or ve conterò de <term ref="#chesmur">Chesimur</term>, che è verso sirocho sete zornate.</seg></p>
       </div>
-  <div n="35"><head>35</head>
+  <div n="35" type="chapter" xml:id="va-null-35"><head><seg xml:id="-titolo">35</seg><seg xml:id="va-null-35-titolo" /></head>
          <p n="1">XXXV</p>
          <p n="2">De <term ref="#chesmur">Chesimur</term>, hove è i grandi inchantatori.</p>
          <p n="3"><seg n="1"> <term ref="#chesmur">Chesimur</term> hè una provinzia che à lingua per si; et èno <term ref="#idolatri">idolatri</term>; et sono grande inchantatori de diavoli: e fano per inchantamento chanbiar el tenpo
@@ -694,7 +690,7 @@
          <p n="4"><seg n="9"> Or lasiamo de questa provinzia e sì anderemo inanzi; noi torneremo in <term ref="#india">India</term>; e’ no nde voglio tornar a questo ponto, perché al tornar de nostra via conteremo
                tute le chosse d’India per ordine. </seg><seg n="10"> Et però torneremo ala provinzia deversso Balasia, perché da altra via non se pò andar.</seg></p>
       </div>
-  <div n="36"><head>36</head>
+  <div n="36" type="chapter" xml:id="va-null-36"><head><seg xml:id="-titolo">36</seg><seg xml:id="va-null-36-titolo" /></head>
          <p n="1">XXXVI</p>
          <p n="2">De <term ref="#vochan">Vochan</term>, dove è molti moltoni ch’àno sì grande le chorne che se fano schudelle.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de Balaxia, el va do zornate dentro levante e griego sora uno fiume ch’è del fradello del signior
@@ -717,7 +713,7 @@
                viandanti portano siego la vituaria. </seg><seg n="18"> Questa chontrata è apellata <term ref="#beloro">Balor</term>. </seg><seg n="19"> Le zente abitano ala montagnia, che sono molto alte. </seg><seg n="20"> Elli èno <term ref="#idolatri">idolatri</term> e molto salvatichi, e viveno de venaxione e de bestie; e sì sse vesteno dello chuoro
                delle bestie che i prende; e sono molto chrudel zente e malvaxie. </seg><seg n="21"> Or laseremo de questa chontrà e sì ve chonterò della provinzia de <term ref="#caschar">Chaschar</term>.</seg></p>
       </div>
-  <div n="37"><head>37</head>
+  <div n="37" type="chapter" xml:id="va-null-37"><head><seg xml:id="-titolo">37</seg><seg xml:id="va-null-37-titolo" /></head>
          <p n="1">XXXVII</p>
          <p n="2">De <term ref="#caschar">Chaxar</term>, dov’è la zente molto scharssa e avara.</p>
          <p n="3"><seg n="1"> Chascar fo zià uno regniame per si, ma ora sono sotoposti al <term ref="#gran-can">Grande Chaan</term>. </seg><seg n="2"> Elli à la leze de <term ref="#macometto">Machometo</term>. </seg><seg n="3"> In quella provinzia è zità e chastelle asai; la plui nobille zità del regniame
@@ -725,7 +721,7 @@
                </seg><seg n="6"> Lì nasie <term ref="#bambagio">banbaxio</term> asai. </seg><seg n="7"> De quella chontrà esie molti merchadanti che vano per el mondo fazando merchadantie.
                </seg><seg n="8"> La zente della contrata sono scharssa e mixera: mal manzano e mal beveno. </seg><seg n="9"> In quella chontrà demora alquanti cristiani nestorini e àno le suo’ giexie. </seg><seg n="10"> La zente della provinzia àno lenguazio per si. </seg><seg n="11"> La provinzia dura zinque zornate.</seg></p>
       </div>
-  <div n="38"><head>38</head>
+  <div n="38" type="chapter" xml:id="va-null-38"><head><seg xml:id="-titolo">38</seg><seg xml:id="va-null-38-titolo" /></head>
          <p n="1">XXXVIII</p>
          <p n="2">De <term ref="#samarchan">Sanmarchan</term>, dove è el miracolo della colona.</p>
          <p n="3">|20r| <seg n="1"> <term ref="#samarchan">Sanmarcan</term> è una zità grandisima e bella. </seg><seg n="2"> In quella zità abita cristiani e saraini; et è sotoposti al nievo del <term ref="#gran-can">Grande Chaan</term>, ma nonn è ben amixi, ma stano ala fiata mal insieme. </seg><seg n="3"> In questa zità ‹incontrà› una chotal meraveglia.</seg></p>
@@ -741,19 +737,19 @@
                de sula piera ben quatro spane e non tochava de soto niente e stava ferma chomo ella
                feva dinanzi; e anchora sta chussì, senza che altra cossa la sostegnia.</seg></p>
       </div>
-  <div n="39"><head>39</head>
+  <div n="39" type="chapter" xml:id="va-null-39"><head><seg xml:id="-titolo">39</seg><seg xml:id="va-null-39-titolo" /></head>
          <p n="1">XXXIX</p>
          <p n="2">De <term ref="#carchan">Charchan</term>, dove abita cristiani e saraini insieme.</p>
          <p n="3"><seg n="1"> <term ref="#carchan">Charchaan</term> è una provinzia che dura ben sete zornade. </seg><seg n="2"> La zente serva la leze de <term ref="#macometto">Machometo</term> e ’l ge n’è altrosì cristiani nestorini. </seg><seg n="3"> La tera è sotoposta al nevodo del <term ref="#gran-can">Grande Chaan</term>, del qual e’ ò dito de sopra. </seg><seg n="4"> El ge n’è abondanzia de tute cosse, ma el non ve n’è niuna altra cossa de meter
                in questo libro.</seg></p>
       </div>
-  <div n="40"><head>40</head>
+  <div n="40" type="chapter" xml:id="va-null-40"><head><seg xml:id="-titolo">40</seg><seg xml:id="va-null-40-titolo" /></head>
          <p n="1">XL</p>
          <p n="2">De <term ref="#cotam">Chotan</term>, dove nasie el <term ref="#bambagio">banbaxio</term> asai.</p>
          <p n="3"><seg n="1"> <term ref="#cotam">Chotan</term> è una provinzia dentro griego e llevante, ed è longa oto zornate; ed è sotoposta
                al <term ref="#gran-can">Grande Chaan</term> e à la leze de <term ref="#macometto">Machometo</term>; et è-ne zitate e chastele asai. </seg><seg n="2"> La zitade de <term ref="#cotam">Cotan</term> è ‹la› plui nobile zità de quella chontrà. </seg><seg n="3"> El ge n’è abondanzia de tute cosse: el ge nasie <term ref="#bambagio">banbaxio</term> asai; e viveno de merchadantie e d’arte; e non |20v| èno homeni d’arme.</seg></p>
       </div>
-  <div n="41"><head>41</head>
+  <div n="41" type="chapter" xml:id="va-null-41"><head><seg xml:id="-titolo">41</seg><seg xml:id="va-null-41-titolo" /></head>
          <p n="1">XLI</p>
          <p n="2">De <term ref="#peym">Pein</term>, hove l’omo può tuor moier s’el sta XX dì fuora della chassa, e lla femena marito.</p>
          <p n="3"><seg n="1"> Pien è una pizolla provenzia ch’è llonga zinque zornate ed è dentro griego e levante;
@@ -764,7 +760,7 @@
                </seg><seg n="7"> Et è lizita cossa, sechondo la sua uxanza, che l’omo che va in viazo può tuor
                moier s’el vuol tuore. </seg><seg n="8"> La provinzia la qual ò dito de sopra, da <term ref="#caschar">Chasar</term> infina a questa, sono tute della <term ref="#gran-turchia">Gran Turchia</term>.</seg></p>
       </div>
-  <div n="42"><head>42</head>
+  <div n="42" type="chapter" xml:id="va-null-42"><head><seg xml:id="-titolo">42</seg><seg xml:id="va-null-42-titolo" /></head>
          <p n="1">XLII</p>
          <p n="2">De <term ref="#ciarcian">Ciarcian</term>, dove la tera è pur sabion.</p>
          <p n="3"><seg n="1"> <term ref="#ciarcian">Ciarcian</term> è una provinzia ‹ch’›è altrosì della <term ref="#gran-turchia">Gran Turchia</term>, ‹et› è dentro griego e levante. </seg><seg n="2"> Le zente de questa provinzia à la leze de <term ref="#macometto">Machometo</term>; et è-ne zità e chastelle asai. </seg><seg n="3"> La zità maistra del regnio è <term ref="#ciarcian">Ciarcian</term>. </seg><seg n="4"> El ge n’è fiumi che menano diaspri e chalzedonii, e li merchadanti portano quelle
@@ -779,7 +775,7 @@
                donde egli passano. </seg><seg n="11"> E quando l’omo se parte de <term ref="#ciarcian">Ciarcian</term>, el va ben zinque zornate per sabion, là dove è aqua amara e pesima, ma in alchuno
                luogo se ne trova de bona.</seg></p>
       </div>
-  <div n="43"><head>43</head>
+  <div n="43" type="chapter" xml:id="va-null-43"><head><seg xml:id="-titolo">43</seg><seg xml:id="va-null-43-titolo" /></head>
          <p n="1">XLIII</p>
          <p n="2">De <term ref="#lop">Lop</term>, dove è uno dexerto che abita demonii che inganano i omeni.</p>
          <p n="3">|21r| <seg n="1"> Quando l’omo se parte ed è andado quelle zinque zornate, sì trova uno gran dexerto,
@@ -802,7 +798,7 @@
                de lui non se alde mai novella. </seg><seg n="13"> E per questo muodo molti èno persi in quel dexerto. </seg><seg n="14"> E alchuna fiata olde l’omo, de bel zorno chiaro, voxe di demonii; e tal fiata
                par che sona instrumenti in aere, e spizialmente tanburli. </seg><seg n="15"> E a questo modo se passa quel dexerto chon gran paura.</seg></p>
       </div>
-  <div n="44"><head>44</head>
+  <div n="44" type="chapter" xml:id="va-null-44"><head><seg xml:id="-titolo">44</seg><seg xml:id="va-null-44-titolo" /></head>
          <p n="1">XLIV</p>
          <p n="2">De <term ref="#sachion">Fochion</term>, dove i non sotora i morti nì ‹li› ardeno se non al tenpo dato per li astrologi.</p>
          <p n="3"><seg n="1"> Quando l’omo à pasato quelle XXX zornate de dexerto, el trova una zità che à nome
@@ -842,7 +838,7 @@
                per altra porta che per la prinzipal, over i fano ronper el muro e tra‹r›-llo per
                quella via. </seg><seg n="26"> E a questo modo tiene tuti i <term ref="#idolatri">idolatri</term> del mondo.</seg></p>
       </div>
-  <div n="45"><head>45</head>
+  <div n="45" type="chapter" xml:id="va-null-45"><head><seg xml:id="-titolo">45</seg><seg xml:id="va-null-45-titolo" /></head>
          <p n="1">XLV</p>
          <p n="2">De <term ref="#chamul">Chamul</term>, la provinzia de chagozi.</p>
          <p n="3"><seg n="1"> <term ref="#chamul">Chamul</term> è una provinzia che fo già regniame per si, in la qual è zità e chastelle asai. </seg><seg n="2"> La maistra zità è dita <term ref="#chamul">Chamul</term>. </seg><seg n="3"> La provinzia è verso maistro intro do deserti; dal’una parte è el gran deserto
@@ -860,7 +856,7 @@
                abondanzia de tuti i beni. </seg><seg n="15"> Quando <term ref="#mongu-can">Mangu Chaan</term> ave intexe quelle parolle, el disse ai anbasatori: «Dapoi che vui vollé aver questo
                dexenor e questa vergognia, e vui ve l’abié!»; e sì revochò el chomandamento. </seg><seg n="16"> E quelli anbasatori tornò a chaxa chon grande alegreza. </seg><seg n="17"> E anchora mantien quella zentil uxanza per la provinzia.</seg></p>
       </div>
-  <div n="46"><head>46</head>
+  <div n="46" type="chapter" xml:id="va-null-46"><head><seg xml:id="-titolo">46</seg><seg xml:id="va-null-46-titolo" /></head>
          <p n="1">XLVI</p>
          <p n="2">De <term ref="#chinchintalas">Chinguitalis</term>, là dove se trova la salamandra.</p>
          <p n="3"><seg n="1"> <term ref="#chinchintalas">Chingitalis</term> è una provinzia che è anchora apreso el dexerto dentro tramontana e maistro; ed è
@@ -877,14 +873,14 @@
                chome neve. </seg><seg n="12"> In questo modo sta el fato della salamandra, la qual mandò el <term ref="#gran-can">Gran Chaan</term> al papa perché ’lo la metesse atorno el sudario santo del nostro segnior misier Iesu
                Cristo benedeto.</seg></p>
       </div>
-  <div n="47"><head>47</head>
+  <div n="47" type="chapter" xml:id="va-null-47"><head><seg xml:id="-titolo">47</seg><seg xml:id="va-null-47-titolo" /></head>
          <p n="1">XLVII</p>
          <p n="2">De <term ref="#succuir">Fechur</term>, dove se trova el <term ref="#rheubarbaro">reobarbaro</term>.</p>
          <p n="3">|23r| <seg n="1"> Quando l’omo se parte de questa provinzia de <term ref="#chinchintalas">Chinguitalis</term>, el va diexe zornade dentro griego e levante. </seg><seg n="2"> In queste diexe zornate nonn è abitazion niuna se non alchuni luogi.</seg></p>
          <p n="4"><seg n="3"> In chavo de diexe zornate, se trova una provinzia ch’è apellata <term ref="#succuir">Fechur</term>, in la qual è molte zità e chastelle. </seg><seg n="4"> La zità maistra è apellata <term ref="#succuir">Fechur</term>. </seg><seg n="5"> El ge n’è cristiani e <term ref="#idolatri">idolatri</term> e sono sotoposti al <term ref="#gran-can">Grande Chaan</term>. </seg><seg n="6"> La grande provinzia gieneral, là dove è questa provinzia de <term ref="#succuir">Fechur</term> e lle do altre provinzie che e’ ho dite de sopra, zioè <term ref="#chamul">Chamul</term> e <term ref="#chinchintalas">Chinguitalis</term>, à nome <term ref="#tanguth">Tanguett</term>. </seg><seg n="7"> Per tute le montagnie de questa provinzia se trova el riobarbaro in grande abondanzia, e li merchadanti lo chonprano [lì e] lo porta per tuto el mondo.
                </seg><seg n="8"> Elli non fano fare altra merchadantia e non viveno del fruto della tera.</seg></p>
       </div>
-  <div n="48"><head>48</head>
+  <div n="48" type="chapter" xml:id="va-null-48"><head><seg xml:id="-titolo">48</seg><seg xml:id="va-null-48-titolo" /></head>
          <p n="1">XLVIII</p>
          <p n="2">De <term ref="#campion">Chanpion</term>, là dove l’omo pò aver XXX moier segondo soa lezie.</p>
          <p n="3"><seg n="1"> <term ref="#campion">Chanpion</term> è una zità molto grande e nobelle, ed è cho: signorizia tuta la provinzia de <term ref="#tanguth">Tanguch</term>. </seg><seg n="2"> La zente <term ref="#idolatri">adorano le idolle</term>; el ge n’è de quelli ch’à la leze de <term ref="#macometto">Machometo</term> e deli cristiani. </seg><seg n="3"> E àno li cristiani tre giexie molto belle e grande in quela zità. </seg><seg n="4"> Quelli che <term ref="#idolatri">adorano le idolle</term> àno molti monestieri e badie segondo suo’ leze. </seg><seg n="5"> Ed àno molto grande quantità e moltitudine de idolle, ed [à] no de quelle che
@@ -908,7 +904,7 @@
                de Caroccoran – et è verso tramontana –, in la qual fo fato fugire el primo signior che ave mai
                i <term ref="#tartari">Tartari</term> de soa zente.</seg></p>
       </div>
-  <div n="49"><head>49</head>
+  <div n="49" type="chapter" xml:id="va-null-49"><head><seg xml:id="-titolo">49</seg><seg xml:id="va-null-49-titolo" /></head>
          <p n="1">XLIX</p>
          <p n="2">Chome li <term ref="#tartari">Tartari</term> fexeno signior primieramente ‹uno› de soa zente.</p>
          <p n="3"><seg n="1"> Hor avete intexo e udito de molte provinzie e regniami e zitade. </seg><seg n="2"> Hora ve voglio chontar del <term ref="#gran-can">Gran Chaan</term>, signior d’i <term ref="#tartari">Tartari</term>, chome el fo fato inprimamente e qual fu la chaxion della soa signioria; e dirò-ve
@@ -921,7 +917,7 @@
                chontrà e andò per dexerti verso tramontana in tal contrate che i non avevano paura
                de <term ref="#prete-gianni">Prete Zane</term>. </seg><seg n="8"> E deliberòno insieme de non obedire et de non rendere trabuto al <term ref="#prete-gianni">Prete Zane</term>. </seg><seg n="9"> E in quel muodo e in quelle contrà steteno pluxor ani in luogo seguro.</seg></p>
       </div>
-  <div n="50"><head>50</head>
+  <div n="50" type="chapter" xml:id="va-null-50"><head><seg xml:id="-titolo">50</seg><seg xml:id="va-null-50-titolo" /></head>
          <p n="1">L</p>
          <p n="2">Chome el signior d’i <term ref="#tartari">Tartari</term> se volse aparentar chon <term ref="#prete-gianni">Prete Zane</term>.</p>
          <p n="3"><seg n="1"> Quando egli furono stati chusì uno gran tenpo, egli elleseno per so re uno de
@@ -935,7 +931,7 @@
                ano domini MCC. </seg><seg n="8"> El <term ref="#prete-gianni">Prete Zane</term> li respoxe molto vilanamente, e disse che egli dixeseno a <term ref="#cingis-can">Chinchis</term> che el convegniva ch’elo ’l metesse a mala morte peroché ’l iera rebello del suo
                segnior et perché ’l iera stato sì ardito ch’el aveva domandà soa figliola. </seg><seg n="9"> E li anbasiatori tornò a <term ref="#cingis-can">Chinchis</term>, e dise-lli queste cosse per ordine.</seg></p>
       </div>
-  <div n="51"><head>51</head>
+  <div n="51" type="chapter" xml:id="va-null-51"><head><seg xml:id="-titolo">51</seg><seg xml:id="va-null-51-titolo" /></head>
          <p n="1">LI</p>
          <p n="2">Chome Chinchis Chaan feze oste contra <term ref="#prete-gianni">Prete Zane</term> per la risposta i reportà i suo’ anbasiatori.</p>
          <p n="3"><seg n="1"> Quando <term ref="#cingis-can">Chinchis</term> ave intexo chome el <term ref="#prete-gianni">Prete Zane</term> sparlasse de llui chusì vilanamente e chon tante menaze, e chome ‘lo l’aveva apellato
@@ -944,7 +940,7 @@
                chontra <term ref="#cingis-can">Chinchis</term>. </seg><seg n="4"> E <term ref="#cingis-can">Chinchis</term> vene con tuta soa zente in uno piano che è apelato Tanduch, che era nel tereno de <term ref="#prete-gianni">Prete Zane</term>, e lì messe suo chanpo. </seg><seg n="5"> Questa moltitudine de zente era sì grande ch’el non se podeva sapere el numero
                de’ chavalieri e de’ pedoni, ché tropo erano in tuto.</seg></p>
       </div>
-  <div n="52"><head>52</head>
+  <div n="52" type="chapter" xml:id="va-null-52"><head><seg xml:id="-titolo">52</seg><seg xml:id="va-null-52-titolo" /></head>
          <p n="1">LII</p>
          <p n="2">Chome <term ref="#prete-gianni">Prete Zane</term> fu morto e schonfito.</p>
          <p n="3"><seg n="1"> Quando el <term ref="#prete-gianni">Prete Zane</term> ave intexo che <term ref="#cingis-can">Chinchis</term> era achanpado innel piano de Tanduch, el vi andò con tuta la soa zente in lo piano e messe el chanpo a vinti meglia. </seg><seg n="2"> E |24v| <term ref="#cingis-can">Chinchis</term> dimandò i astrologi che gli dixesseno chi doveva aver la vitoria. </seg><seg n="3"> I astrolegi prendéno una chana e sfesse-lla per mezo, e messe tuti do i pezi in
@@ -966,7 +962,7 @@
                segnior. </seg><seg n="8"> Per questa chaxion, quando morì <term ref="#mongu-can">Mongu Chan</term>, el fo morti plui de vintimilia omeni che fono incontradi per la via quando fo portà
                el so corpo ala montagnia.</seg></p>
       </div>
-  <div n="54"><head>54</head>
+  <div n="54" type="chapter" xml:id="va-null-54"><head><seg xml:id="-titolo">54</seg><seg xml:id="va-null-54-titolo" /></head>
          <p n="1">LIV</p>
          <p n="2">Della vita e maniera de’ <term ref="#tartari">Tartari</term>.</p>
          <p n="3"><seg n="1"> Li <term ref="#tartari">Tartari</term> demorano l’inverno al piano, in luogi chaldi, là ove i trova erba per soe bestie.
@@ -989,7 +985,7 @@
                tuò la moglier del padre per soa moglier, purché ’la non sia so madre. </seg><seg n="19"> E quando el fradelo è morto, l’altro fradelo che roman tuò so chugniada per moier.
                </seg><seg n="20"> E quando i menano moglier i fano gran noze.</seg></p>
       </div>
-  <div n="55"><head>55</head>
+  <div n="55" type="chapter" xml:id="va-null-55"><head><seg xml:id="-titolo">55</seg><seg xml:id="va-null-55-titolo" /></head>
          <p n="1">LV</p>
          <p n="2">Della leze d’i <term ref="#tartari">Tartari</term>; et de molte altre cosse.</p>
          <p n="3"><seg n="1"> Le leze de’ <term ref="#tartari">Tartari</term> è tale: egli àno uno dio ch’è apelato <term ref="#natigay">Nacigai</term> e dixeno ch’ell è dio tereno, lo quale à chura de’ lor figliuoli e bestie e biave.
@@ -1056,7 +1052,7 @@
                charte e dixeno che quelli do àno quelle cose veramente in l’altra vita. </seg><seg n="46"> E fate quelle chosse, i parenti de queli do morti se tien parenti chusì chome
                se quelli do morti fosseno vivi.</seg></p>
       </div>
-  <div n="56"><head>56</head>
+  <div n="56" type="chapter" xml:id="va-null-56"><head><seg xml:id="-titolo">56</seg><seg xml:id="va-null-56-titolo" /></head>
          <p n="1">LVI</p>
          <p n="2">De <term ref="#mecriti">Metrit</term>, ove se chavalcha i zervi.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte da <term ref="#caracoran">Chorochoran</term> e de <term ref="#altai">Allai</term>, là ove se sepelisse quelli della chaxa del <term ref="#gran-can">Grande Chaan</term>, el va per tramontana per una contrà ch’è apellata el piano de <term ref="#bargu">Barga</term> e dura ben quaranta zornate. </seg><seg n="2"> La zente della contrà sono apellati <term ref="#mecriti">Metrit</term> e sono salvadega zente; egli viveno de bestiame e lla mazior parte manzano zervi;
@@ -1068,7 +1064,7 @@
                i pie’ chome papagali e volano molto. </seg><seg n="8"> Quando el <term ref="#gran-can">Gran Chaan</term> vuol de quelli falconi, el manda a quelle montagnie. </seg><seg n="9"> In le ixolle ch’è in quel mar nasieno i chafarchi in grande abondanzia e ’l <term ref="#gran-can">Gran Chaan</term> se ne fa adar quanti el vuol. </seg><seg n="10"> Sono intendenti che lli clerfachi ch’èno portadi de tera de’ cristiani in Tartaria n’è portadi al <term ref="#gran-can">Grande Chaan</term>, perché n’è grande abondanzia in quelle ixolle, ma egli sono portati al <term ref="#tartari">Tartaro</term> dell Levante e a quella zente. </seg><seg n="11"> Anchora ve digo veramente che queste ixolle, delle quale ve n’ò dito de sopra,
                è tanto verso tramontana che lla stella tramontana remane alchuna chossa verso mezodì.</seg></p>
       </div>
-  <div n="57"><head>57</head>
+  <div n="57" type="chapter" xml:id="va-null-57"><head><seg xml:id="-titolo">57</seg><seg xml:id="va-null-57-titolo" /></head>
          <p n="1">LVII</p>
          <p n="2">De <term ref="#singui">Gagni</term>, dove è i buò grandi come elifanti.</p>
          <p n="3"><seg n="1"> Dito ve ò delle provinzie de tramontana al <term ref="#mare-oceano">Mar Oziano</term>, hora ve voglio dir d’altre provinzie defin ala |27v| chontrà dove abita el <term ref="#gran-can">Grande Chaan</term>; e paseremo per la contrà de <term ref="#campion">Chanpion</term>, della qual ò fato menzion de sopra. </seg><seg n="2"> Quando l’omo se parte de <term ref="#campion">Chanpion</term>, el va per una contrà ben zinque zornate; in quella contrà se alde parlar dì e note
@@ -1089,7 +1085,7 @@
                è-ne oxieli chon molte belle pene e molto ben coloride. </seg><seg n="18"> La zente de questa contrà sono grassi e àno piziol naxo e chavelli negri, et
                àno barba che à se non arquanti pelli dentro.</seg></p>
       </div>
-  <div n="58"><head>58</head>
+  <div n="58" type="chapter" xml:id="va-null-58"><head><seg xml:id="-titolo">58</seg><seg xml:id="va-null-58-titolo" /></head>
          <p n="1">LVIII</p>
          <p n="2">D’<term ref="#egrigaia">Egringaia</term>, dove se fa i zanbelloti.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de <term ref="#erginul">Erguul</term> e ’l va verso levante oto zornate, el trova una provinzia che à nome <term ref="#egrigaia">Egrigaia</term>, in la qual è zitade e chastelle. </seg><seg n="2"> Entri in la provinzia de Tangut; la zità maistra à nome <term ref="#calacia">Galaci</term>. </seg><seg n="3"> La zente adora uno dio, e sì nde n’è saraini asai e cristiani nestorini. </seg><seg n="4"> Et èno soto el <term ref="#gran-can">Gran Chaan</term>. </seg><seg n="5"> In questa zitade se fano i zanbelloti de pello de ganbeli plui belli, che someglia
@@ -1124,7 +1120,7 @@
                pernixe, e fa star piuxor homeni ala guardia de quelle pernixe, e quando el ne vuole
                el ge n’à in grande abondanzia.</seg></p>
       </div>
-  <div n="60"><head>60</head>
+  <div n="60" type="chapter" xml:id="va-null-60"><head><seg xml:id="-titolo">60</seg><seg xml:id="va-null-60-titolo" /></head>
          <p n="1">LX</p>
          <p n="2">De <term ref="#xandu">Cianedai</term>, dove si sfendeno le chane e sì sse chuovre le chaxe.</p>
          <p n="3"><seg n="1"> L’omo, quando el se parte de questa zità e ’l va tre zornade dentro tramontana
@@ -1183,7 +1179,7 @@
                e durisimi, e fano vita molto aspra per amor delle suo’ idolle. </seg><seg n="34"> Quelli religioxi che nonn èno dela seta de chostori dixeno che quelli che fano
                questa vita chusì dura sono eretexi, ch’eli non <term ref="#idolatri">adorano le idolle</term> a quel modo che i deno de raxione. </seg><seg n="35"> Tute l’idolle de questa zente ànno nomi de femene.</seg></p>
       </div>
-  <div n="61"><head>61</head>
+  <div n="61" type="chapter" xml:id="va-null-61"><head><seg xml:id="-titolo">61</seg><seg xml:id="va-null-61-titolo" /></head>
          <p n="1">LXI</p>
          <p n="2">Dove chomenza tuti i fati del <term ref="#gran-can">Gran Chaan</term>.</p>
          <p n="3"><seg n="1"> In questa parte del nostro libro sì ve chonteremo de tuti li grandisimi fati e
@@ -1192,7 +1188,7 @@
                sia al mondo, nì che mai fusse da Adam fin questo tenpo. </seg><seg n="3"> E che sia la verità nui el mostreremo innel nostro libro apertamente, sì che zaschuno
                intenderà esser chusì chome nui dixemo senza contrasto.</seg></p>
       </div>
-  <div n="62"><head>62</head>
+  <div n="62" type="chapter" xml:id="va-null-62"><head><seg xml:id="-titolo">62</seg><seg xml:id="va-null-62-titolo" /></head>
          <p n="1">LXII</p>
          <p n="2">Della bataia che fo dentro el <term ref="#gran-can">Gran Chaan</term> e <term ref="#naiam">Naian</term>.</p>
          <p n="3"><seg n="1"> Sapiate che questo re che à nome Chublai è della drita linea inperiale de Chinchis Chaan, del qual ligniazo de raxion senpre è quello che die’ esser re de’ <term ref="#tartari">Tartari</term>. </seg><seg n="2"> Questo Chublai è el sesto <term ref="#gran-can">Chaan</term>. </seg><seg n="3"> E sapiate che ano domini mille e duxento e zinquantasìe chomenzò a regniare Chublai, e ave la segnioria per el so gran seno e per soa valentixia e prodeza, ché li suo’
@@ -1248,7 +1244,7 @@
                chonsolati. </seg><seg n="44"> Né alchuno dapoi non gli osò|32r|no plui dir inzuria né tentar-li della sua fede,
                ma steteno quieti et pazifichati.</seg></p>
       </div>
-  <div n="63"><head>63</head>
+  <div n="63" type="chapter" xml:id="va-null-63"><head><seg xml:id="-titolo">63</seg><seg xml:id="va-null-63-titolo" /></head>
          <p n="1">LXIII</p>
          <p n="2">Delle signiorie che àno i baroni del <term ref="#gran-can">Gran Chan</term>.</p>
          <p n="3"><seg n="1"> Quando el <term ref="#gran-can">Gran Chaan</term> ave avuta questa vitoria, el tornò alla sua maistra zità de <term ref="#cambalu">Chanbelù</term>, e lì stete in grande solazo. </seg><seg n="2"> E quando <term ref="#caidu">Chaidu</term> ave intexe queste novelle, el ave gran paura che non li incontrasse chusì a lui chome
@@ -1276,7 +1272,7 @@
                d’oro, in la qual è scholpita la figura del elerfalcho. </seg><seg n="14"> E tuti ch’àno tavolla de elerfalcho pò menar siego |32v| tuta la zente e tuti
                li chavali de zaschuno re ch’è sotoposto al <term ref="#gran-can">Grande Chaan</term> s’el vuole, e zaschuno altro baron. </seg><seg n="15"> E chonviene ch’el sia obedito da loro de tuto ziò ch’el li chomanda.</seg></p>
       </div>
-  <div n="64"><head>64</head>
+  <div n="64" type="chapter" xml:id="va-null-64"><head><seg xml:id="-titolo">64</seg><seg xml:id="va-null-64-titolo" /></head>
          <p n="1">LXIV</p>
          <p n="2">Della statura del <term ref="#gran-can">Gran Chaan</term>.</p>
          <p n="3"><seg n="1"> El grande signiore che à nome Chublai è de chotal fata: el è de bella statura, né grando né pizolo, ma è de mezana grandeza.
@@ -1299,7 +1295,7 @@
                e omo de mazor valor che fosse mai entro li <term ref="#tartari">Tartari</term>.</seg></p>
          <p n="8"><seg n="17"> Or avemo dito dele fature del <term ref="#gran-can">Grande Chaan</term> e de suo’ maniere e de suo’ figlioli, mo’ ve diremo de soa chorte et de suo’ grandeza.</seg></p>
       </div>
-  <div n="65"><head>65</head>
+  <div n="65" type="chapter" xml:id="va-null-65"><head><seg xml:id="-titolo">65</seg><seg xml:id="va-null-65-titolo" /></head>
          <p n="1">LXV</p>
          <p n="2">Del palaxio del <term ref="#gran-can">Gran Chaan</term>.</p>
          <p n="3"><seg n="1"> El <term ref="#gran-can">Gran Chan</term> demora chontinuamente tre mexi del’ano, zoè desenbrio, zener e fevrer, in la soa
@@ -1341,13 +1337,13 @@
                è tuto choverto d’erba, la qual è molto verde, nì non g’è chossa che non sia verde,
                e però li fì dito el <term ref="#monte-verde">Monte Verde</term>. </seg><seg n="25"> In suxo el monte, in mezo luogo, è uno palazo grando e bello e tuto verde. </seg><seg n="26"> In questo monte el <term ref="#gran-can">Grande Chaan</term> à grande solazo, e tuta la zente ge va perché lo luogo è bello sopra modo.</seg></p>
       </div>
-  <div n="66"><head>66</head>
+  <div n="66" type="chapter" xml:id="va-null-66"><head><seg xml:id="-titolo">66</seg><seg xml:id="va-null-66-titolo" /></head>
          <p n="1">LXVI</p>
          <p n="2">De <term ref="#themur">Temur</term>, ‹…› ab anticho del <term ref="#gran-can">Gran Chaan</term>.</p>
          <p n="3">|34r| <seg n="1"> Apresso de questo palazo che ò dito de sopra, à fato far el <term ref="#gran-can">Gran Chaan</term> uno altro palazo simigiante a quello per ogni muodo, e in quello demora <term ref="#themur">Temur</term>, lo qual die’ regniar dapo’ lui, segondo che ò dito de sopra. </seg><seg n="2"> E sapiate che quel <term ref="#themur">Temur</term>, perché el die’ eser re dapoi Chublai, sì tien corte in la maniera che fa Chublai, e à bolle e suzeli inperial chusì chome el <term ref="#gran-can">Gran Chaan</term>, ma non sì chonplidamente.</seg></p>
          <p n="4"><seg n="3"> Or avemo dito d’i grandi palazi del <term ref="#gran-can">Gran Chaan</term>, hora ve voio contar della gran zità de <term ref="#cambalu">Chanbelu</term>, in la qual è questi palazi, e perché ’la fo fata là dove ’la è, e chome ’la è fata.</seg></p>
       </div>
-  <div n="67"><head>67</head>
+  <div n="67" type="chapter" xml:id="va-null-67"><head><seg xml:id="-titolo">67</seg><seg xml:id="va-null-67-titolo" /></head>
          <p n="1">LXVII</p>
          <p n="2">Della zità del <term ref="#gran-can">Gran Chaan</term> apelata <term ref="#cambalu">Ganbelu</term>.</p>
          <p n="3"><seg n="1"> In la provinzia de <term ref="#cataio">Chatai</term> fo per el tenpo passato una grande zità che avea nome <term ref="#cambalu">Chanbellu</term>, la quale era molto nobille e grande. </seg><seg n="2"> <term ref="#cambalu">Chanbelu</term> si è a dire in nostra lingua “zità del signior”. </seg><seg n="3"> Lo <term ref="#gran-can">Grande Chaan</term> trovò per i suo’ astrologi che quella zità doveva eser contra l’inperio, sì che el
@@ -1368,7 +1364,7 @@
          <p n="6"><seg n="14"> Deli borgi della zità e d’altre suo’ grandeze ve chonteremo in altro luogo de
                questo libro.</seg></p>
       </div>
-  <div n="68"><head>68</head>
+  <div n="68" type="chapter" xml:id="va-null-68"><head><seg xml:id="-titolo">68</seg><seg xml:id="va-null-68-titolo" /></head>
          <p n="1">LXVIII</p>
          <p n="2">Della corte del <term ref="#gran-can">Gran Chan</term> et dela zente che ne manzia.</p>
          <p n="3"><seg n="1"> Sapiate che ’l <term ref="#gran-can">Gran Chaan</term> per sua grandeza, ma non per paura ch’el abi de niuno, se fa guardar dì e note a
@@ -1410,7 +1406,7 @@
                allegreza e rixi in tuta la chorte. </seg><seg n="23"> E fato questo, la zente se parte e zaschuno vano a soa chaxa sechondo che a lui
                piaxe.</seg></p>
       </div>
-  <div n="69"><head>69</head>
+  <div n="69" type="chapter" xml:id="va-null-69"><head><seg xml:id="-titolo">69</seg><seg xml:id="va-null-69-titolo" /></head>
          <p n="1">LXIX</p>
          <p n="2">Di baroni che vesteno el <term ref="#gran-can">Gran Chan</term> tredexe fiate al’ano.</p>
          <p n="3"><seg n="1"> Ancora sapiate che li <term ref="#tartari">Tartari</term> fano tuti festa de soa natività de Chublai. </seg><seg n="2"> El <term ref="#gran-can">Gran Chaan</term> naque a dì |35v| vintioto setenbrio. </seg><seg n="3"> In quel dì fa ’lo la mazior festa ch’el faza in tuto l’ano, trato quella ch’el
@@ -1422,7 +1418,7 @@
                esso si. </seg><seg n="7"> E ‹a› questo podé chreder chome è ’l Gran Segnior, ch’el non [è re] al mondo che
                podesse mantegnir continuamente una chussì grande chossa chome è questa.</seg></p>
       </div>
-  <div n="70"><head>70</head>
+  <div n="70" type="chapter" xml:id="va-null-70"><head><seg xml:id="-titolo">70</seg><seg xml:id="va-null-70-titolo" /></head>
          <p n="1">LXX</p>
          <p n="2">Del dì della natività del <term ref="#gran-can">Gran Chaan</term>.</p>
          <p n="3"><seg n="1"> El dì della natività del re, tuti li <term ref="#tartari">Tartari</term> del mondo e tuti quelli che da lui à signioria fano gran prexenti, e zaschaduno manda
@@ -1431,7 +1427,7 @@
                petizion. </seg><seg n="3"> E in quela festa tute le zente che sono sotoposti ala segnioria del <term ref="#gran-can">Gran Chaan</term> chovien far grande honore ai soi dii – zioè cristiani, tartari, zudei, saraxini e
                tuta zente – ché dio dia vita e alegreza e sanità chonplitamente al <term ref="#gran-can">Grande Chaan</term>.</seg></p>
       </div>
-  <div n="71"><head>71</head>
+  <div n="71" type="chapter" xml:id="va-null-71"><head><seg xml:id="-titolo">71</seg><seg xml:id="va-null-71-titolo" /></head>
          <p n="1">LXXI</p>
          <p n="2">Della festa che fa i <term ref="#tartari">Tartari</term> el so chavo d’ano.</p>
          <p n="3"><seg n="1"> I <term ref="#tartari">Tartari</term> fa el suo chavo d’ano el mexe de fevrer. </seg><seg n="2"> El <term ref="#gran-can">Gran Chaan</term> e tuti i <term ref="#tartari">Tartari</term> fano in chavo de fevraro gran festa e, mascholi e femene, se vesteno de vestimente
@@ -1459,7 +1455,7 @@
                fa el suo prexente in prexenzia del re, e queste è chosse de gran valor. </seg><seg n="18"> E possa se mete le tavole, e zaschadun va a tavolla segondo che ò dito de sopra.
                </seg><seg n="19"> Finito el disnar, vano i zugolari solazando la chorte, e poi zaschuno se parte.</seg></p>
       </div>
-  <div n="72"><head>72</head>
+  <div n="72" type="chapter" xml:id="va-null-72"><head><seg xml:id="-titolo">72</seg><seg xml:id="va-null-72-titolo" /></head>
          <p n="1">LXXII</p>
          <p n="2">Delli baroni che vesteno el <term ref="#gran-can">Gran Chan</term>; e altre cosse.</p>
          <p n="3"><seg n="1"> Ancora sapiate che per lo <term ref="#gran-can">Gran Chaan</term> è ordenati dodexemilia baroni, li quali è apelati <term ref="#quiecitari">Ispini</term>, che è a dire “fedeli |36v| del segnior”, ai qual dona el segnior tredexemilia vestimente
@@ -1474,7 +1470,7 @@
          <p n="4"><seg n="8"> Anchora ve digo una gran maraveglia: che quando el <term ref="#gran-can">Gran Chaan</term> fa festa e solennitade segondo ò dito de sopra, li fì menado dananzi uno lione molto
                grande, lo qual se mete a zaxere e mostra ch’el aba segnior chome farave uno chan.</seg></p>
       </div>
-  <div n="73"><head>73</head>
+  <div n="73" type="chapter" xml:id="va-null-73"><head><seg xml:id="-titolo">73</seg><seg xml:id="va-null-73-titolo" /></head>
          <p n="1">LXXIII</p>
          <p n="2">De quel che fa el <term ref="#gran-can">Gran Chan</term> nel tenpo ch’el dimora nella zità de <term ref="#cambalu">Chanbellu</term>.</p>
          <p n="3"><seg n="1"> In quel tenpo ch’el <term ref="#gran-can">Gran Chaan</term> demora in la zità de <term ref="#cambalu">Chanbelu</term>, zioè ‹de› dezenbrio e de zener e de fevrer, ell è ordenamento che sesanta zornade
@@ -1484,7 +1480,7 @@
                grandeza. </seg><seg n="3"> E questo fano quelli che sono apresso el <term ref="#gran-can">Gran Chaan</term> a trenta zornade. </seg><seg n="4"> Queli che sono più da lonzi non li mandano la charne, ma chonvien ch’eli mandano
                tute le chore afaitade; e quelle chuore se adovrano in fati d’arme et a oste.</seg></p>
       </div>
-  <div n="74"><head>74</head>
+  <div n="74" type="chapter" xml:id="va-null-74"><head><seg xml:id="-titolo">74</seg><seg xml:id="va-null-74-titolo" /></head>
          <p n="1">LXXIV</p>
          <p n="2">Delli oxelli e bestie che ‹à› el <term ref="#gran-can">Gran Chan</term>, afaitati a hoxellare.</p>
          <p n="3">|37r| <seg n="1"> Ancora sapiate che ’l <term ref="#gran-can">Gran Chaan</term> à lionpardi asai afaitadi a prender bestie a chaza, e anchora lovi zervieri afaitati
@@ -1495,7 +1491,7 @@
                e lupi. </seg><seg n="6"> Quelle che prendeno i lupi sono grandenisime e forte, sì che el nonn è lupo ch’elle
                non prendano.</seg></p>
       </div>
-  <div n="75"><head>75</head>
+  <div n="75" type="chapter" xml:id="va-null-75"><head><seg xml:id="-titolo">75</seg><seg xml:id="va-null-75-titolo" /></head>
          <p n="1">LXXV</p>
          <p n="2">Delli chani et della caza del <term ref="#gran-can">Gran Chan</term>.</p>
          <p n="3"><seg n="1"> El <term ref="#gran-can">Grande Chaan</term> à do baroni che sono fradeli charnali: l’uno à nome <term ref="#bayan">Chaian</term> e l’altro <term ref="#mingan">Ningri</term>. </seg><seg n="2"> Èno apellati civiti, zioè a dir in nostra lingua “queli che tien i chani mastini”.
@@ -1511,7 +1507,7 @@
                tuti versso el segnior; |37v| et truovano molte bestie salvadege, e nesuna pò schanpar
                che non sia prexa, e se ne schanpa sono poche. </seg><seg n="8"> E questa è molto bella cossa a veder.</seg></p>
       </div>
-  <div n="76"><head>76</head>
+  <div n="76" type="chapter" xml:id="va-null-76"><head><seg xml:id="-titolo">76</seg><seg xml:id="va-null-76-titolo" /></head>
          <p n="1">LXXVI</p>
          <p n="2">Quando el <term ref="#gran-can">Gran Chan</term> se parte da <term ref="#cambalu">Ganbellu</term> per andar oxelando.</p>
          <p n="3"><seg n="1"> Quando el <term ref="#gran-can">Gran Chan</term> demora in la zità de <term ref="#cambalu">Chanbellu</term> tre mexi, zioè dezenbrio, zener e fevrer, el se parte de <term ref="#cambalu">Chanbelu</term> del mexe de marzo, e va verso mezodì fina al <term ref="#mare-oceano">Mar Ozian</term>, ch’è lonzi do zornade dala zità. </seg><seg n="2"> E mena chon si diexemilia falchoni, e portano siezento cherfalchi, falchoni pelegrini
@@ -1573,7 +1569,7 @@
                chon soa zente e torna alla maistra zità de <term ref="#cambalu">Chanbellu</term> per la via donde el viene a quel luogo; e tuta fiata |39r| va oxelando e chazando
                e solazando per infina alla zità, chome ò dito, de <term ref="#cambalu">Chanbelu</term>.</seg></p>
       </div>
-  <div n="77"><head>77</head>
+  <div n="77" type="chapter" xml:id="va-null-77"><head><seg xml:id="-titolo">77</seg><seg xml:id="va-null-77-titolo" /></head>
          <p n="1">LXXVII</p>
          <p n="2">Della zità de <term ref="#cambalu">Ganbellu</term> et della corte del <term ref="#gran-can">Gran Chan</term>.</p>
          <p n="3"><seg n="1"> Quando el è zonto in la zità de <term ref="#cambalu">Chanbelu</term>, el fa gran festa e chorte tre dì in so maistro palazo. </seg><seg n="2"> In questa zità de <term ref="#cambalu">Chanbelu</term> è gran moltitudine de chaxe, e sapiate veramente che de fuora è chaxe e palazi altrosì
@@ -1591,7 +1587,7 @@
                de seta, ché in questa zità se fa gran lavori de drapi d’oro et de seta. </seg><seg n="11"> Le zente delle contrà d’atorno vien in questa zità per tute chosse li bexogniano,
                e però se ge duxe chusì grandisima quantità de merchadantie.</seg></p>
       </div>
-  <div n="78"><head>78</head>
+  <div n="78" type="chapter" xml:id="va-null-78"><head><seg xml:id="-titolo">78</seg><seg xml:id="va-null-78-titolo" /></head>
          <p n="1">LXXVIII</p>
          <p n="2">Della moneda del <term ref="#gran-can">Gran Chan</term>.</p>
          <p n="3"><seg n="1"> El Gran Signior fa far moneda a questo muodo: el fa tuor la schorza sotil del
@@ -1617,7 +1613,7 @@
                e non li costa niente, unde el pò ben far le spexe meravegioxe, e zaschaduno chonvien
                conprar quelle monede da llui.</seg></p>
       </div>
-  <div n="79"><head>79</head>
+  <div n="79" type="chapter" xml:id="va-null-79"><head><seg xml:id="-titolo">79</seg><seg xml:id="va-null-79-titolo" /></head>
          <p n="1">LXXIX</p>
          <p n="2">Dei dodexe baroni ch’àno a proveder sopra la corte del <term ref="#gran-can">Grande Chaan</term>.</p>
          <p n="3"><seg n="1"> El <term ref="#gran-can">Gran Chaan</term> à altrosì dodexe baroni ai quali elo à chomesso la so autoritade a proveder quello
@@ -1632,7 +1628,7 @@
                fano per saputa del signior. </seg><seg n="8"> Questi baroni sono apellati <term ref="#singh">scieng</term>, che vuol dir “la chorte mazor”; ‹e ’l palazo› dove i demorano |40r| è altrosì apellat[o]
                <term ref="#singh">scieng</term>. </seg><seg n="9"> E posono questi baroni molto servir a chi i vuoleno.</seg></p>
       </div>
-  <div n="80"><head>80</head>
+  <div n="80" type="chapter" xml:id="va-null-80"><head><seg xml:id="-titolo">80</seg><seg xml:id="va-null-80-titolo" /></head>
          <p n="1">LXXX</p>
          <p n="2">Chome el <term ref="#gran-can">Gran Chan</term> manda i so messi.</p>
          <p n="3"><seg n="1"> Da questa zità de <term ref="#cambalu">Chanbellu</term> se parte molte vie per le qualle se pò andar per diverse contrade e provinzie. </seg><seg n="2"> E quando l’omo se parte de <term ref="#cambalu">Chanbellu</term> per zaschaduna de queste vie, che se vada quindexe meglia, el truova una posta ch’è
@@ -1665,7 +1661,7 @@
                quanto li chavali posono portar. </seg><seg n="19"> E quando i sono zonti alla posta, i trovano i altri chavali aparechiati, freschi
                e boni, e montano suxo quelli e lasano gli altri, e mete-sse alla corssa. </seg><seg n="20"> E per questo modo vano tuto el dì. </seg><seg n="21"> E questi mesazi sono molto aprexiati e àno gran salario dalla chorte.</seg></p>
       </div>
-  <div n="81"><head>81</head>
+  <div n="81" type="chapter" xml:id="va-null-81"><head><seg xml:id="-titolo">81</seg><seg xml:id="va-null-81-titolo" /></head>
          <p n="1">LXXXI</p>
          <p n="2">Chome el <term ref="#gran-can">Gran Chan</term> provede alla soa zente quando i àno perso la ricolta.</p>
          <p n="3"><seg n="1"> Quando ell è grande abundanzia de biave, el <term ref="#gran-can">Gran Chaan</term> ne fa chonprar in grandenisima quantità de formento, òrzo, meio, rixo e de tute altre
@@ -1688,7 +1684,7 @@
                truovano molti luogi dexabitadi per i qual i non saverave tegnir le vie se non fosse
                quegli arbori.</seg></p>
       </div>
-  <div n="82"><head>82</head>
+  <div n="82" type="chapter" xml:id="va-null-82"><head><seg xml:id="-titolo">82</seg><seg xml:id="va-null-82-titolo" /></head>
          <p n="1">LXXXII</p>
          <p n="2"><seg n="1"> In la zità de <term ref="#cambalu">Canbelu</term> se beve poson de rixo e d’altre bone spezie, e sa-la sì chonzare ch’ela è mior da
                bever cha vino. </seg><seg n="2"> Ed è clara e bella, e fa plui tosto inbriagare la persona che non fa el vino,
@@ -1698,7 +1694,7 @@
                sì ben el fuogo ch’elle starano a brasia defin ala doman. </seg><seg n="5"> E per tuta quella provinzia s’arde de quelle priede, e chostano meno che non fa
                le legnie, e per sparagniamento delle legnie si ardeno molto quelle priede.</seg></p>
       </div>
-  <div n="83"><head>83</head>
+  <div n="83" type="chapter" xml:id="va-null-83"><head><seg xml:id="-titolo">83</seg><seg xml:id="va-null-83-titolo" /></head>
          <p n="1">LXXXIII</p>
          <p n="2">Del bel ponte che vete misier Marco Pollo.</p>
          <p n="3"><seg n="1"> El <term ref="#gran-can">Gran Chaan</term> volsse che io, Marcho, andasse a una soa chontrà verso ponente, e io me partì de
@@ -1712,7 +1708,7 @@
                chon do lioni de marmoro. </seg><seg n="8"> Dentro quelle do cholone si è uno muro basso de marmoro. </seg><seg n="9"> E chussì è fato tuto el ponte fina al’altro chavo, dal’uno lato al’altro, sì che
                quel ponte è lla plui bella cossa del mondo da vedere.</seg></p>
       </div>
-  <div n="84"><head>84</head>
+  <div n="84" type="chapter" xml:id="va-null-84"><head><seg xml:id="-titolo">84</seg><seg xml:id="va-null-84-titolo" /></head>
          <p n="1">LXXXIV</p>
          <p n="2">Della zità de <term ref="#gouza">Grongi</term> e della provinzia de <term ref="#cataio">Catai</term>.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de questo ponte, el va trenta mia trovando tuta fiada chaxe
@@ -1723,7 +1719,7 @@
                de <term ref="#cataio">Chatai</term> e quela de sirocho va verso mare ala provinzia de Manci. </seg><seg n="6"> Sì se chavalcha per ponente per la provinzia de <term ref="#cataio">Chatai</term> ben diexe zornade, tuta fiata trovando de molte belle zità e chastelle, e de molte
                gran merchadantie e de gran arte, e de belli chanpi e zardini, e domesticha zente.</seg></p>
       </div>
-  <div n="85"><head>85</head>
+  <div n="85" type="chapter" xml:id="va-null-85"><head><seg xml:id="-titolo">85</seg><seg xml:id="va-null-85-titolo" /></head>
          <p n="1">LXXXV</p>
          <p n="2">Del regniame de <term ref="#tainfu">Tainfu</term>, et de molta seta.</p>
          <p n="3"><seg n="1"> Dapoi che ss’è partido da <term ref="#gouza">Grogin</term>, chavalcha diexe zornade e ’l truova uno regniame ch’è apellato <term ref="#tainfu">Tainifu</term> in chavo della provinzia. </seg><seg n="2"> Et è regniame grando e bello, e sì se fa grande marchadantie e arte; e fa-sege
@@ -1731,13 +1727,13 @@
                </seg><seg n="5"> El ge n’è seda in grande abondanzia et è-ne molti morari a chaxion de’ vermi che
                fano la seda.</seg></p>
       </div>
-  <div n="86"><head>86</head>
+  <div n="86" type="chapter" xml:id="va-null-86"><head><seg xml:id="-titolo">86</seg><seg xml:id="va-null-86-titolo" /></head>
          <p n="1">LXXXVI</p>
          <p n="2">Della zità de <term ref="#pianfu">Pianfu</term>.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de Staifu el chavalcha ben sete zornade per ponente per molte belle chontrà, |42r| trovando
                tuta fiada zità e chastelle asai, là dove se fa grande merchadantie. </seg><seg n="2"> In chavo de sete zornade el truova una zità che à nome <term ref="#pianfu">Pianfu</term> ch’è molto grande e de gran valor, et è-ne seda assai.</seg></p>
       </div>
-  <div n="87"><head>87</head>
+  <div n="87" type="chapter" xml:id="va-null-87"><head><seg xml:id="-titolo">87</seg><seg xml:id="va-null-87-titolo" /></head>
          <p n="1">LXXXVII</p>
          <p n="2">Del castello de <term ref="#cayngui">*Chaichui</term>, dove fo el tradimento del <term ref="#dor">re d’Oro</term>.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de <term ref="#pianfu">Pianfu</term>, el va per ponente do zornade e poi trova uno bel chastello ch’à nome <term ref="#cayngui">*Chaichui</term>, lo qual fè’ far uno re che aveva nome <term ref="#dor">d’Or</term>.</seg></p>
@@ -1754,7 +1750,7 @@
                innanzi te voglio far onor e servixio». </seg><seg n="12"> E inchontenente li dè’ chavali e arme e arnixe e bella chonpagnia, e sì lo lasò
                tornar al suo regniame, donde el <term ref="#dor">re d’Oro</term>, defin ch’el fo vivo, fo amigo e servidor del <term ref="#prete-gianni">Prete Zane</term> de llì inanzi.</seg></p>
       </div>
-  <div n="88"><head>88</head>
+  <div n="88" type="chapter" xml:id="va-null-88"><head><seg xml:id="-titolo">88</seg><seg xml:id="va-null-88-titolo" /></head>
          <p n="1">LXXXVIII</p>
          <p n="2">Del fiume de <term ref="#caramoran">Charamoran</term>, dov’è sì gran derada de faxani.</p>
          <p n="3">|42v| <seg n="1"> L’omo quando se parte de questo chastello de <term ref="#cayngui">Chaichui</term>, el va per ponente zercha vinti ameia e truova uno fiume che à nome <term ref="#caramoran">Charamoran</term>, lo qual è sì largo che non se pò passar per ponte; et è molto profondo e va infina
@@ -1765,7 +1761,7 @@
          <p n="4"><seg n="5"> Quando l’omo à passato questo fiume, andando tre zornade per ponente, el trova
                una nobel zità che à nome <term ref="#cacianfu">Chazianfu</term>. </seg><seg n="6"> La zente de quella zità e tuta la provinzia de <term ref="#cataio">Chatai</term> sono <term ref="#idolatri">idolatri</term>; e in quela zità è molte sede e molte merchadantie de drapi d’oro et de seda.</seg></p>
       </div>
-  <div n="89"><head>89</head>
+  <div n="89" type="chapter" xml:id="va-null-89"><head><seg xml:id="-titolo">89</seg><seg xml:id="va-null-89-titolo" /></head>
          <p n="1">LXXXIX</p>
          <p n="2">Del regniame de <term ref="#mangalu">Margara</term>, dove abita el fiol del <term ref="#gran-can">Grande Chaan</term>.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte della zità de <term ref="#cacianfu">Chazianfu</term>, el chavalcha oto zornade per ponente, trovando tuta fiata zità e chastelle e chanpi,
@@ -1776,7 +1772,7 @@
                zinque meia. </seg><seg n="8"> Et è entro quel muro e fiumi e lagi e fontane asai. </seg><seg n="9"> Lo muro è tuto merlato. </seg><seg n="10"> In mezo de quel muro è uno palaxio belletisimo, lavorato dentro a oro batuto.
                </seg><seg n="11"> Atorno quel muro demora l’oste del re <term ref="#mangalu">Mangala</term>, ed è gran solazo della venaxone che se trova in quel luogo.</seg></p>
       </div>
-  <div n="90"><head>90</head>
+  <div n="90" type="chapter" xml:id="va-null-90"><head><seg xml:id="-titolo">90</seg><seg xml:id="va-null-90-titolo" /></head>
          <p n="1">XC</p>
          <p n="2">Del regniame de <term ref="#cunchin">Chonchin</term>, dove è molte bestie salvadege.</p>
          <p n="3"><seg n="1"> Partando-sse l’omo da quel palazo, se va tre zornade per ponente per uno piano
@@ -1786,7 +1782,7 @@
                assai. </seg><seg n="6"> In questa mainiera chavalcha l’omo vinti zornade per monti e per vale e per piani
                e per boschi, trovando zità e chastelle e asa’ boni albergi.</seg></p>
       </div>
-  <div n="91"><head>91</head>
+  <div n="91" type="chapter" xml:id="va-null-91"><head><seg xml:id="-titolo">91</seg><seg xml:id="va-null-91-titolo" /></head>
          <p n="1">XCI</p>
          <p n="2">Della provinzia de Achalae Man‹gi›, dov’è molto zenzero.</p>
          <p n="3"><seg n="1"> L’omo quando à chavalchà quelle vinti zornade, el trova una provinzia ch’à nome
@@ -1796,7 +1792,7 @@
                monti, valle e boschi. </seg><seg n="7"> E va l’omo ben vinti zornade per ponente, trovando assai zitade e chastelle. </seg><seg n="8"> La zente è tuta <term ref="#idolatri">idolatria</term>; e viveno de lavoriero e de tera e de venaxion e de bestiame. </seg><seg n="9"> El ge n’è molti lioni, orsi e zervi e chavrioli, daini e lupi, e ’l ge n’è grande
                moltitudine de quelle bestie che fano el muschio.</seg></p>
       </div>
-  <div n="92"><head>92</head>
+  <div n="92" type="chapter" xml:id="va-null-92"><head><seg xml:id="-titolo">92</seg><seg xml:id="va-null-92-titolo" /></head>
          <p n="1">XCII</p>
          <p n="2">Della rendita del ponte de Quiantun.</p>
          <p n="3"><seg n="1"> Quando l’omo à chavalchato quelle vinti zornade de montagnie per ponente, el trova
@@ -1816,7 +1812,7 @@
          <p n="6"><seg n="11"> La zente de questa chontrà si è <term ref="#idolatri">idolatri</term>. </seg><seg n="12"> E quando l’omo se parte de questa zità, el chavalcha zinque zornade per uno piano
                e truova ville e chastelle asai. </seg><seg n="13"> Lì se lavora zendati molto belli in gran quantità; e là è molte bestie salvadege.</seg></p>
       </div>
-  <div n="93"><head>93</head>
+  <div n="93" type="chapter" xml:id="va-null-93"><head><seg xml:id="-titolo">93</seg><seg xml:id="va-null-93-titolo" /></head>
          <p n="1">XCIII</p>
          <p n="2">Della provinzia de <term ref="#thebeth">Teber</term>, dove è le chane che fano grande schiopo quando l’ardeno.</p>
          <p n="3"><seg n="1"> Quando l’omo è andado quelle zinque zornade, el trova una provinzia ch’è molto
@@ -1865,7 +1861,7 @@
          <p n="8"><seg n="30"> E i àno moneta per si; e sì se ge spende choralli per moneta e molto chari, perché
                tute le femene porteno chorali al chollo, e àno questi per una gran zoia. </seg><seg n="31"> In questa provinzia se fano molti zanbelloti e drapi d’oro et de seta. </seg><seg n="32"> E sì n’è molti astrologi e inchantatori de demonii. </seg><seg n="33"> La zente è malvaxia, de malvaxii chostumi. </seg><seg n="34"> El ge nasie molti falchoni che oxielano molto ben.</seg></p>
       </div>
-  <div n="94"><head>94</head>
+  <div n="94" type="chapter" xml:id="va-null-94"><head><seg xml:id="-titolo">94</seg><seg xml:id="va-null-94-titolo" /></head>
          <p n="1">XCIV</p>
          <p n="2">Della provinzia de <term ref="#caindu">Guandi</term>, là dove l’omo, quando l’à briga, se mete el capello al’uxio, et è signior de chaxa
             quanto el vuol.</p>
@@ -1896,7 +1892,7 @@
          <p n="7"><seg n="19"> Quando l’omo se parte de Gandin, el chavalcha ben diexe zorna|45v|de trovando senpre zità e chastelle e ville asai.
                </seg><seg n="20"> E quella zente àno quella uxanza ch’àno quelli de <term ref="#caindu">Gandi</term>; e àno venaxion de bestie assai, ‹e› de oxelli. </seg><seg n="21"> In chavo de queste zornate diexe, se truova uno gran fiume ch’à nome <term ref="#brius">Briuis</term>, al qual fenise la provinzia de <term ref="#caindu">Gandi</term>. </seg><seg n="22"> In questo fiume se truova asai oro de paiuola. </seg><seg n="24"> Sopra de questo fiume nasie asai zinamomo, e entra quel fiume inel <term ref="#mare-oceano">Mar Ozian</term>.</seg></p>
       </div>
-  <div n="95"><head>95</head>
+  <div n="95" type="chapter" xml:id="va-null-95"><head><seg xml:id="-titolo">95</seg><seg xml:id="va-null-95-titolo" /></head>
          <p n="1">XCV</p>
          <p n="2">Della provinzia de <term ref="#carazan">Charaian</term> et de Iaci, dove l’omo non à vergognia a chi zaxe chon so moier, purché ’la sia in
             conchordia; e lì se spende le porzellane per moneda.</p>
@@ -1915,7 +1911,7 @@
                menuta e poi la meteno in uno savor d’aio et de spezie, e poi la manzano chusì chomo
                nui manzemo la cota.</seg></p>
       </div>
-  <div n="96"><head>96</head>
+  <div n="96" type="chapter" xml:id="va-null-96"><head><seg xml:id="-titolo">96</seg><seg xml:id="va-null-96-titolo" /></head>
          <p n="1">XCVI</p>
          <p n="2">Della zità de <term ref="#carazan">Charaian</term> et de <term ref="#iaci">Iaci</term>, là dove se truova i serpenti colobri, e chome li prendeno.</p>
          <p n="3">|46r| <seg n="1"> Quando l’omo se parte dela zità de <term ref="#iaci">Iaci</term>, el chavalcha diexe zornade per ponente et truova la maistra zità della provinzia
@@ -1958,7 +1954,7 @@
                e lle grazie e l’anima de quel valentomo romagnìa in quella chaxa. </seg><seg n="25"> E per questa caxion alzideva molti, ma dapoi che ’l <term ref="#gran-can">Gran Chaan</term> chonquistò quella provinzia, ch’è zercha ani trentazinque, i non uxa plui quella
                malizia per paura del <term ref="#gran-can">Gran Chaan</term>, che non la lassa plui far nì uxar per niuno muodo.</seg></p>
       </div>
-  <div n="97"><head>97</head>
+  <div n="97" type="chapter" xml:id="va-null-97"><head><seg xml:id="-titolo">97</seg><seg xml:id="va-null-97-titolo" /></head>
          <p n="1">XCVII</p>
          <p n="2">Della provinzia de <term ref="#cardandan">Ardanda</term>, là dove l’omo zaxe in parto quando la moier à partorito.</p>
          <p n="3"><seg n="1"> L’omo, quando el se parte de <term ref="#carazan">Charaian</term>, el ‹va› zinque zornade e truova una provinzia che à nome Ardandan. </seg><seg n="2"> La zente è sotoposta al <term ref="#gran-can">Gran Chaan</term>. </seg><seg n="3"> La maistra zità à nome <term ref="#vociam">Notian</term>. </seg><seg n="4"> I omeni de quella provinzia àno i denti choverti d’oro e zaschuno fano formelle
@@ -2006,7 +2002,7 @@
                sono molto delichate, chon grande allegreza e chon gran solazo. </seg><seg n="30"> Poi torna zaschuno a chaxa soa, et l’amalato guarisie tal fiata, segondo che
                piaxe a Dio, e quella zente e’ chredeno che l’idollo l’abia guarito. </seg><seg n="31"> E per questo muodo ingana el diavolo quella zente <term ref="#idolatri">idolatra</term>.</seg></p>
       </div>
-  <div n="98"><head>98</head>
+  <div n="98" type="chapter" xml:id="va-null-98"><head><seg xml:id="-titolo">98</seg><seg xml:id="va-null-98-titolo" /></head>
          <p n="1">XCVIII</p>
          <p n="2">De una bataia che fo tra uno gran baron del <term ref="#gran-can">Gran Chaan</term> et d’uno grande re.</p>
          <p n="3"><seg n="1"> A chaxion del regniame de <term ref="#carazan">Charaian</term> e de <term ref="#vociam">Vocian</term> fo una grande bataia in quella contrà in milleduxento e setantadò.</seg></p>
@@ -2027,7 +2023,7 @@
                del’altra, ma ala fin lo re <term ref="#mien">Mien</term> se messe in fuga con soa zente, e i <term ref="#tartari">Tartari</term> andòno driedo alzidando queli che fuzivano, e molti ne alziseno. </seg><seg n="18"> Quando i ave fato gran dalmazio in la zente del re <term ref="#mien">Mien</term>, tornarono per prendere i elinfanti che erano innel boscho, ma non ge podeva prender
                nisuno, pure finalmente ne ave duxento. </seg><seg n="19"> Et da questa bataglia inanzi chomenzò el <term ref="#gran-can">Gran Chaan</term> ad aver alinfanti per bataglia; possa chonquistò le tere del re <term ref="#mien">Mien</term> e de Pangala.</seg></p>
       </div>
-  <div n="99"><head>99</head>
+  <div n="99" type="chapter" xml:id="va-null-99"><head><seg xml:id="-titolo">99</seg><seg xml:id="va-null-99-titolo" /></head>
          <p n="1">XCIX</p>
          <p n="2">Della gran dessessa, dove l’omo va pur in zio do zornade e meza.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de questa provinzia de <term ref="#carazan">Charaian</term>, el truova una grandenisima desexa per la qual l’omo vano ben do zornate e meza pur
@@ -2041,7 +2037,7 @@
                de <term ref="#mien">Mien</term>, la qual chonfina chon l’<term ref="#india">India</term> inversso mezodì. </seg><seg n="6"> L’omo va quindexe zornade per molta salvadega [cont]rada e per molti boschi, là
                dove è molti elinfanti, elichorni e altre bestie salvadege asai. </seg><seg n="7"> In quela contrà salvadega nonn è abitazion.</seg></p>
       </div>
-  <div n="100"><head>100</head>
+  <div n="100" type="chapter" xml:id="va-null-100"><head><seg xml:id="-titolo">100</seg><seg xml:id="va-null-100-titolo" /></head>
          <p n="1">C</p>
          <p n="2">Della provinzia de <term ref="#mien">Mian</term>, dove el re se fexe far sì bella sepoltura.</p>
          <p n="3"><seg n="1"> In cavo de queste quindexe zornade l’omo truova una zità che à nome <term ref="#mien">Mien</term>, ch’è molto nobelle e granda, e in chavo del regniame. </seg><seg n="2"> La zente è <term ref="#idolatri">idolatra</term>, et è soto el <term ref="#gran-can">Gran Chan</term>, |49r| e àno lenguazio per si.</seg></p>
@@ -2061,7 +2057,7 @@
          <p n="6"><seg n="12"> In quella provinzia è molti elinfanti e buò salvadegi grandi e belli, e zervi
                e daini, chavrioli e altre bestie de tute maniere.</seg></p>
       </div>
-  <div n="101"><head>101</head>
+  <div n="101" type="chapter" xml:id="va-null-101"><head><seg xml:id="-titolo">101</seg><seg xml:id="va-null-101-titolo" /></head>
          <p n="1">CI</p>
          <p n="2">Della provinzia de Ganbala, dove è i buò grandi sì chome lionfanti.</p>
          <p n="3"><seg n="1"> <term ref="#bangala">Bangalla</term> è una provinzia verso mezodì ale confine d’<term ref="#india">India</term>, la quale non aveva ancora conquistà el <term ref="#gran-can">Gran Chaan</term>, e quando io, Marcho Pollo, iera in soa corte, tuta fiata guerizava so zente per
@@ -2069,7 +2065,7 @@
                </seg><seg n="5"> El n’è buò grandi chome elinfanti, ma non sono chussì grosi. </seg><seg n="6"> El n’è molti omeni chastradi, li quali sono chonprati dai merchadanti, li quali
                i menano a vender ai baroni per diversse |49v| provinzie. </seg><seg n="7"> Anchora se ne vende schiavi in questa provinzia.</seg></p>
       </div>
-  <div n="102"><head>102</head>
+  <div n="102" type="chapter" xml:id="va-null-102"><head><seg xml:id="-titolo">102</seg><seg xml:id="va-null-102-titolo" /></head>
          <p n="1">CII</p>
          <p n="2">Della provinzia de <term ref="#cangigu">Tangigu</term>, dove el re à tre‹xento› moier.</p>
          <p n="3"><seg n="1"> <term ref="#cangigu">Tangigu</term> è una provinzia verso levante, e à re e lenguazio da per si. </seg><seg n="2"> I sono <term ref="#idolatri">idolatri</term> e fano trabuto al <term ref="#gran-can">Gran Chaan</term>. </seg><seg n="3"> Lo re de questa provinzia à ben trexento moier. </seg><seg n="4"> In questa provinzia è oro asai e molte spezie; è alifanti e venaxion de tute bestie,
@@ -2078,7 +2074,7 @@
                e sule man e al chorpo e ale ganbe; e fano queste penture chon aguchie molto sotilmente
                e in tal modo ch’elle non se parteno mai. </seg><seg n="7"> E fano figure de lioni e de dragoni et de oxielli. </seg><seg n="8"> Chi à plui de quelle belle figure sono reputati plui belli dai altri.</seg></p>
       </div>
-  <div n="103"><head>103</head>
+  <div n="103" type="chapter" xml:id="va-null-103"><head><seg xml:id="-titolo">103</seg><seg xml:id="va-null-103-titolo" /></head>
          <p n="1">CIII</p>
          <p n="2">Della provinzia de <term ref="#amu">Chamu</term>, dove i omeni e lle femene portano brazali d’oro.</p>
          <p n="3"><seg n="1"> <term ref="#amu">Amu</term> si è una provinzia verso levante, la qual è sotoposta al <term ref="#gran-can">Gran Chaan</term>. </seg><seg n="2"> La zente è <term ref="#idolatri">idolatra</term>, e viveno de bestiame; et è grande abondanzia de tute cosse da viver, e à lenguazio
@@ -2086,7 +2082,7 @@
                e de buò e de vache, perché el n’è luogi de bona pastura. </seg><seg n="5"> I omeni e lle femene portano ‹a›le braze e ale ganbe brazali d’oro et d’arzento
                de gran valor.</seg></p>
       </div>
-  <div n="104"><head>104</head>
+  <div n="104" type="chapter" xml:id="va-null-104"><head><seg xml:id="-titolo">104</seg><seg xml:id="va-null-104-titolo" /></head>
          <p n="1">CIV</p>
          <p n="2">Della provinzia de <term ref="#tholoman">Taloman</term>, dove se spende le porzellane per moneta.</p>
          <p n="3"><seg n="1"> Da llonzi d’<term ref="#amu">Amu</term> verso levante oto zornade, el g’è la provinzia de <term ref="#tholoman">Toloman</term>. </seg><seg n="2"> La zente de Toloman si è <term ref="#idolatri">idolatra</term>, et è sotoposti al <term ref="#gran-can">Gran Chaan</term>, e àno lenguazio per si. </seg><seg n="3"> In questa provinzia è bella zente ma nonn è biancha, anzi è bruna. </seg><seg n="4"> El g’è zità e chastelle asai, e molte montagnie grande e forte. 5I omeni de questa
@@ -2094,7 +2090,7 @@
                alle chaverne che sono ale montagnie altisime; e sì le chonzano in cotal muodo che
                omeni né bestie non le posono tochare. </seg><seg n="7"> El se ne truova oro asai, e ’l se ne spende le porzellane d’India per moneta pizolla.</seg></p>
       </div>
-  <div n="105"><head>105</head>
+  <div n="105" type="chapter" xml:id="va-null-105"><head><seg xml:id="-titolo">105</seg><seg xml:id="va-null-105-titolo" /></head>
          <p n="1">CV</p>
          <p n="2">Della provinzia de <term ref="#gouza">Gingin</term>, dove è i chani mastini cusì forti.</p>
          <p n="3">|50r| <seg n="1"> <term ref="#cintigui">Dingin</term> è una provinzia verso levante la qual truova l’omo quando el se parte de <term ref="#tholoman">Toloman</term>. </seg><seg n="2"> L’omo chavalcha ben dodexe zornade sopra uno fiume e trova piuxor zità e chastelle.
@@ -2117,7 +2113,7 @@
                lo lion fortemente. </seg><seg n="12"> E tanto atende lo lion ai chani che l’omo el pò bonamente saitar a suo seno;
                e alle fine lo lion muor dalle saite.</seg></p>
       </div>
-  <div n="106"><head>106</head>
+  <div n="106" type="chapter" xml:id="va-null-106"><head><seg xml:id="-titolo">106</seg><seg xml:id="va-null-106-titolo" /></head>
          <p n="1">CVI</p>
          <p n="2">Della zità de <term ref="#cianglu">Cinvanglu</term>, ove se fa de tera sal.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de <term ref="#gouza">Gingin</term>, el va quatro zornate trovando pur zità e chastelle. </seg><seg n="2"> In chavo de queste quatro zornade se truova la zitade de <term ref="#pazanfu">Chanchasu</term>, la qual è grande e bella, et è de <term ref="#cataio">Chatai</term>, et è verso mezodì. </seg><seg n="3"> Et è-ne grande abondanzia de seta, e lavora-sse molti drapi d’oro et de seta et
@@ -2126,7 +2122,7 @@
                aqua ch’ella riesse de soto, e poi, tolto de quella aqua, i la fa boglir in gran chaldiere
                et deventa sal biancho e menuto. </seg><seg n="7"> Da lonzi da <term ref="#cianglu">Chivanglu</term> zinque zornate è lla zità de <term ref="#ciangli">Zinvangli</term>; per mezo quella passa uno fiume per lo qual va molte nave.</seg></p>
       </div>
-  <div n="107"><head>107</head>
+  <div n="107" type="chapter" xml:id="va-null-107"><head><seg xml:id="-titolo">107</seg><seg xml:id="va-null-107-titolo" /></head>
          <p n="1">CVII</p>
          <p n="2">Della zità de <term ref="#singuimatu">Signi</term>, ov’è el gran navilio.</p>
          <p n="3"><seg n="1"> Da llonzi da Zinvanglu sìe zornade verso mezodì è la grande zità de <term ref="#tudinfu">Chandifu</term>, la qual soleva aver uno re innanzi che ’l <term ref="#gran-can">Gran Chaan</term> la chonquistasse. </seg><seg n="2"> Ell à dodexe zità soto de ssi. </seg><seg n="3"> El ge n’è grande abondanzia de seda, e molti zardini e fruti. </seg><seg n="4"> Da lonzi de [<term ref="#tudinfu">Chandifu</term>] tre zornade versso mezodì se truova la nobelle zità <term ref="#singuimatu">Singiumatu</term>, et è verso mezodì. </seg><seg n="5"> El vien un grande fiume a questa zità; la zente dela tera lo parteno in do parte
@@ -2135,7 +2131,7 @@
          <p n="4"><seg n="8"> Quando l’omo se parte della zità de <term ref="#singuimatu">Singiumatu</term>, el va per mezodì sedexe zornade trovando tuta fiata molte zità e chastelle, in le
                qual è molte merchadantie, ma non ge n’è altre chosse che siano da scrivere. </seg><seg n="9"> Tuta quella zente è <term ref="#idolatri">idolatra</term> et è soto el <term ref="#gran-can">Gran Chaan</term>.</seg></p>
       </div>
-  <div n="108"><head>108</head>
+  <div n="108" type="chapter" xml:id="va-null-108"><head><seg xml:id="-titolo">108</seg><seg xml:id="va-null-108-titolo" /></head>
          <p n="1">CVIII</p>
          <p n="2">Del fiume de <term ref="#caramoran">Charamoira</term>, dove è una zità da una riva et dal’altra.</p>
          <p n="3"><seg n="1"> L’omo quando l’à chavalchato quelle sedexe zornade, el truova uno fiume che vien
@@ -2145,7 +2141,7 @@
                l’altra dal’altra. </seg><seg n="6"> L’una zità è mazior del’altra, e à nome la mazior <term ref="#coiganzu">Choigangiu</term>, la menor à nome <term ref="#quanzu">Chaigiu</term>, et sono apresso el <term ref="#mare-oceano">Mar Oziano</term>. </seg><seg n="7"> A una zornata, quando l’omo passa questo fiume, ell entra in l[a] grande e nobel
                provinzia de <term ref="#mangi">Mangi</term>, dela quale voio chontar da mo’ inanzi.</seg></p>
       </div>
-  <div n="109"><head>109</head>
+  <div n="109" type="chapter" xml:id="va-null-109"><head><seg xml:id="-titolo">109</seg><seg xml:id="va-null-109-titolo" /></head>
          <p n="1">CIX</p>
          <p n="2">Là dove Baian Cint’ogi aquistà la provinzia de <term ref="#mangi">Mangi</term>.</p>
          <p n="3"><seg n="1"> In la gran provinzia de <term ref="#mangi">Mangi</term> era uno re che aveva nome <term ref="#fanfur">Facfur</term>, lo qual era molto posente e richo, né non|51r|n era al mondo uno mazior signior
@@ -2176,12 +2172,12 @@
                – al <term ref="#gran-can">Gran Chaan</term>, tratone una zità che avea nome Sainfu che se tene ben ani tre. </seg><seg n="27"> La regina fo menata ala chorte del <term ref="#gran-can">Gran Chaan</term> e ’l <term ref="#gran-can">Gran Chaan</term> la fè’ servir e honorar sì chome a una granda regina se chonvegnìa. </seg><seg n="28"> Lo re <term ref="#fanfur">Facfur</term>, che fuzì ale ixolle, non se partì mai da quelle isolle, e llì morì.</seg></p>
          <p n="5"><seg n="29"> Hora ve voglio contar delle chondizion della provinzia.</seg></p>
       </div>
-  <div n="110"><head>110</head>
+  <div n="110" type="chapter" xml:id="va-null-110"><head><seg xml:id="-titolo">110</seg><seg xml:id="va-null-110-titolo" /></head>
          <p n="1">CX</p>
          <p n="2">Della prima zità della provinzia de <term ref="#mangi">Mangi</term>.</p>
          <p n="3"><seg n="1"> La prima zità che è al’intrar della provinzia à nome ‹<term ref="#coiganzu">Chor›gangui</term>, et è grande, nobelle e richa. </seg><seg n="2"> La provinzia de <term ref="#mangi">Mangi</term> è <term ref="#idolatri">idollatra</term>, e fano arder i corpi morti. </seg><seg n="3"> Questa zità à grandisima moltitudine de nave et è sul fiume de <term ref="#caramoran">Charamoiran</term>. </seg><seg n="4"> A questa zità se fa tanto sal che n’à asai ben quaranta zità, sì che ’l <term ref="#gran-can">Gran Chaan</term> ne à gran rendita de sal et de grande merchadantie. |52r| </seg><seg n="5"> E questa zità è verso sirocho; e lla zente è <term ref="#idolatri">idolatra</term> chome è tuta la provinzia.</seg></p>
       </div>
-  <div n="111"><head>111</head>
+  <div n="111" type="chapter" xml:id="va-null-111"><head><seg xml:id="-titolo">111</seg><seg xml:id="va-null-111-titolo" /></head>
          <p n="1">CXI</p>
          <p n="2">Della zità de <term ref="#cingui">Cingui</term>, ove stete signior Marco Pollo ani tre per lo <term ref="#gran-can">Gran Chan</term>.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de <term ref="#coiganzu">Chorgangui</term>, el va verso sirocho una zornada per una strada tuta salizada de molte belle piere.
@@ -2196,7 +2192,7 @@
                ch’à nome Iangui, la qual à vintisete zità soto la so signioria, et sono tere de gran
                merchadantia. </seg><seg n="13"> E io, Marcho Pollo, avi la signioria de questa chontrà per lo <term ref="#gran-can">Gran Chan</term> ben tre anni.</seg></p>
       </div>
-  <div n="112"><head>112</head>
+  <div n="112" type="chapter" xml:id="va-null-112"><head><seg xml:id="-titolo">112</seg><seg xml:id="va-null-112-titolo" /></head>
          <p n="1">CXII</p>
          <p n="2">Della zità de <term ref="#saianfu">Saianfu</term>, ove fexe far Marco Polo i mangani.</p>
          <p n="3"><seg n="1"> Versso ponente si è una provinzia in lo <term ref="#mangi">Mangi</term> che à nome <term ref="#nanghin">Naigui</term>, ch’è nobele e richa, là dove se fa molti lavorieri d’oro et de seta, et è-ne grande
@@ -2209,7 +2205,7 @@
                fexe sì gran remor e sì gran dano a quele chaxe, che lli <term ref="#tartari">Tartari</term> che erano in l’oste se ne fèno grande meraveglia. </seg><seg n="8"> E la zente della zità, che non aveva mai vezuto someiante chossa, àveno sì gran
                smarimento che inchontinente se rendéno al <term ref="#gran-can">Gran Chaan</term>, temando de esser tuti morti per quela cotal maniera.</seg></p>
       </div>
-  <div n="113"><head>113</head>
+  <div n="113" type="chapter" xml:id="va-null-113"><head><seg xml:id="-titolo">113</seg><seg xml:id="va-null-113-titolo" /></head>
          <p n="1">CXIII</p>
          <p n="2">Del fiume de <term ref="#quian">Quian</term>, che è el maor fiume del mondo.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte dela zità <term ref="#saianfu">Saniafu</term>, el va per sirocho quindexe meia e truova una zità che ‹à› nome <term ref="#singui">Singui</term>, la qual ‹non› è molto grande. </seg><seg n="2"> Ella à gran navillii et è sopra el mazior fiume che sia al mondo, lo qual à nome
@@ -2226,7 +2222,7 @@
                passa. </seg><seg n="9"> I lle sfendeno per mezo e liga l’una in chavo del’altra, e fa-le longe ben trexento
                a passa. </seg><seg n="10"> E sono più forte che non serave sartie de chanevo per tirar.</seg></p>
       </div>
-  <div n="114"><head>114</head>
+  <div n="114" type="chapter" xml:id="va-null-114"><head><seg xml:id="-titolo">114</seg><seg xml:id="va-null-114-titolo" /></head>
          <p n="1">CXIV</p>
          <p n="2">De <term ref="#cayngui">Chaigui</term>, ove nasie tanta biava.</p>
          <p n="3"><seg n="1"> Mangui è una pizolla zità sopra questo fiume verso sirocho, in la qual se rechoie grandisima
@@ -2235,7 +2231,7 @@
          <p n="4"><seg n="5"> Per me’ questa zità de Chaingui è una ixolla in mezo el fiume, sul qual è uno monestier de munexi <term ref="#idolatri">idolatri</term>, ‹in› la qual el n’è de molti altri monestieri. </seg><seg n="6"> E in quel monestier è ben duxento de queli munexi, et è-ne grande quantità de
                idolle.</seg></p>
       </div>
-  <div n="115"><head>115</head>
+  <div n="115" type="chapter" xml:id="va-null-115"><head><seg xml:id="-titolo">115</seg><seg xml:id="va-null-115-titolo" /></head>
          <p n="1">CXV</p>
          <p n="2">De <term ref="#cinghianfu">Cingianfu</term>, ove è doe giexie de cristiani; della zità de <term ref="#tinguigui">Tangigui</term>, dove queli che la prexeno fono tuti morti; et altre cosse.</p>
          <p n="3"><seg n="1"> <term ref="#cinghianfu">Cingianfu</term> è una zità de <term ref="#mangi">Mangi</term> o’ se fa molti lavorieri d’oro et de seta. </seg><seg n="2"> Et è-ne do giexie de cristiani nestorini, le qual fè’ far <term ref="#marsachis">Marsachis</term> veschovo: fo segnior in quella zità per el Gran Chaam, ano domini MCCLXXVIII.</seg></p>
@@ -2248,7 +2244,7 @@
                </seg><seg n="9"> E <term ref="#chinsanbaian">Baian</term>, quando l’ave intexo questo, mandò uno gran oste e prexe la zità per forza, e sì
                arse tuti i omeni dela tera per vendeta de ziò che i aveva fato de queli Alani.</seg></p>
       </div>
-  <div n="116"><head>116</head>
+  <div n="116" type="chapter" xml:id="va-null-116"><head><seg xml:id="-titolo">116</seg><seg xml:id="va-null-116-titolo" /></head>
          <p n="1">CXVI</p>
          <p n="2">Della gran zità de <term ref="#singui">Singui</term>, ch’è a dir la zità della te[r]a.</p>
          <p n="3"><seg n="1"> <term ref="#singui">Singui</term> è una nobilisima zità, la qual volze sesanta meglia; et è-ne sì gran zente ch’ell
@@ -2260,7 +2256,7 @@
                arte, perché questa zità, <term ref="#singui">Singui</term>, è a dir in nostra lengua latina “la terra”, e un’altra ‹à› nome “el ziello”, e questo
                si è per la gran nobilità de questa zità.</seg></p>
       </div>
-  <div n="117"><head>117</head>
+  <div n="117" type="chapter" xml:id="va-null-117"><head><seg xml:id="-titolo">117</seg><seg xml:id="va-null-117-titolo" /></head>
          <p n="1">CXVII</p>
          <p n="2">Della zità <term ref="#quinsai">Quinsai</term>, ch’è a dir “la zità del ziello”, e la qual è lla maor zità che sia al mondo, ove
             è cotante zente e cotanti ponti e tante meraveie.</p>
@@ -2335,7 +2331,7 @@
                aldì far gran conto in suma de questa rendita senza el sal, e aldì far raxion che
                pur in lo regniame de <term ref="#quinsai">Quinsai</term>, ch’è una delle nuove parte della pro|55v|vinzia de <term ref="#mangi">Mangi</term>, monta zaschadun ano ben duxentomilia tomani d’oro. </seg><seg n="55"> E questa è ben chossa desmexurata.</seg></p>
       </div>
-  <div n="118"><head>118</head>
+  <div n="118" type="chapter" xml:id="va-null-118"><head><seg xml:id="-titolo">118</seg><seg xml:id="va-null-118-titolo" /></head>
          <p n="1">CXVIII</p>
          <p n="2">De molte zità della signioria de <term ref="#quinsai">Quinsai</term>.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de <term ref="#quinsai">Quinsai</term>, el va una zornada verso sirocho, tuta fiada trovando chaxe e zardini e tere de gran
@@ -2349,7 +2345,7 @@
          <p n="6"><seg n="9"> Quando l’omo à chavalchà quelle quatro zornade, el truova la zità de <term ref="#zengian">Cinagna</term>, ch’è molto grande e nobelle; et è su uno monte che parte el fiume in do parte: l’una
                parte va in su, l’altra va in zio verso la marina. </seg><seg n="10"> Et è l’ultima zità della signioria de <term ref="#quinsai">Quinsai</term>.</seg></p>
       </div>
-  <div n="119"><head>119</head>
+  <div n="119" type="chapter" xml:id="va-null-119"><head><seg xml:id="-titolo">119</seg><seg xml:id="va-null-119-titolo" /></head>
          <p n="1">CXIX</p>
          <p n="2">Del regniame de <term ref="#fugiu">Fongu</term>, dove i omeni se manzano.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de <term ref="#zengian">Cinoian</term>, el entra inel regniame de <term ref="#fugiu">Furgu</term>. </seg><seg n="2"> E va sìe zornade per sirocho, per montagnie e per pianure, e truova zità e chastelle
@@ -2372,7 +2368,7 @@
                se fa molte nave per navegar per questo fiume. </seg><seg n="17"> Nase-nde zucharo in grande abondanzia. </seg><seg n="18"> È grande merchadantie de perlle e piere prezioxe, le qual se portano d’India;
                e questa ‹zità› è apresso el <term ref="#mare-oceano">Mar Ozian</term>, et è-ne gran abondanzia de chosse da viver.</seg></p>
       </div>
-  <div n="120"><head>120</head>
+  <div n="120" type="chapter" xml:id="va-null-120"><head><seg xml:id="-titolo">120</seg><seg xml:id="va-null-120-titolo" /></head>
          <p n="1">CXX</p>
          <p n="2">Della zità de <term ref="#tingui">Nigni</term>, ove se fa schudelle de porzelane.</p>
          <p n="3"><seg n="1"> L’omo, quando se parte de Fungu, el passa el fiume e va zinque zornade per sirocho, trovando zità e chastelle molto
@@ -2391,7 +2387,7 @@
                chontrade perché ve voio chomenzar delle gran meraveioxe cosse d’India, in la qual
                io, Marcho Pollo, stiti uno gran tenpo e zerchai molte chontrade.</seg></p>
       </div>
-  <div n="121"><head>121</head>
+  <div n="121" type="chapter" xml:id="va-null-121"><head><seg xml:id="-titolo">121</seg><seg xml:id="va-null-121-titolo" /></head>
          <p n="1">CXXI</p>
          <p n="2">Delle nave et dele maniere d’<term ref="#india">India</term>.</p>
          <p n="3"><seg n="1"> Voiando-ve chontar delle meraveioxe cosse d’<term ref="#india">India</term>, sì chomenzeremo inprimamente delle nave che uxano per el <term ref="#mare-dindia">Mar d’India</term>. </seg><seg n="2"> Sono a questo modo fate: elle sono chomunalmente tute d’albero, e àno una coverta;
@@ -2413,7 +2409,7 @@
                e po’ l’onze e chalchano, e l’altra fiada ge ne azonze un’altra, sì che èno quatro;
                e chusì fano fin a zinque tavolle. </seg><seg n="13"> Mo’ ve voglio chontar d’<term ref="#india">India</term>.</seg></p>
       </div>
-  <div n="122"><head>122</head>
+  <div n="122" type="chapter" xml:id="va-null-122"><head><seg xml:id="-titolo">122</seg><seg xml:id="va-null-122-titolo" /></head>
          <p n="1">CXXII</p>
          <p n="2">Dell’ixolla de <term ref="#zipangu">Zinpagu</term>, dove è cotanto oro.</p>
          <p n="3"><seg n="1"> <term ref="#zipangu">Cipagu</term> è una ixolla verso levante ch’è in l’alto mar, ben lonzi da tera duxento meglia,
@@ -2477,7 +2473,7 @@
                </seg><seg n="43"> Questa contrà è molto lonzi dala tera d’<term ref="#india">India</term>.</seg></p>
          <p n="14"><seg n="44"> De questa contrà e’ non ve dirò plui, ma e’ ve dirò de <term ref="#zaitum">Zaiton</term>.</seg></p>
       </div>
-  <div n="123"><head>123</head>
+  <div n="123" type="chapter" xml:id="va-null-123"><head><seg xml:id="-titolo">123</seg><seg xml:id="va-null-123-titolo" /></head>
          <p n="1">CXXIII</p>
          <p n="2">De <term ref="#ziamba">Cianban</term>, ove el re aveva CCCXXVI fioli e fie.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de <term ref="#zaitum">Zaiton</term> e ’l navega per ponente, alchuna cossa verso garbin, XIIc meia, el truova una zità ch’è apelata <term ref="#ziamba">Cianban</term>, ch’è molto richa tera e grande. </seg><seg n="2"> La zente è <term ref="#idolatri">idolatra</term> e à uno re, e à lenguazo per si. </seg><seg n="3"> Et è in questa contrà molti elifanti e grande abondanzia de legnio aloe, et è-ne
@@ -2488,7 +2484,7 @@
                anticho e avea gran moltitudine de moiere, e aveva trexento e vintisìe figlioli dentro
                maschi e femene, entro i quali era ben zento e zinquanta homeni da portar arme.</seg></p>
       </div>
-  <div n="124"><head>124</head>
+  <div n="124" type="chapter" xml:id="va-null-124"><head><seg xml:id="-titolo">124</seg><seg xml:id="va-null-124-titolo" /></head>
          <p n="1">CXXIV</p>
          <p n="2">Del’ixolla de <term ref="#giava">Iava</term>, ove è molte spezie.</p>
          <p n="3"><seg n="1"> L’omo, quando se parte de <term ref="#ziamba">Cianban</term> e vada verso mezodì e sirocho XIIc meia, el truova una grande isolla, la qual è apellata <term ref="#giava">Iana</term>, e volze ben treamillia meia, segondo che dixeno i boni marinari che uxano in questa
@@ -2502,14 +2498,14 @@
                </seg><seg n="5"> El ge n’è oro in grande abondanzia; è alifanti asai; el se truova porzelane che
                se spendeno in le provinzie che ò dite de sopra. </seg><seg n="6"> Pocha zente vano a questa contrà, perché l’è luogo molto stranio.</seg></p>
       </div>
-  <div n="126"><head>126</head>
+  <div n="126" type="chapter" xml:id="va-null-126"><head><seg xml:id="-titolo">126</seg><seg xml:id="va-null-126-titolo" /></head>
          <p n="1">CXXVI</p>
          <p n="2">Del’ixolla de <term ref="#pentan">Pentain</term>, o’ no è alto el mare, ma IV passa.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de <term ref="#locach">Leochar</term> e navega Vc meglia per mezodì, el truova una ixolla che ‹à› nome <term ref="#pentan">Pentain</term>, et è molto salvadego luogo. </seg><seg n="2"> El ge n’è boschi e albori de grande odore et de grande utilità. </seg><seg n="3"> Per mezo queste do ixolle zercha sesanta meglia, nonn è plui de passa quatro d’aqua,
                e chonviene che lle nave grande che pasano lì alza i timoni. </seg><seg n="4"> Quando l’omo è andado quelle sesanta meia, el truova uno regniame che è apellato
                <term ref="#malaiur">Malanie</term> l’ixola, e la maistra zità <term ref="#pentan">Pentain</term>, e à lenguazio per si, et è-ne spezie in grande abondanzia.</seg></p>
       </div>
-  <div n="127"><head>127</head>
+  <div n="127" type="chapter" xml:id="va-null-127"><head><seg xml:id="-titolo">127</seg><seg xml:id="va-null-127-titolo" /></head>
          <p n="1">CXXVII</p>
          <p n="2">Del’ixolla de <term ref="#giava">Iava menore</term>, dove non se vede la stela tramontana.</p>
          <p n="3"><seg n="1"> Se ll’omo se parte de <term ref="#pentan">Pentain</term> e ’l navega per sirocho zercha meia zento, el truova l’ixola de <term ref="#giava">[Ia]va Menor</term>, che volze ben plui de tremilia meglia, in la qual ixolla si è oto regniami, e zaschun
@@ -2518,7 +2514,7 @@
                tramontana nì puocho né asai. </seg><seg n="5"> Io non fu’ in tuti i regniami de questa ixolla, ma fu’ sollamente inel regniame
                de <term ref="#felech">Ferlech</term> e in quel de <term ref="#basma">Basaron</term> et in quel de <term ref="#samara">Samara</term> e in quel de <term ref="#dragoian">‹Da›groian</term> e in quel de <term ref="#lambri">Lanbri</term> et in quel de <term ref="#fanfur">*Fanfur</term>, e nelli altri do non fu’, e però ve dirò pur de questi.</seg></p>
       </div>
-  <div n="128"><head>128</head>
+  <div n="128" type="chapter" xml:id="va-null-128"><head><seg xml:id="-titolo">128</seg><seg xml:id="va-null-128-titolo" /></head>
          <p n="1">CXXVIII</p>
          <p n="2">De <term ref="#felech">Ferllech</term>, ove i omeni adora la prima cossa che i vedeno la maitina.</p>
          <p n="3"><seg n="1"> A chaxion d’i merchadanti saraxini che uxano molto innel regniame de <term ref="#felech">Ferlech</term>, la zente ‹de› quel regniame, ch’è a|60r|presso al mar, è chonvertida ala leze de
@@ -2526,7 +2522,7 @@
                e la prima chossa che i vedeno da doman per tenpo, quando egli se lievano, sì l’adora
                per so dio. </seg><seg n="3"> Eli manzano ogni charne bona e ria, e eziandio charne umana.</seg></p>
       </div>
-  <div n="129"><head>129</head>
+  <div n="129" type="chapter" xml:id="va-null-129"><head><seg xml:id="-titolo">129</seg><seg xml:id="va-null-129-titolo" /></head>
          <p n="1">CXXIX</p>
          <p n="2">De <term ref="#basma">Basina</term>, dove sono i liochorni.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte del regniame de <term ref="#felech">Ferlech</term>, el entra nel regniame de Besaron, lo qual à lenguazio proprio, e nonn à la zente della contrà leze se non chome bestie.
@@ -2541,7 +2537,7 @@
                e fa-le sechare; e po’ le mandano per lo mondo a vendere. </seg><seg n="8"> E fano chreder a molti homeni ch’ele siano homeni chusì pizoli. </seg><seg n="9"> Ancora in questo regniame è molti astori negri chome chorvi, e sono molto grandi
                e oxelano molto bene.</seg></p>
       </div>
-  <div n="130"><head>130</head>
+  <div n="130" type="chapter" xml:id="va-null-130"><head><seg xml:id="-titolo">130</seg><seg xml:id="va-null-130-titolo" /></head>
          <p n="1">CXXX</p>
          <p n="2">De <term ref="#samara">Samara</term>, dove se fa el vin d’arbori.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de <term ref="#basma">Bosaran</term>, el truova el regniame de <term ref="#samara">Samara</term>, ch’è in questa medexima ixolla, in la qual contrada io, Marcho, demorai zinque mexi,
@@ -2555,7 +2551,7 @@
                sta uno pocho e lle rame zetano chomo da prima. </seg><seg n="8"> I uxano quel ligore in luogo de vino, et è molto bon et àno-nde asai, e nge n’è
                de biancho et de vermeglio, ch’el par pur vino. </seg><seg n="9"> In questa chontrà è asai <term ref="#noci-dindia">noxe d’India</term> grosse et anchor molto bone.</seg></p>
       </div>
-  <div n="131"><head>131</head>
+  <div n="131" type="chapter" xml:id="va-null-131"><head><seg xml:id="-titolo">131</seg><seg xml:id="va-null-131-titolo" /></head>
          <p n="1">CXXXI</p>
          <p n="2">Del regniame de <term ref="#dragoian">‹Da›groian</term>, ove s’alzide l’infermi.</p>
          <p n="3"><seg n="1"> L’altro regniame de questa ixolla à nome <term ref="#dragoian">Dagroian</term>. </seg><seg n="2"> La zente àno el suo re, à el suo lenguazio et è <term ref="#idolatri">idolatra</term> e salvadega zente.</seg></p>
@@ -2570,7 +2566,7 @@
                </seg><seg n="8"> Quando quelli de questa contrà prendeno alchun homo che non sia de sua chontrà,
                ello non se può rechonprar per moneda, ma egli el manzano.</seg></p>
       </div>
-  <div n="132"><head>132</head>
+  <div n="132" type="chapter" xml:id="va-null-132"><head><seg xml:id="-titolo">132</seg><seg xml:id="va-null-132-titolo" /></head>
          <p n="1">CXXXII</p>
          <p n="2">Del regniame de <term ref="#lambri">Lanbri</term>, ove i omeni à corne.</p>
          <p n="3"><seg n="1"> <term ref="#lambri">La‹n›bri</term> è un altro regniame de questa ixolla, là o’ fì berzi e chanfora e altre spezie in
@@ -2580,7 +2576,7 @@
                homeni, che non abitano ala zitade ma demorano alle montagnie, che i àno chorni grandi
                chome uno palmo e gross[i] chome chode de’ chani. </seg><seg n="6"> In questa contrà è alichorni e altre bestie assai.</seg></p>
       </div>
-  <div n="133"><head>133</head>
+  <div n="133" type="chapter" xml:id="va-null-133"><head><seg xml:id="-titolo">133</seg><seg xml:id="va-null-133-titolo" /></head>
          <p n="1">CXXXIII</p>
          <p n="2">Del regniame de <term ref="#fanfur">Fanfar</term>, ov’è i arbori che fa farina.</p>
          <p n="3"><seg n="1"> Lo sexsto regniame de questa ixolla à nome <term ref="#fanfur">*Fanfur</term>. </seg><seg n="2"> El ge nasie la mior ganfora che se truova là; ella se vende altratanto ‹chome›
@@ -2590,14 +2586,14 @@
                boni, e io, Marcho, ne manzì piuxor fiade. </seg><seg n="5"> De altri do regniami de questa ixola non ve conterò niente, perché io non ge fu’
                mai.</seg></p>
       </div>
-  <div n="134"><head>134</head>
+  <div n="134" type="chapter" xml:id="va-null-134"><head><seg xml:id="-titolo">134</seg><seg xml:id="va-null-134-titolo" /></head>
          <p n="1">CXXXIV</p>
          <p n="2">Del’ixola de <term ref="#nocueran">Nechuveran</term>, ove i omeni va nudi.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte del’ixola de <term ref="#giava">Iava</term> e del regniame de <term ref="#lambri">Lanbri</term> e ’l va zento e zinquanta meglia per tramontana, el truova do ixolle, l’una à nome
                <term ref="#nocueran">Nechu‹ve›ran</term> e l’altra <term ref="#angaman">Angama</term>. </seg><seg n="2"> La zente de <term ref="#nocueran">Nagiveran</term> non à re, ma viveno chome bestie et sono tuti nudi, mascholli e femene, e non se
                chuovreno de cossa niuna, et sono <term ref="#idolatri">idolatri</term>. </seg><seg n="3"> E àno boschi de sandoi vermegli et de <term ref="#noci-dindia">noxie d’India</term>; et à garofali, e ’d’è berzi, et ’d’è molte altre bone spezie.</seg></p>
       </div>
-  <div n="135"><head>135</head>
+  <div n="135" type="chapter" xml:id="va-null-135"><head><seg xml:id="-titolo">135</seg><seg xml:id="va-null-135-titolo" /></head>
          <p n="1">CXXXV</p>
          <p n="2">Del’ixolla de <term ref="#angaman">Ogriman</term>, ove i omeni àno el vixo de chani.</p>
          <p n="3"><seg n="1"> <term ref="#angaman">Ongaman</term> è l’altra ixolla ben granda. </seg><seg n="2"> La zente è <term ref="#idolatri">idolatra</term> e viveno quaxi chome bestie salvatiche, e viveno de late et de rixo e manzano ogni
@@ -2605,7 +2601,7 @@
                e àno denti e ochi semeianti ai chani. </seg><seg n="5"> El g’è abondanzia de tute cosse et de spezie, e ’l ge n’è molti fruti devixati
                dai nostri.</seg></p>
       </div>
-  <div n="136"><head>136</head>
+  <div n="136" type="chapter" xml:id="va-null-136"><head><seg xml:id="-titolo">136</seg><seg xml:id="va-null-136-titolo" /></head>
          <p n="1">CXXXVI</p>
          <p n="2">Del’ixolla de <term ref="#zeilan">Stinan</term>, ove nasie i rubini.</p>
          <p n="3">|61v| <seg n="1"> Quando l’omo se parte del’ixola de <term ref="#angaman">Angaman</term> e ’l va per ponente zercha mille meglia, alguna cossa verso garbin, el truova l’ixolla
@@ -2627,7 +2623,7 @@
                valsente de una zità. </seg><seg n="13"> Lo re rispoxe ch’el non i la darìa per cossa del mondo, ché l’era sta’ de’ suo’
                antezesori.</seg></p>
       </div>
-  <div n="137"><head>137</head>
+  <div n="137" type="chapter" xml:id="va-null-137"><head><seg xml:id="-titolo">137</seg><seg xml:id="va-null-137-titolo" /></head>
          <p n="1">CXXXVII</p>
          <p n="2">Della provinzia de <term ref="#malabar">Maabar</term>, ove se truova perlle in grande quantità.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte del’ixolla de <term ref="#zeilan">Selilan</term>, andando per ponente zercha sesanta meglia, el truova la gran provinzia de <term ref="#malabar">Maabar</term>, la qual è apelata <term ref="#india">India Mazor</term>: questa è la mazior <term ref="#india">India</term> che sia, ed è teraferma. </seg><seg n="2"> In questa provinzia è zinque re che sono fradelli charnali. </seg><seg n="3"> Questa è la plui nobelle e la plui richa provinzia del mondo. </seg><seg n="4"> Innel comenzar de questa provinzia è uno re che à nome <term ref="#senderbandi">Senderba</term>, |62r| e è apelato <term ref="#senderbandi">Re Devar</term>. </seg><seg n="5"> In questo regniame se truova perlle asai, molto grosse, bone e belle, e ve dirò
@@ -2712,7 +2708,7 @@
                quella è chusì fata chome le nostre. </seg><seg n="56"> El ge n’è astori tuti negri chome chorvi, et sono megliori cha i nostri e oxella
                tropo ben. </seg><seg n="57"> El ge n’è balbastreli grandi chomo astori, i quali volano pur de note.</seg></p>
       </div>
-  <div n="138"><head>138</head>
+  <div n="138" type="chapter" xml:id="va-null-138"><head><seg xml:id="-titolo">138</seg><seg xml:id="va-null-138-titolo" /></head>
          <p n="1">CXXXVIII</p>
          <p n="2">Del regniame de <term ref="#murphili">Mirsuli</term>, ove se truova i diamanti.</p>
          <p n="3"><seg n="1"> <term ref="#murphili">Morfili</term> è uno regniame che truova l’omo quando el se parte de <term ref="#malabar">Maabar</term>, andando per tramontana zercha mille meia. </seg><seg n="2"> La zente de questo regniame è <term ref="#idolatri">idolatra</term> e non rende trabuto a niuno, e viveno de charne, de llate et de rixo. </seg><seg n="3"> In questo regniame è montagniuole asai, e lì se truova i diamanti quando el piove.
@@ -2733,7 +2729,7 @@
          <p n="4"><seg n="16"> In questa contrà se fa el plui bello e plui sotil e plui delichato bocharano
                che sse faza in tuto l’altro mondo. </seg><seg n="17"> El ge n’è molte bestie e li mazior moltoni che siano al mondo. </seg><seg n="18"> De quelle chosse che i viveno n’è in grande abondanzia in quella chontrada.</seg></p>
       </div>
-  <div n="139"><head>139</head>
+  <div n="139" type="chapter" xml:id="va-null-139"><head><seg xml:id="-titolo">139</seg><seg xml:id="va-null-139-titolo" /></head>
          <p n="1">CXXXIX</p>
          <p n="2">Del corpo de misier <term ref="#san-tommaso">san Tomaxio</term>.</p>
          <p n="3"><seg n="1"> El corpo de misier <term ref="#san-tommaso">san Tomaxio</term> apostollo è in la provinzia de <term ref="#malabar">Maabar</term>, ‹in› una pizolla zità ala qual vano pochi merchadanti perché ’la nonn è in bon luogo
@@ -2758,7 +2754,7 @@
                da pe’ liga ai suo’ chavelli. </seg><seg n="18"> E dixeno che ’l bò è sì santa cossa che chi à de quel pello non i può incontrar
                pericolo niuno. </seg><seg n="19"> E per questa caxion quel pello è molto charo in quella chontrà.</seg></p>
       </div>
-  <div n="140"><head>140</head>
+  <div n="140" type="chapter" xml:id="va-null-140"><head><seg xml:id="-titolo">140</seg><seg xml:id="va-null-140-titolo" /></head>
          <p n="1">CXL</p>
          <p n="2">Del regniame de <term ref="#lac">Lier</term>, dove la zente non dixe boxie.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de quella contrà in la qual è el corpo de <term ref="#san-tommaso">san Tomaxio</term> e ’l va verso ponente, el truova una provinzia ch’è apellata <term ref="#lac">Lier</term>. </seg><seg n="2"> In questa contrà ‹è› i abraiani, li quali è plui veritevole zente che sia al mondo:
@@ -2781,7 +2777,7 @@
                pechato. </seg><seg n="18"> I non farave niuna cossa che fosse pechato sechondo soa lezie per cossa del mondo.
                </seg><seg n="19"> I dormeno nudi sula tera e fano arder tuti i corpi morti.</seg></p>
       </div>
-  <div n="141"><head>141</head>
+  <div n="141" type="chapter" xml:id="va-null-141"><head><seg xml:id="-titolo">141</seg><seg xml:id="va-null-141-titolo" /></head>
          <p n="1">CXLI</p>
          <p n="2">De <term ref="#coulam">Coilon</term>, dove è molto endego.</p>
          <p n="3"><seg n="1"> <term ref="#coulam">Coillun</term> è uno regniame che l’omo truova partando-sse da <term ref="#malabar">Maabar</term> e andando verso garbin zinquezento meglia. </seg><seg n="2"> El ge n’è cristiani, zudei, <term ref="#idolatri">idolatri</term> asai. </seg><seg n="3"> I àno lenguazio proprio. </seg><seg n="4"> Lo re de <term ref="#coulam">Choillun</term> non fa trabuto a niun.</seg></p>
@@ -2802,7 +2798,7 @@
                d’uno bel drapo. </seg><seg n="19"> I sono luxurioxa zente; i tolleno per moglier le chuxine e lle maregnie e lle
                chugniade dapoi la morte d’i maridi. </seg><seg n="20"> E questo se observa per tuta <term ref="#india">India</term>.</seg></p>
       </div>
-  <div n="142"><head>142</head>
+  <div n="142" type="chapter" xml:id="va-null-142"><head><seg xml:id="-titolo">142</seg><seg xml:id="va-null-142-titolo" /></head>
          <p n="1">CXLII</p>
          <p n="2">De <term ref="#cumari">Comari</term>, ove è simie che par homeni.</p>
          <p n="3"><seg n="1"> <term ref="#cumari">Comari</term> è una chontrà d’India dela qual se pò veder alchuna cossa della stella tramontana,
@@ -2810,7 +2806,7 @@
                l’è uno brazo. </seg><seg n="3"> E questa contrà è molto salvadega. </seg><seg n="4"> El ge n’è bestie molto stranie, e spizialmente simie che par pur homeni; el g’è
                chati paosani molto stranii; el ge n’è lioni e lionpardi e onze assai.</seg></p>
       </div>
-  <div n="143"><head>143</head>
+  <div n="143" type="chapter" xml:id="va-null-143"><head><seg xml:id="-titolo">143</seg><seg xml:id="va-null-143-titolo" /></head>
          <p n="1">CXLIII</p>
          <p n="2">De <term ref="#dely">Lila</term>, ove i merchadanti non olsa arivar per mal tenpo.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de <term ref="#cumari">Chomari</term> e ’l va verso ponente zircha trexento meglia, el truova el regniame de Li. </seg><seg n="2"> La zente è <term ref="#idolatri">idolatra</term> e à lenguazio proprio. </seg><seg n="3"> E àno re ch’è molto richo de texoro ma nonn è possente de zente, ma la contrà
@@ -2821,7 +2817,7 @@
                nave: «Vui portavi questa vostra merchadantia ad altre contrade, ma el nostro dio
                e lla nostra bona ventura v’à mandadi a nui chon questa roba». </seg><seg n="6"> Questo se fa per tuta questa contrà. </seg><seg n="7"> El ge n’è lioni e altre fiere bestie in gran quantità.</seg></p>
       </div>
-  <div n="144"><head>144</head>
+  <div n="144" type="chapter" xml:id="va-null-144"><head><seg xml:id="-titolo">144</seg><seg xml:id="va-null-144-titolo" /></head>
          <p n="1">CXLIV</p>
          <p n="2">Del <term ref="#malabar">Melibar</term>, ove sono chotanti chorsari de mare.</p>
          <p n="3"><seg n="1"> <term ref="#malabar">Mellibar</term> è uno grandenisimo regniame de <term ref="#india">India Mazior</term> et è verso ponente; e à re e llenguazio proprio, e non fa trabuto ‹ad› altro. </seg><seg n="2"> La zente è <term ref="#idolatri">idollatra</term>. </seg><seg n="3"> De questo regniame par la stella tramontana alta sopra aqua ben doa passa. </seg><seg n="4"> In questo regniame e in quel de <term ref="#guzzerat">Gonzurach</term>, ch’è à pe’ de questo, g’è ziaschadun ano plui de zento nave de corsari che vano
@@ -2835,7 +2831,7 @@
          <p n="4">[9] In questa contrà è grandenisima quantità de piper et de zenzero, et de turbiti
             et de <term ref="#noci-dindia">noxe d’India</term>. <seg n="10"> El se ge lavora bocharano belletisimo. </seg><seg n="11"> E non ve digo della zità niente, ché tropo serave longa materia.</seg></p>
       </div>
-  <div n="145"><head>145</head>
+  <div n="145" type="chapter" xml:id="va-null-145"><head><seg xml:id="-titolo">145</seg><seg xml:id="va-null-145-titolo" /></head>
          <p n="1">CXLV</p>
          <p n="2">De <term ref="#guzzerat">Gonzarach</term>, ove sono i arbori che fano el <term ref="#bambagio">banbaxio</term>.</p>
          <p n="3"><seg n="1"> <term ref="#guzzerat">Gonzurach</term> è uno altro regniame che à re e lenguazio proprio, et è verso ponente. </seg><seg n="2"> La zente è <term ref="#idolatri">idolatra</term>. </seg><seg n="3"> Da questa contrà par ancora meio la stella tramontana: par ben alta sìe braza.
@@ -2847,7 +2843,7 @@
                dura ben vinti ani, e poi sono vechi e non val più niente. </seg><seg n="9"> El <term ref="#bambagio">banbaxio</term> che fa questi arbori defina dodexe ani è bon da filar, e da lì inanzi nonn è bon
                da filar, ma è bon da far zuponi e per molte altre cosse. </seg><seg n="10"> In questo regniame è molto churame e |67v| lavora-sse molto ben.</seg></p>
       </div>
-  <div n="146"><head>146</head>
+  <div n="146" type="chapter" xml:id="va-null-146"><head><seg xml:id="-titolo">146</seg><seg xml:id="va-null-146-titolo" /></head>
          <p n="1">CXLVI</p>
          <p n="2">Del regniame de <term ref="#canam">Chana</term> e de <term ref="#cambaia">Chanbrach</term> e de Semerach e de <term ref="#chesmacoran">Resmachoran</term>.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte de <term ref="#guzzerat">Gonzurach</term> e va versso ponente per mar, el truova el regniame de <term ref="#canam">Chana</term> e quel de <term ref="#cambaia">Chanbrach</term> e quel de Semarch e quel de <term ref="#chesmacoran">Resmachoran</term>. </seg><seg n="2"> Zaschadun de questi regniami à re e lenguazio per si, e sono tuti del’<term ref="#india">India Mazior</term>. </seg><seg n="3"> In questi regniami se fa de grandisime marchadantie, ma non ge n’è altre cosse
@@ -2855,7 +2851,7 @@
                questa <term ref="#india">India</term>, ma delle provinzie ch’èno infra tera non ve n’ò dito niente perché longo serave
                a dir-ne.</seg></p>
       </div>
-  <div n="147"><head>147</head>
+  <div n="147" type="chapter" xml:id="va-null-147"><head><seg xml:id="-titolo">147</seg><seg xml:id="va-null-147-titolo" /></head>
          <p n="1">CXLVII</p>
          <p n="2">De do ixolle dove in una abita pur homeni senza femene, et in l’altra pur femene.</p>
          <p n="3"><seg n="1"> Se ll’omo se parte de <term ref="#chesmacoran">Resm‹ac›oran</term> e ’l va ben zinquezento mia in alto mar verso mezodì, el truova do ixolle ch’è apresso
@@ -2870,7 +2866,7 @@
                et de llate et de rixo. </seg><seg n="11"> I non àno altra segnioria se non che i àno per signior uno veschovo ch’è sotoposto
                alla chorte del veschovo de <term ref="#soccotera">Schoira</term>.</seg></p>
       </div>
-  <div n="148"><head>148</head>
+  <div n="148" type="chapter" xml:id="va-null-148"><head><seg xml:id="-titolo">148</seg><seg xml:id="va-null-148-titolo" /></head>
          <p n="1">CXLVIII</p>
          <p n="2">De una ixolla de <term ref="#soccotera">Schoira</term>, ove sono pur cristiani.</p>
          <p n="3"><seg n="1"> Quando l’omo se parte da queste ixolle e ’l va verso mezodì zercha zinquezento
@@ -2881,7 +2877,7 @@
                vento, faraveno vegnir per inchantamento uno vento chontrario che la farave tornar
                indriedo. </seg><seg n="9"> Infino, per inchantamento de demonii, fano trar el vento donde i volleno.</seg></p>
       </div>
-  <div n="149"><head>149</head>
+  <div n="149" type="chapter" xml:id="va-null-149"><head><seg xml:id="-titolo">149</seg><seg xml:id="va-null-149-titolo" /></head>
          <p n="1">CXLIX</p>
          <p n="2">Del’ixolla de <term ref="#magastar">Madeigoschar</term>, ove se dixe del’oxello che è chusì grando.</p>
          <p n="3"><seg n="1"> <term ref="#magastar">Madeigoschar</term> è una ixolla versso mezodì e da lonzi da <term ref="#soccotera">Schoira</term> zercha mille meglia. </seg><seg n="2"> Et sono saraini e àno la leze de <term ref="#macometto">Machometo</term>; e àno quatro antixi ch’àno la signioria de tuta l’ixolla. </seg><seg n="3"> Questa ixolla è una delle plui belle et delle mazior che sia al mondo, e dixeno
@@ -2908,7 +2904,7 @@
                contrade, e portàno de quelle cosse al <term ref="#gran-can">Gran Chan</term>, zò fo denti de porcho zengiaro, tra i quali ne era uno che pesava quatordexe livre.
                </seg><seg n="23"> E diseno ch’el ge n’è molti zengiari grandi chome bufali. </seg><seg n="24"> El ge n’è zirafe e asini salvadegi assai e molte bestie devixà dalle nostre.</seg></p>
       </div>
-  <div n="150"><head>150</head>
+  <div n="150" type="chapter" xml:id="va-null-150"><head><seg xml:id="-titolo">150</seg><seg xml:id="va-null-150-titolo" /></head>
          <p n="1">CL</p>
          <p n="2">Del’ixolla de <term ref="#zenzibar">Zanchibar</term>, ove è homeni chusì grandi e forti; et altre cosse.</p>
          <p n="3"><seg n="1"> <term ref="#zenzibar">Zanchibar</term> è una ixolla nobellisima che volze ben doamillia meglia. </seg><seg n="2"> La zente del’ixolla è <term ref="#idolatri">idolatra</term> e à re e llenguazio proprio. </seg><seg n="3"> Et è tuti grandi e grossi, ma non sono chussì alti chomo rechiere la groseza,
@@ -2934,7 +2930,7 @@
                a quelle delle qual ò dito. </seg><seg n="23"> E sapiate veramente che in questo <term ref="#mare-dindia">Mar d’India</term> è ben dodexemilia et setezento ixolle, dentro abitade e non abitade, segondo che
                mostra el chonpasso e lle scriture d’i boni marinari che uxano quel mar. </seg><seg n="24"> Dapoi che ò dito de <term ref="#india">India Mazor</term>, che dura dala provinzia de <term ref="#malabar">Maabar</term> defina a <term ref="#chesmacoran">Rischomorchoran</term>, et della Menor, che dura de Zinba fina <term ref="#murphili">Anruessil</term>, ora ve voio contar d’<term ref="#india">India Mezana</term>, ch’è apellata <term ref="#abascia">Albaxia</term>.</seg></p>
       </div>
-  <div n="151"><head>151</head>
+  <div n="151" type="chapter" xml:id="va-null-151"><head><seg xml:id="-titolo">151</seg><seg xml:id="va-null-151-titolo" /></head>
          <p n="1">CLI</p>
          <p n="2">De <term ref="#abascia">Albaxia</term>, ove el re manda el veschovo al sepulchro de misier Iesu Cristo.</p>
          <p n="3"><seg n="1"> <term ref="#abascia">Albaxia</term> è una grandenisima provinzia ch’è apellata <term ref="#india">India Mezana</term>. </seg><seg n="2"> El mazior re de questa provinzia |69v| è cristiano; tuti i altri re de questa
@@ -2974,7 +2970,7 @@
                e simie asai de piuxor guixe, et ’d’è grande venaxion de bestie et d’oxeli. </seg><seg n="22"> In questa provinzia è molte zitade e chastelle, e fa-sene grande merchadantie;
                e fa-sene molti bocharani e molti altri drapi de <term ref="#bambagio">banbaxio</term>.</seg></p>
       </div>
-  <div n="152"><head>152</head>
+  <div n="152" type="chapter" xml:id="va-null-152"><head><seg xml:id="-titolo">152</seg><seg xml:id="va-null-152-titolo" /></head>
          <p n="1">CLII</p>
          <p n="2">Della provinzia de <term ref="#adem">Aden</term>, ove i dàno a manzar ale suo’ biestie el pessie.</p>
          <p n="3"><seg n="1"> La provinzia de <term ref="#adem">Aden</term> à uno re ch’è apellato <term ref="#soldan">soldan</term>. </seg><seg n="2"> La zente de questa provinzia sono tuti saraini e àno in gran odio i cristiani.
@@ -3002,7 +2998,7 @@
                menudo e inpasta-lo insieme e fano pan |71r| de pesie anchora d’i bischoti, e fa-lo
                sechar al solle e ’l se chonserva posa tuto l’ano.</seg></p>
       </div>
-  <div n="153"><head>153</head>
+  <div n="153" type="chapter" xml:id="va-null-153"><head><seg xml:id="-titolo">153</seg><seg xml:id="va-null-153-titolo" /></head>
          <p n="1">CLIII</p>
          <p n="2">Della chondizion della chorte che èno verso tramontana, là o’ tirano i chani le tra[z]e.</p>
          <p n="3"><seg n="1"> Dito della condizion d’<term ref="#india">India</term> et della provinzia de <term ref="#adem">Aden</term>, che confina con <term ref="#india">India Mezana</term>, mo’ ve voio tornar a contar delle contrade versso tramontana, et sono tere de’ <term ref="#tartari">Tartari</term>. </seg><seg n="2"> E llà abita gran zente tartarescha verso tramontana che à uno so re della chaxa
@@ -3038,7 +3034,7 @@
                traza e chani. </seg><seg n="26"> E queste poste è albergi per albergar quelli che vano e pasano per quella contrà.
                </seg><seg n="27"> El g’è tropo gran fredura.</seg></p>
       </div>
-  <div n="154"><head>154</head>
+  <div n="154" type="chapter" xml:id="va-null-154"><head><seg xml:id="-titolo">154</seg><seg xml:id="va-null-154-titolo" /></head>
          <p n="1">CLIV</p>
          <p n="2">Della <term ref="#regione-delle-tenebre">Oschurità</term>, dove non àno mai la luxe del sol.</p>
          <p n="3"><seg n="1"> Alle confine de questo regniame de <term ref="#tartari">Tartari</term> ch’è dito de sopra, è una contrà ch’è apellata la <term ref="#regione-delle-tenebre">Oschurità</term>, perché de tuto el tenpo dell’ano ge n’è oschurità al muodo che nui avemo in ’ste
@@ -3050,7 +3046,7 @@
                andar le chavalle, et elle sano tropo ben tornar dove è i figlioli. </seg><seg n="8"> E a questo modo se ne tornano fuora della <term ref="#regione-delle-tenebre">Oschurità</term> e torna in suo’ chontrà. </seg><seg n="9"> I omeni de questo luogo prende molte bestiolle, delle qual i fano molto gran guadagnio
                delle pelle. </seg><seg n="10"> La gran Rosia confina siego, però ve ne dirò.</seg></p>
       </div>
-  <div n="155"><head>155</head>
+  <div n="155" type="chapter" xml:id="va-null-155"><head><seg xml:id="-titolo">155</seg><seg xml:id="va-null-155-titolo" /></head>
          <p n="1">CLV</p>
          <p n="2">De <term ref="#rossia">Rosia</term>, che è la dredana provinzia de questo libro.</p>
          <p n="3"><seg n="1"> <term ref="#rossia">Rossia</term> è una gran provinzia verso tramontana. </seg><seg n="2"> La zente sono cristiani e àno el modo grixescho in fati della giexia, e sono molto

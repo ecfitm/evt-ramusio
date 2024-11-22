@@ -1,7 +1,7 @@
 import os
 import re
 import sys
-
+import xml.etree.ElementTree as ET
 
 def add_xml_declaration(file_path):
     xml_declaration = '<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -31,6 +31,47 @@ def remove_seg_pattern(file_path):
             file.write(new_content)
         print(f"Removed pattern from {file_path}")
 
+def add_chapter_type_and_wrap_head(file_path):
+    # Parse the XML file
+    ET.register_namespace('', "http://www.tei-c.org/ns/1.0")
+    tree = ET.parse(file_path)
+    root = tree.getroot()
+
+    namespace = {"tei": "http://www.tei-c.org/ns/1.0"}
+
+    # Find all <div> elements
+    for div in root.findall(".//tei:div", namespace):
+        # Ensure type="chapter" attribute
+        div.set("type", "chapter")
+
+        # Add xml:id="r-i-<n>" attribute based on the n attribute
+        n_value = div.get("n", "")
+        if n_value:
+            # div.set("{http://www.w3.org/XML/1998/namespace}id", f"r-i-{n_value}")
+            # div.set("{http://www.w3.org/XML/1998/namespace}id", f"f-null-{n_value}")
+            # div.set("{http://www.w3.org/XML/1998/namespace}id", f"l-null-{n_value}")
+            # div.set("{http://www.w3.org/XML/1998/namespace}id", f"z-null-{n_value}")
+            div.set("{http://www.w3.org/XML/1998/namespace}id", f"p-i-{n_value}")
+
+        # Process the <head> inside the <div>
+        head = div.find("tei:head", namespace)
+        if head is not None:
+            # Wrap head's content in a <seg> with xml:id = div's id + "-titolo"
+            div_id = div.get("{http://www.w3.org/XML/1998/namespace}id", "")
+            seg_id = f"{div_id}-titolo"
+            seg = ET.Element(f"{{{namespace['tei']}}}seg", attrib={"xml:id": seg_id})
+
+            # Move head's content into the <seg>
+            if head.text:
+                seg.text = head.text
+                head.text = None
+
+            # Insert the <seg> into <head>
+            head.append(seg)
+
+    # Write back to the file
+    tree.write(file_path, encoding="utf-8", xml_declaration=True)
+    print(f"Processed <div> elements in {file_path}")
 
 def process_xml_files(folder_path):
     # Check if folder path exists
@@ -42,11 +83,11 @@ def process_xml_files(folder_path):
     for filename in os.listdir(folder_path):
         if filename.endswith(".xml"):
             file_path = os.path.join(folder_path, filename)
-
+            add_chapter_type_and_wrap_head(file_path)
             # Apply both functions to each file
             # add_xml_declaration(file_path)
-            remove_seg_pattern(file_path)
-
+            # remove_seg_pattern(file_path)
+            
 def create_combined_tei_file(folder_path, output_file):
     # XML template for the header of the new TEI file
     header = """<?xml version="1.0" encoding="UTF-8"?>
@@ -97,6 +138,9 @@ def create_combined_tei_file(folder_path, output_file):
                     modified_match = re.sub(r'from="[^"]+"', f'from="#{file_base}"', match)
                     collected_apps.append(modified_match)
 
+    # Sort apps to place those ending with "-titolo" first
+    collected_apps.sort(key=lambda x: (("-titolo" not in x), x))
+
     # Write the new TEI file
     with open(output_file, "w", encoding="utf-8") as output:
         output.write(header)
@@ -110,5 +154,5 @@ if __name__ == "__main__":
         print("Usage: python script.py <folder_path>")
     else:
         folder_path = sys.argv[1]
-        # process_xml_files(folder_path)
-        create_combined_tei_file(folder_path, "apparati_RAM.xml")
+        process_xml_files(folder_path)
+        # create_combined_tei_file(folder_path, "apparati_RAM.xml")

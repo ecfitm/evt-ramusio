@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
            <fileDesc>
               <titleStmt>
-                 <title></title>
+                 <title />
                  <respStmt>
-                    <resp/>
-                    <name/>
+                    <resp />
+                    <name />
                  </respStmt>
               </titleStmt>
               <publicationStmt>
-                 <p></p>
+                 <p />
               </publicationStmt>
               <sourceDesc>
-                 <p></p>
+                 <p />
               </sourceDesc>
            </fileDesc>
         </teiHeader>
         <text><body xml:id="vb_body">
-  <div n="0">
+  <div n="0" type="chapter" xml:id="vb-null-0">
          <p n="1">Meser Marco Polo, La so lezenda. </p>
       </div>
-  <div n="1"><head>1</head>
+  <div n="1" type="chapter" xml:id="vb-null-1"><head><seg xml:id="-titolo">1</seg><seg xml:id="vb-null-1-titolo" /></head>
          <p n="1">I</p>
          <p n="2">|229r| <seg n="1"> ‹Q›uegli che desiderano de intendere le merav‹e›gioxe chose dela grande <term ref="#armenia">Armenia</term>, <term ref="#persia">Persia</term> et Tartaria, dele <term ref="#india">Indie</term> et diversse parte al mondo, legano questo libro et intenderano quello che ’l nobelle
                citadino veneciano miser Marcho Pollo, avendo cerchato tute le dete provincie, volse
@@ -40,7 +36,7 @@
                dela chosa chome per el deto miser Marcho nele prixon de Genova fu notate e scrite
                nei anni del nostro Segnore miser Ihesu Cristo .MIIcLXXXVIII.</seg></p>
       </div>
-  <div n="2"><head>2</head>
+  <div n="2" type="chapter" xml:id="vb-null-2"><head><seg xml:id="-titolo">2</seg><seg xml:id="vb-null-2-titolo" /></head>
          <p n="1">II</p>
          <p n="2"><seg n="1"> ‹N›el tenpo che <term ref="#balduino">Balduino</term> era inperadore de <term ref="#constantinopoli">Chostantinopolli</term> nel .MIIcL., do nobel citadini ven‹e›ciani, çoè miser Mafio e miser Nicholò Polo fradelli,
                chapitòno nel dito luogo de <term ref="#constantinopoli">Chostantinopolli</term> con le loro marchadantie; et erano homeni sapientissimi e schaltridi. </seg><seg n="2"> Deliberòno de andare con le lor marchadantie in <term ref="#mar-maggiore">Mar Maçore</term> per vadagnare, e con quelle montòno sopra una nave et chapitòno in <term ref="#soldadia">Saldadia</term>; e quivi dimoradi per alcun tenpo, deliberòno pasar più oltra et arivar nel’Arminia. </seg><seg n="3"> Mesese a chamino, et dapo’ molte çornate chapitòno a <term ref="#assara">Satain</term>, nel qual luogo era <term ref="#barcha">Abarchachan</term> segnore d’una parte dela Tartaria; el qual segnore, avendo intexo dela venuta dei
@@ -59,7 +55,7 @@
                et chontento intender da vvui dele nove et condiciun delle contrade vostre, però ch’el
                è segnore de grandissima possança et mollto desideroso de aldir cose nove». </seg></p>
       </div>
-  <div n="3"><head>3</head>
+  <div n="3" type="chapter" xml:id="vb-null-3"><head><seg xml:id="-titolo">3</seg><seg xml:id="vb-null-3-titolo" /></head>
          <p n="1">III</p>
          <p n="2">|229v| <seg n="1"> ‹U›dito ebeno i do fratelli i anbasatori del <term ref="#gran-can">Segnore</term>, chome omeni de grande animo non aprixiendo el longo chamino avevano a ffare, delliberòno
                andar con ‹i› diti abanssadori ala prexencia del Gran Segnor di <term ref="#tartari">Tartari</term>. </seg><seg n="2"> E messi con quegli a chamino per uno anno di g‹i›ornate senpre per tramontana
@@ -67,7 +63,7 @@
                non ve firà narade ma sí nel processo di questo libro, per la veduta de miser Marcho
                Pollo, figiuollo de miser Nicholò Polo sopra dito.</seg></p>
       </div>
-  <div n="4"><head>4</head>
+  <div n="4" type="chapter" xml:id="vb-null-4"><head><seg xml:id="-titolo">4</seg><seg xml:id="vb-null-4-titolo" /></head>
          <p n="1">IV</p>
          <p n="2"><seg n="1"> ‹G›ionto funo i diti do fratelli alla presencia del Gran Segnor di <term ref="#tartari">Tartari</term>, da quello i fono receuti onorevellemente e visti volentieri, però che nei suo’ çorni
                in quelle parte homeni da ponente non era stati, diletendose con quegli de intendere
@@ -97,7 +93,7 @@
                che scrise questo libro chome indriedo se dirà. </seg><seg n="12"> I qual do fratelli steteno do ani in Veniexia aspetando la elleciun de nuovo
                Papa. </seg><seg n="13"> Nel qual tenpo miser Nicholò sì tolse moier e sì la lasò graveda.</seg></p>
       </div>
-  <div n="5"><head>5</head>
+  <div n="5" type="chapter" xml:id="vb-null-5"><head><seg xml:id="-titolo">5</seg><seg xml:id="vb-null-5-titolo" /></head>
          <p n="1">V</p>
          <p n="2"><seg n="1"> ‹E›sendo stato i do fratelli a Venexia do ani e vedendo che papa non se faxea,
                parendo a quelli star tropo, deliberòno ritornar al <term ref="#gran-can">Gran Chan</term>. </seg><seg n="2"> Partìse de Venexia e menò con loro Marcho so fiollo; e ritornò in <term ref="#acre">Achre</term> dove i retrovòno miser Tibaldo sopra dito, al qual i disseno la deliberacion i aveano fatto di ritornar al so segnore,
@@ -106,7 +102,7 @@
                subito el re de <term ref="#armenia">Armenia</term> fece armar una gallea sopra la qual montòno i do fratelli; e con quella aconpagnati
                orevellemente çonseno in <term ref="#acre">Acre</term>.</seg></p>
       </div>
-  <div n="6"><head>6</head>
+  <div n="6" type="chapter" xml:id="vb-null-6"><head><seg xml:id="-titolo">6</seg><seg xml:id="vb-null-6-titolo" /></head>
          <p n="1">VI</p>
          <p n="2"><seg n="1"> ‹G›ionti i do fratelli in <term ref="#acre">Acre</term> i sse apressentòno con grandissima leticia al Papa, el qual tanto alliegramente i
                veteno ‹et› con tanta umanità i recevete quanto più se potria, sperendo per questa
@@ -118,7 +114,7 @@
                potea più olltra andare, per che i diti do frati predichatori deliberòno in <term ref="#acre">Acre</term> tornare. </seg><seg n="5"> Et date tutte scripture ai do fratelli, aconpagnati con el maistro del Tenpio
                per via di mare in <term ref="#acre">Acri</term> ritornòno. </seg></p>
       </div>
-  <div n="7"><head>7</head>
+  <div n="7" type="chapter" xml:id="vb-null-7"><head><seg xml:id="-titolo">7</seg><seg xml:id="vb-null-7-titolo" /></head>
          <p n="1">VII</p>
          <p n="2"><seg n="1"> ‹D›apoi non molto tenpo misser Nichollò e miser Mafio con Marcho so fiollo non
                con picolo pericollo se meseno a camino. </seg><seg n="2"> Et chaminando e l’inverno e l’instatte, con grandissime neve, giaçi e fredi e
@@ -128,7 +124,7 @@
                grandissimi fredi aveano molto longato et inpedito el chamino loro –, nel qual chamino
                trovòno e veteno molte diverse e nobel chosse che nel proceso de questo libro se descriverano.</seg></p>
       </div>
-  <div n="8"><head>8</head>
+  <div n="8" type="chapter" xml:id="vb-null-8"><head><seg xml:id="-titolo">8</seg><seg xml:id="vb-null-8-titolo" /></head>
          <p n="1">VIII</p>
          <p n="2"><seg n="1"> ‹G›ionto i nobel fratelli alla prexencia dil <term ref="#gran-can">Gran Chane</term> et apresenta‹to›ge le lletere dil Papa et esposto l’inbassata, rechontòge molto ornatamente
                et chon gra‹n›de ordene quanto nel viagio loro i aveano seguito. </seg><seg n="2"> Fono ascholtati dal <term ref="#gran-can">Segnore</term> e da tuti baroni con grande e longo silencio, molto meraveiati dile grande e longe
@@ -166,7 +162,7 @@
                per poter tuto al suo <term ref="#gran-can">Segnore</term> narare. </seg><seg n="14"> Donde avene che niuno mai fu che più paexi de miser Pollo vedese né più diversse
                chose avesse quelle intexe et aldite.</seg></p>
       </div>
-  <div n="9"><head>9</head>
+  <div n="9" type="chapter" xml:id="vb-null-9"><head><seg xml:id="-titolo">9</seg><seg xml:id="vb-null-9-titolo" /></head>
          <p n="1">IX</p>
          <p n="2"><seg n="1"> ‹E›ssendo stati miser Nicholò miser Mafio e miser Marcho el tenpo aveti aldito,
                deliberòno de lì partirsse per tornare a ponente. </seg><seg n="2"> Et deliberòno domandare licencia al <term ref="#gran-can">Segnor Gran Chane</term>, el qual <term ref="#gran-can">Segnore</term>, amando quelli, più fiate il la denegò, né volea da loro i sse partiseno. </seg><seg n="3"> Ochorsse che la raina <term ref="#bolgara">Bolgara</term> moier del re <term ref="#argon">Argon</term> morite; né voiendo quel re prender altra moier che del sangue dela raina <term ref="#bolgara">Bolgara</term> morta – chome par el re a quella raina avea promeso – mandò tre suo’ anbasatori al
@@ -175,7 +171,7 @@
                e passato per la provincia del Re <term ref="#argon">Argon</term>, i tre anbassatori e per simel la regina pregòno el <term ref="#gran-can">Segnor Gran Chan</term> i conçedesse che i tre Latini andasseno con lloro et tanto fu l’instancia de quegli
                e lla solicitude dei tre Latini che el <term ref="#gran-can">Segnore</term> licencia i concedete.</seg></p>
       </div>
-  <div n="10"><head>10</head>
+  <div n="10" type="chapter" xml:id="vb-null-10"><head><seg xml:id="-titolo">10</seg><seg xml:id="vb-null-10-titolo" /></head>
          <p n="1">X</p>
          <p n="2"><seg n="1"> ‹A›par‹e›chiato la dona per andare al re Ragon, i tre nobele Latini se apresentòno al segnore suo <term ref="#gran-can">Gran Chane</term> per prender da quello conbiato, ai qualli quel <term ref="#gran-can">Segnore</term> i fece dar do tavolle d’oro de franchisia per tuto el suo paexe, e che per tuto el
                suo paexe i fosseno fate le spese a lloro et a tutta la lor fameia. </seg><seg n="2"> Apreso i chomese molte chose per parte soa al Papa et ad alltri segnori da ponente
@@ -191,7 +187,7 @@
                in quegli paexi, se partìno di Ragon e, per longe çornate chaminando, molte provincie et tere cerchòno dele qual più avanti
                se dirà. </seg><seg n="9"> Finaliter çonseno salvi in <term ref="#trabesonda">Trabesonda</term> et de lì a <term ref="#constantinopoli">Costantinopoli</term> e poi a <term ref="#negroponte">Negroponte</term>, e salvi dapo’ longe fatiche et afani çonseno a Venexia.</seg></p>
       </div>
-  <div n="11"><head>11</head>
+  <div n="11" type="chapter" xml:id="vb-null-11"><head><seg xml:id="-titolo">11</seg><seg xml:id="vb-null-11-titolo" /></head>
          <p n="1">XI</p>
          <p n="2"><seg n="1"> ‹P›er dare principio a narare dele provincie io Marcho Polo ò viste nel’Asia e
                dele chosse ‹de›gne de farne noticia ò ritrovate in quelle, dicho che el son do <term ref="#armenia">Armenie</term>: l’una se chiama l’<term ref="#armenia">Armenia Grande</term>, l’altra l’<term ref="#armenia">Armenia Pichola</term>. </seg><seg n="2"> De l’<term ref="#armenia">Armenia Pichola</term> sì è un re el qual abita in una çitade nominata <term ref="#sevasta">Savasto</term>: è segnore de iusticia et è sotoposto al <term ref="#gran-can">Gran Chan</term> tartaro; et à molte citade et chastelli soto de si, et è abondante de tuti beni.
@@ -204,7 +200,7 @@
                de marchadantie. </seg><seg n="9"> Lì se lavora de nobellissimi tapedi e pani de seda e de oro richi et belli; àno
                molto citade et chastelli soto si.</seg></p>
       </div>
-  <div n="12"><head>12</head>
+  <div n="12" type="chapter" xml:id="vb-null-12"><head><seg xml:id="-titolo">12</seg><seg xml:id="vb-null-12-titolo" /></head>
          <p n="1">XII</p>
          <p n="2"><seg n="1"> ‹L›’<term ref="#armenia">Armenia Grande</term> è gran provincia, e principia a una citade che se chiama <term ref="#arcingan">Arcinga</term>: fase lì finissimi bocharani et àno finissimi bagni de aqua sorçente. </seg><seg n="2"> Sono per la maor parte tuti Armini, sotoposti però ai <term ref="#tartari">Tartari</term>. </seg><seg n="3"> Et àno molte bone citade e chastelli ma la mior è <term ref="#arcingan">Arcinga</term>: ène arciveschovi e †solanti† e <term ref="#argiron">Argiron</term> e <term ref="#darzizi">Argici</term>. </seg><seg n="4"> Et è molto grande provincia, nela qual per la più parte vi dimora l’oste del Tartaro
                nel’instade (per i boni pascholi ve sono) ma l’inverno non per le gran fredure. </seg><seg n="5"> In questa provincia è l’archa di Noè, chome fi dito, sopra una montagna la qualle
@@ -213,7 +209,7 @@
                bon da ardere; et ène in tanta quantità che tute quelle contrade circhuncircha non
                ardeno altro che de licor over ollio de quella fontana.</seg></p>
       </div>
-  <div n="13"><head>13</head>
+  <div n="13" type="chapter" xml:id="vb-null-13"><head><seg xml:id="-titolo">13</seg><seg xml:id="vb-null-13-titolo" /></head>
          <p n="1">XIII</p>
          <p n="2"><seg n="1"> <term ref="#zorzania">‹G›iorgies</term> si è una provincia la qual fi signoregiata da uno re el qual per ogni tenpo fi chiamato
                <term ref="#david">David Melich</term>, che vien a dir in nostra lengua Davit re; et è sotoposto al <term ref="#tartari">Tartaro</term>. </seg><seg n="2"> Et dicono che antigamente quel re che naseva in quella provincia naseva con un
@@ -231,7 +227,7 @@
                è circhondato da molte montagne e çà fo navegato per Gienoexi. </seg><seg n="12"> Òve narato dele chonfine del’Arminia versso la tramontana; ora se volgieremo a dire dele chonfine fra ostro e levante.
                </seg></p>
       </div>
-  <div n="14"><head>14</head>
+  <div n="14" type="chapter" xml:id="vb-null-14"><head><seg xml:id="-titolo">14</seg><seg xml:id="vb-null-14-titolo" /></head>
          <p n="1">XIV</p>
          <p n="2"><seg n="1"> <term ref="#moxul">‹M›onsul </term>è un reame abitado de più generaciun de giente: l’una fi dito Arabi che èno dila leçe
                di <term ref="#macometto">Machometo</term>; l’altra sono nestorini i qual sono cristiani et ecian iachobi, che sono ecian cristiani.
@@ -239,7 +235,7 @@
                et veschovi et alltri parlati chome qui da nui fa el Papa. </seg><seg n="3"> Viveno de marchadantia e ssòne gran quantità de marchadanti e richi. </seg><seg n="4"> Fasse gran quantitade de pani de seda e de oro, che fino chiamadi monsolini. </seg><seg n="5"> Ène ecian una generaciun che fi chiamada <term ref="#curdi">Caint</term> che sono pur ecian cristiani nestorini; sono ecian saraini i qual son homeni da strada
                pessimi e crudel robadori.</seg></p>
       </div>
-  <div n="15"><head>15</head>
+  <div n="15" type="chapter" xml:id="vb-null-15"><head><seg xml:id="-titolo">15</seg><seg xml:id="vb-null-15-titolo" /></head>
          <p n="1">XV</p>
          <p n="2"><seg n="1"> <term ref="#baldach">‹B›aldach</term> è citade grandissima et abitada per saraini nel meço dila qual ne core un gran fiume,
                el qual mete in mar dala parte dever meçodì; et à de chorso el dito fiume da <term ref="#baldach">Baldach</term> fina el <term ref="#mare-dindia">Mar Indian</term> çornade .XVIII., apresso una citade che se chiama <term ref="#chisi">Ochosi</term>. </seg><seg n="2"> E fra <term ref="#baldach">Baldach</term> et <term ref="#chisi">Ochosi</term> su per el fiume n’è una gran citade chiamada <term ref="#balsara">Bastra</term>, dove naschono i mior datalli abia el mondo. </seg><seg n="3"> In <term ref="#baldach">Baldach</term> è gran mestier de pani de seda, de ormesi e pani d’oro; e lì è ’l <term ref="#califa">chalifa</term> de’ saraini el qual fia dito esser el più richo homo se sapia per tuto el levante,
@@ -296,7 +292,7 @@
                da tuti chon piatose e dolcissime lacrime pregato, se offersse obediente ai comandamenti
                del veschovo.</seg></p>
       </div>
-  <div n="16"><head>16</head>
+  <div n="16" type="chapter" xml:id="vb-null-16"><head><seg xml:id="-titolo">16</seg><seg xml:id="vb-null-16-titolo" /></head>
          <p n="1">XVI</p>
          <p n="2"><seg n="1"> ‹V›enuto adonque el dì .X. a quelli deputato, tuti cristiani de chadaun seso,
                sì picholli chome grandi, se reduseno nelle chiexie dove fu chantato le mese et da
@@ -310,7 +306,7 @@
                reputeria tuti infedelisimi, et chome non fedel crestiani, lo i faria tuti morire,
                salvo quelli se volesseno far saraini et confesar <term ref="#macometto">Machometo</term> esser el sumo di profeti e la leçe soa sopra tute altre fedelissima.</seg></p>
       </div>
-  <div n="17"><head>17</head>
+  <div n="17" type="chapter" xml:id="vb-null-17"><head><seg xml:id="-titolo">17</seg><seg xml:id="vb-null-17-titolo" /></head>
          <p n="1">XVII</p>
          <p n="2">|232v| <seg n="1"> ‹U›dito el veschovo et tuti cristiani el chomandamento del <term ref="#califa">chalifa</term>, ingienochiati con el chapo in tera se meseno et dal çavataro confortati che i steseno
                di costantissimo animo nela fede cristiana però che, se per le mano del <term ref="#califa">califo</term> i morissino, tuti con grandissima et indubitata fede doveano esser certi chome martori
@@ -331,7 +327,7 @@
                di tanta stupefatacione, che molti de’ lloro per el mirabelle mirachollo se feceno
                cristian; et ecian fi ditto el <term ref="#califa">challifa</term> in ochulto confessò esser cristian.</seg></p>
       </div>
-  <div n="18"><head>18</head>
+  <div n="18" type="chapter" xml:id="vb-null-18"><head><seg xml:id="-titolo">18</seg><seg xml:id="vb-null-18-titolo" /></head>
          <p n="1">XVIII</p>
          <p n="2"><seg n="1"> ‹T›oriz è citade granda et nobelle et chiamasi in sua lengua <term ref="#hirach">Irach</term> et à molte citade et chastelli sotto si, ma la più nobelle et chapo dela provincia
                è <term ref="#thauris">Toris</term>. </seg><seg n="2"> È segnoriçata da homeni soto la leçe di <term ref="#macometto">Machometo</term>, avegna in quella ne sia molti cristiani de chadauna seta. </seg><seg n="3"> I citadini de quella viveno per la maor parte de mestiero: lavorase lie de molti
@@ -340,7 +336,7 @@
                de tute vituallie. </seg><seg n="5"> Chiamasse el popolo de quella cità Tauriti, i qual sono crudellissima çente di
                pocha bontade et men fede.</seg></p>
       </div>
-  <div n="19"><head>19</head>
+  <div n="19" type="chapter" xml:id="vb-null-19"><head><seg xml:id="-titolo">19</seg><seg xml:id="vb-null-19-titolo" /></head>
          <p n="1">XIX</p>
          <p n="2"><seg n="1"> <term ref="#persia">‹P›ersia</term> è una provincia e çà fo nobel citade et de grandissima posança; ma de pressente la
                citade è guasta e sotoposta al <term ref="#tartari">Tartaro</term>. </seg><seg n="2"> In questa provincia sì è una citade chiamata Sanesse donde se partino i .III. magi che andòno âdorar el nostro <term ref="#gran-can">Segnore</term> Ihesu Cristo. </seg><seg n="3"> Et in questa citade sono sepelliti in sepolture molto grande e belle e sopra le
@@ -360,7 +356,7 @@
                ofersòno le oferte soe (oro, inçenso et mira), ai qualli el garçon diede 1° bosollo
                serado; acetado prima le tre offerte et adorò quello. </seg></p>
       </div>
-  <div n="20"><head>20</head>
+  <div n="20" type="chapter" xml:id="vb-null-20"><head><seg xml:id="-titolo">20</seg><seg xml:id="vb-null-20-titolo" /></head>
          <p n="1">XX</p>
          <p n="2">|233r| <seg n="1"> ‹P›artiti i tre per ritornare a chasa loro, i deliberòno vedere quel era nel bossollo
                dal garçone donatoge; et trovato in quello una pietra se meraveiò de quella et, quaxi
@@ -374,7 +370,7 @@
                re sepelliti esser Gaspar, Baldasar e Malchior che andò a inchinar et oferir a Cristo
                nato in Betelem.</seg></p>
       </div>
-  <div n="21"><head>21</head>
+  <div n="21" type="chapter" xml:id="vb-null-21"><head><seg xml:id="-titolo">21</seg><seg xml:id="vb-null-21-titolo" /></head>
          <p n="1">XXI</p>
          <p n="2"><seg n="1"> ‹L›a <term ref="#persia">Persia</term> contiene .VIII. reami. Lo primo è chiamato <term ref="#casibin">Causum</term>; el segondo, ch’è verso meçodì, <term ref="#curdistan">Cardistan</term>; el terço <term ref="#lor">Lor</term>; el quarto <term ref="#suolistan">Cielstan</term>; el quinto <term ref="#spaan">Ilstaint</term>; el sesto <term ref="#siras">Ceratin</term>; el setimo <term ref="#soncara">Somcarra</term>; l’otavo <term ref="#timocaim">Tinochan</term>, ch’è in la fin de <term ref="#persia">Persia</term>. </seg><seg n="2"> Tuti diti reami sono verso meçodì salvo che l’u‹l›timo <term ref="#timocaim">Tinochan</term>, in la fin preso l’<term ref="#arbore-secco">Alboro Secho</term> inver tramontana. </seg><seg n="3"> In questi reami naschono beletissimi chavalli di qual molti se ne menano in <term ref="#india">India</term> dove gran priexii i sse vendeno. </seg><seg n="4"> Ène anchor belletissimi aseni e credo i più belli abia el mondo: e ssono choradori,
                ch’è contra la natura dei axeni de queste parte nostre; ànno notabel anbiadura. </seg><seg n="5"> Fino menadi de questi asseni fino al <term ref="#chisi">Tisi</term> et a <term ref="#ormus">Chormusa</term>, che èno .II. citade sopra la riva del <term ref="#mare-dindia">Mar d’India</term>, dove chapitano marchadanti che quelli conprano. </seg><seg n="6"> Sono in questa provincia crudellissimi homeni, che insieme de facille se ucideno:
@@ -385,7 +381,7 @@
                che molto bene si chavalchano. </seg><seg n="12"> È paixe de deletevelle chaçaxon, de contornice et de ogni altre salvadasine et
                <term ref="#asini-salvatichi">asseni salvatechi</term>. </seg><seg n="13"> Chavalchato le .VIII. giornate se trova ‹un reg‹n›ame› chiamato <term ref="#chermain">Creman</term>.</seg></p>
       </div>
-  <div n="22"><head>22</head>
+  <div n="22" type="chapter" xml:id="vb-null-22"><head><seg xml:id="-titolo">22</seg><seg xml:id="vb-null-22-titolo" /></head>
          <p n="1">XXII</p>
          <p n="2"><seg n="1"> <term ref="#chermain">‹C›reman</term> è regname fo conquistato dal <term ref="#gran-can">Gran Tartaro</term> et tollto a uno segnore de chui per eredità era. </seg><seg n="2"> In questo reame ve naschon la çoia chiamata turchexe: et tròvasene abundantemente
                e trovase nele montagne. </seg><seg n="3"> Trovase ecian in quele montagne vena de açalle el mior abia el mondo, per che
@@ -433,7 +429,7 @@
                tuto. </seg><seg n="41"> Ongieno le lor nave con ollio de pese perché non àno pegolla. </seg><seg n="42"> Quando morino alchuno di soi ussano fare gran pianto, et massime le femene che
                àno per chostume piangere ogni dì una fiata per fino ad anni .IIII. </seg></p>
       </div>
-  <div n="23"><head>23</head>
+  <div n="23" type="chapter" xml:id="vb-null-23"><head><seg xml:id="-titolo">23</seg><seg xml:id="vb-null-23-titolo" /></head>
          <p n="1">XXIII</p>
          <p n="2"><seg n="1"> ‹P›artendossi della sopra ditta provincia per tramontana si chapita alla citade
                de <term ref="#chermain">Creman</term> chome sopra ve dissi; per che vollendo io andare dove io voio, me coven passare per
@@ -449,7 +445,7 @@
                pocha abitaciun per alltre .IIII. giornate, non si trova abitaciun alchuna per esser
                arido chome nelle sopra .III. giornate; ma pur in qualche luogo vi si trova dei axeni salvatichi. </seg><seg n="7"> Et in chapo de queste .IIII. giornate fenisse el regno de <term ref="#chermain">Creman</term>.</seg></p>
       </div>
-  <div n="24"><head>24</head>
+  <div n="24" type="chapter" xml:id="vb-null-24"><head><seg xml:id="-titolo">24</seg><seg xml:id="vb-null-24-titolo" /></head>
          <p n="1">XXIV</p>
          <p n="2"><seg n="1"> <term ref="#cobinam">‹C›oobinam</term> è una citade grandissima et i abitanti de quella adorano <term ref="#macometto">Machometo</term>. </seg><seg n="2"> In questa cità lavorano finissimo açal e fassene bellisimi spechi de açale; ène
                andanicho. </seg><seg n="3"> Lavorasse la tucia e ’l spodio i qualli e’ò visto far in questo modo. </seg><seg n="4"> I àno una vena di terra che i chavano di montagna e quella terra meteno in una
@@ -459,7 +455,7 @@
                spodio che fi dito spodio de chana, e questo perché el dito spodio, over tera arsa,
                riman lieve chome chana.</seg></p>
       </div>
-  <div n="25"><head>25</head>
+  <div n="25" type="chapter" xml:id="vb-null-25"><head><seg xml:id="-titolo">25</seg><seg xml:id="vb-null-25-titolo" /></head>
          <p n="1">XXV</p>
          <p n="2"><seg n="1"> ‹P›artendose dala sopra dita citade de <term ref="#cobinam">Cobinam</term> chonvèsse andare per un deserto ch’è çornade .VIII. ala longa, nel qual deserto per
                la sechura non si trova albori né fruto né chossa da vivere, e lle acque che se trova
@@ -473,7 +469,7 @@
                abondantisima; à l’aiere molto tenperado: non v’è gran chaldi né gran fredi. </seg><seg n="7"> I abitanti sono bellissimi e massime le femene, le qual al mio iodicio sono le
                più belle femene che credo abia el mondo et tuti adorano <term ref="#macometto">Machometo</term>. </seg><seg n="8"> Partiròme de qui et anderò in una contrada che se chiama <term ref="#mulehet">Muleto</term>.</seg></p>
       </div>
-  <div n="26"><head>26</head>
+  <div n="26" type="chapter" xml:id="vb-null-26"><head><seg xml:id="-titolo">26</seg><seg xml:id="vb-null-26-titolo" /></head>
          <p n="1">XXVI</p>
          <p n="2"><seg n="1"> <term ref="#mulehet">‹M›uleto</term> è una chontrada nela qual chome se nara abitava el <term ref="#vecchio-della-montagna">Vechio dela Montagna</term>. </seg><seg n="2"> E per dirve quel in quelle contrade del <term ref="#vecchio-della-montagna">Vechio</term> se raxona et chome da molte persone io ò intesso, el <term ref="#vecchio-della-montagna">Vechio</term> in soa lengua fia apellado <term ref="#aloadin">Alaodin</term>, el qualle <term ref="#vecchio-della-montagna">Veio</term> avea fato fra do montagne uno nobellissimo et deletevelle çardino, pieno de nobellissimi
                fruti et atorno de nobelissimi palasi et stancie. </seg><seg n="3"> Et in questi suo’ abituciun et çardini ve era tuti i dilleti et piaceri se podese
@@ -505,7 +501,7 @@
                poté prender; ma avendo tegnuto l’asedio molto streto al chastello per ani tre in
                modo che persona alchuna non ne podeva ussir, avendo manchato la vituallia, al <term ref="#vecchio-della-montagna">Vechio</term> constreto da fame, se arende. </seg><seg n="18"> E fo morto et destruto el <term ref="#vecchio-della-montagna">Vegio</term> con tuti suo’ seguaci e destruto el suo inganevolle Paradiso. </seg></p>
       </div>
-  <div n="27"><head>27</head>
+  <div n="27" type="chapter" xml:id="vb-null-27"><head><seg xml:id="-titolo">27</seg><seg xml:id="vb-null-27-titolo" /></head>
          <p n="1">XXVII</p>
          <p n="2">|235r| <seg n="1"> <term ref="#balach">‹B›alen</term> èt grande e nobel citade; ma per avanti fo molto più magna et richa et fornita dei
                più nobelle palaci avesse el mondo, ma i Tartati molto l’à guastà. </seg><seg n="2"> Et in questa citade fi dito <term ref="#alessandro">Alesandro</term> prese moglie, çoè la fiolla de <term ref="#dario">Dario</term> inperadore de <term ref="#persia">Persia</term>. </seg><seg n="3"> Sono tuti abitanti dela leçe di <term ref="#macometto">Machometo</term>, et per fino a questa cità durano el tegnir e ‹la› segnoria di <term ref="#tartari">Tartari</term> dele tere de levante; et è questa cità ale chonfine de <term ref="#persia">Persia</term> fra griego e levante. </seg><seg n="4"> Partendosi de questa citade el se chavalcha .XII. çornate ch’el non se trova abitacione
@@ -518,7 +514,7 @@
                e tute sono salle; et tutte quelle contrade per fino a iornade .XXX. non adoperano
                altro salle.</seg></p>
       </div>
-  <div n="28"><head>28</head>
+  <div n="28" type="chapter" xml:id="vb-null-28"><head><seg xml:id="-titolo">28</seg><seg xml:id="vb-null-28-titolo" /></head>
          <p n="1">XXVIII</p>
          <p n="2"><seg n="1"> ‹P›artendosi di questa contrada e chaminasse per .III. çornade fra griego e llevante,
                trovassi senpre belle contrade, ma çente bestialle che viveno chome bestie, ma pesima
@@ -533,7 +529,7 @@
                </seg><seg n="9"> Partendosi da questa citade per iii çornate, non se trova abitaciun alguna; e
                i viandanti convèse portare le vituallie siego. </seg><seg n="10"> E chavalchato le tre giornate si se trova la provincia del <term ref="#balaxiam">Balasan</term>.</seg></p>
       </div>
-  <div n="29"><head>29</head>
+  <div n="29" type="chapter" xml:id="vb-null-29"><head><seg xml:id="-titolo">29</seg><seg xml:id="vb-null-29-titolo" /></head>
          <p n="1">XXIX</p>
          <p n="2"><seg n="1"> <term ref="#balaxiam">‹B›alasan</term> è una provincia i abitanti dela qualle adorano Macometo et àno lenguaço per si. </seg><seg n="2"> Et è grande e llarga provincia et àno per <term ref="#gran-can">Segnore</term> re che sociede per eredità, e fi dito eser dela stirpe de re <term ref="#alessandro">Allexandro</term> deseso del fiollo del re <term ref="#alessandro">Allexandro</term>, nato dela fiolla de <term ref="#dario">Dario</term>, inperadore de <term ref="#persia">Persia</term>; et chiamase quei re <term ref="#zulcarnen">Çulcarnem</term>, che in lingua nostra se diria la raina Allexandrina. </seg><seg n="3"> Et in dita provincia se trova i balassi, i qual se trova nelle montagne con grande
                afano, perché è besogno a far de gran chave nele montagne con grandissima spexa et
@@ -551,13 +547,13 @@
                se deleta: e per parere esser ben grasse, portano mudande fino ai piedi, le qual le
                inpieno di <term ref="#bambagio">banbaso</term> e fasse molto grosse nele nadege; èno disconça cossa a vedere tanta groseça.</seg></p>
       </div>
-  <div n="30"><head>30</head>
+  <div n="30" type="chapter" xml:id="vb-null-30"><head><seg xml:id="-titolo">30</seg><seg xml:id="vb-null-30-titolo" /></head>
          <p n="1">XXX</p>
          <p n="2"><seg n="1"> ‹P›artendosse de <term ref="#balaxiam">Ballasan</term> per çornade .X. se trova una alltra provincia chiamata Apalasai, èt verso el meçodì. </seg><seg n="2"> In questa provincia àno lingua seperada, et <term ref="#idolatri">adorano idolli</term> et è bruta giente e sono grandissimi negromanti; sono omeni savii et molto schaltridi.
                </seg><seg n="3"> Et è paexe chaldo. </seg><seg n="4"> Le vivande suo’ sono gran e risi. </seg><seg n="5"> I omeni portano aneli over cercelli ale orechie, de arçento et de oro e con çoie
                sechondo la posibilitade loro. </seg><seg n="6"> Sono per la maor parte mala giente.</seg></p>
       </div>
-  <div n="31"><head>31</head>
+  <div n="31" type="chapter" xml:id="vb-null-31"><head><seg xml:id="-titolo">31</seg><seg xml:id="vb-null-31-titolo" /></head>
          <p n="1">XXXI</p>
          <p n="2"><seg n="1"> <term ref="#chesmur">‹C›heschemur</term> è provincia de <term ref="#idolatri">idolatri</term> chome i altri de sopra, et àno linguaço per si. </seg><seg n="2"> Sono grandissimi negromanti: fano parlar i idolli, fano chanbiar i tenpi de schuri
                in gran chiaritade et de chiari in grande oscurità e tenebrosi tenpi. </seg><seg n="3"> È una mirabillisima cossa quel i fano per suo’ incantamenti et arte diaboliche.
@@ -571,7 +567,7 @@
                falsse idolle e dii suo’ i sono. </seg><seg n="13"> Àno assai monestari de’ suo’ religiosi di molte guise. </seg><seg n="14"> Per la tenpera‹n›cia del’aiere viveno longamente. </seg><seg n="15"> I coralli che in queste nostre parte se trovano, in questa provincia molto fino
                apresiati. </seg><seg n="16"> Voiendo richontare più holtra è de necesità tornare verso el <term ref="#balaxiam">Balasan</term> però che da questa parte più holtra non si pò andare.</seg></p>
       </div>
-  <div n="32"><head>32</head>
+  <div n="32" type="chapter" xml:id="vb-null-32"><head><seg xml:id="-titolo">32</seg><seg xml:id="vb-null-32-titolo" /></head>
          <p n="1">XXXII</p>
          <p n="2"><seg n="1"> ‹P›artendose da Baldasian, chaminando per griego e llevante çornade .XII., se trova, chaminando su per uno
                fiume, chastelli et abitaciun asai che sono dil fratello del segnore del <term ref="#balaxiam">Balasan</term>. </seg><seg n="2"> Sono alti homeni et adorano <term ref="#macometto">Machometo</term>. </seg><seg n="3"> Chavalchato se à le .XII. giornate se trova una provincia longa giornade .III.
@@ -591,12 +587,12 @@
                alltramente nulla se trova: e questa contratta è chiamata <term ref="#beloro">Bel Horzo</term>. </seg><seg n="13"> La çente ve dimorano per le montagne sono tuti <term ref="#idolatri">idolatri</term> et salvaticha giente, e viveno de bestie de suo’ cazaxone e vesteno del chuoro dele
                pelle et èno malla giente.</seg></p>
       </div>
-  <div n="33"><head>33</head>
+  <div n="33" type="chapter" xml:id="vb-null-33"><head><seg xml:id="-titolo">33</seg><seg xml:id="vb-null-33-titolo" /></head>
          <p n="1">XXXIII</p>
          <p n="2"><seg n="1"> <term ref="#caschar">C›aschar</term> sì fo già reame per si e mo’ è ssottoposto al <term ref="#gran-can">Gran Chan</term>. </seg><seg n="2"> La giente adorano <term ref="#macometto">Machometo</term>, ànno citade e più chastelli soto sì, ma la maçor e più nobelle è <term ref="#caschar">Chaschar</term> et è fra griego e llevante. </seg><seg n="3"> Viveno de marchadantie e mestieri: ànno bellisime vigne e giardini, naseno <term ref="#bambagio">banbasi</term> assai, ed è dotta citade. </seg><seg n="4"> Eschono marchadanti assai che vano per lo mondo facendo marchadantie. </seg><seg n="5"> Sono avara giente e mangiano e beveno poveramente. </seg><seg n="6"> Et abitano molti cristiani i qual àno chiexie e lenguaço suo e sono mescholadi
                e stano con i abitanti, chome fano i çudie in queste parte con cristiani. </seg><seg n="7"> Dura questa provincia .V. giornate.</seg></p>
       </div>
-  <div n="34"><head>34</head>
+  <div n="34" type="chapter" xml:id="vb-null-34"><head><seg xml:id="-titolo">34</seg><seg xml:id="vb-null-34-titolo" /></head>
          <p n="1">XXXIV</p>
          <p n="2"><seg n="1"> <term ref="#samarchan">‹S›amarchan</term> è una nobellisima e gran citade e lla giente in quella abitano sono cristiani et
                saracini. </seg><seg n="2"> El segnore suo è nevodo del <term ref="#gran-can">Gran Chane</term> ma non è però suo amicho, anci continue sono nemici e fra loro v’è stato gran guere.
@@ -628,20 +624,20 @@
                parte vi conchorse giente et tutto el giorno conchoreno per vedere l’ecelentissimo
                mirachollo.</seg></p>
       </div>
-  <div n="35"><head>35</head>
+  <div n="35" type="chapter" xml:id="vb-null-35"><head><seg xml:id="-titolo">35</seg><seg xml:id="vb-null-35-titolo" /></head>
          <p n="1">XXXV</p>
          <p n="2"><seg n="1"> <term ref="#carchan">‹T›archan</term> è provincia et dura alla longa .V. giornatte e li abitanti ecian adorano <term ref="#macometto">Machometo</term>. </seg><seg n="2"> Avegna però in quella ve abita cristiani nestorini ma non gran quantità et è sottoposta
                alla segnoria del sopra dito nepote del <term ref="#gran-can">Gran Chan</term>. </seg><seg n="3"> Et è provincia abondante de vituallie, nella qual non v’è chossa degna de memoracione
                e però de qui me partirò et procederò alla provincia de <term ref="#cotam">Chotan</term>.</seg></p>
       </div>
-  <div n="36"><head>36</head>
+  <div n="36" type="chapter" xml:id="vb-null-36"><head><seg xml:id="-titolo">36</seg><seg xml:id="vb-null-36-titolo" /></head>
          <p n="1">XXXVI</p>
          <p n="2"><seg n="1"> <term ref="#cotam">‹C›otan</term> è provincia fra griego e llevante; la qual è llonga giornate .VIII. et è sottoposta
                alla segnoria del ditto <term ref="#gran-can">Gran Chan</term>. </seg><seg n="2"> La qual provincia à molte citade et belle chastelle et nel chavo dela provincia
                v’è una cità chiamata <term ref="#cotam">Cotan</term> chome la provincia. </seg><seg n="3"> È abondantissima de tute vituallie, nasene <term ref="#bambagio">banbaso</term> asai. </seg><seg n="4"> I citadini àno de belle posesione e viveno de mestieri et de marchadantie. </seg><seg n="5"> Sono asai vili homeni et molto pusilanimi et inexperti alle bataglie e per la
                maçor parte di abitanti adorano <term ref="#macometto">Machometo</term>.</seg></p>
       </div>
-  <div n="37"><head>37</head>
+  <div n="37" type="chapter" xml:id="vb-null-37"><head><seg xml:id="-titolo">37</seg><seg xml:id="vb-null-37-titolo" /></head>
          <p n="1">XXXVII</p>
          <p n="2"><seg n="1"> <term ref="#peym">‹P›erchin</term> si è una provincia longa .V. giornate et hè dentro griego e llevante; et è sotoposta
                alla segnoria del <term ref="#gran-can">Gran Chan</term> et adorano Macometo. </seg><seg n="2"> Et à molte citade et chastelli sotto si; èt al principio dela provincia et è la
@@ -651,7 +647,7 @@
                de dì .XX. e ll’è licito alla moglie prendere uno alltro marito e per simel al marito
                prender alltra moglie.</seg></p>
       </div>
-  <div n="38"><head>38</head>
+  <div n="38" type="chapter" xml:id="vb-null-38"><head><seg xml:id="-titolo">38</seg><seg xml:id="vb-null-38-titolo" /></head>
          <p n="1">XXXVIII</p>
          <p n="2"><seg n="1"> <term ref="#ciarcian">‹C›iarchan</term> è provincia dela <term ref="#gran-turchia">Gran Turchia</term> et è fra griego e llevante e i abitanti adorano <term ref="#macometto">Machometo</term> et à citade et chastelli assai sotto si. </seg><seg n="2"> E lla citade maistra del regno è chiamata <term ref="#ciarcian">Ciarchan</term> et iv’è uno fiume che mena i aspi et chalcedoni; e pòrtassene a vender a <term ref="#cataio">Chataio</term> e fasene gran marchadantia. </seg><seg n="3"> Et è questa provincia quaxi tuta sabionoxa e per simel fina a .II. alltre provincie
                sono sabionoxe. </seg><seg n="4"> Trovase amare e triste aque et poche ve sono de bone. </seg><seg n="5"> Ochorendo che alchun oste pasa per suo’ contrate, subito tuti con i llor figiuolli,
@@ -661,7 +657,7 @@
                de dolçe: e chiamase questo diserto <term ref="#lop">Lopo</term>. </seg><seg n="7"> In chapo de .V. giornate se trova una cità dove se prendono refreschamento de
                tute vitualie per i senestri se receve nel diserto.</seg></p>
       </div>
-  <div n="39"><head>39</head>
+  <div n="39" type="chapter" xml:id="vb-null-39"><head><seg xml:id="-titolo">39</seg><seg xml:id="vb-null-39-titolo" /></head>
          <p n="1">XXXIX</p>
          <p n="2"><seg n="1"> <term ref="#lop">‹L›ope</term> si è una gran citade la qual è nel principio del gran deserto chiamato <term ref="#lop">Lopo</term>, el quale è fra grego e levante; et ancho di questa el <term ref="#gran-can">Gran Chan</term> v’è segnore, et adorano Macometo. </seg><seg n="2"> Quelli deno passar el diserto se ripossa |237r| per una setemana e fornise de
                tute vituallie i è bisogno per giornate .XXX. però ch’è tanto stano a passar quel
@@ -686,7 +682,7 @@
                la via, per esser el diserto anplissimo, e ssono di fame periti. </seg><seg n="11"> E però chi non sono ben aveduti de questi ingani, chapitano malle e per questo
                con gran pericollo ve se chamina.</seg></p>
       </div>
-  <div n="40"><head>40</head>
+  <div n="40" type="chapter" xml:id="vb-null-40"><head><seg xml:id="-titolo">40</seg><seg xml:id="vb-null-40-titolo" /></head>
          <p n="1">XL</p>
          <p n="2"><seg n="1"> ‹C›havalchato se à a traversso el diserto per giornate .XXX., chome sopra ò dito,
                alla fin del deserto se trova una citade chiamata <term ref="#sachion">Sasicicion</term> ch’è sotto al <term ref="#gran-can">Gran Chan</term>, ma la provincia fi apellata <term ref="#tanguth">Tangut</term>. </seg><seg n="2"> E questa giente sono <term ref="#idolatri">idolatri</term>: ène ecian molti cristiani et saracini. </seg><seg n="3"> I abitanti àno lengua da per si; et questa provincia è fra griego e llevante.
@@ -722,7 +718,7 @@
                caxa e fano una porta nuova per la qual i traceno el corpo de chaxa, né per alcun
                modo il caveria per la porta maistra.</seg></p>
       </div>
-  <div n="41"><head>41</head>
+  <div n="41" type="chapter" xml:id="vb-null-41"><head><seg xml:id="-titolo">41</seg><seg xml:id="vb-null-41-titolo" /></head>
          <p n="1">XLI</p>
          <p n="2"><seg n="1"> <term ref="#chamul">‹C›amul</term> si è provincia et antichamente ebe per segnore re et à molte citade et chastele sotto
                a si, ma la principal tera è chiamata <term ref="#chamul">Chamul</term>, chome la provincia, et è bella tera. </seg><seg n="2"> Et è posto questa provincia fra .II. deserti: da l’una parte si è el gran deserto,
@@ -782,12 +778,12 @@
                poche altre tere vidi più belle femene che in questa provincia e masime nela tera
                de <term ref="#chamul">Camul</term> né più lemosenari.</seg></p>
       </div>
-  <div n="42"><head>42</head>
+  <div n="42" type="chapter" xml:id="vb-null-42"><head><seg xml:id="-titolo">42</seg><seg xml:id="vb-null-42-titolo" /></head>
          <p n="1">XLII</p>
          <p n="2">|238v| <seg n="1"> <term ref="#chinchintalas">‹G›iarçintalas</term> è una provincia ch’è a’ lladi del deserto sopra dito fra maistro e tramontana et
                è granda per giornate .XV. et sotto la segnoria del <term ref="#gran-can">Gran Can</term>. </seg><seg n="2"> Àno citade et chastelli molte soto de si et abitano per la maçor parte <term ref="#idolatri">idolatri</term>, ma sòne molti che adorano Macometo.</seg></p>
       </div>
-  <div n="43"><head>43</head>
+  <div n="43" type="chapter" xml:id="vb-null-43"><head><seg xml:id="-titolo">43</seg><seg xml:id="vb-null-43-titolo" /></head>
          <p n="1">XLIII</p>
          <p n="2"><seg n="1"> ‹A›le chonfine dela dita provincia, ver tramontana, è una montagna nela qualle
                è vena de açalle et de andanico. </seg><seg n="2"> Et ecian in questa montagna se fano el pano salamandro; e denotovi che la salamandra
@@ -808,14 +804,14 @@
                bianchissima. </seg><seg n="7"> El Segnore <term ref="#gran-can">Gran Chane</term> mandò al papa una tovaia di sallamandra nela qualle è involto el sudario a Roma chome
                se dice.</seg></p>
       </div>
-  <div n="44"><head>44</head>
+  <div n="44" type="chapter" xml:id="vb-null-44"><head><seg xml:id="-titolo">44</seg><seg xml:id="vb-null-44-titolo" /></head>
          <p n="1">XLIV</p>
          <p n="2"><seg n="1"> ‹P›artendosi dela sopra dita provincia, chaminando per .X. giornate fra griego
                e llevante, in questo camino non se trova abitaciun alchuna; ma a chapo dele giornate
                .X. se trova una provincia chiamata <term ref="#succuir">Soetur</term>. </seg><seg n="2"> Abitage cristiani et <term ref="#idolatri">idollatri</term>; è sotoposti alla segnoria del <term ref="#gran-can">Gran Chane</term>. </seg><seg n="3"> Nele montagne de questa provincia se trova finissimo <term ref="#rheubarbaro">reobarbaro</term> el qual fi conprato da marchadanti e portallo in altri paexi, né quivi alltra marchadantia
                non si trova; viveno i abitanti di fruti dela tera.</seg></p>
       </div>
-  <div n="45"><head>45</head>
+  <div n="45" type="chapter" xml:id="vb-null-45"><head><seg xml:id="-titolo">45</seg><seg xml:id="vb-null-45-titolo" /></head>
          <p n="1">XLV</p>
          <p n="2"><seg n="1"> <term ref="#campion">‹C›apition</term> è una citade grande e nobelle et è dela provincia de <term ref="#tanguth">Tangut</term>, in chapo dela provincia. </seg><seg n="2"> I abitanti sono <term ref="#idolatri">idolatri</term>: avegna ecian el ne sia cristiani et saracini; et in dita citade, v’è .III. bele
                chiexie de cristiani <term ref="#idolatri">idolatri</term>. </seg><seg n="3"> Àno assaisimi te‹n›pli nei qualli tengono i suo’ idoli, i qualli idoli ène de
@@ -834,19 +830,19 @@
                </seg><seg n="8"> Viveno assai bestialmente sença legie alguna et, in questa tera io, Marcho Pollo,
                demorai con mio padre et con mio barba per nostri afari cercha per uno ano. </seg></p>
       </div>
-  <div n="46"><head>46</head>
+  <div n="46" type="chapter" xml:id="vb-null-46"><head><seg xml:id="-titolo">46</seg><seg xml:id="vb-null-46-titolo" /></head>
          <p n="1">XLVI</p>
          <p n="2"><seg n="1"> ‹P›artendosi dala sopra dita citade de <term ref="#campion">Capition</term>, chavalcando per .XII. giornate, trovasi una citade chiamata <term ref="#ezina">Çinay</term> che è nel chapo del deserto, dal sabiun verso tramontana, et è dela provincia de
                <term ref="#tanguth">Tangut</term>. </seg><seg n="2"> Et sono i abitanti tutti <term ref="#idolatri">idolatri</term> et àno ganbelli et altre bestie in gran quantità dei qual i veveno et dei fruti dela
                ttera. </seg><seg n="3"> Trovasi falconi lainieri e sacari molto boni; non sono homeni marchadanti.</seg></p>
       </div>
-  <div n="47"><head>47</head>
+  <div n="47" type="chapter" xml:id="vb-null-47"><head><seg xml:id="-titolo">47</seg><seg xml:id="vb-null-47-titolo" /></head>
          <p n="1">XLVII</p>
          <p n="2"><seg n="1"> ‹Q›uando se parte de <term ref="#ezina">Ceneda</term>, citade valoroxa, convense tuor vituallia per dì .XL. </seg><seg n="2"> Et chavalchasi per tramontana giornate .XL. che non se trova abitaciun alchuna,
                ma sí in alchuna parte sula montagna ch’è abitada. </seg><seg n="3"> Ène bestie assai salvatiche e axeni salvatichi in grandissima chopia; et a chapo de dite giornate .XL. se trova una citade chiamata
                <term ref="#caracoran">Characoron</term>, ch’è verso la tramontana.</seg></p>
       </div>
-  <div n="48"><head>48</head>
+  <div n="48" type="chapter" xml:id="vb-null-48"><head><seg xml:id="-titolo">48</seg><seg xml:id="vb-null-48-titolo" /></head>
          <p n="1">XLVIII</p>
          <p n="2"><seg n="1"> <term ref="#caracoran">‹C›aracoron</term> si è citade la qualle al mio giudicio volge .III. miara e, segondo dicono, el suo
                primo segnore fo tartaro, per loro medemi fato, el qualle aquistò molte de quelle
@@ -859,7 +855,7 @@
                per che, adunati tutti i llor beni e bestiami, se partino et intròno nel deserto ver
                tramontana per modo <term ref="#umcan">Umecham</term> suo segnore più a quelli non poteno chomandare né più da quelli ebeno trabuto. </seg><seg n="6"> E nel deserto elleseno per suo segnore uno di loro <term ref="#tartari">Tartari</term>, omo de grandissimo animo e vigore e sapientissimo, el qual fu nominato Chan Çiçin, el qualle dapoi feçe grandisimi fati et conquisto. </seg></p>
       </div>
-  <div n="49"><head>49</head>
+  <div n="49" type="chapter" xml:id="vb-null-49"><head><seg xml:id="-titolo">49</seg><seg xml:id="vb-null-49-titolo" /></head>
          <p n="1">XLIX</p>
          <p n="2">|239v| <seg n="1"> ‹E›leto ch’ebeno i sopra diti <term ref="#tartari">Tartari</term> <term ref="#cingis-can">Çeçin Chan</term> per suo segnore nel .MCLXXXVII. corendo i ani del nostro Segnore Ihesu Cristo, e
                recendo quel popollo con tanta iusticia modestia (che non chome segnore ma quasi chome
@@ -897,7 +893,7 @@
                tanto era cresuto la posança del suo exercito et fama dela soa excelencia che niuno
                più temuto de lui era. </seg></p>
       </div>
-  <div n="50"><head>50</head>
+  <div n="50" type="chapter" xml:id="vb-null-50"><head><seg xml:id="-titolo">50</seg><seg xml:id="vb-null-50-titolo" /></head>
          <p n="1">L</p>
          <p n="2">|240r| <seg n="1"> ‹A›vendo aquistato <term ref="#cingis-can">Çecin Chan</term> molte provincie e, cresuto l’esercito suo in grandissima moltitudene di ce‹n›te,
                alçato molto nell’anemo suo, deliberò rechiedere la fiolla de <term ref="#umcan">Umecham</term> – çoè a nostro modo, de <term ref="#prete-gianni">Presto Çane</term> – per moglie. </seg><seg n="2"> Et ellese suo nobelle et richa anbasaria et mandòlla a <term ref="#prete-gianni">Presto Çane</term> con queste parolle: che <term ref="#cingis-can">Çecin Chan</term>, suo magno et gran segnore, avendo senpre amato la soa segnoria, avea deliberato
@@ -912,7 +908,7 @@
                darge per moglie quella femena merita la soa insipiencia et alora credo el ‹cognoserà›
                chui l’è e chi è <term ref="#prete-gianni">Presto Çane</term>: andativene presto, che presto io serò a llui».</seg></p>
       </div>
-  <div n="51"><head>51</head>
+  <div n="51" type="chapter" xml:id="vb-null-51"><head><seg xml:id="-titolo">51</seg><seg xml:id="vb-null-51-titolo" /></head>
          <p n="1">LI</p>
          <p n="2"><seg n="1"> ‹T›ornati i anbasatori et udito la resposta de <term ref="#prete-gianni">Presto Çane</term>, subito feçe convochare tuti soi baroni et, in prexencia loro volse i anbasatori
                ritornati dicese quelo el segnore <term ref="#prete-gianni">Presto Çane</term> avea risposto ala inbassata. </seg><seg n="2"> Odito l’anbasata, tuti rimaseno in silencio; allora <term ref="#cingis-can">Çecino Can</term> parllò et dise: «Conpagni et fratelli mei, io non dubito abiate a memoria l’odio
@@ -934,7 +930,7 @@
                posança». </seg><seg n="8"> Allora <term ref="#cingis-can">Çecino</term> chomandò che tuti se apariase e che, la maitina seguente, tuti preperati con le soe
                conpagnie foseno a chav‹a›lo.</seg></p>
       </div>
-  <div n="52"><head>52</head>
+  <div n="52" type="chapter" xml:id="vb-null-52"><head><seg xml:id="-titolo">52</seg><seg xml:id="vb-null-52-titolo" /></head>
          <p n="1">LII</p>
          <p n="2">|240v| <seg n="1"> ‹E›l giorno seguente, preparati tuti, montòno a chavallo con tanta moltitudene
                de gente che a tuti parerebeno una mirabele chosa; et intrati in chamino con mirabelle
@@ -951,7 +947,7 @@
                chane, i’ndivinatori principiò a leçere e dire suo’ parolle sopra le chane: e chonpiute
                le suo’ oracione, echo la chana sopra la quale era scripto el nome de <term ref="#cingis-can">Çecino</term> montò sopra la chana dove era scripto el nome de <term ref="#umcan">Umechan</term>, non chon picola leticia de <term ref="#cingis-can">Çecino</term> et de tutto suo hoste con ferma sperança de certa vitoria.</seg></p>
       </div>
-  <div n="53"><head>53</head>
+  <div n="53" type="chapter" xml:id="vb-null-53"><head><seg xml:id="-titolo">53</seg><seg xml:id="vb-null-53-titolo" /></head>
          <p n="1">LIII</p>
          <p n="2"><seg n="1"> ‹V›enuto el giorno desegnato alla bataglia, preparati intram‹b›i gli osti, con
                grandissimo ordene ascherati, chome ussança loro confortati chadauno dai loro segnori
@@ -967,7 +963,7 @@
                chapitano a confortare con promissione e priegi fosseno costanti a sostenere e percotere,
                fo ferito de una saeta et chade inmediate morto. </seg><seg n="5"> Morto Umechane, sença alchuno retenimento tutto l’oste se messe in fuga; <term ref="#cingis-can">Çecino</term>, seguendo quelli con grandissima ucissione di nemici, fu vincitore dila bataglia.</seg></p>
       </div>
-  <div n="54"><head>54</head>
+  <div n="54" type="chapter" xml:id="vb-null-54"><head><seg xml:id="-titolo">54</seg><seg xml:id="vb-null-54-titolo" /></head>
          <p n="1">LIV</p>
          <p n="2"><seg n="1"> ‹S›eguendo <term ref="#cingis-can">Çecino</term> la vitoria, conquistò tuto el paexe e segnoria de <term ref="#umcan">Umechan</term> rendendosse tutte terre et chastelli qualle per força qualle per paura; et pressa
                la principal tera et abitacione de <term ref="#umcan">Umechan</term>, prese la figuolla et quella inmediate tolse per moglie rendendo infinite gracie
@@ -977,7 +973,7 @@
                stare, essendo ora mai fastidita dila gloria de <term ref="#cingis-can">Çecino</term>, conbatendo uno chastello fo feritto de una saeta nel gienochio, per la qual ferita
                <term ref="#cingis-can">Çecino</term> dapo’ alguni giorni morite.</seg></p>
       </div>
-  <div n="55"><head>55</head>
+  <div n="55" type="chapter" xml:id="vb-null-55"><head><seg xml:id="-titolo">55</seg><seg xml:id="vb-null-55-titolo" /></head>
          <p n="1">LV</p>
          <p n="2"><seg n="1"> ‹M›orto <term ref="#cingis-can">Çecino</term>, fo creatto per <term ref="#gran-can">Segnore</term> <term ref="#cyn-can">Cuy Chan</term>; et dapo’ la morte de <term ref="#cyn-can">Cuy Chan</term> fo creato segnore <term ref="#bathyn-can">Bote Chan</term>. </seg><seg n="2"> Dapo’ regnò <term ref="#ulau">Antor Chan</term>, quarto segnore; dapoi regnò <term ref="#mongu-can">Magu Chan</term> quinto segnore. </seg><seg n="3"> Dapoi <term ref="#cublai-can">Clubai Chan</term>, el qual nel presente tenpo regna, et quella medema possança e ssgnoria èt magiore
                qualle sia stata chadauno di suo’ antecessori i qualli tuti segnori desendenti de
@@ -988,7 +984,7 @@
                amaçano tegnendo quei chavalli essere del suo segnore nel’altro mondo. </seg><seg n="5"> E quando Mangu Can morite, nel tenpo del qualle io me trovai, più de .XX. millia persone se alciseno
                se medemi per andare a servire el so segnore nel chamino portendo el corpo suo a sepelire.</seg></p>
       </div>
-  <div n="56"><head>56</head>
+  <div n="56" type="chapter" xml:id="vb-null-56"><head><seg xml:id="-titolo">56</seg><seg xml:id="vb-null-56-titolo" /></head>
          <p n="1">LVI</p>
          <p n="2">‹E›l chostumo et vita dela sopra dita gente tartara.</p>
          <p n="3"><seg n="1"> Nel tenpo del’inverno tuti abitano nela pianura, per le cha‹n›pagne, per i lluogi
@@ -1029,7 +1025,7 @@
                idii avere mangnato la sustancia de quele vivande; possa loro mangiano el resto. </seg><seg n="20"> I homeni richi vesteno onorevellemente de pani de seta e de oro e fodre de çebelini,
                armelini e volpe molto belle et àno de belle arnise e de gran vaglia.</seg></p>
       </div>
-  <div n="57"><head>57</head>
+  <div n="57" type="chapter" xml:id="vb-null-57"><head><seg xml:id="-titolo">57</seg><seg xml:id="vb-null-57-titolo" /></head>
          <p n="1">LVII</p>
          <p n="2">|242r| <seg n="1"> ‹L›e arme de questa generaciun tartara sono maçe nervade et àno spade molto bone,
                e ssono boni arcieri e con le saete molto se aiutano. </seg><seg n="2"> Le arme de dosso sono de chuoro de bufalli et de altri animalli, molto grose e
@@ -1083,7 +1079,7 @@
                la testemoniança mia, apresso tuti et massime a quei che per i tempi vederà o udirà,
                sia cognosuta vera.</seg></p>
       </div>
-  <div n="58"><head>58</head>
+  <div n="58" type="chapter" xml:id="vb-null-58"><head><seg xml:id="-titolo">58</seg><seg xml:id="vb-null-58-titolo" /></head>
          <p n="1">LVIII</p>
          <p n="2"><seg n="1"> ‹P›artendosi da <term ref="#caracoran">Caracoron</term> et dala montagna d’Achay sopra nominata, la qual montagna chome ò dito è reservata per la sepoltura di segnori
                tartari, chaminasi per un piano e per una contrata chiamata <term ref="#bargu">Bargu</term>. </seg><seg n="2"> E per questo piano non se trova quaxi abitacione o poche; et dura questo piano
@@ -1098,7 +1094,7 @@
                a donare a segnori. </seg><seg n="7"> Trovassi ecian, in alguna parte de dete montagne, cisfalchi i qualli per cossa
                dil mondo non si llasa trar, ma tuti fino mandati ad Aragon segnore de <term ref="#tartari">Tartari</term>, i qual lui ne manda a donare ad alltri segnori.</seg></p>
       </div>
-  <div n="59"><head>59</head>
+  <div n="59" type="chapter" xml:id="vb-null-59"><head><seg xml:id="-titolo">59</seg><seg xml:id="vb-null-59-titolo" /></head>
          <p n="1">LIX</p>
          <p n="2"><seg n="1"> ‹P›artendosi da <term ref="#campion">Capitui</term>, chaminando per .V. giornate, in questo chamino se alde la note molti spiriti parlare.
                </seg><seg n="2"> Et a chapo dele dite .V. giornate, ver levante, se trova 1° reame che fi apellatto
@@ -1111,7 +1107,7 @@
                vache mestiche, et i mançi de quele escono sono meravegliosi animalli et ati a fati
                che più de ogni alltro animalle. </seg></p>
       </div>
-  <div n="60"><head>60</head>
+  <div n="60" type="chapter" xml:id="vb-null-60"><head><seg xml:id="-titolo">60</seg><seg xml:id="vb-null-60-titolo" /></head>
          <p n="1">LX</p>
          <p n="2"><seg n="1"> ‹I›n questa contrada nase el muschio el più fino se trova. </seg><seg n="2"> Et nase de uno animalle picollo come una gacela et è del pello de cervo molto
                groso; àno i piedi chome de gacella, non à chorne chome à lla gaçella, ançi ‹è› sença
@@ -1134,13 +1130,13 @@
                sono richi, per avere quelle, da’ dela roba alla madre dela çovene per aver quella
                per moglie e tanto sono aprexiate quanto le sono belle.</seg></p>
       </div>
-  <div n="61"><head>61</head>
+  <div n="61" type="chapter" xml:id="vb-null-61"><head><seg xml:id="-titolo">61</seg><seg xml:id="vb-null-61-titolo" /></head>
          <p n="1">LXI</p>
          <p n="2"><seg n="1"> ‹P›artendosi da <term ref="#erginul">Garelli</term> verso levante se trova una citade e provincia che se chiama <term ref="#egrigaia">Egrigaian</term>; et à citade et chastelli sotto si et è dela provincia de <term ref="#tanguth">Tangut</term>, et la citade maistra se chiama <term ref="#calacia">Galagian</term>. </seg><seg n="2"> La giente ve abita sono <term ref="#idolatri">idolatri</term> et è gli .IIII°. giexie de cristiani nestorini; et sono sotoposti al <term ref="#gran-can">Gran Chan</term>. </seg><seg n="3"> In questa citade se fano de finissimi çanbelloti de pello de ganbello et anchor
                de lana biancha, e molti de diti çanbelloti fino mandati a vender in alltre parte
                e portati per marchadanti in molti luogi e provincie.</seg></p>
       </div>
-  <div n="62"><head>62</head>
+  <div n="62" type="chapter" xml:id="vb-null-62"><head><seg xml:id="-titolo">62</seg><seg xml:id="vb-null-62-titolo" /></head>
          <p n="1">LXII</p>
          <p n="2"><seg n="1"> <term ref="#tenduch">‹S›endug</term> si è una provincia posta verso levante la qual à citade et chasteli asai et è sottoposta
                al <term ref="#gran-can">Gran Chan</term>; e la çitade maistra se chiama <term ref="#tanguth">*Tangut</term> et questa provincia fo çà del <term ref="#prete-gianni">Presto Çane</term>. </seg><seg n="2"> Et è segnoregiata da uno re che desese de·legnaço de <term ref="#prete-gianni">Presto Çane</term> et chiamasi <term ref="#georgio">Çiorçin</term>, e rechognose la segnoria dal <term ref="#gran-can">Gran Chan</term> ma non con intregità chome el tene per avanti <term ref="#prete-gianni">Presto Çane</term>. </seg><seg n="3"> Et questi segnori, çoè çiorçini, sono reputadi di nobel sangue perché senpre i
@@ -1149,13 +1145,13 @@
                et de archi. </seg><seg n="7"> La Segnoria de quella si è cristiani ma sòne per quelle contrade molti <term ref="#idolatri">idolatri</term>: et abitaçi una generacion che se apella in soa lingua <term ref="#argon">*Argon</term> che in nostra lingua se diria Gusmulli, però che quelli sono nati de do generacion: e questi sono più belli homeni che i
                alltri et più merchadanti. </seg><seg n="8"> In questa provincia era el setro principal de <term ref="#prete-gianni">Presto Çane</term> quando el segnoregiava i <term ref="#tartari">Tartari</term>. </seg><seg n="9"> Questa citade chome ò dito fi apelada <term ref="#og-et-magog">Gogmagog</term>, et questo per do generacion de giente ve abitavano: l’una fia chiamada <term ref="#ung">Ung</term>, l’altra <term ref="#mongul">Mungul</term>, i qual demoravano in conpagnia con <term ref="#tartari">Tartari</term>.</seg></p>
       </div>
-  <div n="63"><head>63</head>
+  <div n="63" type="chapter" xml:id="vb-null-63"><head><seg xml:id="-titolo">63</seg><seg xml:id="vb-null-63-titolo" /></head>
          <p n="1">LXIII</p>
          <p n="2"><seg n="1"> ‹C›havalchando per questa provincia una giornata per levante, verso <term ref="#cataio">Lotay</term>, se trova molte çitade et chastelli. </seg><seg n="2"> Le giente parte adorano <term ref="#macometto">Machometo</term> et sono parte cristiani nestorini et gente <term ref="#idolatri">idolatri</term>, et viveno de marchadantie et mestieri. </seg><seg n="3"> Lavorasi beli pani de oro e de seta et chiamasi nasoy, et sono altra sorta de
                pani che se chiama nachi et anchor de altri diversi pani; et sono sottoposti al <term ref="#gran-can">Gran Chan</term>, et ène una citade in dita provincia chiamada <term ref="#sindicin">Sindatiu</term>. </seg><seg n="4"> Et in questa citade se lavora tute arnixe da hoste molto bele et bone. 5. Ène
                in questa provincia una montagna che se chiama Idisuonsia che |244r| vol dir argentiera, però che in dita montagna se chava argiento assai.</seg></p>
       </div>
-  <div n="64"><head>64</head>
+  <div n="64" type="chapter" xml:id="vb-null-64"><head><seg xml:id="-titolo">64</seg><seg xml:id="vb-null-64-titolo" /></head>
          <p n="1">LXIV</p>
          <p n="2"><seg n="1"> ‹P›artendosi da questa provincia e chavalchando per .III. giornate se giongie
                a una citade chiamata <term ref="#cianganor">Çianganor</term>, nela qualle algune fiade abita a piacere el <term ref="#gran-can">Gran Chan</term>, nela qual è uno gran palasio molto ornato per abitacione del segnore. </seg><seg n="2"> Nel contado de dita tera v’è bellissime paise e masime de falchoni da reviera
@@ -1171,7 +1167,7 @@
                tute chosse per el viver e dela soa fameia, in tanto ch’è una mirabelle chossa e stupenda
                a vedere la grandeça de tute soe bisogne. </seg></p>
       </div>
-  <div n="65"><head>65</head>
+  <div n="65" type="chapter" xml:id="vb-null-65"><head><seg xml:id="-titolo">65</seg><seg xml:id="vb-null-65-titolo" /></head>
          <p n="1">LXV</p>
          <p n="2"><seg n="1"> ‹L›utano dala dita citade de <term ref="#cianganor">Çianganor</term>, per .III. giornate, se trova la citade de <term ref="#xandu">Çiandu</term> nela qual citade <term ref="#cublai-can">Clobai</term> <term ref="#gran-can">Gran Chan</term> à fato fare de nobellisimi palaxi lavorati di marmoro sotilmente: le chamere, salle
                e portichi loro sono ornatissimi orati e pinti meraviglioxamente; e i ornamenti de
@@ -1191,7 +1187,7 @@
                et è sì ben condicionato che con picholla faticha se lieva e mete. </seg><seg n="9"> Et è quelle chane depinte et dorate molto bele e qui dimora el <term ref="#gran-can">Segnore</term> per mesi .III. di l’ano: l’instate – çugno, luio et agosto – parendoge l’aire più
                tenperato et diletevelle più che in alltra parte e piacevelle de ogni paissa. </seg><seg n="10"> Et subito che el <term ref="#gran-can">Segnore</term> se parte, el palaço fi desfato e rifato; quando el <term ref="#gran-can">Segnore</term> abita, chome ò dito, e partesi senpre el <term ref="#gran-can">Segnore</term> cercha per tuto agosto.</seg></p>
       </div>
-  <div n="66"><head>66</head>
+  <div n="66" type="chapter" xml:id="vb-null-66"><head><seg xml:id="-titolo">66</seg><seg xml:id="vb-null-66-titolo" /></head>
          <p n="1">LXVI</p>
          <p n="2"><seg n="1"> ‹P›er la maçor parte del cibo de questo <term ref="#gran-can">Segnore</term>, senpre apresso a llui à una gran mandra de chavalli et chavale bianchissimi, sença
                machulla alguna et oltra a gran quantità de vache bianchissime. </seg><seg n="2"> Dele qual vache et çumente è nutrigato solo el <term ref="#gran-can">Gran Chan</term> et non alltra persona del mondo, et i suo’ desendenti, çoè quei del sangue suo, et
@@ -1236,7 +1232,7 @@
                portano la testa e la barba raxi, dormeno senpre nele stuore. </seg><seg n="22"> Questi non toria moglie per cossa veruna. </seg><seg n="23"> Àno le lor chiexie (over tenpi) seperati dai altri et àno i suo’ idolli tuti
                de nome femenil. </seg></p>
       </div>
-  <div n="67"><head>67</head>
+  <div n="67" type="chapter" xml:id="vb-null-67"><head><seg xml:id="-titolo">67</seg><seg xml:id="vb-null-67-titolo" /></head>
          <p n="1">LXVII</p>
          <p n="2">|245v| <seg n="1"> <term ref="#cublai-can">‹C›lobai</term>, sesto <term ref="#gran-can">Gran Chan</term> el qual de pressente regna, è del sangue de <term ref="#cingis-can">Çeçin Chan</term> inperador tartaro et chomençò a regnare nel .MCCLVI.; et aquistò la segnoria per
                suo gran prodeça e seno, e contra la volontà di frateli et molti altri baroni suo’
@@ -1294,7 +1290,7 @@
                punito. </seg><seg n="29"> E vui iudei e saracini |246v| guardative da dire el dio de cristiani essere iniusto
                però che in quello è suma iusticia». </seg><seg n="30"> Avendo aldito cristiani el alto parlare de <term ref="#cublai-can">Clobai</term> <term ref="#gran-can">Segnore</term>, molto lieti con benigne parolle, rengraciò el <term ref="#gran-can">Segnore</term> e con grandissima confusione de çudei et saracini se partino dala presencia del <term ref="#gran-can">Segnore</term>, né avendo più ardire de inproperar la fede cristiana.</seg></p>
       </div>
-  <div n="68"><head>68</head>
+  <div n="68" type="chapter" xml:id="vb-null-68"><head><seg xml:id="-titolo">68</seg><seg xml:id="vb-null-68-titolo" /></head>
          <p n="1">LXVIII</p>
          <p n="2"><seg n="1"> ‹C›onquistato ch’ebe <term ref="#cublai-can">Clobai</term> tuta la segnoria de <term ref="#naiam">Naian</term>, deliberò tornare a chaxa e nel suo ritorno gionse ‹a› <term ref="#cambalu">Camalot</term>, suo nobelissima citade la qual è abondantissima de ogni bene et à el più deletevelle
                paexe de tute paise et chaçaxone che alchuna alltra tera. </seg><seg n="2"> E però quivi dimoròno alchuni giorni con grandissimo riposso de tuto l’oste suo
@@ -1343,7 +1339,7 @@
                del <term ref="#gran-can">Gran ‹Can›</term>. </seg><seg n="23"> Dicho nelle chosse ponderoxe questi .XII. ànno gran possança e pono fare bene
                e malle assai a chui a lloro piace.</seg></p>
       </div>
-  <div n="69"><head>69</head>
+  <div n="69" type="chapter" xml:id="vb-null-69"><head><seg xml:id="-titolo">69</seg><seg xml:id="vb-null-69-titolo" /></head>
          <p n="1">LXIX</p>
          <p n="2"><seg n="1"> <term ref="#cambalu">‹C›amalau</term> si à molte strade le qual vano in molte provincie; et è sì ben posta la dita citade
                de <term ref="#cambalu">Camalau</term> che de quella se pò andare in ogni provincia. </seg><seg n="2"> E de .XXV. migia in .XXV. migia se trova una posta la qua’ loro apelano iamb,
@@ -1366,7 +1362,7 @@
                al <term ref="#gran-can">Segnore</term>; e per questo afano di letere, questi talli sono exenti de alltra angaria et ancho
                molte fiate el <term ref="#gran-can">Segnore</term> ge fa donare quando i chavalari portano bone nuove. </seg><seg n="11"> Le poste di sopra narate che tengono i chavalli nonn è de spexa alguna al <term ref="#gran-can">Segnore</term> però che la spexa de chadauna posta è pagata per quella cità dove è la posta. </seg><seg n="12"> Le poste ch’eno nel teritorio dela propria cità de <term ref="#cambalu">Camalau</term> ‹la› quale el <term ref="#gran-can">Gran Chan</term> fa tegnir richissimamente e con nobelli chavalli ben adornati et richissimamente.</seg></p>
       </div>
-  <div n="70"><head>70</head>
+  <div n="70" type="chapter" xml:id="vb-null-70"><head><seg xml:id="-titolo">70</seg><seg xml:id="vb-null-70-titolo" /></head>
          <p n="1">LXX</p>
          <p n="2"><seg n="1"> ‹Q›uesto nobellisimo segnore <term ref="#gran-can">Gran Chan</term>, amado da tuti popoli, non altrementi che proprio idio, oserva questo nobel costumo:
                che ogni ano el manda do fiade per tute suo’ provincie sindici (a nostro modo) con
@@ -1381,7 +1377,7 @@
                </seg><seg n="5"> Per remedio dei viandanti à fato piantare nel chamin albori grandi e spesi che
                dimostra le vie per tuto el suo paexe e massime per la suo provincia e reame de <term ref="#cataio">Chamalina</term>.</seg></p>
       </div>
-  <div n="71"><head>71</head>
+  <div n="71" type="chapter" xml:id="vb-null-71"><head><seg xml:id="-titolo">71</seg><seg xml:id="vb-null-71-titolo" /></head>
          <p n="1">LXXI</p>
          <p n="2"><seg n="1"> ‹N›ela provincia del <term ref="#cataio">Cataio</term> se beve vino de rixi; fano boglire i rixi insieme con specie e traçene vino chiaro
                et bello e molto odorifero et è più diletevolle da bere che nonn è el vino de uve
@@ -1389,7 +1385,7 @@
                legne, né adoperano nel brusare salvo le dite pietre. </seg><seg n="3"> Àno però legname asai ma sono più charo che le pietre; e quelo se adoperano in
                lavorieri de chaxamenti et altro; e le dite pietre da nulla vaieno se no da bruxare.</seg></p>
       </div>
-  <div n="72"><head>72</head>
+  <div n="72" type="chapter" xml:id="vb-null-72"><head><seg xml:id="-titolo">72</seg><seg xml:id="vb-null-72-titolo" /></head>
          <p n="1">LXXII</p>
          <p n="2">|248r| <seg n="1"> ‹I›o avea trapassato una nobelissima lemosena che senpre questo nobellisimo <term ref="#gran-can">Segnore</term> <term ref="#gran-can">Gran Chan</term> oserva da fir comemorata. </seg><seg n="2"> Nella suo citade de <term ref="#cambalu">Camalau</term> el vol sapere tuti poveri son in quella e simel nei borgi e nel contado; et a tute
                le fameie besognose ge fa dare dela biava segondo el bisogno dila fameia; e vol avere
@@ -1402,7 +1398,7 @@
                precio de quel valeno per i marchadanti. </seg><seg n="6"> E per queste chaxone ell’è tanta la benivolencia de tutti versso quello nobellisimo
                <term ref="#gran-can">Segnore</term> che è una chosa stupenda.</seg></p>
       </div>
-  <div n="73"><head>73</head>
+  <div n="73" type="chapter" xml:id="vb-null-73"><head><seg xml:id="-titolo">73</seg><seg xml:id="vb-null-73-titolo" /></head>
          <p n="1">LXXIII</p>
          <p n="2"><seg n="1"> ‹I›o çudego esser degno de memoria né preterir, esendo io stà mandato per questo
                mio <term ref="#gran-can">Segnore</term> anbassatore, io chavalchai per quatro mesi de giornate verso ponente partendome da
@@ -1417,7 +1413,7 @@
                è serado de tole de marmoro: et è una chossa mirabele a veder la grandeça del ponte
                e chom’è richa e nobellemente lavorato.</seg></p>
       </div>
-  <div n="74"><head>74</head>
+  <div n="74" type="chapter" xml:id="vb-null-74"><head><seg xml:id="-titolo">74</seg><seg xml:id="vb-null-74-titolo" /></head>
          <p n="1">LXXIV</p>
          <p n="2"><seg n="1"> ‹P›artendossi dal sopra dito ponte, chaminando per .XXX. miglia, senpre se trova
                belissimi vignalli e bellissimi chanpi lavoradi e molte abitacione. </seg><seg n="2"> E dapo’ se trova <term ref="#cingui">Cingui</term>, nobelle e gran citade, la qual è de <term ref="#idolatri">idolatri</term> et à molte badie de loro sacerdotti e munexi, i qualli però viveno de marchadantie
@@ -1427,7 +1423,7 @@
                del <term ref="#mangi">Maçin</term>, e la strada che tende ver ponente è dela provincia del <term ref="#cataio">Catay</term>. </seg><seg n="6"> E chaminando per dita strada de ponente per la provincia del <term ref="#cataio">Chatay</term>, per .X. çornade, se trova de belle citade et chastelle. </seg><seg n="7"> È giente de marchadantie e belli mestieri e contadi belli e ben coltivadi; è tuta
                gente molto demestiga et da bene.</seg></p>
       </div>
-  <div n="75"><head>75</head>
+  <div n="75" type="chapter" xml:id="vb-null-75"><head><seg xml:id="-titolo">75</seg><seg xml:id="vb-null-75-titolo" /></head>
          <p n="1">LXXV</p>
          <p n="2">|248v| <seg n="1"> ‹D›a <term ref="#cingui">Cingui</term> partendosi et chavalchando per .X. giornate, trovasi uno reame el qualle se chiama
                <term ref="#tainfu">Tanafu</term>. </seg><seg n="2"> E nel capo del reame è una citade chiamata ecian <term ref="#tainfu">Tanafu</term> chome la provincia, over reame, la qual citade è bella e molto grande. </seg><seg n="3"> È tera de gran marchadantie; e qui è gran mestiero de armadure e fasene assai
@@ -1438,7 +1434,7 @@
                marchadantia et mestieri. </seg><seg n="7"> Et a chapo de dite .VII. giornate se trova una citade chiamata <term ref="#pianfu">Pianfu</term> che è bella e gran citade e vive de marchadantie et de arte, e fasse gran quantità
                de seta.</seg></p>
       </div>
-  <div n="76"><head>76</head>
+  <div n="76" type="chapter" xml:id="vb-null-76"><head><seg xml:id="-titolo">76</seg><seg xml:id="vb-null-76-titolo" /></head>
          <p n="1">LXXVI</p>
          <p n="2"><seg n="1"> ‹E›sendo partito da <term ref="#pianfu">Pianfu</term> e chaminando per .II. giornate, trovassi uno chastello nominato <term ref="#thaigin">Cangiafu</term>, el qual se dice fece far el re <term ref="#dor">Doro</term> nobellissimo segnore nel suo tenpo. </seg><seg n="2"> In questo chastello è 1° nobelle palaço, nel qual è una bella salla in la qual
                è depinto tuti i nominadi segnori de quele parte e che ànno abuto fama. </seg><seg n="3"> I’ son contento qui non preterire quello ochorsse al dito re <term ref="#dor">Doro</term>, degno al mio iudicio de memoria. </seg><seg n="4"> Essendo el dito re <term ref="#dor">Doro</term> sottoposto alla segnoria de <term ref="#prete-gianni">Presto Çane</term>, pur per suo arogancia se rebellò a quello né possendo el dito <term ref="#prete-gianni">Presto Çane</term> nuocere a quello per la forteça del suo paexe. </seg><seg n="5"> Dapo’ algun tenpo, .VII. nobelli chavallieri del dito <term ref="#prete-gianni">Presto Çuane</term>, disse: «Segnore, nui abiamo deliberato darte nele mane el to nemicho re <term ref="#dor">Doro</term> et a nostro podere nui te’l daremo vivo e se non nui l’alcideremo». </seg><seg n="6"> Aldito el <term ref="#prete-gianni">Presto Çane</term> i valloroxi chavallieri ne ebe grande apiacere et a quelli promesseno molte richeçe
@@ -1491,7 +1487,7 @@
                </seg><seg n="29"> Dapoi el <term ref="#prete-gianni">Presto Çane</term> ge donò de molti e nobellissimi chavalli et altri nobellissimi doni aconpagnato con
                orevellissima conpagnia el mandò nel reame suo.</seg></p>
       </div>
-  <div n="77"><head>77</head>
+  <div n="77" type="chapter" xml:id="vb-null-77"><head><seg xml:id="-titolo">77</seg><seg xml:id="vb-null-77-titolo" /></head>
          <p n="1">LXXVII</p>
          <p n="2"><seg n="1"> ‹P›artendosi da <term ref="#cacianfu">Çianfu</term>, per .VIII. çornade se chamina senpre inver ponente, senpre per lochi demestegi e
                ben lavoradi: è lochi molto abondanti de tuti beni e massime de morari assai, per
@@ -1508,7 +1504,7 @@
                da tutti molto el fi amato e reverito. </seg><seg n="13"> È richo e nobel segnore e deletassi molto de ornamenti e de nobelle chorte, per
                modo diresti esser gran magnificencia la corte de questo segnore.</seg></p>
       </div>
-  <div n="78"><head>78</head>
+  <div n="78" type="chapter" xml:id="vb-null-78"><head><seg xml:id="-titolo">78</seg><seg xml:id="vb-null-78-titolo" /></head>
          <p n="1">LXXVIII</p>
          <p n="2"><seg n="1"> ‹C›havalchando dala dita çitade per ponente, per .III. çornade, senpre per la
                provincia del <term ref="#cataio">Catay</term> e chavalchasse per una grande e bella pianura ben abitada e fornita de molte chastelle
@@ -1518,14 +1514,14 @@
                moltitude de animalli salvaçi sono in queste montagne. </seg><seg n="4"> Dura questo †madier† de montagne per .XX. giornate senpre abitade et ène per tute
                chastelle e citade.</seg></p>
       </div>
-  <div n="79"><head>79</head>
+  <div n="79" type="chapter" xml:id="vb-null-79"><head><seg xml:id="-titolo">79</seg><seg xml:id="vb-null-79-titolo" /></head>
          <p n="1">LXXIX</p>
          <p n="2"><seg n="1"> ‹C›havalchato se à per .XX. giornate se trova una provincia chiamata <term ref="#achbaluch-mangi">Abelch Mançi</term>, la qual è tutta piana et à molte citade et chastelli et è posta verso ponente; et
                sono tutta giente <term ref="#idolatri">idolatra</term> e viveno de marchadantia et arte. </seg><seg n="2"> Et in questa provincia nase molto çençero el qual per tuta quelle provincie fi
                portatto; et àno questi molti formenti et alltre biave e rixi. </seg><seg n="3"> La maistra citade è chiamata chome la provincia, çoè <term ref="#achbaluch-mangi">Abelech Mangy</term>, che vien a dir in lingua nostra uno di confini de <term ref="#mangi">Mancy</term>; E dura questa pianura ii giornate. </seg><seg n="4"> E nel chapo de questa pianura se trova molti boschi e grandi. </seg><seg n="5"> I abitanti sono tuti <term ref="#idolatri">idolatri</term> e viveno di fruti dela tera. </seg><seg n="6"> E trovassi leoni grandissimi e gran quantità et molti animalli salvaçi e gacelle
                çoè animalli che fano el muschi‹o›.</seg></p>
       </div>
-  <div n="80"><head>80</head>
+  <div n="80" type="chapter" xml:id="vb-null-80"><head><seg xml:id="-titolo">80</seg><seg xml:id="vb-null-80-titolo" /></head>
          <p n="1">LXXX</p>
          <p n="2"><seg n="1"> ‹C›haminandosi per una giornata per ponente se trova 1° gran piano alle confine
                del <term ref="#mangi">Magin</term> e fi apelado <term ref="#sindinfu">Sidinfan</term>; e la maistra citade se chiama <term ref="#sindinfu">Sindifu</term>, la qual antigamente fo nobelle et gran citade et à abudi antigamente molti re de
@@ -1540,7 +1536,7 @@
                </seg><seg n="7"> Tuta la giente ve abitta sono <term ref="#idolatri">idolatrii</term>. </seg><seg n="8"> E partendosi da questa citade, se chamina per v giornatte senpre per pianure ben
                choltivate et abitate ‹…› e viveno de fruti dela tera. </seg><seg n="9"> Àno bestiame assai e mestichi et salvatichi. </seg><seg n="10"> Lavorasi ecian in questo paexe drapi d’oro et de seta assai.</seg></p>
       </div>
-  <div n="81"><head>81</head>
+  <div n="81" type="chapter" xml:id="vb-null-81"><head><seg xml:id="-titolo">81</seg><seg xml:id="vb-null-81-titolo" /></head>
          <p n="1">LXXXI</p>
          <p n="2"><seg n="1"> ‹P›asato se à le .V. giornate, se trova la gran provincia de <term ref="#thebeth">Thabet</term>, la qual <term ref="#mongu-can">Mongut Chan</term> segnore di <term ref="#tartari">Tartari</term> destruse e guastò; et à la dita provincia molte citade et chastelle tute guaste.
                </seg><seg n="2"> Nase in questa provincia |250v| chane grossisime le qual per groseça volgeno spane
@@ -1576,7 +1572,7 @@
                del mondo. </seg><seg n="18"> Sono i più schostumati omeni abia el mondo. </seg><seg n="19"> Àno i maçor |251r| cani mastini vedese mai, anchor boni levrieri, falchoni assai
                e gran chaçaxone.</seg></p>
       </div>
-  <div n="82"><head>82</head>
+  <div n="82" type="chapter" xml:id="vb-null-82"><head><seg xml:id="-titolo">82</seg><seg xml:id="vb-null-82-titolo" /></head>
          <p n="1">LXXXII</p>
          <p n="2"><seg n="1"> <term ref="#caindu">‹G›ingut</term> è provincia versso ponente e tuti <term ref="#idolatri">idolatrii</term> e sotoposti al <term ref="#gran-can">Gran Can</term>: et à citade et chastelle asai a quella sottoposte. </seg><seg n="2"> Èt uno lago nel qualle se trova perlle assai, dele qualle sotto gravissima pena
                non se pò peschare, salvo di chomandamento del <term ref="#gran-can">Gran Chan</term>, né tal suo comandamento per chosa del mondo seria preterido per modo che quante
@@ -1608,7 +1604,7 @@
                sopra ò narato. </seg><seg n="17"> A chapo de dite .X. giornate, trovasse 1° fiume grandessimo el qualle se chiama
                <term ref="#brius">Brius</term> che è el confin dela provincia del Gundi: nel dito fiume se trova oro de paiolla assai e mete chapo nel <term ref="#mare-oceano">Mar Oceano</term>.</seg></p>
       </div>
-  <div n="83"><head>83</head>
+  <div n="83" type="chapter" xml:id="vb-null-83"><head><seg xml:id="-titolo">83</seg><seg xml:id="vb-null-83-titolo" /></head>
          <p n="1">LXXXIII</p>
          <p n="2"><seg n="1"> ‹L›asato se à el sopra dito fiume se trova la provincia de <term ref="#carazan">Carayam</term>, la qual è nobelle e gran provincia et à in si .VIII. regnami. </seg><seg n="2"> I abitanti sono <term ref="#idolatri">idolatri</term> e tuti sotto la segnoria del <term ref="#gran-can">Gran Can</term>. </seg><seg n="3"> Et de dita provincia è segnore 1° di fiolli del <term ref="#gran-can">Gran Cane</term>, il qualle à nome <term ref="#centemur">Setemur</term>, et è posentisimo segnore e valoroxo et iusto segnore e con grande iusticia governa
                el paese suo. </seg><seg n="4"> Partendosi per .V. giornate dal dito fiume per ponente trovase tuto ben abitado
@@ -1627,7 +1623,7 @@
                la charne menuda e mete quella in salle e del’agio e cossì quella cruda mangiano;
                altri fa taiar la charne menuta e quella con specie mete nel’aiada e mangialla. </seg></p>
       </div>
-  <div n="84"><head>84</head>
+  <div n="84" type="chapter" xml:id="vb-null-84"><head><seg xml:id="-titolo">84</seg><seg xml:id="vb-null-84-titolo" /></head>
          <p n="1">LXXXIV</p>
          <p n="2"><seg n="1"> ‹P›artitosi dela citade de <term ref="#iaci">Iaci</term> e chaminando per ponente per .X. çornade se trova la nobel citade nominata <term ref="#carazan">Caraxan</term>, come è nominata la provincia. </seg><seg n="2"> Sono i abitanti tuti <term ref="#idolatri">idolatri</term> e soto el dominio del <term ref="#gran-can">Gran Can</term> ma segnoregiata per 1° fo fiol del <term ref="#gran-can">Gran Chan</term> el qual |252r| à nome <term ref="#cogatin">Çiogatim</term>. </seg><seg n="3"> Trovase in questa provincia oro de paiolla assai et ancho oro più groso che de
                paiolla; e per la gran quantitade de oro ànno, dano saçi vi d’argiento per saço 1°
@@ -1660,7 +1656,7 @@
                et tanto più fellici in chadauna soa operacione. </seg><seg n="17"> Ma dapoi la fo soiugata dal <term ref="#gran-can">Gran Chan</term> tal chostumo i è stà levato, né più i è stà tolerato l’ocisiun de forestieri, ançi
                fato n’è gran punicione.</seg></p>
       </div>
-  <div n="85"><head>85</head>
+  <div n="85" type="chapter" xml:id="vb-null-85"><head><seg xml:id="-titolo">85</seg><seg xml:id="vb-null-85-titolo" /></head>
          <p n="1">LXXXV</p>
          <p n="2"><seg n="1"> ‹O›ltra la provincia de <term ref="#carazan">Caiaran</term>, chaminando per levante per giornate .V. se trova la provincia de <term ref="#cardandan">Ardidan</term>: sono sotoposti al <term ref="#gran-can">Gran Can</term> et è chiamata la maistra citade <term ref="#vociam">Votion</term>.  </seg><seg n="2"> Tutti i abitanti, sì mascholli chome femene, portano i denti dorati: i àno una
                piastra d’oro lavorata con la forma di denti e con quella se copreno i denti. </seg><seg n="3"> I homeni loro non àno altro mestiero che andar in oste et in chaçe e paise; tuto
@@ -1707,7 +1703,7 @@
                a quelli incantadori e omeni e femene e quelle mangeno e dicono i spiriti avere conssumato
                tutta la sustancia de quelle charne.</seg></p>
       </div>
-  <div n="86"><head>86</head>
+  <div n="86" type="chapter" xml:id="vb-null-86"><head><seg xml:id="-titolo">86</seg><seg xml:id="vb-null-86-titolo" /></head>
          <p n="1">LXXXVI</p>
          <p n="2"><seg n="1"> ‹N›el .MIIcLXXII. el <term ref="#gran-can">Gran Chane</term> mandò suo hoste nel reame de <term ref="#vociam">Utiam</term> per guardia de quello e fecene capitanio de quella giente <term ref="#centemur">Centimur</term> so nevodo, figio de 1° suo figio, el qualle el fece re de quel paexe. </seg><seg n="2"> El re de <term ref="#mien">Mian</term> e <term ref="#bangala">Bangalla</term>, saputo dela venuta de <term ref="#centemur">Centemur</term>, ne ave despiacere e disposese oviar a quello; e quanto presto poté apariò grandissimo
                hoste però ch’era potentisimo segnore. </seg><seg n="3"> Et apariati do millia elefanti con le tore sopra, quelle nele qualle per cadauna
@@ -1745,7 +1741,7 @@
                preseno cercha .IIc. leofanti; i altri parte fu morti e parte per el boscho se ne fugiro per che dapoi
                quella bataglia senpre el <term ref="#gran-can">Gran Can</term> usò de avere di liofanti nel’oste soe.</seg></p>
       </div>
-  <div n="87"><head>87</head>
+  <div n="87" type="chapter" xml:id="vb-null-87"><head><seg xml:id="-titolo">87</seg><seg xml:id="vb-null-87-titolo" /></head>
          <p n="1">LXXXVII</p>
          <p n="2"><seg n="1"> ‹C›havalchandosse per .XV. giornate, trovasse senpre paexe molto sterille e quaxi
                luogi deserti; e poi se trova la citade de <term ref="#mien">Mien</term>, ch’è bella e gran citade la qual è nel capo del regno. </seg><seg n="2"> I abitanti sono tuti <term ref="#idolatri">idolatri</term> e soto la segnoria del <term ref="#gran-can">Gran Can</term>. </seg><seg n="3"> In questa citade è do tore degne de memoria: fo fate per sepoltura de uno antigamente
@@ -1768,7 +1764,7 @@
                forestieri venga a conprar quello açò quegli portano argiento et altre merchadarie
                e faciano bono el paexe. </seg><seg n="12"> A chapo de .III. giornate versso meçodì se trova la provincia de <term ref="#bangala">Bangala</term>. </seg></p>
       </div>
-  <div n="88"><head>88</head>
+  <div n="88" type="chapter" xml:id="vb-null-88"><head><seg xml:id="-titolo">88</seg><seg xml:id="vb-null-88-titolo" /></head>
          <p n="1">LXXXVIII</p>
          <p n="2"><seg n="1"> <term ref="#bangala">‹B›angalla</term> è una provincia posta versso meçodì la qual, stando io Marcho Pollo nela corte de
                <term ref="#gran-can">Gran Can</term>, da quello fo conquistata e posta soto el dominio suo. </seg><seg n="2"> E stete l’oste suo gran tenpo al’asedio de quella perché è potente paexe; avea
@@ -1777,7 +1773,7 @@
                de queli ne fano gran marchadantie. </seg><seg n="7"> Àno spigo, gengero, galanga in gran quantitade e çuchari in grande abondancia
                e vengono marchadanti de <term ref="#india">India</term> a conprare. </seg><seg n="8"> Chapita eçian molti schiavi de qualli se ne fa gran marchadantie.</seg></p>
       </div>
-  <div n="89"><head>89</head>
+  <div n="89" type="chapter" xml:id="vb-null-89"><head><seg xml:id="-titolo">89</seg><seg xml:id="vb-null-89-titolo" /></head>
          <p n="1">LXXXIX</p>
          <p n="2">|254v| <seg n="1"> <term ref="#cingui">‹C›ingui</term> è una provincia versso levante vecina alla sopra dita, la qualle à re e linguaço
                per si, sotoposta però al <term ref="#gran-can">Gran Can</term>, et sono tuti <term ref="#idolatri">idolatrii</term>. </seg><seg n="2"> Questo segnore è molto libidinoxo: tiene oltra .IIIc. femene e dove sa essere nella provincia alchuna bella femina la volle per moglie.
@@ -1788,20 +1784,20 @@
                opere con oselli et alltre bestie e quanto sono più gentilli tanto sono meio depinti
                e tengono quele deponture per gentille e bella cossa.</seg></p>
       </div>
-  <div n="90"><head>90</head>
+  <div n="90" type="chapter" xml:id="vb-null-90"><head><seg xml:id="-titolo">90</seg><seg xml:id="vb-null-90-titolo" /></head>
          <p n="1">XC</p>
          <p n="2"><seg n="1"> <term ref="#amu">‹A›nuy</term> è provincia versso levante sotoposta al <term ref="#gran-can">Gran Cane</term>; sono <term ref="#idolatri">idolatrii</term>, àno lingua per si. </seg><seg n="2"> Viveno de’ fruti dela tera. </seg><seg n="3"> Le done loro e per simelle i omeni portano gamballi d’oro et d’argiento ale ganbe
                et alle braçe, e più richi portano i omeni che le done. </seg><seg n="4"> Questi àno bufalli et buo’ in grandissima quantitade, però che ’l paexe à buoni
                et assai pascoli; àno abondancia de tute cosse da vivere.</seg></p>
       </div>
-  <div n="91"><head>91</head>
+  <div n="91" type="chapter" xml:id="vb-null-91"><head><seg xml:id="-titolo">91</seg><seg xml:id="vb-null-91-titolo" /></head>
          <p n="1">XCI</p>
          <p n="2"><seg n="1"> <term ref="#tholoman">‹T›aloman</term> si è provincia verso levante. </seg><seg n="2"> La giente sono <term ref="#idolatri">idolatrii</term> et àno lenguaço per si et sotoposti al <term ref="#gran-can">Gran Can</term>. </seg><seg n="3"> Questi sono molto bella gente, sì omeni come femine; avegna non ‹siano› tropo
                bianche. </seg><seg n="4"> Sono tuti homeni d’arme; àno molti chastelle, ville e tere sotto si. </seg><seg n="6"> I corpi de’ loro morti i meteno in chasse e portalli nelle montagne e meti quelle
                nelle caverne pendente sì che animalli non vi possano andare. </seg><seg n="7"> Àno gran quantità de oro e per suo moneta picolla spendeno porcellane; e cossì
                spendeno le sopra dite do province <term ref="#cingui">Çingui</term> et <term ref="#amu">Anui</term>. </seg><seg n="8"> Viveno de late, charne e rixi e beveno vino de rixi chome de sopra le alltre provincie.</seg></p>
       </div>
-  <div n="92"><head>92</head>
+  <div n="92" type="chapter" xml:id="vb-null-92"><head><seg xml:id="-titolo">92</seg><seg xml:id="vb-null-92-titolo" /></head>
          <p n="1">XCII</p>
          <p n="2"><seg n="1"> <term ref="#cintigui">‹U›intiguy</term> è una citade e provincia verso levante, lutana da <term ref="#tholoman">Talamon</term> per .XII. giornate; et è posta sopra 1° fiume et à citade et chastelli assai soto
                a ssi. </seg><seg n="2"> Et chaminando su per el fiume per altre .XII. giornate se trova la bella e gran
@@ -1823,7 +1819,7 @@
                per .XII. giornate. </seg><seg n="11"> Su per questo fiume se trova chastelle e citade assai e tuti sono <term ref="#idolatri">idolatri</term> e soto el <term ref="#gran-can">Gran Can</term>. </seg><seg n="12"> Et a chapo dele dite .XII. giornate se trova <term ref="#sindinfu">Sindifu</term>, e da <term ref="#sindinfu">Sindifu</term> per .XX. giornade se trova Ginguy; e da Ginguy per .IIII°. çornade se trova la citade de <term ref="#thaigin">Cangiafu</term>. </seg><seg n="13"> Et in questo camin se trova citade et chastelle assai e tere de gran marchadantie
                e mestieri e tuti <term ref="#idolatri">idolatrii</term>; e spendeno moneda di carta dela stanpa del <term ref="#gran-can">Gran Can</term>. </seg><seg n="14"> La dita citade de <term ref="#thaigin">Cangiafu</term> si è la più nobelle e più magna citade abita tuta la provincia del <term ref="#cataio">Catay</term> et questi ardeno i corpi dei lloro morti.</seg></p>
       </div>
-  <div n="93"><head>93</head>
+  <div n="93" type="chapter" xml:id="vb-null-93"><head><seg xml:id="-titolo">93</seg><seg xml:id="vb-null-93-titolo" /></head>
          <p n="1">XCIII</p>
          <p n="2"><seg n="1"> <term ref="#cianglu">‹C›agnul</term> è una citade verso meçodì e della provincia del <term ref="#cataio">Catay</term> sotoposta al <term ref="#gran-can">Gran Cane</term>. </seg><seg n="2"> Sono <term ref="#idolatri">idolatrii</term> e spendeno moneta di carta dila stanpa del <term ref="#gran-can">Gran Can</term>; ecian questi ardeno i corpi morti loro. </seg><seg n="3"> In questo paexe se fano salle de tera in questo modo: i àno teren molto salmastro,
                e de questa tera i ne fano più monteselli; e sopra quegli monteseli de tera butano
@@ -1832,17 +1828,17 @@
                del focho l’aqua saciella et aprendesse et fasse salle. </seg><seg n="5"> Et di questa ne fano tanta quantità che non sollamente basti alla cità et paexe
                ma in alltre contrade ne portano et è gran marchadantie e fasene de quella gran guadagni.</seg></p>
       </div>
-  <div n="94"><head>94</head>
+  <div n="94" type="chapter" xml:id="vb-null-94"><head><seg xml:id="-titolo">94</seg><seg xml:id="vb-null-94-titolo" /></head>
          <p n="1">XCIV</p>
          <p n="2"><seg n="1"> <term ref="#ciangli">‹C›engli</term> si è citade del <term ref="#cataio">Catay</term> soto el <term ref="#gran-can">Gran Cane</term> et sono <term ref="#idolatri">idolatrii</term>; spendeno moneta di carta del <term ref="#gran-can">Segnore</term> ed è lutana da <term ref="#cianglu">Cagnul</term> .V. çornade. </seg><seg n="2"> Et in questo camino se trova chastelle e citade assai. </seg><seg n="3"> Sono tuti o per la maor parte merchadanti et tere de gran utilitade al <term ref="#gran-can">Segnore</term> però che per questa cità core 1° fiume molto grande, per el qualle àno transsito
                grandissima moltitudene de ogni merchadantie e de specie, drapi de seta e de oro e
                ssete assai che pagano gran comerchi al <term ref="#gran-can">Signore</term>.</seg></p>
       </div>
-  <div n="95"><head>95</head>
+  <div n="95" type="chapter" xml:id="vb-null-95"><head><seg xml:id="-titolo">95</seg><seg xml:id="vb-null-95-titolo" /></head>
          <p n="1">XCV</p>
          <p n="2">|255v|<seg n="1"> ‹P›artendossi da <term ref="#ciangli">Cengli</term> per .VI. giornate se trova molti citade e chasteli versso meçodì. </seg><seg n="2"> È citade riche et molto ate a merchadantie; et tuti per questo camino sono <term ref="#idolatri">idolatrii</term> et ardeno i corpi de loro morti. </seg><seg n="4"> È ssotoposti al <term ref="#gran-can">Gran Can</term> e spendeno dilla monetta soa di carta. </seg><seg n="3"> Àno abondantia de tute vituarie per el viver. </seg><seg n="4"> Et a chapo de dite .VI. giornate se trova la nobelle e gran citade chiamata <term ref="#tudinfu">Tondifu</term>.</seg></p>
       </div>
-  <div n="96"><head>96</head>
+  <div n="96" type="chapter" xml:id="vb-null-96"><head><seg xml:id="-titolo">96</seg><seg xml:id="vb-null-96-titolo" /></head>
          <p n="1">XCVI</p>
          <p n="2"><seg n="1"> <term ref="#tudinfu">‹T›ondifu</term> è una nobelle e gran citade e per avanti fu reame. </seg><seg n="2"> Èt sotto a si .XII. belle e gran citade; et è paexe de gran marchadantie e fo
                conquistata dal <term ref="#gran-can">Gran Can</term> per força e deletevelle di çardini. </seg><seg n="3"> Àno sete asai et abondante de tute cosse. </seg><seg n="4"> Nel .MIIcLXXII. el <term ref="#gran-can">Gran Can</term> mandò a governo de questa cità et a vardia de quel paexe uno suo barone chiamato
@@ -1853,7 +1849,7 @@
                <term ref="#gran-can">Gran Cane</term>, tuti i principal fece morire; ai altri perdonò e tolsei nell’oste soa e ssenpre
                dapò ge fo fedelli.</seg></p>
       </div>
-  <div n="97"><head>97</head>
+  <div n="97" type="chapter" xml:id="vb-null-97"><head><seg xml:id="-titolo">97</seg><seg xml:id="vb-null-97-titolo" /></head>
          <p n="1">XCVII</p>
          <p n="2"><seg n="1"> ‹P›artendossi da <term ref="#tudinfu">Tondifu</term> per iii giornate senpre se trova citade et chastelli nobelle et riche, piene de merchadantie
                et merchadanti e de molti mestieri. </seg><seg n="2"> È paexi molto fertelli et abondantissimi de tute vituarie. </seg><seg n="3"> E dapo’ le dite tre giornatte se trova la nobelle citade de <term ref="#singuimatu">Singul</term>, piena de merchadanti et marchadantie; et tutti sono <term ref="#idolatri">idolatri</term> et sottoposti ala segnoria del <term ref="#gran-can">Gran Can</term>. </seg><seg n="4"> La qual citade à un fiume de grande utillitade el qual vien dever meçodì, el qual
@@ -1863,7 +1859,7 @@
                continuamente navigare per questo fiume carichi de tute merchadantie e de grandissima
                richeça.</seg></p>
       </div>
-  <div n="98"><head>98</head>
+  <div n="98" type="chapter" xml:id="vb-null-98"><head><seg xml:id="-titolo">98</seg><seg xml:id="vb-null-98-titolo" /></head>
          <p n="1">XCVIII</p>
          <p n="2"><seg n="1"> ‹P›artendosi da Singuinatu, chavalchandosse per .VIII. giornate versso meçodì, trovasse citade et chastelli
                in gran quantità e pieni de marcha|256r|danti e marchadantie. </seg><seg n="2"> Èt tuti <term ref="#idolatri">idolatri</term>, sottoposti alla segnoria del <term ref="#gran-can">Gran Can</term>. </seg><seg n="3"> Ecian questi uxano ardere i corpi di lloro morti e spendeno moneta di carta del
@@ -1873,14 +1869,14 @@
                asai. </seg><seg n="7"> À uno fiume per el qual naviga non minore navilli che de sopra è dito, e richi
                pieni de gran marchadantie.</seg></p>
       </div>
-  <div n="99"><head>99</head>
+  <div n="99" type="chapter" xml:id="vb-null-99"><head><seg xml:id="-titolo">99</seg><seg xml:id="vb-null-99-titolo" /></head>
          <p n="1">XCIX</p>
          <p n="2"><seg n="1"> ‹P›er .III. giornate da Çingui inver meçodì se trova nel camino molte citade et
                chastelli la qual contrada è dela provincia del <term ref="#cataio">Catay</term>. </seg><seg n="2"> Sono per tuto <term ref="#idolatri">idolatrii</term> et fano ardere i corpi dei llor morti, ‹…› soto la segnoria del <term ref="#gran-can">Gran Can</term>. </seg><seg n="3"> E spendeno dela moneta soa de carta; è abondante paexe de tute vituallie. </seg><seg n="4"> E nel capo de dite .III. giornate se trova la cità chiamata Pinguy, grande e magna
                citade. </seg><seg n="5"> È citade de marchadantie; à gran quantità de seda et la dita citade è al’intrada
                de Languy dela provincia del <term ref="#mangi">Mançi</term>.</seg></p>
       </div>
-  <div n="100"><head>100</head>
+  <div n="100" type="chapter" xml:id="vb-null-100"><head><seg xml:id="-titolo">100</seg><seg xml:id="vb-null-100-titolo" /></head>
          <p n="1">C</p>
          <p n="2"><seg n="1"> ‹P›artendossi dala sopra dita citade e chavalchando .II. giornade ve‹r›sso meçodì,
                trovassi bellissimo paexe molto fertille; e dapoi se trova la citade de <hi rend="italics">‹</hi>Militen<hi rend="italics">›</hi>, molto grande e richa e de gran marchadantie. </seg><seg n="2"> Sono <term ref="#idolatri">idolatrii</term> et fano arder i corpi de’ loro morti; le monede sono de charta del <term ref="#gran-can">Gran Can</term> e sotoposti a quello. </seg><seg n="3"> Questo paexe è abondante de boni fruti e formento et altre biave assai; à bellissime
@@ -1890,7 +1886,7 @@
                chiamate <term ref="#coiganzu">Congagni</term> e l’altra <term ref="#quanzu">Congni</term>: l’una è grande e l’altra è picolla. </seg><seg n="7"> Et in questo luogo el <term ref="#gran-can">Segnore</term> <term ref="#gran-can">Gran Can</term> ne tien cercha .XVm. navilli che portano chadaun de loro 15 chavalli e homeni .XX., i qual è per portare
                hoste quando besogna nelle isolle nel’oceano. </seg><seg n="8"> Passato questo fiume se entra nella provincia del <term ref="#mangi">Mançi</term> la qual fo conquistatta per el Segnore Gran Can.</seg></p>
       </div>
-  <div n="101"><head>101</head>
+  <div n="101" type="chapter" xml:id="vb-null-101"><head><seg xml:id="-titolo">101</seg><seg xml:id="vb-null-101-titolo" /></head>
          <p n="1">CI</p>
          <p n="2"><seg n="1"> ‹L›a provincia del <term ref="#mangi">Manci</term> è lla più nobelle provincia e lla più richa abia tuto el levante, della qualle nel
                .MIIcLXVIII. n’era segnore el re <term ref="#fanfur">Fatur</term>, el più richo, el più potente segnore avesse tutto ‹el› levante; ma era segnore quieto
@@ -1925,7 +1921,7 @@
                né de cità, né mai se trovava homo alchuno facese algun furto né dano, tanto era la
                iusticia se facea: però con grandissima raxone da tuti fia amato.</seg></p>
       </div>
-  <div n="102"><head>102</head>
+  <div n="102" type="chapter" xml:id="vb-null-102"><head><seg xml:id="-titolo">102</seg><seg xml:id="vb-null-102-titolo" /></head>
          <p n="1">CII</p>
          <p n="2"><seg n="1"> <term ref="#cingui">‹C›ingui</term> si è nobelle e bella citade e richa et è posta nel’intrada del <term ref="#mangi">Manci</term> verso sirocho e levante. </seg><seg n="2"> La giente sono <term ref="#idolatri">idolatri</term> et fano arder i corpi de’ llor morti, et sono so‹to›posti al <term ref="#gran-can">Gran Can</term> et è posta la cità sopra el fiume de <term ref="#caramoran">Caramoran</term> per avanti nominato. </seg><seg n="3"> Questa cità àno grandissime |257r| nave che navegano per el fiume. </seg><seg n="4"> Èt gran quantitade per le gran marchadantie chapitano ive, per el bon sito dela
                tera la qual molto ben marcha con assai alltri paexi et ecian per la gran quantitade
@@ -1933,7 +1929,7 @@
                chaxone adoperano nave assai. </seg><seg n="5"> E del dito salle el <term ref="#gran-can">Segnore</term> <term ref="#gran-can">Gran Can</term> ne à grandissima utillitade et olltra grande utelle dele gabelle dele molte marchadantie
                core per la tera. </seg></p>
       </div>
-  <div n="103"><head>103</head>
+  <div n="103" type="chapter" xml:id="vb-null-103"><head><seg xml:id="-titolo">103</seg><seg xml:id="vb-null-103-titolo" /></head>
          <p n="1">CIII</p>
          <p n="2"><seg n="1"> ‹P›artendosi da <term ref="#singui">Cinguy</term>, chaminando una çornada inver l’ixolla vasse per una †cautia† la qualle è a l’intrada
                del <term ref="#mangi">Mançi</term>, la qualle cautia à molte belle porte. </seg><seg n="2"> Et apresso alla †cautia†, da uno di ladi e dal’altro, si è aqua onde nella provincia
@@ -1941,34 +1937,34 @@
                e grande citade la qualle se chiama <term ref="#paughin">Parchim</term>. </seg><seg n="4"> La giente tuti sono <term ref="#idolatri">idolatrii</term>, i qualli bruxano i corpi de lor morti e spendeno dilla moneta di carta del <term ref="#gran-can">Segnore</term> però che ssono sottoposti al <term ref="#gran-can">Gran Can</term>. </seg><seg n="5"> Viveno de marchadantie e mestieri. </seg><seg n="6"> Àno sede e fano pani de seta et oro in quantittà et è abondante de tute vituarie
                da viver.</seg></p>
       </div>
-  <div n="104"><head>104</head>
+  <div n="104" type="chapter" xml:id="vb-null-104"><head><seg xml:id="-titolo">104</seg><seg xml:id="vb-null-104-titolo" /></head>
          <p n="1">CIV</p>
          <p n="2"><seg n="1"> ‹D›a <term ref="#paughin">Pauchim</term> partendossi per una giornatta chaminando per sirocho, trovassi una citade la qual
                se chiama <term ref="#caim">Cain</term>, la qualle è bella e gran citade. </seg><seg n="2"> Sono tuti <term ref="#idolatri">idolatri</term>; spendeno moneta di charta del Segnore Gran Can et è sottoposta a llui; et ardeno i corpi di morti loro. </seg><seg n="3"> Viveno de mestieri et marchadantie. </seg><seg n="4"> È abondantissima de tute vituallie. </seg><seg n="5"> Àno animalli et oxelaxon assai: àsse lie .III. faxiani per una moneta quanto è
                1° grosso veneciano, i qual faxani sono grossi quanto paoni.</seg></p>
       </div>
-  <div n="105"><head>105</head>
+  <div n="105" type="chapter" xml:id="vb-null-105"><head><seg xml:id="-titolo">105</seg><seg xml:id="vb-null-105-titolo" /></head>
          <p n="1">CV</p>
          <p n="2"><seg n="1"> ‹P›artendossi dala dita citade chavalchandossi per una çornada senpre se trova
                chaxalli e lavoraxon assai. </seg><seg n="2"> Et dapo’ se trova una cità chiamata <term ref="#tingui">Tingui</term>, la qualle nonn è molto gran citade ma abondante de tuti beni. </seg><seg n="3"> E ssono <term ref="#idolatri">idolatri</term> et sottoposti al <term ref="#gran-can">Gran Chan</term> et spendeno della moneta soa di charta; et sono homeni marchadanti. </seg><seg n="4"> Àno gra‹n›de navillii. </seg><seg n="5"> Àno animalli assai e chaçaxon de animalli salvaçi et oxelaxon, la qual citade
                tende versso sirocho. </seg><seg n="6"> Et dala sinistra parte, verso levante, per .III. giornate alla longa, se trova
                il <term ref="#mare-oceano">mar Oceano</term> et dal <term ref="#mare-oceano">mar Ociano</term> per fino alla terra si se fa salle in gran quantità. </seg><seg n="7"> E in quel chamin si se trova una gran citade che se chiama <term ref="#cingui">Cingui</term> la qual è nobelle e gran citade. </seg><seg n="8"> E ffase lie tanto sale che ne fornisse tuta la provincia, della qualle el Segnore Gran Can ne traçe tanta utillità che è cossa mirabelle. </seg></p>
       </div>
-  <div n="106"><head>106</head>
+  <div n="106" type="chapter" xml:id="vb-null-106"><head><seg xml:id="-titolo">106</seg><seg xml:id="vb-null-106-titolo" /></head>
          <p n="1">CVI</p>
          <p n="2"><seg n="1"> ‹C›haminando per sirocho da <term ref="#cingui">Cingui</term> per una giornata se trova la nobelle citade chiamata <term ref="#iangui">Yanguy</term> laqual nobelle cità à ssoto a ssi .XXVII. citade: et è potentissima et sottoposta
                al <term ref="#gran-can">Gran Can</term>. </seg><seg n="2"> E de questa cità è <term ref="#gran-can">Segnore</term> uno de .XII. baroni per avanti nominati, governatori dele provincie elleti per el
                Signore Gran Can. </seg><seg n="3"> Sono tuti <term ref="#idolatri">idolatrii</term>. </seg><seg n="4"> Viveno de marchadantie et de mestieri e fase molte arme et arnixe de bataia però
                che per quelle contrade ’ve sso’ çente d’arme assai.</seg></p>
       </div>
-  <div n="107"><head>107</head>
+  <div n="107" type="chapter" xml:id="vb-null-107"><head><seg xml:id="-titolo">107</seg><seg xml:id="vb-null-107-titolo" /></head>
          <p n="1">CVII</p>
          <p n="2">|257v| <seg n="1"> <term ref="#nanghin">‹N›angi</term> è una provincia dever ponente et è dele pertinence del <term ref="#mangi">Manci</term> et è provincia molto richa. </seg><seg n="2"> Sono <term ref="#idolatri">idolatrii</term> et spendeno moneta di carta del <term ref="#gran-can">Gran Can</term>. </seg><seg n="3"> Hè locho di gran marchadantie: àno sette assai et lavorasse de richi pani de seta
                et oro in grande quantità et de molte maniere. </seg><seg n="4"> È locho abondantissimo de tute biave et ecian de tutte vituallie, animalli sì
                mestechi chome salvatechi in gran quantità et oxelaxon assai; ène lioni in quantità.
                </seg><seg n="5"> Sòne de richi marchadanti, per che è utillissima provincia al <term ref="#gran-can">Segnore</term> et massime per le gabelle dela marchadantia. </seg></p>
       </div>
-  <div n="108"><head>108</head>
+  <div n="108" type="chapter" xml:id="vb-null-108"><head><seg xml:id="-titolo">108</seg><seg xml:id="vb-null-108-titolo" /></head>
          <p n="1">CVIII</p>
          <p n="2"><seg n="1"> <term ref="#saianfu">‹S›ianfu</term> è una gra‹n›de citade e potente et à ssoto a ssi .XII. gran citade riche e potente,
                le qual tutte fano gran marchadantie et ecian fase mestieri assai d’ogni sorta. </seg><seg n="2"> Spendeno moneta di carta e tuti sono <term ref="#idolatri">idolatrii</term> e sotoposti al <term ref="#gran-can">Gran Chan</term>. </seg><seg n="3"> Àno ecian gran quantità di sete e fassene de bellissimi pani de seta e de oro.
@@ -1994,7 +1990,7 @@
                tuto el resto dela provincia, per che, intexo el <term ref="#gran-can">Gran Can</term> el prender dela cità, ne ebe quel piacere meritava la cossa. </seg><seg n="14"> Et dapoi, se i diti nobelli ven‹e›ciani prima dal <term ref="#gran-can">Segnore</term> era amati, molto più cressete el amor e reputacion de quelli apreso quel exelentissimo
                <term ref="#gran-can">Segnore</term>. </seg></p>
       </div>
-  <div n="109"><head>109</head>
+  <div n="109" type="chapter" xml:id="vb-null-109"><head><seg xml:id="-titolo">109</seg><seg xml:id="vb-null-109-titolo" /></head>
          <p n="1">CIX</p>
          <p n="2">|258r| <seg n="1"> ‹P›artendosi da <term ref="#saianfu">Saianfu</term>, chaminando per sirocho migia .XV., se trova la cità chiamata <term ref="#singui">Singuy</term>: nonn è tropo gran cità ma molto bona per le marchadantie et àno gran navillii. </seg><seg n="2"> Sono <term ref="#idolatri">idolatrii</term> e soto la segnoria del <term ref="#gran-can">Gran Can</term>. </seg><seg n="3"> Spendeno moneta di carta del suo <term ref="#gran-can">Segnore</term>; èt posta sopra el fiume de <term ref="#quian">Quien</term>, el qualle al mio iudicio è di maor over maor de’ tuti alltri fiumi, è in largeça
                in tal luocho forsi miglia .X. e de longeça olltra giornate .C°. fino el mete capo
@@ -2008,7 +2004,7 @@
                de quelle tortice longe .IIIc. passa, le qual sono più forte che non sono le tortiçe de canevo et sono ben fate
                e per simelle tute alltre sartie besogni per le nave.</seg></p>
       </div>
-  <div n="110"><head>110</head>
+  <div n="110" type="chapter" xml:id="vb-null-110"><head><seg xml:id="-titolo">110</seg><seg xml:id="vb-null-110-titolo" /></head>
          <p n="1">CX</p>
          <p n="2"><seg n="1"> <term ref="#cangiu">‹C›angiu</term> si è una picolla citade dever sirocho, la gente dela qualle sono tuti <term ref="#idolatri">idolatri</term>, soto la <term ref="#gran-can">Segnore</term>ia del <term ref="#gran-can">Gran Can</term>; et è sopra el fiume de <term ref="#quian">Quien</term>. </seg><seg n="2"> È molto frutifera de biave e rixi dele qual se ne porta gran quantità alla cità
                de <term ref="#cambalu">Canbalu</term>, ch’è la principal tera dove el <term ref="#gran-can">Gran Chan</term> abita: e questo per la bontà dele dite biave; dele qual principalmente, per la bontà
@@ -2020,7 +2016,7 @@
                tenpio di idoli, nela qualle ve abita ben .IIc. di loro moneçi che serveno a’ lloro idolli; et è questo tenpio chapo de molti idolli
                e de molti tenpi chome a nostro modo disamo archipiscopado.</seg></p>
       </div>
-  <div n="111"><head>111</head>
+  <div n="111" type="chapter" xml:id="vb-null-111"><head><seg xml:id="-titolo">111</seg><seg xml:id="vb-null-111-titolo" /></head>
          <p n="1">CXI</p>
          <p n="2"><seg n="1"> <term ref="#cinghianfu">‹C›ingiafu</term> è citade del <term ref="#mangi">Mangi</term> provincia. </seg><seg n="2"> E sono <term ref="#idolatri">idolatrii</term> e sotoposti alla segnoria del <term ref="#gran-can">Gran Chane</term> e spendeno di lor moneta di carta. </seg><seg n="3"> Viveno de marchadantie e mestieri. </seg><seg n="4"> Àno sete asai dele qual ne fano pani et de seta e de oro. </seg><seg n="5"> È paexe diletevole di ogni chaçaxon et oxelaxon; èt abondante paexe de tute vituallie.
                </seg><seg n="6"> Nella qual v’è do chiexie de cristiani nestorini le qual furono edificate regnando
@@ -2028,7 +2024,7 @@
                çoè nel .MIIcLXXIIII. dei ani del’incarnacion del nostro Segnore miser Ieshu Cristo: e da quel
                tenpo in qui ve | [258v] abita cristiani nestorini che per avanti neuno ve abitava.</seg></p>
       </div>
-  <div n="112"><head>112</head>
+  <div n="112" type="chapter" xml:id="vb-null-112"><head><seg xml:id="-titolo">112</seg><seg xml:id="vb-null-112-titolo" /></head>
          <p n="1">CXII</p>
          <p n="2"><seg n="1"> ‹P›artendosi dela cità de <term ref="#cinghianfu">Çingianfu</term> chavalchando per sirocho per .III. giornate, se trova castelle asai et citade che
                sono tuti <term ref="#idolatri">idolatri</term>; e viveno de mestieri et anche di marchadantie. </seg><seg n="2"> Èt sotoposti alla segnoria del <term ref="#gran-can">Gran Chane</term> e spendeno dila moneta di carta del <term ref="#gran-can">Segnore</term>. </seg><seg n="3"> Et a chapo de dite .III. giornatte se trova la cità de <term ref="#tinguigui">Tingigi</term>, la quale è bella et gran citade. </seg><seg n="4"> Et sono <term ref="#idolatri">idolatrii</term> e soto la segnoria del <term ref="#gran-can">Gran Cane</term>. </seg><seg n="5"> Questa cità è molto abondante de seta e fasene pani d’oro et de seta de più maniere
@@ -2047,7 +2043,7 @@
                in quella fu trovati (sì femene chome mascholi, picolli e grandi) furo morti per comandamento
                dil nobelle capitano. </seg></p>
       </div>
-  <div n="113"><head>113</head>
+  <div n="113" type="chapter" xml:id="vb-null-113"><head><seg xml:id="-titolo">113</seg><seg xml:id="vb-null-113-titolo" /></head>
          <p n="1">CXIII</p>
          <p n="2"><seg n="1"> <term ref="#singui">‹S›ingui</term> è grande e nobelle citade la quale gira d’entorno miglia .XL. </seg><seg n="2"> Sono tuti <term ref="#idolatri">idolatrii</term> e sotoposti al <term ref="#gran-can">Gran Cane</term> e spendeno dila moneta di carta de quello. </seg><seg n="3"> Àno gran quantità de seta dela qual ne fano pani per lor vestire et ancho ne vendeno;
                nella quale v’è richissimi merchadanti et tanta moltitudene de giente che è cossa
@@ -2060,7 +2056,7 @@
                </seg><seg n="8"> Et è soto le iusridicion de <term ref="#singui">Singui</term> .XVI. cità bone e riche. </seg><seg n="9"> <term ref="#singui">Singui</term> in latino vol dir “la tera”.|259r| </seg><seg n="10"> Dapo’ non molto longi dala dita citade se trova una alltra citade la qual se
                chiama Nicer: è bella citade ancho lutano da <term ref="#singui">Singui</term>. </seg><seg n="11"> A una giornata se trova una alltra citade che se apela <hi rend="italics">Nongin</hi>; dapo’ è <term ref="#uguiu">Vingui</term> nobelle e gran citade. </seg><seg n="12"> Queste giente, tute <term ref="#idolatri">idolatre</term>, è ssoto la segnoria del <term ref="#gran-can">Gran Can</term> et tute spendeno moneta di carta. </seg><seg n="13"> Questi sono molto savi homeni et astuti. </seg><seg n="14"> Àno sete assai et fasene pani de seta e de oro. </seg><seg n="15"> Sono assai marchadanti et fassene molti mestieri.</seg></p>
       </div>
-  <div n="114"><head>114</head>
+  <div n="114" type="chapter" xml:id="vb-null-114"><head><seg xml:id="-titolo">114</seg><seg xml:id="vb-null-114-titolo" /></head>
          <p n="1">CXIV</p>
          <p n="2"><seg n="1"> ‹P›artendossi dala dita cità de <term ref="#singui">Singui</term>, chavalchasi .III. giornate. </seg><seg n="2"> In quel camino se trova citade e molte castelle, riche e ben abitate. </seg><seg n="3"> Le giente, tuti <term ref="#idolatri">idolatrii</term>, viveno de mestieri e de merchadantie e tuti soto la segnoria del <term ref="#gran-can">Gran Can</term> e spendeno moneta di carta. </seg><seg n="4"> Dapo’ le dite .III. giornate se trova la nobelle et magnifica citade chiamata
                <term ref="#quinsai">Quinsai</term> che vol dir in lingua nostra çiello, la qual di belleça e nobeletà non ‹è› al mondo
@@ -2141,7 +2137,7 @@
                a far le raxon dele intrate del <term ref="#gran-can">Segnore</term> del dito reame de tute chosse eçeto che del salle, trovai la rendita del <term ref="#gran-can">Segnore</term> del dito reame (che è el nono dela provincia del Mangi, chome avanti parllai) è tomani
                .IIcX. d’oro, che valle .XVImVIIIIc miara de saci d’oro.</seg></p>
       </div>
-  <div n="115"><head>115</head>
+  <div n="115" type="chapter" xml:id="vb-null-115"><head><seg xml:id="-titolo">115</seg><seg xml:id="vb-null-115-titolo" /></head>
          <p n="1">CXV</p>
          <p n="2"><seg n="1"> ‹P›artendosi da <term ref="#quinsai">Quinsai</term>, çoè dal çielo in nostra lingua, caminando giornate do per sirocho, senpre se trova
                chaxe, çardini e paexe de gran dileto e piacere et abondantisimamente de tute chose
@@ -2149,31 +2145,31 @@
                merchadantia. </seg><seg n="5"> E chavalchando da questa citade, per sirocho senpre, se trova per .III. giornate
                e chastelli e vilaçi belissimi abondantisimi de tute vituallie.</seg></p>
       </div>
-  <div n="116"><head>116</head>
+  <div n="116" type="chapter" xml:id="vb-null-116"><head><seg xml:id="-titolo">116</seg><seg xml:id="vb-null-116-titolo" /></head>
          <p n="1">CXVI</p>
          <p n="2"><seg n="1"> ‹D›apo’ le sopra dite .III. giornate se trova la citade chiamata <term ref="#uguiu">Vingui</term> la qual citade è bella et ancho grande e sotto le iusridiciun de <term ref="#quinsai">Quinsai</term>; et sono <term ref="#idolatri">idolatri</term> e viveno de mestieri et anchor marchadantie. </seg><seg n="2"> E dala dita citade, caminando per .III. giornate per sirocho, senpre se trova
                belli chastelli e vilaçi: è tuto ben coltivado et abondantissime de tute vituallie.
                </seg><seg n="3"> Et à questo paexe le più grose cane abia quelli paexi: sòne de quelle che çira
                per groseça .IIII. spane e longe .XX. pasa. </seg></p>
       </div>
-  <div n="117"><head>117</head>
+  <div n="117" type="chapter" xml:id="vb-null-117"><head><seg xml:id="-titolo">117</seg><seg xml:id="vb-null-117-titolo" /></head>
          <p n="1">CXVII</p>
       </div>
-  <div n="0">
+  <div n="0" type="chapter" xml:id="vb-null-0">
          <p n="1">[1]‹A›capodelediteiiigiornatesetrovalacitàdeÇingui,laqualleègrandeebellaetèdelepertinenciedeQuinsai;sonoidolatri.[2]Ànoseteasaietèabondantedetutevitualie;fasemestieriemarchadantie.[3]EpartendosidaCingui,chavalchandopersirochoper.IIII.giornate,senpresetrovamoltecitadeechastelli,chaxaliasai,abondantedetutechosedavivere.[4]Ànochaçaxonetoxelaxonassai:trovaselioniassaigrandieipiùferociabiaquelleparte.[5]PertutalaprovinciadelManginonsetrovachastroninépechoreveruna,masíbuo,vache,chapre,porçiingranquantità.</p>
       </div>
-  <div n="118"><head>118</head>
+  <div n="118" type="chapter" xml:id="vb-null-118"><head><seg xml:id="-titolo">118</seg><seg xml:id="vb-null-118-titolo" /></head>
          <p n="1">CXVIII</p>
          <p n="2"><seg n="1"> ‹P›asato le .IIII°. giornate, dapo’ partitosi da <term ref="#cingui">Çingui</term>, se trova la nobelle citade chiamata <term ref="#zengian">Çiasia</term> la quale si è in monte e parte lo fiume, çoè parte va in su e parte in giu. </seg><seg n="2"> È soto la provincia dita e tuti sono <term ref="#idolatri">idolatri</term> e viveno de mestieri et anchor merchadantie. </seg><seg n="3"> Et dala dita citade, partendosi per .III. giornate, |261r| senpre se trova citade
                et chastelli, chaxalli assai. </seg><seg n="4"> E per la maçor parte i abitanti sono homeni d’arme; et tuto questo paexe ecian
                è abondantissimo de tute vituallie.</seg></p>
       </div>
-  <div n="119"><head>119</head>
+  <div n="119" type="chapter" xml:id="vb-null-119"><head><seg xml:id="-titolo">119</seg><seg xml:id="vb-null-119-titolo" /></head>
          <p n="1">CXIX</p>
          <p n="2"><seg n="1"> ‹A› capo dele dite .III. giornate se trova la citade de Cungui et è l’ultima cità dele iusridiciun de <term ref="#quinsai">Quinsai</term>. </seg><seg n="2"> Et è citade bella e grande et tuti <term ref="#idolatri">idolatrii</term> et tuti sotto el dominio et segnoria del Segnore Gran Can. </seg><seg n="3"> I’ò parllato assai de questo reame de Quinssai, che è uno di nove reami, nei qual, chome avanti io dissi, fo partito la provincia
                del <term ref="#mangi">Mangi</term>. </seg><seg n="4"> Ora principierò a parlar de uno di alltri reami del <term ref="#mangi">Mangi</term> e principierò dal reame chiamato <term ref="#fugiu">Fuguy</term>.</seg></p>
       </div>
-  <div n="120"><head>120</head>
+  <div n="120" type="chapter" xml:id="vb-null-120"><head><seg xml:id="-titolo">120</seg><seg xml:id="vb-null-120-titolo" /></head>
          <p n="1">CXX</p>
          <p n="2"><seg n="1"> ‹P›artendossi dela sopra dita citade et chaminando per sirocho, trovassi montagne
                assai. </seg><seg n="2"> Dapo’ se entra nel reame de <term ref="#fugiu">Fugui</term>, dele iusridicion dela provincia (chome ò dito) del Mangi et soto el dominio et segnoria
@@ -2193,7 +2189,7 @@
                et feroci. </seg><seg n="20"> Alle fine delle .III. giornate se trova la citade se chiama <term ref="#unguem">Inquin</term>, nella qual se fano gran quantità de çuchari: i qual fino adoperati per tuti quegi
                paexi e masime nella corte del <term ref="#gran-can">Gran Can</term>, la qual ne vole gran suma. </seg><seg n="21"> E la dita cità confina con el regno pur del <term ref="#mangi">Mangi</term> el qual s’apella <term ref="#concha">Concha</term>, ch’è uno di .VIIII°. reami del <term ref="#mangi">Mangi</term>. </seg></p>
       </div>
-  <div n="121"><head>121</head>
+  <div n="121" type="chapter" xml:id="vb-null-121"><head><seg xml:id="-titolo">121</seg><seg xml:id="vb-null-121-titolo" /></head>
          <p n="1">CXXI</p>
          <p n="2">|261v| <seg n="1"> <term ref="#fugiu">‹C›angui</term> è una citade nel reame de <term ref="#concha">Concha</term>; è citade de gran marchadantia et anchor mestieri assai. </seg><seg n="2"> Sono sotoposti al <term ref="#gran-can">Gran Can</term>. </seg><seg n="3"> In quella vi sta molta gente d’arme che ’l <term ref="#gran-can">Segnore</term> ve tien per guardia della provincia; et è ochorsso che, revellendo citade o chastello
                questa gente subito vano a ssechorsso de quella e, reavendolla, ne fano grandissima
@@ -2204,13 +2200,13 @@
                </seg><seg n="6"> Questo fiume mete capo apresso al porto chiamato <term ref="#zaitum">Charon</term> del <term ref="#mare-oceano">mar Oceano</term> et entròno per el fiume e veneno fino alla citade la qual è abondantissima de tute
                vituallie; à deletevelli giardini e prefetissimi fruti.</seg></p>
       </div>
-  <div n="122"><head>122</head>
+  <div n="122" type="chapter" xml:id="vb-null-122"><head><seg xml:id="-titolo">122</seg><seg xml:id="vb-null-122-titolo" /></head>
          <p n="1">CXXII</p>
          <p n="2"><seg n="1"> ‹P›artendosi da <term ref="#fugiu">Cangui</term> e passi el fiume chaminando per sirocho per .V. giornate, senpre se trova tere et
                chastelli e grande abitacion, e riche et molto abondante de ogni vituallia. </seg><seg n="2"> Chaminasi molto per monti et ancho per pian e boschi assai, nei qualli boschi
                se trova alborselli che fano la canfora. </seg><seg n="3"> È molto abondante de salvadesine. </seg><seg n="4"> Sono tuti <term ref="#idolatri">idolatri</term> et sotto el <term ref="#gran-can">Gran Can</term> et è delle iusridicion de <term ref="#fugiu">Fugui</term>. </seg><seg n="5"> Passato le .V. giornate se trova la citade chiamata <term ref="#zaitum">Caiten</term> la quale è nobelle e bella citade.</seg></p>
       </div>
-  <div n="123"><head>123</head>
+  <div n="123" type="chapter" xml:id="vb-null-123"><head><seg xml:id="-titolo">123</seg><seg xml:id="vb-null-123-titolo" /></head>
          <p n="1">CXXIII</p>
          <p n="2"><seg n="1"> ‹L›a cità de <term ref="#zaitum">Caiten</term> è porto sul mare al qual capitano tante nave con tante marchadantie et çoie e perlle
                assai, che chadaun stuperia a veder la moltitudene de quelle, le qual se spargeno
@@ -2221,7 +2217,7 @@
                .XLIIII. per .C.; le alltre specie .X. per .C., per che marchadanti tra le gabelle
                dele robe e dei nolli, el <term ref="#gran-can">Segnore</term> ne tocha la mitade. </seg><seg n="5"> La giente tuti sono <term ref="#idolatri">idolatri</term> e ssoto la segnoria del <term ref="#gran-can">Gran Can</term>. </seg><seg n="6"> È molto abondante de tute vituallie e molto diletevelle paexe. </seg><seg n="7"> È giente molto consolati et ati a riposo et diletevelle vivere.</seg></p>
       </div>
-  <div n="124"><head>124</head>
+  <div n="124" type="chapter" xml:id="vb-null-124"><head><seg xml:id="-titolo">124</seg><seg xml:id="vb-null-124-titolo" /></head>
          <p n="1">CXXIV</p>
          <p n="2">|262r| <seg n="1"> <term ref="#tingui">‹T›ingui</term> è una citade nela provincia e reame dito, nela qual se fano i llavori de porcellane
                çoè schudelle, piadene et alltri ordegni molto belli, né quaxi in alltre parte non
@@ -2229,7 +2225,7 @@
                tutto el mondo le fino portatte e per tuto mollto aprexiade. </seg><seg n="2"> Avegna che in questa citade el ne sia bon merchato: àssene per tanta moneta chome
                1° grosso venecian, .III. schudelle molto belle. </seg><seg n="3"> E questa gente àno lenguaço da per si.</seg></p>
       </div>
-  <div n="125"><head>125</head>
+  <div n="125" type="chapter" xml:id="vb-null-125"><head><seg xml:id="-titolo">125</seg><seg xml:id="vb-null-125-titolo" /></head>
          <p n="1">CXXV</p>
          <p n="2"><seg n="1"> ‹Ò›ve contado de .III. reami della provincia del <term ref="#mangi">Mangi</term> chome sopra avete udito; resta a descriver dei alltri .VI., di qual per ora non dellibero
                parlarni ma risservar a parllarni in alltra parte. </seg><seg n="2"> Narerò adoncha dele Indie Maçor e Menor e Meçana, le qual parte al iudicio mio nonn è da tacere, però che in quelle sono meraveioxe
@@ -2244,7 +2240,7 @@
                aver viste, el resto da omeni de reputacion et per la soa vita veritevelli aver intexo:
                e però vegnirò a naracion di quelle in questa segonda parte de questo libro.</seg></p>
       </div>
-  <div n="126"><head>126</head>
+  <div n="126" type="chapter" xml:id="vb-null-126"><head><seg xml:id="-titolo">126</seg><seg xml:id="vb-null-126-titolo" /></head>
          <p n="1">CXXVI</p>
          <p n="2"><seg n="1"> ‹D›apoi che nui abiamo contado de tante provincie, reami, citade et chastelle
                dela segnoria del Segnore Gran Can, iudico, per non esser ripresso di llongeça, partirme dala naracion de queste parte
@@ -2263,7 +2259,7 @@
                nuove e quelle fiçano bene e chalcano et ongille dila calcina dita di sopra e mollte
                fiate el v’è .VI. tavolle una sopra l’altra.</seg></p>
       </div>
-  <div n="127"><head>127</head>
+  <div n="127" type="chapter" xml:id="vb-null-127"><head><seg xml:id="-titolo">127</seg><seg xml:id="vb-null-127-titolo" /></head>
          <p n="1">CXXVII</p>
          <p n="2"><seg n="1"> <term ref="#zipangu">‹C›inpugui</term> è una ixolla dever levante la qualle è lutana dala staria migllia .MVc.; è grandissima isolla. </seg><seg n="2"> La giente di quella sono bianchi et bella gente; sono <term ref="#idolatri">idolatrii</term>, non sono sotoposti ad alcun <term ref="#gran-can">Segnore</term>. </seg><seg n="3"> In questa issolla è oro assai, né quello fora del’ixola fi lasato portare soto
                gran pene né ecian lì chapita merchadanti che l’abia a portar fuori, e però è abondantissima
@@ -2326,7 +2322,7 @@
                parea avesse tanta vertude che domente quella i aveano adosso i non potea esser offesi
                né morti; et tratoge le pietre i aveano adosso, inmediate i ffurono morti.</seg></p>
       </div>
-  <div n="128"><head>128</head>
+  <div n="128" type="chapter" xml:id="vb-null-128"><head><seg xml:id="-titolo">128</seg><seg xml:id="vb-null-128-titolo" /></head>
          <p n="1">CXXVIII</p>
          <p n="2"><seg n="1"> ‹Q›uesti isollani tuti sono <term ref="#idolatri">idollatri</term>, ma non dilla seta et ordene dei <term ref="#idolatri">idolatri</term> del <term ref="#cataio">Chataio</term> né del <term ref="#mangi">Mangino</term> per avanti naratovi, ma molto deferenciadi. </seg><seg n="2"> Îdolli costoro sòne idolle ànno el capo de buo et talle de cane et talle di montone
                e de altri molti animalli. </seg><seg n="3"> Et sono de quelli àno 1° capo con .IIII°. volti, et talle che àno .IIII°. capi
@@ -2338,7 +2334,7 @@
                cosse se potesse dire, le qual passerò soto silencio per non esser tedioso. </seg><seg n="6"> Non delibero questo suo horibelle costumo trapassare: questi <term ref="#idolatri">idolatri</term> senpre che i pono prendere qualche forestiero, el qualle non se possa redimere per
                dinari, quello i amaçano et convitano i suo’ amici a mangiar quello. </seg><seg n="7"> Àno la charne dell’omo per sengularissima anci principalle da mangiare. </seg><seg n="8"> El mare che circonda l’isolla prima |264r| dita se chiama el <term ref="#mare-cin">mare de Cino</term> che tanto è a dire el mare del <term ref="#mangi">Mangi</term> però che nella lingua de’ diti isollani chiamano el Mangi Cino.</seg></p>
       </div>
-  <div n="129"><head>129</head>
+  <div n="129" type="chapter" xml:id="vb-null-129"><head><seg xml:id="-titolo">129</seg><seg xml:id="vb-null-129-titolo" /></head>
          <p n="1">CXXIX</p>
          <p n="2"><seg n="1"> ‹I›n questo <term ref="#mare-cin">mare de Cino</term>, secondo l’opiniun di marinari et savi peloti che quel mare navigano, versso levante
                e sirocho ve sono issolle .VIImIIIIcXLIIII°. quasi tutte abitate. </seg><seg n="2"> Et in tutte queste isolle, i albori naschono in quelle rende grandissimo odore
@@ -2353,7 +2349,7 @@
                </seg><seg n="10"> Non delibero più partichullarmente tochar delle ditte issolle: vegnerò adonque
                a naracion dele altre parte di teraferma.</seg></p>
       </div>
-  <div n="130"><head>130</head>
+  <div n="130" type="chapter" xml:id="vb-null-130"><head><seg xml:id="-titolo">130</seg><seg xml:id="vb-null-130-titolo" /></head>
          <p n="1">CXXX</p>
          <p n="2"><seg n="1"> ‹P›artendossi dal’ultima citade de Quisan, la quale è apelada Cuguy, alora se entra nel reame el qualle se chiama <term ref="#fugiu">Fuguy</term>. </seg><seg n="2"> E de qui, caminando per .VI. giornade per sirocho senpre per montagne et ancho
                valle, se trova molte citade et chastelli, la giente di qualli sono tuti <term ref="#idolatri">idolatrii</term> e ssotto la segnoria del <term ref="#gran-can">Gran Can</term> però che tutto è del reame de <term ref="#fugiu">Fuguy</term>. </seg><seg n="3"> Viveno de marchadantie et arte. </seg><seg n="4"> Àno abondancia de tute vituallie per suo vivere. </seg><seg n="5"> Ène lioni in quantitade feroci et grandi, et altri animalli salvatichi e belle
@@ -2362,7 +2358,7 @@
                volentieri, pur non sia morta per infermitade da si, dela qualle per niun modo quella
                mangieria. </seg></p>
       </div>
-  <div n="131"><head>131</head>
+  <div n="131" type="chapter" xml:id="vb-null-131"><head><seg xml:id="-titolo">131</seg><seg xml:id="vb-null-131-titolo" /></head>
          <p n="1">CXXXI</p>
          <p n="2">|264v| <seg n="1"> ‹P›artendossi de queste parte et chaminasi verso el porto de <term ref="#zaitum">Çarito</term> (del qualle avanti ò parllatto) e partendossi da questo porto et navigi per ponente
                cercha meçodì, trovassi una contrada la qual fi apelada <term ref="#ziamba">Çanba</term>, la qualle è molto grande e richa contrada. </seg><seg n="2"> La qualle à re per si et de suo’ giente e de suo lenguaço e ssono tuti <term ref="#idolatri">idolatrii</term> et dano tributo al <term ref="#gran-can">Gran Can</term> ogni ano molti leofanti. </seg><seg n="3"> E fu fata questa contrada trabutaria del <term ref="#gran-can">Gran Can</term> nel .MIIcLXXVIII., avendo el <term ref="#gran-can">Gran Can</term> fato hoste; e comeso quello sotto el capetaniado e governo de uno suo barone chiamato
@@ -2383,7 +2379,7 @@
                dito avea .IIIcXXVI. fiolli di qualli ne era .CL. mascholli che vestivano arme tuti dele moiere e
                femene ch’el tegniva. </seg><seg n="11"> In questa contrada se trova leofanti in grandissima quantitade. </seg><seg n="12"> Trovassi ancho assai legno aloe e molto ebano. </seg><seg n="13"> Partiremosse de questa isolla de <term ref="#ziamba">*Çanba</term> e diremo de .II. alltre isolle.</seg></p>
       </div>
-  <div n="132"><head>132</head>
+  <div n="132" type="chapter" xml:id="vb-null-132"><head><seg xml:id="-titolo">132</seg><seg xml:id="vb-null-132-titolo" /></head>
          <p n="1">CXXXII</p>
          <p n="2">|265r| <seg n="1"> ‹P›artendosi dal’isola de <term ref="#ziamba">*Çanba</term>, navigando fra ostro e garbin per migia .VII., trovasi .II. isolle, una picolla e
                ll’altra grande le qualle una è chiamata <term ref="#sondur-et-condur">Sandu</term>, l’altra <term ref="#sondur-et-condur">Chandior</term>. </seg><seg n="2"> Et da queste issolle, navigando per sirocho per migia .Vc., trovassi la provincia del <term ref="#locach">Chacho</term> la qualle è molto grande e richa. </seg><seg n="3"> Et à re per segnore; hè abitatta da <term ref="#idolatri">gente idolatria</term> et àno linguaço da per si. </seg><seg n="4"> Et è libero segnore però che ad algun non n’è tributario, ‹… › per la forteça
@@ -2393,7 +2389,7 @@
                forniti. </seg><seg n="8"> Àno porcellane dele qual i spendeno e spendese ecian per le tere circostante,
                spendendo per suo monetta quelle. </seg><seg n="9"> La quale provincia è in sì aspro luogo et sitto che pochi forestieri lì chapitano.</seg></p>
       </div>
-  <div n="133"><head>133</head>
+  <div n="133" type="chapter" xml:id="vb-null-133"><head><seg xml:id="-titolo">133</seg><seg xml:id="vb-null-133-titolo" /></head>
          <p n="1">CXXXIII</p>
          <p n="2"><seg n="1"> ‹N›avigando dala provincia del <term ref="#locach">Chacho</term> per ostro migia .Vc., se trova l’ixola chiamata <term ref="#pentan">Pentay</term> la qualle è in molto salvaticho luogo. </seg><seg n="2"> Questa si à boschi de gran lignami e albori infiniti i qualli rendeno el maçor
                odore mai se sentise, i qualli boschi sono de gran utilitade e trovase in quelli molta
@@ -2403,13 +2399,13 @@
                pasi. </seg><seg n="4"> E pasado i diti .LX. mia, caminando più oltra .XXX. migia, se trova una isolla
                la qual è reame e maistra citade chiamata <term ref="#malaiur">Malains</term> e l’isolla che se chiama <term ref="#pentan">Pentay</term>. </seg><seg n="5"> I qualli àno re e llinguaço per si. </seg><seg n="6"> La citade è molto bella. </seg><seg n="7"> Àno specie assai e fase gran marchadantia e queste isolle si è soto al <term ref="#pentan">Pentay</term> el quale è reame chome i’ò dito.</seg></p>
       </div>
-  <div n="134"><head>134</head>
+  <div n="134" type="chapter" xml:id="vb-null-134"><head><seg xml:id="-titolo">134</seg><seg xml:id="vb-null-134-titolo" /></head>
          <p n="1">CXXXIV</p>
          <p n="2"><seg n="1"> ‹P›artendosi da <term ref="#pentan">Pentay</term> e, navigando per sirocho cercha migia .C., trovasi l’isola de <term ref="#giava">Iana la menor</term>, la qual isolla è grande che la çira intorno .IIm. migia. </seg><seg n="2"> La quale à in si .VIII. re che segnoriça .VIII. reami. </seg><seg n="3"> La giente tuti sono <term ref="#idolatri">idolatrii</term> et àno lenguaço da per si. </seg><seg n="4"> In questa isolla naseno specie assai. </seg><seg n="5"> Àno çoie e perlle assai; sono richi de oro. </seg><seg n="6"> Àno molte sorte specie che mai non se ne vede a ponente. </seg><seg n="7"> Questa isolla è tanto nel meçodì che la stella tramontana mai non se vede nello
                regno de <term ref="#felech">Forleto</term>, ch’è uno di otto reami del’isolla. </seg><seg n="8"> Qui capitano con le lor nave marchadanti saracini, i qualli àno convertiti quelli
                dela citade alla fé de <term ref="#macometto">Machometo</term>; ma tuti quelli del paexe sono <term ref="#idolatri">giente idolatria</term> asai bestialle. </seg><seg n="9"> Mangiano d’ogni carne bruta et ecian carne umana. </seg><seg n="10"> Adorano la prima cossa che la maitina i vedeno per tuto quel dì.</seg></p>
       </div>
-  <div n="135"><head>135</head>
+  <div n="135" type="chapter" xml:id="vb-null-135"><head><seg xml:id="-titolo">135</seg><seg xml:id="vb-null-135-titolo" /></head>
          <p n="1">CXXXV</p>
          <p n="2">|265v| <seg n="1"> ‹P›artendosi del reame de <term ref="#felech">Forlletto</term> – el quall chome ò ditto è deli .VIII. reami –dapoi se entra nel reame de <term ref="#basma">Basma</term>, la giente dil quale à linguaço da per si. </seg><seg n="2"> Questi non àno neuna legie; et avegna i se chiamano sotto el Gran Cha, anpo’ niuno tributo i ge dano però che i ssono tanto lutani, che le giente del <term ref="#gran-can">Gran Can</term> inpossibelle ge seria andarne; pur qualche fiata questa giente fano qualche presente
                de leofanti al <term ref="#gran-can">Gran Can</term>, onicorni o altro, di qualli quelle contrade ne ssono copioxe. </seg><seg n="3"> Questi unicorni sono grandi chome leofanti et à un chorno nella fronte negro e
@@ -2425,7 +2421,7 @@
                parano esser stati homeni: per che io afermo in quanti luoghi io son statto mai vidi
                e mai aldì dire in alchuna parte esser homeni picolli.</seg></p>
       </div>
-  <div n="136"><head>136</head>
+  <div n="136" type="chapter" xml:id="vb-null-136"><head><seg xml:id="-titolo">136</seg><seg xml:id="vb-null-136-titolo" /></head>
          <p n="1">CXXXVI</p>
          <p n="2"><seg n="1"> <term ref="#samara">‹S›amar</term> è el terço reame de quel’isolla che confina con el sopra dito reame de <term ref="#basma">Basma</term>. </seg><seg n="2"> In questo reame de <term ref="#samara">Samar</term> io, Marcho Pollo, demorai cercha .VI. mesi per i venti contrari che non ne lasava
                navegar. </seg><seg n="3"> In questa contrada la stella del vento a maistro non par niente. </seg><seg n="4"> La giente sono tuti <term ref="#idolatri">idolatri</term> et àno suo re molto possente e richo e chiamase per el <term ref="#gran-can">Gran Cane</term>. </seg><seg n="5"> Et ivi, dimorando chome ò dito per .VI. messi, fosemo per tuti suo’ chastelli
@@ -2441,7 +2437,7 @@
                gaton dila nose frescha è piena di licore di sapore mior che vino o alcun siropo o
                alchuna bevanda mai bevese. </seg><seg n="12"> Questa gente mangiano charne d’ogni sorta et de animalli bruti et inmondi.</seg></p>
       </div>
-  <div n="137"><head>137</head>
+  <div n="137" type="chapter" xml:id="vb-null-137"><head><seg xml:id="-titolo">137</seg><seg xml:id="vb-null-137-titolo" /></head>
          <p n="1">CXXXVII</p>
          <p n="2"><seg n="1"> <term ref="#dragoian">‹A›gragoiam</term> è el quarto reame dela dita isolla, el qualle à lingua per si et è reame per si.
                </seg><seg n="2"> I qualli sono come giente salvaticha e chiamassi soto el <term ref="#gran-can">Gran Can</term>; sono <term ref="#idolatri">idolatrii</term> et àno questo oribelle costume. </seg><seg n="3"> Quando alcuno dila soa fameia se inferma, subito i mandano per i parenti loro
@@ -2458,7 +2454,7 @@
                ne possa andare, açò quelle da alcuna bestia non sia toche né guaste. </seg><seg n="8"> Questa giente se i pono avere alcuno che non sia dele suo’ contrate si lo pigia
                e si lo mangia; e però è crudellissima et pessima giente.</seg></p>
       </div>
-  <div n="138"><head>138</head>
+  <div n="138" type="chapter" xml:id="vb-null-138"><head><seg xml:id="-titolo">138</seg><seg xml:id="vb-null-138-titolo" /></head>
          <p n="1">CXXXVIII</p>
          <p n="2"><seg n="1"> <term ref="#lambri">‹L›anbren</term> è el quinto reame del’isolla e tiense suditi al <term ref="#gran-can">Gran Can</term> et sono <term ref="#idolatri">idolatri</term>. </seg><seg n="2"> Questi àno verçi e ganfora in grandissima quantitade e molte alltre specie. </seg><seg n="3"> E dicho che ’l verçi i llo semena e, quando è nassuto in picolle vercelle, i lle
                chavano e repiantalle in alltra parte. </seg><seg n="4"> E sì llo lasa cressere per spacio de .III. ani e possa si llo chava con tutte
@@ -2466,7 +2462,7 @@
                credo perché el tereno de qui è tropo fredo e lle semente moreno. </seg><seg n="6"> In questo reame sono homeni che àno una choda da driedo grossa e llonga un palmo;
                e questi stano alle montagne. </seg><seg n="7"> Someia la choda de un chane e questo tegniate per certo esser vero. </seg><seg n="8"> Questi àno unicorni assai et altri animalli salvatichi e caçason asai et osellan.</seg></p>
       </div>
-  <div n="139"><head>139</head>
+  <div n="139" type="chapter" xml:id="vb-null-139"><head><seg xml:id="-titolo">139</seg><seg xml:id="vb-null-139-titolo" /></head>
          <p n="1">CXXXIX</p>
          <p n="2">|266v| <seg n="1"> <term ref="#fanfur">‹F›ansur</term> si è el sesto reame del’isolla el qua‹l› à re per si; è soto el <term ref="#gran-can">Gran Cane</term>, sono <term ref="#idolatri">idolatri</term>. </seg><seg n="2"> In questo luocho nase la mior ganfora del mondo la qual se chiama ganfora fansur,
                la quale val meio assai che ll’altra et valleno assai dinari. </seg><seg n="3"> Questi non àno formento né alltra biada; àno rixi di qual i veveno et de late.
@@ -2480,20 +2476,20 @@
                quella assai mançari di quali più fiate i’ò mangiato. </seg><seg n="11"> Òve assai parllato de questa isolla, però delibero passare a una alltra isolla
                e di quella parllare.</seg></p>
       </div>
-  <div n="140"><head>140</head>
+  <div n="140" type="chapter" xml:id="vb-null-140"><head><seg xml:id="-titolo">140</seg><seg xml:id="vb-null-140-titolo" /></head>
          <p n="1">CXL</p>
          <p n="2"><seg n="1"> ‹P›artendosi dal’isolla chiamata <term ref="#giava">Jana</term> del reame de <term ref="#lambri">Abren</term> e navigi per tramontana cercha migia .CL., trovase .II. isolle dele quale l’una s’apella
                <term ref="#nocueran">Necoran</term>, dela qual voio parlare. </seg><seg n="2"> Queste isolle nonn à re et sono questi peço che bestie, i qualli vano tuti nudi,
                mascoli et femene, né coperti in alchuna parte; sono <term ref="#idolatri">idolatri</term>. </seg><seg n="3"> Nei boschi loro se trova nobellissime cosse de gran vanità: trovase sandali bianchi
                et vermei; àno <term ref="#noci-dindia">noxe chome quelle d’India</term>; àno garofalli e verci et altri nobelle albori. </seg><seg n="4"> Non più parllerò de questa isolla et dirò del’altra chiamata in suo lingua <term ref="#angaman">Agaman</term>.</seg></p>
       </div>
-  <div n="141"><head>141</head>
+  <div n="141" type="chapter" xml:id="vb-null-141"><head><seg xml:id="-titolo">141</seg><seg xml:id="vb-null-141-titolo" /></head>
          <p n="1">CXLI</p>
          <p n="2"><seg n="1"> <term ref="#angaman">‹A›gaman</term> è una isolla grande, la qualle non à re et sono <term ref="#idolatri">idolatri</term> i qualli sono chome animalli salvatichi, i qualli non àno né legie né ordene. </seg><seg n="2"> Tuti questi abitano in questa isolla, àno el capo, denti et ochi de chane; né
                di questo dubitate: à el capo quanto di gran mastini. </seg><seg n="3"> Sono crudellissima giente e mangiano quanti homeni i pono avere, pur non siano
                de suo’ giente; mangiano de tute carne inmonde. </seg><seg n="4"> Àno specie de tute fate assai e molti altri fruti devisadi dai altri.</seg></p>
       </div>
-  <div n="142"><head>142</head>
+  <div n="142" type="chapter" xml:id="vb-null-142"><head><seg xml:id="-titolo">142</seg><seg xml:id="vb-null-142-titolo" /></head>
          <p n="1">CXLII</p>
          <p n="2">|267r| <seg n="1"> ‹P›artendosi da <term ref="#angaman">Agaman</term>, navigando per ponente cercha mille migia verso garbin, trovasi l’isola de <term ref="#zeilan">Silan</term> che è la mior isolla abia el mondo, la qualle cira mia .IImIIIIc. </seg><seg n="2"> E per el passatto quella fu maor però che, segondo si trova per loro scriture,
                quella antigamente cirava migia .IIImVIc.; ma per el vento a tramontana, el qualle traçe vellocissimamente, à molto derupada
@@ -2515,7 +2511,7 @@
                qual segnore se menava quello per sopra i ochi e sopra la bocha. </seg><seg n="12"> Questa gente sono villi e se a llor besogna gente per qualche sua defesa toiono
                a suo soldo saracini.</seg></p>
       </div>
-  <div n="143"><head>143</head>
+  <div n="143" type="chapter" xml:id="vb-null-143"><head><seg xml:id="-titolo">143</seg><seg xml:id="vb-null-143-titolo" /></head>
          <p n="1">CXLIII</p>
          <p n="2"><seg n="1"> ‹N›avigando dal’isolla de <term ref="#zeilan">Serlan</term> per ponente per migia .LX. trovassi la provincia chiamata <term ref="#malabar">Maabar</term> la qual fi apellata <term ref="#india">India Maçor</term>, et è la mior isso‹lla› se trova et è alla staria de tera ferma. </seg><seg n="2"> In questa provincia sono .V. re i qualli sono tutti fratelli charnalli; èt delle
                più riche e più nobelle provincia abia el mondo. </seg><seg n="3"> Nel principio della provincia |267v| è re uno di fratelli che se chiama <term ref="#senderbandi">Sendenbandevar</term>. </seg><seg n="4"> In questo reame se pescha perle grosse molto, le qualle i peschano in questo modo.
@@ -2619,7 +2615,7 @@
                vivande con gran sollaci e festa: e questo solaço fano più fiatte alla setemana; e
                tal vita fano quelle dongelle insieme con i sacerdoti fino le sono maritate. </seg><seg n="63"> Di queste munege et sacerdoti ne ssono pieni quei paexi.</seg></p>
       </div>
-  <div n="144"><head>144</head>
+  <div n="144" type="chapter" xml:id="vb-null-144"><head><seg xml:id="-titolo">144</seg><seg xml:id="vb-null-144-titolo" /></head>
          <p n="1">CXLIV</p>
          <p n="2">|269v| <seg n="1"> <term ref="#moxul">*‹M›onsul</term> è uno reame lutano di l’isolla ante dita de <term ref="#malabar">Maabar</term> cercha mille mia per tramontana. </seg><seg n="2"> In questo reame segnoriça una dona, recina sapientissima et discreta, dona de
                cercha .XL. anni che ’l maritto suo morì, i quali insieme molto se amavano; et alla
@@ -2647,7 +2643,7 @@
                niuno bel diamante non fi portato in queste parte. </seg><seg n="16"> Fase quie i più belli bochasini et bocharani che in alchuna altra parte, et sono
                tanto sotilli che mai non ne vidi in alltre |270r| parte de simelli. </seg><seg n="17"> Àno i maor montoni ch’è no meraveia a vederlli. </seg><seg n="18"> Sono abondantissimi de tute vituallie.</seg></p>
       </div>
-  <div n="145"><head>145</head>
+  <div n="145" type="chapter" xml:id="vb-null-145"><head><seg xml:id="-titolo">145</seg><seg xml:id="vb-null-145-titolo" /></head>
          <p n="1">CXLV</p>
          <p n="2"><seg n="1"> ‹P›arme el non sia da preterire a narare dil corpo del <term ref="#san-tommaso">santissimo apostollo Tomado</term>, el chui corpo è colochato nela provincia de <term ref="#malabar">Maabar</term> in una picholla villa nella qualle pocha giente ve abitta et assai desivabelle locho.
                </seg><seg n="2"> Molti cristiani et ancho saracini vano in pelligrinaço a vixitacion di quello
@@ -2679,7 +2675,7 @@
                da gran pericollo, né parge poter perir avendo quello; e per tal chaxon el pello del
                buo salvaticho è molto charo.</seg></p>
       </div>
-  <div n="146"><head>146</head>
+  <div n="146" type="chapter" xml:id="vb-null-146"><head><seg xml:id="-titolo">146</seg><seg xml:id="vb-null-146-titolo" /></head>
          <p n="1">CXLVI</p>
          <p n="2"><seg n="1"> <term ref="#lac">‹L›ar</term> si è una provincia partendosi dala villa dove è ’l corpo de <term ref="#san-tommaso">san Tomado</term> per ponente. </seg><seg n="2"> In questa provincia sono i <term ref="#bramini">Abraiman</term>, i qual sono i più notabelle marchadanti abia el mondo però che i non diria busia
                per tuto l’oro. </seg><seg n="3"> Non mangiano charne né beveno vino; non staria con altra femena che con la mogie.
@@ -2734,7 +2730,7 @@
                fia congreato i vermi e che quelli dapoi morano con tanto lor pecato. </seg><seg n="43"> Laserò de più parlar de questa giente abraimani e tornerò nel’isolla de <term ref="#zeilan">Seimal</term> dela qual avanti ò parlado e preterido dela montagna in quella si trova, la qual
                io iudicho non esser da lasar soto silencio.</seg></p>
       </div>
-  <div n="147"><head>147</head>
+  <div n="147" type="chapter" xml:id="vb-null-147"><head><seg xml:id="-titolo">147</seg><seg xml:id="vb-null-147-titolo" /></head>
          <p n="1">CXLVII</p>
          <p n="2"><seg n="1"> <term ref="#zeilan">‹S›emal</term>, chome avanti i’ò dito, è isolla grande e bella. </seg><seg n="2"> È in quella una montagna molto grande et alta, la qual alchuna fiata si se schassa
                sì forte che su quella non se pò montar, se non fosseno alchune chadene de fero in
@@ -2775,7 +2771,7 @@
                se ne averia .V., el <term ref="#gran-can">Segnore</term> <term ref="#gran-can">Gran Can</term> provò e mese nela schudella vivanda et trovò esser la veritade: foi assai chara aver
                quella (avegnia grandissima quantitade di moneta i chostasse ad aver quella).</seg></p>
       </div>
-  <div n="148"><head>148</head>
+  <div n="148" type="chapter" xml:id="vb-null-148"><head><seg xml:id="-titolo">148</seg><seg xml:id="vb-null-148-titolo" /></head>
          <p n="1">CXLVIII</p>
          <p n="2">|272v| <seg n="1"> <term ref="#cael">‹C›hail</term> si è una nobelle citade la quale è de <term ref="#astiar">Astiar</term> lo primo fratello. </seg><seg n="2"> In questa citade se fa marchadantia in gran quantità, e vene nave de molte provincie
                in gran quantità a chargar marchadantie. </seg><seg n="3"> Questo re è molto richo de oro et de çoie; et è nobel <term ref="#gran-can">Segnore</term> e mantien el reame suo in gran paxe: e i marchadanti forestieri ne chapitano volentieri
@@ -2788,7 +2784,7 @@
                veder dischordia fra quelli. </seg><seg n="8"> E con simel modi à tenuto e tien i fratelli in pace tirati dala piatà dela madre.
                </seg><seg n="9"> Ma morendo la madre è da creder quelli pocho starano in pace et insieme se destrucerano.</seg></p>
       </div>
-  <div n="149"><head>149</head>
+  <div n="149" type="chapter" xml:id="vb-null-149"><head><seg xml:id="-titolo">149</seg><seg xml:id="vb-null-149-titolo" /></head>
          <p n="1">CXLIX</p>
          <p n="2"><seg n="1"> <term ref="#coulam">‹C›holm</term> è citade et è reame la qual si trova partendosse da <term ref="#malabar">Maabar</term> versso garbin a migia .Vc. </seg><seg n="2"> Abitano quie <term ref="#idolatri">idolatri</term>, cristiani, saracini et çudei et à linguaço per si, né rende questo segnore tributo
                ad alchun segnore. </seg><seg n="3"> In questo reame nase pevere in grandissima quantità: pieni sono i boschi e lle
@@ -2809,21 +2805,21 @@
                mogie fino ale cermane, ecian la madregna morto el padre, e la moier del fratello
                essendo el fratello morto.</seg></p>
       </div>
-  <div n="150"><head>150</head>
+  <div n="150" type="chapter" xml:id="vb-null-150"><head><seg xml:id="-titolo">150</seg><seg xml:id="vb-null-150-titolo" /></head>
          <p n="1">CL</p>
          <p n="2"><seg n="1"> <term ref="#cumari">‹C›oman</term> si è una grande citade de India dela qual se pò veder alchuna cossa dela stella tramontana.
                </seg><seg n="2"> E chaminando da questo luogo migia .XXX. per mare, se vede la tramontana che se
                parte de sopra l’aqua cercha de una gones. </seg><seg n="3"> Et è molto salvadego luogo. </seg><seg n="4"> Ène animalli de diversse maniere: àno simie che quasi se asomeiano al’omo; àno
                gati pavoli molto diversi; àno lioni, lionpardi, leonçe de molte maniere in gran quantità.</seg></p>
       </div>
-  <div n="151"><head>151</head>
+  <div n="151" type="chapter" xml:id="vb-null-151"><head><seg xml:id="-titolo">151</seg><seg xml:id="vb-null-151-titolo" /></head>
          <p n="1">CLI</p>
          <p n="2"><seg n="1"> ‹P›artendosi da <term ref="#cumari">Coman</term> e navigando per ponente migia .IIIc. trovasi el reame de ‹…›. </seg><seg n="2"> Sono tuti <term ref="#idolatri">idolatri</term>; non rendeno tributo ad alchun et àno linguaço per si. </seg><seg n="3"> Nase in questa provincia pevere o zinçero. </seg><seg n="4"> Questo re è richo de oro e povero de gente; ma el sito del reame è sì forte ch’è
                malasevelle ad intrar in quello. </seg><seg n="5"> Àno per chostumo se alchun navillio pericolase sopra i lloro illidi, essendo de
                persone estrane i ge togeno tutta la roba e dichono questi andavano in alltra parte,
                e Dio ge ll’à mandada; né tiensse a pecato a tuor quella. </seg><seg n="6"> E questo costume è però per tutta l’<term ref="#india">India</term>.</seg></p>
       </div>
-  <div n="152"><head>152</head>
+  <div n="152" type="chapter" xml:id="vb-null-152"><head><seg xml:id="-titolo">152</seg><seg xml:id="vb-null-152-titolo" /></head>
          <p n="1">CLII</p>
          <p n="2"><seg n="1"> <term ref="#malabar">‹M›alibar</term> è uno grande reame. </seg><seg n="2"> Et sono <term ref="#idolatri">idolatri</term> et àno linguaço da per si et à re el qual non rende tributo ad alchun. </seg><seg n="3"> E de questo reame se vede la stella tramontana alquanto più allta e par quella
                sia alta dal’aqua .III. çones. </seg><seg n="4"> E de questo reame et de una altra provincia, ch’è apreso questa per migia .C.,
@@ -2837,7 +2833,7 @@
                per savorna dela nave e po’ l’adopera. </seg><seg n="10"> Portano pani de oro et de seda, oro et argiento, garofalli e spigo et altre speciarie
                che non vengono qui ne’ nostri paexi; e queli che vano in <term ref="#alessandria">Allexandria</term> prende de queste marchadantie a barato dele soe.</seg></p>
       </div>
-  <div n="153"><head>153</head>
+  <div n="153" type="chapter" xml:id="vb-null-153"><head><seg xml:id="-titolo">153</seg><seg xml:id="vb-null-153-titolo" /></head>
          <p n="1">CLIII</p>
          <p n="2"><seg n="1"> <term ref="#guzzerat">‹G›oçuar</term> si è uno gran reame et sono <term ref="#idolatri">idolatrii</term>. </seg><seg n="2"> El re è richo e possente segnore et à lenguaço per si, et non rende trebuto ad
                alchun; et è versso ponente. </seg><seg n="3"> E de questo regno se vede più la stella tramontana, la qual par allta çones .VI.
@@ -2849,32 +2845,32 @@
                sotilmente, sopra le qual dormeno saracini; e dichono esser diletevelle dormire. </seg><seg n="11"> Fano cussini de chuoro cusidi e lavoradi de oro tirado a troncha fila che valeno
                gran priexio.</seg></p>
       </div>
-  <div n="154"><head>154</head>
+  <div n="154" type="chapter" xml:id="vb-null-154"><head><seg xml:id="-titolo">154</seg><seg xml:id="vb-null-154-titolo" /></head>
          <p n="1">CLIV</p>
          <p n="2"><seg n="1"> <term ref="#canam">‹T›anam</term> si è reame grande e bono. </seg><seg n="2"> E non rende tributo ad alchun; et sono <term ref="#idolatri">idolatrii</term>; et à linguaço per si. </seg><seg n="3"> Nasene molto incensso de albori. </seg><seg n="4"> Àno churami assai et de molte façon et bello. </seg><seg n="5"> Àno <term ref="#bambagio">banbaso</term> assai. </seg><seg n="6"> Lì chapita oro et argento assai che portano i marchadanti. </seg><seg n="7"> Sòne molti corssari che corssiçano per mar. </seg><seg n="8"> Et è de volontade del re però che i cavalli che i prendeno che son in gran quantittade
                tuti i da al re. </seg><seg n="9"> Fasene grandissima marchadantia de chavalli, per el gran guadagno se ne fa nella
                parte de <term ref="#india">India</term>.</seg></p>
       </div>
-  <div n="155"><head>155</head>
+  <div n="155" type="chapter" xml:id="vb-null-155"><head><seg xml:id="-titolo">155</seg><seg xml:id="vb-null-155-titolo" /></head>
          <p n="1">CLV</p>
          <p n="2"><seg n="1"> <term ref="#cambaia">‹C›hanbaet</term> è gran reame del’<term ref="#india">India Maor</term>; ha re e lenguaço per si et sono <term ref="#idolatri">idolatrii</term>. </seg><seg n="2"> Et de questo reame se vede la stella tramontana più alta, però questo paexe più
                è verso ponente, e quanto più se tende verso ponente tanto più quella se vede alta.
                </seg><seg n="3"> Fase quie molto endego; àno <term ref="#bambagio">banbaso</term> assai. </seg><seg n="4"> Son homeni de mestier e boni marchadanti e bona gente. </seg><seg n="5"> Àno churami assai conço e molto bello e ben lavorato.</seg></p>
       </div>
-  <div n="156"><head>156</head>
+  <div n="156" type="chapter" xml:id="vb-null-156"><head><seg xml:id="-titolo">156</seg><seg xml:id="vb-null-156-titolo" /></head>
          <p n="1">CLVI</p>
          <p n="2">|274r| <seg n="1"> <term ref="#servenath">‹S›emenant</term> è reame, et àno re e linguaço per si. </seg><seg n="2"> Non dano tributo ad alchun et sono <term ref="#idolatri">idolatrii</term>. </seg><seg n="3"> Viveno de mestieri ‹et› sono bona gente. </seg><seg n="4"> È locho di gran marchadantia; et chapitano quie assai merchadanti de più lochi
                e provincie con assai loro marchadantie, et fano mestieri assai. </seg><seg n="5"> Sono in questa provincia quei che serveno i suo’ idolli et tenpi i più austeri
                homeni abia el mondo.</seg></p>
       </div>
-  <div n="157"><head>157</head>
+  <div n="157" type="chapter" xml:id="vb-null-157"><head><seg xml:id="-titolo">157</seg><seg xml:id="vb-null-157-titolo" /></head>
          <p n="1">CLVII</p>
          <p n="2"><seg n="1"> ‹C›hemascuran è grandissimo reame; et à linguaço per si e viveno de marchadantia. </seg><seg n="2"> Viveno de rixi, charne e llate dele qual ne àno quantitade. </seg><seg n="3"> Chapitano quie merchadanti assai con molte merchadantie. </seg><seg n="4"> Questa è l’ultima provincia e reame del’<term ref="#india">India Maçor</term>, la qual è fra ponente e maistro; et da <term ref="#malabar">Maabar</term> infino a questa provincia, tute quelle ò contate sono de <term ref="#india">India Maçor</term>. </seg><seg n="5"> Della qual <term ref="#india">India Maçor</term> io non ve ò contado salvo delle tere e provincie sono sopra el mare, non de quelle
                sono fra tera, le qual sono in grandissima quantità: non ve ne ò dito niente, però
                ch’el seria tropo longo el mio scrivere; però de qui me partirò e diròve de do isolle
                Mascholi et Femene.</seg></p>
       </div>
-  <div n="158"><head>158</head>
+  <div n="158" type="chapter" xml:id="vb-null-158"><head><seg xml:id="-titolo">158</seg><seg xml:id="vb-null-158-titolo" /></head>
          <p n="1">CLVIII</p>
          <p n="2">[1] ‹S›ono .II. isolle che se chiamano <term ref="#isola-femmina-e-isola-mascola">Mascholi e Femene</term>: sono lutane in mar .Vc. migia. [2] L’una, nela qual habitano mascholi, è versso meçodì; l’altra abitano
             le femene, lutana dal’altra migia .XXX. [3] Questa gente che abitano in queste .II.
@@ -2894,7 +2890,7 @@
             boni peschatori e del pesse ne va in molte parte et de quello ne fa marchadantia.
             [12] Quie se trova <term ref="#ambracano">anbra</term> finissima.</p>
       </div>
-  <div n="159"><head>159</head>
+  <div n="159" type="chapter" xml:id="vb-null-159"><head><seg xml:id="-titolo">159</seg><seg xml:id="vb-null-159-titolo" /></head>
          <p n="1">CLIX</p>
          <p n="2">|274v| <seg n="1"> ‹P›artendosi dele sopra dite isole navigando per cercha migia .Vc. verso meçodì se trova l’isolla che se chiama <term ref="#soccotera">Schotam</term>. </seg><seg n="2"> Tuti i abitanti de questa isolla sono cristiani batiçadi et àno arciveschovo.
                </seg><seg n="3"> Trovase quie <term ref="#ambracano">anbra</term> in gran quantitade. </seg><seg n="4"> Fase quie molti pani <term ref="#bambagio">banbasini</term> molto belli et boni et molte altre merchadantie. </seg><seg n="5"> Àno pesi salladi in gran quantitade, di qualli i ne fano gran marchadantie. </seg><seg n="6"> Viveno de charne, risi e late, né àno alltra biava. </seg><seg n="7"> Vano tuti nudi, sì mascholi come femene, solo coperti davanti e da drieto chome
@@ -2908,7 +2904,7 @@
                con grandissime fortune et molte altre diversisime e mirabele cose. </seg><seg n="13"> Quie chapita molte nave de marchadantia con molti marchadanti, e tuti navilli
                che vano in <term ref="#adem">Aden</term> chapita a questa isolla.</seg></p>
       </div>
-  <div n="160"><head>160</head>
+  <div n="160" type="chapter" xml:id="vb-null-160"><head><seg xml:id="-titolo">160</seg><seg xml:id="vb-null-160-titolo" /></head>
          <p n="1">CLX</p>
          <p n="2"><seg n="1"> <term ref="#magastar">‹M›agastar</term> è una isolla verso meçodì lutan da <term ref="#soccotera">Scotan</term> mia .M., la qual fi abitada da saracini dela lege machometa. </seg><seg n="2"> Questi àno .IIII°. chadì, come nui disamo veschovi, i qualli .IIII. chadì signoriça
                questa isolla e quella governa. </seg><seg n="3"> Et è la più nobelle e lla più richa e lla maçor isolla abia el mondo, la qual
@@ -2935,7 +2931,7 @@
                sì grandi denti. </seg><seg n="23"> Contòno quei mesaci che sula dita isolla i àno çirafe assai et alltre molte diverse
                bestie e aseni salvatichi asai. </seg><seg n="24"> Non più dirò de questo isolla ma paserò in una alltra isolla vecina a questa.</seg></p>
       </div>
-  <div n="161"><head>161</head>
+  <div n="161" type="chapter" xml:id="vb-null-161"><head><seg xml:id="-titolo">161</seg><seg xml:id="vb-null-161-titolo" /></head>
          <p n="1">CLXI</p>
          <p n="2"><seg n="1"> <term ref="#zenzibar">‹G›anghibar</term> è una isolla nel mar de <term ref="#india">India</term> la qual è grande e nobella e çira migia .IIm.; et sono <term ref="#idolatri">idolatri</term>, et àno re el qual non rende tributo ad alchuno. </seg><seg n="2"> Li omeni sono sì grandi e grossi che quasi someiano a giganti e, benché i siano
                arditi e posenti, non sono però sì arditi et sì posenti chome rechederia tanta persona.
@@ -2958,14 +2954,14 @@
                sono per intrar alla bataia i dano a bere ai ellefanti del suo vino, però che i dicono
                quelli, per el vino, esser più vigorosi e più potenti nella bataia.</seg></p>
       </div>
-  <div n="162"><head>162</head>
+  <div n="162" type="chapter" xml:id="vb-null-162"><head><seg xml:id="-titolo">162</seg><seg xml:id="vb-null-162-titolo" /></head>
          <p n="1">CLXII</p>
          <p n="2"><seg n="1"> ‹S›egondo dichono i marinari de quelle parte, nel mar de <term ref="#india">India</term> sono .XIImVIIc. isolle, le qual sono abitate da gente e molte alltre le qual non sono abitatte.
                </seg><seg n="2"> Questa <term ref="#india">India Maor</term> è da <term ref="#malabar">Maabar</term> fina a <term ref="#chesmacoran">Chesmachoran</term> quanto è sopra mar alla tera ferma. </seg><seg n="3"> Et avemovi contato che son .XIIII. reami di qual ò chontato de .X. et infra el
                tereno; et òve contado de alquante dele isolle e de alquanti reami che son .VIII.
                grandisime, oltra quelli delle issolla che ssono in gran quantitade. </seg><seg n="4"> Taserò adonqua a parllar più dele do <term ref="#india">Indie</term> e dirò dela provincia de <term ref="#abascia">Ab‹e›sia</term>, ch’è provincia dela segonda <term ref="#india">India</term>.</seg></p>
       </div>
-  <div n="163"><head>163</head>
+  <div n="163" type="chapter" xml:id="vb-null-163"><head><seg xml:id="-titolo">163</seg><seg xml:id="vb-null-163-titolo" /></head>
          <p n="1">CLXIII</p>
          <p n="2"><seg n="1"> <term ref="#abascia">‹A›besia</term> è una grandissima provincia dela segonda <term ref="#india">India</term> et sono tuti cristiani, è ’l re cristian. </seg><seg n="2"> Et sono in questa provincia .VI. reami, çoè .III. cristiani, el resto saracini
                e tuti però sotoposti al primo re cristian. </seg><seg n="3"> La giente cristiana àno tre signalli de focho sul volto: el primo |276r| si è
@@ -2998,20 +2994,20 @@
                andò ruinando et guastando tutto el paexe, metando tuto a focho. </seg><seg n="21"> E stato nel paexe per 1° mese, parandoge aver vendichato l’iniuria, ritornò in
                <term ref="#abascia">Abisia</term>.</seg></p>
       </div>
-  <div n="164"><head>164</head>
+  <div n="164" type="chapter" xml:id="vb-null-164"><head><seg xml:id="-titolo">164</seg><seg xml:id="vb-null-164-titolo" /></head>
          <p n="1">CLXIV</p>
          <p n="2"><seg n="1"> ‹L›e giente de questo reame viveno de risi, charne, late et susimani. </seg><seg n="2"> Àno leofanti che de alltre parte i fino portatti; ànno lioni, leonçe, çirafe et
                assai altri animalli de diversse maniere e per simelle oxelli. </seg><seg n="3"> Àno galline molto diverse et stranie; àno struci grandi maor che gran aseni. </seg><seg n="4"> Àno papagalli de più maniere; àno simie molto stranie; àno gatti paludi et gati
                mamoni che nel volto quaxi someia homeni.</seg></p>
       </div>
-  <div n="165"><head>165</head>
+  <div n="165" type="chapter" xml:id="vb-null-165"><head><seg xml:id="-titolo">165</seg><seg xml:id="vb-null-165-titolo" /></head>
          <p n="1">CLXV</p>
          <p n="2"><seg n="1"> ‹L›a provincia de <term ref="#adem">Aden</term> è abitada da saracini la qual à molte citade et chastelli. </seg><seg n="2"> Et à porto sopra el mar dove chapita le nave veno de <term ref="#india">India</term> con le lor marchadantie. </seg><seg n="3"> E de questo porto, i marchadanti meteno le lor marchadantie in alltre nave picole,
                le qual vano su per uno fiume vi çornade. </seg><seg n="4"> E poi quele deschargano e metelle a soma de ganbelli e vano per .XXX. çornade
                fin giongono al fiume del <term ref="#nilo">Nillo</term>, dove i chargano le lor marchadantie in navilli picolli, chiamate <term ref="#zerme">çerme</term>: e giongeno per quel fiume del <term ref="#nilo">Nillo</term> fino al <term ref="#cairo">Chaiero</term>. </seg><seg n="5"> E dal <term ref="#cairo">Chaiero</term> per el dito fiume vano mediante una fosa fatta a mano chiamata el <term ref="#calizene">chalicene</term> in <term ref="#alessandria">Allexandria</term>. </seg><seg n="6"> El soldan de <term ref="#adem">Aden</term> traçe grande utillità de’ dreti delle marchadantie chapitano de India ai suo’ porti.
                </seg><seg n="7"> E nel .MIIcLXXXXIII. ani del nostro <term ref="#gran-can">Segnore</term> Ihesu Cristo, questo <term ref="#gran-can">Segnore</term> de <term ref="#adem">Aden</term> dé in aiutorio del soldan de <term ref="#babilonia">Babillonia</term> homeni .XXm. al conquisto dela cità de <term ref="#erginul">Tre</term>.</seg></p>
       </div>
-  <div n="166"><head>166</head>
+  <div n="166" type="chapter" xml:id="vb-null-166"><head><seg xml:id="-titolo">166</seg><seg xml:id="vb-null-166-titolo" /></head>
          <p n="1">CLXVI</p>
          <p n="2"><seg n="1"> <term ref="#erginul">‹E›ster</term> è citade sotto el segnore de <term ref="#adem">Aden</term>, el segnore dela qual quela reçe con grandissima iusticia. </seg><seg n="2"> Et è apresso el porto de <term ref="#adem">Aden</term> .IIIIc. migia et à cittade et chastelli sotto si et è sarain dela leçe de Macometo. </seg><seg n="3"> Questa citade à bon porto e lì chapitano molte nave che vien de <term ref="#india">India</term> con assai merchadantie. </seg><seg n="4"> E de questa citade vano in <term ref="#india">India</term> e portano asai chavalli e boni destrieri da do selle, di qualli i ne fano gran guadagni.
                </seg><seg n="5"> Naschono incenso assai e molto bello; àno datalli asai. </seg><seg n="6"> Non àno biava ma sí molti risi di qual i viveno. </seg><seg n="7"> Àno pesi toni in tanta quantità et in tanta derade ch’è chosa mirabelle. </seg><seg n="8"> Fano vino de risi et de çucharo, ecian fano vino de datalli ch’è molto bon a bever.
@@ -3023,21 +3019,21 @@
                erba. </seg><seg n="12"> Ecian de diti peseti sechi i lli mas‹en›ano e fane bischoto del qual ecian i
                homeni mangiano.</seg></p>
       </div>
-  <div n="167"><head>167</head>
+  <div n="167" type="chapter" xml:id="vb-null-167"><head><seg xml:id="-titolo">167</seg><seg xml:id="vb-null-167-titolo" /></head>
          <p n="1">CLXVII</p>
          <p n="2"><seg n="1"> <term ref="#dulfar">‹D›ufar</term> si è una nobellisima citade e grande, lutan dala citade <term ref="#erginul">Ester</term> migia .Vc. verso maistro. </seg><seg n="2"> E ssono saracini che adorano <term ref="#macometto">Machometo</term> et à segnore, el qualle è sottoposto al segnore de <term ref="#adem">Aden</term>. </seg><seg n="3"> Àno bon porto sopra el mar dove chapitano marchadanti assai, i qual fano gran
                marchadantia de chavalli et de alltre robe. </seg><seg n="4"> Àno anchor citade et chastelli soto si. </seg><seg n="5"> Àno incensso asai, el qual lì nase su picolli arboselli che someiano quasi chome
                çapin. </seg><seg n="6"> Questi arboselli fino tachadi in piusor parte per le qual tache i butano chome
                licor o goma, el qual per el gran chaldo se reduse incensso. </seg><seg n="7"> Naschono ecian su per l’alboro dove l’alboro non è tachado.</seg></p>
       </div>
-  <div n="168"><head>168</head>
+  <div n="168" type="chapter" xml:id="vb-null-168"><head><seg xml:id="-titolo">168</seg><seg xml:id="vb-null-168-titolo" /></head>
          <p n="1">CLXVIII</p>
          <p n="2"><seg n="1"> <term ref="#calaiati">‹C›aratu</term> si è una gran citade et è posta entro el colfo <term ref="#calaiati">Calatu</term>, longi da <term ref="#dulfar">Dufar</term> .VIc. migia et è sopra el mar. </seg><seg n="2"> La giente sono saracini che adorano <term ref="#macometto">Machometo</term>. </seg><seg n="3"> Et quando el <term ref="#melich">Melich</term> de <term ref="#ormus">Ormos</term>, çoè el segnore, à guera con più potente segnore de lui, el fuçe a questa citade,
                però che la è situada in forte luogo et àno forti pasi però de alchun quella non à
                dubio. </seg><seg n="4"> Questi non àno biava: fine portada per marchadanti de alltre parte, i qualli traceno
                gran quantitade de chavalli e portano in <term ref="#india">India</term> e fano gran guadagni. </seg><seg n="5"> Questa citade è posta sula bocha del colfo de <term ref="#calaiati">Calatu</term>, per che alcun non pò intrar né insir sença suo volontade. </seg><seg n="6"> Viveno per la maor parte de datali e pesse salado.</seg></p>
       </div>
-  <div n="169"><head>169</head>
+  <div n="169" type="chapter" xml:id="vb-null-169"><head><seg xml:id="-titolo">169</seg><seg xml:id="vb-null-169-titolo" /></head>
          <p n="1">CLXIX</p>
          <p n="2"><seg n="1"> <term ref="#ormus">‹O›rmes</term> si è nobelle et gran citade et è sul mar. </seg><seg n="2"> E tene segnore el <term ref="#melich">Melech</term> et à altre citade et chastelli, et sono saraini che adorano <term ref="#macometto">Machometo</term>; et è paese molto chaldo. </seg><seg n="3"> Àno sì ordenade le suo’ stancie che con suo’ conduti et incegni i core el vento,
                e quello se reduse nelle chase e nele chamere dove a lloro piace; alltramente apena
@@ -3045,7 +3041,7 @@
                la mia scritura seria molto longa, solo per la maor parte v’è dito dele tere sono
                contigue al mar: dirò de qui avanti alchuna cosa dela <term ref="#gran-turchia">Gran Turchia</term>. </seg></p>
       </div>
-  <div n="170"><head>170</head>
+  <div n="170" type="chapter" xml:id="vb-null-170"><head><seg xml:id="-titolo">170</seg><seg xml:id="vb-null-170-titolo" /></head>
          <p n="1">CLXX</p>
          <p n="2">|277v| <seg n="1"> ‹N›ela <term ref="#gran-turchia">Gran Turchia</term> è uno segnore tartaro nominato <term ref="#caidu">Caidu</term>, et è nevodo del <term ref="#gran-can">Gran Chan</term> et è segnore de gran paexe e de molte citade et chastelli. </seg><seg n="2"> Questa gente sono boni homeni d’arme et vallenti in bataglia et senpre i stano
                in guera con el <term ref="#gran-can">Gran Can</term>. </seg><seg n="3"> Questo suo reame è, partendosse de Ormesa, verso maistro. </seg><seg n="4"> Èt questa <term ref="#gran-turchia">Turchia</term> dal fiume Gion e dura fina alle tere del <term ref="#gran-can">Gran Can</term>. </seg><seg n="5"> E benché questo segnore <term ref="#caidu">Caidu</term> sia nepote del <term ref="#gran-can">Gran ‹Can›</term> tamen sono in grandisima discordia per el conquisto feseno <term ref="#tartari">Tartari</term> principialmente dela provincia del <term ref="#cataio">Chataio</term> et del <term ref="#mangi">Manci</term>, le qual provincie el <term ref="#gran-can">Gran Can</term> quelle segnoriça. </seg><seg n="6"> Et avegna che el <term ref="#gran-can">Gran Can</term> i ne abia voiuto dar la parte soa chome l’à fatto ai altri suo’ nepoti çurandoi omaço
@@ -3059,7 +3055,7 @@
                che do baroni del <term ref="#gran-can">Gran Can</term> nepoti de quello, ecian chusini de <term ref="#caidu">Caidu</term>, uno nomea Cibai e l’altro Ciban, i qual fono fioli de Damo cristian batiçato (che fo fradello del <term ref="#gran-can">Gran Can</term>, i qual segnoriçava molte tere e paese del <term ref="#gran-can">Gran Can</term>), aveano adunato gran hoste, andòno a trovar quelli. </seg><seg n="12"> Et intranbi hosti veneno alla bataia con grande ucisione de gente de una parte
                et del’altra; ma finalmente <term ref="#caidu">Caidu</term> fo di quella vencitore. </seg><seg n="13"> I do fratelli, non possendo resister alla furia e posança del’oste de <term ref="#caidu">Caidu</term>, se messe a fugire e per i boni chavalli suo’ fucino salvi. </seg><seg n="14"> De tanta vitoria, <term ref="#caidu">Caidu</term> levato in gran superbia stete ani ii ch’el non ave guera dale giente del <term ref="#gran-can">Gran Can</term>.</seg></p>
       </div>
-  <div n="171"><head>171</head>
+  <div n="171" type="chapter" xml:id="vb-null-171"><head><seg xml:id="-titolo">171</seg><seg xml:id="vb-null-171-titolo" /></head>
          <p n="1">CLXXI</p>
          <p n="2"><seg n="1"> ‹A› chapo de do ani, sentendo <term ref="#caidu">Caidu</term> che ’l fiolo del <term ref="#gran-can">Gran Can</term> era a <term ref="#caracoran">Caracaron</term> con el nepote del <term ref="#prete-gianni">Presto Çane</term> et avea adunato grande moltitude de gente da pè et da cavallo et avea cavalli .LX.
                millia |278r| et gran numero de pedoni, <term ref="#caidu">Caidu</term>, apariato l’oste soa non in menor numero del’oste del <term ref="#gran-can">Gran Can</term>, venesse insieme a trovare et, aprosuma‹n›dosi uno hoste al’altro per .X. migia,
@@ -3078,7 +3074,7 @@
                parte, rimasta stancha et fiacha, volentieri si ritrasseno: e tornati nel’oste soe,
                se meseno chadauna delle parte volentieri a ripossarsi. </seg><seg n="7"> La maitina seguente, sentendo <term ref="#caidu">Caidu</term> che ’l <term ref="#gran-can">Gran Can</term> mandava giente al’oste del fiollo e che quella çà era non tropo longi, <term ref="#caidu">Caidu</term> levò el suo hoste e ritornò nel suo paese.</seg></p>
       </div>
-  <div n="172"><head>172</head>
+  <div n="172" type="chapter" xml:id="vb-null-172"><head><seg xml:id="-titolo">172</seg><seg xml:id="vb-null-172-titolo" /></head>
          <p n="1">CLXXII</p>
          <p n="2"><seg n="1"> ‹V›erso la tramontana è uno re chiamato Canci et è tartaro non però che queste giente oserva la legie et chostumi de quei <term ref="#tartari">Tartari</term> desesi da <term ref="#cingis-can">Çeçin Can</term> chome avanti ò chontado: sono tuta giente però <term ref="#idolatri">idolatri</term>. </seg><seg n="2"> Questi fano uno so Dio de feltre e chiamallo <term ref="#natigay">Natigai</term> et ecian fano so moier et dicono questi .II. sono i suo’ dii çoè <term ref="#natigay">Natigay</term> et so moier. </seg><seg n="3"> I qualli conservano loro et suo’ fiolli, i suo’ bestiame, le suo’ biave et tuti
                alltri suo’ beni. </seg><seg n="4"> Et a questi do idolli i fano grande onor et reverencia; et quando i mangiano alchuna
@@ -3100,7 +3096,7 @@
                negre et molte altre fodre. </seg><seg n="19"> Per la gran fredura è in questo paexe le suo’ chaxe sono sotto tera et soto tera
                senpre demorano.</seg></p>
       </div>
-  <div n="173"><head>173</head>
+  <div n="173" type="chapter" xml:id="vb-null-173"><head><seg xml:id="-titolo">173</seg><seg xml:id="vb-null-173-titolo" /></head>
          <p n="1">CLXXIII</p>
          <p n="2"><seg n="1"> ‹P›iù verso ponente fu uno segnore tartaro el qual nomea Monguemur, el qual morite
                e lla segnoria soa vegniva a Tulobuga, el qualle era molto çovene. </seg><seg n="2"> Totumangu, el qual era possente segnore, con l’aiutorio de uno altro re di <term ref="#tartari">Tartari</term> (el qual avea nome Nogai), tolse la segnoria a Monguemur avanti ch’el morisse, la

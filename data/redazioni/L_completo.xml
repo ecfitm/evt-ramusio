@@ -1,35 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
            <fileDesc>
               <titleStmt>
-                 <title></title>
+                 <title />
                  <respStmt>
-                    <resp/>
-                    <name/>
+                    <resp />
+                    <name />
                  </respStmt>
               </titleStmt>
               <publicationStmt>
-                 <p></p>
+                 <p />
               </publicationStmt>
               <sourceDesc>
-                 <p></p>
+                 <p />
               </sourceDesc>
            </fileDesc>
         </teiHeader>
         <text><body xml:id="l_body">
         
-  <div n="1"><head>1</head>
+  <div n="1" type="chapter" xml:id="l-null-1"><head><seg xml:id="-titolo">1</seg><seg xml:id="l-null-1-titolo" /></head>
 
          <p n="1">1</p>
          <p n="2">|2| Incipit prologus libri qui vulgari hominum dicitur Elmeliole.</p>
          
          <p n="3"><seg xml:id="r-i-1_1_1" n="1">
-                <!-- <placeName ref="#camandi">Qamadin</placeName> -->
                 Nobilis et discretus vir Marcus Paulo de Venetiis, cum .26. annis continuis in
                partibus Maioris Asye permansisset, diversas valde et longinquas perambulando provincias, tanti beneficii
                non ingratus, diversos hominum mores mirandaque multa que vidit et audivit eciam reliquis
@@ -37,7 +32,7 @@
                Ut autem que dicenda sunt ordinatius procedant facilioremque habeant intellectum,
                transitus eius ad partes illas reditusque ad propria ystorialiter proponetur.</seg></p>
       </div>
-  <div n="2"><head></head>
+  <div n="2" type="chapter" xml:id="l-null-2"><head><seg xml:id="-titolo" /><seg xml:id="l-null-2-titolo" /></head>
          <p n="1">2</p>
          <p n="2">Quomodo de <term ref="#constantinopoli">Constantinopoli</term> iverunt ad <term ref="#barcha">Bercha Cham</term> dominum Occidentis.</p>
          <p n="3">[1] Anno Christi .M°.CC°.L°., tempore quo <term ref="#balduino">Baldoinus</term> <term ref="#constantinopoli">Constantinopolim</term> imperabat, nobiles viri Nycholaus Paulo, pater domini Marchi Paulo, et Mapheus Paulo
@@ -45,7 +40,7 @@
                iocalia in <term ref="#constantinopoli">Constantinopoli</term> precio invenerunt. </seg><seg n="3"> Post hec vero <term ref="#mar-maggiore">Mare Maius</term> intrantes, Soldadiam usque navigio pervenerunt. </seg><seg n="4"> Deinde, per terram usque ad <term ref="#bolgara">Bolgara</term> et <term ref="#assara">Sarra</term> euntes, invenerunt <term ref="#barcha">Bercha Chaam</term>, dominum omnium <term ref="#tartari">Tartarorum Occidentis</term>; quos cum honorifice recepisset ei cuncta que portaverant iocalia donaverunt. Et
                cum ei valde talia placuissent in duplum valoris eorum tribuens ea recepit.</seg></p>
       </div>
-  <div n="3"><head></head>
+  <div n="3" type="chapter" xml:id="l-null-3"><head><seg xml:id="-titolo" /><seg xml:id="l-null-3-titolo" /></head>
          <p n="1">3</p>
          <p n="2">Quomodo egressi fuerunt terras domini <term ref="#tartari">Tartarorum Occidentis</term>. </p>
          <p n="3">[1] Cum vero predicti fratres in terris <term ref="#barcha">Bercha Chaam</term> per annum continuum permansissent, inter <term ref="#barcha">Bercha Chaam</term> dominum Occidentis et <term ref="#ulau">Alau</term> dominum <term ref="#tartari">Tartarorum Orientis</term> discessio et guerra magna orta est. Qua de causa iter revertendi Soldadiam impeditum erat, sic ergo cum eorum mercimoniis disposuerunt versus orientem anteire,
@@ -53,13 +48,13 @@
                <term ref="#tigris">Tigris</term>; deinde transiverunt per desertum quoddam longum .XVII. dietis, ubi nulla adest civitas
                neque castrum, sed solum <term ref="#tartari">Tartari</term> in tentoriis cum eorum bestiis vagando manent.</seg></p>
       </div>
-  <div n="4"><head></head>
+  <div n="4" type="chapter" xml:id="l-null-4"><head><seg xml:id="-titolo" /><seg xml:id="l-null-4-titolo" /></head>
          <p n="1">4</p>
          <p n="2">Quomodo iverunt ad <term ref="#bocara">Buchara</term>, in provinciis domini Orientis.</p>
          <p n="3"><seg n="1"> Hoc autem pertransito deserto pervenerunt ad magnam et nobilem civitatem <term ref="#bocara">Buchara</term>; et ipsa est melior civitas tocius Persye (provincia eciam in qua hec civitas manet <term ref="#bocara">Buchara</term> dicitur), cuius rex tunc dicebatur <term ref="#barach">Barach</term>. </seg><seg n="2"> Et quia tunc neque anteire neque retrocedere poterant, in ipsa civitate tribus
                annis continuis permanserunt.</seg></p>
       </div>
-  <div n="5"><head></head>
+  <div n="5" type="chapter" xml:id="l-null-5"><head><seg xml:id="-titolo" /><seg xml:id="l-null-5-titolo" /></head>
          <p n="1">5</p>
          <p n="2">De legato regis <term ref="#ulau">Alau</term>, qui eos duxit ad <term ref="#gran-can">Magnum Canem</term>.</p>
          <p n="3"><seg n="1"> Interim contigit inde transire nobilem quendam virum nuntium et legatum <term ref="#ulau">Alau</term> regis et domini <term ref="#tartari">Tartarorum Orientis</term>, quem mittebat ad <term ref="#cublai-can">Cublay</term> <term ref="#gran-can">Magnum Canem</term> (dominum videlicet omnium <term ref="#tartari">Tartarorum</term>). [2] Qui dum vidisset hos fratres, quia in partibus illis numquam fuisse Latinum
@@ -70,7 +65,7 @@
                mecum undique absque impedimento venire». [4] Hoc placuit ei‹s›, quare ipsum secuti
                sunt; et cum per unum annum ivierint in septemtrionem et per grecum, tandem ad <term ref="#gran-can">Magni Canis</term> curiam pervenerunt. </seg></p>
       </div>
-  <div n="6"><head></head>
+  <div n="6" type="chapter" xml:id="l-null-6"><head><seg xml:id="-titolo" /><seg xml:id="l-null-6-titolo" /></head>
          <p n="1">6</p>
          <p n="2">‹Quid quesivit <term ref="#gran-can">Magnus Kanis</term> dum ad eum pervenerunt.›</p>
          <p n="3"><seg n="1"> Et cum is ipsos alacriter et cum delectatione maxima recepisset, de factis et
@@ -92,7 +87,7 @@
             [4] Insuper commisit dictis ambaxiatoribus, ut de oleo lampadis que ante Christi Sepulcrum
             ardet omnimode portare deberent.</p>
       </div>
-  <div n="8"><head></head>
+  <div n="8" type="chapter" xml:id="l-null-8"><head><seg xml:id="-titolo" /><seg xml:id="l-null-8-titolo" /></head>
          <p n="1">8</p>
          <p n="2">Quid eis in itinere accidit quousque Venetias venerunt.</p>
          <p n="3">[1] Post hoc vero hiis fratribus signum dari fecit et privilegia preceptoria, in quibus
@@ -110,7 +105,7 @@
                Marchum, qui postea huius operis existit auctor. [7] Sic expectantes papam de novo
                creari manserunt Venetiis fere duobus annis.</seg></p>
       </div>
-  <div n="9"><head></head>
+  <div n="9" type="chapter" xml:id="l-null-9"><head><seg xml:id="-titolo" /><seg xml:id="l-null-9-titolo" /></head>
          <p n="1">9</p>
          <p n="2">Quomodo de Venetiis recesserunt quousque ad <term ref="#acre">Acri</term> pervenerunt.</p>
          <p n="3"><seg n="1"> Et quia tempore electionis pape in longum procedere videbatur, proposuerunt ad
@@ -121,14 +116,14 @@
                litteras vestras nobis in testimonium faciatis quomodo ambaxiatam domini nostri procuravimus
                facere iuxta posse, sed vacatione papatus non potuit adimpleri».</seg></p>
       </div>
-  <div n="10"><head></head>
+  <div n="10" type="chapter" xml:id="l-null-10"><head><seg xml:id="-titolo" /><seg xml:id="l-null-10-titolo" /></head>
          <p n="1">10</p>
          <p n="2">Quomodo ambaxiatores predicti reversi sunt iam ad <term ref="#acre">Acri</term> post creationem novi summi pontificis.</p>
          <p n="3"><seg n="1"> Cum hiis ergo litteris ab <term ref="#acre">Acri</term> recedentes ad <term ref="#giazza">Layas</term> civitatem pervenerunt; et dum ibi parum temporis permansissent, nuntiatum est legatum
                illum qui in <term ref="#acre">Acri</term> erat in papam electum esse, qui <term ref="#gregorio-decimo">Gregorius de Placentia</term> dictus est. </seg><seg n="2"> Et tunc quasi statim venit nuntius pape ad <term ref="#giazza">Layas</term> querens predictos nuntios <term ref="#gran-can">Magni Canis</term>; quos cum invenisset ad gaudium nuntiavit dominum legatum in papam electum esse,
                qui ad eos mittebat quod ad eum venirent postposita omni causa. </seg></p>
       </div>
-  <div n="11"><head></head>
+  <div n="11" type="chapter" xml:id="l-null-11"><head><seg xml:id="-titolo" /><seg xml:id="l-null-11-titolo" /></head>
          <p n="1">11</p>
          <p n="2">Quomodo de licentia pape cum duobus fratribus predicatoribus ad <term ref="#giazza">Layas</term> pervenerunt.</p>
          <p n="3"><seg n="1"> Et dum ad <term ref="#acre">Acri</term> reversi forent honorificeque recepti, dominus papa responsionem <term ref="#gran-can">Magno Cani</term> suis litteris ordinavit; et inter alia querebat quod frater <term ref="#gran-can">Magni Canis</term> dictus Abaga, dominus videlicet <term ref="#tartari">Tartarorum Orientis</term>, daret christianis auxilium et favorem ad hoc ut ipsi possint facere passagium ultra
@@ -136,7 +131,7 @@
                erat nomine Nycholaus, alius vero de Tripoli nomine Guillelmus –, quibus ambaxiatam commisit quam intendebat facere <term ref="#gran-can">Magno Cani</term>; insuper eis privilegia dedit cum plenaria auctoritate ut in partibus illis omnia
                libere facere possent. </seg><seg n="3"> Benedictione ergo habita omnes unanimiter recesserunt, sicque ad <term ref="#giazza">Layas</term> civitatem reversi sunt. </seg></p>
       </div>
-  <div n="12"><head></head>
+  <div n="12" type="chapter" xml:id="l-null-12"><head><seg xml:id="-titolo" /><seg xml:id="l-null-12-titolo" /></head>
          <p n="1">12</p>
          <p n="2">Quomodo relictis fratribus ad <term ref="#gran-can">Magnum Canem</term> pervenerunt.</p>
          <p n="3"><seg n="1"> Interim soldanus <term ref="#babilonia">Babilonie</term> nomine <term ref="#benhochdare">Andoch Bondoch Dayro</term> in partibus <term ref="#armenia">Armenie</term> cum magno venit exercitu, qua de causa cum iter arripuissent ad mortis periculum
@@ -148,7 +143,7 @@
                ad <term ref="#gran-can">Magni Canis</term> noticiam pervenisset ambaxiatores de christianorum partibus revenire, nuntios suos
                .XL. dietis obviam eis misit.</seg></p>
       </div>
-  <div n="13"><head></head>
+  <div n="13" type="chapter" xml:id="l-null-13"><head><seg xml:id="-titolo" /><seg xml:id="l-null-13-titolo" /></head>
          <p n="1">13</p>
          <p n="2">Quomodo venerunt ante presentiam <term ref="#gran-can">Magni Canis</term>.</p>
          <p n="3"><seg n="1"> Et dum coram domino personaliter advenissent ipsosque alacriter recepisset, ei
@@ -156,7 +151,7 @@
                Sepulcri Christi ex <term ref="#hierusalem">Jerusalem</term> adduxerant: que omnia valde letanter accepit. </seg><seg n="2"> Dum autem ei notificatum esset iuvenculum Marchum esse filium domini Nycholai
                Paulo, ultra modum gavisus est ipsumque gratanter recepit valde.</seg></p>
       </div>
-  <div n="14"><head></head>
+  <div n="14" type="chapter" xml:id="l-null-14"><head><seg xml:id="-titolo" /><seg xml:id="l-null-14-titolo" /></head>
          <p n="1">14</p>
          <p n="2">Quomodo se rexit dominus Marchus in partibus illis.</p>
          <p n="3"><seg n="1"> Permansit autem in curia <term ref="#gran-can">Magni Canis</term> iuvenculus iste Marchus Paulo, qui in brevi satis tempore tartaricos mores linguamque
@@ -165,7 +160,7 @@
                </seg><seg n="3"> Et cum annis .XVII. continuis permanssisset in curia <term ref="#gran-can">Magni Canis</term>, ipsum per diversas mundi partes ut legatum et nuntium ire iussit. </seg><seg n="4"> Hac ergo causa, quia multa perambulavit loca diversa miranda multa extraneosque
                et novos ritus hominum scivit, quia intente consideravit et vidit.</seg></p>
       </div>
-  <div n="15"><head></head>
+  <div n="15" type="chapter" xml:id="l-null-15"><head><seg xml:id="-titolo" /><seg xml:id="l-null-15-titolo" /></head>
          <p n="1">15</p>
          <p n="2">Quomodo domini Nycholaus, Mapheus et Marchus habuerunt licentiam recedendi.</p>
          <p n="3"><seg n="1"> Postquam autem tanto tempore permanserunt in curia <term ref="#gran-can">Magni Canis</term>, domini Nycholaus et Mapheus, patrio amore constricti, consideraverunt ad propria
@@ -179,7 +174,7 @@
                latinos esse, in animo firmaverunt eos in ‹hoc› itinere sibi comites habere velle
                pro posse. Hoc |3bis| ‹ergo› <term ref="#gran-can">Magno Kani</term> pro maxima gratia quesiverunt, fuitque – et licet valde duriter – impetratum.</seg></p>
       </div>
-  <div n="16"><head></head>
+  <div n="16" type="chapter" xml:id="l-null-16"><head><seg xml:id="-titolo" /><seg xml:id="l-null-16-titolo" /></head>
          <p n="1">16</p>
          <p n="2">Quomodo venerunt per <term ref="#mare-dindia">mare Indie</term> usque ad <term ref="#argon">Argon</term>, postea Venetias.</p>
          <p n="3"><seg n="1"> Cum autem predicti domini recedere deberent, <term ref="#gran-can">Magnus Canis</term> tabulam unam auream dari fecit in qua continebatur ipsos per omnes eius provincias
@@ -202,7 +197,7 @@
                et breviter pertransitis ad principale propositum venientes, de diversis Asye partibus diversisque habitantium moribus multis‹que› mirabilibus pertractetur.</seg></p>
          <p n="4">Explicit ystoria. Incipit executio operis.</p>
       </div>
-  <div n="17"><head></head>
+  <div n="17" type="chapter" xml:id="l-null-17"><head><seg xml:id="-titolo" /><seg xml:id="l-null-17-titolo" /></head>
          <p n="1">17</p>
          <p n="2">De Armenia Minori.</p>
          <p n="3"><seg n="1"> <term ref="#armenia">Armenie</term> sunt due provincie, una magna altera parva. </seg><seg n="2"> <term ref="#armenia">Parva Armenia</term> habet regem, et est multum fertilis contrata et multi solatii, et pulcrarum venationum
@@ -213,7 +208,7 @@
                terra quam per mare, et omnes mercatores› volentes ire infra terram per partes Orientis
                assumunt iter suum ab hac civitate.</seg></p>
       </div>
-  <div n="18"><head></head>
+  <div n="18" type="chapter" xml:id="l-null-18"><head><seg xml:id="-titolo" /><seg xml:id="l-null-18-titolo" /></head>
          <p n="1">18</p>
          <p n="2">De provincia <term ref="#turchomania">Turchomanie</term>.</p>
          <p n="3"><seg n="1"> <term ref="#turchomania">Turchomania</term> est provincia in qua sunt tria genera gentium, videlicet Turchomani, qui adorant <term ref="#macometto">Machomet</term>. Et sunt simplices homines viventes solum ex bestiis (quare inhabitant montes et
@@ -222,7 +217,7 @@
                eciam panni de serico nobiles carmosi et aliorum colorum. [3] Nascuntur eciam hic
                nobiles equi et muli magni valoris. [4] Nominate civitates huius provincie sunt <term ref="#cogno">Leconio</term>, <term ref="#cayssaria">Casserie</term> et <term ref="#sevasta">Sevasto</term>; et multe sunt alie quas longum esset narrare.</seg></p>
       </div>
-  <div n="19"><head></head>
+  <div n="19" type="chapter" xml:id="l-null-19"><head><seg xml:id="-titolo" /><seg xml:id="l-null-19-titolo" /></head>
          <p n="1">19</p>
          <p n="2">De Armenia Maiori.</p>
          <p n="3"><seg n="1"> <term ref="#armenia">Armenia Maior</term> est provincia maxima ‹que incipit a quadam civitate dicta <term ref="#arcingan">Arçinga</term>›, in qua laborantur excellentiores bochorani; et in ea sunt optima balnea naturalia;
@@ -232,7 +227,7 @@
                centum naves honerantur una hora. De hoc enim oleo, licet commestionibus non sit aptum,
                omnes circumstantes comburunt; inungunt eciam ex eo camelos, et ipsos a scabie sanant.</seg></p>
       </div>
-  <div n="20"><head></head>
+  <div n="20" type="chapter" xml:id="l-null-20"><head><seg xml:id="-titolo" /><seg xml:id="l-null-20-titolo" /></head>
          <p n="1">20</p>
          <p n="2">De provincia <term ref="#zorzania">Çorcie</term>.</p>
          <p n="3">[1] çorçia est provincia cuius rex semper nominatur <term ref="#david">David Mellic</term>, id est <term ref="#david">David</term> rex; et sunt homines huius regionis pulcri et multum valentes in armis, et sunt christiani
@@ -255,7 +250,7 @@
                diem Quadragesime inveniuntur in bona quantitate, et nusquam ulterius. [8] Et de partibus
                istis apportatur seta dicta “<term ref="#ghellie">gelle</term>”.</seg></p>
       </div>
-  <div n="21"><head></head>
+  <div n="21" type="chapter" xml:id="l-null-21"><head><seg xml:id="-titolo" /><seg xml:id="l-null-21-titolo" /></head>
          <p n="1">21</p>
          <p n="2">De provincia <term ref="#moxul">Mosul</term>.</p>
          <p n="3"><seg n="1"> <term ref="#moxul">Mosul </term>est regio magna in qua sunt quam plura genera gentium. Sunt enim Arabes qui adorant
@@ -267,12 +262,12 @@
                regione. Et in montanis huius regionis habitant gentes dicte <term ref="#curdi">Card</term>, que sunt ex christianis dictis nestorinis et iacopitis (et quidam sunt Sarraceni
                adorantes <term ref="#macometto">Machomet</term>); et sunt male et fortes gentes et pessimi robatores.</seg></p>
       </div>
-  <div n="22"><head></head>
+  <div n="22" type="chapter" xml:id="l-null-22"><head><seg xml:id="-titolo" /><seg xml:id="l-null-22-titolo" /></head>
          <p n="1">22</p>
          <p n="2">De provincia <term ref="#mus-et-meridin">Mus</term>.</p>
          <p n="3"><seg n="1"> Prope hanc provinciam est alia provincia dicta <term ref="#mus-et-meridin">Mus et Meridiem</term>, in qua nascitur maxima quantitas <term ref="#bambagio">bombicis</term>; et hic fiunt bochorani et alia multa, et sunt mercatores homines et artiste.</seg></p>
       </div>
-  <div n="23"><head></head>
+  <div n="23" type="chapter" xml:id="l-null-23"><head><seg xml:id="-titolo" /><seg xml:id="l-null-23-titolo" /></head>
          <p n="1">23</p>
          <p n="2">De maxima civitate <term ref="#baldach">Baldach</term>.</p>
          <p n="3"><seg n="1"> <term ref="#baldach">Baldach</term> est maxima civitas, et ipsa est sedes capitis omnium Sarracenorum mundi – quod caliph
@@ -285,7 +280,7 @@
                fecit in turri plena thesaruro, dicens: «Que desiderasti comede!». Et ab hinc caruit
                <term ref="#baldach">Baldach</term> caliph‹ic›a dignitate.</seg></p>
       </div>
-  <div n="24"><head></head>
+  <div n="24" type="chapter" xml:id="l-null-24"><head><seg xml:id="-titolo" /><seg xml:id="l-null-24-titolo" /></head>
          <p n="1">24</p>
          <p n="2">De nobili civitate <term ref="#thauris">Toris</term>.</p>
          <p n="3"><seg n="1"> <term ref="#thauris">Toris</term> est magna civitas in provincia dicta <term ref="#hirach">Irach</term>, in qua sunt eciam multe civitates et castra – ipsa tamen est aliis valde maior.
@@ -295,7 +290,7 @@
                </seg><seg n="4"> Et sunt in hac civitate multe gentes diversarum conditionum: christiani videlicet,
                Armini, ‹nestorini›, iachopite, Çorçiani, Persiani et aliqui adorantes <term ref="#macometto">Machomet</term> – et sunt comuniter populus. </seg><seg n="5"> Et de <term ref="#thauris">Toris</term> in <term ref="#persia">Persia</term> sunt .XII. diete.</seg></p>
       </div>
-  <div n="25"><head></head>
+  <div n="25" type="chapter" xml:id="l-null-25"><head><seg xml:id="-titolo" /><seg xml:id="l-null-25-titolo" /></head>
          <p n="1">25</p>
          <p n="2">De tribus magis.</p>
          <p n="3"><seg n="1"> <term ref="#persia">Persia</term> est provincia maxima; minor tamen est valde quam olim fuerit afflictione <term ref="#tartari">Tartarorum</term>, qui eam maxime destruxerunt. Et in ipsa est civitas Saba, ex qua venerunt tres magi adorare Christum; et sunt in eadem civitate omnes tres
@@ -319,7 +314,7 @@
                .X. dietis longe ut de dicto igne reperire possint. Et est maxima quantitas gentium,
                in partibus illis, hac de causa adorantium ignem. </seg><seg n="7"> Hec omnia castri illius incole retulerunt. </seg><seg n="8"> Et fuerunt hii tres magi unus de Saba, alter de Aba et tercius de Chasan.</seg></p>
       </div>
-  <div n="26"><head></head>
+  <div n="26" type="chapter" xml:id="l-null-26"><head><seg xml:id="-titolo" /><seg xml:id="l-null-26-titolo" /></head>
          <p n="1">26</p>
          <p n="2">De quibusdam regnis in <term ref="#persia">Persya</term>.</p>
          <p n="3"><seg n="1"> In <term ref="#persia">Persia</term> sunt quam plura regna: primum vero, quod est in principio provincie, dicitur <term ref="#casibin">Casin</term>; secundum, quod est versus meridiem, dicitur <term ref="#curdistan">Curdistan</term>; .3m. dicitur <term ref="#lor">Lor</term>, quartum <term ref="#suolistan">Cielstan</term>, quintum <term ref="#spaan">Instanit</term>, sextum <term ref="#siras">Coraci</term>, septimum <term ref="#soncara">Soncora</term>; octavum <term ref="#timocaim">Tunocham</term>, quod est in exitu sive in fine <term ref="#persia">Persie</term>. </seg><seg n="2"> Et omnia hec regna sunt versus meridiem preter unum solummodo, videlicet <term ref="#timocaim">Tunocham</term>, quod est prope <term ref="#arbore-secco">Arborem Solis</term>, quam dicimus |5| <term ref="#arbore-secco">Arbor Sicca</term>. </seg><seg n="3"> In hac provincia nascuntur multi et boni dextrarii, et asini valde pulchri, et
@@ -327,7 +322,7 @@
                et de serico diversarum manerierum. </seg><seg n="8"> Et nascitur hic <term ref="#bambagio">bombax</term> in maxima quantitate. </seg><seg n="9"> ‹Habent› habundanter frumentum, ordeum, milium, pannicium et de omni blado, et
                vinum, et de omni fructu sat‹is› copiose.</seg></p>
       </div>
-  <div n="27"><head></head>
+  <div n="27" type="chapter" xml:id="l-null-27"><head><seg xml:id="-titolo" /><seg xml:id="l-null-27-titolo" /></head>
          <p n="1">27</p>
          <p n="2">De civitate <term ref="#iasdi">Iasdi</term>. </p>
          <p n="3">[1] <term ref="#iasdi">Iasdi</term> est in <term ref="#persia">Persia</term> maxima civitas et nobilis et multarum mercationum, in qua laborantur panni de seta
@@ -336,7 +331,7 @@
             parva nemora et pulchra, venationibus apta; et habentur perdices et coturnices multe,
             et inveniuntur similiter hic multi <term ref="#asini-salvatichi">asini silvestres</term> et pulchri. <seg n="4"> Et in fine harum .7. dietarum invenitur regnum dictum <term ref="#chermain">Cremam</term>.</seg></p>
       </div>
-  <div n="28"><head></head>
+  <div n="28" type="chapter" xml:id="l-null-28"><head><seg xml:id="-titolo" /><seg xml:id="l-null-28-titolo" /></head>
          <p n="1">28</p>
          <p n="2">De regno <term ref="#chermain">Creman</term>.</p>
          <p n="3">[1] <term ref="#chermain">Creman</term> est regnum in <term ref="#persia">Persya</term>, et civitas similiter nominatur. Et in montibus huius regni sunt et inveniuntur lapides
@@ -501,7 +496,7 @@
             montes sunt de terra solummodo. <seg n="8"> Et a dicta civitate itur tribus dietis per loca inhabitata, ubi nulla inveniuntur
                victualia; et tunc invenitur provincia <term ref="#balaxiam">Balascian</term>, de qua dicetur ad presens.</seg></p>
       </div>
-  <div n="41"><head></head>
+  <div n="41" type="chapter" xml:id="l-null-41"><head><seg xml:id="-titolo" /><seg xml:id="l-null-41-titolo" /></head>
          <p n="1">41</p>
          <p n="2">De provincia <term ref="#balaxiam">Balascian</term>.</p>
          <p n="3">[1] <term ref="#balaxiam">Balascian</term> est magna provincia et regnum; et gentes huiusmodi habent ydeoma proprium et adorant
@@ -523,14 +518,14 @@
                bene centum brachia tele <term ref="#bambagio">bombicine</term>, aliquando .80., aliquando .60., quia eas circumquaque concrispant. ‹Hoc autem faciunt›
                ut videantur habere grossas nates: eorum enim viri in talibus delectantur.</seg></p>
       </div>
-  <div n="42"><head></head>
+  <div n="42" type="chapter" xml:id="l-null-42"><head><seg xml:id="-titolo" /><seg xml:id="l-null-42-titolo" /></head>
          <p n="1">42</p>
          <p n="2">De provincia <term ref="#bascia">Pasciai</term>.</p>
          <p n="3"><seg n="1"> Longe a dicta provincia versus meridiem decem dietis est provincia dicta <term ref="#bascia">Pasciai</term>, cuius gentes habent ydeoma proprium; et sunt <term ref="#idolatri">ydolatre</term> et habent brunum colorem. </seg><seg n="2"> Est enim valde calida regio. </seg><seg n="3"> Et sunt incantatores magni, et portant in auribus circulos aureos et argenteos
                cum lapidibus preciosis et margaritis; et sunt malitiosi ‹et sapientes› secundum eorum
                consuetudines. </seg><seg n="4"> Eorum cibaria sunt carnes et riçi.</seg></p>
       </div>
-  <div n="43"><head></head>
+  <div n="43" type="chapter" xml:id="l-null-43"><head><seg xml:id="-titolo" /><seg xml:id="l-null-43-titolo" /></head>
          <p n="1">43</p>
          <p n="2">De provincia <term ref="#chesmur">Kesimur</term>.</p>
          <p n="3"><seg n="1"> Longe a dicta civitate versus syrochum .VII. dietis est provincia dicta <term ref="#chesmur">Kesimur</term>. </seg><seg n="2"> Eius gentes habent ydeoma proprium, et sunt <term ref="#idolatri">ydolatre</term>. </seg><seg n="3"> Et sunt tam perfidi incantatores quod mirabile est: faciunt enim ydola loqui,
@@ -541,7 +536,7 @@
                partes <term ref="#india">Yndie</term> de quibus infra per ordinem determinare intendit; et ideo revertitur ad supradictas
                partes, incipiens a <term ref="#balaxiam">Balascian</term>.</seg></p>
       </div>
-  <div n="44"><head></head>
+  <div n="44" type="chapter" xml:id="l-null-44"><head><seg xml:id="-titolo" /><seg xml:id="l-null-44-titolo" /></head>
          <p n="1">44</p>
          <p n="2">De provincia <term ref="#vochan">Vocan</term>.</p>
          <p n="3"><seg n="1"> Recedendo a <term ref="#balaxiam">Balascian</term>, itur .XII. dietis inter oriens et grecum super quoddam flumen, ubi sunt habitationes
@@ -560,14 +555,14 @@
                contrata <term ref="#beloro">Bolor</term>. </seg><seg n="10"> Gentes habitant in montibus valde altis, et sunt <term ref="#idolatri">ydolatre</term> et silvestres: quasi vivunt enim solum ex venationibus bestiarum, quarum pellibus
                pro vestimentis utuntur; et sunt pessimi hominum.</seg></p>
       </div>
-  <div n="45"><head></head>
+  <div n="45" type="chapter" xml:id="l-null-45"><head><seg xml:id="-titolo" /><seg xml:id="l-null-45-titolo" /></head>
          <p n="1">45</p>
          <p n="2">De provincia <term ref="#caschar">Cascar</term>.</p>
          <p n="3"><seg n="1"> <term ref="#caschar">Cascar</term> est provincia inter grecum et oriens, in qua sunt multe civitates et castra; et nobilior
                e‹arum› est <term ref="#caschar">Cascar</term>. </seg><seg n="2"> Hee gentes adorant <term ref="#macometto">Machomet</term>, et habent proprium ydeoma, et sunt mercatores et artiste. </seg><seg n="3"> Et habent viridaria propria pulchra, et vineas; et nascitur ibi multum <term ref="#bambagio">bombax</term> et linum et canaps, ‹et› alia multa: est enim temperatus locus. </seg><seg n="4"> Et de hac provincia mercatores per diversas mundi partes vadunt; et sunt miseri
                homines et avari. </seg><seg n="5"> Et sunt in hac provincia aliqui miseri christiani nestorini. </seg><seg n="6"> et durat hec provincia dietis quinque.</seg></p>
       </div>
-  <div n="46"><head></head>
+  <div n="46" type="chapter" xml:id="l-null-46"><head><seg xml:id="-titolo" /><seg xml:id="l-null-46-titolo" /></head>
          <p n="1">46</p>
          <p n="2">De civitate <term ref="#samarchan">Sanmarcan</term>.</p>
          <p n="3">[1] <term ref="#samarchan">Sanmarcan</term> est maxima civitas et nobilis; et est versus maistrum. [2] Gentes sunt christiani
@@ -587,20 +582,20 @@
                nichilominus substinentem: sicque ex tunc permansit, et usque in hodiernum permanet
                diem.</seg></p>
       </div>
-  <div n="47"><head></head>
+  <div n="47" type="chapter" xml:id="l-null-47"><head><seg xml:id="-titolo" /><seg xml:id="l-null-47-titolo" /></head>
          <p n="1">47</p>
          <p n="2">|7bis| De provincia <term ref="#carchan">Tarchan</term>.</p>
          <p n="3"><seg n="1"> <term ref="#carchan">Tarchan</term> est provincia que durat in longum quinque dietis. </seg><seg n="2"> Et hee gentes adorant <term ref="#macometto">Machomet</term>; sunt tamen aliqui christiani nestorini. </seg><seg n="3"> Et maior pars harum gentium habet unum ex pedibus grossum, alium vero non; et
                habent gossum in gula. </seg><seg n="4"> Et est hec fertilis contrata.</seg></p>
       </div>
-  <div n="48"><head></head>
+  <div n="48" type="chapter" xml:id="l-null-48"><head><seg xml:id="-titolo" /><seg xml:id="l-null-48-titolo" /></head>
          <p n="1">48</p>
          <p n="2">De provincia <term ref="#cotam">Cotan</term>.</p>
          <p n="3"><seg n="1"> <term ref="#cotam">Cotan</term> est provincia quedam inter oriens et grecum, durans .VIII. dietis, cuius gentes omnes
                adorant <term ref="#macometto">Machomet</term>. </seg><seg n="2"> Et sunt in ea civitates et castra multa; nobilior tamen, et caput regni, est <term ref="#cotam">Cotan</term>, quod est eciam nomen provincie. </seg><seg n="4"> Et est fertilis et habundans omnium: nascitur enim ibi <term ref="#bambagio">bombax</term> multum, et linum et canaps et bladum et vinum, et reliqua ut fit recte in partibus
                nostris. </seg><seg n="5"> Et sunt mercatores homines et artiste.</seg></p>
       </div>
-  <div n="49"><head></head>
+  <div n="49" type="chapter" xml:id="l-null-49"><head><seg xml:id="-titolo" /><seg xml:id="l-null-49-titolo" /></head>
          <p n="1">49</p>
          <p n="2">De provincia <term ref="#peym">Pein</term>.</p>
          <p n="3"><seg n="1"> <term ref="#peym">Pein</term> est provincia longa quinque dietis inter oriens et grecum, in qua sunt multe civitates
@@ -609,7 +604,7 @@
                ita quod possit reverti usque ad .20. dies, statim cum maritus recedit ex terra ‹uxor›
                licite alteri se maritat; vir eciam, ubicumque fuerit, aliam summit uxorem. </seg><seg n="6"> Omnes hee provincie quas nominavi, a <term ref="#caschar">Cascar</term> usque huc et adhuc ulterius, sunt de <term ref="#gran-turchia">Grandi Turchia</term>.</seg></p>
       </div>
-  <div n="50"><head></head>
+  <div n="50" type="chapter" xml:id="l-null-50"><head><seg xml:id="-titolo" /><seg xml:id="l-null-50-titolo" /></head>
          <p n="1">50</p>
          <p n="2">De provincia <term ref="#ciarcian">Ciarcian</term>.</p>
          <p n="3">[1] <term ref="#ciarcian">Ciarcian</term> est provincia quedam adhuc de <term ref="#gran-turchia">Grandi Turchia</term> inter oriens et grecum. [2] Hee gentes adorant <term ref="#macometto">Machomet</term>. [3] Et sunt in ea multe civitate et castra; principalis tamen civitas, et capud
@@ -621,7 +616,7 @@
             quia vestigia in arena facta statim destruuntur a vento. <seg n="7"> Recedendo a <term ref="#ciarcian">Ciarcian</term>, itur bene .V. dietis per arenam ubi sunt male aque et amare, et alicubi sunt bone.
                In fine vero harum .V. dietarum est civitas dicta <term ref="#lop">Lop</term>.</seg></p>
       </div>
-  <div n="51"><head></head>
+  <div n="51" type="chapter" xml:id="l-null-51"><head><seg xml:id="-titolo" /><seg xml:id="l-null-51-titolo" /></head>
          <p n="1">51</p>
          <p n="2">De civitate <term ref="#lop">Lop</term> et eius deserto.</p>
          <p n="3"><seg n="1"> <term ref="#lop">Lop</term> est maxima civitas in principio et introytu maximi deserti quod dicitur desertum
@@ -641,7 +636,7 @@
                multa sonare instrumenta et maxime campanelle, et hoc ideo quia homines transeuntes
                appendunt bestiis suis campanellas, ut ipsas sentiant et ne deviare possint. </seg><seg n="6"> Hoc desertum hiis maximis transitur incommodis.</seg></p>
       </div>
-  <div n="52"><head></head>
+  <div n="52" type="chapter" xml:id="l-null-52"><head><seg xml:id="-titolo" /><seg xml:id="l-null-52-titolo" /></head>
          <p n="1">52</p>
          <p n="2">De provincia <term ref="#tanguth">Tangut</term>; et de modo eorum adorandi et de sepulturis.</p>
          <p n="3">[1] Transactis hiis .30. dietis per desertum pervenitur ad civitatem quandam dictam
@@ -684,7 +679,7 @@
                Que autem dicta sunt observant quicumque <term ref="#idolatri">ydolatre</term> et ubique. [14] Dicemus amodo de aliis civitatibus que sunt versus maistrum, prope
                caput huius deserti.</seg></p>
       </div>
-  <div n="53"><head></head>
+  <div n="53" type="chapter" xml:id="l-null-53"><head><seg xml:id="-titolo" /><seg xml:id="l-null-53-titolo" /></head>
          <p n="1">53</p>
          <p n="2">De civitate <term ref="#chamul">Camul</term> et provincia.</p>
          <p n="3"><seg n="1"> <term ref="#chamul">Camul</term> est provincia in qua sunt multe civitates et castra; principalior tamen ‹civitas›
@@ -705,7 +700,7 @@
                credebant. Hoc audiens dominus et subridens, ait: «Vituperio vestro dudum gavisi iterum
                gaudeatis». </seg><seg n="7"> Hanc consuetudinem continue observaverunt, et eciam hodie observant. </seg></p>
       </div>
-  <div n="54"><head></head>
+  <div n="54" type="chapter" xml:id="l-null-54"><head><seg xml:id="-titolo" /><seg xml:id="l-null-54-titolo" /></head>
          <p n="1">54</p>
          <p n="2">|8bis| De provincia Ghingintalas. </p>
          <p n="3"><seg n="1"> Ghingintalas est provincia que est eciam iuxta desertum inter septemtrionem et magistrum, et durat
@@ -720,7 +715,7 @@
                tales panni sordibus imbuuntur ipsos in igne lavant. </seg><seg n="8"> Rome autem est ex tali lana unum manutergium, quod <term ref="#gran-can">Magnus Canis</term> misit pro solempni munere domino Summo Pontifici, ut Christi sudarium in ipso conservari deberet; eratque in hoc manutergio aureis
                litteris scriptum: «Tu es Petrus, et super hanc petram hedificabo Ecclesiam meam».</seg></p>
       </div>
-  <div n="55"><head></head>
+  <div n="55" type="chapter" xml:id="l-null-55"><head><seg xml:id="-titolo" /><seg xml:id="l-null-55-titolo" /></head>
          <p n="1">55</p>
          <p n="2">De provincia <term ref="#succuir">Suthiur</term>.</p>
          <p n="3">[1] Recedendo ab hac provincia itur .X. dietis inter oriens et grecum, in qua via
@@ -728,7 +723,7 @@
             ‹hee› gentes christiani et <term ref="#idolatri">ydolatre</term>. [3] Et magna provincia †Jereraus† in qua est hec dicta provincia, et eciam due statim
             ante dicte, nominatur <term ref="#tanguth">Tangut</term>. <seg n="4"> Hic vero per omnes eorum montes invenitur <term ref="#rheubarbaro">reubarbarum</term> in maxima quantitate. [5] Non sunt mercatores, sed ex fructibus terre vivunt.</seg></p>
       </div>
-  <div n="56"><head></head>
+  <div n="56" type="chapter" xml:id="l-null-56"><head><seg xml:id="-titolo" /><seg xml:id="l-null-56-titolo" /></head>
          <p n="1">56</p>
          <p n="2">De civitate <term ref="#campion">Campicion</term>.</p>
          <p n="3"><seg n="1"> <term ref="#campion">Campicion</term> est maxima civitas et nobilis, et est principalior et caput provincie de <term ref="#tanguth">Tangut</term>. </seg><seg n="2"> Hee gentes sunt <term ref="#idolatri">ydolatre</term>, et aliqui adorant <term ref="#macometto">Machoment</term>; sunt eciam aliqui christiani. </seg><seg n="3"> Sed <term ref="#idolatri">ydolatre</term> habent maximam quantitatem ydolorum, ex quibus aliqua sunt longa .X. passibus, et
@@ -744,7 +739,7 @@
                Et multa alia faciunt que nobis valde vetita sunt: ‹vivunt enim bestiarum more›. 
                </seg></p>
       </div>
-  <div n="57"><head></head>
+  <div n="57" type="chapter" xml:id="l-null-57"><head><seg xml:id="-titolo" /><seg xml:id="l-null-57-titolo" /></head>
          <p n="1">57</p>
          <p n="2">De civitate <term ref="#ezina">Ecina</term>.</p>
          <p n="3">[1] A civitate <term ref="#campion">Campicion</term> itur .XII. dietis versus septemtrionem, et invenitur civitas dicta <term ref="#ezina">Eçina</term>, que est in capite deserti de arena, id est de sabulo, et est de provincia <term ref="#tanguth">Tangut</term>. [2] Gentes sunt <term ref="#idolatri">ydolatre</term>; et habent camelos et bestias multas, ex quibus vivunt, et ex fructibus terre; non
@@ -754,7 +749,7 @@
             inveniuntur tamen animalia multa silvestria, et <term ref="#asini-salvatichi">asini silvestres</term> multi. <seg n="5"> In fine vero harum .40. dietarum invenitur provincia quedam versus septemtrionem,
                secundum quod audire poteritis.</seg></p>
       </div>
-  <div n="58"><head></head>
+  <div n="58" type="chapter" xml:id="l-null-58"><head><seg xml:id="-titolo" /><seg xml:id="l-null-58-titolo" /></head>
          <p n="1">58</p>
          <p n="2">De civitate <term ref="#caracoran">Caracoron</term>, et de origine <term ref="#gran-can">Magni Canis</term>. Rubrica.</p>
          <p n="3">[1] <term ref="#caracoran">Caracoron</term> est civitas que circuit miliaria tria, que est tota de lignamine et terra; et ex
@@ -773,7 +768,7 @@
                quod ipsum morti traderet. </seg><seg n="7"> <term ref="#cingis-can">Cinghis Kan</term>, hac iniuriosa responsione turbatus, innumeram congregavit gentem, misitque <term ref="#umcan">Unc Kani</term> quod intendebat ipsum personaliter visitare. Tunc <term ref="#umcan">Unc Kan</term> infinitam gentem univit; sed <term ref="#cingis-can">Cinghis Kan</term> pervenit, duxitque gentem suam innumeram in pertinentiis Unc Kanis, in pulcra planicie valde dicta <term ref="#tenduch">Tanduc</term>; quod audiens <term ref="#umcan">Unc Kan</term>, et ipse cum gente sua ei obviam venit posuitque castra in dicta planicie a <term ref="#cingis-can">Cinghis Kan</term> .X. tamen milia elongata. </seg><seg n="8"> Constitutis autem ‹duobus› diebus refectionis tandem tercia die coniuncti sunt
                exercitus cum maximo utriusque partis conflictu; et victorie existente <term ref="#cingis-can">Cinghis Kan</term>, <term ref="#umcan">Unc Kan</term> (id est <term ref="#prete-gianni">Presbiter Iohannis</term>) in conflictu mortuus est, eiusque dominium pervenit ad <term ref="#tartari">Tartaros</term>.</seg></p>
       </div>
-  <div n="59"><head></head>
+  <div n="59" type="chapter" xml:id="l-null-59"><head><seg xml:id="-titolo" /><seg xml:id="l-null-59-titolo" /></head>
          <p n="1">59</p>
          <p n="2">De dominis <term ref="#tartari">Tartarorum</term>.</p>
          <p n="3"><seg n="1"> Post hanc tam immensam victoriam regnavit <term ref="#cingis-can">Cinghis Kan</term> .VI. annis; sed in obsidione cuiusdam castri dicti <term ref="#thaigin">Caagiu</term> percussus sagitta in genu mortuus est. </seg><seg n="2"> Post hunc vero regnavit <term ref="#cyn-can">Cui Kan</term>; tercio regnavit <term ref="#bathyn-can">Bachui Kan</term>, quarto <term ref="#ulau">Althon Kan</term>, .V°. <term ref="#mongu-can">Mongu Kan</term>; sexto <term ref="#cublai-can">Cublai Kan</term> qui ad presens regnat, et est potentior omnium predecessorum suorum – ymo, quod plus
@@ -784,7 +779,7 @@
                Simile eciam faciunt de equis: in morte eius domini omnes meliores equos occidunt,
                credentes dominum eos in alieno mundo ‹debere› habere. </seg><seg n="4"> In morte vero Mongu Mongihu Kanis, dum ad sepulturam portaretur corpus, plus quam .XXm. hominum in itinere occiderunt. </seg></p>
       </div>
-  <div n="60"><head></head>
+  <div n="60" type="chapter" xml:id="l-null-60"><head><seg xml:id="-titolo" /><seg xml:id="l-null-60-titolo" /></head>
          <p n="1">60</p>
          <p n="2">De vita et moribus <term ref="#tartari">Tartarorum</term>.</p>
          <p n="3"><seg n="1"> <term ref="#tartari">Tartarorum</term> diversi sunt mores et consuetudines. Manent enim in yeme in planiciebus et in locis
@@ -865,7 +860,7 @@
                sponsis in alieno presentari mundo. [29] Et ex hinc qui talem contrahunt parentelam
                pro parentibus directe se tractant, ac si sponsis viventibus factum foret. </seg><seg n="30"> Hiis ergo relictis, ad loca ubi primo eramus in |10| maxima planicie revertamur.</seg></p>
       </div>
-  <div n="61"><head></head>
+  <div n="61" type="chapter" xml:id="l-null-61"><head><seg xml:id="-titolo" /><seg xml:id="l-null-61-titolo" /></head>
          <p n="1">61</p>
          <p n="2">De planicie de <term ref="#bargu">Bargu</term>.</p>
          <p n="3"><seg n="1"> Cum receditur a <term ref="#caracoran">Carracoron</term> et ab <term ref="#altai">Alkay</term> (ubi sepeliuntur corpora dominorum, ut supra dictum est), itur per contratam quandam
@@ -879,7 +874,7 @@
                papage, caudam vero per modum yrundinis, et sunt optime volantes. </seg><seg n="6"> In insula vero maris circa locum illum nascuntur in habundantia çirifalchi. </seg><seg n="7"> Et est hic locus in tantum versus septemtrionem quod Polus septemtrionalis aliquod
                ad meridiem tendit. </seg><seg n="8"> Et quia per provincias septemtrionales usque ad <term ref="#mare-oceano">Occeanum mare</term> pervenimus, ammodo revertemur ad locum quod <term ref="#gran-can">Grandis Canis</term> inhabitat, incipientes a provincia super iam nominatam <term ref="#campion">Campicion</term>.</seg></p>
       </div>
-  <div n="62"><head></head>
+  <div n="62" type="chapter" xml:id="l-null-62"><head><seg xml:id="-titolo" /><seg xml:id="l-null-62-titolo" /></head>
          <p n="1">62</p>
          <p n="2">De regno <term ref="#erginul">Ergivul</term>.</p>
          <p n="3"><seg n="1"> Recedendo a <term ref="#campion">Campicion</term>. itur .V. dietis, et in hac via sunt quam plures spiritus qui in nocte audiuntur
@@ -905,14 +900,14 @@
                habent pulcras carnes et albas; et sunt totaliter bene formate. Homines sunt luxuriosi
                multum, quare multas sumunt uxores, quod licite facere possunt.</seg></p>
       </div>
-  <div n="63"><head></head>
+  <div n="63" type="chapter" xml:id="l-null-63"><head><seg xml:id="-titolo" /><seg xml:id="l-null-63-titolo" /></head>
          <p n="1">63</p>
          <p n="2">De provincia <term ref="#egrigaia">Egrigaya</term>.</p>
          <p n="3"><seg n="1"> Et ab <term ref="#erginul">Ergivul</term> versus oriens ‹.8. dietis› est provincia dicta <term ref="#egrigaia">Egrigaia</term>, in qua sunt civitates et castra multa. Et est de provincia <term ref="#tanguth">Tangut</term>, et principalior in ea civitas dicitur <term ref="#calacia">Calaccian.</term> </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, licet sint aliqui christiani nestorini. </seg><seg n="3"> Et in hac civitate fiunt çambelotti ex pilis camelorum pulcriores et meliores
                quam alibi; et fiunt ex ipsis aliqui albi ex lana alba; et fiunt in hac contrata habundanter
                ex ipsis, et hinc portantur per diversas mundi partes.</seg></p>
       </div>
-  <div n="64"><head></head>
+  <div n="64" type="chapter" xml:id="l-null-64"><head><seg xml:id="-titolo" /><seg xml:id="l-null-64-titolo" /></head>
          <p n="1">64</p>
          <p n="2">De provincia <term ref="#tenduch">Tenduc</term>.</p>
          <p n="3">[1] <term ref="#tenduch">Tenduc</term> est provincia versus oriens et est ex provinciis Unc Kanis (id est <term ref="#prete-gianni">Presbiter Iohannis</term>), in qua sunt civitates et castra multa; principalis tamen civitas dicitur <term ref="#tenduch">Tenduc</term>. [2] Et in hac provincia est dominus unus ex progenie <term ref="#prete-gianni">Presbiteri Iohannis</term>, et usque ad hoc tempus sic dicitur; sed proprium nomen regnantis ad presens est
@@ -936,7 +931,7 @@
                et nigras, valde pulcras. Sunt eciam alie grues totaliter grissee, caput habentes
                rubeum et nigrum; et sunt pulcre valde et magne.</seg></p>
       </div>
-  <div n="65"><head></head>
+  <div n="65" type="chapter" xml:id="l-null-65"><head><seg xml:id="-titolo" /><seg xml:id="l-null-65-titolo" /></head>
          <p n="1">65</p>
          <p n="2">De civitate <term ref="#xandu">Ciandu</term>, et de quodam pallatio <term ref="#gran-can">Magni Canis</term>.</p>
          <p n="3">[1] Et ab hac civitate itur tribus dietis inter oriens et grecum, et tunc est civitas
@@ -966,7 +961,7 @@
                et dicunt quod ex hoc eorum ydola conservant personas suas, et bestias et bladum.
                [12] Et hec est causa quare <term ref="#gran-can">Magnus Canis</term> recedit de viridario supradicto die de mense augusti. </seg></p>
       </div>
-  <div n="66"><head></head>
+  <div n="66" type="chapter" xml:id="l-null-66"><head><seg xml:id="-titolo" /><seg xml:id="l-null-66-titolo" /></head>
          <p n="1">66</p>
          <p n="2">|11| De <term ref="#cublai-can">Cublay</term> Magno Kane. </p>
          <p n="3"><seg n="1"> Hic qui hodie regnat, scilicet <term ref="#gran-can">Magnus Canis</term> <term ref="#tartari">Tartarorum</term> nomine <term ref="#cublai-can">Cublay</term>, est ex recta linea et progenie imperiali, scilicet<term ref="#cingis-can"> Cigin Kanis</term>, qui fuit primus dominus <term ref="#tartari">Tartarorum</term>. </seg><seg n="2"> Et hic est <term ref="#cublai-can">Cublai</term> sextus magnus canis, quod sonat in latino “magnus dominus omnium <term ref="#tartari">Tartarorum</term>”; et licet ad eum directe perveniret dominium, quia tamen a suis parentibus occupabatur,
@@ -996,7 +991,7 @@
                enim alicuius regis equos accipere, si placeret. </seg><seg n="8"> Hii ergo tam maximi domini, cum habent nuntium et mittere volunt, ipsum tali muniunt
                tabula, scilicet çerefalci, ut, si necesse fuerit, equos ubilibet accipere posset.</seg></p>
       </div>
-  <div n="67"><head></head>
+  <div n="67" type="chapter" xml:id="l-null-67"><head><seg xml:id="-titolo" /><seg xml:id="l-null-67-titolo" /></head>
          <p n="1">67</p>
          <p n="2">De uxoribus <term ref="#gran-can">Magni Canis</term> et eius concubinis.</p>
          <p n="3">[1] <term ref="#cublai-can">Cublay</term> <term ref="#gran-can">Magnus Canis</term> habet quatuor uxores, principalis quarum maior filius est qui succedere debet in
@@ -1056,7 +1051,7 @@
                pallatium ibique commedunt; post hos vero alii .IIIm., et sic per ordinem. Reliqui vero .IXm., et ipsi una cum totis aliis custodes, tota die existunt, licet non in nocte permaneant.
                [2] Et hii tales dicuntur “<term ref="#quiecitari">quesichan</term>”, id est “milites fideles domini”.</seg></p>
       </div>
-  <div n="71"><head></head>
+  <div n="71" type="chapter" xml:id="l-null-71"><head><seg xml:id="-titolo" /><seg xml:id="l-null-71-titolo" /></head>
          <p n="1">71</p>
          <p n="2">Quomodo statur in mensa in curia <term ref="#gran-can">Magni Canis</term>.</p>
          <p n="3"><seg n="1"> Cum aliquibus festivitatibus <term ref="#gran-can">Magnus Canis</term> curiam facit, tali modo tabule ordinantur. </seg><seg n="2"> Est enim altior aliis valde sedes domini, et in septemtrionali parte, iuxta quem
@@ -1077,7 +1072,7 @@
                domini inficiantur anhelitu. [8] Et dum bibit dominus, omnia simul sonant musica instrumenta
                seque genuflectunt omnes.</seg></p>
       </div>
-  <div n="72"><head></head>
+  <div n="72" type="chapter" xml:id="l-null-72"><head><seg xml:id="-titolo" /><seg xml:id="l-null-72-titolo" /></head>
          <p n="1">72</p>
          <p n="2">De festo natalis <term ref="#gran-can">Magni Canis</term>.</p>
          <p n="3"><seg n="1"> <term ref="#tartari">Tartarorum</term> omnium moris est de eorum nativitatibus solempnia celebrare. </seg><seg n="2"> Magnus vero dominus <term ref="#cublai-can">Cublay</term> natus fuit .XXVIII. ‹die› lunationis septembris, quare in simili die solempnissimum
@@ -1089,7 +1084,7 @@
                quam <term ref="#idolatri">ydolatre</term>, tam Sarraceni quam eciam christiani, maximis orationibus deum exorant quatinus eius
                dominum <term ref="#gran-can">Magnum Canem</term> placeat conservare.</seg></p>
       </div>
-  <div n="73"><head></head>
+  <div n="73" type="chapter" xml:id="l-null-73"><head><seg xml:id="-titolo" /><seg xml:id="l-null-73-titolo" /></head>
          <p n="1">73</p>
          <p n="2">De festo nativitatis cuiuslibet anni.</p>
          <p n="3">[1] In principio autem cuiuslibet anni – quod est secundum eos mense februarii – solempne
@@ -1117,7 +1112,7 @@
                sedent (scilicet <term ref="#gran-can">Magni Canis</term>), femine vero omnes a parte imperatricis. </seg><seg n="8"> Et breviter ‹per ordinem› omnia in hoc convivio fiunt recte ut in aliis conviviis
                festivis, ut superius dictum est. </seg></p>
       </div>
-  <div n="74"><head></head>
+  <div n="74" type="chapter" xml:id="l-null-74"><head><seg xml:id="-titolo" /><seg xml:id="l-null-74-titolo" /></head>
          <p n="1">74</p>
          <p n="2">Quomodo <term ref="#gran-can">Magnus Canis</term> in festis solempnibus associatur.</p>
          <p n="3">[1] Habet <term ref="#gran-can">Magnus Canis</term> .XIIm. baronum electorum quos “<term ref="#quiecitari">quecitain</term>” appellant, quod sonat “proximi fideles domini”. [2] Cuilibet autem eorum largitur
@@ -1129,14 +1124,14 @@
             festo: ita quod dum dominus aliquo solempnium festorum determinato vestimento vestitus
             est, .XIIm. predictorum simili induuntur vestimento. </p>
       </div>
-  <div n="75"><head></head>
+  <div n="75" type="chapter" xml:id="l-null-75"><head><seg xml:id="-titolo" /><seg xml:id="l-null-75-titolo" /></head>
          <p n="1">75</p>
          <p n="2">|12bis| De leone coram domino stante.</p>
          <p n="3"><seg n="1"> Et in hiis festivitatibus ducitur coram domino leo unus magnus: qui, dum dominum
                videt, statim coram ipso iacet, ipsum tamquam dominum recognoscens; sicque manet libere
                nullo vinculo colligatus, quod maxime mirandum habetur. </seg></p>
       </div>
-  <div n="76"><head></head>
+  <div n="76" type="chapter" xml:id="l-null-76"><head><seg xml:id="-titolo" /><seg xml:id="l-null-76-titolo" /></head>
          <p n="1">76</p>
          <p n="2">De modo venandi <term ref="#gran-can">Magni Canis</term>.</p>
          <p n="3"><seg n="1"> Habet <term ref="#gran-can">Magnus Canis</term> ferocia animalia, cum quibus venatur: scilicet leopardos, linces, et leones multo
@@ -1151,7 +1146,7 @@
                unus elongatus ab alio, sicque quod tantum extenduntur quod bene occupant dietam per
                latum, quare vix potest aliqua silvestris evadere bestia.</seg></p>
       </div>
-  <div n="77"><head></head>
+  <div n="77" type="chapter" xml:id="l-null-77"><head><seg xml:id="-titolo" /><seg xml:id="l-null-77-titolo" /></head>
          <p n="1">77</p>
          <p n="2">De temptoriis <term ref="#gran-can">Magni Canis</term>.</p>
          <p n="3">[1] Elapsis tribus mensibus quibus stat in <term ref="#cambalu">Cambaluch</term>, ut supra dictum est (qui sunt december, ianuarius et februarius), de mense marcii
@@ -1252,13 +1247,13 @@
                iuxta ipsas vias, plantate sunt arbores ‹distantes› inter se per duos passus; et est
                hoc eciam per inhabitata loca. </seg><seg n="2"> Quod quidem ideo fieri fecit <term ref="#gran-can">Magnus Canis</term> ut a longe videntes viam, tam mercatores quam alii, deviare non possint.</seg></p>
       </div>
-  <div n="82"><head></head>
+  <div n="82" type="chapter" xml:id="l-null-82"><head><seg xml:id="-titolo" /><seg xml:id="l-null-82-titolo" /></head>
          <p n="1">82</p>
          <p n="2">De vino eorum.</p>
          <p n="3"><seg n="1"> Maior pars gentium de <term ref="#cataio">Cathay</term> bibunt vinum, quod faciunt ex riço et aliis quam pluribus speciebus, que omnia bulliunt
                taliter quod efficitur in modum vini valde clari. </seg><seg n="2"> Et est melius vino: inebriat enim cicius alio vino; est enim valde calidum. </seg></p>
       </div>
-  <div n="83"><head></head>
+  <div n="83" type="chapter" xml:id="l-null-83"><head><seg xml:id="-titolo" /><seg xml:id="l-null-83-titolo" /></head>
          <p n="1">83</p>
          <p n="2">De lapidibus quos comburunt.</p>
          <p n="3"><seg n="1"> Per totam provinciam de <term ref="#cataio">Chatay</term> inveniuntur lapides – quos ex montibus fodiunt – qui ardent, et flammam faciunt sicut
@@ -1279,19 +1274,19 @@
                qua itur ad magnam provinciam de <term ref="#mangi">Mangi</term>; alia vero tendit versus occidens, qua itur versus provinciam de <term ref="#cataio">Chatay</term> bene .X. dietis versus occidens, continue per pulcras civitates et domestica loca,
                et per pulcros agros et vineas. </seg></p>
       </div>
-  <div n="86"><head></head>
+  <div n="86" type="chapter" xml:id="l-null-86"><head><seg xml:id="-titolo" /><seg xml:id="l-null-86-titolo" /></head>
          <p n="1">86</p>
          <p n="2">De regno et civitate <term ref="#tainfu">Taianfu</term>.</p>
          <p n="3">[1] Pertransitis vero hiis decem diebus intratur ‹regnum dictum› <term ref="#tainfu">Tayanfu</term>, et principalis civitas regni dicitur <term ref="#tainfu">Tayanfu</term>. [2] Et sunt mercatores et artiste. <seg n="3"> Et habent vinum in habundantia multa; in nulla enim provincia de <term ref="#cataio">Chatai</term> nisi in hac nascitur vinum. </seg><seg n="4"> Habent eciam de serico in maxima quantitate.</seg></p>
       </div>
-  <div n="87"><head></head>
+  <div n="87" type="chapter" xml:id="l-null-87"><head><seg xml:id="-titolo" /><seg xml:id="l-null-87-titolo" /></head>
          <p n="1">87</p>
          <p n="2">De civitate <term ref="#pianfu">Pianfu</term>. Rubrica.</p>
          <p n="3"><seg n="1"> Ultra hanc civitatem .VII. dietis itur per occidens, ubi sunt pulcra loca civitates
                et castra multa, in quibus multi conversantur mercatores: tunc invenitur nobilis et
                magna civitas dicta <term ref="#pianfu">Pianfu</term>, in qua sunt mercatores quam plurimi, et artiste, et serici copia multa. </seg></p>
       </div>
-  <div n="88"><head></head>
+  <div n="88" type="chapter" xml:id="l-null-88"><head><seg xml:id="-titolo" /><seg xml:id="l-null-88-titolo" /></head>
          <p n="1">88</p>
          <p n="2">De castro <term ref="#thaigin">Caiciu</term>.</p>
          <p n="3"><seg n="1"> Duabus dietis per occidens ultra predictam civitatem est ‹pulcrum› castrum dictum
@@ -1299,13 +1294,13 @@
                valde, et tendit in <term ref="#mare-oceano">Occeanum ‹mare›</term>; suntque super ipso multe civitates et castra, ubi multa mercimonia exercentur. </seg><seg n="2"> Circha vero flumen, et per totam contratam, nascitur çinçiber. </seg><seg n="3"> Et habent sericum in maxima quantitate. </seg><seg n="4"> Est etiam in partibus illis maxima avium multitudo: haberentur enim ibi tres faxiani
                pro uno aspro, quod valet parum plus veneto grosso.</seg></p>
       </div>
-  <div n="89"><head></head>
+  <div n="89" type="chapter" xml:id="l-null-89"><head><seg xml:id="-titolo" /><seg xml:id="l-null-89-titolo" /></head>
          <p n="1">89</p>
          <p n="2">De civitate <term ref="#cacianfu">Cacianfu</term>.</p>
          <p n="3"><seg n="1"> Ultra hoc flumen duabus dietis per occidens est nobilis civitas dicta <term ref="#cacianfu">Cacianfu</term>. </seg><seg n="2"> Huius gentes sunt <term ref="#idolatri">ydolatre</term>, et similiter omnes de provincia de <term ref="#cataio">Chatay</term>. </seg><seg n="3"> Et sunt huius civitatis habitatores mercatores et artiste: habent enim multum
                sericum, quare multos laborant pannos aureos et de seta.</seg></p>
       </div>
-  <div n="90"><head></head>
+  <div n="90" type="chapter" xml:id="l-null-90"><head><seg xml:id="-titolo" /><seg xml:id="l-null-90-titolo" /></head>
          <p n="1">90</p>
          <p n="2">De civitate <term ref="#quenzanfu">Quengia‹n›fu</term>.</p>
          <p n="3"><seg n="1"> Ab hac civitate .VIII. dietis per occidens continue – ubi inveni‹un›tur civitates
@@ -1316,7 +1311,7 @@
                viri|14|darium circumdatum muro circuitus .V. miliariorum; in medio cuius est pallacium
                maximum et pulcherrimum in quo manet rex, qui ad presens erat unus ex filiis <term ref="#gran-can">Magni Canis</term> nomine <term ref="#mangalu">Ma‹n›galay</term>.</seg></p>
       </div>
-  <div n="91"><head></head>
+  <div n="91" type="chapter" xml:id="l-null-91"><head><seg xml:id="-titolo" /><seg xml:id="l-null-91-titolo" /></head>
          <p n="1">91</p>
          <p n="2">De provincia <term ref="#cunchin">Cuncun</term>.</p>
          <p n="3"><seg n="1"> Post hunc locum itur tribus dietis versus occidens, in pulcra planicie ubi sunt
@@ -1326,7 +1321,7 @@
                cervi et multe alie bestie. </seg><seg n="3"> Durant enim tales montes et valles .XX. dietis, in quibus sunt continue civitates
                et castra multa.</seg></p>
       </div>
-  <div n="92"><head></head>
+  <div n="92" type="chapter" xml:id="l-null-92"><head><seg xml:id="-titolo" /><seg xml:id="l-null-92-titolo" /></head>
          <p n="1">92</p>
          <p n="2">De provincia <term ref="#achbaluch-mangi">Acbalec Mangi</term>.</p>
          <p n="3"><seg n="1"> Hiis ergo .XX. dietis pertransitis provincie de <term ref="#cunchin">Cuncun</term> versus occidens, pervenitur ad provinciam dictam <term ref="#achbaluch-mangi">Acbalec Mangi</term> (quod sonat “Una ex confinibus de <term ref="#mangi">Mangi</term>”), sicque nominatur eius principalis civitas </seg><seg n="2"> Et est hec provincia tota plana, in qua sunt quam plures civitates et castra.
@@ -1338,7 +1333,7 @@
                ursi, linces, dayni, caprioli, cervi; et de besti‹ol›is que faciunt muscum adest magna
                quantitas.</seg></p>
       </div>
-  <div n="93"><head></head>
+  <div n="93" type="chapter" xml:id="l-null-93"><head><seg xml:id="-titolo" /><seg xml:id="l-null-93-titolo" /></head>
          <p n="1">93</p>
          <p n="2">De provincia <term ref="#sindinfu">Sindinfu</term>. </p>
          <p n="3">[1] Transactis hiis .XX. dietis, per montana eundo semper per occidens, invenitur
@@ -1354,7 +1349,7 @@
                castra multa et loca habitata; et sunt multe silvestres bestie, sicud leones, ursi,
                cervi et similia.</seg></p>
       </div>
-  <div n="94"><head></head>
+  <div n="94" type="chapter" xml:id="l-null-94"><head><seg xml:id="-titolo" /><seg xml:id="l-null-94-titolo" /></head>
          <p n="1">94</p>
          <p n="2">De provincia <term ref="#thebeth">Thebet</term>.</p>
          <p n="3">[1] Finitis hiis .V. dietis, invenitur provincia dicta <term ref="#thebeth">Thebet</term>, que afflictione <term ref="#tartari">Tartarorum</term> est destructa; et in ipsa sunt quam plures civitates et castra, dirupta tamen. [2]
@@ -1398,7 +1393,7 @@
                <term ref="#gran-can">Magno Cani</term>, similiter omnes nominate in hoc libro, dicte similiter vel dicende – exceptis aliquibus
                in principio nominatis, que sunt obedientes <term ref="#argon">Argon</term>.</seg></p>
       </div>
-  <div n="95"><head></head>
+  <div n="95" type="chapter" xml:id="l-null-95"><head><seg xml:id="-titolo" /><seg xml:id="l-null-95-titolo" /></head>
          <p n="1">95</p>
          <p n="2">De provincia <term ref="#caindu">Gaindu</term>.</p>
          <p n="3">[1] <term ref="#caindu">Gaindu</term> est provincia et civitas versus occidens, cuius gentes sunt <term ref="#idolatri">ydolatre</term>; et sunt in ea multe civitates et castra. [2] Est ibi lacus quidam, in quo est multitudo
@@ -1430,7 +1425,7 @@
             multe, et gentes in moribus et in omnibus similes supradictis. Et tunc invenitur flumen
             magnum dictum <term ref="#brius">Brius</term>, in quo finitur provincia statim dicta intratque <term ref="#mare-oceano">Occeanum</term>; et in ipso invenitur aurum de paiola in maxima habundantia. <seg n="11"> Invenitur eciam hic cinamum in quantitate multa.</seg></p>
       </div>
-  <div n="96"><head></head>
+  <div n="96" type="chapter" xml:id="l-null-96"><head><seg xml:id="-titolo" /><seg xml:id="l-null-96-titolo" /></head>
          <p n="1">96</p>
          <p n="2">De provincia <term ref="#carazan">Caraian</term>. </p>
          <p n="3">[1] Ultra predictum flumen est provincia <term ref="#carazan">Caraian</term>; in ipsa enim sunt septem regiones, et est versus occidens. [2] Gentes sunt <term ref="#idolatri">ydolatre</term>, et habent proprium ydeoma. [3] A supradicto flumine .V. dietis per occidens – ubi
@@ -1446,7 +1441,7 @@
                frustra easque admiscent sal‹s›e ex aleis facte, sicque eas commedunt. </seg><seg n="9"> Est hic lacus magnus, circuitus circa .C. miliarum, in quo adest magna quantitas
                piscium maximorum.</seg></p>
       </div>
-  <div n="97"><head></head>
+  <div n="97" type="chapter" xml:id="l-null-97"><head><seg xml:id="-titolo" /><seg xml:id="l-null-97-titolo" /></head>
          <p n="1">97</p>
          <p n="2">De provincia <term ref="#carazan">Caraian</term> adhuc. </p>
          <p n="3"><seg n="1"> Recedendo ab hac civitate de <term ref="#iaci">Ghiaçi</term>, transactis .X. dietis per occidens, tunc invenitur provincia de <term ref="#carazan">Caraian</term>, cuius regni principalis civitas dicitur <term ref="#carazan">Caraian</term>. </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>. </seg><seg n="3"> Hic invenitur aurum de paiola in fluminibus; invenitur eciam in lacubus et montibus
@@ -1479,7 +1474,7 @@
                credentes animam mortui, et eius nobilitatem et bonam fortunam, in eorum hospitio
                permanere, et ex hoc bene fortunatos esse.</seg></p>
       </div>
-  <div n="98"><head></head>
+  <div n="98" type="chapter" xml:id="l-null-98"><head><seg xml:id="-titolo" /><seg xml:id="l-null-98-titolo" /></head>
          <p n="1">98</p>
          <p n="2">De provincia Ç<term ref="#cardandan">ardandan</term>.</p>
          <p n="3"><seg n="1"> Ultra predictam provinciam <term ref="#carazan">Caraian</term> .V. dietis per occidens invenitur provincia dicta Ç<term ref="#cardandan">ardandan</term>, cuius gentes sunt <term ref="#idolatri">ydolatre</term>. </seg><seg n="2"> Principalis civitas dicitur <term ref="#vociam">Voccian</term>. </seg><seg n="3"> Homines dentes suos totaliter auro cooperiunt, mulieres vero non. </seg><seg n="4"> Et sunt omnes milites more suo, nichil aliud facientes quam in exercitibus et
@@ -1524,7 +1519,7 @@
                bene est spiritui satisfactum; quare cum leticia magna carnes commedunt potionesque
                bibunt, tam magi quam magice mulieres. Sicque infirmi medela completa est.</seg></p>
       </div>
-  <div n="99"><head></head>
+  <div n="99" type="chapter" xml:id="l-null-99"><head><seg xml:id="-titolo" /><seg xml:id="l-null-99-titolo" /></head>
          <p n="1">99</p>
          <p n="2">De quodam magno descensu, et de provincia <term ref="#mien">Mien</term>.</p>
          <p n="3">[1] In fine autem predicte provicie incipit descensus quidam magnus, qui durat duabus
@@ -1549,14 +1544,14 @@
                quod quecumque facta erant pro anima alicuius ‹nullatenus› moveri non debere‹n›t,
                quare usque in hodiernum diem sic remanent.</seg></p>
       </div>
-  <div n="100"><head></head>
+  <div n="100" type="chapter" xml:id="l-null-100"><head><seg xml:id="-titolo" /><seg xml:id="l-null-100-titolo" /></head>
          <p n="1">100</p>
          <p n="2">De provincia <term ref="#bangala">Bangala</term>.</p>
          <p n="3"><seg n="1"> <term ref="#bangala">Bangala</term> est provincia versus meridiem, versus partes <term ref="#india">Indie</term> in confinibus eius. </seg><seg n="2"> Et sunt gentes <term ref="#idolatri">ydolatre</term> – quorum victualia sunt carnes et riçi –, et sunt maximi mercatores. </seg><seg n="3"> Habent enim <term ref="#bambagio">bombacem</term> in maxima quantitate, et spicam et galangam, çinçiber, zuccarum et multas alias caras
                species. </seg><seg n="4"> Habent eciam boves altitudinis elefantorum, licet grossitudinis non sint tante.
                Et in hac provincia inveniuntur multi servi et serve, quare ex <term ref="#india">India</term> et aliunde veniunt mercatores ipsosque servos per diversas deferunt regiones.</seg></p>
       </div>
-  <div n="101"><head></head>
+  <div n="101" type="chapter" xml:id="l-null-101"><head><seg xml:id="-titolo" /><seg xml:id="l-null-101-titolo" /></head>
          <p n="1">101</p>
          <p n="2">|16| De provincia <term ref="#cangigu">Caugigu</term>.</p>
          <p n="3"><seg n="1"> <term ref="#cangigu">Caugigu</term> est provincia versus oriens, in qua sunt <term ref="#idolatri">ydolatre</term> habentes proprium ydeoma. </seg><seg n="2"> Habent eciam aurum in quantitate, et caras species diversarum manerierum in maxima
@@ -1568,14 +1563,14 @@
                modum talem quod numquam modo aliquo evanescunt; et quicumque taliter modis pluribus
                est meliusque depictus, nobilior et pulcrior reputatur. </seg></p>
       </div>
-  <div n="102"><head></head>
+  <div n="102" type="chapter" xml:id="l-null-102"><head><seg xml:id="-titolo" /><seg xml:id="l-null-102-titolo" /></head>
          <p n="1">102</p>
          <p n="2">De provincia <term ref="#amu">Amu</term>. </p>
          <p n="3"><seg n="1"> <term ref="#amu">Amu</term> est provincia versus oriens, cuius gentes sunt <term ref="#idolatri">ydolatre</term> habentes proprium ydeoma. </seg><seg n="2"> Et tam homines quam mulieres ferunt in brachiis et tibiis brachialia argentea
                et ex auro valoris magni; verumtamen homi‹nes› plura et meliora ferunt. </seg><seg n="3"> Assunt hiis in habundancia victualia queque et pascua optima, quare habent equos
                in quantitate et ‹boves et› buffalos ‹multos›. </seg><seg n="4"> Et ab <term ref="#amu">Amu</term> usque ad <term ref="#cangigu">Caugigu</term>, quod est magis ad occidens, sunt .XV. diete; et a Chaugigu usque ad <term ref="#bangala">Bangala</term> – que est tercia provincia magis ad occidens – sunt .XXX. diete.</seg></p>
       </div>
-  <div n="103"><head></head>
+  <div n="103" type="chapter" xml:id="l-null-103"><head><seg xml:id="-titolo" /><seg xml:id="l-null-103-titolo" /></head>
          <p n="1">103</p>
          <p n="2">De provincia <term ref="#tholoman">Tholoman</term>, ‹et› eorum sepulcr‹is›.</p>
          <p n="3"><seg n="1"> Longe ad <term ref="#amu">Amu</term> versus oriens .VIII. dietis est provincia dicta <term ref="#tholoman">Tholoman</term>, cuius gentes sunt <term ref="#idolatri">ydolatre</term> habentes proprium ydeoma; et sunt pulcri homines, bruni tamen. </seg><seg n="2"> Et ‹habent› civitates multas et castra plurima in maximis et asperrimis montibus.
@@ -1585,7 +1580,7 @@
                similiter faciunt predicte provincie, s‹cilicet› <term ref="#bangala">Bangala</term>, <term ref="#cangigu">Caugigu</term> et <term ref="#amu">Amu</term>. </seg><seg n="6"> Horum victualia sunt carnes, ‹lac› et riçi; vinum vero ex vitibus non habent,
                sed ipsum faciunt ex riçi‹s› et aliis speciebus.</seg></p>
       </div>
-  <div n="104"><head></head>
+  <div n="104" type="chapter" xml:id="l-null-104"><head><seg xml:id="-titolo" /><seg xml:id="l-null-104-titolo" /></head>
          <p n="1">104</p>
          <p n="2">De provincia <term ref="#cintigui">Cuiugiu</term>.</p>
          <p n="3"><seg n="1"> <term ref="#cintigui">Cuiugiu</term> est provincia versus oriens; eundo enim a <term ref="#tholoman">Tholoman</term> .XII. dietis super flumine quodam, ubi sunt civitates et castra multa, invenitur
@@ -1597,7 +1592,7 @@
                canibus, hic cum sagittis, illi cum dentibus, caute tamen, venantur leones. </seg><seg n="6"> Habent multum sericum et de aliis mercimoniis in habundantia, que per hoc flumine
                in diversas portantur regiones.</seg></p>
       </div>
-  <div n="105"><head></head>
+  <div n="105" type="chapter" xml:id="l-null-105"><head><seg xml:id="-titolo" /><seg xml:id="l-null-105-titolo" /></head>
          <p n="1">105</p>
          <p n="2">De locis super predicto flumine et civitate <term ref="#pazanfu">Cacanfu</term>.</p>
          <p n="3"><seg n="1"> Super predicto flumine adhuc .XII. dietis inveniuntur continue civitates et castra
@@ -1608,7 +1603,7 @@
                et castra. </seg><seg n="6"> Huius gentes sunt <term ref="#idolatri">ydolatre</term>, mortuorum corpora comburunt, et sunt mercatores et artiste: faciunt enim multos
                pannos ex auro et serico, et cendalia multa. Et habent monetam ex cartis.</seg></p>
       </div>
-  <div n="106"><head></head>
+  <div n="106" type="chapter" xml:id="l-null-106"><head><seg xml:id="-titolo" /><seg xml:id="l-null-106-titolo" /></head>
          <p n="1">106</p>
          <p n="2">De civitate <term ref="#cianglu">Cianglu</term>.</p>
          <p n="3">[1] Ultra <term ref="#pazanfu">Cacanfu</term> versus meridiem tribus dietis, est civitas magna dicta <term ref="#cianglu">Cianglu</term>, que est et ipsa provincie magne de <term ref="#cataio">Chatay</term>. <seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, comburentes corpora mortuorum. </seg><seg n="3"> Habent ipsi eciam monetam ex cartis, scilicet monetam <term ref="#gran-can">Magni Canis</term>. </seg><seg n="4"> Et fit in hac civitate sal in maxima quantitate, per talem modum. Habent venam
@@ -1617,14 +1612,14 @@
                ergo aquam coquunt igne in ferreis vasis, fitque sal minutum et album valde, ex quo
                circumstantes partes habundanter utuntur. </seg></p>
       </div>
-  <div n="107"><head></head>
+  <div n="107" type="chapter" xml:id="l-null-107"><head><seg xml:id="-titolo" /><seg xml:id="l-null-107-titolo" /></head>
          <p n="1">107</p>
          <p n="2">|16bis| De civitate <term ref="#ciangli">Ciangli</term>.</p>
          <p n="3"><seg n="1"> Longe a predicta civitate .V. dietis versus meridiem, ubi sunt civitates et castra
                multa, ubi sunt mercimonia multa, est civitas dicta <term ref="#ciangli">Ciangli</term>; et ipsa de <term ref="#cataio">Chatay</term>. </seg><seg n="2"> Per medium huius civitatis transit fluvius magnus, per quem superius et inferius
                multa mercimonia apportantur. </seg><seg n="3"> Gentes sunt <term ref="#idolatri">ydolatre</term>, utentes moneta ex cartis.</seg></p>
       </div>
-  <div n="108"><head></head>
+  <div n="108" type="chapter" xml:id="l-null-108"><head><seg xml:id="-titolo" /><seg xml:id="l-null-108-titolo" /></head>
          <p n="1">108</p>
          <p n="2">De civitate <term ref="#tudinfu">Tondinfu</term>.</p>
          <p n="3"><seg n="1"> Ultra predictam civitatem .VI. dietis versus meridiem – ubi adsunt multe nobiles
@@ -1633,7 +1628,7 @@
                nobilior omnium circumstancium, dicta <term ref="#tudinfu">Tondinfu</term>: in qua sunt maximi mercatores. [2] Et sub hac civitate sunt .XI. civitates magne
                et multorum mercimoniorum: habent enim sericum in maxima quantitate.</seg></p>
       </div>
-  <div n="109"><head></head>
+  <div n="109" type="chapter" xml:id="l-null-109"><head><seg xml:id="-titolo" /><seg xml:id="l-null-109-titolo" /></head>
          <p n="1">109</p>
          <p n="2">De civitate <term ref="#singuimatu">Singiumatu</term>. </p>
          <p n="3"><seg n="1"> Ab hac civitate predicta tribus diebus versus meridiem – ubi continue sunt multe
@@ -1643,7 +1638,7 @@
                pars versus <term ref="#cataio">Catay</term> tendit, altera versus <term ref="#mangi">Mangi</term>›. </seg><seg n="4"> Est enim in hoc flumine tanta navium multitudo quod difficile esset credere; per
                ipsum enim exportatur et apportatur innumerabilis mercimoniorum quantitas.</seg></p>
       </div>
-  <div n="110"><head></head>
+  <div n="110" type="chapter" xml:id="l-null-110"><head><seg xml:id="-titolo" /><seg xml:id="l-null-110-titolo" /></head>
          <p n="1">110</p>
          <p n="2">De civitate Ligiu.</p>
          <p n="3">[1] Ultra predictam civitatem versus meridiem .VIII. dietis – ubi continue sunt civitates,
@@ -1654,7 +1649,7 @@
                [4] Et victualium adest copia multa, et venacionum similiter, tam bestiarum quam avium.
                </seg></p>
       </div>
-  <div n="111"><head></head>
+  <div n="111" type="chapter" xml:id="l-null-111"><head><seg xml:id="-titolo" /><seg xml:id="l-null-111-titolo" /></head>
          <p n="1">111</p>
          <p n="2">De civitate Piugiu. </p>
          <p n="3"><seg n="1"> Dietis tribus ultra predictam civitatem versus meridiem – ubi sunt civitates et
@@ -1662,14 +1657,14 @@
                invenitur tam avium quam bestiarum, et victualium habent habundantiam copiosam) –invenitur
                nobilis et magna civitas Piugiu, que est in introytu provincie de <term ref="#mangi">Mangi</term>; et sunt gentes mercatores et artiste. </seg><seg n="2"> Hinc ergo, ut plurimum, assumunt mercimonia mercatores que per <term ref="#mangi">Mangi</term> portant.</seg></p>
       </div>
-  <div n="112"><head></head>
+  <div n="112" type="chapter" xml:id="l-null-112"><head><seg xml:id="-titolo" /><seg xml:id="l-null-112-titolo" /></head>
          <p n="1">112</p>
          <p n="2">De civitate Cingiu.</p>
          <p n="3">[1] Duabus dietis ultra iam dictam civitatem versus meridiem, per pulcra loca et fertilia
             – ubi adsunt venationes optime bestiarum et avium –, tunc invenitur magna civitas,
             et plena mercimoniorum et arcium, dicta Cingiu. [2] Sunt gentes <term ref="#idolatri">ydolatre</term>, comburentes corpora mortuorum; et habent monetam ex cartis. <seg n="3"> Frumenti enim, et cuiuslibet alterius bladi, adest copia valde magna.</seg></p>
       </div>
-  <div n="113"><head></head>
+  <div n="113" type="chapter" xml:id="l-null-113"><head><seg xml:id="-titolo" /><seg xml:id="l-null-113-titolo" /></head>
          <p n="1">113</p>
          <p n="2">De civitatibus <term ref="#coiganzu">Coigangiu</term> et <term ref="#quanzu">Caigiu</term>.</p>
          <p n="3">[1] Ultra hanc civitatem tribus dietis versus meridiem, per pulcra loca et castra
@@ -1681,14 +1676,14 @@
                circumdate aquis, fossis profundis et latis plus uno tractu baliste. Et principalis
                civitas provincie dicitur <term ref="#quinsai">Quinsay</term>. [5] Et dehinc dicetur de provincia <term ref="#mangi">Mangi</term>.</seg></p>
       </div>
-  <div n="114"><head></head>
+  <div n="114" type="chapter" xml:id="l-null-114"><head><seg xml:id="-titolo" /><seg xml:id="l-null-114-titolo" /></head>
          <p n="1">114</p>
          <p n="2">De civitate <term ref="#coiganzu">Coigangiu</term><hi rend="italics">.</hi></p>
          <p n="3"><seg n="1"> <term ref="#coiganzu">Coigangiu</term>, ut dictum est, est maxima civitas super magno flumine <term ref="#caramoran">Caramoran</term>, et est in introitu provincie de <term ref="#mangi">Mangi</term> versus syroch. </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term> et comburunt corpora mortuorum. </seg><seg n="3"> Et hic est maxima quantitas navium, ut supra dictum est, et ad hanc civitatem
                apportantur mercimonia in maxima quantitate, quia est principium regni. </seg><seg n="4"> Et fit hic sal in maxima quantitate: ex ipso enim plus quam .40. civitates habundant.
                </seg></p>
       </div>
-  <div n="115"><head></head>
+  <div n="115" type="chapter" xml:id="l-null-115"><head><seg xml:id="-titolo" /><seg xml:id="l-null-115-titolo" /></head>
          <p n="1">115</p>
          <p n="2">De civitate <term ref="#paughin">Panchin</term>.</p>
          <p n="3"><seg n="1"> Ab hac predicta civitate eundo versus syroch per dietam unam continue per viam
@@ -1696,39 +1691,39 @@
                provincie de <term ref="#mangi">Mangi</term>, neque aliunde intrari potest –, invenitur civitas dicta <term ref="#paughin">Panchin</term>, pulcra et nobilis. </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, comburentes corpora mortuorum et habentes mo|17|netam ex cartis. </seg><seg n="3"> Et sunt mercatores et artiste: faciunt enim pannos aureos et de serico diversarum
                manerierum. Habent enim sericum in habundantia multa et victualia multa.</seg></p>
       </div>
-  <div n="116"><head></head>
+  <div n="116" type="chapter" xml:id="l-null-116"><head><seg xml:id="-titolo" /><seg xml:id="l-null-116-titolo" /></head>
          <p n="1">116</p>
          <p n="2">De civitate <term ref="#caim">Cain</term>.</p>
          <p n="3"><seg n="1"> A civitate predicta versus syroch dieta una est civitas dicta <term ref="#caim">Cain</term>. </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, utentes moneta ex cartis. </seg><seg n="3"> Et sunt mercatores et artiste. </seg><seg n="4"> Victualium adest hiis habundantia multa, similiter et piscium avium et bestiarum,
                venatio bona valde. </seg></p>
       </div>
-  <div n="117"><head></head>
+  <div n="117" type="chapter" xml:id="l-null-117"><head><seg xml:id="-titolo" /><seg xml:id="l-null-117-titolo" /></head>
          <p n="1">117</p>
          <p n="2">De civitate ‹<term ref="#tingui">Tigiu</term>›.</p>
          <p n="3"><seg n="1"> A predicta civitate versus syroch dieta una est civitas dicta <term ref="#tingui">Tigiu</term> que, licet non sit magna, tamen est fertilis et habundans. </seg><seg n="2"> Gentes sunt mercatores et artiste, <term ref="#idolatri">ydolatre</term> tamen, et habentes monetam ex cartis. </seg><seg n="3"> Et habent navigia multa; et bonas venationes, tam bestiarum quam avium. </seg><seg n="4"> Ad sinistram vero partem de <term ref="#tingui">Tigiu</term>, scilicet versus oriens, longe tribus dietis, est <term ref="#mare-oceano">Occeanum mare</term>. </seg><seg n="5"> Et in hiis tribus dietis ubique fit sal in maxima quantitate; et est ibi civitas
                quedam dicta <term ref="#cingui">Cingui</term>, maxima et nobilis, ubi tanta fit habundantia salis quod inde tota munitur provincia.
                </seg><seg n="6"> Et hii sunt <term ref="#idolatri">ydolatre</term>, habentes et ipsi monetam de cartis.</seg></p>
       </div>
-  <div n="118"><head></head>
+  <div n="118" type="chapter" xml:id="l-null-118"><head><seg xml:id="-titolo" /><seg xml:id="l-null-118-titolo" /></head>
          <p n="1">118</p>
          <p n="2">De civitate <term ref="#saianfu">Yangiu</term>.</p>
          <p n="3"><seg n="1"> A <term ref="#tingui">Tigiu</term> per syroch dieta una est maxima et nobilis civitas dicta <term ref="#saianfu">Yangiu</term>, sub cuius dominio sunt .XXVII. magne civitates et bone; et in ipsa manet unus ex
                .XII. baronibus <term ref="#gran-can">Magni Canis</term>. </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, habentes monetam ex cartis. </seg><seg n="3"> Et sunt mercatores et artiste: fiunt ibi armamenta multa.</seg></p>
       </div>
-  <div n="119"><head></head>
+  <div n="119" type="chapter" xml:id="l-null-119"><head><seg xml:id="-titolo" /><seg xml:id="l-null-119-titolo" /></head>
          <p n="1">119</p>
          <p n="2">De provincia <term ref="#nanghin">Nanchin</term>.</p>
          <p n="3"><seg n="1"> <term ref="#nanghin">Nanchin</term> est provincia versus occidens, et est tamen de <term ref="#mangi">Mangi</term>, que est nobilis et dives valde. </seg><seg n="2"> H‹uius› gentes sunt <term ref="#idolatri">ydolatre</term>, comburentes corpora mortuorum, habentes eciam ex cartis monetam. </seg><seg n="3"> Et sunt mercatores et artiste, facientes pannos multos aureos et de serico: habent
                enim de serico habundanter, et breviter sunt victualium omnium habundantes. </seg><seg n="4"> Habent venationes optimas; adsunt eciam hinc leones optimi.</seg></p>
       </div>
-  <div n="120"><head></head>
+  <div n="120" type="chapter" xml:id="l-null-120"><head><seg xml:id="-titolo" /><seg xml:id="l-null-120-titolo" /></head>
          <p n="1">120</p>
          <p n="2">De civitate <term ref="#saianfu">Sai‹a›n‹fu›</term>.</p>
          <p n="3"><seg n="1"> <term ref="#saianfu">Sai‹a›nfu</term> est maxima et nobilis civitas eciam de <term ref="#mangi">Mangi</term>, et est versus occidens, habetque sub se .XII. civitates; et ab omnibus eius partibus
                preterquam a septemtrione est circumdata maximo quodam lacu. </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, mortuorum corpora comburentes, expenduntque monetam de cartis. </seg><seg n="3"> Et sunt mercatores et artiste; faciunt enim pannos aureos et ex serico multos:
                habent enim sericum multum. </seg><seg n="4"> Et ‹habent› venationes multas, et breviter quecumque conveni‹un›t nobili civitati.</seg></p>
       </div>
-  <div n="121"><head></head>
+  <div n="121" type="chapter" xml:id="l-null-121"><head><seg xml:id="-titolo" /><seg xml:id="l-null-121-titolo" /></head>
          <p n="1">121</p>
          <p n="2">De civitate <term ref="#singui">Singiu</term>.</p>
          <p n="3"><seg n="1"> A civitate <term ref="#saianfu">‹Y›angiu</term> versus syroch .XV. miliaribus est non magna civitas dicta <term ref="#singui">Singiu</term>, ubi adest navigiorum innumerabilis multitudo. </seg><seg n="2"> Est enim super maximo flumine – nusquam enim in universo mundo tante magnitudinis
@@ -1740,7 +1735,7 @@
                supradictum est) que sunt longe passus .XV. findunt, caputque capiti ligant sicque
                eas .CCC. passus elongant, cum quibus naves trahunt; sunt enim funibus fortiores.</seg></p>
       </div>
-  <div n="122"><head></head>
+  <div n="122" type="chapter" xml:id="l-null-122"><head><seg xml:id="-titolo" /><seg xml:id="l-null-122-titolo" /></head>
          <p n="1">122</p>
          <p n="2">De civitate <term ref="#quanzu">Caigiu</term>.</p>
          <p n="3"><seg n="1"> Revertamur ergo a <term ref="#quanzu">Caigiu</term>, que est parva civitas versus syroch, et est super dicto flumine. </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, habentes ex cartis monetam. </seg><seg n="3"> Et in hac civitate fit maxima congregatio bladi, quod postea portatur ad <term ref="#cambalu">Cambalu</term> ad curiam <term ref="#gran-can">Magni Canis</term>; maior enim pars curie ex huiusmodi blado munitur. Portatur autem cum navibus, non
@@ -1751,14 +1746,14 @@
                monasterium ydolorum, in quo sunt plus quam .cc. fratres et ydola multa; est enim
                caput plurium aliorum.</seg></p>
       </div>
-  <div n="123"><head></head>
+  <div n="123" type="chapter" xml:id="l-null-123"><head><seg xml:id="-titolo" /><seg xml:id="l-null-123-titolo" /></head>
          <p n="1">123</p>
          <p n="2">De civitate <term ref="#cinghianfu">Cinghianfu</term>.</p>
          <p n="3"><seg n="1"> <term ref="#cinghianfu">Cinghianfu</term> est una ex civitatibus de <term ref="#mangi">Mangi</term>. </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, habentes monetam de cartis. </seg><seg n="3"> Et sunt mercatores homines et artiste, faciuntque pannos aureos et de serico:
                habent enim sericum habundanter. </seg><seg n="4"> Et habent venationes optimas, tam bestiarum quam avium, similiterque bladi et
                reliquorum victualium copiose. </seg><seg n="5"> Adsunt in hac civitate due ecclesie christianorum ex nestorinis.</seg></p>
       </div>
-  <div n="124"><head></head>
+  <div n="124" type="chapter" xml:id="l-null-124"><head><seg xml:id="-titolo" /><seg xml:id="l-null-124-titolo" /></head>
          <p n="1">124</p>
          <p n="2">De civitate <term ref="#tinguigui">Tingingui</term>.</p>
          <p n="3"><seg n="1"> Dietis tribus a dicta civitate versus syroch – ubi sunt civitates multe et castra,
@@ -1766,7 +1761,7 @@
                in maxima quantitate. </seg><seg n="4"> Habent optimas venationes, tam |17bis| bestiarum quam avium, et habent multam
                victualium habundantiam; est enim fertilis terra valde.</seg></p>
       </div>
-  <div n="125"><head></head>
+  <div n="125" type="chapter" xml:id="l-null-125"><head><seg xml:id="-titolo" /><seg xml:id="l-null-125-titolo" /></head>
          <p n="1">125</p>
          <p n="2">De civitate <term ref="#singui">Suigiu</term> et eius pontibus.</p>
          <p n="3">[1] <term ref="#singui">Suigiu</term> est nobilissima valde civitas et magna; circuit enim miliaria .LX., et sunt in ipsa
@@ -1780,19 +1775,19 @@
                recentis çinçiberis. </seg><seg n="7"> Nomen autem huius civitatis dicte <term ref="#singui">Suigiu</term> sonat in latino “Terra”; est enim alia civitas, non longe ab ista, dicta “Celum”.
                Que nomina ob eorum nobilitatem imposita sunt.</seg></p>
       </div>
-  <div n="126"><head></head>
+  <div n="126" type="chapter" xml:id="l-null-126"><head><seg xml:id="-titolo" /><seg xml:id="l-null-126-titolo" /></head>
          <p n="1">126</p>
          <p n="2">De civitatibus <term ref="#uguiu">*Vugiu</term> et Vughin.</p>
          <p n="3"><seg n="1"> Longe a dicta civitate per dietam unam est civitas dicta <term ref="#uguiu">*Vugiu</term> – et est magna et nobilis –, in qua sunt multa mercimonia et artes. </seg><seg n="2"> Est et alia civitas, dicta Vughin, magna et nobilis, cuius gentes sunt <term ref="#idolatri">ydolatre</term>, habentes monetam ex cartis. </seg><seg n="3"> Et sunt sapientes mercatores et artiste, et habent copiam serici et mercimonia
                multa.</seg></p>
       </div>
-  <div n="127"><head></head>
+  <div n="127" type="chapter" xml:id="l-null-127"><head><seg xml:id="-titolo" /><seg xml:id="l-null-127-titolo" /></head>
          <p n="1">127</p>
          <p n="2">De civitate Cianghan.</p>
          <p n="3"><seg n="1"> Ciangan est nobilis et dives civitas, cuius gentes sunt <term ref="#idolatri">ydolatre</term>, utentes moneta ex cartis. </seg><seg n="2"> Et sunt mercatores et artiste; fiunt enim ibi diverse maneries cendatorum, et
                in maxima quantitate. </seg><seg n="3"> Adsunt eciam ibi optime venationes, tam bestiarum quam avium.</seg></p>
       </div>
-  <div n="128"><head></head>
+  <div n="128" type="chapter" xml:id="l-null-128"><head><seg xml:id="-titolo" /><seg xml:id="l-null-128-titolo" /></head>
          <p n="1">128</p>
          <p n="2">De nobili civitate <term ref="#quinsai">Qui‹n›say</term>. Et nota bene eius nobilitatem et de eius pontibus.</p>
          <p n="3">[1] Dietis tribus statim a dicta civitate – ubi adsunt quam plures nobiles civitates
@@ -1821,7 +1816,7 @@
                pulcherrime et magne: in una enim bene .C. homines comode balneari possent; et hiis
                multum utuntur, quia nitide valde vivunt.</seg></p>
       </div>
-  <div n="129"><head></head>
+  <div n="129" type="chapter" xml:id="l-null-129"><head><seg xml:id="-titolo" /><seg xml:id="l-null-129-titolo" /></head>
          <p n="1">129</p>
          <p n="2">De civitate <term ref="#quinsai">Canfu</term>.</p>
          <p n="3">[1] Longe a <term ref="#quinsai">Quinsay</term> .XXV. miliaribus, inter grecum et orientis, est <term ref="#mare-oceano">Occeanum mare</term>, estque ibi civitas dicta <term ref="#quinsai">Canfu</term>, ubi est portus bonus et flumen magnum, quod venit a supradicta civitate; et adhuc
@@ -1836,7 +1831,7 @@
                hec autem omnia cum corpore simul cremant, dicentes quod tot et tanta habebit veraciter
                in ali‹en›o mundo, et quod tali modo recipietur cum instrumentis et cantu.</seg></p>
       </div>
-  <div n="130"><head></head>
+  <div n="130" type="chapter" xml:id="l-null-130"><head><seg xml:id="-titolo" /><seg xml:id="l-null-130-titolo" /></head>
          <p n="1">130</p>
          <p n="2">Iterum de civitate <term ref="#quinsai">Quinsay</term>.</p>
          <p n="3"><seg n="1"> In supradicta civitate de <term ref="#quinsai">Quinsay</term> est pallacium quodam regis provincie de <term ref="#mangi">Mangi.</term> </seg><seg n="2"> Et circuit quantum una bona civitas faceret, circumquaque altis muratum muris;
@@ -1846,7 +1841,7 @@
                plus quam .Xm. hominum commedere, et camere bene .M. </seg><seg n="4"> Et in hac civitate sunt .C.LX. <term ref="#toman">thomain</term> domorum, idest fumantium, et <term ref="#toman">thomain</term> unum est .Xm. Sunt ergo in summa .XVIc.M. domus, inter quas sunt multa nobilia pallatia; et est una sola ecclesia in hac
                civitate, ‹ex christianis nestorinis›.</seg></p>
       </div>
-  <div n="131"><head></head>
+  <div n="131" type="chapter" xml:id="l-null-131"><head><seg xml:id="-titolo" /><seg xml:id="l-null-131-titolo" /></head>
          <p n="1">131</p>
          <p n="2">‹De qua›dam consuet‹udine›.</p>
          <p n="3">[1] In dicta civitate – et breviter per totam provinciam de <term ref="#mangi">Mangi</term>, et similiter de <term ref="#cataio">Chatay</term> – talis adest consuetudo. [2] Super hostio cuiuslibet domus scriptum est nomen domini
@@ -1855,7 +1850,7 @@
             adiunguntur. Tali ergo modo ‹unusquisque› dominus leviter potest scire numerum gentium
             civitatis.</p>
       </div>
-  <div n="132"><head></head>
+  <div n="132" type="chapter" xml:id="l-null-132"><head><seg xml:id="-titolo" /><seg xml:id="l-null-132-titolo" /></head>
          <p n="1">132</p>
          <p n="2">De redditibus provincie de <term ref="#mangi">Mangi</term>.</p>
          <p n="3"><seg n="1"> Provinciam de <term ref="#mangi">Mangi</term> divisit <term ref="#gran-can">Magnus Canis</term> in .IX. dominia, ex quibus civitas <term ref="#quinsai">Quinsay</term> cum aliquibus ei suppositis civitatibus est una. Ut autem appareat quanti redditus
@@ -1867,19 +1862,19 @@
                ex riçis facto. </seg><seg n="4"> Habetque ex universis aliis annuatim .CC.X. thomain auri, quod est †.Xm.CCCCC.LXX.† exagia auri. </seg><seg n="5"> Hanc rationem redditus propriis auribus audivit fieri dominus Marchus Paulo, existens
                in curia <term ref="#gran-can">Magni Canis</term>.</seg></p>
       </div>
-  <div n="133"><head></head>
+  <div n="133" type="chapter" xml:id="l-null-133"><head><seg xml:id="-titolo" /><seg xml:id="l-null-133-titolo" /></head>
          <p n="1">133</p>
          <p n="2">De civitate <term ref="#tapinzu">Tapingiu</term>.</p>
          <p n="3"><seg n="1"> A <term ref="#quinsai">Quinsay</term> versus syroch dieta una per fertilissima loca est civitas quedam, superius nominata
                ‹<term ref="#tapinzu">Tampingiu</term>›, que pulcra est et magna; et ipsa est sub dominio <term ref="#quinsai">Quinsay</term>. </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, comburentes corpora mortuorum, monetam ex cartis habentes. </seg><seg n="3"> Et sunt mercatores et artiste, habentes victualia copiose.</seg></p>
       </div>
-  <div n="134"><head></head>
+  <div n="134" type="chapter" xml:id="l-null-134"><head><seg xml:id="-titolo" /><seg xml:id="l-null-134-titolo" /></head>
          <p n="1">134</p>
          <p n="2">De civitate <term ref="#uguiu">Vugiu</term>. </p>
          <p n="3"><seg n="1"> A <term ref="#tapinzu">Tanpingiu</term> tribus dietis versus syroch, per civitates et castra multa et per loca fertilia,
                invenitur tunc civitas dicta <term ref="#uguiu">Vugiu</term>; et est magna, et sub dominio <term ref="#quinsai">Quinsay</term>. </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term> mercatores et artiste.</seg></p>
       </div>
-  <div n="135"><head></head>
+  <div n="135" type="chapter" xml:id="l-null-135"><head><seg xml:id="-titolo" /><seg xml:id="l-null-135-titolo" /></head>
          <p n="1">135</p>
          <p n="2">De civitate <term ref="#gengui">Ghengiu</term>.</p>
          <p n="3">[1] Ab hac dicta civitate .II. dietis per syroch – ubi sunt continue civitates et
@@ -1888,7 +1883,7 @@
             regni: sunt enim longitudinis passuum .XV., et volvunt in grossitudine palmos quatuor)
             – tunc est civitas dicta <term ref="#gengui">Ghengiu</term>, magna et pulcra. [2] Gentes sunt <term ref="#idolatri">ydolatre</term>, ex mercimoniis viventes et artibus; habentque ex victualibus habundanter. <seg n="3"> Et ipsi eciam sunt sub dominio <term ref="#quinsai">Quinsay</term>.</seg></p>
       </div>
-  <div n="136"><head></head>
+  <div n="136" type="chapter" xml:id="l-null-136"><head><seg xml:id="-titolo" /><seg xml:id="l-null-136-titolo" /></head>
          <p n="1">136</p>
          <p n="2">De civitate <term ref="#zengian">Cia‹n›scian</term>.</p>
          <p n="3"><seg n="1"> Ultra civitatem <term ref="#gengui">Ghengiu</term> quatuor dietis versus syroch – continue per civitates et loca in quibus adsunt victualia
@@ -1896,14 +1891,14 @@
                et feroces) – adest tunc pulchra et magna civitas <term ref="#zengian">Cianscian</term>, que est super monte quodam, qui dividit flumen in partes duas: quarum una tendit
                ad supra, reliqua vero ad infra. [2] Gentes sunt <term ref="#idolatri">ydolatre</term>, mercatores et artiste; et sunt eciam sub dominio <term ref="#quinsai">Quinsai</term>.</seg></p>
       </div>
-  <div n="137"><head></head>
+  <div n="137" type="chapter" xml:id="l-null-137"><head><seg xml:id="-titolo" /><seg xml:id="l-null-137-titolo" /></head>
          <p n="1">137</p>
          <p n="2">De civitate <term ref="#gieza">Cugiu</term>.</p>
          <p n="3"><seg n="1"> Ab hac civitate <term ref="#zengian">Cianscian</term> tribus dietis per loca habitata et pulcra – ubi sunt artiste multi |18bis| et mercatores,
                qui sunt <term ref="#idolatri">ydolatre</term> et sub dominio de <term ref="#quinsai">Quinsay</term> (et habent victualia habundanter et venationes bonas) – tunc est pulcra et magna
                civitas dicta <term ref="#gieza">Cugiu</term>, cuius gentes sunt <term ref="#idolatri">ydolatre</term>. </seg><seg n="2"> Et est hec ultima civitatum que sunt sub dominio de <term ref="#quinsai">Quinsay</term>, quia tunc incipit aliud ex .IX. vicinis regnis provincie de <term ref="#mangi">Mangi</term>, quod dicitur <term ref="#fugiu">Fugiu</term>. </seg><seg n="3"> Per totam provinciam de <term ref="#mangi">Mangi</term> non inveniuntur arietes sed boves, et capras et porcos habent multos.</seg></p>
       </div>
-  <div n="138"><head></head>
+  <div n="138" type="chapter" xml:id="l-null-138"><head><seg xml:id="-titolo" /><seg xml:id="l-null-138-titolo" /></head>
          <p n="1">138</p>
          <p n="2">De regno <term ref="#fugiu">Fugiu</term>. </p>
          <p n="3"><seg n="1"> Ab ultima civitate de regno <term ref="#quinsai">Quinsay</term> dicta <term ref="#gieza">Cugiu</term>, incipit aliud regnum ex .IX. vicinis regnis provincie de <term ref="#mangi">Mangi</term>, quod regnum dicitur <term ref="#fugiu">Fugiu</term>. </seg><seg n="2"> Et pertransitur .VI. dietis per syroch per montes et valles, ubi sunt civitates
@@ -1926,13 +1921,13 @@
                dicta <term ref="#unguem">Vucquem</term>, in qua fit maxima quantitas zuccari; quantumcumque enim zuccari consumitur in curia
                <term ref="#gran-can">Magni Canis</term> hec civitas prebet totum, quod incredibilis est valoris.</seg></p>
       </div>
-  <div n="139"><head></head>
+  <div n="139" type="chapter" xml:id="l-null-139"><head><seg xml:id="-titolo" /><seg xml:id="l-null-139-titolo" /></head>
          <p n="1">139</p>
          <p n="2">De civitate <term ref="#fugiu">Fugiu</term>.</p>
          <p n="3"><seg n="1"> Quindecim miliaribus ultra <term ref="#unguem">Vucquem</term> est nobilis civitas <term ref="#fugiu">Fugiu</term>, que est caput et principalis civitas regni dicti <term ref="#concha">Concha</term>, quod est una ex .IX. partibus provincie <term ref="#mangi">Mangi</term>. </seg><seg n="2"> Gentes sunt maxime mercatores et artiste; et sunt <term ref="#idolatri">ydolatre</term>. </seg><seg n="3"> Per medium huius civitatis transit magnum flumen, latum circa miliare unum. </seg><seg n="4"> Fit in hac civitate çuccarum in maxima habundantia. </seg><seg n="5"> Venduntur eciam hic margarite et lapides preciosi in maxima quantitate, que exportantur
                ex indianis insulis. </seg><seg n="6"> Est enim hec civitas propinqua portui de Chayton, qui est in Occeano mari; et ad hunc portum veniunt naves et mercimonia de <term ref="#india">India</term> que per flumen istud portant usque ad civitatem <term ref="#fugiu">Fugiu</term>, et ‹inde› per flumen et terram in diversas transferunt partes. </seg><seg n="7"> Et in hac civitate adsunt victualia habundanter.</seg></p>
       </div>
-  <div n="140"><head></head>
+  <div n="140" type="chapter" xml:id="l-null-140"><head><seg xml:id="-titolo" /><seg xml:id="l-null-140-titolo" /></head>
          <p n="1">140</p>
          <p n="2">De nobili civitate <term ref="#zaitum">Çairon</term>.</p>
          <p n="3"><seg n="1"> A civitate <term ref="#fugiu">Fugiu</term>, transeundo flumen, .V. dietis per syroch – per montes, colles et valles et planicies,
@@ -1944,7 +1939,7 @@
                </seg><seg n="6"> Ex quibus apparet quod mercatores, de hiis que de <term ref="#india">India</term> portant, inter |19| datium et nabulum dimidium dant valoris. </seg><seg n="6"> Et est hec contrata in omnibus necessariis valde fertilis et habundans, cuius
                gentes sunt <term ref="#idolatri">ydolatre</term>.</seg></p>
       </div>
-  <div n="141"><head></head>
+  <div n="141" type="chapter" xml:id="l-null-141"><head><seg xml:id="-titolo" /><seg xml:id="l-null-141-titolo" /></head>
          <p n="1">141</p>
          <p n="2">De civitate <term ref="#tingui">Tinugiu</term>.</p>
          <p n="3"><seg n="1"> In hac provincia <term ref="#fugiu">Fugiu</term> ‹est civitas dicta <term ref="#tingui">Tinugiu</term>, in qua› fiunt vasa de porcellanis, que ubique valde tenentur cara: preter quam enim
@@ -1952,7 +1947,7 @@
                foro: pro valore enim unius veneti grossi habentur tres perapsides pulcherrime. </seg><seg n="2"> Huius civitatis gentes sunt <term ref="#idolatri">ydolatre</term>, habentque proprium ydeoma. </seg><seg n="3"> Satis dictum est de regno Fugiu, quod est una ex .IX. partibus provincie de <term ref="#mangi">Mangi</term>, ex quo non minus habet redditus <term ref="#gran-can">Magnus Canis</term> quam ex <term ref="#quinsai">Quinsay</term> superius dicto regno. </seg><seg n="4"> Et licet provincia de <term ref="#mangi">Mangi</term> in .IX., ut diximus, sit divisa regnis, de tribus tantum diximus longe dicionis fastidium
                evitantes: que sunt <term ref="#saianfu">Yangiu</term>, <term ref="#quinsai">Quinsai</term> et <term ref="#fugiu">Fugiu</term>. </seg><seg n="5"> Hiis relictis ad <term ref="#india">Indica</term> transeamus.</seg></p>
       </div>
-  <div n="142"><head></head>
+  <div n="142" type="chapter" xml:id="l-null-142"><head><seg xml:id="-titolo" /><seg xml:id="l-null-142-titolo" /></head>
          <p n="1">142</p>
          <p n="2">De diversis provinciis que sunt in <term ref="#india">India</term> et eorum moribus; et eorum navibus.</p>
          <p n="3">[1] <term ref="#mare-dindia">Indicum mare</term> navigant navibus valde magnis: portant enim pondus .Vm. et .VIm. sportarum piperis. [2] Et sunt ex lignis abietis et çapini, suntque duplices: id
@@ -1977,7 +1972,7 @@
                sicque continue reaptando habent aliquando hee naves sex superpositos asses clavis
                iunctos.</seg></p>
       </div>
-  <div n="143"><head></head>
+  <div n="143" type="chapter" xml:id="l-null-143"><head><seg xml:id="-titolo" /><seg xml:id="l-null-143-titolo" /></head>
          <p n="1">143</p>
          <p n="2">De insula Cimpingu. </p>
          <p n="3">[1] Dicamus primo de insulis indicis que sunt in Occeano mari versus oriens a regionibus prius dictis. [2] Longe a terra .M.CCCCC. milliariis est
@@ -2025,7 +2020,7 @@
                coctum pro solempni dant ferculo, dicentes humanas carnes aliis prevalere omni dulcedine
                atque sapore. </seg></p>
       </div>
-  <div n="144"><head></head>
+  <div n="144" type="chapter" xml:id="l-null-144"><head><seg xml:id="-titolo" /><seg xml:id="l-null-144-titolo" /></head>
          <p n="1">144</p>
          <p n="2">De mari de Cin; et de eius insulis. </p>
          <p n="3">[1] Hoc mare, in quo dicta manet insula, est ad oriens et syroch; et dicitur <term ref="#mare-cin">mare de Cin</term>, quod sonat “mare quod est versus <term ref="#mangi">Mangi</term>”: in eorum enim lingua tantum sonat “<term ref="#cin">Cin</term>” quantum “<term ref="#mangi">Mangi</term>”. [2] Et dicunt sapientes marinarii huius maris quod in hoc mari sunt insule septem
@@ -2041,7 +2036,7 @@
                unum mare, sic et dicitur <term ref="#mare-cin">mare de Cin</term> et <term ref="#mare-dindia">mare Yndie</term>, cum secundum veritatem sit unum mare, scilicet <term ref="#mare-oceano">Occeanum</term>. </seg><seg n="7"> De hiis ergo insulis, quia in ipsis non fuimus, cum sint devia valde loca neque
                submissa <term ref="#gran-can">Magno Cani</term>, ad presens relinquamus.</seg></p>
       </div>
-  <div n="145"><head></head>
+  <div n="145" type="chapter" xml:id="l-null-145"><head><seg xml:id="-titolo" /><seg xml:id="l-null-145-titolo" /></head>
          <p n="1">145</p>
          <p n="2">De contrata quadam dicta <term ref="#ziamba">Ciamban</term>.</p>
          <p n="3">[1] A portu de <term ref="#zaitum">Çairon</term> per mare versus occidens aliquantulum tamen versus garbin .M.CCCCC. miliaribus, pervenitur
@@ -2051,20 +2046,20 @@
                ferre. [5] Et sunt hic elefantes multi, et lignum aloes in habundantia, et nemora
                quam plura, et ex ligno ebani, quod est valde nigrum et nobile lignum.</seg></p>
       </div>
-  <div n="146"><head></head>
+  <div n="146" type="chapter" xml:id="l-null-146"><head><seg xml:id="-titolo" /><seg xml:id="l-null-146-titolo" /></head>
          <p n="1">146</p>
          <p n="2">De insula Java Maiori.</p>
          <p n="3"><seg n="1"> Inter meridiem et syroch, .M.CCCCC. miliaribus longe a <term ref="#ziamba">Ciamban</term> est insula <term ref="#giava">Java</term>, que – secundum ‹quod› dicunt marinarii illi – est maior insula mundi. </seg><seg n="2"> Adest hic rex nulli subiectus; gentes sunt <term ref="#idolatri">ydolatre</term>. </seg><seg n="3"> Et est dives insula valde. Et ibi sunt piper, nuces muscate, spica, galanga, cubebe,
                gariofoli; et breviter omnes bone et care species in ea inveniri possunt, quare ad
                ipsam pervenit navium multitudo, ‹et de <term ref="#zaitum">Çairon</term>› et de |20| Mangi quam plures mercatores. </seg></p>
       </div>
-  <div n="147"><head></head>
+  <div n="147" type="chapter" xml:id="l-null-147"><head><seg xml:id="-titolo" /><seg xml:id="l-null-147-titolo" /></head>
          <p n="1">147</p>
          <p n="2">De duabus insulis <term ref="#sondur-et-condur">Condur</term> et <term ref="#sondur-et-condur">Sondur</term>.</p>
          <p n="3"><seg n="1"> Ab insula <term ref="#giava">Java</term> .VIIc. miliaribus inter meridiem et garbin sunt due insule, quarum una magna est, altera
                vero minor. Unius nomen est <term ref="#sondur-et-condur">Condur</term>, alterius <term ref="#sondur-et-condur">Sondur.</term> </seg></p>
       </div>
-  <div n="148"><head></head>
+  <div n="148" type="chapter" xml:id="l-null-148"><head><seg xml:id="-titolo" /><seg xml:id="l-null-148-titolo" /></head>
          <p n="1">148</p>
          <p n="2">De provincia <term ref="#locach">Locach</term>.</p>
          <p n="3"><seg n="1"> Ab hiis insulis .Vc. miliaribus per syroch est provincia dicta <term ref="#locach">Locach</term>, maxima et ditissima, in qua est rex nulli submissus. </seg><seg n="2"> Gentes sunt <term ref="#idolatri">ydolatre</term>, habentes proprium ydeoma. </seg><seg n="3"> Hic nascitur verçi domesticum in maxima quantitate. [4] Adest eciam aurum ‹in›
@@ -2073,7 +2068,7 @@
                hec provincia tam forte silvestris ‹et devia› quod ad ipsam pauce accedunt gentes,
                difficiliusque accedere possunt.</seg></p>
       </div>
-  <div n="149"><head></head>
+  <div n="149" type="chapter" xml:id="l-null-149"><head><seg xml:id="-titolo" /><seg xml:id="l-null-149-titolo" /></head>
          <p n="1">149</p>
          <p n="2">De insula <term ref="#pentan">Penthain</term>.</p>
          <p n="3"><seg n="1"> A provincia <term ref="#locach">Locach</term> .Vc. miliaribus per meridiem est insula dicta <term ref="#pentan">Penthain</term>. [2] Et est locus valde silvestris: eorum nemora sunt plena arboribus magni odoris.
@@ -2083,7 +2078,7 @@
                speciebus: adsunt enim ibi in habundantia multa. [5] Gentes habent regem et proprium
                ydeoma.</seg></p>
       </div>
-  <div n="150"><head></head>
+  <div n="150" type="chapter" xml:id="l-null-150"><head><seg xml:id="-titolo" /><seg xml:id="l-null-150-titolo" /></head>
          <p n="1">150</p>
          <p n="2">De insula <term ref="#giava">Java Minori</term>.</p>
          <p n="3">[1] Ab insula <term ref="#pentan">Penthain</term> circa .C. miliaribus versus syroch est insula <term ref="#giava">Java</term>, que licet “Minor” dicatur per respectum alterius supradicte, est tamen circuitus
@@ -2093,7 +2088,7 @@
             species que nunquam in nostris partibus apportantur. [4] Et est hec insula in tantum
             versus meridiem posita quod Polus Articus breviter nichil apparet. <seg n="5"> Dicatur ergo de quolibet regno per se.</seg></p>
       </div>
-  <div n="151"><head></head>
+  <div n="151" type="chapter" xml:id="l-null-151"><head><seg xml:id="-titolo" /><seg xml:id="l-null-151-titolo" /></head>
          <p n="1">151</p>
          <p n="2">De regno <term ref="#felech">Ferlech</term>.</p>
          <p n="3"><seg n="1"> <term ref="#felech">Ferlech</term> est regnum in hac insula, cuius gentes propter Sarracenos ibi plurimum conversantes
@@ -2101,7 +2096,7 @@
                humanas carnes, et breviter carnes cuiuscumque generis sint commedunt. </seg><seg n="3"> Inordinate adorant: cum enim de mane ‹a sompno› surrexerint, quod primo vident
                adorant.</seg></p>
       </div>
-  <div n="152"><head></head>
+  <div n="152" type="chapter" xml:id="l-null-152"><head><seg xml:id="-titolo" /><seg xml:id="l-null-152-titolo" /></head>
          <p n="1">152</p>
          <p n="2">De regione <term ref="#basma">Basman</term>.</p>
          <p n="3"><seg n="1"> In hac insula eciam, iuxta predictum regnum, est regio dicta <term ref="#basma">Basman</term>; cuius gentes more bestiali vivunt absque lege – habent tamen proprium ydeoma. </seg><seg n="2"> Adsunt hic multi silvestres elefantes et unicorni, qui parum elephantibus sunt
@@ -2116,7 +2111,7 @@
                aliquo colore depingunt, deinde similitudine humana extensas desiccant; sicque per
                diversas mundi partes ut lucrentur exportant, asserentes eas esse pigmeos.</seg></p>
       </div>
-  <div n="153"><head></head>
+  <div n="153" type="chapter" xml:id="l-null-153"><head><seg xml:id="-titolo" /><seg xml:id="l-null-153-titolo" /></head>
          <p n="1">153</p>
          <p n="2">De regno <term ref="#samara">Samara</term>.</p>
          <p n="3"><seg n="1"> Iuxta predictum regnum, in eadem insula, est regio de <term ref="#samara">Samara</term>, in qua dominus Marchus Paulo ob impedimentum temporis .V. permansit mensibus. [2]
@@ -2129,7 +2124,7 @@
                liquor fluit. Et de tali vino album habent et rubeum. [6] Est insuper tale vinum ydropicis
                et spleneticis valde bonum. </seg><seg n="7"> Habent eciam <term ref="#noci-dindia">nuces indicas</term> in maxima quantitate, valde bonas. </seg><seg n="8"> Et ex omni genere carnium indifferenter commedunt.</seg></p>
       </div>
-  <div n="154"><head></head>
+  <div n="154" type="chapter" xml:id="l-null-154"><head><seg xml:id="-titolo" /><seg xml:id="l-null-154-titolo" /></head>
          <p n="1">154</p>
          <p n="2">De regione <term ref="#dragoian">Dagroyan</term>.</p>
          <p n="3"><seg n="1"> Dagroyan est regnum in insula eadem. </seg><seg n="2"> Adest hic rex, cuius gentes habent ydeoma proprium; et sunt <term ref="#idolatri">ydolatre</term>, silvestres et pessimorum morum. </seg><seg n="3"> Dum aliquis horum infirmitate languescit, eorum magos et astrologos consulunt
@@ -2142,7 +2137,7 @@
                et locant quod ab animali aliquo tangi non possunt. </seg><seg n="6"> Si autem hee gentes aliquos extraneos homines capere possunt ‹qui se redimere
                non possint›, eos occidunt, et manducant.</seg></p>
       </div>
-  <div n="155"><head></head>
+  <div n="155" type="chapter" xml:id="l-null-155"><head><seg xml:id="-titolo" /><seg xml:id="l-null-155-titolo" /></head>
          <p n="1">155</p>
          <p n="2">De regione <term ref="#lambri">Lambri</term>.</p>
          <p n="3">[1] <term ref="#lambri">Lambri</term> est regnum eciam in dicta insula, habens proprium regem, cuius gentes sunt <term ref="#idolatri">ydolatre</term>. [2] Camphoram habent et alias caras species in quantitate multa. [3] <term ref="#berci">Verçi</term> eciam habent in habundantia; ipsum enim seminant, et cum in parva virga elevatus
@@ -2152,7 +2147,7 @@
                longas uno palmo ‹et grossas› ad canum similitudinem. </seg><seg n="6"> Adsunt eciam hinc unicorni multi; venationes eciam tam bestiarum quam avium habent
                multas.</seg></p>
       </div>
-  <div n="156"><head></head>
+  <div n="156" type="chapter" xml:id="l-null-156"><head><seg xml:id="-titolo" /><seg xml:id="l-null-156-titolo" /></head>
          <p n="1">156</p>
          <p n="2">De regione <term ref="#fanfur">Fansur</term>.</p>
          <p n="3">[1] <term ref="#fanfur">Fansur</term> est regnum similiter in dicta insula <term ref="#giava">Java</term>, habens et ipsum regem proprium, ‹cuius gentes sunt <term ref="#idolatri">ydolatre</term>›. <seg n="2"> In hoc regno nascitur optima ‹camfora›, cui bonitate par nullatenus inveniri potest;
@@ -2165,7 +2160,7 @@
                in alia parte sunt, quia ad ipsa non pervenit dominus Marchus Paulo, relinquatur ad
                presens.</seg></p>
       </div>
-  <div n="157"><head></head>
+  <div n="157" type="chapter" xml:id="l-null-157"><head><seg xml:id="-titolo" /><seg xml:id="l-null-157-titolo" /></head>
          <p n="1">157</p>
          <p n="2">De insula <term ref="#nocueran">Neucuveran</term>. </p>
          <p n="3"><seg n="1"> A regno <term ref="#lambri">Lambri</term>, quod est in insula <term ref="#giava">Java</term>, circa .Vc. miliaribus versus septemtrionem eundo, inveniuntur due insule, una quarum dicitur
@@ -2173,7 +2168,7 @@
                femine, totaliter nudi. </seg><seg n="2"> Et sunt <term ref="#idolatri">ydolatre</term>. </seg><seg n="3"> Earum nemora sunt per totum plena nobilissimis arboribus et magni valoris, sicut
                sunt sandali rubei, <term ref="#noci-dindia">nuces indice</term>, gariofoli, verçi et similes arbores.</seg></p>
       </div>
-  <div n="158"><head></head>
+  <div n="158" type="chapter" xml:id="l-null-158"><head><seg xml:id="-titolo" /><seg xml:id="l-null-158-titolo" /></head>
          <p n="1">158</p>
          <p n="2">De insula <term ref="#angaman">Angaman</term>.</p>
          <p n="3"><seg n="1"> Altera vero insula, dicta <term ref="#angaman">Angaman</term>, est satis magna; et ipsa caret rege. </seg><seg n="2"> Habitantes enim sunt <term ref="#idolatri">ydolatre</term>, viventes more silvestrium bestiarum; et habent omnes capita canibus similia, et
@@ -2183,7 +2178,7 @@
                a nostris valde. </seg><seg n="6"> Ad insulam istam est tantus cursus aque tantaque profunditas quod naves non possunt
                anchoris retineri, sed ducuntur ad culfum quendam unde postea exire non possunt.</seg></p>
       </div>
-  <div n="159"><head></head>
+  <div n="159" type="chapter" xml:id="l-null-159"><head><seg xml:id="-titolo" /><seg xml:id="l-null-159-titolo" /></head>
          <p n="1">159</p>
          <p n="2">De insula <term ref="#zeilan">Seilan</term>.</p>
          <p n="3"><seg n="1"> Ab insula <term ref="#angaman">Angaman</term> .M. milibus per occidens, aliquantulum versus garbin est insula <term ref="#zeilan">Seilan</term>, cuius – secundum rei veritatem – tante magnitudinis nusquam ‹melior› invenitur.
@@ -2193,7 +2188,7 @@
                et amatistes, et quam plures alios bonos lapides predicta fert insula. </seg><seg n="9"> Huius insule rex lapidem mirabilis nobilitatis et pulcritudinis habet; est enim
                longitudinis unius palmi, cuius grossicies brachio adequatur, omni‹que› carens macula.</seg></p>
       </div>
-  <div n="160"><head></head>
+  <div n="160" type="chapter" xml:id="l-null-160"><head><seg xml:id="-titolo" /><seg xml:id="l-null-160-titolo" /></head>
          <p n="1">160</p>
          <p n="2">De monte ubi creduntur esse reliquie Adam.</p>
          <p n="3">[1] In insula statim dicta est mons, cuius saxa taliter ‹undique› sunt dirupta quod
@@ -2231,7 +2226,7 @@
                tante esse virtutis quod, si in ipsa ponatur ferculum uni persone sufficiens, vere
                plus quam quinque saturarentur persone; et referebat <term ref="#gran-can">Magnus Canis</term> se manifeste probasse, sicque verum esse dicebat.</seg></p>
       </div>
-  <div n="161"><head></head>
+  <div n="161" type="chapter" xml:id="l-null-161"><head><seg xml:id="-titolo" /><seg xml:id="l-null-161-titolo" /></head>
          <p n="1">161</p>
          <p n="2">De maxima provincia <term ref="#malabar">Mahabar</term> ‹que› dicitur <term ref="#india">Maior India</term>. </p>
          <p n="3">[1] Ab insula <term ref="#zeilan">Seilam</term> versus occidens circa .LX. miliaribus invenitur maxima provincia <term ref="#malabar">Mahabar</term>, que <term ref="#india">Maior India</term> dicta est. Et ipsa vero omnibus aliis Indiis melior existit, et est in terra firma. [2] Et in ‹hac› provincia erant .V. regna,
@@ -2344,7 +2339,7 @@
                que cantationibus virginumque precibus concordantur. [36] Et de huiusmodi virginibus
                adest maxima multitudo, que tam diu hoc faciunt quousque matrimonio alligentur. </seg><seg n="37"> In hac regione nullum bladum nascitur nisi riçum.</seg></p>
       </div>
-  <div n="162"><head></head>
+  <div n="162" type="chapter" xml:id="l-null-162"><head><seg xml:id="-titolo" /><seg xml:id="l-null-162-titolo" /></head>
          <p n="1">162</p>
          <p n="2">De regno <term ref="#murphili">Mu‹t›fili</term>. Rubrica.</p>
          <p n="3">[1] A <term ref="#malabar">Mahabar</term> versus septemtrionem ‹circha› .M. miliaria adest regnum <term ref="#murphili">Mutfili</term>. [2] Gentes sunt <term ref="#idolatri">ydolatre</term>, viventes ex riço, carnibus et lacte. [3] Et in hac regione inveniuntur dyamantes
@@ -2364,7 +2359,7 @@
                arietes multo maiores aliis. [8] Et habent hee gentes ex victualibus quibus utuntur
                habundantiam copiosam.</seg></p>
       </div>
-  <div n="163"><head></head>
+  <div n="163" type="chapter" xml:id="l-null-163"><head><seg xml:id="-titolo" /><seg xml:id="l-null-163-titolo" /></head>
          <p n="1">163</p>
          <p n="2">|22bis| De corpore sancti Thome apostoli.</p>
          <p n="3">[1] Corpus <term ref="#san-tommaso">sancti Thome</term> est in provincia <term ref="#malabar">Mahabar</term>, in civitate quadam parva, in qua pauce sunt gentes et mercatores nulli: est enim
@@ -2398,7 +2393,7 @@
             bovis pili in hac regione maximi sunt valoris, et nemo credit esse securus nisi pilis
             huiusmodi fulciatur.</p>
       </div>
-  <div n="164"><head></head>
+  <div n="164" type="chapter" xml:id="l-null-164"><head><seg xml:id="-titolo" /><seg xml:id="l-null-164-titolo" /></head>
          <p n="1">164</p>
          <p n="2">De provincia <term ref="#lac">Lay</term>.</p>
          <p n="3">[1] A loco <term ref="#san-tommaso">sancti Thome</term> apostoli versus occidens est provincia dicta <term ref="#lac">Lay</term>, de qua sunt omnes homines quos “abraiemain” dicunt (et hi‹n›c descenderunt primo); ex quibus sunt optimi mercatores, et totaliter
@@ -2444,7 +2439,7 @@
                lapides magnasque margaritas acquirere possunt ex regno quodam de <term ref="#malabar">Mahabar</term> dicto Soli – quod est nobilius et melius omnibus provinciis <term ref="#india">Yndie</term>, ubi maiores et meliores reperiuntur margarite –, secure emant eique portent, quia
                ipsas in duplum emptionis persolvet.</seg></p>
       </div>
-  <div n="165"><head></head>
+  <div n="165" type="chapter" xml:id="l-null-165"><head><seg xml:id="-titolo" /><seg xml:id="l-null-165-titolo" /></head>
          <p n="1">165</p>
          <p n="2">De civitate <term ref="#cael">Cail</term>.</p>
          <p n="3"><seg n="1"> Cail est magna ‹et nobilis› civitas, in qua regnat prior ex quinque fratribus
@@ -2452,7 +2447,7 @@
                faciunt omnes naves que ab occidente veniunt – videlicet de <term ref="#ormus">Curmosa</term>, <term ref="#chisi">Quisci</term>, <term ref="#adem">Adan</term> et de tota <term ref="#arabia">Arabia</term> –, que mercimonia portant, et equos in quantitate multa. </seg><seg n="3"> Hic rex tempore domini Marchi Paulo habebat circa .CCC. uxores; quicumque enim
                plures retinet mulieres, et retinere potest, pre aliis honoratur.</seg></p>
       </div>
-  <div n="166"><head></head>
+  <div n="166" type="chapter" xml:id="l-null-166"><head><seg xml:id="-titolo" /><seg xml:id="l-null-166-titolo" /></head>
          <p n="1">166</p>
          <p n="2">De regione <term ref="#coulam">Coilom</term>.</p>
          <p n="3">[1] De <term ref="#malabar">Mahabar</term> versus garbin .Vc. miliaribus est regnum <term ref="#coulam">Coilom</term>. [2] Gentes sunt <term ref="#idolatri">ydolatre</term>; sunt tamen aliqui christiani et Iudei; et habent proprium ydeoma. [3] Hic nascitur
@@ -2474,7 +2469,7 @@
                primas consanguineas – uxores patris vel fratris –, dum vidue remanserint accipiunt
                in uxorem: et talem consuetudinem ubicumque ‹omnes› Indiani tenent.</seg></p>
       </div>
-  <div n="167"><head></head>
+  <div n="167" type="chapter" xml:id="l-null-167"><head><seg xml:id="-titolo" /><seg xml:id="l-null-167-titolo" /></head>
          <p n="1">167</p>
          <p n="2">De provincia <term ref="#cumari">Comari</term>.</p>
          <p n="3"><seg n="1"> Comari est contrata quedam ipsius <term ref="#india">Indie</term>, ex qua stella septemtrionalis Poli aliquando videri potest, quam ab insula <term ref="#giava">Java</term> non vidimus usque huc; oportet tamen mare ingredi bene .XXX. milliaria, et tunc apparet
@@ -2483,7 +2478,7 @@
                simie: ex quibus alique sunt que recte videntur homines. [3] Sunt eciam gatti de palude
                ‹mirabiliter extranei›, et leones, leopardi ‹et lonces› in habundantia multa.</seg></p>
       </div>
-  <div n="168"><head></head>
+  <div n="168" type="chapter" xml:id="l-null-168"><head><seg xml:id="-titolo" /><seg xml:id="l-null-168-titolo" /></head>
          <p n="1">168</p>
          <p n="2">De regno <term ref="#dely">Eli</term>.</p>
          <p n="3">[1] De <term ref="#cumari">Comari</term> versus occidens circa .XXX. miliaribus est regnum dictum <term ref="#dely">Eli</term>, ubi adest rex. [2] Gentes sunt <term ref="#idolatri">ydolatre</term>, et habent proprium ydeoma. [3] Et sunt hec loca, et ammodo sequentia, domesticiora
@@ -2501,7 +2496,7 @@
             et similiter de aliis speciebus in quantitate multa. [8] Habent leones et bestias
             multas feroces, et venationes similiter habent bonas.</p>
       </div>
-  <div n="169"><head></head>
+  <div n="169" type="chapter" xml:id="l-null-169"><head><seg xml:id="-titolo" /><seg xml:id="l-null-169-titolo" /></head>
          <p n="1">169</p>
          <p n="2">De regione <term ref="#malabar">Melibar</term>. Rubrica.</p>
          <p n="3"><seg n="1"> <term ref="#malabar">Melibar </term>est maximum regnum versus occidens, et ex ipso apparet adhuc melius stella septemtrionalis;
@@ -2511,7 +2506,7 @@
                </seg><seg n="5"> Mercatores portant ad hanc provinciam aliunde et pannos aureos et de seta, aurum
                et argentum, gariofilos et spicam, quia hiis speciebus carent. </seg></p>
       </div>
-  <div n="170"><head></head>
+  <div n="170" type="chapter" xml:id="l-null-170"><head><seg xml:id="-titolo" /><seg xml:id="l-null-170-titolo" /></head>
          <p n="1">170</p>
          <p n="2">De regione <term ref="#guzzerat">Gocurat</term>. </p>
          <p n="3">[1] <term ref="#guzzerat">Gocurat</term> est magnum regnum versus occidens, ubi adhuc altior videtur septemtrionalis stella,
@@ -2528,19 +2523,19 @@
                aliqua .VI. marchas argenti. In nulla enim parte mundi de coriis tam pulcre et subtiliter
                laboratur.</seg></p>
       </div>
-  <div n="171"><head></head>
+  <div n="171" type="chapter" xml:id="l-null-171"><head><seg xml:id="-titolo" /><seg xml:id="l-null-171-titolo" /></head>
          <p n="1">171</p>
          <p n="2">De regno <term ref="#canam">Tanam</term>.</p>
          <p n="3"><seg n="1"> <term ref="#canam">Tanam</term> est maximum et bonum regnum versus occidens. </seg><seg n="2"> Regem habent; et sunt <term ref="#idolatri">ydolatre</term>, habentes proprium ydeoma. </seg><seg n="3"> Sunt tamen et ipsi pirate. </seg><seg n="4"> Hic non nascitur piper neque alie species, ut in provinciis antedictis. </seg><seg n="5"> Ex thure enim, et licet non sit album, nascitur tamen|24| multum. </seg><seg n="6"> Apportantur hic multa coria, et fiunt ‹hic› quam plurimi bochorani.</seg></p>
       </div>
-  <div n="172"><head></head>
+  <div n="172" type="chapter" xml:id="l-null-172"><head><seg xml:id="-titolo" /><seg xml:id="l-null-172-titolo" /></head>
          <p n="1">172</p>
          <p n="2">De regno <term ref="#cambaia">Cambaet</term>.</p>
          <p n="3">[1] <term ref="#cambaia">Cambaet</term> est magnum regnum versus occidens. [2] Hic est rex; gentes sunt <term ref="#idolatri">ydolatre</term>, proprio ydeomate loquentes. <seg n="3"> Et ex hac provincia videtur adhuc plus septemtrionalis stella: quanto enim ‹magis›
                ammodo ad occidens procedimus tanto altior apparebit. </seg><seg n="4"> Est in hoc regno indicum multum et bonum, et bochorani multi, et <term ref="#bambagio">bombax</term> in maxima quantitate, et coria preparata in quantitate multa. [5] Et in hoc regno
                sunt boni homines mercatores et artiste. </seg></p>
       </div>
-  <div n="173"><head></head>
+  <div n="173" type="chapter" xml:id="l-null-173"><head><seg xml:id="-titolo" /><seg xml:id="l-null-173-titolo" /></head>
          <p n="1">173</p>
          <p n="2">De regno <term ref="#servenath">Semenat</term>.</p>
          <p n="3"><seg n="1"> <term ref="#servenath">Semenat</term> est magnum regnum versus occidens, ubi est rex. </seg><seg n="2"> Gentes sunt perfidi <term ref="#idolatri">ydolatre</term>, et habent proprium ydeoma. </seg><seg n="3"> Et sunt mercatores homines et artiste. </seg></p>
@@ -2550,7 +2545,7 @@
                autem regnum est ultimum tocius <term ref="#india">Indie Maioris</term>, eundo inter occidens et magistrum. Omnes enim provincie et regna nominata a <term ref="#malabar">Mahabar</term> usque ad hanc provinciam sunt <term ref="#india">Yndie Maioris</term>, et sunt supra mare site, quia de infra terram positis nichil penitus dictum est.
                [5] Dehinc ergo de aliqu‹ibus› insulis <term ref="#india">Maioris Indie</term> pertractetur. </seg></p>
       </div>
-  <div n="175"><head></head>
+  <div n="175" type="chapter" xml:id="l-null-175"><head><seg xml:id="-titolo" /><seg xml:id="l-null-175-titolo" /></head>
          <p n="1">175</p>
          <p n="2">De duabus insulis <term ref="#isola-femmina-e-isola-mascola">Ma‹sculus›</term> et <term ref="#isola-femmina-e-isola-mascola">Fe‹mella›</term>.</p>
          <p n="3"><seg n="1"> De <term ref="#chesmacoran">Kesmagora</term> per mare versus meridiem .Vc. miliaribus sunt due insule, una quarum dicitur <term ref="#isola-femmina-e-isola-mascola">Masculus</term>, altera vero <term ref="#isola-femmina-e-isola-mascola">Femella</term>. [2] Habitantes sunt omnes christiani, et non habent regem neque dominum temporalem,
@@ -2564,7 +2559,7 @@
                filios faciunt; verum quod masculos post quartum decimum annum ad insulam patrum mittunt.
                </seg></p>
       </div>
-  <div n="176"><head></head>
+  <div n="176" type="chapter" xml:id="l-null-176"><head><seg xml:id="-titolo" /><seg xml:id="l-null-176-titolo" /></head>
          <p n="1">176</p>
          <p n="2">De insula <term ref="#soccotera">Scotra</term>.</p>
          <p n="3"><seg n="1"> Ultra has duas insulas versus meridiem .Vm. miliaribus est insula <term ref="#soccotera">Scotra</term>. </seg><seg n="2"> Habitantes sunt christiani, et habent archiepiscopum. </seg><seg n="3"> Omnes incedunt nudi, quemadmodum ‹et› alii Indiani. </seg><seg n="4"> Et eorum victualia sunt riçum, carnes et lac. </seg><seg n="5"> Inveniuntur hic <term ref="#ambracano">ambra</term> in quantitate multa. </seg><seg n="6"> Et fiunt panni <term ref="#bambagio">bombacini</term> multi. </seg><seg n="7"> Pisces salitos bonos et maximos habundanter habent. </seg><seg n="8"> Et omnes naves que ire debent in <term ref="#adem">Adem</term> ad hanc perveniunt insulam. </seg><seg n="9"> Homines insule huius sunt meliores et subtiliores incantatores universi mundi.
@@ -2576,7 +2571,7 @@
                <term ref="#baldach">Baldach</term>, quia ipse omnes prelatos, archiepiscopos, episcopos et quoscumque clericos in omnibus
                Orientis partibus ordinat sicut papa, quia ipsum pro papa tenent.</seg></p>
       </div>
-  <div n="177"><head></head>
+  <div n="177" type="chapter" xml:id="l-null-177"><head><seg xml:id="-titolo" /><seg xml:id="l-null-177-titolo" /></head>
          <p n="1">177</p>
          <p n="2">De insula <term ref="#magastar">Madeigascar</term>. </p>
          <p n="3">[1] <term ref="#magastar">Madeigascar</term> est insula versus meridiem, longe a <term ref="#soccotera">Sco‹t›ra</term> .M. miliaribus. [2] Habitantes sunt Sarraceni adorantes <term ref="#macometto">Machomet</term>; et ipsi quatuor antiquorum hominum reguntur dominio. [3] Et est ex maioribus et
@@ -2606,7 +2601,7 @@
                differentes, quod mirabile esset audire mirabiliusque videre. [14] Avem vero quam
                nos, ob immensam eius magnitudinem, griffonem esse credimus “<term ref="#ruch">ruc</term>” appellant. </seg></p>
       </div>
-  <div n="178"><head></head>
+  <div n="178" type="chapter" xml:id="l-null-178"><head><seg xml:id="-titolo" /><seg xml:id="l-null-178-titolo" /></head>
          <p n="1">178</p>
          <p n="2">De insula <term ref="#zenzibar">Çangibar</term>.</p>
          <p n="3"><seg n="1"> çangibar est magna et nobilis insula: circuit enim circa .IIm. miliarum. </seg><seg n="2"> Adest hic rex et proprium ideoma; homines sunt <term ref="#idolatri">ydolatre</term>. </seg><seg n="3"> Et sunt magni valde et grossi, grossitudini tamen non habent longitudinem correspondentem;
@@ -2636,7 +2631,7 @@
                audacioresque fiunt. </seg><seg n="14"> Horum arma sunt scuta ex coriis, lancee et enses, quibus muniti ad bella eorum
                pergunt.</seg></p>
       </div>
-  <div n="179"><head></head>
+  <div n="179" type="chapter" xml:id="l-null-179"><head><seg xml:id="-titolo" /><seg xml:id="l-null-179-titolo" /></head>
          <p n="1">179</p>
          <p n="2">De <term ref="#india">Maiori Yndia</term> fit hic finis.</p>
          <p n="3">[1] De <term ref="#india">Maiori Yndia</term> tanta dixisse sufficiat: vix enim esset possibile narrare omnia eius facta, cum ipsa
@@ -2646,7 +2641,7 @@
                compassibus et scripturis sapientum illius maris –, ‹inter› habitatas et inhabitatas
                insulas, in hoc mari .XIIm.D.CC. describuntur. </seg><seg n="4"> Minor vero <term ref="#india">India</term> durat a <term ref="#ziamba">Ciambu</term> usque ad <term ref="#murphili">Motisi</term>, ‹in qua sunt .VIII. magna regna, absque regnis insularum, que sunt multa›. </seg></p>
       </div>
-  <div n="180"><head></head>
+  <div n="180" type="chapter" xml:id="l-null-180"><head><seg xml:id="-titolo" /><seg xml:id="l-null-180-titolo" /></head>
          <p n="1">180</p>
          <p n="2">De maxima provincia <term ref="#abascia">Abasce</term>, que dicitur <term ref="#india">India Mediana</term>.</p>
          <p n="3"><seg n="1"> ‹Abasce est maxima provincia, et ipsa est <term ref="#india">India Mediana</term>›, in qua sunt .VI. regna magna: ex quibus tres reges sunt christiani tre‹s›que Sarraceni.
@@ -2660,7 +2655,7 @@
                sunt in armis: habent enim equos multos; et ipsi continuo guerras habent cum soldano
                de <term ref="#adem">Aden</term>, et cum gentibus de <term ref="#nubia">Nubia</term> et cum aliis multis.</seg></p>
       </div>
-  <div n="181"><head></head>
+  <div n="181" type="chapter" xml:id="l-null-181"><head><seg xml:id="-titolo" /><seg xml:id="l-null-181-titolo" /></head>
          <p n="1">181</p>
          <p n="2">De ystoria quadam et vindicta. Rubrica.</p>
          <p n="3"><seg n="1"> Anno Christi .M.CC.LXXXVIII. rex de †Rauce† et tocius provincie <term ref="#abascia">Abasce</term> proposuit velle ad Sepulcrum Christi peregre ire; sed, dum ab eius baronibus maxime
@@ -2674,7 +2669,7 @@
                cum exercitu suo <term ref="#adem">Aden</term> provinciam est ingressus ipsamque anno integro est populatus. Et vindicta episcopi
                ad plenum facta, tandem ad propriam patriam est reversus.</seg></p>
       </div>
-  <div n="182"><head></head>
+  <div n="182" type="chapter" xml:id="l-null-182"><head><seg xml:id="-titolo" /><seg xml:id="l-null-182-titolo" /></head>
          <p n="1">182</p>
          <p n="2">Iterum de provincia <term ref="#abascia">Abasce</term>.</p>
          <p n="3"><seg n="1"> Predicta provincia de <term ref="#abascia">Abasce</term> est omnium victualium fertilis. </seg><seg n="2"> Habitantium tamen victualia sunt riçi, carnes et lac, et sisammum. </seg><seg n="3"> Elefantes habent, licet non nascantur ibi; çiraffas habent, quia ibi nascuntur
@@ -2685,7 +2680,7 @@
                ex quibus aliqui sunt quorum vultus quasi similes sunt humanis. </seg><seg n="7"> Sunt autem in hac provincia plurime civitates et castra, et mercatores plurimi
                et artiste, quia ibi fiunt multi <term ref="#bambagio">bombacini</term> panni, et <term ref="#bochassini">bochorani</term>, et alia multa que relinquuntur causa brevitatis ad presens.</seg></p>
       </div>
-  <div n="183"><head></head>
+  <div n="183" type="chapter" xml:id="l-null-183"><head><seg xml:id="-titolo" /><seg xml:id="l-null-183-titolo" /></head>
          <p n="1">183</p>
          <p n="2">De maxima provincia de <term ref="#adem">Aden</term>.</p>
          <p n="3"><seg n="1"> <term ref="#adem">Aden</term> est maxima provincia, cuius dominus soldanus de <term ref="#adem">Aden</term> dicitur. </seg><seg n="2"> Habitantes sunt Sarraceni, adorantes <term ref="#macometto">Machomet</term>, odientes maxime christianos. </seg><seg n="3"> Et in hac provincia sunt civitates et castra multa, et hic est portus ad quem
@@ -2695,7 +2690,7 @@
                dominis. Tante enim est potentie quod dum soldanus <term ref="#babilonia">Babilonie</term> venit ad civitatem <term ref="#acre">Accon</term> obsidendam (quam tum destruxit), hic soldanus in eius adiutorium contra christianos
                tria †miliona† militum et quatuor †miliona† camelorum adduxit.</seg></p>
       </div>
-  <div n="184"><head></head>
+  <div n="184" type="chapter" xml:id="l-null-184"><head><seg xml:id="-titolo" /><seg xml:id="l-null-184-titolo" /></head>
          <p n="1">184</p>
          <p n="2">De civitate <term ref="#escier">Escier</term>. Rubrica.</p>
          <p n="3">[1] <term ref="#escier">Escier</term> est maxima civitas longe a portu de <term ref="#adem">Aden</term> .CCC. miliaribus versus magistrum. [2] Homines sunt Sarraceni, adorantes <term ref="#macometto">Machomet</term>. [3] Et habet hec civitas †portum†, et est submissa soldano de <term ref="#adem">Aden</term>, et sub ipsius dominio sunt quam plures civitates et castra, et ipsa habet optimum
@@ -2712,14 +2707,14 @@
                in modum panis biscocti exsiccant soli in non magnis frustris, sicque conservant ‹et
                eis per totum annum loco panis utuntur›. </seg></p>
       </div>
-  <div n="185"><head></head>
+  <div n="185" type="chapter" xml:id="l-null-185"><head><seg xml:id="-titolo" /><seg xml:id="l-null-185-titolo" /></head>
          <p n="1">185</p>
          <p n="2">De civitate <term ref="#dulfar">Duffar</term>.</p>
          <p n="3"><seg n="1"> <term ref="#dulfar">Duffar</term> est pulcra, nobilis et magna civitas in provincia <term ref="#adem">Aden</term>, longe ab <term ref="#escier">Escier</term> .CCCCC. miliaribus versus magistrum; et ipsa habet sub se civitates et castra multa.
                </seg><seg n="2"> Habitantes sunt Sarraceni, adorantes <term ref="#macometto">Machomet</term>. </seg><seg n="3"> Et hic est optimus portus super mare. </seg><seg n="4"> Nascitur hic thus multum et bonum. Sunt arbores non multum magne in modum parvi
                çapini, quas cum cultellis in pluribus locis vulnerant, sicque gumma thuris emanat.</seg></p>
       </div>
-  <div n="186"><head></head>
+  <div n="186" type="chapter" xml:id="l-null-186"><head><seg xml:id="-titolo" /><seg xml:id="l-null-186-titolo" /></head>
          <p n="1">186</p>
          <p n="2">De civitate <term ref="#calaiati">Calatu</term>.</p>
          <p n="3">[1] <term ref="#calaiati">Calatu </term>est magna et nobilis civitas, longe a <term ref="#dulfar">Duffar</term> versus magistrum .DC. miliaribus. <seg n="2"> Et ipsa est super mare in culfo dicto <term ref="#calaiati">Calatu</term>, estque in bucha talis culfi taliter situata quod absque eius voluntate in culfo
@@ -2727,14 +2722,14 @@
                [3] Et est hec civitas sub dominio melich de <term ref="#ormus">Cormos</term>, et ipse est sub <term ref="#soldan">soldano</term> de <term ref="#chermain">Creman</term>. [4] Habitantes sunt Sarraceni, adorantes <term ref="#macometto">Machomet</term>. [5] Et vivunt hee gentes ex dactilis et piscibus sallitis, quia hiis habundant valde
                nimis.</seg></p>
       </div>
-  <div n="187"><head></head>
+  <div n="187" type="chapter" xml:id="l-null-187"><head><seg xml:id="-titolo" /><seg xml:id="l-null-187-titolo" /></head>
          <p n="1">187</p>
          <p n="2">De civitate <term ref="#chisi">Quis</term>.</p>
          <p n="3"><seg n="1"> A predicta civitate <term ref="#calaiati">Calatu</term> .D. miliaribus inter magistrum et occidens est civitas dicta <term ref="#chisi">Quis</term>, de qua supra dictum fuit. </seg><seg n="2"> Et iterum, a civitate <term ref="#calaiati">Calatu</term> .CCC. miliaribus inter magistrum et septemtrionem est civitas super mare, nobilis
                et magna, dicta <term ref="#ormus">Curmos</term>, cuius dominus “<term ref="#melich">melich</term>” dicitur; et sub ipsa sunt plures civitates et castra. </seg><seg n="3"> Habitantes sunt sarraceni. </seg><seg n="4"> Est eciam hic tantus calor quod, nisi artificialiter per eorum domus ventum transire
                facerent, vix quis vivere posset. </seg><seg n="5"> Et quia superius de <term ref="#ormus">Cormos</term>, <term ref="#chisi">Quis</term> et <term ref="#chermain">Creman</term> satis dictum est, de ipsis reliquantur ad presens. </seg></p>
       </div>
-  <div n="188"><head></head>
+  <div n="188" type="chapter" xml:id="l-null-188"><head><seg xml:id="-titolo" /><seg xml:id="l-null-188-titolo" /></head>
          <p n="1">188</p>
          <p n="2">De <term ref="#gran-turchia">Maiori Turchia</term>; et de exercitu <term ref="#caidu">Caidu</term> contra <term ref="#gran-can">Magnum Canem</term>.</p>
          <p n="3">[1] Turchia Magna est versus magistrum recedendo, videlicet a supradicta via de <term ref="#ormus">Cormos</term>; et est ultra flumen Yon, et durat versus septemtrionem usque ad terram <term ref="#gran-can">Magni Canis</term>: et in ipsa sunt multe civitates et castra. [2] In hac provincia regnabat tempore
@@ -2751,7 +2746,7 @@
             tamen victores libere permanserunt, sed ad propria ‹spon›te reversi sunt. <seg n="8"> Reliquo vero mane, cognoscens <term ref="#caidu">Caidu</term> quod dubius esset belli sequentis eventus, dubitans eciam ne inimicis perveniret
                adiutorium, ad <term ref="#samarchan">Samarchan</term>, in <term ref="#gran-turchia">Maiori Turchia</term> reversus est, videlicet in propria‹m› regione‹m›.</seg></p>
       </div>
-  <div n="189"><head></head>
+  <div n="189" type="chapter" xml:id="l-null-189"><head><seg xml:id="-titolo" /><seg xml:id="l-null-189-titolo" /></head>
          <p n="1">189</p>
          <p n="2">De filia regis <term ref="#caidu">Caidu</term>.</p>
          <p n="3">[1] Hic rex <term ref="#caidu">Caidu</term> – de quo dictum est – habebat filiam decoram et tante magnitudinis quod quasi de
@@ -2770,27 +2765,27 @@
                pluries duxit secum, eiusque fortitudini et vigori nem‹o›, eciam probus vir, poterat
                comparari.</seg></p>
       </div>
-  <div n="190"><head></head>
+  <div n="190" type="chapter" xml:id="l-null-190"><head><seg xml:id="-titolo" /><seg xml:id="l-null-190-titolo" /></head>
          <p n="1">190</p>
          <p n="2">De quodam bello inter <term ref="#argon">Argon</term> et <term ref="#barach">Barach</term>.</p>
          <p n="3"><seg n="1"> Provincie huius regis <term ref="#caidu">Caidu</term> confinales erant cum provinciis regis sive imperatoris Abaga, qui dicebatur dominus Orientis (qui est eciam ex imperiali progenie <term ref="#tartari">Tartarorum</term>); et has provincias, sive horum regum dominia, dividebat maximus fluvius Ion. </seg><seg n="2"> Dubitans autem Abaga ne eius provincie a <term ref="#caidu">Caidu</term> gentibus lederentur, ad confinia eius versus partes <term ref="#arbore-secco">Arboris Solis</term>, quam <term ref="#arbore-secco">Arborem Siccam</term> dicimus, usque super Ion flumen, <term ref="#argon">Argon</term> filium eius cum maximo tenebat exercitu. </seg><seg n="3"> Hoc cognoscens, <term ref="#caidu">Caidu</term> contra <term ref="#argon">Argon</term> misit fratrem suum <term ref="#barach">Barach</term> cum maximo exercitu; qui, dum ‹tandem› ad flumen Ion pervenisset ut exercitui <term ref="#argon">Argon</term> coniungeretur, ipsum fluvium pertransivit, tandemque ambo exercitus sunt coniuncti.
                </seg><seg n="4"> Et cum ex utraque parte ‹acriter› debellatum foret, finaliter <term ref="#barach">Barach</term> cum suo exercitu non valuit substinere, sed ultra Ion flumen, unde venerant, transiverunt ad propria redeuntes. </seg></p>
       </div>
-  <div n="191"><head></head>
+  <div n="191" type="chapter" xml:id="l-null-191"><head><seg xml:id="-titolo" /><seg xml:id="l-null-191-titolo" /></head>
          <p n="1">191</p>
          <p n="2">‹Quomodo Abaga mortuus est.›</p>
          <p n="3"><seg n="1"> Post hec vero non multo tempore, adhuc <term ref="#argon">Argon</term> in predictis partibus permanente, pater eius Abaga persolvit debitum carnis sue. Et quia <term ref="#argon">Argon</term> filius eius, qui de iure succedere debebat in regno, erat plus .XL. dietis elongatus
                a curia, frater ipsius mortui, Acomat soldanus, presumpsit nepoti suo <term ref="#argon">Argon</term> usurpare regnum: ‹quod eciam fecit›. [2] Dum vero hec ad notitiam <term ref="#argon">Argon</term> pervenissent, dolens multum suum congregavit exercitum, ut ablatum sibi dominium
                recuperare posset.</seg></p>
       </div>
-  <div n="192"><head></head>
+  <div n="192" type="chapter" xml:id="l-null-192"><head><seg xml:id="-titolo" /><seg xml:id="l-null-192-titolo" /></head>
          <p n="1">192</p>
          <p n="2">Qualiter Argon captus fuit.</p>
          <p n="3"><seg n="1"> Et cum ad Accomat notificatum fuisset <term ref="#argon">Argon</term> cum maximo exercitu contra eum ad patris curiam advenire, Accomat cum exercitu circa .LXm. equitum ‹contra <term ref="#argon">Argon</term> accessit›, ut ei in itinere obviaret. </seg><seg n="2"> Et cum ambo exercitus convenissent acriterque pugnatum foret, exercitus <term ref="#argon">Argon</term> tandem in fugam conversus est; in qua fuga ipse <term ref="#argon">Argon</term> captus ‹et retentus› est. </seg><seg n="3"> Ex hac victoria multum gaudens et letatus Accomat, intendens ad curiam festinanter accedere – erat enim plus quam dietis .XV. elongatus
                a curia – <term ref="#melich">Melich</term> quendam tocius exercitus dominum reliquit, cui in custodia dimisit <term ref="#argon">Argon</term>, nepotem suum, ferreis vinculis alligatum, iniungens ei quod paulatim cum toto exercitu
                eum ad curiam sequatur.</seg></p>
       </div>
-  <div n="193"><head></head>
+  <div n="193" type="chapter" xml:id="l-null-193"><head><seg xml:id="-titolo" /><seg xml:id="l-null-193-titolo" /></head>
          <p n="1">193</p>
          <p n="2">Qualiter <term ref="#argon">Argon</term> absolutus fuit a vinculis.</p>
          <p n="3">[1] Interim, cum Accomat recessisset ab exercitu reliquissetque <term ref="#argon">Argon</term> captum, antiquus quidam nobilis et potens, nomine Boga, considerans que de <term ref="#argon">Argon</term> gesta erant et quod vinculatum tenebant ‹qui eis deberet› ratio‹na›biliter dominari,
@@ -2802,7 +2797,7 @@
             gesta sunt: sinite me verbis illudere!» <seg n="5"> Et cum sacramento firmarent eum pro vero domino retinere velle, et ipse similiter
                eis de prefatis iniuriis numquam malum reddere meritum sacramento promisit.</seg></p>
       </div>
-  <div n="194"><head></head>
+  <div n="194" type="chapter" xml:id="l-null-194"><head><seg xml:id="-titolo" /><seg xml:id="l-null-194-titolo" /></head>
          <p n="1">194</p>
          <p n="2">Qualiter <term ref="#argon">Argon</term> assumpsit dominium, et Accomat interfecit.</p>
          <p n="3">[1] Cum ergo <term ref="#argon">Argon</term> a vinculis absolutus esset, ‹precepit› <term ref="#melich">Melich</term> soldanum – qui, ut supra dictum est, totius exercitus remanserat dominus et conductor
@@ -2814,13 +2809,13 @@
                quem <term ref="#argon">Argon</term> mori taliter fecit quod numquam quid de ipso fuerit scitum fuit. </seg><seg n="6"> Et dum sic libere dominaretur <term ref="#argon">Argon</term>, quod fuit annis Christi .M.CC.LXXXVI°., <term ref="#casan">Caçam</term> filium suum cum .XXXm. equitum ad partes <term ref="#arbore-secco">Arboris Solis</term> transmisit, ut partes illas – sicut ipse fecerat – ab inimicis defenderet. [7] Sex
                annis regnavit <term ref="#argon">Argon</term>, et mortuus est.</seg></p>
       </div>
-  <div n="195"><head></head>
+  <div n="195" type="chapter" xml:id="l-null-195"><head><seg xml:id="-titolo" /><seg xml:id="l-null-195-titolo" /></head>
          <p n="1">195</p>
          <p n="2">Quomodo, mortuo <term ref="#argon">Argon</term>, Quiacatu arripuit dominium.</p>
          <p n="3"><seg n="1"> Mortuo vero <term ref="#argon">Argon</term>, quia filius eius <term ref="#casan">Caçan</term> in partibus <term ref="#arbore-secco">Arboris Sicce</term>, ut dictum est, manebat cum magno exercitu, patruus <term ref="#argon">Argon</term>, scilicet frater quidam Abaga nomine <term ref="#chiacato">Quiacatu</term>, dominium usurpavit. </seg><seg n="2"> Et quia <term ref="#casan">Caçan</term>, licet sciret de morte patris et de usurpatione regni, a loco in quo erat dubitatione
                inimicorum recedere non audebat, <term ref="#chiacato">Quiacatu</term> .II. regnavit annis, et veneno mortuus est.</seg></p>
       </div>
-  <div n="196"><head></head>
+  <div n="196" type="chapter" xml:id="l-null-196"><head><seg xml:id="-titolo" /><seg xml:id="l-null-196-titolo" /></head>
          <p n="1">196</p>
          <p n="2">Quomodo Baidu accepit dominium, quem <term ref="#casan">Caçan</term> occidit.</p>
          <p n="3">[1] Ipso vero mortuo, patruus eius Baidu, qui christianus erat, similiter arripuit dominium, anno videlicet Christi .M°.CC.LXX‹XX›IIII°.
@@ -2830,7 +2825,7 @@
                direxit ad curiam. </seg><seg n="4"> Hoc ergo sciens Baidu, et ipse maximam congregavit gentem; et dum versus <term ref="#casan">Caçan</term> cum exercitu toto iret .X. dietis longe a curia, ambo exercitus sibi invicem obviarunt.
                [5] Et dum acriter ‹undique› pugnatum foret, tandem Baidu mortuus est, et totus eius exercitus positus in conflictu. </seg><seg n="6"> Sic ergo <term ref="#casan">Caçan</term>, anno Christi .M°.CC.LXXXXIIII°., proprium acquisivit dominium. </seg><seg n="7"> Huius autem dominii origo et principium fuit quidam frater <term ref="#cublai-can">Cublay</term> <term ref="#gran-can">Magni Canis</term>, nomine <term ref="#ulau">Alau</term>, qui cepit <term ref="#baldach">Baldach</term>; et ipse genuit Abaga, patrem <term ref="#argon">Argon</term> cuius filuis fuit <term ref="#casan">Caçan</term>, qui regnat ad presens. </seg><seg n="8"> Hoc ergo ordine processit <term ref="#tartari">Tartarorum</term> progenies in partibus orientis.</seg></p>
       </div>
-  <div n="197"><head></head>
+  <div n="197" type="chapter" xml:id="l-null-197"><head><seg xml:id="-titolo" /><seg xml:id="l-null-197-titolo" /></head>
          <p n="1">197</p>
          <p n="2">De quadam septemtrionali contrata.</p>
          <p n="3"><seg n="1"> Ad partes septemtrionis erat, tempore domini Marchi Paulo, rex quidam nomine Conci, qui <term ref="#tartari">tartarus</term> erat et de stirpe imperiali (scilicet <term ref="#cingis-can">Cinchini Canis</term>); et omnes eius suppositi ‹similiter› <term ref="#tartari">tartari</term> sunt, et lege tartarica vivunt. [2] Hiis non sunt civitates neque castra, sed planicies,
@@ -2857,7 +2852,7 @@
                valoris magni quas venantur. [8] Harum gentium habitationes sunt totaliter subtus
                terram: propter enim immensam loci frigiditatem aliter vix vivere possent. </seg></p>
       </div>
-  <div n="198"><head></head>
+  <div n="198" type="chapter" xml:id="l-null-198"><head><seg xml:id="-titolo" /><seg xml:id="l-null-198-titolo" /></head>
          <p n="1">198</p>
          <p n="2">De <term ref="#regione-delle-tenebre">provincia obscura</term>.</p>
          <p n="3">[1] Ultra predictam regionem, longe multum versus septemtrionem, est provincia dicta
@@ -2873,7 +2868,7 @@
                dum vero redire necesse est, eque – naturali instinctu filiorum suorum reminiscentia
                stimulate – homines de predicta obscuritate ad debitos ducunt passus. </seg><seg n="6"> Ab uno vero capite huius provincie <term ref="#rossia">magna Rosia</term> confinalis existit.</seg></p>
       </div>
-  <div n="199"><head></head>
+  <div n="199" type="chapter" xml:id="l-null-199"><head><seg xml:id="-titolo" /><seg xml:id="l-null-199-titolo" /></head>
          <p n="1">199</p>
          <p n="2">De provincia <term ref="#rossia">Rosia</term>.</p>
          <p n="3"><seg n="1"> <term ref="#rossia">Rosia</term> est versus septemtrionem magna provincia, in qua sunt quam plures reges. </seg><seg n="2"> Gentes sunt, tam masculi quam femine, pulcerrime; albissime enim sunt, et flave
@@ -2886,19 +2881,19 @@
                plurimi peregrini, quos inde per diversas deferunt regiones. </seg><seg n="8"> De <term ref="#rossia">Rosia</term> autem in Noverchiam non multum adest itineris; sed frigiditate maxima regionis iter
                tale plurimum impeditur. </seg></p>
       </div>
-  <div n="200"><head></head>
+  <div n="200" type="chapter" xml:id="l-null-200"><head><seg xml:id="-titolo" /><seg xml:id="l-null-200-titolo" /></head>
          <p n="1">200</p>
          <p n="2">De provincia Lac.</p>
          <p n="3"><seg n="1"> Lac est provincia, inter septemtrionem et magistrum, confinis <term ref="#rossia">Rosie</term>, ubi adest rex. </seg><seg n="2"> Gentes sunt christiani et Sarraceni; mercatores sunt et artiste. </seg><seg n="3"> Bonas habent pelles et in quantitate multa. </seg></p>
       </div>
-  <div n="201"><head></head>
+  <div n="201" type="chapter" xml:id="l-null-201"><head><seg xml:id="-titolo" /><seg xml:id="l-null-201-titolo" /></head>
          <p n="1">201</p>
          <p n="2">De regibus <term ref="#tartari">Tartarorum Orientis</term>.</p>
          <p n="3"><seg n="1"> Primus ex <term ref="#tartari">Tartaris</term> dominus Occidentis fuit Sain, maximus rex ‹et› potens: acquisivit enim Rosiam, Cumaniam, Alaniam, Lac, Mengiar, çich, Gocciam et Gaçariam. Hee enim gentes quasi
                omnes primitus <term ref="#cumani">Cumani</term> dicebantur. </seg><seg n="2"> Post Sain regnavit Patu, post quem <term ref="#barcha">Bercha</term>, deinde Mungletemur, post quem Totamongur; cui successit Toctai, qui illo tempore
                tunc regnabat.</seg></p>
       </div>
-  <div n="202"><head></head>
+  <div n="202" type="chapter" xml:id="l-null-202"><head><seg xml:id="-titolo" /><seg xml:id="l-null-202-titolo" /></head>
          <p n="1">202</p>
          <p n="2">De quadam guerra.</p>
          <p n="3"><seg n="1"> Anno Christi .M°.CC.LXI°., inter <term ref="#ulau">Alau</term> dominum <term ref="#tartari">Tartarorum Orientis</term> et <term ref="#barcha">Bercha</term>, regem et dominum <term ref="#tartari">Tartarorum Occidentis</term> – occasione provincie unius, quam quilibet de iure sibi deberi dicebat –, dissensio

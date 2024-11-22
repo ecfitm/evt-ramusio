@@ -1,28 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
            <fileDesc>
               <titleStmt>
-                 <title></title>
+                 <title />
                  <respStmt>
-                    <resp/>
-                    <name/>
+                    <resp />
+                    <name />
                  </respStmt>
               </titleStmt>
               <publicationStmt>
-                 <p></p>
+                 <p />
               </publicationStmt>
               <sourceDesc>
-                 <p></p>
+                 <p />
               </sourceDesc>
            </fileDesc>
         </teiHeader>
         <text><body xml:id="r_body">
-  <div n="0">
+  <div n="0" type="chapter" xml:id="r-i-0">
          <p n="1">|2r| Di messer Gio. Battista Ramusio prefatione sopra il principio del libro del magnifico
             messer Marco Polo.</p>
          <p n="2">All’eccellente messer Hieronimo Fracastoro.</p>
@@ -1328,7 +1324,7 @@
                la città di Genova, et si parte in tre libri, i quali si distinguono per proprii capitoli.</seg></p>
          <p n="13">|2r| Dei viaggi di messer Marco Polo, gentilhuomo venetiano</p>
       </div>
-  <div n="1" xml:id="r-i-1"><head xml:id="r-i-1-titolo">1</head>
+  <div n="1" xml:id="r-i-1" type="chapter"><head><seg xml:id="r-i-1-titolo">R, I 1</seg></head>
          <p n="2"><seg xml:id="r-i-1_1_1" n="1"> Dovete adunque sapere che nel tempo di <term ref="#balduino">Balduino</term>, imperatore di <term ref="#constantinopoli">Constantinopoli</term>, dove allhora soleva stare un podestà di Venetia per nome di messer lo dose, correndo
                gli anni del N.S. MCCL, messer Nicolò Polo, padre di messer Marco, et messer Maffio
                Polo, fratello del detto messer Nicolò, nobili, honorati et savi di Venetia, trovandosi
@@ -1502,7 +1498,7 @@
                puoté sapere et intendere tutte queste cose in anni ventisei che ’l dimorò nelle parti
                d’oriente.</seg></p>
       </div>
-  <div n="2" xml:id="r-i-2"><head xml:id="r-i-2-titolo">2</head>
+  <div n="2" xml:id="r-i-2" type="chapter"><head><seg xml:id="r-i-2-titolo">R, I 2</seg></head>
          <p n="1">2</p>
          <p n="2"><seg xml:id="r-i-2_1_1" n="0"> Dell’<term ref="#armenia">Armenia Minore</term> et del porto della <term ref="#giazza">Giazza</term>, et delle mercantie che vi son condotte, et de’ confini di detta provincia. Cap.
                2.</seg></p>
@@ -1515,7 +1511,7 @@
                et di lana et di altre pretiose ricchezze; et ancho quelli che vogliono intrare piú
                dentro nelle terre di levante, vanno primieramente al detto porto della <term ref="#giazza">Giazza</term>. </seg><seg n="5"> I confini dell’<term ref="#armenia">Armenia Minore</term> son questi: verso mezzodí è la Terra di Promissione, che vien tenuta dalli Saraceni; da tramontana i Turchomani, che si chiamano <term ref="#caramani">Caramani</term>; et da <term ref="#greco">greco levante</term> <term ref="#cayssaria">Cayssaria</term> et <term ref="#sevasta">Sevasta</term> et molte altre città, tutte suddite a’ <term ref="#tartari">Tartari</term>; verso ponente vi è il mare, per il qual si naviga alle parti de’ christiani.</seg></p>
       </div>
-  <div n="3"><head>3</head>
+  <div n="3" type="chapter" xml:id="r-i-3"><head><seg xml:id="r-i-3-titolo">R, I 3</seg></head>
          <p n="1">3</p>
          <p n="2"><seg n="0"> Della provincia detta <term ref="#turchomania">Turchomania</term>, dove sono le città di <term ref="#cogno">Cogno</term>, <term ref="#cayssaria">Cayssaria</term> et <term ref="#sevasta">Sevasta</term>, et delle mercantie che vi si trovano. Cap. 3.</seg></p>
          <p n="3"><seg n="1"> Nella <term ref="#turchomania">Turchomania</term> sono tre sorti de genti, cioè Turchomani, i quali adorano <term ref="#macometto">Macometto</term> et tengono la sua legge: sono genti semplici et di grosso intelletto, habitano nelle
@@ -1524,7 +1520,7 @@
                di gran valuta; et l’altre genti sono Armeni et <term ref="#greci">Greci</term>, che stanno nelle città et castelli et vivono di mercantie et arti: et quivi si lavorano
                tapedi ottimi et li piú belli del mondo, et etiandio panni di seda <term ref="#cremesina">cremesina</term> et d’altri colori belli et ricchi. </seg><seg n="2"> Et vi sono fra le altre città <term ref="#cogno">Cogno</term>, <term ref="#cayssaria">Cayssaria</term> et <term ref="#sevasta">Sevasta</term>, dove il glorioso messer San Biagio patí il martirio. </seg><seg n="3"> Tutti sono sudditi al <term ref="#gran-can">Gran Can</term>, imperatore de’ <term ref="#tartari">Tartari</term> orientali, il quale gli manda rettori. </seg><seg n="4"> Poi c’habbiam detto di questa provincia, diciamo della grande <term ref="#armenia">Armenia</term>.</seg></p>
       </div>
-  <div n="4"><head>4</head>
+  <div n="4" type="chapter" xml:id="r-i-4"><head><seg xml:id="r-i-4-titolo">R, I 4</seg></head>
          <p n="1">4</p>
          <p n="2"><seg n="0"> Dell’Armenia Maggiore, dove son le città di <term ref="#arcingan">Arcingan</term>, <term ref="#argiron">Argiron</term>, <term ref="#darzizi">Darzizi</term>; del castel <term ref="#paipurth">Paipurth</term>, et del monte dell’arca di Noè; de’ confini di detta provincia et del fonte del’oglio.
                Cap. 4.</seg></p>
@@ -1547,7 +1543,7 @@
                </seg><seg n="10"> Vengono da parti lontane molti a pigliare questo oglio, et le contrate vicine
                non brusciano di altra sorte. </seg><seg n="11"> Havendosi detto dell’Armenia Maggiore, ora dichiamo di <term ref="#zorzania">Zorzania</term>.</seg></p>
       </div>
-  <div n="5"><head>5</head>
+  <div n="5" type="chapter" xml:id="r-i-5"><head><seg xml:id="r-i-5-titolo">R, I 5</seg></head>
          <p n="1">5</p>
          <p n="2"><seg n="0"> |5r| Della provincia di <term ref="#zorzania">Zorzania</term> et de’ sui confini sopra il mar Maggiore et sopra il mar Hircano, hora detto di Abaccú, dove è quel passo stretto sopra il qual <term ref="#alessandro">Alessandro</term> fabricò le <term ref="#porta-di-ferro">Porte di Ferro</term>; et del miracol della fontana del monasterio di San Lunardo; della città di <term ref="#tiflis">Tiflis</term>. Cap. 5.</seg></p>
          <p n="3"><seg n="1"> In <term ref="#zorzania">Zorzania</term> è un re che in ogni tempo si chiama David Melich, che in lingua nostra si dice re David; una parte della qual provincia è soggetta al re de’ <term ref="#tartari">Tartari</term>, et l’altra parte (per le fortezze che l’ha) al re <term ref="#david">David</term>. </seg><seg n="2"> In questa provincia tutti i boschi sono di legni di bosso, et guarda duoi mari,
@@ -1579,7 +1575,7 @@
                havessero qualche spetial cosa maravigliosa: ma di quelle che habbiam pretermesse,
                che si ritrovano ne’ luoghi preditti, piú pienamente di sotto si dichiarano. </seg><seg n="18"> Poi che s’ha detto de’ confini dell’<term ref="#armenia">Armenia</term> verso tramontana, hora diciamo degl’altri che sono verso mezzodí et levante.</seg></p>
       </div>
-  <div n="6"><head>6</head>
+  <div n="6" type="chapter" xml:id="r-i-6"><head><seg xml:id="r-i-6-titolo">R, I 6</seg></head>
          <p n="1">6</p>
          <p n="2"><seg n="0"> Della provincia di <term ref="#moxul">Moxul</term>, et della sorte di habitanti et popoli curdi, et mercantie che si fanno. Cap. 6.</seg></p>
          <p n="3"><seg n="1"> <term ref="#moxul">Moxul</term> è una provincia nella qual habitano molte sorti di genti, una delle quali adorano
@@ -1590,7 +1586,7 @@
                in gran quantità, sono di questa provincia. </seg><seg n="3"> Ne’ monti della qual habitano alcune genti che si chiamano <term ref="#curdi">Curdi</term>, che sono in parte christiani nestorini et iacopiti, et in parte Sarraceni, che adorano
                <term ref="#macometto">Macometto</term>: sono huomini cattivi et di mala sorte, et robbano volentieri a’ mercatanti. </seg><seg n="4"> Appresso questa provincia ve n’è un’altra che si chiama <term ref="#mus-et-meridin">Mus et Meridin</term>, nella quale nasce infinito <term ref="#bambagio">bambagio</term>, del qual si fa gran quantità de boccassini et di molti altri lavori. </seg><seg n="5"> Vi sono artefici et mercatanti, et tutti sono sottoposti al re de’ <term ref="#tartari">Tartari</term>. </seg><seg n="6"> Havendosi detto della provincia di <term ref="#moxul">Moxul</term>, hora narraremo della gran città di <term ref="#baldach">Baldach</term>.</seg></p>
       </div>
-  <div n="7"><head>7</head>
+  <div n="7" type="chapter" xml:id="r-i-7"><head><seg xml:id="r-i-7-titolo">R, I 7</seg></head>
          <p n="1">7</p>
          <p n="2"><seg n="0"> Della gran città di Baldach o vero Bagadet, che anticamente si chiamava <term ref="#babilonia">*Babilonia</term>; et come da quella si navica alla <term ref="#balsara">Balsara</term> sopra il <term ref="#mare-dindia">mare che chiamano de India</term>, anchor che sia il <term ref="#sino-persico">sino Persico</term>; et del studio che è in quella di diverse scientie. Cap. 7.</seg></p>
          <p n="3"><seg n="1"> <term ref="#baldach">Baldach</term> è una città grande, nella quale era il <term ref="#califa">califa</term>, cioè il pontifice de tutti li Sarraceni, sí come è il papa de tutti li christiani.
@@ -1598,7 +1594,7 @@
                vengono con le lor mercantie dal <term ref="#mare-dindia">mare dell’India</term>: et la sua lunghezza, dalla città di <term ref="#baldach">Baldach</term> fino al detto mare, si computa communemente secondo il corso dell’acque 17 giornate.
                </seg><seg n="3"> Et li mercatanti che vogliono andare alle parti dell’<term ref="#india">India</term> navigano per detto fiume ad una città detta <term ref="#chisi">Chisi</term>, et de lí partendosi entrano in mare; et avanti che si pervenga da <term ref="#baldach">Baldach</term> a <term ref="#chisi">Chisi</term>, si trova una città detta <term ref="#balsara">Balsara</term>, intorno la quale nascono per li boschi li miglior <term ref="#dattalo">dattali</term> che si trovino al mondo. </seg><seg n="4"> Et in <term ref="#baldach">Baldach</term> si trovano molti panni d’oro et di seda, et lavoransi quivi <term ref="#damaschi">damaschi</term> et velluti, con figure di varii et diversi animali; et tutte le perle che dalla <term ref="#india">India</term> sono portate nella christianità per la maggior parte si forano in <term ref="#baldach">Baldach</term>. </seg><seg n="5"> In questa città si studia nella legge di <term ref="#macometto">Macometto</term>, in <term ref="#negromantia">negromantia</term>, <term ref="#phisica">phisica</term>, <term ref="#astronomia">astronomia</term>, <term ref="#geomantia">geomantia</term> et <term ref="#fisionomia">fisionomia</term>. </seg><seg n="6"> Essa è la piú nobile et la maggior città che trovar si possa in tutte quelle parti.</seg></p>
       </div>
-  <div n="8"><head>8</head>
+  <div n="8" type="chapter" xml:id="r-i-8"><head><seg xml:id="r-i-8-titolo">R, I 8</seg></head>
          <p n="1">8</p>
          <p n="2"><seg n="0"> Come il <term ref="#califa">califa</term> signor di <term ref="#baldach">Baldach</term> fu preso et morto, et del miracolo che intravenne del movere de uno monte. Cap. 8.
                </seg></p>
@@ -1666,7 +1662,7 @@
                et iacopiti da quel tempo in qua celebrano solennemente il giorno che tal miracolo
                intravenne, digiunando la sua vigilia.</seg></p>
       </div>
-  <div n="9"><head>9</head>
+  <div n="9" type="chapter" xml:id="r-i-9"><head><seg xml:id="r-i-9-titolo">R, I 9</seg></head>
          <p n="1">9</p>
          <p n="2"><seg n="0"> Della nobil città di Tauris, che è nella provincia di <term ref="#hirach">Hirach</term>, et delli mercatanti et abitanti in quella. Cap. 9.</seg></p>
          <p n="3"><seg n="1"> Tauris è una città grande, situata in una provincia nominata <term ref="#hirach">Hirach</term>, nella quale sono molte altre città et castelli, ma <term ref="#thauris">Thauris</term> è la piú nobile et piú popolata. </seg><seg n="2"> Gli habitatori vivono delle mercantie et arti loro, perché vi si lavora di diverse
@@ -1685,7 +1681,7 @@
                questa facilità di assolutione, che li concede il campo largo a commettere ogni sceleratezza,
                hanno convertito una gran parte dei <term ref="#tartari">Tartari</term> alla sua legge, per la quale non gli è prohibito alcun peccato. </seg><seg n="9"> Da <term ref="#thauris">Thauris</term> in <term ref="#persia">Persia</term> sono dodeci giornate.</seg></p>
       </div>
-  <div n="10"><head>10</head>
+  <div n="10" type="chapter" xml:id="r-i-10"><head><seg xml:id="r-i-10-titolo">R, I 10</seg></head>
          <p n="1">10</p>
          <p n="2"><seg n="0"> Del monasterio del Beato <term ref="#barsamo">Barsamo</term>, che è nelli confini di <term ref="#thauris">Thauris</term>. Cap. 10.</seg></p>
          <p n="3"><seg n="1"> Ne’ confini di <term ref="#thauris">Thauris</term> è uno monasterio intitolato il <term ref="#barsamo">Beato Barsamo Santo</term>, molto devoto: quivi è uno abbate con molti monachi, i quali portano l’habito a guisa
@@ -1694,7 +1690,7 @@
                di quelle alli loro amici et agli huomini nobili, perché sono buone a removere il
                dolore che alcun havesse nel corpo: et per questo ognuno ne vuole havere per devotione.</seg></p>
       </div>
-  <div n="11"><head>11</head>
+  <div n="11" type="chapter" xml:id="r-i-11"><head><seg xml:id="r-i-11-titolo">R, I 11</seg></head>
          <p n="1">11</p>
          <p n="2"><seg n="0"> Del nome de otto regni che sono nella provincia di <term ref="#persia">Persia</term>, et della sorte di cavalli et asini che ivi si trovano. Cap. 11.</seg></p>
          <p n="3"><seg n="1"> In la <term ref="#persia">Persia</term>, qual è una provincia molto grande, vi sono molti regni, i nomi de’ quali sono li
@@ -1722,7 +1718,7 @@
                bere senza rompere il comandamento, perché non lo chiamano dapoi piú vino, conciosiacosaché,
                havendo mutato il sapore, muta etiandio il nome del vino.</seg></p>
       </div>
-  <div n="12"><head>12</head>
+  <div n="12" type="chapter" xml:id="r-i-12"><head><seg xml:id="r-i-12-titolo">R, I 12</seg></head>
          <p n="1">12</p>
          <p n="2"><seg n="0"> Della città de <term ref="#iasdi">Iasdi</term>, et di lavori di seda che si fanno in quella; et di animali et uccelli che si trovano
                venendo verso <term ref="#chermain">Chermain</term>. Cap. 12.</seg></p>
@@ -1733,7 +1729,7 @@
                et pernici et <term ref="#quaglia">quaglie</term> in abondanza, et li mercatanti che cavalcano per quelle parti, et altri che si dilettano
                di cacciagioni di bestie et di uccelli, vi prendono gran sollazzi. </seg><seg n="4"> Si trovano anchora <term ref="#asini-salvatichi">asini salvatichi</term>. </seg><seg n="5"> Et nel fine delle dette otto giornate, si arriva ad un regno che si chiama <term ref="#chermain">Chiermain</term>.</seg></p>
       </div>
-  <div n="13"><head>13</head>
+  <div n="13" type="chapter" xml:id="r-i-13"><head><seg xml:id="r-i-13-titolo">R, I 13</seg></head>
          <p n="1">13</p>
          <p n="2"><seg n="0"> Del regno di <term ref="#chermain">Chiermain</term>, che anticamente si diceva <term ref="#chermain">Carmania</term>, et delle pietre <term ref="#turchese">turchese</term> <term ref="#azzaio">azal</term> et <term ref="#andanico">andanico</term>, et de’ lavori de armi et seda, et d’i falconi; et di una gran discesa che si trova partendosi da quello. Cap. 13.</seg></p>
          <p n="3"><seg n="1"> <term ref="#chermain">Chiermain</term> è un regno ne’ confini della <term ref="#persia">Persia</term> verso levante, il qual anticamente andava de herede in herede, ma dopo che ’l <term ref="#tartari">Tartaro</term> lo soggiogò al suo dominio non succedettero gli heredi, anzi il <term ref="#tartari">Tartaro</term> vi manda signore secondo il voler suo. </seg><seg n="2"> In detto regno nascono le pietre che si chiamano <term ref="#turchese">turchese</term>, quali si cavano nelle vene de’ monti; si trovano anchora in quelli vene di <term ref="#azzaio">azzaio</term> et <term ref="#andanico">andanico</term> in grandissima quantità. </seg><seg n="3"> Si lavorano molto eccellentemente in questo regno tutti i fornimenti pertinenti
@@ -1750,7 +1746,7 @@
                nondimeno stanno i pastori per pascer le bestie loro. </seg><seg n="8"> Et da questo regno di <term ref="#chermain">Chermain</term> fino alla discesa predetta, nel tempo dell’inverno vi è cosí gran freddo, che appena
                l’huomo si può riparare portando continovamente molte vesti et pelli.</seg></p>
       </div>
-  <div n="14"><head>14</head>
+  <div n="14" type="chapter" xml:id="r-i-14"><head><seg xml:id="r-i-14-titolo">R, I 14</seg></head>
          <p n="1">14</p>
          <p n="2"><seg n="0"> Della città di <term ref="#camandu">Camandu</term>, che si trova doppo una discesa, et della region di <term ref="#reobarle">Reobarle</term>, et delli uccelli <term ref="#francholini">francholini</term> et buoi bianchi con una gobba; et della origine delli <term ref="#caraunas">Caraunas</term>, che vanno depredando. Cap. 14.</seg></p>
          <p n="3"><seg n="1"> Dapoi la discesa di questo luogo per le dette due giornate si trova una gran pianura,
@@ -1777,7 +1773,7 @@
                nondimeno se possono riscattarsi li lasciano andar. </seg><seg n="14"> Et messer Marco quasi fu preso una fiata da loro per quella oscurità, ma egli
                se ne fuggí ad un castello di <term ref="#consalmi">Consalmi</term>; delli suoi compagni alcuni furono presi et venduti, altri furono morti.</seg></p>
       </div>
-  <div n="15"><head>15</head>
+  <div n="15" type="chapter" xml:id="r-i-15"><head><seg xml:id="r-i-15-titolo">R, I 15</seg></head>
          <p n="1">15</p>
          <p n="2"><seg n="0"> Della città di <term ref="#ormus">Ormus</term>, che è posta in isola vicina alla terra sopra il <term ref="#mare-dindia">mar dell’India</term>, et della conditione et vento che vi soffia cosí caldo. Cap. 15.</seg></p>
          <p n="3"><seg n="1"> Nel fine della pianura che habbiam detto di sopra, che dura verso mezzodí per
@@ -1806,7 +1802,7 @@
                braccia si lasciavano dal busto, per il che fu di bisogno far le fosse presso alli
                corpi et gettarli in quelle.</seg></p>
       </div>
-  <div n="16"><head>16</head>
+  <div n="16" type="chapter" xml:id="r-i-16"><head><seg xml:id="r-i-16-titolo">R, I 16</seg></head>
          <p n="1">16</p>
          <p n="2"><seg n="0"> Delle sorte delle navi di <term ref="#ormus">Ormus</term>; et della stagion nella qual nascono i frutti loro, et del viver et costumi degli
                habitanti. Cap. 16.</seg></p>
@@ -1835,7 +1831,7 @@
                continue una volta il giorno; ivi si trovano donne ammaestrate nel pianto, le quali
                si conducono a prezzo, che pianghino ogni giorno sopra gli altrui morti.</seg></p>
       </div>
-  <div n="17"><head>17</head>
+  <div n="17" type="chapter" xml:id="r-i-17"><head><seg xml:id="r-i-17-titolo">R, I 17</seg></head>
          <p n="1">17</p>
          <p n="2"><seg n="0"> Della campagna che si trova partendosi da <term ref="#ormus">Ormus</term> et ritornando verso <term ref="#chermain">Chermain</term>, et del pan amaro per causa dell’acque salse. Cap. 17.</seg></p>
          <p n="3"><seg n="1"> Havendosi detto di <term ref="#ormus">Ormus</term>, voglio che lasciamo star il parlare dell’<term ref="#india">India</term>, la qual sarà descritta in un libro particolare, et che ritorniamo di nuovo a <term ref="#chermain">Chermain</term> verso tramontana. |8v| </seg><seg n="2"> Et però dico che, partendosi da <term ref="#ormus">Ormus</term> et andando verso <term ref="#chermain">Chermain</term> per un’altra strada, si trova una pianura bellissima et abondante de ogni sorte di
@@ -1844,7 +1840,7 @@
                le quali son tutte amare et salse. </seg><seg n="3"> Et da ogni canto si veggono scorrere bagni caldi, molto utili a guarire et sanare
                molte infirmità che vengono agl’huomini sopra la persona. </seg><seg n="4"> Vi sono ancho molti dattoli et altri frutti.</seg></p>
       </div>
-  <div n="18"><head>18</head>
+  <div n="18" type="chapter" xml:id="r-i-18"><head><seg xml:id="r-i-18-titolo">R, I 18</seg></head>
          <p n="1">18</p>
          <p n="2"><seg n="0"> Come partendosi da <term ref="#chermain">Chermain</term> si va per un deserto de sette giornate alla città di <term ref="#cobinam">Cobinam</term>, et dell’acque amare che si trovano, et alla fine di uno fiume di acqua dolce. Cap.
                18.</seg></p>
@@ -1862,7 +1858,7 @@
                recreandosi con le loro bestie si riposano. </seg><seg n="5"> Nell’ultime tre giornate trovasi come nelle tre precedenti, et nella fine si trova
                la città di <term ref="#cobinam">Cobinam</term>.</seg></p>
       </div>
-  <div n="19"><head>19</head>
+  <div n="19" type="chapter" xml:id="r-i-19"><head><seg xml:id="r-i-19-titolo">R, I 19</seg></head>
          <p n="1">19</p>
          <p n="2"><seg n="0"> Della città di <term ref="#cobinam">Cobinam</term>, et delli specchi di <term ref="#azzaio">azzai</term>, et del’<term ref="#andanico">andanico</term>, et della <term ref="#tucia">tucia</term> et <term ref="#spodio">spodio</term> che si fa ivi. Cap. 19.</seg></p>
          <p n="3"><seg n="1"> <term ref="#cobinam">Cobinam</term> è una gran città, la cui gente osserva la legge di <term ref="#macometto">Macometto</term>, dove si fanno i specchi di <term ref="#azzaio">acciaio</term> finissimo molto belli et grandi. </seg><seg n="2"> Vi è ancho assai <term ref="#andanico">andanico</term>, et ivi si fa la <term ref="#tucia">tuccia</term>, la quale è buona all’egritudine degl’occhi, et il <term ref="#spodio">spodio</term>, in questo modo: tolgono la terra di una vena che è buona a quest’effetto et la metteno
@@ -1871,7 +1867,7 @@
                s’indurisce, et questa è <term ref="#tucia">tuccia</term>; et il resto di quella terra che riman nel fuogo, cioè il grosso che resta arso,
                è il <term ref="#spodio">spodio</term>.</seg></p>
       </div>
-  <div n="20"><head>20</head>
+  <div n="20" type="chapter" xml:id="r-i-20"><head><seg xml:id="r-i-20-titolo">R, I 20</seg></head>
          <p n="1">20</p>
          <p n="2"><seg n="0"> Come da <term ref="#cobinam">Cobinam</term> si va per un deserto de otto giornate alla provincia di Timochaim nelle confine della <term ref="#persia">Persia</term> verso tramontana, et dell’Alboro del Sole, che si chiama l’Alboro Secco<hi rend="italics">, </hi>et della forma de’ frutti di quello. Cap. 20.</seg></p>
          <p n="3"><seg n="1"> Partendosi da <term ref="#cobinam">Cobinam</term> si va per un deserto di otto giornate, nel qual è gran siccità, né vi sono frutti
@@ -1886,7 +1882,7 @@
                è di aere non molto caldo né molto freddo, ma temperato. </seg><seg n="5"> La gente osserva la legge di <term ref="#macometto">Macometto</term>; sono in quelle belle genti, et specialmente donne, le qual a mio giudicio sono le
                piú belle del mondo.</seg></p>
       </div>
-  <div n="21"><head>21</head>
+  <div n="21" type="chapter" xml:id="r-i-21"><head><seg xml:id="r-i-21-titolo">R, I 21</seg></head>
          <p n="1">21</p>
          <p n="2"><seg n="0"> Del <term ref="#vecchio-della-montagna">Vecchio della Montagna</term>, et del palazzo fatto far per lui, et come fu preso et morto. Cap. 21.</seg></p>
          <p n="3"><seg n="1"> Detto di questa contrata, hora dirassi del <term ref="#vecchio-della-montagna">Vecchio della Montagna</term>. </seg><seg n="2"> <term ref="#mulehet">Mulehet</term> è una con|9r|trada nella qual anticamente soleva stare il <term ref="#vecchio-della-montagna">Vecchio detto della Montagna</term>, perché questo nome di <term ref="#mulehet">Mulehet</term> è come a dire luogo dove stanno li heretici nella lingua saracena; et da detto luogo
@@ -1928,7 +1924,7 @@
                al fine, mancandogli le vettovaglie, fu preso et morto, et spianato il castello et
                il giardino del paradiso.</seg></p>
       </div>
-  <div n="22"><head>22</head>
+  <div n="22" type="chapter" xml:id="r-i-22"><head><seg xml:id="r-i-22-titolo">R, I 22</seg></head>
          <p n="1">22</p>
          <p n="2"><seg n="0"> D’una pianura abondante di sei giornate, et poi d’un deserto d’otto, che si passa
                per arrivare alla città di <term ref="#sapurgan">Sapurgan</term>; et delle buone <term ref="#pepone">pepone</term> che vi sono, le qual fatte in coreggie seccano. Cap. 22.</seg></p>
@@ -1952,7 +1948,7 @@
                dei leoni. </seg><seg n="10"> Vettovaglie non si trovano in questi monti per dette due giornate, ma bisogna
                che quelli che passano se le portino seco per loro et per li suoi cavalli.</seg></p>
       </div>
-  <div n="23"><head>23</head>
+  <div n="23" type="chapter" xml:id="r-i-23"><head><seg xml:id="r-i-23-titolo">R, I 23</seg></head>
          <p n="1">23</p>
          <p n="2"><seg n="0"> Del castello detto <term ref="#thaican">Thaican</term>, et de’ monti del sale, et de’ costumi degli habitanti. Cap. 23.</seg></p>
          <p n="3"><seg n="1"> Poi che s’è cavalcato le dette due giornate, si trova un castello detto <term ref="#thaican">Thaican</term>, nel quale è un grandissimo mercato di biade, però ch’egli è posto in un bel et gratioso
@@ -1968,7 +1964,7 @@
                altre veste se non delle pelli di quelle che uccideno, delle quali acconcie se ne
                fanno fare veste et scarpe.</seg></p>
       </div>
-  <div n="24"><head>24</head>
+  <div n="24" type="chapter" xml:id="r-i-24"><head><seg xml:id="r-i-24-titolo">R, I 24</seg></head>
          <p n="1">24</p>
          <p n="2"><seg n="0"> Della città di <term ref="#scassem">Scassem</term>, et de’ porci spinosi che ivi si trovano. Cap. 24.</seg></p>
          <p n="3"><seg n="1"> Doppo il cammino di tre giornate si trova una città nominata <term ref="#scassem">Scassem</term>, quale è di un conte, et sono altre sue città et castelli ne’ monti. </seg><seg n="2"> Per mezzo di questa città corre un fiume assai ben grande. </seg><seg n="3"> Ivi sono porci spinosi, contra i quali come il cacciatore instiga i cani, immediate
@@ -1980,7 +1976,7 @@
                si trovano herbe sufficientemente: per il che gli viandanti si portano seco le cose
                necessarie. </seg><seg n="6"> In capo veramente di tre giornate si trova una provincia detta <term ref="#balaxiam">Balaxiam</term>.</seg></p>
       </div>
-  <div n="25"><head>25</head>
+  <div n="25" type="chapter" xml:id="r-i-25"><head><seg xml:id="r-i-25-titolo">R, I 25</seg></head>
          <p n="1">25</p>
          <p n="2"><seg n="0">|10r| Della provincia di <term ref="#balaxiam">Balaxiam</term>, et delle pietre pretiose, detti <term ref="#balassi">balassi</term>, che ivi si cavano, le qual sono tutte del re; et d’i cavalli et falconi che si trovano,
                et dell’aer eccellente et sano che è nelle sommità de alcuni monti; et de’ vestimenti
@@ -2027,7 +2023,7 @@
                cinta in giú, però che i suoi mariti si dilettano di donne che habbino quelle parti
                grosse, et quelle che l’han maggiori vengono riputate piú belle.</seg></p>
       </div>
-  <div n="26"><head>26</head>
+  <div n="26" type="chapter" xml:id="r-i-26"><head><seg xml:id="r-i-26-titolo">R, I 26</seg></head>
          <p n="1">26</p>
          <p n="2"><seg n="0"> |10v| Della provincia di <term ref="#bascia">Bascià</term>, che è verso mezzodí, et come gli habitanti portano molti lavori d’oro all’orecchie,
                et costumi loro. Cap. 26.</seg></p>
@@ -2035,7 +2031,7 @@
                a quella. </seg><seg n="2"> Portano all’orecchie circoli d’oro et d’argento pendenti, con perle et pietre
                pretiose, lavorati con grande artificio. </seg><seg n="3"> Sono genti perfide et crudeli et astute secondo i costumi loro. </seg><seg n="4"> La provincia è in luogo molto caldo. </seg><seg n="5"> Il viver loro sono carne et risi.</seg></p>
       </div>
-  <div n="27"><head>27</head>
+  <div n="27" type="chapter" xml:id="r-i-27"><head><seg xml:id="r-i-27-titolo">R, I 27</seg></head>
          <p n="1">27</p>
          <p n="2"><seg n="0"> Della provincia di <term ref="#chesmur">Chesmur</term>, che è verso <term ref="#sirocco">sirocco</term>; degli habitanti, che sanno l’arte magica; et come sono vicini al <term ref="#mare-dindia">mare dell’India</term>, et della sorte di heremiti che son ivi, et vita loro di grande astinentia. Cap.
                27.</seg></p>
@@ -2057,7 +2053,7 @@
                <term ref="#balaxiam">Balaxiam</term>, per la quale si drizza il cammino verso il <term ref="#cataio">Cataio</term> tra levante et <term ref="#greco">greco</term>, trattando come s’è cominciato delle provincie et contrate che sono nel viaggio,
                et dell’altre che vi sono a torno a destra et a sinistra confinanti con quelle.</seg></p>
       </div>
-  <div n="28"><head>28</head>
+  <div n="28" type="chapter" xml:id="r-i-28"><head><seg xml:id="r-i-28-titolo">R, I 28</seg></head>
          <p n="1">28</p>
          <p n="2"><seg n="0"> Della provincia di <term ref="#vochan">Vochan</term>, dove si va ascendendo per tre giornate fino sopra un grandissimo monte, et dei montoni
                che son ivi; et come il fuogo che si fa in quella altezza non ha la forza che ha nel
@@ -2084,7 +2080,7 @@
                seco da vivere: et questa contrada si chiama <term ref="#beloro">Beloro</term>. </seg><seg n="10"> Nelle sommità di quei monti altissimi vi habitano huomini che sono <term ref="#idolatri">idolatri</term> et come salvatichi, quali non vivono di altro che di cacciagioni di bestie, si vestono
                de cuori et sono genti inique. </seg></p>
       </div>
-  <div n="29"><head>29</head>
+  <div n="29" type="chapter" xml:id="r-i-29"><head><seg xml:id="r-i-29-titolo">R, I 29</seg></head>
          <p n="1">29</p>
          <p n="2"><seg n="0"> Della città di <term ref="#caschar">Caschar</term>, et delle mercantie che fanno gli habitanti. Cap. 29.</seg></p>
          <p n="3"><seg n="1"> Dapoi si perviene a <term ref="#caschar">Caschar</term>, che (come si dice) già fu reame, ma ora è sottoposto al dominio del <term ref="#gran-can">Gran Can</term>, le cui genti osservano la legge di <term ref="#macometto">Macometto</term>. </seg><seg n="2"> La provincia è grande, et in quella sono molte città et castella, delle quali
@@ -2093,7 +2089,7 @@
                vero sono genti avare et misere, perché mangiano male et peggio bevono. </seg><seg n="7"> Oltra li macomettani vi habitano alcuni christiani nestorini, che hanno la loro
                legge et chiese. </seg><seg n="8"> Et la sopradetta provincia è di lunghezza di cinque giornate.</seg></p>
       </div>
-  <div n="30"><head>30</head>
+  <div n="30" type="chapter" xml:id="r-i-30"><head><seg xml:id="r-i-30-titolo">R, I 30</seg></head>
          <p n="1">30</p>
          <p n="2"><seg n="0"> Della città di <term ref="#samarchan">Samarchan</term>, et del miracolo della colonna nella chiesa di San Giovambattista. Cap. 30.</seg></p>
          <p n="3"><seg n="1"> <term ref="#samarchan">Samarchan</term> è una città nobile, dove sono bellissimi giardini et una pianura piena di tutti i
@@ -2113,21 +2109,21 @@
                posto sostentamento alcuno, et cosí fino al presente si vede detta colonna senza alcuna
                cosa sotto. </seg><seg n="7"> Si è detto a bastanza di questo, dirassi della provincia de <term ref="#carchan">Carchan</term>.</seg></p>
       </div>
-  <div n="31"><head>31</head>
+  <div n="31" type="chapter" xml:id="r-i-31"><head><seg xml:id="r-i-31-titolo">R, I 31</seg></head>
          <p n="1">31</p>
          <p n="2"><seg n="0"> Della città di <term ref="#carchan">Carchan</term>, dove gli huomini hanno le gambe grosse et il <term ref="#gosso">gosso</term> nella gola. Cap. 31.</seg></p>
          <p n="3"><seg n="1"> De qui partendosi si vien nella provincia di <term ref="#carchan">Carchan</term>, la cui lunghezza dura cinque giornate. </seg><seg n="2"> Le genti osservano la legge di <term ref="#macometto">Macometto</term>, et vi sono alcuni christiani nestorini, et ‹sono› soggetti al dominio del sopradetto
                nepote del <term ref="#gran-can">Gran Can</term>. </seg><seg n="3"> Sono copiosi delle cose necessarie, et massimamente di <term ref="#bambagio">bambaso</term>. </seg><seg n="4"> Gli habitanti sono grandi artefici, et hanno per la maggior parte le gambe grosse
                et un gran <term ref="#gosso">gosso</term> nella gola, il che avviene per la proprietà dell’acque che bevono. </seg><seg n="5"> Et in questa provincia altro non v’è degno di memoria.</seg></p>
       </div>
-  <div n="32"><head>32</head>
+  <div n="32" type="chapter" xml:id="r-i-32"><head><seg xml:id="r-i-32-titolo">R, I 32</seg></head>
          <p n="1">32</p>
          <p n="2"><seg n="0"> |11v| Della città di <term ref="#cotam">Cotam</term>, et abondanza di ogni cosa necessaria al viver. Cap. 32.</seg></p>
          <p n="3"><seg n="1"> Dapoi si perviene alla provincia di <term ref="#cotam">Cotam</term>, fra <term ref="#greco">greco</term> et levante, la cui lunghezza è otto giornate, et è subdita al <term ref="#gran-can">Gran Can</term>, et quelle genti osservano la legge di <term ref="#macometto">Macometto</term>. </seg><seg n="2"> Sono in essa molte città et castelli, et la piú nobil città, et dalla quale il
                regno ha tolto il nome, è <term ref="#cotam">Cotam</term>, la quale è abondantissima di tutte le cose necessarie al viver humano. </seg><seg n="3"> Vi nasce <term ref="#bambagio">bambagio</term>, lino et <term ref="#canevo">canevo</term>, biada et vino et altro. </seg><seg n="4"> Gli habitanti hanno vigne, possessioni et molti giardini; vivono di mercantie
                et di arti, et non sono huomini da guerra. </seg><seg n="5"> Si è detto di questa provincia, dicasi d’un’altra detta <term ref="#peym">Peym</term>.</seg></p>
       </div>
-  <div n="33"><head>33</head>
+  <div n="33" type="chapter" xml:id="r-i-33"><head><seg xml:id="r-i-33-titolo">R, I 33</seg></head>
          <p n="1">33</p>
          <p n="2"><seg n="0"> Della provincia di <term ref="#peym">Peym</term>, et delle pietre <term ref="#calcedonio">calcedonie</term> et <term ref="#diaspri">diaspri</term> che si trovano in un fiume; et della consuetudine che hanno di maritarsi di novo
                ogni fiata che vogliono. Cap. 33.</seg></p>
@@ -2136,7 +2132,7 @@
                venti giorni, la donna, secondo la loro consuetudine, subito può torre un altro marito,
                s’ella vuole; et gli huomini ovunque vadano similmente si maritano. </seg><seg n="5"> Et tutte le provincie sopradette, cioè <term ref="#caschar">Caschar</term>, <term ref="#cotam">Cotam</term>, <term ref="#peym">Peym</term>, fino alla città di <term ref="#lop">Lop</term>, sono comprese nelli termini della Gran <term ref="#gran-turchia">Turchia</term>. </seg><seg n="6"> Seguita della provincia <term ref="#ciarcian">Ciarcian</term>.</seg></p>
       </div>
-  <div n="34"><head>34</head>
+  <div n="34" type="chapter" xml:id="r-i-34"><head><seg xml:id="r-i-34-titolo">R, I 34</seg></head>
          <p n="1">34</p>
          <p n="2"><seg n="0"> Della provincia di <term ref="#ciarcian">Ciarcian</term>, et delle pietre de <term ref="#diaspri">diaspri</term> et <term ref="#calcedonio">calcedonii</term> che si trovano nei fiumi et sono portati in <term ref="#aucata">Aucata</term>; et come gli habitanti fuggono nei diserti come passa l’essercito de’ <term ref="#tartari">Tartari</term>. Cap. 34.</seg></p>
          <p n="3"><seg n="1"> <term ref="#ciarcian">Ciarcian</term> è una provincia della <term ref="#gran-turchia">Gran Turchia</term>, intra <term ref="#greco">greco</term> et levante; già fu nobile et abondante, ma da’ <term ref="#tartari">Tartari</term> è stata destrutta. </seg><seg n="2"> Le sue genti osservano la legge di <term ref="#macometto">Macometto</term>. </seg><seg n="3"> Sono in detta provincia molte città et castelli, ma la città maestra del regno
@@ -2152,7 +2148,7 @@
                cuopre le loro pedate con l’arena. </seg><seg n="8"> Et poi, partendosi da <term ref="#ciarcian">Ciarcian</term>, si va per cinque giornate per l’arena, dove sono cattive acque et amare, et in alcuni
                luoghi sono buone et dolci, ma non vi sono altre cose che siano da dire. </seg><seg n="9"> Et al fine delle cinque giornate si trova una città detta <term ref="#lop">Lop</term>, la quale confina col gran deserto.</seg></p>
       </div>
-  <div n="35"><head>35</head>
+  <div n="35" type="chapter" xml:id="r-i-35"><head><seg xml:id="r-i-35-titolo">R, I 35</seg></head>
          <p n="1">35</p>
          <p n="2"><seg n="0"> Della città di <term ref="#lop">Lop</term> et del deserto che è vicino; et delle cose mirabili che sentono passando per quello.
                Cap. 35.</seg></p>
@@ -2189,7 +2185,7 @@
                animali legano al collo una campanella, qual sentendosi non li lascia uscire di strada;
                et con grandi travagli et pericoli è di bisogno di passar per detto deserto. </seg></p>
       </div>
-  <div n="36"><head>36</head>
+  <div n="36" type="chapter" xml:id="r-i-36"><head><seg xml:id="r-i-36-titolo">R, I 36</seg></head>
          <p n="1">36</p>
          <p n="2"><seg n="0"> Della provincia di <term ref="#tanguth">Tanguth</term> et della città di <term ref="#sachion">Sachion</term>, et dei costumi quando nasce loro un figliuolo, et del modo come abbrucciano li corpi
                d’i morti. Cap. 36.</seg></p>
@@ -2240,7 +2236,7 @@
                cavalli et tutte le altre cose che son state depinte sopra le carte. </seg><seg n="16"> Et a tutto questo officio vi sono presenti tutti li stormenti della città, di
                continuo sonando. </seg><seg n="17"> Havendo detto di questa, dicasi delle altre città che sono verso <term ref="#maestro">maestro</term>, presso al capo del deserto.</seg></p>
       </div>
-  <div n="37"><head>37</head>
+  <div n="37" type="chapter" xml:id="r-i-37"><head><seg xml:id="r-i-37-titolo">R, I 37</seg></head>
          <p n="1">37</p>
          <p n="2"><seg n="0"> Della provincia di <term ref="#chamul">Chamul</term>, et del costume che hanno di lasciar che le lor mogli et figliuole dormino con li
                forestieri che passano per il paese. Cap. 37.</seg></p>
@@ -2273,7 +2269,7 @@
                donne vostre siano limosinarie verso i viandanti». </seg><seg n="10"> Et con questa risposta tornarono a casa, con grandissima allegrezza de tutto
                il popolo, et cosí fino al presente osservano la prima consuetudine.</seg></p>
       </div>
-  <div n="38"><head>38</head>
+  <div n="38" type="chapter" xml:id="r-i-38"><head><seg xml:id="r-i-38-titolo">R, I 38</seg></head>
          <p n="1">38</p>
          <p n="2"><seg n="0"> |13r| Della provincia di <term ref="#succuir">Succuir</term>, dove si trova il reubarbaro, che vien condotto per il mondo. Cap. 38.</seg></p>
          <p n="3"><seg n="1"> Partendosi dalla provincia predetta si va per dieci giornate fra <term ref="#greco">greco</term> et levante, et in quel cammino vi sono poche habitationi, né cose degne di raccontarle;
@@ -2285,7 +2281,7 @@
                se le bestie ne mangiano perdono l’unghie: ma quelle di detta contrata cognoscono
                l’herba et la schifano di mangiare. </seg><seg n="5"> Gli huomini di <term ref="#succuir">Succuir</term> vivono dei frutti della terra et delle lor bestie, et non usano mercantie. </seg><seg n="6"> La provincia è tutta sana, et le genti sono brune.</seg></p>
       </div>
-  <div n="39"><head>39</head>
+  <div n="39" type="chapter" xml:id="r-i-39"><head><seg xml:id="r-i-39-titolo">R, I 39</seg></head>
          <p n="1">39</p>
          <p n="2"><seg n="0"> Della città di <term ref="#campion">Campion</term>, capo della provincia di <term ref="#tanguth">Tanguth</term>, et della sorte de’ loro idoli, et della vita de’ religiosi <term ref="#idolatri">idolatri</term>, et il lunario che hanno; et de’ costumi degli altri habitanti nel maritarsi. Cap.
                39.</seg></p>
@@ -2308,7 +2304,7 @@
                quasi a modo di bestie. </seg><seg n="12"> In questa città messer Marco Polo dimorò con suo padre et barba per sue faccende
                circa un anno.</seg></p>
       </div>
-  <div n="40"><head>40</head>
+  <div n="40" type="chapter" xml:id="r-i-40"><head><seg xml:id="r-i-40-titolo">R, I 40</seg></head>
          <p n="1">40</p>
          <p n="2"><seg n="0"> Della città di <term ref="#ezina">Ezina</term>, et degli animali et uccelli che ivi si trovano, et del deserto che è di quaranta
                giornate verso tramontana. Cap. 40.</seg></p>
@@ -2320,7 +2316,7 @@
                nei monti et in alcune valli. </seg><seg n="6"> Ivi si trovano acque et boschi di pini, <term ref="#asini-salvatichi">asini salvatichi</term> et molte altre bestie similmente salvatiche. </seg><seg n="7"> Et quando s’è cavalcato per questo deserto 40 giornate, si trova una città verso
                tramontana detta <term ref="#caracoran">Carachoran</term>. |13v| </seg><seg n="8"> Et tutte le provincie sopradette et città, cioè <term ref="#sachion">Sachion</term>, <term ref="#chamul">Chamul</term>, Chinchitalas, <term ref="#succuir">Succuir</term>, <term ref="#campion">Campion</term> et <term ref="#ezina">Ezina</term>, sono pertinenti alla gran provincia di <term ref="#tanguth">Tanguth</term>.</seg></p>
       </div>
-  <div n="41"><head>41</head>
+  <div n="41" type="chapter" xml:id="r-i-41"><head><seg xml:id="r-i-41-titolo">R, I 41</seg></head>
          <p n="1">41</p>
          <p n="2"><seg n="0"> Della città di <term ref="#caracoran">Carchoran</term>, che è il primo luogo dove li <term ref="#tartari">Tartari</term> si riducessero ad habitare. Cap. 41<hi rend="italics">.</hi></seg></p>
          <p n="3"><seg n="1"> <term ref="#caracoran">Carchoran</term> è una città il cui circuito dura tre miglia, et fu il primo luogo appresso al quale
@@ -2328,7 +2324,7 @@
                appresso la qual di fuori è uno castello molto grande, et in quello è un palazzo bellissimo
                dove habita il rettore di quella.</seg></p>
       </div>
-  <div n="42"><head>42</head>
+  <div n="42" type="chapter" xml:id="r-i-42"><head><seg xml:id="r-i-42-titolo">R, I 42</seg></head>
          <p n="1">42</p>
          <p n="2"><seg n="0"> Del principio del regno d’i <term ref="#tartari">Tartari</term>, et de che luogo vennero, et come erano sottoposti ad <term ref="#umcan">Umcan</term>, che chiamano un <term ref="#prete-gianni">Prete Gianni</term>, che è sotto la tramontana. Cap. 42.</seg></p>
          <p n="3"><seg n="1"> Il modo adunque pel quale i <term ref="#tartari">Tartari</term> cominciorono primamente a dominare si dechiarirà al presente. </seg><seg n="2"> Essi habitavano nelle parti di tramontana, cioè in <term ref="#ciorza">Ciorza</term> et <term ref="#bargu">Bargu</term>, dove sono molte pianure grandi et senza habitatione alcuna, cioè di città et castella,
@@ -2342,7 +2338,7 @@
                habitavano et andorno tanto per un lungo deserto verso tramontana che per la lontananza
                li parse esser sicuri, et allhora denegorno di dare ad <term ref="#umcan">Umcan</term> il solito tributo.</seg></p>
       </div>
-  <div n="43"><head>43</head>
+  <div n="43" type="chapter" xml:id="r-i-43"><head><seg xml:id="r-i-43-titolo">R, I 43</seg></head>
          <p n="1">43</p>
          <p n="2"><seg n="0"> Come <term ref="#cingis-can">Cingis Can</term> fu il primo imperator de’ <term ref="#tartari">Tartari</term>, et come el combatté con <term ref="#umcan">Umcan</term> et lo ruppe et prese tutto il suo paese. Cap. 43.</seg></p>
          <p n="3"><seg n="1"> Avvenne che, circa l’anno del nostro Signore mclxii, essendo stati i <term ref="#tartari">Tartari</term> per certo tempo in quelle parti, elessero in loro re uno che si chiamava <term ref="#cingis-can">Cingis Can</term>, huomo integerrimo, di molta sapienza, eloquente et valoroso nell’armi, qual cominciò
@@ -2377,7 +2373,7 @@
                <term ref="#cingis">Cingis</term> montò sopra di quella di <term ref="#umcan">Umcan</term>. </seg><seg n="13"> Il che veduto dai <term ref="#tartari">Tartari</term> et da <term ref="#cingis">Cingis</term>, con grande allegrezza andorono ad affrontar l’essercito di <term ref="#umcan">Umcan</term>, et quello ruppero et fracassorono, et fu morto <term ref="#umcan">Umcan</term> et tolto il regno, et <term ref="#cingis">Cingis</term> prese per moglie la figliuola di quello. </seg><seg n="14"> Doppo questa battaglia, <term ref="#cingis">Cingis</term> andò anni sei continuamente acquistando regni et cittade; alla fine, essendo sotto
                un castello detto <term ref="#thaigin">Thaigin</term>, fu ferito con una saetta in un ginocchio et morse, et fu sepolto nel monte Altay.</seg></p>
       </div>
-  <div n="44"><head>44</head>
+  <div n="44" type="chapter" xml:id="r-i-44"><head><seg xml:id="r-i-44-titolo">R, I 44</seg></head>
          <p n="1">44</p>
          <p n="2"><seg n="0"> Della successione de sei imperatori de’ <term ref="#tartari">Tartari</term>, et solennità che gli fanno quando li sepeliscono nel monte Altay. Cap. 44.</seg></p>
          <p n="3"><seg n="1"> Doppo <term ref="#cingis-can">Cingis Can</term> fu secondo signore <term ref="#cyn-can">Cyn Can</term>; il terzo <term ref="#bathyn-can">Bathyn Can</term>; il quarto <term ref="#ulau">Esu Can</term>; il quinto <term ref="#mongu-can">Mongú Can</term>; il sesto <term ref="#cublai-can">Cublai Can</term>, il quale fu piú grande et piú potente di tutti gli altri, perché egli ereditò quel
@@ -2390,7 +2386,7 @@
                mondo. </seg><seg n="5"> Quando il corpo di <term ref="#mongu-can">Mongú</term> fu portato a quel monte, li cavallieri che ’l portavano, havendo questa scelerata
                et ostinata persuasione, uccisero piú di diecimila huomini che incontrorono.</seg></p>
       </div>
-  <div n="45"><head>45</head>
+  <div n="45" type="chapter" xml:id="r-i-45"><head><seg xml:id="r-i-45-titolo">R, I 45</seg></head>
          <p n="1">45</p>
          <p n="2"><seg n="0"> Della vita de’ <term ref="#tartari">Tartari</term>, et come non stanno mai fermi, ma vanno sempre camminando; et delle lor case sopra
                carrette, costumi et vivere; et dell’honestà delle lor mogli, delle quali ne cavano
@@ -2430,7 +2426,7 @@
                lassate dal padre, eccettuando la madre et le sorelle, et pigliano ancho le cognate,
                se sono morti i fratelli, et celebrano ogni fiata le nozze con gran solennità.</seg></p>
       </div>
-  <div n="46"><head>46</head>
+  <div n="46" type="chapter" xml:id="r-i-46"><head><seg xml:id="r-i-46-titolo">R, I 46</seg></head>
          <p n="1">46</p>
          <p n="2"><seg n="0"> Del Dio d’i <term ref="#tartari">Tartari</term> celeste et sublime, et d’un altro detto <term ref="#natigay">Natigay</term>, et come l’adorano; et della sorte delli loro vestimenti et armi, et della ferocità
                loro nel combattere; et come sono patientissimi in ogni disagio et bisogno, et obedientissimi
@@ -2455,7 +2451,7 @@
                nell’essercitio delle armi, sono atti a soggiogare il mondo, come hanno fatto di una
                gran parte.</seg></p>
       </div>
-  <div n="47"><head>47</head>
+  <div n="47" type="chapter" xml:id="r-i-47"><head><seg xml:id="r-i-47-titolo">R, I 47</seg></head>
          <p n="1">47</p>
          <p n="2"><seg n="0"> Dell’essercito de’ <term ref="#tartari">Tartari</term>, in quante parti è diviso; et del modo con il qual cavalcano, et di ciò che portano
                per loro vivere, et del latte secco; et modo del loro combattere. Cap. 47.</seg></p>
@@ -2496,7 +2492,7 @@
                in ogni parte che vogliono, et in questo modo hanno vinto molte battaglie. </seg><seg n="13"> Tutto quello che vi habbiam narrato è nella vita et costumi de’ rettori de’ <term ref="#tartari">Tartari</term>. </seg><seg n="14"> Ma al presente sono molto bastardati, perché quelli che conversano in <term ref="#ouchacha">Ouchacha</term> osservano la vita et costumi di quelli che <term ref="#idolatri">adorano gl’idoli</term> et hanno lasciata la sua legge; quelli che conversano in oriente osservano i costumi
                d’i Saraceni.</seg></p>
       </div>
-  <div n="48"><head>48</head>
+  <div n="48" type="chapter" xml:id="r-i-48"><head><seg xml:id="r-i-48-titolo">R, I 48</seg></head>
          <p n="1">48</p>
          <p n="2"><seg n="0"> Della giustitia che osservano, et della vanità de’ matrimonii che fanno de’ figliuoli
                morti. Cap. 48.</seg></p>
@@ -2522,7 +2518,7 @@
                veramente le nozze fossero state celebrate et che vivessero. </seg><seg n="7"> Hora habbiamo dichiarato li costumi et consuetudini de’ <term ref="#tartari">Tartari</term>; non però che habbiamo detto i grandissimi fatti et imprese del <term ref="#gran-can">Gran Can</term>, signor de tutti i <term ref="#tartari">Tartari</term>. </seg><seg n="8"> Ma vogliamo ritornare al nostro proposito, cioè alla gran pianura nella quale
                eravamo quando cominciamo de’ fatti de’ <term ref="#tartari">Tartari</term>.</seg></p>
       </div>
-  <div xml:id="r-i-49" n="49"><head xml:id="r-i-49-titolo">49</head>
+  <div xml:id="r-i-49" n="49" type="chapter"><head xml:id="r-i-49-titolo">R, I <seg xml:id="r-i-49-titolo">R, I 49</seg></head>
          <p n="1">49</p>
          <p n="2"><seg n="0" xml:id="r-i-49_1_1"> Come, partendosi da <term ref="#caracoran">Carachoran</term>, si trova la pianura de <term ref="#bargu">Bargu</term>, et d’i costumi degli habitanti in quella; et come doppo quaranta giornate si trova
                il <term ref="#mare-oceano">mare Oceano</term>; et delli falconi et <term ref="#girifalco">girifalchi</term> che vi nascono; et come la tramontana a chi la guarda appar verso mezzodí. Cap. 49.</seg></p>
@@ -2541,7 +2537,7 @@
                rimaner dipoi verso mezzodí. </seg><seg n="9"> Et i <term ref="#girifalco">girifalchi</term> che nascono nell’isola predetta sono in tanta copia che ’l <term ref="#gran-can">Gran Can</term> ne puol havere quanti ne vuole a suo piacere. </seg><seg n="10"> Né crediate che i <term ref="#girifalco">girifalchi</term> che delle terre de’ christiani si portano a’ <term ref="#tartari">Tartari</term> siano portati al <term ref="#gran-can">Gran Can</term>, ma portansi in levante solamente, cioè a qualche signore tartaro et altri nobili
                di levante che sono alle confini de’ <term ref="#cumani">Cumani</term> et Armeni. </seg><seg n="11"> Hora, havendo detto delle provincie che sono verso la tramontana fino al <term ref="#mare-oceano">mare Oceano</term>, diremo delle provincie verso il <term ref="#gran-can">Gran Can</term>, et ritorniamo alla provincia detta <term ref="#campion">Campion</term>, la qual di sopra è descritta.</seg></p>
       </div>
-  <div n="50"><head>50</head>
+  <div n="50" type="chapter" xml:id="r-i-50"><head><seg xml:id="r-i-50-titolo">R, I 50</seg></head>
          <p n="1">50</p>
          <p n="2"><seg n="0"> Come, partendosi da <term ref="#campion">Campion</term>, si vien al regno de <term ref="#erginul">Erginul</term>; et della città di <term ref="#singui">Singui</term>; et delli buoi, che hanno un pelo sottilissimo; et della forma dell’animal che fa
                il <term ref="#muschio">muscho</term>, et come lo prendono; et de’ costumi degl’habitanti, et bellezza delle lor donne.
@@ -2577,7 +2573,7 @@
                per moglie, et danno alla madre et parenti molti doni per haverle, perché non apprezzano
                altro che la bellezza. </seg><seg n="20"> Hora si partiremo de qui, et diremo di una provincia verso levante.</seg></p>
       </div>
-  <div n="51"><head>51</head>
+  <div n="51" type="chapter" xml:id="r-i-51"><head><seg xml:id="r-i-51-titolo">R, I 51</seg></head>
          <p n="1">51</p>
          <p n="2"><seg n="0"> Della provincia di <term ref="#egrigaia">Egrigaia</term> et della città di <term ref="#calacia">Calacia</term>, et de’ costumi degli habitanti, et <term ref="#zambellotto">zambellotti</term> che vi si lavorano. Cap. 51.</seg></p>
          <p n="3"><seg n="1"> Partendosi da <term ref="#erginul">Erginul</term>, andando verso levante per otto giornate, si trova una provincia nominata <term ref="#egrigaia">Egrigaia</term>, nella quale sono molte città et castella, pur nella gran provincia di <term ref="#tanguth">Tanguth</term>. </seg><seg n="2"> La maestra città si chiama <term ref="#calacia">Calacia</term>, le cui genti <term ref="#idolatri">adorano gli idoli</term>; vi sono anchora tre chiese de’ christiani nestorini, et sono sotto il dominio del
@@ -2586,7 +2582,7 @@
                per molte contrade, et specialmente al <term ref="#cataio">Cataio</term>. </seg><seg n="4"> Hor lasciamo di questa provincia, et diremo di un’altra verso levante nominata
                <term ref="#tenduch">Tenduc</term>, et cosí entraremo nelle terre del <term ref="#prete-gianni">Prete Gianni</term>.</seg></p>
       </div>
-  <div n="52"><head>52</head>
+  <div n="52" type="chapter" xml:id="r-i-52"><head><seg xml:id="r-i-52-titolo">R, I 52</seg></head>
          <p n="1">52</p>
          <p n="2"><seg n="0"> Della provincia di <term ref="#tenduch">Tenduc</term>, dove regnano quelli della stirpe del <term ref="#prete-gianni">Prete Gianni</term>, et la maggior parte sono christiani; et come ordinano li loro preti; et de una sorte
                de huomini detti  *<term ref="#argon">Argon</term>, che son piú belli et savi di quel paese. Cap. 52.</seg></p>
@@ -2597,7 +2593,7 @@
                sia soggetto al <term ref="#gran-can">Gran Can</term>; ma vi sono molti che <term ref="#idolatri">adorano gl’idoli</term>, et osservano la legge macomettana. </seg><seg n="8"> Vi è ancho una sorte di genti che si chiamano <term ref="#argon">Argon</term>, perché sono nati di due generazioni, cioè da quelli di <term ref="#tenduch">Tenduc</term>, che <term ref="#idolatri">adorano gli idoli</term>, et da quelli che osservano la legge di <term ref="#macometto">Macometto</term>: et questi sono i piú belli huomini che si trovino in quel paese, et piú savi et
                piú accorti nella mercantia.</seg></p>
       </div>
-  <div n="53"><head>53</head>
+  <div n="53" type="chapter" xml:id="r-i-53"><head><seg xml:id="r-i-53-titolo">R, I 53</seg></head>
          <p n="1">53</p>
          <p n="2"><seg n="0"> Del luogo dove regnano quelli del <term ref="#prete-gianni">Prete Gianni</term>, detto <term ref="#og-et-magog">Og et Magog</term>, et delli costumi degli habitanti et lavori de seda di quelli, et della minera d’argento.
                Cap. 53.</seg></p>
@@ -2608,7 +2604,7 @@
                all’armi et ad un essercito. </seg><seg n="7"> Et ne’ monti di questa provincia è un luogo nominato <term ref="#idifa">Idifa</term>, nel quale è una ottima minera d’argento, dalla qual se ne cava grandissima quantità;
                et oltre di ciò hanno molte cacciagioni.</seg></p>
       </div>
-  <div n="54"><head>54</head>
+  <div n="54" type="chapter" xml:id="r-i-54"><head><seg xml:id="r-i-54-titolo">R, I 54</seg></head>
          <p n="1">54</p>
          <p n="2"><seg n="0"> Della provincia di <term ref="#cianganor">Cianganor</term>, et della sorte di grue che si trovano, et della quantità di pernici et <term ref="#quaglia">quaglie</term> che ’l <term ref="#gran-can">Gran Can</term> fa allevare. Cap. 54.</seg></p>
          <p n="3"><seg n="1"> Partendosi dalla sopradetta provincia et città et andando per tre giornate, si
@@ -2631,7 +2627,7 @@
                freddo non sta a quel tempo), ovunque egli si sia, se ne fa portare carghi i camelli.
                </seg><seg n="6"> Ma si partiremo di qui, et andremo tre giornate verso tramontana et <term ref="#greco">greco</term>.</seg></p>
       </div>
-  <div n="55"><head>55</head>
+  <div n="55" type="chapter" xml:id="r-i-55"><head><seg xml:id="r-i-55-titolo">R, I 55</seg></head>
          <p n="1">55</p>
          <p n="2"><seg n="0"> Del bellissimo palazzo del <term ref="#gran-can">Gran Can</term> in la città di <term ref="#xandu">Xandú</term>; et della mandra di cavalli et cavalle bianche, del latte d’i quali fanno ogn’anno
                sacrificio; et delle cose maravigliose che li loro astrologhi fanno far quando vien
