@@ -22,7 +22,7 @@
            </fileDesc>
         </teiHeader>
         <text><body xml:id="r_body">
-  <div xml:id="R1.0" n="0">
+  <div n="0">
          <p n="1">|2r| Di messer Gio. Battista Ramusio prefatione sopra il principio del libro del magnifico
             messer Marco Polo.</p>
          <p n="2">All’eccellente messer Hieronimo Fracastoro.</p>
@@ -1328,9 +1328,8 @@
                la città di Genova, et si parte in tre libri, i quali si distinguono per proprii capitoli.</seg></p>
          <p n="13">|2r| Dei viaggi di messer Marco Polo, gentilhuomo venetiano</p>
       </div>
-  <div xml:id="Rtest" n="1"><head>1</head>
-         <p n="1">1</p>
-         <p n="2" ><seg n="1"> Dovete adunque sapere che nel tempo di <term ref="#balduino">Balduino</term>, imperatore di <term ref="#constantinopoli">Constantinopoli</term>, dove allhora soleva stare un podestà di Venetia per nome di messer lo dose, correndo
+  <div n="1" xml:id="r-i-1"><head xml:id="r-i-1-titolo">1</head>
+         <p n="2"><seg xml:id="r-i-1_1_1" n="1"> Dovete adunque sapere che nel tempo di <term ref="#balduino">Balduino</term>, imperatore di <term ref="#constantinopoli">Constantinopoli</term>, dove allhora soleva stare un podestà di Venetia per nome di messer lo dose, correndo
                gli anni del N.S. MCCL, messer Nicolò Polo, padre di messer Marco, et messer Maffio
                Polo, fratello del detto messer Nicolò, nobili, honorati et savi di Venetia, trovandosi
                in <term ref="#constantinopoli">Constantinopoli</term> con molte loro grandi mercantie, hebbero insieme molti ragionamenti, et finalmente
@@ -1503,11 +1502,11 @@
                puoté sapere et intendere tutte queste cose in anni ventisei che ’l dimorò nelle parti
                d’oriente.</seg></p>
       </div>
-  <div n="2"><head>2</head>
+  <div n="2" xml:id="r-i-2"><head xml:id="r-i-2-titolo">2</head>
          <p n="1">2</p>
-         <p n="2"><seg n="0"> Dell’<term ref="#armenia">Armenia Minore</term> et del porto della <term ref="#giazza">Giazza</term>, et delle mercantie che vi son condotte, et de’ confini di detta provincia. Cap.
+         <p n="2"><seg xml:id="r-i-2_1_1" n="0"> Dell’<term ref="#armenia">Armenia Minore</term> et del porto della <term ref="#giazza">Giazza</term>, et delle mercantie che vi son condotte, et de’ confini di detta provincia. Cap.
                2.</seg></p>
-         <p n="3"><seg n="1"> Per dar principio a narrar delle provincie che messer Marco Polo ha viste nell’Asia,
+         <p n="3"><seg xml:id="r-i-2_2_1" n="1"> Per dar principio a narrar delle provincie che messer Marco Polo ha viste nell’Asia,
                et delle cose degne di noticia che in quelle ha ritrovate, dico che sono doe Armenie, una detta Minore et l’altra Maggiore. </seg><seg n="2"> Dil reame dell’<term ref="#armenia">Armenia Minore</term> è signore un re che habita in una città detta <term ref="#sevasta">Sebastoz</term>, il qual osserva giustitia in tutto il suo paese; et vi sono molte città, |4v| fortezze
                et castelli, et di ogni cosa è molto abondevole et di sollazzo, et molte cazzasoni
                di bestie et di uccelli; è ben vero che non vi è troppo buono aere. </seg><seg n="3"> I gentilhuomini di <term ref="#armenia">Armenia</term> anticamente solevan essere molto buoni combattitori et valenti con l’arme in mano;
@@ -2523,9 +2522,9 @@
                veramente le nozze fossero state celebrate et che vivessero. </seg><seg n="7"> Hora habbiamo dichiarato li costumi et consuetudini de’ <term ref="#tartari">Tartari</term>; non però che habbiamo detto i grandissimi fatti et imprese del <term ref="#gran-can">Gran Can</term>, signor de tutti i <term ref="#tartari">Tartari</term>. </seg><seg n="8"> Ma vogliamo ritornare al nostro proposito, cioè alla gran pianura nella quale
                eravamo quando cominciamo de’ fatti de’ <term ref="#tartari">Tartari</term>.</seg></p>
       </div>
-  <div n="49"><head>49</head>
+  <div xml:id="r-i-49" n="49"><head xml:id="r-i-49-titolo">49</head>
          <p n="1">49</p>
-         <p n="2"><seg n="0"> Come, partendosi da <term ref="#caracoran">Carachoran</term>, si trova la pianura de <term ref="#bargu">Bargu</term>, et d’i costumi degli habitanti in quella; et come doppo quaranta giornate si trova
+         <p n="2"><seg n="0" xml:id="r-i-49_1_1"> Come, partendosi da <term ref="#caracoran">Carachoran</term>, si trova la pianura de <term ref="#bargu">Bargu</term>, et d’i costumi degli habitanti in quella; et come doppo quaranta giornate si trova
                il <term ref="#mare-oceano">mare Oceano</term>; et delli falconi et <term ref="#girifalco">girifalchi</term> che vi nascono; et come la tramontana a chi la guarda appar verso mezzodí. Cap. 49.</seg></p>
          <p n="3"><seg n="1"> Partendosi da <term ref="#caracoran">Carachoran</term> et dal monte Altay, dove si sepeliscono i corpi degl’imperatori de’ <term ref="#tartari">Tartari</term>, come habbiam detto di sopra, si va per una contrata verso tramontana, che si chiama
                la pianura di <term ref="#bargu">Bargu</term> et dura ben circa sessanta giornate; le cui genti si chiamano Mecriti, et sono genti
