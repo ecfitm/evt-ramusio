@@ -1,0 +1,90 @@
+
+/* ECF styles */
+
+.seg {
+	/* font-family: 'Montserrat', sans-serif; */
+	font-family: "Junicode", Times, serif;
+	font-optical-sizing: auto;
+}
+
+body {
+	/* background-color: #cbcec0; */
+	font-family: Montserrat, sans-serif;
+}
+
+body>header {
+	color: #ECEFF1;
+	background-color: #16184e !important;
+	/* color: #262c11; */
+	font-weight: bold;
+	padding-left: 5%;
+	/* width: 90%;
+	left: 5%;
+	position:relative; */
+}
+
+/* Global menu button colors */
+.globalMenu {
+	padding-right: 5%;
+}
+.globalMenu button-switch .buttonSwitch-icon {
+	color: #7b7c73;
+
+}
+
+.buttonSwitch-active .icon,
+.buttonSwitch:hover .icon {
+	color: #262c11 !important;
+}
+
+.apparatuses_tabs_header,
+.box .box-menu, .navBarSliderWrapper {
+	background-color: #27468e !important;
+}
+
+
+/* Selectors style and bo */
+.selector,
+span.buttonSwitch {
+	padding: 0 10px;
+	box-shadow: none;
+}
+
+.box .box-menu,
+.navBarSliderWrapper {
+	background: #27468e !important;
+}
+
+.box .box-body {
+	border: 0 !important;
+}
+
+/* Semantic colors */
+.diplomaticEdition .del {
+	background-color: #90cdba;
+}
+
+.diplomaticEdition .choice .sic {
+	color: #932e20;
+}
+
+.diplomaticEdition .add {
+	background-color: #c9cbcf;
+}
+
+.diplomaticEdition .choice .abbr {
+	color: #1f3f7a !important;
+	text-decoration: none !important;
+}
+
+.diplomaticEdition .choice .orig {
+	color: #754909;
+}
+
+.diplomaticEdition [data-rend=red] {
+	color: #870f22;
+}
+
+.box #msDesc {
+	background: rgba(236, 239, 241, .95);
+}
