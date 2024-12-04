@@ -46,7 +46,7 @@ body>header {
 /* Selectors style and bo */
 .selector,
 span.buttonSwitch {
-	padding: 0 10px;
+	/* padding: 0 10px; */
 	box-shadow: none;
 }
 
