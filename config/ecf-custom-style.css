@@ -34,7 +34,7 @@ body>header {
 
 .buttonSwitch-active .icon,
 .buttonSwitch:hover .icon {
-	color: #262c11 !important;
+	color: white !important;
 }
 
 .apparatuses_tabs_header,
@@ -59,9 +59,13 @@ span.buttonSwitch {
 	border: 0 !important;
 }
 
+span[data-place="top-right"] .add {
+	background-color: initial;
+}
+
 /* Semantic colors */
 .diplomaticEdition .del {
-	background-color: #90cdba;
+	background-color: #ff9999;
 }
 
 .diplomaticEdition .choice .sic {
@@ -69,7 +73,7 @@ span.buttonSwitch {
 }
 
 .diplomaticEdition .add {
-	background-color: #c9cbcf;
+	background-color: #c4e1ba;
 }
 
 .diplomaticEdition .choice .abbr {
