@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliografia del Ramusio Digitale</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>ECF</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl xml:id="listBibl">
+            <listBibl>
+               <bibl>A cura di Samuela Simion, Marina Buzzoni e Eugenio Burgio Nelle pagine seguenti
+                  sono registrate tutte le voci bibliografiche utilizzate nell’edizione, secondo il
+                  sistema “Autore/data” (e sigle utilizzate per le redazioni del Milione sono quelle
+                  fissate da Benedetto (1928) – con l’eccezione della redazione francese, per quale
+                  si è adottata la sigla “Fr” al posto di “FG”). Nella quinta sezione, a cura di
+                  Marina Buzzoni, abbiamo raccolto le voci utili per muoversi nei territori della
+                  filologia digitale.</bibl>
+            </listBibl>
+
+            <listBibl>
+               <bibl>1. Abbreviazioni</bibl>
+               <bibl><hi rend="italic">CHIr</hi> =  AA.VV. (1982-1991). <hi rend="italic"> Cambridge
+                     History of Iran</hi>. 7 voll. Cambridge: Cambridge University Press.</bibl>
+               <bibl><hi rend="italic">GDLI</hi> = Battaglia, Salvatore (a cura di) (1961-2004). <hi
+                     rend="italic">Grande dizionario della lingua italiana</hi>. Torino: Unione
+                  Tipografico-Editrice Torinese.</bibl>
+               <bibl><hi rend="italic">DELI = </hi>Cortelazzo, Manlio; Zolli, Paolo (a cura di)
+                  (1999). <hi rend="italic">Dizionario etimologico della lingua italiana con CD-ROM
+                     e motore di ricerca a tutto testo.</hi> 2a ed. Bologna: Zanichelli.</bibl>
+               <bibl>Du Cange = Du Cange, Carolus (a cura di) (1883-1887). <hi rend="italic"
+                     >Glossarium mediae et infimae latinitatis</hi>. Niort: Favre. Disponibile
+                  all'indirizzo <ref target="http://ducange.enc.sorbonne.fr/"
+                     >http://ducange.enc.sorbonne.fr/</ref> (2015-01-29)</bibl>
+               <bibl><hi rend="italic">EI2</hi> = Bearman, Peri J. et al. (1960-2005). <hi
+                     rend="italic">Encyclopaedia of Islam.</hi> 2a ed. 12 voll. with indexes and
+                  etc. Leiden: Brill.</bibl>
+               <bibl><hi rend="italic">EIr</hi> = AA.VV. (1982-). <hi rend="italic">Encyclopaedia
+                     Iranica</hi>. Costa Mesa: Mazda Publishers. Disponibile all'indirizzo <ref
+                     target="http://www.iranicaonline.org/">http://www.iranicaonline.org/</ref>
+                  (2015-01-29). </bibl>
+               <bibl><hi rend="italic">EIt</hi> = AA.VV. <hi rend="italic">Enciclopedia
+                     italiana</hi> [online]. Disponibile all'indirizzo <ref
+                     target="http://www.treccani.it/enciclopedia"
+                     >http://www.treccani.it/enciclopedia</ref> (2015-01-29)</bibl>
+               <bibl><hi rend="italic">TLIO</hi> = <hi rend="italic">Tesoro della Lingua Italiana
+                     delle Origini </hi>[online]. Disponibile all'indirizzo <ref
+                     target="http://tlio.ovi.cnr.it/TLIO/">http://www.tlio.ovi.cnr.it/TLIO/</ref>
+                  (2015-07-12)</bibl>
+            </listBibl>
+            <listBibl>
+               <bibl>2. Edizioni del «Milione».</bibl>
+               <bibl>(a) sigle</bibl>
+               <bibl>F = Eusebi, Mario (a cura di) (2010). Il manoscritto della Bibliothèque
+                  nationale de France fr. 1116. Vol. 1. Testo. Roma; Padova: Antenore.</bibl>
+               <bibl>Fr = Ménard Philippe (a cura di) (2001-2009). Marco Polo: Le devisement du
+                  monde. 6 voll. Genève: Droz.</bibl>
+               <bibl>L = Burgio, Eugenio (a cura di) (c.s.). Liber qui vulgari hominum dicitur
+                  Elmeliole o Liber domini Marchi Paulo de Venetiis. Epitome latina L.</bibl>
+               <bibl>P = Francesco Pipino O.F.P., Liber domini Marchi Pauli de Veneciis de
+                  condicionibus et consuetudinibus orientalium regionum (ed. interpr. di Samuela
+                  Simion sul cod. Firenze, Bibl. Riccardiana 983).</bibl>
+               <bibl>P Antw = M. Polo. Itinerarium. Antwerpen: G. Leeu (ca. 1485). Edizione
+                  anastatica in S. Iwamura. Manuscripts and Printed Editions of Marco Polo’s
+                  Travels. Tokio: The National Diet Library (1949).</bibl>
+               <bibl>P Prášek = Prášek, J. (a cura di) (1902). M. Pavlova z Benátek: Milion. v
+                  Praze: Ées. Akademie.</bibl>
+               <bibl>R = Giovanni Battista Ramusio. De I viaggi di Marco Polo, gentil’huomo
+                  venetiano. In: Id. Secondo volume Delle Navigationi et viaggi […], in Venetia
+                  nella stamperia de’ Giunti, L’anno MDLIX, ff. 2-60r (ed. di Samuela Simion dalla
+                  copia Padova, Bibl. Cap., 500.C5.4).</bibl>
+               <bibl>TA = Bertolucci Pizzorusso, Valeria (a cura di) (1975). Marco Polo: Milione.
+                  Versione toscana del Trecento. Milano: Adelphi.</bibl>
+               <bibl>V = Simion, Samuela (2007-2008). Il «Milione» secondo il manoscritto Hamilton
+                  424 della Staatsbibliothek di Berlino. Edizione critica. [Tesi di Dottorato].
+                  Venezia, Univ. Ca’ Foscari.</bibl>
+               <bibl>VA = Barbieri, Alvaro; Andreose, Alvise (a cura di) (1999). Marco Polo: Il
+                  «Milione» veneto. Ms. CM 211 della Biblioteca civica di Padova. Venezia:
+                  Marsilio.</bibl>
+               <bibl>VB = Gennari, Pamela (2008-2009) «Milione», redazione VB. Edizione critica
+                  commentata. [Tesi di Dottorato]. Venezia, Univ. Ca’ Foscari. Disponibile
+                  all’indirizzo: <ref target="https://iris.unive.it/handle/10579/937"
+                     >https://iris.unive.it/handle/10579/937</ref>.</bibl>
+               <bibl>Z = Barbieri, Alvaro (a cura di) (1998). Marco Polo: «Milione». Redazione
+                  latina del manoscritto Z. Parma: Fondazione Pietro Bembo/Guanda.</bibl>
+
+               <bibl>(b) altre edizioni</bibl>
+               <bibl>Amatucci, Eleonora (1984). La redazione toscana B del Milione di Marco Polo:
+                  edizione critica [tesi di laurea]. Firenze, Universita degli Studi di
+                  Firenze.</bibl>
+               <bibl>Baldelli Boni, Giovanni Battista (a cura di) (1827). Il Milione di Marco Polo:
+                  Testo di lingua del secolo decimoterzo. 2 voll. Firenze: Giuseppe Pagani.</bibl>
+               <bibl>Barbieri, Alvaro (2001). «La prima attestazione della versione VA del Milione
+                  (ms. 3999 della Biblioteca Casanatense di Roma). Edizione del testo». Critica del
+                  testo, 4, pp. 493-526 (ora in Barbieri 2004, pp. 93-127).</bibl>
+               <bibl>Benedetto, Luigi Foscolo (a cura di) (1928). Marco Polo: Il Milione. Prima
+                  edizione integrale. Firenze: Olschki.</bibl>
+               <bibl>Benedetto, Luigi Foscolo (a cura di) (1932). Il libro di Messer Marco Polo
+                  Cittadino di Venezia detto Milione dove si raccontano Le Meraviglie del Mondo.
+                  Ricostruito criticamente e per la prima volta integralmente tradotto in lingua
+                  italiana. Milano; Roma: Treves.</bibl>
+               <bibl>Benedetto, Luigi Foscolo (in prep.) (a cura di: Barbieri, Alvaro; Burgio,
+                  Eugenio; Reginato, Irene; Simion, Samuela). Marco Polo: Le Devisement du monde.
+                  Testo critico e commento. Edizione postuma (fondo Giddey).</bibl>
+               <bibl>Charignon, Antoine-J.-H. (a cura di) (1924-1928). Le Livre de Marco Polo. […]
+                  traduit en français moderne et annoté d’après les sources chinoises […]. 3 voll.
+                  Pékin: Nachbaur.</bibl>
+               <bibl>Concina, Chiara (2007). «Prime indagini su un nuovo frammento franco-veneto del
+                  Milione di Marco Polo», Romania, 125, pp. 342-369.</bibl>
+               <bibl>Kappler, René (a cura di) (2004). Marco Polo: Le Devisement du monde. Édité,
+                  présenté, annoté par René Kappler. Paris: Imprimerie nationale.</bibl>
+               <bibl>Lazari, Vincenzo (a cura di) (1847). I viaggi di Marco Polo tradotti per la
+                  prima volta dall’originale francese di Rusticiano di Pisa e corretti… da Vincenzo
+                  Lazari pubblicati per cura di Lodovico Pasini. Venezia: Naratovich.</bibl>
+               <bibl>Marsden, William (a cura di) (1818). The travels of Marco Polo in the
+                  thirteenth century [...] Translated from the Italian, with notes, by William
+                  Marsden. London: s.n.</bibl>
+               <bibl>Ménard, Philippe (2012). «Deux nouveaux folios inédits d’un fragment
+                  franco-italien du Devisement du monde de Marco Polo». Medioevo Romanzo, 36, pp.
+                  241-280.</bibl>
+               <bibl>Milanesi, Marica (a cura di) (1978-1988). Giovanni Battista Ramusio:
+                  Navigazioni e viaggi. 6 voll. Torino: Einaudi.</bibl>
+               <bibl>Moule, Arthur Christopher; Pelliot, Paul (a cura di) (1938). Marco Polo: The
+                  Description of the World. 2 voll. London: Routledge.</bibl>
+               <bibl>Parks, George B. (1967-1970). Giovanni Battista Ramusio: Navigationi et viaggi
+                  Venice 1563-1606. With an Introduction by R.A. Skelton and an Analysis of the
+                  Contents by George B. Parks, 3 voll. Amsterdam: Theatrum Orbis Terrarum.</bibl>
+               <bibl>Pauthier, Guillaume (a cura di) (1865). Le Livre de Marco Polo citoyen de
+                  Venise. 2 voll. Paris: Didot.</bibl>
+               <bibl>Pelaez, Mario (1906). «Un nuovo testo veneto del Milione di Marco Polo». Studi
+                  romanzi, 4, pp. 5-65.</bibl>
+               <bibl>Ronchi, Gabriella (a cura di) (1982). Marco Polo: Milione: Le divisament dou
+                  monde: Il Milione nelle redazioni toscana e franco-italiana. Introduzione di
+                  Cesare Segre. Milano: Mondadori.</bibl>
+               <bibl>Valentinetti Mendi, Angélica (1992). Una familia véneta del libro de Marco Polo
+                  [Tesi doctoral]. Madrid: Universidad Complutense.</bibl>
+               <bibl>Yule, Henry; Cordier, Henri (a cura di) (1929). The Book of Ser Marco Polo the
+                  Venetian, Concerning the Kingdoms and Marvels of The East. 2 voll., 2a ed. London:
+                  Murray.</bibl>
+            </listBibl>
+            <listBibl>
+               <bibl>3. Edizioni di testi</bibl>
+               <bibl>Amadori, Gabriele (2014). Giovanni Leone Africano: Cosmographia de l'Affrica
+                  (Ms. V.E. 953 - Biblioteca Nazionale Centrale di Roma - 1526), introduzione ed
+                  edizione del testo a cura di Gabriele Amadori, prefazione di Federico Cresti.
+                  Roma: Aracne.</bibl>
+
+               <bibl>Andreose, Alvise; Ménard, Philippe (a cura di) (2010). Le voyage en Asie
+                  d’Odoric de Pordenon traduit par Jean Le Long OSB. Genève: Droz.</bibl>
+
+               <bibl>Asher, Adolph (a cura di) (1907). The Itinerary of Rabbi Benjamin of Tudela.
+                  New York: “Hakesheth” Publishing Co.</bibl>
+
+               <bibl>Bacchi della Lega, Alberto (a cura di) (1881). Niccolò da Poggibonsi: Libro
+                  d’oltramare. 2 voll., 2a ed. Bologna: Commissione per i Testi in Lingua.</bibl>
+
+               <bibl>Bausani, Alessandro (a cura di) (1988). Il Corano. Introduzione, traduzione e
+                  commento. Milano: Rizzoli.</bibl>
+
+               <bibl>Bihl Michael O.F.M.; Moule, Arthur Christopher (1928). «Tria nova documenta de
+                  missionibus Fr. Min. Tartariae Aquilonaris». Archivum Franciscanum Historicum, 17,
+                  pp. 55-71.</bibl>
+
+               <bibl>Boyle John A. (a cura) (1971). The Successors of Genghis Khan. New York:
+                  Columbia University Press.</bibl>
+
+               <bibl>Busi, Giulio (a cura di) (1988). Binyamin da Tudela: Itinerario. Traduzione,
+                  introduzione, note e appendice di Giulio Busi. Rimini: Luisè.</bibl>
+
+               <bibl>Canova, Andrea (a cura di) (1999). Antonio Pigafetta: Relazione del primo
+                  viaggio attorno al mondo. Padova: Antenore.</bibl>
+
+               <bibl>Chiesa, Paolo (a cura di) (2011). Guglielmo di Rubruk: Viaggio in Mongolia.
+                  Milano: Fondazione Lorenzo Valla/Arnoldo Mondadori Editore.</bibl>
+
+               <bibl>Cigni, Fabrizio (1994). Il romanzo arturiano di Rustichello da Pisa. Edizione
+                  critica, traduzione e commento a cura di Fabrizio Cigni, Premessa di Valeria
+                  Bertolucci Pizzorusso. Ospedaletto: Pacini Editore.</bibl>
+
+               <bibl>Conte, Gian Biagio (dir. da) (1982-1988). Gaio Plinio Secondo: Storia naturale.
+                  6 voll. Torino: Einaudi.</bibl>
+
+               <bibl>Defrémery, Charles-François; Sanguinetti, Beniamino Raffaello; Gibbs, Hamilton
+                  Alexander Rosskeen (a cura di) (1958-1971). The travels of Ibn Baṭṭūṭa. 3 voll.
+                  Cambridge: London Hakluyt Society.</bibl>
+
+               <bibl>de Goeje, Michael Jan (a cura di) (1877). al-Muqaddasī, Šams al-Dīn: Descriptio
+                  imperii moslemici. Leiden: Brill.</bibl>
+
+               <bibl>Deluz, Christiane (a cura di) (2000). Jean de Mandeville: Le livre des
+                  merveilles du monde. Paris: CNRS éditions.</bibl>
+
+               <bibl>Desantis, Giovanni (a cura di) (1992). Pseudo-Palladio: Le genti dell’India e i
+                  Brahman. Roma: Città Nuova.</bibl>
+
+               <bibl>Dunn, Ross E. (a cura di) (2005). Gli straordinari viaggi di Ibn Baṭṭūṭa.
+                  Milano: Garzanti.</bibl>
+
+               <bibl>Engels, Peter (a cura di) (1992). Wilhelm von Tripolis: Notitia de Machometo.
+                  Würzburg: Echter.</bibl>
+
+               <bibl>Erbetta, Mario (a cura di) (1980). Gli Apocrifi del Nuovo Testamento. II.
+                  Torino: Marietti.</bibl>
+
+               <bibl>Evans, Allen (a cura di) (1936). Francesco Balducci Pegolotti: La pratica della
+                  mercatura. Cambridge (MA): Medieval Academy of America.</bibl>
+
+               <bibl>Faral, Edmond (a cura di) (1938). Geoffroy de Villehardouin: La conquête de
+                  Constantinople. Paris: Les Belles Lettres.</bibl>
+
+               <bibl>Formisano, Luciano (a cura di) (1985). Amerigo Vespucci: Lettere di viaggio.
+                  Milano: Mondadori.</bibl>
+
+               <bibl>Formisano, Luciano (a cura di) (2006). Codice Vaglienti. Firenze:
+                  Polistampa.</bibl>
+
+               <bibl>Frye, Richard N. (2005). Ibn Fadlan’s journey to Russia. Princeton: Markus
+                  Wiener.</bibl>
+
+               <bibl>Gadrat, Christine (a cura di) (2005). Les Mirabilia descripta de Jordan Catala
+                  de Sévérac. Paris: École des chartes.</bibl>
+
+               <bibl>Gosman, Martin (a cura di) (1982). La lettre du Prêtre Jean. Groningen: Bouma's
+                  Boekhuis.</bibl>
+
+               <bibl>Guéret-Laferté, Michèle (a cura di) (2004). Poggio Bracciolini: De l’Inde.
+                  Turnhout: Brepols.</bibl>
+
+               <bibl>Guiraud, Jean (a cura di) (1901). Les registres d'Urbain IV. Paris:
+                  Fontemoing.</bibl>
+
+               <bibl>Hees, Syrinx von (a cura di) (2008). al-Qazwīnī: Le meraviglie del creato.
+                  Milano: Mondadori.</bibl>
+
+               <bibl>Hirth, Friedrich; Rockhill, W.W. (a cura di) (1965). Chau Ju-Kua. Taipei:
+                  Literature House.</bibl>
+
+               <bibl>Houtsma, Martijn Theodoor (a cura di) (1886). Recueil de textes relatifs à
+                  l'histoire des Seldjoucides. Leiden: Brill.</bibl>
+
+               <bibl>Idrisi (1970-1979). Kitāb nuzhat al-mushtāq. Napoli-Roma IUO-Is.M.E.O.</bibl>
+
+               <bibl>Infurna, Marco; Mancini, Mario (a cura di) (2014). Il Romanzo di Alessandro.
+                  Milano: Rizzoli.</bibl>
+
+               <bibl>Iqtidārī, Aḥmad (1969). Āṯār-i šahrhā-yi bāstānī. Tehran.</bibl>
+
+               <bibl>Jackson, Peter; Morgan, David (a cura di) (1990). The Mission of Friar William
+                  of Rubruck. London: Hakluyt Society.</bibl>
+
+               <bibl>Jevolella, Massimo (a cura di) (1984). Le Mille e una notte. Milano:
+                  Mondadori.</bibl>
+
+               <bibl>Kozin, Sergej (a cura di) (1988). Storia Segreta dei Mongoli. Parma:
+                  Guanda.</bibl>
+
+               <bibl>Lanza, Antonio; Troncarelli, Marcellina (a cura di) (1990). Pellegrini
+                  scrittori. Firenze: Ponte alle Grazie.</bibl>
+
+               <bibl>Le Prevost, Auguste (a cura di) (1838-1855). Orderici Vitalis Historiae
+                  ecclesiasticae. Paris: Renouard.</bibl>
+
+               <bibl>Ligeti, Lajos (1974). Histoire secrète des Mongols. Budapest: Akadémiai
+                  Kiadó.</bibl>
+
+               <bibl>Lindsay, Wallace Martin (a cura di) (1911). Isidori Etymologiarum. Oxford:
+                  Oxford University Press.</bibl>
+
+               <bibl>Longsworth Dames, Mansel (a cura di) (1921). The Book of Duarte Barbosa.
+                  London: Hakluyt Society.</bibl>
+
+               <bibl>Martino, Valentina (2011). Lodovico de Varthema: Itinerario. Alessandria:
+                  Edizioni dell’Orso.</bibl>
+
+               <bibl>Menestò, Enrico (a cura di) (1989). Giovanni di Pian di Carpine. Spoleto:
+                  CISAM.</bibl>
+
+               <bibl>Merisalo, Outi (a cura di) (1993). Poggio Bracciolini: De varietate fortune.
+                  Helsinki: Suomalainen Tiedeakatemia.</bibl>
+
+               <bibl>Mittarelli, Giovanni Benedetto; Costadoni, Anselmo (1755-1773). Annales
+                  Camaldulenses. Venetiis.</bibl>
+
+               <bibl>Mittarelli, Giovanni Benedetto (1779). Bibliotheca codicum manuscriptorum.
+                  Venetiis.</bibl>
+
+               <bibl>Monneret de Villard, Ugo (a cura di) (1950). Jacopo da Verona: Liber
+                  peregrinationis. Roma: Libreria dello Stato.</bibl>
+
+               <bibl>Monumenta Henricina (1960-1978). Coimbra.</bibl>
+
+               <bibl>Morgan, Margareth Ruth (a cura di) (1973). The Chronicle of Ernoul. London:
+                  Oxford University Press.</bibl>
+
+               <bibl>Pernicone, Vincenzo (a cura di) (1946). Franco Sacchetti: Il Trecentonovelle.
+                  Firenze: Sansoni.</bibl>
+
+               <bibl>Prawer, Joshua (a cura di) (1972). Marino Sanudo Torsello: Liber Secretorum
+                  fidelium Crucis. Jerusalem: Massada Press.</bibl>
+
+               <bibl>de Rachewiltz, Igor (a cura di) (2004). The Secret History of the Mongols.
+                  Leiden; Boston: Brill.</bibl>
+
+               <bibl>Romanini, Fabio; Simion, Samuela (in prep.). Studi sulle lettere di Andrea
+                  Corsali.</bibl>
+
+               <bibl>Sella, Pacifico (a cura di) (2008). Il Vangelo in Oriente. Assisi:
+                  Porziuncola.</bibl>
+
+               <bibl>Smith, Gerald Rex (a cura di) (2008). Ibn al-Muǧāwir. Aldershot:
+                  Ashgate.</bibl>
+
+               <bibl>Stoneman, Richard; Gargiulo, Tristano (a cura di) (2007-2012). Il romanzo di
+                  Alessandro. Milano: Mondadori.</bibl>
+
+               <bibl>Thackston, Wheeler M. (a cura di) (2012). Jami’u’t-Tawarikh. London; New York:
+                  I.B. Tauris.</bibl>
+
+               <bibl>Tresso, Claudia M. (a cura di) (2004). Ibn Baṭṭūṭa: I Viaggi. Torino:
+                  Einaudi.</bibl>
+
+               <bibl>Varvaro, Alberto (a cura di) (1957). Antonio Pucci: Libro di varie storie.
+                  Palermo.</bibl>
+
+               <bibl>Vincent de Beauvais: Speculum Historiale (online).</bibl>
+
+               <bibl>Wagner, Bettina (a cura di) (2000). Die Epistola presbiteri Johannis. Tübingen:
+                  Niemeyer.</bibl>
+
+               <bibl>van den Wyngaert, Anastasius (a cura di) (1929). Sinica franciscana.
+                  Quaracchi.</bibl>
+
+               <bibl>Zaganelli, Gioia (a cura di) (2000). La lettera del Prete Gianni. Milano:
+                  Luni.</bibl>
+
+               <bibl>Zarncke, Friedrich (1879). Der Priester Johannes. Leipzig.</bibl>
+            </listBibl>
+            <listBibl>
+               <bibl>4. Studi moderni</bibl>
+               <bibl>Abeydeera, Ananda (1994). «Taprobane, Ceylan ou Sumatra? Une confusion
+                  féconde». Archipel, 47, pp. 87-124.</bibl>
+
+               <bibl>Acerbi, Silvia (2006). «Il potere dei monaci nei concili orientali del V
+                  secolo: il costantinopolitano Eutiche e il siro Bar Sauma». Studia historica.
+                  Historia antigua, 24, pp. 291-313.</bibl>
+
+               <bibl>Agnew, Neville; Jinshi Fan (1997). «China buddhist treasures at Dunhuang».
+                  Scientific American, 277 (1), pp. 40-45.</bibl>
+
+               <bibl>Agrimi, Jole (2002). «Ingeniosa scientia nature». Studi sulla fisiognomica
+                  medievale. Tavarnuzze: Ed. del Galluzzo.</bibl>
+
+               <bibl>Agrimi, Jole; Crisciani, Chiara (1980). Malato, medico e medicina nel Medioevo.
+                  Torino: Loescher.</bibl>
+
+               <bibl>Albarel, Paul (1922-1923). «Un troubadour archevêque de Narbonne et pape».
+                  Bulletin de la Commission archéologique de Narbonne, 15, pp. 328-339.</bibl>
+
+               <bibl>Allaire, Gloria (2000). «Zaiton». In: Friedman, Figg (2000), p. 663.</bibl>
+
+               <bibl>Allsen, Thomas T. (1987). Mongol imperialism: The policies of the Grand Qan
+                  Möngke in China, Russia, and the Islamic lands, 1251-1259. Berkeley: University of
+                  California Press.</bibl>
+
+               <bibl>Allsen, Thomas T. (1997). Commodity and exchange in the Mongol empire.
+                  Cambridge: Cambridge University Press.</bibl>
+
+               <bibl>Almagià, Roberto (1944). Monumenta Cartographica Vaticana. I. Planisferi, carte
+                  nautiche e affini dal secolo XIV al XVII. Città del Vaticano: Biblioteca
+                  Apostolica Vaticana.</bibl>
+
+               <bibl>Alpago Novello, Adriano (1981). «L’Armenia al tempo di Marco Polo (secolo
+                  XIII)». In: Zorzi (1981a), pp. 69-100.</bibl>
+
+               <bibl>Amir-Moezzi, Mohammad Ali (2007). Dizionario del Corano. Edizione italiana a c.
+                  di Ida Zilio Grandi. Milano: Mondadori.</bibl>
+
+               <bibl>Andreose, Alvise (2002). «La prima attestazione della versione VA del Milione
+                  (ms. 3999 della Biblioteca Casanatense di Roma). Studio linguistico». Critica del
+                  testo, 5, pp. 655-668.</bibl>
+
+               <bibl>Andreose, Alvise (2011). «Introduzione», parr. 5-6. In: Burgio (2011), pp.
+                  XXIX-XXXVI.</bibl>
+
+               <bibl>Andreose, Alvise (2012). La strada, la Cina, il cielo: studi sulla «Relatio» di
+                  Odorico da Pordenone e sulla sua fortuna romanza. Soveria Mannelli:
+                  Rubbettino.</bibl>
+
+               <bibl>Andreose, Alvise (2015). «Marco Polo’s Devisement dou monde and Franco-Italian
+                  tradition». Francigena, 1, pp. 261-291.</bibl>
+
+               <bibl>Andreose, Alvise (2015b). «Marco Polo e il ponte sul fiume Pulisanghin». In:
+                  Sorin Șipoș, Dan Octavian Cepraga, Ion Gumenâi (a cura di), Tradiții istorice
+                  românești și perspective europene. Oradea-Chișinău, pp. 118-132.</bibl>
+
+               <bibl>Andreose, Alvise; Barbieri, Alvaro (2011). «Il secondo libro». In: Burgio
+                  (2011), pp. 79-123.</bibl>
+
+               <bibl>Andreose, Alvise; Ménard, Philippe (a cura di) (2010). Le voyage en Asie
+                  d’Odoric de Pordenon traduit par Jean Le Long OSB. Genève: Droz.</bibl>
+
+               <bibl>Apffel Marglin, Frédérique (1994). «Ierodulia». In: Eliade (1994), pp.
+                  267-272.</bibl>
+
+               <bibl>Armstrong, Karen (1999). Gerusalemme: Storia di una città tra ebraismo,
+                  cristianesimo e Islam. Milano: Mondadori.</bibl>
+
+               <bibl>Ashtor, Elyiahu (1956). «The Kārimī Merchants». Journal of the Royal Asiatic
+                  Society, 1 (2), pp. 45-56.</bibl>
+
+               <bibl>Ashtor, Elyiahu (1976). «The Venetian cotton trade in Syria in the later middle
+                  ages». Studi Medievali, 17, pp. 675-715.</bibl>
+
+               <bibl>Atiya, Aziz S. (1968). A History of Eastern Christianity. London: Methuen and
+                  Co.</bibl>
+
+               <bibl>Atwood, Cristopher (2004). Encyclopedia of Mongolia and the Mongol Empire. New
+                  York: Facts on File.</bibl>
+
+               <bibl>Ayalon, David (1977). Studies on the Mamluks of Egypt (1250-1517). London:
+                  Variorum Reprints.</bibl>
+
+               <bibl>Babueva, Valentina Damdinovna (2001). Mir tradicij burjat. Ulan-Ude.</bibl>
+
+               <bibl>Bacqué-Grammont, Jean-Louis; Bernardini, Michele (2007). L’Arbre anthropogène
+                  du Waqwaq. Napoli: Università degli Studi di Napoli «L’Orientale».</bibl>
+
+               <bibl>Badwi, P. Abdo; Baroudi, Fady (2006). «Le couvent de Mar Barsauma. Rédecouverte
+                  du site». Parole de l’Orient, 31, pp. 243-256.</bibl>
+
+               <bibl>Balazs, Étienne (a cura di) (1957). Oriente poliano. Roma: Is.M.E.O.</bibl>
+
+               <bibl>Bancourt, Paul (1982). Les Musulmans dans les Chansons de Geste du Cycle du
+                  roi. Aix en Provence; Marseille.</bibl>
+
+               <bibl>Barbieri, Alvaro (2001). «La prima attestazione della versione VA del Milione».
+                  Critica del testo, 4, pp. 493-526.</bibl>
+
+               <bibl>Barbieri, Alvaro (2004). Dal viaggio al libro: Studi sul Milione. Verona:
+                  Fiorini.</bibl>
+
+               <bibl>Barbieri, Alvaro (2011). «Introduzione», par. 1. In: Burgio (2011), pp.
+                  VII-XVII.</bibl>
+
+               <bibl>Barfield, Thomas J. (1989). The Perilous Frontier. Oxford; Cambridge:
+                  Blackwell.</bibl>
+
+               <bibl>Bartolini, Gabriella; Cardini, Franco (a cura di) (1991). Nel nome di Dio
+                  facemmo vela. Roma; Bari: Laterza.</bibl>
+
+               <bibl>Bausani, Alessandro (1975). «Marco Polo e l’Islam». In: Lanciotti (1975), pp.
+                  21-28.</bibl>
+
+               <bibl>Battaglia Ricci, Lucia (2000). «Del Madagascar...». In: Masiello (2000), pp.
+                  3-25.</bibl>
+
+               <bibl>Bawden, Charles (1955). The Mongol chronicle Altan tobči. Wiesbaden:
+                  Harrassowitz.</bibl>
+
+               <bibl>Beckingham, Charles F. (1983). «Some notes on Socotra». In: Bidwell; Smith
+                  (1983), pp. 172-181.</bibl>
+
+               <bibl>Beckingham, Charles F.; Hamilton, Bernard (a cura di) (1996). Prester John, the
+                  Mongols and the ten lost tribes. Aldershot: Variorum.</bibl>
+
+               <bibl>Beckwith, C. (2009). Empires of the Silk Road. Princeton; Oxford: Princeton
+                  University Press.</bibl>
+
+               <bibl>Bedigian, Dorothea (2004). «History and Lore of Sesame in Southwest Asia».
+                  Economic Botany, 58 (3), pp. 329-353.</bibl>
+
+               <bibl>Bernand, Carmen; Gruzinski, Serge (1988). Dell’idolatria. Torino:
+                  Einaudi.</bibl>
+
+               <bibl>Bernardini, Michele (2003). Storia del mondo islamico. Torino: Einaudi.</bibl>
+
+               <bibl>Bernardini, Michele; Guida, Donatella (2012). I Mongoli. Torino:
+                  Einaudi.</bibl>
+
+               <bibl>Bertolucci Pizzorusso, Valeria (a cura di) (1975). Marco Polo: Milione. Milano:
+                  Adelphi.</bibl>
+
+               <bibl>Bertolucci Pizzorusso (1977). «Enunciazione e produzione del testo nel
+                  Milione». Studi Mediolatini e Volgari, 25, pp. 5-43.</bibl>
+
+               <bibl>Bertolucci Pizzorusso, Valeria (2011). Scritture di viaggio. Roma:
+                  Aracne.</bibl>
+
+               <bibl>Bhacker, Mohammed Reda; Bhaker, Bernadette (2004). «Qalhāt in Arabian history».
+                  Journal of Oman Studies, 13, pp. 11-55.</bibl>
+
+               <bibl>Biran, Michal (1997). Qaidu and the Rise of the Independent Mongol State.
+                  Richmond: Curzon.</bibl>
+
+               <bibl>Bologna, Corrado (1997). «Alessandro e i mondi altri». In: Liborio (1997), pp.
+                  265-387.</bibl>
+
+               <bibl>Bonine, Michael Edward (1980). Yazd, and its hinterland. Marburg.</bibl>
+
+               <bibl>Borlandi, Franco (1962). «All’origine del libro di Marco Polo». In: Studi in
+                  onore di Amintore Fanfani. Milano: Giuffrè.</bibl>
+
+               <bibl>Borsari, Silvano (1997). «I Veneziani delle colonie». In: Storia di Venezia.
+                  Roma: Treccani.</bibl>
+
+               <bibl>Boulnois, Luce (2007). La via della seta. Milano: Bompiani.</bibl>
+
+               <bibl>Bouloux, Nathalie (2002). Culture et savoirs géographiques en Italie. Turnhout:
+                  Brepols.</bibl>
+
+               <bibl>Boyle John A. (1971). The Successors of Genghis Khan. New York: Columbia
+                  University Press.</bibl>
+
+               <bibl>Branca, Vittore (1994). «Dal favoloso al realistico». In: Zorzi (1994), pp.
+                  39-60.</bibl>
+
+               <bibl>Braudel, Fernand (a cura di) (1985). L’Oriente: Storie di viaggiatori italiani.
+                  Milano: Electa.</bibl>
+
+               <bibl>Bretschneider, Emil (1876). Archeological and Historical Researches on Peking.
+                  Shanghai.</bibl>
+
+               <bibl>von den Brincken, Anne D. (2000). «Eastern Christianity». In: Friedman, Figg
+                  (2000), pp. 157-160.</bibl>
+
+               <bibl>Brown, Leslie (1982). The Indian Christians of St. Thomas. Cambridge: Cambridge
+                  University Press.</bibl>
+
+               <bibl>Brunello, Franco (1986). Marco Polo e le merci d’Oriente. Vicenza: Neri
+                  Pozza.</bibl>
+
+               <bibl>Burgio, Eugenio (1998). «In partibus aquilonis». Critica del Testo, 1, pp.
+                  809-869.</bibl>
+
+               <bibl>Burgio, Eugenio (2003). «Forma e funzione autobiografica nel Milione». In:
+                  Bruni (2003), pp. 37-55.</bibl>
+
+               <bibl>Burgio, Eugenio (2005). «Marco Polo e gli “idolatri”». In: Barillari (2005),
+                  pp. 31-62.</bibl>
+
+               <bibl>Burgio, Eugenio (2008). «Una nota per il Milione». In: Giachino (2008), pp.
+                  47-73.</bibl>
+
+               <bibl>Burgio, Eugenio (2009). «Cartografie del viaggio». Critica del testo, 12, pp.
+                  59-106.</bibl>
+
+               <bibl>Burgio, Eugenio (a cura di) (2011). Giovanni Battista Ramusio “editor” del
+                  Milione. Roma; Padova: Antenore.</bibl>
+
+               <bibl>Burgio, Eugenio (2013). «Il Devisement du Monde». Medioevo Romanzo, 37, pp.
+                  63-87.</bibl>
+
+               <bibl>Burgio, Eugenio (2014). «Achbaluch...». In: Canettieri; Punzi (2014), pp.
+                  359-373.</bibl>
+
+               <bibl>Burgio, Eugenio (c.s.). «Tra Aden e Alessandria». In: Divizia (c.s.).</bibl>
+
+               <bibl>Burgio, Eugenio; Eusebi, Mario (2008). «Per una nuova edizione del Milione».
+                  In: Conte (2008), pp. 17-48.</bibl>
+
+               <bibl>Burgio, Eugenio; Fornasiero, Serena (2011). «Il terzo libro». In: Burgio
+                  (2011), pp. 125-152.</bibl>
+
+               <bibl>Burgio, Eugenio; Gennari, Pamela (2011). «Introduzione», par. 4. In: Burgio
+                  (2011), pp. XXVI-XXIX.</bibl>
+
+               <bibl>Burgio, Eugenio; Mascherpa, Giuseppe (2007). «Milione latino». In: Oniga;
+                  Vatteroni (2007), pp. 119-158.</bibl>
+
+               <bibl>Burgio, Eugenio; Simion, Samuela (c.s.). «Il progetto “Per una nuova edizione
+                  del Milione”». In: Buchi; Chauveau; Pierrel (c.s.).</bibl>
+
+               <bibl>Burgio, Eugenio; Simion, Samuela (in prep.). «Nel paese delle donne dai molti
+                  mariti».</bibl>
+
+               <bibl>Burnett, Charles (1978). «Arabic into Latin in twelfth century Spain».
+                  Mittellateinisches Jahrbuch, 13, pp. 100-134.</bibl>
+
+               <bibl>Burns, Ross (2005). Damascus: A history. London; New York: Routledge.</bibl>
+
+               <bibl>Burton, Robert V.; Whiting, John W. M. (1961). «The Absent Father».
+                  Merrill-Palmer Quarterly, 7, pp. 85-95.</bibl>
+
+               <bibl>Bury, John Bagnell (1886). «The Lombards and Venetians in Euboia». Journal of
+                  Hellenic Studies, 7, pp. 309-351.</bibl>
+
+               <bibl>Busolini, Dario (1999). «Gastaldi, Giacomo». Dizionario Biografico degli
+                  Italiani.</bibl>
+
+               <bibl>Bussagli, Mario (1981). «La grande Asia di Marco Polo». In: Zorzi (1981a), pp.
+                  176-226.</bibl>
+
+               <bibl>Buzzoni, Marina; Burgio, Eugenio; Modena, Martina; Simion, Samuela (c.s.).
+                  «Open vs Closed Recensions». DSH Special Issue.</bibl>
+
+               <bibl>Byrne, Joseph P. (2000). African Trade (Non-Mediterranean). In: Friedman, Figg
+                  (2000), pp. 5-7.</bibl>
+               <bibl>Caby, Cécile (1999). De l’érémitisme rural au monachisme urbain. Les Camaldules
+                  en Italie à la fin du Moyen Âge. Roma: École Française de Rome.</bibl>
+
+               <bibl>Caillois, Roger (1998). Il mito e l’uomo. Torino: Bollati Boringhieri.</bibl>
+
+               <bibl>Cardona, Giorgio Raimondo (1975). «Indice ragionato». In: Bertolucci Pizzorusso
+                  (1975), pp. 488-761.</bibl>
+
+               <bibl>Cary, George (1956). The Medieval Alexander. Cambridge: Cambridge University
+                  Press.</bibl>
+
+               <bibl>Castellani, Arrigo (2000). Grammatica storica della lingua italiana. Bologna:
+                  il Mulino.</bibl>
+
+               <bibl>Cattaneo, Angelo (2003). «Fra Mauro Cosmographus Incomparabilis...». In:
+                  Cattaneo; Ramada Curto; Ferrand Almeida (a cura di), La cartografia europea.
+                  Firenze: Olschki, pp. 19-48.</bibl>
+
+               <bibl>Cattaneo, Angelo (2005a). La mappamundi di Fra Mauro camaldolese. Firenze:
+                  European University Institute.</bibl>
+
+               <bibl>Cattaneo, Angelo (2005b). «Scritture di viaggio e scrittura cartografica».
+                  Itineraria, 3-4, pp. 157-202.</bibl>
+
+               <bibl>Cattaneo, Angelo (2005c). «Letture e lettori della Geografia di Tolomeo».
+                  Geographia Antiqua, 4-5, pp. 41-65.</bibl>
+
+               <bibl>Cattaneo, Angelo (2011). Fra Mauro’s Mappa Mundi and Fifteenth Century Venice.
+                  Turnhout: Brepols.</bibl>
+
+               <bibl>Cattaneo, Angelo (2014). «Scomparsa e ricomparsa di un autore». In: Caby;
+                  Licciardello (a cura di), Camaldoli e l’ordine camaldolese. Cesena: Centro storico
+                  benedettino italiano, pp. 485-522.</bibl>
+
+               <bibl>Cavallo, Guglielmo (1992). Scheda codicologica del ms. Ricc. 983. In:
+                  Cristoforo Colombo e l’apertura degli spazi. Roma: Istituto Poligrafico e Zecca
+                  dello Stato, pp. 476-447.</bibl>
+
+               <bibl>Cerulli, Enrico (1943). Etiopi in Palestina. Roma: La Libreria dello
+                  Stato.</bibl>
+
+               <bibl>Chang, Huei-sheng (1970). «Africa and the Indian Ocean in Chinese Maps». Imago
+                  mundi, 24, pp. 21-30.</bibl>
+
+               <bibl>Charmasson, Thérèse (1980). Recherches sur la géomancie médiévale. Genève;
+                  Paris: Droz-Champion.</bibl>
+
+               <bibl>Chartier, Roger (1998). Au bord de la falaise. Paris: Albin Michel.</bibl>
+
+               <bibl>Chaudhuri, Kirti N. (1994). L’Asia prima dell’Europa. Roma: Donzelli.</bibl>
+
+               <bibl>Chebel, Malek (1995). Dictionnaire des symboles musulmans. Paris: Albin
+                  Michel.</bibl>
+
+               <bibl>Choksy, Jansheed K. (2004). «Iranians and Indians on the shores of Serendib».
+                  In: Hinnels; Williams (a cura di), Parsis in India. London; New York: Routledge,
+                  pp. 181-210.</bibl>
+
+               <bibl>Cicogna, Emmanuele Antonio (1827). Delle inscrizioni veneziane. Venezia:
+                  Giuseppe Picotti.</bibl>
+
+               <bibl>Cigni, Fabrizio (2000). «La ricezione medievale della letteratura francese».
+                  In: Werner (a cura di), Fra toscanità e italianità. Tübingen: Francke, pp.
+                  71-108.</bibl>
+
+               <bibl>Cigni, Fabrizio (2006). «Copisti prigionieri». In: Beltrami (a cura di), Studi
+                  di filologia romanza. Ospedaletto: Pacini, pp. 425-439.</bibl>
+
+               <bibl>Cigni, Fabrizio (2008). «Prima del Devisement dou monde». In: Conte (2008), pp.
+                  219-231.</bibl>
+
+               <bibl>Cigni, Fabrizio (2010). «Manuscrits en français, italien et latin». In:
+                  Kleinhenz; Busby (a cura di), Medieval Multilingualism. Turnhout: Brepols, pp.
+                  187-202.</bibl>
+
+               <bibl>Clauson, Gerard (1972). An etymological dictionary of pre-thirteenth-century
+                  Turkish. Oxford: Clarendon Press.</bibl>
+
+               <bibl>Cleaves, Francis W. (1956). «The biography of Bayan». Harvard Journal of Asian
+                  Studies, 19, pp. 185-303.</bibl>
+
+               <bibl>Cohen, Gustave (1951). «La couvade». Studi medievali, 17, pp. 114-123.</bibl>
+
+               <bibl>Collina, Abbondio (1748). Considerazioni istoriche sulla bussola nautica.
+                  Faenza.</bibl>
+
+               <bibl>Concina, Chiara (2007). «Prime indagini su un frammento del Milione». Romania,
+                  125, pp. 342-369.</bibl>
+
+               <bibl>Conte, Silvia (a cura di) (2008). I viaggi del Milione. Roma:
+                  Tiellemedia.</bibl>
+
+               <bibl>Conti Rossini, Carlo (1940). «Marco Polo e l’Etiopia». Atti del Reale Istituto
+                  Veneto, 99, pp. 1021-1039.</bibl>
+
+               <bibl>Contini, Gianfranco (1976). «Una nuova edizione del Milione». La Repubblica
+                  (ora in Contini 1989).</bibl>
+
+               <bibl>von Contzen, Eva (2013). «Marco Polo in the Scottish Legendary». Notes and
+                  Queries, 60, pp. 196-198.</bibl>
+
+               <bibl>Cracco, Giorgio; Ortalli, Gherardo (a cura di) (1995). Storia di Venezia, vol.
+                  II. Roma: Treccani.</bibl>
+
+               <bibl>Cuneo, Paolo (1992). «Baghdad». Enciclopedia dell’Arte Medievale.</bibl>
+
+               <bibl>Cuneo, Paolo (1995). «Erzurum». Enciclopedia dell’Arte Medievale.</bibl>
+
+               <bibl>Daffinà, Paolo (1989). Note a Menestò (1989), pp. 401-496.</bibl>
+
+               <bibl>Daftary, Farhad (1994). The Assassin Legends. London; New York: Tauris.</bibl>
+
+               <bibl>Daftary, Farhad (2007). The Ismā‘īlīs. Cambridge: Cambridge University
+                  Press.</bibl>
+
+               <bibl>D’Ancona, Alessandro (1912). «La leggenda di Maometto in Occidente». Bologna:
+                  Zanichelli.</bibl>
+
+               <bibl>Dankoff, Robert; Kelly, James (1984). Compendium of the Turkic dialects.
+                  Harvard.</bibl>
+
+               <bibl>D’Ascia, Luca (2001). Il Corano e la tiara. Bologna: Pendragon.</bibl>
+
+               <bibl>Davies, Arthur (1977). «Behaim, Martellus and Columbus». The Geographical
+                  Journal, 143, pp. 451-459.</bibl>
+
+               <bibl>Dawson, Warren R. (1929). The Custom of Couvade. Manchester: Manchester
+                  University Press.</bibl>
+
+               <bibl>De Anna, Luigi Giuliano (2003). «Sesso lappone». Itineraria, 2, pp.
+                  305-324.</bibl>
+
+               <bibl>De Biasio, Antonio (2013). Odorico da Pordenone in Cina. Città del Vaticano:
+                  Editrice Vaticana.</bibl>
+
+               <bibl>Décobert, Christian (1998). «Alexandrie au XIIIe siècle». In: Décobert;
+                  Empereur (a cura di), Alexandrie médiévale. Le Caire: IFAO, pp. 71-100.</bibl>
+
+               <bibl>Defrémery, Charles-François; Sanguinetti, Beniamino; Gibbs, Hamilton
+                  (1958-1971). The travels of Ibn Baṭṭūṭa. Cambridge: Hakluyt Society.</bibl>
+
+               <bibl>Delahaye, Hippolyte (1921). Les Passions des martyrs. Bruxelles: Société des
+                  Bollandistes.</bibl>
+
+               <bibl>Deluz, Christiane (1993). «Villes et organisation de l’espace». In: Bourin (a
+                  cura di), Villes... Tours.</bibl>
+
+               <bibl>Demiéville, Paul (1957). «La situazione religiosa in Cina». In: Balazs (1957),
+                  pp. 193-236.</bibl>
+
+               <bibl>Dennis, George T. (1973). «Problemi storici veneziani». In: Pertusi (1973), pp.
+                  219-235.</bibl>
+
+               <bibl>Desantis, Giovanni (a cura di) (1992). Pseudo-Palladio. Roma: Città
+                  Nuova.</bibl>
+
+               <bibl>Devic, L.-Marcel (1883). Le pays des Zendjs. Paris: Hachette.</bibl>
+
+               <bibl>Devos, Paul (1948). «Le miracle de Saint Thomas». Analecta Bollandiana, 66, pp.
+                  231-275.</bibl>
+
+               <bibl>Di Cosmo, Nicola (2002). Ancient China and its enemies. Cambridge: Cambridge
+                  University Press.</bibl>
+
+               <bibl>Di Palma, Maria Teresa (1985). «Cartografia medievale». In: Braudel (1985), pp.
+                  88-107.</bibl>
+
+               <bibl>Divizia, Paolo (a cura di) (c.s.). Il viaggio del testo. Firenze:
+                  Cesati.</bibl>
+
+               <bibl>Doerfer, Gerhard (1963). Türkische und mongolische Elemente im Neupersischen.
+                  Wiesbaden.</bibl>
+
+               <bibl>Doerfer, Gerhard (1965). Türkische Elemente im Neupersischen. Wiesbaden.</bibl>
+
+               <bibl>Doerfer, Gerhard (1967). Türkische und mongolische Elemente im Neupersischen.
+                  Wiesbaden.</bibl>
+
+               <bibl>Dognini, Cristiano; Ramelli, Ilaria (2001). Gli apostoli in India. Milano:
+                  Medusa.</bibl>
+
+               <bibl>Donattini, Massimo (1980). «G.B. Ramusio». Critica storica, 17, pp.
+                  55-100.</bibl>
+
+               <bibl>Donkin, Robin A. (1998). Beyond price. Philadelphia: American Philosophical
+                  Society.</bibl>
+
+               <bibl>Dozy, Reinhart (1981). Supplément aux dictionnaires arabes. Beyrouth.</bibl>
+
+               <bibl>Dronke, Peter (1997). Introduzione. In: Liborio (1997).</bibl>
+
+               <bibl>Duffy, Eamon (2000). La grande storia dei papi. Milano: Mondadori.</bibl>
+
+               <bibl>Dunn, Ross E. (2005). Ibn Baṭṭūṭa. Milano: Garzanti.</bibl>
+
+               <bibl>Dursteler, Eric R. (2006). Venetians in Constantinople. Baltimore: Johns
+                  Hopkins University Press.</bibl>
+
+               <bibl>Dutschke, Consuelo W. (1993). Francesco Pipino and Marco Polo. UCLA.</bibl>
+
+               <bibl>Edson, Evelyn; Savage-Smith, Emilie (2004). Medieval Views of the Cosmos.
+                  Oxford.</bibl>
+
+               <bibl>Eliade, Mircea (1989). Il mito della reintegrazione. Milano: Jaca Book.</bibl>
+
+               <bibl>Eliade, Mircea (a cura di) (1994). Enciclopedia delle religioni. Milano: Jaca
+                  Book.</bibl>
+
+               <bibl>Emmerick, Ronald E. (1992). A guide to the literature of Khotan. Tokyo.</bibl>
+
+               <bibl>Engels, Peter (a cura di) (1992). Wilhelm von Tripolis. Würzburg:
+                  Echter.</bibl>
+
+               <bibl>Erbetta, Mario (1980). Gli Apocrifi del Nuovo Testamento. Torino:
+                  Marietti.</bibl>
+
+               <bibl>Erdal, Marcel (1991). Old Turkic Word Formation. Wiesbaden:
+                  Harrassowitz.</bibl>
+
+               <bibl>Erdal, Marcel (2009). «What did the Old Turks call fermented mares’ milk?».
+                  Beijing.</bibl>
+
+               <bibl>Ericksen Paige, Karen; Paige, Jeffrey M. (1981). The Politics of Reproductive
+                  Ritual. Berkeley: University of California Press.</bibl>
+
+               <bibl>Fabrizio, Daniela (2011). Il profeta della discordia. Roma: Aracne.</bibl>
+
+               <bibl>Fahd, Toufic (1966). La divination arabe. Leiden: Brill.</bibl>
+
+               <bibl>Falchetta, Piero (1995). «Marinai, mercanti, cartografi». Ateneo Veneto, 182,
+                  pp. 7-109.</bibl>
+
+               <bibl>Falchetta, Piero (2000). «Carte veneziane dell’Asia». In: Curatola (a cura di),
+                  Sciamani e dervisci. Venezia.</bibl>
+
+               <bibl>Falchetta, Piero (2006). Fra Mauro’s World Map. Turnhout: Brepols.</bibl>
+
+               <bibl>Falchetta, Piero (2011). «Il mappamondo di Fra Mauro». Studi veneziani, 62-64,
+                  pp. 225-244.</bibl>
+
+               <bibl>Ferreira Reis Thomaz, Luis Filipe (2002). «Entre l’histoire et l’utopie». In:
+                  Weber (a cura di), Les civilisation dans le regard de l’autre. Paris.</bibl>
+
+               <bibl>Fiorani Piacentini, Valeria (1982). «L’emporio ed il regno di Hormuz». Memorie
+                  dell’Istituto Lombardo.</bibl>
+
+               <bibl>Fiorani Piacentini, Valeria (2004-2005). «Le radici antiche dell’oggi». Civiltà
+                  del Mediterraneo.</bibl>
+
+               <bibl>Folena, Gianfranco (1971-1973). «Prime immagini colombiane». In: Folena 1991,
+                  pp. 98-118.</bibl>
+
+               <bibl>Formisano, Luciano (a cura di) (1985). Amerigo Vespucci: Lettere di viaggio.
+                  Milano: Mondadori.</bibl>
+
+               <bibl>Formisano, Luciano (1999). «Presentazione». In: Canova (1999), pp.
+                  VII-XIII.</bibl>
+
+               <bibl>Formisano, Luciano (2006). Codice Vaglienti. Firenze: Polistampa.</bibl>
+
+               <bibl>Friedman, John B.; Figg, Kristen M. (a cura di) (2000). Trade, Travel, and
+                  Exploration. New York; London: Garland.</bibl>
+
+               <bibl>Frye, Richard Nelson (1983). The History of Ancient Iran. München.</bibl>
+
+               <bibl>Frye, Richard N. (2005). Ibn Fadlan’s journey to Russia. Princeton.</bibl>
+               <bibl>Gadrat, Christine (a cura di) (2005). Une image de l’Orient au XIVe siècle: Les
+                  Mirabilia descripta de Jordan Catala de Sévérac. Édition, traduction et
+                  commentaire. Préface de Jean Richard. Paris: École des chartes.</bibl>
+               <bibl>Gallo, Rodolfo (1955). «La mappa dell’Asia della Sala dello Scudo in palazzo
+                  Ducale e il “Milione” di Marco Polo». In: Nel VII centenario della nascita di
+                  Marco Polo. Venezia: Istituto Veneto di Scienze, Lettere e Arti, pp.
+                  197-231.</bibl>
+               <bibl>Garitte, Gérard (1955). «La Passion de S. Irénarque de Sébastée et la Passion
+                  de S. Blaise». Analecta Bollandiana, 73, pp. 18-55.</bibl>
+               <bibl>Gasparrini Leporace, Tullia (a cura di) (1956). Il Mappamondo di Fra Mauro
+                  camaldolese. Con la presentazione di Roberto Almagià. Roma: Poligrafico della
+                  Zecca dello Stato.</bibl>
+               <bibl>Gatto, Ludovico (1959). Il Pontificato di Gregorio X (1271-1276). Roma:
+                  Istituto Storico Italiano per il Medio Evo.</bibl>
+               <bibl>Gautier Dalché, Patrick (2004). «Weltdarstellung und Selbsterfahrung: Der
+                  Kartograph Fra Mauro». In: Heimann, Heinz-Dieter; Monnet, Pierre (a cura di),
+                  Kommunication mit dem Ich: Signaturen der Selbstzeugnisforschung an europäischen
+                  Beispielen des 12. bis 16. Jahrhunderts. Bochum: Winkler, pp. 39-51.</bibl>
+               <bibl>Gautier Dalché, Patrick (2009). La géographie de Ptolémée en Occident (Ive-XVIe
+                  siècle). Turnhout: Brepols.</bibl>
+               <bibl>Gennari, Pamela (2009). «Sui rapporti tra i codici della redazione VB del
+                  Milione». Quaderni Veneti, 49-50, pp. 39-66.</bibl>
+               <bibl>Ghersetti, Antonella (1996). «Firāsa and intelligence. The Silly and the
+                  Intelligent in Arab Physiognomy». Arabist, 17, pp. 121-131.</bibl>
+               <bibl>Gobbato, Veronica (2009). «La Historia della Armenia di Marco Polo». Il ms.
+                  Palatino 318 della Biblioteca Palatina di Parma e la tradizione di un
+                  rimaneggiamento veneto del Milione». Quaderni Veneti, 49-50, pp. 67-102.</bibl>
+               <bibl>Gobbato, Veronica (c.s.). «Un caso precoce di tradizione indiretta del Milione
+                  di Marco Polo: il Liber de introductione loquendi di Filippino da Ferrara O.P.».
+                  Filologia mediolatina, 22.</bibl>
+               <bibl>Golden, Peter B. (1992). An introduction to the history of the Turkic peoples:
+                  ethnogenesis and state-formation in medieval and early modern Eurasia and the
+                  Middle East. Wiesbaden: Harrassowitz.</bibl>
+               <bibl>Golden, Peter B. (1995-1997). «Cumanica IV. The tribes of the Cuman Qipčaqs».
+                  Archivum Eurasiae Medii Aevi, 9, pp. 99-122.</bibl>
+               <bibl>Golden, Peter B. (2014). «“Qıpčaq”». In Demir, Nurettin; Birsel Karakoç,
+                  Birsel; Menz Beygu Astrid (a cura di), Turcology and Linguistics: Festschrift Éva
+                  Ágnes Csató. Ankara: Hacettepe Üniversitesi Yayınları, pp. 183–202.</bibl>
+               <bibl>Goodman, Steven M. (1994). «Description of a new species of subfossil Eagle
+                  from Madagascar: Stephanoaetus (aves: Falconiformes) from the deposits of
+                  Ampasambazimba». Proceedings of the Biological Society of Washington, 107 (3), pp.
+                  421-428.</bibl>
+               <bibl>Gordon, Stewart (2008). When Asia was the World. Cambridge (Mass.): Da Capo
+                  Press. Trad. it.: Quando l’Asia era il mondo, 2009.</bibl>
+               <bibl>Gosman, Martin (1982). La lettre du Prêtre Jean: Les versions en ancien
+                  français et en ancien occitan: Textes et commentaires. Groningen: Bouma's Boekhuis
+                  bv.</bibl>
+               <bibl>Gosman, Martin (1983). «Otton de Freising et le Prêtre Jean». Revue belge de
+                  philologie et d’histoire, 61 (2), pp. 270-285.</bibl>
+               <bibl>Graf, Arturo (2002). Miti, leggende e superstizioni del Medio Evo. A cura di
+                  Clara Allasia e Walter Meliga. Introduzione di Marziano Guglielminetti. Saggi
+                  critici di Enrico Artifoni e Clara Allasia. Milano: Mondadori.</bibl>
+               <bibl>Greppi, Caterina A. (2003). Rābiʻa, la mistica. Milano: Jaca Book.</bibl>
+               <bibl>Greenblatt, Stephen (1991). Marvellous Possessions. The Wonder of the New
+                  World. Oxford; New York: Clarendon Press.</bibl>
+               <bibl>Gribbin, John (2005). Enciclopedia dell’astronomia e della cosmologia. Milano:
+                  Garzanti.</bibl>
+               <bibl>Gros, Rita M. (1994). «Couvade». In: Eliade (1994), 121-123.</bibl>
+               <bibl>Grossato, Alessandro (1994). Navigatori e viaggiatori veneti sulla rotta per
+                  l’India. Da Marco Polo ad Angelo Legrenzi. Prefazione di Stefano Rosso-Mazzinghi.
+                  San Giorgio Maggiore (Venezia): Fondazione Giorgio Cini.</bibl>
+               <bibl>Grossato, Alessandro (2008). «Alessandro Magno e l’India. Storico intreccio di
+                  miti e di simboli». In: Saccone (2008), pp. 275-312.</bibl>
+               <bibl>Grossel, Marie-Geneviève (1997). «L’Orient en miroir inverse. Le Roman de
+                  Mahomet d’Alexandre du Pont». In: Wodan. Greifswalder Beiträge zum Mittelalter,
+                  68, pp. 73-86.</bibl>
+               <bibl>Grousset, René (2011). Il conquistatore del mondo: vita di Gengis Khan. Milano:
+                  Adelphi [Trad. di: Le Conquérant du monde: vie de Gengis-khan, 1944].</bibl>
+               <bibl>Grønbech, Kaare (1942). Komanisches Wörterbuch. Türkischer Wortindex zu Codex
+                  Cumanicus. Kovenhavn: E. Munksgaard.</bibl>
+               <bibl>Guéret-Laferté, Michèle (a cura di) (2004). Poggio Bracciolini: De l’Inde: les
+                  voyages en Asie de Niccolò de’ Conti. De varietate fortunae, Livre 4, texte
+                  établi, traduit et commenté par Michèle Guéret-Laferté. Turnhout: Brepols.</bibl>
+               <bibl>Guerrieri, Elisabetta (2012). Clavis degli autori camaldolesi (secoli XI-XVI).
+                  Firenze: SISMEL-Edizioni del Galluzzo.</bibl>
+               <bibl>Hall, Kenneth R. (2000). «Malabar». In: Friedman, Figg (2000), pp.
+                  353-354.</bibl>
+               <bibl>Hallaq, Wael B. (2013). Introduzione al diritto islamico. Bologna: il
+                  Mulino.</bibl>
+               <bibl>Hallberg, Ivar (1906). L’Extrême Orient dans la littérature et la cartographie
+                  de l’Occident des XIIIe, XIVe et XVe siècles. Göteborg: Zachrisson.</bibl>
+               <bibl>Hambye, Edouard R., S.J. (1963). «L’apôtre Saint Thomas en Inde. Quelques
+                  réflexions». L’Orient syrien,8, pp. 413-424.</bibl>
+               <bibl>Hamilton, Bernard F. (1996). «Prester John and the Three Kings of Cologne». In:
+                  Beckingham, Hamilton (1996), pp. 171-185.</bibl>
+               <bibl>Hardy-Guilbert, Claire (2004). «Al-Šiḥr, porte du Ḥaḍramawt sur l’Océan
+                  Indien». Annales Islamologiques / Ḥawlīyāt Islāmīya, 38 (1), pp. 95-157.</bibl>
+               <bibl>Hardy-Guilbert, Claire (2005). «The harbour of Shiḥr, Ḥaḍramawt, Yemen: sources
+                  and archaeological data on trade». Proceedings of the Seminar for Arabian
+                  Studies,35, pp. 71-85.</bibl>
+               <bibl>Hardy-Guilbert, Claire; Le Maguer, Sterenn (2010). «Chihr de l’incens (Yémen)».
+                  Arabian Archaeology and Epigraphy, 21 (1), pp. 46-70.</bibl>
+               <bibl>Hauenschild, Ingeborg (2003). Die Tierbezeichnungen bei Mahmud al-Kaschgari,
+                  eine Untersuchung aus sprach- und kulturhistorischer Sicht. Wiesbaden:
+                  Harrassowitz.</bibl>
+               <bibl>Haw, Stephen G. (2006). Marco Polo’s China: A Venetian in the Realm of Khubilai
+                  Khan. New York: Routledge.</bibl>
+               <bibl>Hefele, Charles Joseph; Leclercq, Henry (1907-1949). Histoire des Conciles:
+                  D’après les documents originaux. 11 voll. Trad. fr. Paris: Letouzey et Ané.</bibl>
+               <bibl>Hewsen, Robert H. (1997). «The Geography of Armenia». In: Hovannisian, Richard
+                  G. (a cura di), The Armenian people from ancient to modern times, vol. 1. The
+                  dynastic periods: from antiquity to the Fourteenth century. New York: St. Martin's
+                  Press, pp. 1-17.</bibl>
+               <bibl>Hewsen, Robert H. (2004). «Armenia on the Halys River: Lesser Armenia and
+                  Sebastia». In: Hovannisian (2004), pp. 1-32.</bibl>
+               <bibl>Heyd, Guglielmo (1913). Storia del commercio del Levante nel Medio Evo. 2 voll.
+                  Torino: UTET.</bibl>
+               <bibl>Hirosue, Masashi (2005). «European Travelers and Local Informants in the Making
+                  of the Image of “Cannibalism” in North Sumatra». Memoirs of the Research
+                  Department of the Tokyo Bunko, 63, pp. 41-64.</bibl>
+               <bibl>Hirsch, Bertrand (1990). «L’espace nubien et éthiopien sur les cartes portulans
+                  du XIVe siècle». Médiévales, 18, pp. 69-92.</bibl>
+               <bibl>Honigmann, Ernest (1954). Le couvent de Barṣaumā et le patriarcat jacobite
+                  d’Antioche et de Syrie. Louvain: Durbecq.</bibl>
+               <bibl>Hoogvliet, Margriet (2007). Pictura et Scriptura: textes, images et
+                  herméneutique des mappae mundi (13-16 siècle). Turnhout: Brepols.</bibl>
+               <bibl>Hopkirk, Peter (2006). Diavoli stranieri sulla via della seta. Milano:
+                  Adelphi.</bibl>
+               <bibl>Hourani, George F. (1995). Arab seafaring in the Indian Ocean in ancient and
+                  early medieval times. Revised and expanded by John Carswell. Princeton: Princeton
+                  University Press.</bibl>
+               <bibl>Hovannisian, Richard G. (a cura di) (2004). Armenian Sebastia/Sivas and Lesser
+                  Armenia. Costa Mesa: Mazda.</bibl>
+               <bibl>Hovannisian, Richard G. (2004). Armenian Sebastia/Sivas and Lesser Armenia. In:
+                  Hovannisian (2004), pp. 1-32.</bibl>
+               <bibl>Hoyland, Robert (2005). «Physiognomy in Islam». Jerusalem Studies in Arabic and
+                  Islam, 30, pp. 361-402</bibl>
+               <bibl>Iwanczak, Wojciech (1990). «Entre l’espace ptolémaïque et l’empirie: les cartes
+                  de fra Mauro». Médiévales, 18, pp. 53-68.</bibl>
+               <bibl>Jackson, Peter; Morgan, David (a cura di) (1990). The Mission of Friar William
+                  of Rubruck: His Journey to the Court of the Great Khan Möngke, 1253-1255. London:
+                  Hakluyt Society.</bibl>
+               <bibl>Jackson, Peter (2005). The Mongols and the West, 1221-1410. Harlow:
+                  Pearson.</bibl>
+               <bibl>Jacoby, David (1977). «L’Expansion occidentale dans le Levant: le Vénitiens à
+                  Acre dans la deuxième moitié du treizième siècle». Journal of Medieval History, 3,
+                  pp. 225-264.</bibl>
+               <bibl>Jacoby, David (1986). «A Venitian manual of commercial practice from crusader
+                  Acre». In: Airaldi, Gabriella; Kedar, Benjamin Z (a cura di), I comuni italiani
+                  nel regno crociato di Gerusalemme. Genova: Università di Genova, Istituto di
+                  medievistica, pp. 401-428.</bibl>
+               <bibl>Jacoby, David (1995). «La Venezia d’Oltremare nel secondo Duecento». In:Cracco,
+                  Ortalli (1995), pp. 263-299.</bibl>
+               <bibl>Jacoby, David (2003). «L’apogeo di Acri nel Medioevo, secc. XII-XIII». In: Le
+                  città del Mediterraneo all’apogeo dello sviluppo medievale: aspetti economici e
+                  sociali. Pistoia: C.I.S.S.A., pp. 487-519.</bibl>
+               <bibl>Jacoby, David (2005). «Aspects of Everyday Life in Frankish Acre». Crusades, 4,
+                  pp. 73-105.</bibl>
+               <bibl>Jacoby, David (2006). «Marco Polo, His Close Relatives, and His Travel Account:
+                  Some New Insights». Mediterranean Historical Review, 2, pp. 193-218.</bibl>
+               <bibl>Jal, Augustine (1848). Nouveau Glossaire Nautique d’Augustin Jal. (Révision de
+                  l’éd. publ. en 1848: 1978-). Paris-[La Haye]: Éds. du CNRS-[Mouton].</bibl>
+               <bibl>Janhunen, Juha (a cura di) (2003). The Mongolic languages. London; New York:
+                  Routledge.</bibl>
+               <bibl>Jazim, Muhammad Abd al-Rahim (2003-2005). Nur al-ma’arif, Lumière de la
+                  Connaissance: règles, lois et coutumes du Yemen sous le règne du sultan rassoulide
+                  al-Muzaffar. 2 voll. Ṣanʿāʾ: Centre Français d’Archéologie et de Sciences Sociales
+                  de Sanaa.</bibl>
+               <bibl>Jorga, Nicolae (1910). «Cenni sulle relazioni tra l’Abissinia e l’Europa
+                  cattolica nei secoli XIV-XV con un itinerario inedito del secolo XV». In:
+                  Centenario della nascita di Michele Amari: scritti di filologia e storia araba, di
+                  geografia, storia, diritto della Sicilia medievale, studi bizantini e giudaici
+                  relativi all’Italia meridionale nel Medio Evo, documenti sulle relazioni fra gli
+                  Stati italiani ed il Levante. 2 voll. Palermo: Stabilimento tipografico Virzì, pp.
+                  139-150.</bibl>
+               <bibl>Kapuściński, Ryszard (2003). Imperium. Milano: Feltrinelli.</bibl>
+               <bibl>Karpov, Sergej Pavlovich (1986). L’impero di Trebisonda Venezia Genova e Roma
+                  1204-1461: Rapporti politici, diplomatici e commerciali. Roma: Il Veltro.</bibl>
+               <bibl>Kaufhold, Hubert (2000). «Notizen zur Späten Geschichte des Barṣaumō-Klosters».
+                  Hugoye: Journal of Syriac Studies, 3 (2), pp. 223–246.</bibl>
+               <bibl>Keiser, Klaus (2012). Storia di Istanbul. Bologna: il Mulino.</bibl>
+               <bibl>King, David A. (1993). Astronomy in the Service of Islam. Farnham: Ashgate
+                  Variorum.</bibl>
+               <bibl>Kowalewski, Osip M. (1844). Dictionaire Mongol-Russe-Français. I. Kasan:
+                  Imprimerie de l’Université.</bibl>
+               <bibl>Kozin, Sergej (a cura di) (1988). Storia Segreta dei Mongoli. Parma:
+                  Guanda.</bibl>
+               <bibl>Krueger, John R. (1978). Materials for an Oirat-Mongolian to English citation
+                  dictionary. Bloomington: The Mongolian Society.</bibl>
+               <bibl>van der Kujp, Leonard W.J. (1996). «The ’Phags pa script». In: Daniels, Peter
+                  T.; Bright, William (a cura di), The world’s writing systems. New York: Oxford
+                  University Press, pp. 437-441.</bibl>
+               <bibl>Kulke, Hermann; Rothermund, Dietmar (1991). Storia dell’India. Milano:
+                  Garzanti. Trad.di: A History of India,1990.</bibl>
+               <bibl>Lachat, Paul (1967). «Une ambassade éthiopienne auprès de Clément V, à Avignon,
+                  en 1310». Annali del Pontificio Museo Missionario Etnologico, 31, pp. 9–21.</bibl>
+               <bibl>Lambton, A.K.S. (1999). «The Āthār wa aḥyāʾof Rashīd al-Dīn Faḍl Allāh Hamadānī
+                  and his contribution as an agronomist, arboriculturist and horticulturalist». In:
+                  Amitai-Preiss, Reuven; Morgan, David (a cura di), The Mongol Empire and its
+                  Legacy. Leiden: Brill, pp. 126-154.</bibl>
+               <bibl>Lang, Helen S. (1992). Aristotle’s Physics and its medieval varieties. Albany:
+                  State University of New York Press.</bibl>
+               <bibl>Laurent, M.-H. (1941). «Grégoire X et Marco Polo (1269-1271)». Mélanges
+                  d'archéologie et d'histoire, 58, pp. 132-144.</bibl>
+               <bibl>Lederer, Wolfgang (1973). Ginofobia: la paura delle donne. Milano: Feltrinelli.
+                  Trad. di: The Fear of Women, 1968.</bibl>
+               <bibl>Lefevre, Renato (1958). «Ricerche sull’imolese G.B. de Brocchi viaggiatore in
+                  Etiopia e curiale pontificio». Archivio della Società romana di storia patria, 12,
+                  pp. 55-118.</bibl>
+               <bibl>Le Goff, Jacques (1970). «L’Occident médiévale et l’océan Indien: un horizon
+                  onirique». In Id., Pour un autre Moyen Age. Paris: Gallimard, 1977, pp.
+                  280-298.</bibl>
+               <bibl>Leroy, Jules (1974). «Monachisme oriental aux Xe-XIIIe siècles». In: Actes des
+                  congrès de la Société des historiens médiévistes de l'enseignement supérieur
+                  public (5e congrès, Saint-Etienne, 1974). pp. 195-216.</bibl>
+               <bibl>Lessing, Ferdinand D. (a cura di) (1995). Mongolian-English Dictionary.
+                  Bloomington: The Mongolian Society.</bibl>
+               <bibl>Le Strange, Guy (1966). The Lands of the Eastern Caliphate. 2a ed. London;
+                  Liverpool: Frank Cass and Co.</bibl>
+               <bibl>Lettinck, Paul (1994). Aristotles Physics and its reception in the Arabic
+                  world. With an edition of the unpublished parts of ibn Bajjas Commentary on the
+                  Physics. Brill: Leiden.</bibl>
+               <bibl>Lewis, Bernard (1976). Studies in Classical and Ottoman Islam (7th-16th
+                  Centuries). London: Variorum Reprints.</bibl>
+               <bibl>Liborio, Mariantonia (a cura di) (1997). Alessandro nel Medioevo occidentale.
+                  Milano: Fondazione Lorenzo Valla/Mondadori.</bibl>
+               <bibl>Ligeti, Lajos (1970). «Le Tabghatch, un dialect de la langue Sien-pi». In: Id.
+                  (a cura di), Mongolian Studies. Budapest: Akadémiai Kiadó, pp. 265-308.</bibl>
+               <bibl>Ligeti, Lajos (1974). Histoire secrète des Mongols: texte en écriture ouigoure
+                  incorporé dans la Cronique Altan Tobči de BLo-bzan BsTan-ʻjin. Budapest: Akadémiai
+                  Kiadó.</bibl>
+               <bibl>Liu, Xinru (2001). The Silk Road in World History. Oxford: Oxford University
+                  Press.</bibl>
+               <bibl>Liverani, Mario (1991). Antico Oriente. Storia, società, economia, 2a ed. Bari:
+                  Laterza.</bibl>
+               <bibl>Longsworth Dames, Mansel (1921). The Book of Duarte Barbosa: An Account of the
+                  Countries Bordering on the Indian Ocean and Their Inhabitants: Written by Duarte
+                  Barbosa, and Completed About the Year 1518 Ad. H. 2 voll. London: Hakluyt
+                  Society.</bibl>
+               <bibl>Lucidi, Maria Teresa (1961). «Luristan, Arte del» [online]. In: Enciclopedia
+                  dell’Arte Antica. Disponibile all’indirizzo
+                  http://www.treccani.it/enciclopedia/arte-del-luristan_%28Enciclopedia-dell%27-Arte-Antica%29/
+                  (2015-02-01).</bibl>
+               <bibl>Luisetto, Frédéric (2007). Arméniens and autres chrétiens d’Orient sous la
+                  domination mongole. Paris: Geuthner.</bibl>
+               <bibl>Maccagni, Carlo (1993). «Leggere, scrivere e disegnare la “scienza volgare” nel
+                  Rinascimento». Annali della Scuola normale superiore di Pisa. Classe di lettere e
+                  filosofia, 23, pp. 631-676.</bibl>
+               <bibl>Magdalino, Paul (1996). Constantinople médiévale: étude sur l'évolution des
+                  structures urbaines. Paris: De Boccard.</bibl>
+               <bibl>Mallory, J.P.; Mair, Victor H. (2000). The Tarim Mummies. Ancient China and the
+                  mistery of the earliest peoples from the West. London: Thames and Hudson</bibl>
+               <bibl>Man, John (2006). Kublai Khan: From Xanadu to Superpower. London: Bantham
+                  Books.</bibl>
+               <bibl>Mandel, Jerome (2000). «Acre [Akko]». In: Friedman, Figg (2000), pp.
+                  1-2.</bibl>
+               <bibl>Marcato, Carla (2004>. «L'idronimo caligo: arabismo veneziano». In: «Le sorte
+                  dele parole». Testi veneti dalle origini all’Ottocento. Padova: Esedra, pp.
+                  45-50.</bibl>
+               <bibl>Marcon, Susy (2001). «Il Mappamondo di Fra Mauro e Leonardo Bellini». In:
+                  Piantoni, Mario; De Rossi, Laura (a cura di), Per l’arte: da Venezia all’Europa:
+                  Studi in onore di Giuseppe Maria Pilo. Venezia: Edizioni della Laguna, pp.
+                  103-108.</bibl>
+               <bibl>Margariti, Roxani Eleni (2007). Aden and the Indian Ocean trade: 150 years in
+                  the life of a medieval Arabian port. Chapel Hill: The University of North Carolina
+                  Press.</bibl>
+               <bibl>Markwart, Joseph (1924). «Ein arabischer Bericht über die arktischen
+                  (uralischen) Länder aus dem 10. Jahrhundert». Ungarische Jahrbücher, 4, pp.
+                  288-301.</bibl>
+               <bibl>Martino, Valentina (a cura di) (2011). Lodovico de Varthema: Itinerario.
+                  Edizione e commento a cura di Valentina Martino. Alessandria: Edizioni
+                  dell’Orso.</bibl>
+               <bibl>Mas Latrie, Louis de (1893). «Les seigneurs terciers de Negrepont». Revue de
+                  l’Orient Latin, 1, pp. 413-431.</bibl>
+               <bibl>Mascherpa, Giuseppe (2007-2008). Nuove indagini sulla tradizione latina Z del
+                  Milione di Marco Polo [Tesi di dottorato], Siena, Università degli Studi.</bibl>
+               <bibl>Mascherpa, Giuseppe (2008). «San Tommaso in India. L’apporto della tradizione
+                  indiretta alla costituzione dello stemma del Milione». In: Cadioli, Alberto;
+                  Chiesa, Paolo (a cura di). Prassi ecdotiche. Esperienze editoriali su testi
+                  manoscritti e testi a stampa. Milano: Cisalpino, pp. 171-184.</bibl>
+               <bibl>Mascherpa, Giuseppe (2011). «Il primo libro». In: Burgio (2011), pp.
+                  45-77.</bibl>
+               <bibl>May, Timothy (2007). The Mongol art of war. Chinggis Khan and the Mongol
+                  military system. Yardley: Westholme.</bibl>
+               <bibl>Mayerson, Philip (1993). «A confusion of Indias: Asian India and African India
+                  in the Byzantine sources». Journal of the American Oriental Society, 113 (2), pp.
+                  169-174.</bibl>
+               <bibl>McGinnis, Jon; Reisman, David C. (2007). Classical Arabic Philosophy. An
+                  Anthology od Sources. Indianapolis: Hackett Publishing Company.</bibl>
+               <bibl>Ménard Philippe (a cura di) (2001-2009). Marco Polo: Le devisement du monde. 6
+                  voll. Genève: Droz.</bibl>
+               <bibl>Ménard, Philippe (2002). «L’itinéraire de Marco Polo dans sa traversée de la
+                  Chine». Medioevo romanzo, 26, pp. 321-360.</bibl>
+               <bibl>Ménard, Philippe (2006). «Marco Polo et le Japon». In Sasaki, S. (a cura di),
+                  Le XLe Anniversaire de la fondation de l’Université Maisei. Symposium et
+                  conférence internationale. Tokyo: Meisei Univ. Press, pp. 39-64.</bibl>
+               <bibl>Ménard, Philippe (2008). «Marco Polo et la mer: le retour de Marco Polo en
+                  Occident d’après les diverses versions du texte». In: Conte (2008), pp.
+                  173-204.</bibl>
+               <bibl>Ménard, Philippe (2012). «Deux nouveaux folios inédits d’un fragment
+                  franco-italien du Devisement du monde de Marco Polo». Medioevo Romanzo, 36, pp.
+                  241-280.</bibl>
+               <bibl>Meneghetti, Maria Luisa (2007). «Sulla ricezione di Marco Polo fra Catalogna e
+                  Aragona». In: Muñiz Muñiz, María de las Nieves (a cura di), La traduzione della
+                  letteratura italiana in Spagna (1300-1939). Traduzione e tradizione del testo.
+                  Firenze: Cesati, pp. 37-46.</bibl>
+               <bibl>Meneghetti, Maria Luisa (2008). «Marco Polo ad Avignone». In: Conte (2008), pp.
+                  77-88.</bibl>
+               <bibl>Meneghetti, Maria Luisa (2010). Il romanzo. Bologna: il Mulino.</bibl>
+               <bibl>Meneghin, Vittorino (1962). S. Michele in Isola di Venezia. 2 voll. Venezia:
+                  Stamperia di Venezia.</bibl>
+               <bibl>Merolla, Lucia (1992). «La dispersione dei codici di San Michele di Murano».
+                  In: Trolese, Francesco G.B. (a cura di), Il monachesimo italiano dalle riforme
+                  illuministiche all’unità nazionale (1768-1870). Cesena: Badia di Santa Maria del
+                  Monte, pp. 685-699.</bibl>
+               <bibl>Merolla, Lucia (a cura di) (2010). La Biblioteca di San Michele di Murano
+                  all'epoca dell'abate Giovanni Benedetto Mittarelli: i codici ritrovati. Manziana:
+                  Vecchiarelli.</bibl>
+               <bibl>Milanesi, Marica (1986). «I regni del Prete Gianni». In: Benzoni, Gino et al.
+                  (a cura di). Storie di viaggiatori italiani: Africa. Milano: Electa, pp.
+                  42-52.</bibl>
+               <bibl>Milanesi, Marica (1990). L'Europa delle carte. Dal XV al XIX secolo,
+                  autoritratti di un continente = Catalogo dell'esposizione organizzata dall’autrice
+                  (Genova, ottobre 1990). Milano: Mazzotta.</bibl>
+               <bibl>Milanesi, Marica (1993). «La Cartografia italiana nel Medio Evo e nel
+                  Rinascimento». In: Milanesi, Marica; Valerio, Vladimiro; Casti Moreschi Emanuela;
+                  Rombai, Leonardo (a cura di), La Cartografia italiana. Cicle de conferències sobre
+                  Història de la Cartografia (Tercer curs, 1991). Barcelona: Institut Cartogràfic de
+                  Catalunya, pp. 15-80.</bibl>
+               <bibl>Milanesi, Marica (2010). «Le regard de la postérité. L’âge des découvertes vu
+                  un siècle après». Médiévales, 58, pp. 11-26.</bibl>
+               <bibl>Milanesi, Marica (2012). «Nelle stanze di palazzo. Venezia, Firenze, Roma:
+                  qualche confronto». In: Salgaro, Silvino (a cura di), Cristoforo Sorte e il suo
+                  tempo. Bologna: Patron, pp. 97-117.</bibl>
+               <bibl>Miyamoto, Yoko (2000). «Japan, Mongol Invasion of». In: Friedman, Figg (2000),
+                  pp. 299-300.</bibl>
+               <bibl>Monneret de Villard, Ugo (a cura di) (1950). Liber peregrinationis di Jacopo da
+                  Verona. Roma:Libreria dello Stato.</bibl>
+               <bibl>Monneret de Villard, Ugo (1951). «La Fiera di Batnae e la traslazione di S.
+                  Tomaso a Edessa». Rendiconti delle sdute dell’Accademia Nazionale dei Lincei.
+                  Classe di Scienze morali, storiche e filologiche, 6 (3-4), pp. 77-104.</bibl>
+               <bibl>Montesano, Marina (2014). Marco Polo. Roma: Salerno.</bibl>
+               <bibl>Morgan, Margareth Ruth (1973). The Chronicle of Ernoul and the Continuations of
+                  William of Tyre. Oxford: Oxford University Press.</bibl>
+               <bibl>Morgan, David (1990). Čengīz Khan. In: Eir, disponibile all’indirizzo
+                  www.iranicaonline.org/articlescengiz-khan</bibl>
+               <bibl>Morgan, David (1997). Breve storia dei Mongoli. Milano: Mondadori [Trad. di:
+                  The Mongols, 1986].</bibl>
+               <bibl>Most, Glenn (2009). Il dito nella piaga: Le storie di Tommaso l’incredulo.
+                  Torino: Einaudi.</bibl>
+               <bibl>Moule, Arthur Cristopher (1930). Christians in China before 1550. London:
+                  Society for Promoting Christian Knowledge.</bibl>
+               <bibl>Moule, Arthur Cristopher (1957). Quinsai: With Other Notes on Marco Polo.
+                  Cambridge: Cambridge University Press.</bibl>
+               <bibl>Munroe, Robert L.; Munroe Ruth H. (1975). Cross-Cultural Human Development.
+                  Monterey (California): Brooks/Cole Publishing Co.</bibl>
+               <bibl>Munroe, Robert L.; Munroe Ruth H.; Whiting, John W. (1973). «The Couvade: A
+                  Psychological Analysis». Ethos, 1, pp. 30-74.</bibl>
+               <bibl>Nedashkovsky, Leonard F. (2004). Ukek: the Golden Horde city and its periphery.
+                  Oxford: British Archaeological Reports.</bibl>
+               <bibl>Nicelli, Paolo (2007). L’Islam nel Sud-est asiatico. Roma: Edd. Lavoro.</bibl>
+               <bibl>Nicol, Donald M. (1988), Venezia e Bisanzio. Milano: Bompiani. Trad. di:
+                  Byzantium and Venice: A Study in Diplomatic and Cultural Relations, 1988.</bibl>
+               <bibl>Nilakanta Sastri, Kallidaikurichi Aiyah (1957). «Marco Polo on India». In:
+                  Balazs, Étienne (1957), pp. 111-120.</bibl>
+               <bibl>Nowell, Charles E. (1953). «The historical Prester John». Speculum, 28, pp.
+                  435-445.</bibl>
+               <bibl>O’Meara, Thomas OP (2008). «The Theology and Times of William of Tripoli, OP: A
+                  Different View of Islam». Theological Studies, 69, pp. 80-98.</bibl>
+               <bibl>Olschki, Leonardo (1937). Storia letteraria delle scoperte geografiche: Studi e
+                  ricerche. Firenze: Olschki.</bibl>
+               <bibl>Olschki, Leonardo (1957). L’Asia di Marco Polo. Introduzione alla lettura e
+                  allo studio del Milione. Firenze: Sansoni.</bibl>
+               <bibl>Ostrogorsky, Georg (1968). Storia dell’impero bizantino. Torino:
+                  Einaudi.</bibl>
+               <bibl>Paolillo, Maurizio (2009a). «La lettera di Giovanni da Montecorvino (1247-1328)
+                  e il suo incontro con il Re Ongut Giorgio: un enigma medievale in Asia Orientale».
+                  Mediæval Sophia, 5, pp. 74-95.</bibl>
+               <bibl>Paolillo, Maurizio (2009b). «In search of King George». In: Winkler, Dietmar W;
+                  Tang, Li (a cura di). Hidden Treasures and Intercultural Encounters. Wien: Lit,
+                  pp. 241-255.</bibl>
+               <bibl>Paravicini Bagliani, Agostino (1997). «L’apogeo del papato (1198-1274)». In:
+                  Vasina, Augusto (a cura di), Storia del Cristianesimo. Religione, politica,
+                  cultura, trad. it. Roma: Borla, pp. 553-590.</bibl>
+               <bibl>Paret, Rudi (1970). «Signification coranique de khalīfa et d’autres derives de
+                  la racine khalafa». Studia islamica, 31, pp. 211-17.</bibl>
+               <bibl>Parks, George B. (1955). «The Contents and Sources of Ramusio’s Navigationi».
+                  Bulletin of the New York Public Library, 59, pp. 279-313.</bibl>
+               <bibl>Patota, Giuseppe (1997). «La grammatica silenziosa», in Norma e lingua in
+                  Italia: alcune riflessioni fra passato e presente. Milano: Istituto Lombardo di
+                  Scienze e Lettere, pp. 71-112.</bibl>
+               <bibl>Pedani, Maria Pia (2010). Venezia porta d’Oriente. Bologna: il Mulino.</bibl>
+               <bibl>Pelaez, Mario (1906). «Un nuovo testo veneto del Milione di Marco Polo». Studi
+                  romanzi, 4, pp. 5-65.</bibl>
+               <bibl>Pellegrini, Giovanni Battista (1972). Gli arabismi nelle lingue neolatine con
+                  speciale riguardo all’Italia. 2 voll. Brescia: Paideia.</bibl>
+               <bibl>Pelliot, Paul (1927). «Une ville musulmane dans la Chine du Nord sous les
+                  Mongols». Journal Asiatique, 211, pp. 261-279.</bibl>
+               <bibl>Pelliot, Paul (1959-1973). Notes on Marco Polo, publ. by Louis Hambis. 3 voll.
+                  Paris: Imprimerie nationale.</bibl>
+               <bibl>Peretti, Aurelio (1930). «Per la storia del Testo di Marco Polo». Archivio
+                  storico italiano, 13, pp. 217-247.</bibl>
+               <bibl>Perocco, Daria (1994). «Giacomo Gastaldi e la Universale Descrittione del
+                  mondo». In: Ballo Alagna, Simonetta (a cura di), Esplorazioni geografiche e
+                  immagine del mondo nei secoli XV e XVI. Messina: Grafo, pp. 211-222.</bibl>
+               <bibl>Perrone, Lorenzo (1995). «Le chiese orientali». In: Filoramo, Giovanni (a cura
+                  di), Storia delle religioni. II. Ebraismo e Cristianesimo. Roma-Bari: Laterza, pp.
+                  329-362.</bibl>
+               <bibl>Pertusi, Agostino (a cura di) (1973). Venezia e il Levante fino al secolo XV. 2
+                  voll. Firenze: Olschki.</bibl>
+               <bibl>Petech, Luciano (1987). «Il Tibet e i Mongoli all’epoca di Marco Polo». In:
+                  Lanciotti, Lionello (a cura di), Venezia e l’Oriente. Firenze: Olschki, pp.
+                  366-377.</bibl>
+               <bibl>Philipp Thomas; Haarmann Ulrich (a cura di) (1998). The Mamluks in Egyptian
+                  politics and society. Cambridge: Cambridge University Press.</bibl>
+               <bibl>Piasere, Leonardo (2007). L’etnografo imperfetto. Esperienza e cognizione in
+                  antropologia. Roma; Bari: Laterza.</bibl>
+               <bibl>Poppe, Nikolaï N. (1957). The Mongolian monuments in hP’ags-pa Script.
+                  Wiesbaden: Harrassowitz.</bibl>
+               <bibl>Poppe, Nikolaï N. (1964). «Das Mittelmongolische». In: Mongolistik. Handbuch
+                  der Orientalistik, 1 (V,2). Leiden: Brill, pp. 96-103.</bibl>
+               <bibl>Potestà, Gian Luca (2014). L’ultimo messia: Profezia e sovranità nel Medioevo.
+                  Bologna: il Mulino.</bibl>
+               <bibl>Potts, Daniel T. (2014). Nomadism in Iran: From antiquity to the modern era.
+                  New York: Oxford University Press.</bibl>
+               <bibl>Prawer, Joshua (1973). «I Veneziani e le colonie veneziane nel regno latino di
+                  Gerusalemme». In: Pertusi (1973), pp. 625-656.</bibl>
+               <bibl>Propp, Vladimir J. (1985). Le radici storiche dei racconti di fate. 2a ed.
+                  Torino: Bollati Boringhieri.</bibl>
+               <bibl>Pubblici, Lorenzo (2007). Dal Caucaso al Mar d'Azov: l'impatto dell'invasione
+                  mongola in Caucasia fra nomadismo e società sedentaria (1204-1295). Presentazione
+                  di Marcello Garzaniti. Firenze: Firenze University Press.</bibl>
+               <bibl>Purcell, Maureen (1975). Papal Crusading Policy. Leiden: Brill.</bibl>
+               <bibl>Racine, Pierre (2012). Marco Polo et ses voyages. Paris: Perrin.</bibl>
+               <bibl>de Rachewiltz, Igor (1972). Prester John and Europe’s discovery of East Asia.
+                  Camberra: Australian National University Press.</bibl>
+               <bibl>de Rachewiltz, Igor (1989). «The title Činggis Qan/Qaγan re-examined». In:
+                  Heissig, Walther; Sagaster, Klaus (a cura di), Gedanke und Wirkung: Festschrift
+                  zum 90. Geburtstag von Nikolaus Poppe. Wiesbaden: Harrassowitz, pp.
+                  281-298.</bibl>
+               <bibl>de Rachewiltz 2006. The Secret History of the Mongols: A Mongolian Epic
+                  Chronicle of the Thirteenth Century. 2 voll. Leiden; Boston: Brill.</bibl>
+               <bibl>Ragagnin, Elisabetta (2011). Dukhan, a Turkic variety of Northern Mongolia:
+                  description and analysis. Wiesbaden: Harrassowitz.</bibl>
+               <bibl>Ragagnin, Elisabetta (c.s.). «Uyghur». In: Handel, Zev; Sybesma, Rint; Huang,
+                  James; Behr, Wolfgang; Gu Yueguo (a cura di), Encyclopedia of Chinese Language and
+                  Linguistics. Brill: Leiden.</bibl>
+               <bibl>Räsänen, Martti (1969). Versuch eines etymologischen Wörterbuchs der
+                  Türksprachen. Helsinki: Suomalais-Ugrilainen Seura.</bibl>
+               <bibl>Ratchnevsky, Paul (1970). «Über den mongolischen Kult am Hofe der Grosskhane in
+                  China». In: Ligeti, Louis (a cura di), Mongolian Studies. Amsterdam: Grüner, pp.
+                  417-443.</bibl>
+               <bibl>Ratchnevsky, Paul (1991). Genghis Khan: His life and legacy. Oxford et al.:
+                  Blackwell [Trad. di: Činggis-Khan: Sein Leben und Wirken, 1983].</bibl>
+               <bibl>Ravegnani, Giorgio (1995). «La Romània veneziana». In:Cracco, Ortalli (1995),
+                  pp. 183-227.</bibl>
+               <bibl>Reichert, Folker E. (1997). Incontri con la Cina: La scoperta dell’Asia
+                  orientale nel Medioevo. Milano: Edizioni Biblioteca Francescana. Trad. di:
+                  Begegnungen mit China: Die Entdeckung Ostasiens im Mittelalter, 1992.</bibl>
+               <bibl>Renouard, Yves (1955). «Mercati e mercanti veneziani alla fine del Duecento».
+                  In: La civiltà veneziana del secolo di Marco Polo. Firenze: Sansoni, pp.
+                  83-108.</bibl>
+               <bibl>Renzi, Lorenzo (1999). «Premessa». In Barbieri; Andreose (1999), pp.
+                  9-21.</bibl>
+               <bibl>Ribémont, Bernard (a cura di) (1991). Observer, lire, écrire le ciel au Moyen
+                  Âge. Paris: Klincksieck.</bibl>
+               <bibl>Richard, Jean (1957). «L'Extrême-Orient légendaire au Moyen Âge: Roi David et
+                  Prêtre Jean». Annales d’Ethiopie, 2, pp. 225-244.</bibl>
+               <bibl>Richard, Jean (1977). La papauté et les missions d’Orient au Moyen Âge, Roma:
+                  École française de Rome.</bibl>
+               <bibl>Rösch, Gerhard (1995). «Il “gran guadagno”». In: Cracco, Ortalli (1995), pp.
+                  233-259.</bibl>
+               <bibl>Romanini, Fabio (2004). «Sul primo Viaggio fatto nell’India di Giovanni da
+                  Empoli (1504). Con una nuova edizione». Filologia italiana, 1, pp. 127-160.</bibl>
+               <bibl>Romanini, Fabio (2007). «Se fussero più ordinate, e meglio scritte...».
+                  Giovanni Battista Ramusio correttore ed editore delle Navigationi et viaggi. Roma:
+                  Viella.</bibl>
+               <bibl>Romanini, Fabio (2011). Nuovi rilievi sulla prassi editoriale ramusiana. In:
+                  Burgio (2011), pp 3-26.</bibl>
+               <bibl>Romanini, Fabio (2012). «Sulla Lettera a Francesco I re di Franciadi Giovanni
+                  da Verrazzano. Con una nuova edizione». Filologia italiana, 9, pp. 127-190.</bibl>
+               <bibl>Romanini, Fabio; Simion, Samuela (in prep.). Studi sulla tradizione testuale e
+                  nuova edizione delle lettere di Andrea Corsali</bibl>
+               <bibl>Romano, Ruggero; Tenenti, Alberto; Tucci Ugo (1970). «Venise et la route du
+                  Cap: 1499-1517». In: Cortelazzo, Manlio (a cura di), Mediterraneo e Oceano
+                  Indiano. Firenze: Olschki, pp. 107-139.</bibl>
+               <bibl>Rossabi, Morris (1988). Khubilai Khan: His Life and Times. Berkeley, University
+                  of California Press.</bibl>
+               <bibl>Roux, Jean-Paul (1966). Faune et flore sacrées dans les societés altaïques.
+                  Paris: Adrien-Maisonneuve.</bibl>
+               <bibl>Rouxpetel, Camille (2012). «Indiens, Éthiopiens et Nubiens dans les récits de
+                  pèlerinage occidentaux: entre altérité constatée et altérité construite (XIIe-XIVe
+                  siècles)». Annales d’Éthiopie, 27, pp. 71-90.</bibl>
+               <bibl>Rubiés, Joan-Pau (2000). Travel and Ethnology in the Renaissance: South India
+                  through European Eyes, 1250-1625. Cambridge: Cambridge University Press.</bibl>
+               <bibl>Ryan, James D. (2000). «Chaghatai (d. 1241/1242)»; «Chaghatai Khânate». In:
+                  Friedman, Figg (2000), pp. 104-106.</bibl>
+               <bibl>Rybatzki, Volker (2003). «Middle Mongol». In: Janhunen (2003), pp.
+                  57-82.</bibl>
+               <bibl>Rybatzki, Volker (2006). Die Personennamen und Titel der Mittelmongolischen
+                  Dokumente. Eine lexikalische Untersuchung. Helsinki: Yliopistopaino Oy.</bibl>
+               <bibl>Saccone, Carlo (2008). Alessandro / Dhū l-Qarnayn in viaggio tra i due mari,
+                  Alessandria: Edizioni dell’Orso.</bibl>
+               <bibl>Saliba, George (1994). A history of Arabic astronomy. Planetary theories during
+                  the golden age of Islam. New York: Ney York University Press.</bibl>
+               <bibl>Samarrai, Alauddin (2000). «Baghdad». In Friedman, Figg (2000), pp.
+                  43-44.</bibl>
+               <bibl>Sari, Mustafa (2008). «Threatened fishes of the world: Chalcalburnus tarichi
+                  (Pallas 1811) (Cyprinidae) living in the highly alkaline Lake Van, Turkey».
+                  Environmental Biology of fishes, 81, pp. 21-23.</bibl>
+               <bibl>Savage-Smith, Emilie; Smith Marion B. (1980). Islamic geomancy and a
+                  thirteenth-century divinatory device. Malibu: Undena Publications.</bibl>
+               <bibl>Scafi, Alessandro (2006). Mapping Paradise: A History of Heaven on Earth.
+                  Chicago: The Univ. of Chicago Press.</bibl>
+               <bibl>Scafi, Alberto (2007). Il paradiso in terra. Mappe del giardino dell'Eden.
+                  Milano: Mondadori.</bibl>
+               <bibl>Scarcia Amoretti, Biancamaria (1994). «La seta: status symbol nell'Islam». In:
+                  Lucidi, Maria Teresa (a cura di), La seta e la sua via. Roma: De Luca, pp.
+                  261-262.</bibl>
+               <bibl>Scarcia, Gianroberto (1981). «I Mongoli e l’Iran: la situazione religiosa». In:
+                  Zorzi (1981a), pp. 159-172.</bibl>
+               <bibl>Schneider, Pierre (2004). L’Éthiopie et l’Inde. Intérfereces et confusions aux
+                  extrémités du monde antique. Rome: École française de Rome.</bibl>
+               <bibl>Schönig, Claus (2006). «Südsibirisch-türkische Entsprechungen von Völker und
+                  Stammesnamen aus der Geheimen Geschichte der Mongolen». In: Erdal, Marcel;
+                  Nevskaya, Irina (a cura di), Exploring the eastern frontiers of Turkic
+                  (Turcologica 60). Wiesbaden: Harrassowitz, pp. 211–242.</bibl>
+               <bibl>Schottenhammer, Angela (a cura di) (2000). The Emporium of the World: Maritime
+                  Quanzhou 1000-1400. Leiden: Brill.</bibl>
+               <bibl>Schwarz, Paul (1969). Iran im Mittelalter nach den arabischen Geographen, 2a
+                  ed. Hildesheim; New York: G. Olms.</bibl>
+               <bibl>Scialpi, Fabio (1989). «La Grande Madre nella cultura induista». In: Giani
+                  Gallino, Tilde (a cura di), Le Grandi Madri. Milano: Feltrinelli, pp.
+                  47-64.</bibl>
+               <bibl>Scorza Barcellona, Francesco (2008). «Ancora su Marco Polo e i Magi
+                  evangelici». In: Conte (2008), pp. 307-336.</bibl>
+               <bibl>Sebastiani, Maria Letizia (2012). «Il “perché” della mostra». In: Brusegan,
+                  Marcello; Eleuteri, Paolo; Fiaccadori, Gianfranco (a cura di), San Michele in
+                  Isola, Isola della conoscenza: Ottocento anni di storia e cultura camaldolesi
+                  nella laguna di Venezia. Torino: UTET, pp. 1-5.</bibl>
+               <bibl>Seignobos, Robin (2012). «L’autre Éthiopie: la Nubie chrétienne et la croisade
+                  (XIIe-XIVe siècle)». Annales d’Ethiopie, 27, pp. 49-69.</bibl>
+               <bibl>Sella, Pacifico (a cura di) (2008). Il Vangelo in Oriente: Giovanni da
+                  Montecorvino frate minore e primo vescovo in terra di Cina (1307-1328). Santa
+                  Maria degli Angeli, Assisi: Porziuncola.</bibl>
+               <bibl>Serjeant, Robert B. (1972). Islamic textiles, material for a history up to the
+                  Mongol conquest. Beirut: Librairie du Liban.</bibl>
+               <bibl>Setton, Kenneth M. (1976). The Papacy and the Levant, vol. I. Philadelphia: The
+                  American Philosophical Society, pp. 167-197.</bibl>
+               <bibl>Simion, Samuela (2008). «Note di storia bibliografica sul manoscritto Hamilton
+                  424 della Staatsbibliothek di Berlino». Quaderni Veneti, 47-48, pp. 99-126.</bibl>
+               <bibl>Simion, Samuela (2011a). «Introduzione», par. 2. In: Burgio (2011), pp.
+                  XVII-XXII.</bibl>
+               <bibl>Simion, Samuela (2011b). «Struttura e fonti di V». In: Burgio (2011), pp.
+                  27-44.</bibl>
+               <bibl>Simion, Samuela (c.s.). «La vita di Buddha nel Milione veneziano V». In:
+                  Divizia (c.s.)</bibl>
+               <bibl>Sinclair, Thomas Alan (1996). «Kayseri» [online]. Enciclopedia dell’Arte
+                  Medievale. Disponibile all’indirizzo
+                  http://www.treccani.it/enciclopedia/kayseri_%28Enciclopedia-dell%27-Arte-Medievale%29/
+                  (2015-02-01).</bibl>
+               <bibl>Sinclair, Thomas Alan (1996). «Konya» [online]. Enciclopedia dell’Arte
+                  Medievale. Disponibile all’indirizzo
+                  http://www.treccani.it/enciclopedia/konya_%28Enciclopedia-dell%27-Arte-Medievale%29/
+                  (2015-02-01).</bibl>
+               <bibl>Sinclair, Thomas Alan (1999). «Sivas [online]. Enciclopedia dell’Arte
+                  Medievale. Disponibile all’indirizzo
+                  http://www.treccani.it/enciclopedia/sivas_%28Enciclopedia-dell%27-Arte-Medievale%29/
+                  (2015-02-01).</bibl>
+               <bibl>Skinner, Stephen (1980). Terrestrial astrology: divination by geomancy. Sydney:
+                  Law Book Co of Australasia.</bibl>
+               <bibl>Skribnik, Elena (2003). «Buryat». In: Janhunen, Juha (a cura di), The Mongolic
+                  languages. London; New York: Routledge.</bibl>
+               <bibl>Smith, Gerald Rex; Porter, Venetia (1988). «The Rasulids in Dhofar in the
+                  VIIth-VIIIth /XIII-XIVth centuries». Journal of the Royal Asiatic Society, 120
+                  (1), pp. 1-28.</bibl>
+               <bibl>Sorge, Giuseppe (1982). «Le traslazioni delle reliquie dell’Apostolo Tommaso».
+                  Rivista di Studi Bizantini e Slavi, 2, pp. 147-157.</bibl>
+               <bibl>Sorge, Giuseppe (1983). L’India di San Tommaso: ricerche storiche sulla chiesa
+                  malabarica. Bologna: CLUEB.</bibl>
+               <bibl>Sourdel, Janine; Sourdel Dominique (2004). Dictionnaire historique de l’Islam.
+                  Paris: Presses Universitaires de France.</bibl>
+               <bibl>Southgate, Minoo S. (1978). Iskandarnamah. A Persian Medieval Alexander
+                  Romance. New York: Columbia University Press.</bibl>
+               <bibl>Spuler, Bertold (1965). Die Goldene Horde. Die Mongolen in Rußland; 1223–1502.
+                  Wiesbaden: Harrassowitz.</bibl>
+               <bibl>Spuler, Bertold (1985). Die Mongolen in Iran: Politik, Verwaltung und Kultur
+                  der Ilchanzeit 1220-1350. Leiden: Brill.</bibl>
+               <bibl>Stegagno Picchio, Luciana (2006). «Navigationi et viaggi di Giovanni Battista
+                  Ramusio». In: Letteratura italiana, 2a ed. VI. Umanesimo e Rinascimento: Le opere
+                  1530-1580. Torino: Einaudi, pp. 543-594.</bibl>
+               <bibl>Stein, Marc Aurel (1906). «Hsüan-tsang's Notice of P’i-mo and Marco Polo’s
+                  Pein». T’oung Pao, 7, pp. 469-480.</bibl>
+               <bibl>Stein, Marc Aurel (1907). Ancient Khotan: Detailed report of archaeological
+                  explorations in Chinese Turkestan. Oxford: Clarendon Press.</bibl>
+               <bibl>Stein, Marc Aurel (1912). Ruins of Desert Cathay: Personal Narrative of
+                  Explorations in Central Asia and Westernmost China. 2 voll. London:
+                  Macmillan.</bibl>
+               <bibl>Stein, Marc Aurel (1921). Serindia: detailed report of explorations in Central
+                  Asia and Westernmost China. Oxford: Clarendon Press.</bibl>
+               <bibl>Steingass, Francis (1892). A comprehensive Persian-English dictionary. London:
+                  Routledge K. Paul.</bibl>
+               <bibl>Stoneman, Richard (1991). The Greek Alexander Romance. New York:
+                  Penguin.</bibl>
+               <bibl>Stoneman, Richard; Gargiulo, Tristano (a cura di) (2007-2012). Il romanzo di
+                  Alessandro. 2 voll. Milano: Fondazione Lorenzo Valla/Mondadori.</bibl>
+               <bibl>Stussi, Alfredo (1962). «Un testamento volgare scritto in Persia nel 1263».
+                  L'Italia dialettale, 25, pp. 23-37.</bibl>
+               <bibl>Susini, Giancarlo; Rocchetti, Luigi (1958). «Armenia» [online]. Enciclopedia
+                  dell’Arte Antica. Disponibile all’indirizzo http://www.treccani.it/enciclopedia
+                  (2015-02-01).</bibl>
+               <bibl>Symons, Van J. (2000). «Khanbaliq [Cambalac]». In: Friedman, Figg (2000), pp.
+                  319-320.</bibl>
+               <bibl>Tassini, Giuseppe (1863). Curiosità veneziane, ovvero origini delle
+                  denominazioni stradali di Venezia. Venezia: Cecchini.</bibl>
+               <bibl>Tchouhadjian, Armand (2004). Saint Blaise: évêque de Sebaste: Armenie Mineure.
+                  Paris: L'Harmattan.</bibl>
+               <bibl>Tedeschi, Salvatore (1981). «L’Abissinia nel libro di Marco Polo». Africa, 36
+                  (3-4), pp. 361-389.</bibl>
+               <bibl>Terracini, Benvenuto (1933). «Ricerche ed appunti sulla più antica redazione
+                  del Milione». Rendiconti della Reale Accademia Nazionale dei Lincei, 9, pp.
+                  369-428.</bibl>
+               <bibl>Thierry, Nicole (1991). «Armenia» [online]. Enciclopedia dell’Arte Medievale.
+                  Disponibile all’indirizzo
+                  http://www.treccani.it/enciclopedia/armenia_%28Enciclopedia-dell%27-Arte-Medievale%29/
+                  (2015-02-01).</bibl>
+               <bibl>Throop, Palmer A. (1975). Criticism of the Crusade: a Study of Public Opinion
+                  and Crusade Propaganda. Philadelphia: Porcupine Press.</bibl>
+               <bibl>Tobler, Adolf (1888). «Exempla latini Saibante». Zeitschrift für Romanische
+                  Philologie», 12, pp. 57-88.</bibl>
+               <bibl>Tolan, John (2003). Les Sarrasins: l’Islam dans l’imaginaire européen au Moyen
+                  Âge. Paris: Aubier.</bibl>
+               <bibl>Tolmacheva, Marina A. (2000). «Mare Oceanum». In: Friedman, Figg (2000), pp.
+                  375-376.</bibl>
+               <bibl>Tomasin, Lorenzo (2002). «Schede di lessico marinaresco militare medievale».
+                  Studi di lessicografia italiana, 19, pp. 11-33.</bibl>
+               <bibl>Trasselli, Carmelo (1941). «Un italiano in Etiopia nel XV secolo: Pietro
+                  Rombulo da Messina». Rassegna di studi etiopici, 1, pp. 173-202.</bibl>
+               <bibl>Tresso, Claudia M. (a cura di) (2006). Ibn Baṭṭūṭa: I Viaggi. Torino:
+                  Einaudi.</bibl>
+               <bibl>Trifogli, Cecilia (2002). Oxford physics in the thirteenth century: ca.
+                  1250-1270: motion, infinity, place and time. Leiden: Brill.</bibl>
+               <bibl>Trovato, Paolo (1994). Storia della lingua italiana: Il primo Cinquecento.
+                  Bologna: il Mulino.</bibl>
+               <bibl>Tsumagari, Toshiro (2003). «Dagur». In: Janhunen (2003), pp. 129-153.</bibl>
+               <bibl>Tucci, Ugo (1976). «I primi viaggiatori e l’opera di Marco Polo». In: Arnaldi,
+                  Girolamo; Pastore Stocchi, Manlio (a cura di), Storia della cultura veneta, vol.
+                  II, Dalle origini al Trecento. Vicenza: Neri Pozza, pp. 633-670.</bibl>
+               <bibl>Ubaydli, Ahmad (1989). «The population of Sūquṭra in the early Arabic sources».
+                  Proceedings of the Seminar for Arabian Studies,19, pp. 137-154.</bibl>
+               <bibl>Vagnon, Emmanuelle (2002). «Les fleuves dans les cartes médiévales: l’exemple
+                  du Nil». Itineraria, 1, pp. 207-235.</bibl>
+               <bibl>Vagnon, Emmanuelle (2011). «Les rivages africains de l’Océan Indien.
+                  Cartographies occidentales du XIVe au XVIe siècle». Carte et Géomatique, 210, pp.
+                  63-78.</bibl>
+               <bibl>Vagnon, Emmanuelle (2012). «Comment localiser l’Éthiopie? La confrontation des
+                  sources antiques et des témoignages modernes au XVe siècle». Annales d’Éthiopie,
+                  27, pp. 21-48.</bibl>
+               <bibl>Valentinetti Mendi, Angélica (1992). Una familia véneta del libro de Marco Polo
+                  [Tesi doctoral]. Madrid: Universidad Complutense.</bibl>
+               <bibl>Van Gennep, Arnold (1981). I riti di passaggio. Introduzione di Francesco
+                  Remotti. Torino: Bollati Boringhieri. Trad. di: Les rites de passage, 1909.</bibl>
+               <bibl>Verlinden, Charles (1945). Les empereurs belges de Constantinople. Bruxelles:
+                  Charles Dessart Éditeur.</bibl>
+               <bibl>Vogel, Hans U. (2013). Marco Polo «Was» in China: New Evidence from Currencies,
+                  Salts and Revenues. Leiden: Brill.</bibl>
+               <bibl>Vogelsang, Kai (2012). Geschichte Chinas. Stuttgart: Reclam. Trad. it.: Cina.
+                  Una storia millenaria, 2014.</bibl>
+               <bibl>Wagner, Bettina (2000). Die “Epistola presbiteri Johannis” lateinisch und
+                  deutsch: Überlieferung, Textgeschichte, Rezeption und Übertragungen im
+                  Mittelalter; mit bisher unedierten Texten (= Münchener Texte und Untersuchungen
+                  zur deutschen Literatur des Mittelalters; Band 115). Tübingen: M. Niemeyer.</bibl>
+               <bibl>Waley, Daniel (1961). The Papal State in the Thirteenth Century. London:
+                  Macmillan.</bibl>
+               <bibl>Walker, Cristopher (a cura di) (1997). L’astronomia prima del telescopio. Bari:
+                  Dedalo.</bibl>
+               <bibl>Wehr, Barbara (1993). «À propos de la genèse du Devisement du monde de Marco
+                  Polo». In: Selig, Maria; Frank, Barbara; Hartmann, Jörg (a cura di), Le passage à
+                  l’écrit des langues romanes. Tübingen: Narr, pp. 299-326.</bibl>
+               <bibl>Wehr, Barbara (2004). «Eine Crux im Text von Marco Polo: Rondes». In: Noll,
+                  Volker; Thiele, Sylvia (a cura di), Sprachkontakte in der Romania: Zum 75.
+                  Geburgstag von Gustav Ineichen. Tübingen: Niemeyer, pp. 147-158.</bibl>
+               <bibl>Wei, Jian (2004). «La civiltà sulle rovine – Shangdu di epoca Yuan». In:
+                  Airaldi, Gabriella (a cura di). I Mongoli dal Pacifico al Mediterraneo. Genova:
+                  ECIG, pp. 29-49.</bibl>
+               <bibl>West, Delno C. (2000). «Four Rivers of Paradise». In: Friedman, Figg (2000),
+                  pp. 197-198.</bibl>
+               <bibl>Winter, Heinrich (1962). «The Fra Mauro Portolan Chart in the Vatican». Imago
+                  Mundi, 16, pp. 17-28.</bibl>
+               <bibl>Withfield, Roderick; Withfield, Susan; Agnew, Neville (2000). Cave Temples of
+                  Dunhuang: Art and History on the Silk Road. London: British Library.</bibl>
+               <bibl>Wittkower, Rudolf (1942). «Le meraviglie dell’Oriente: una ricerca sulla storia
+                  dei mostri». In: Id. (1987), pp. 84-152.</bibl>
+               <bibl>Wittkower, Rudolf (1957). «Marco Polo e la tradizione figurativa delle
+                  meraviglie dell’Oriente». In: Wittkower (1987), pp. 153-187.</bibl>
+               <bibl>Wittkower, Rudolf (1987). Allegoria e migrazione dei simboli.Torino: Einaudi.
+                  Trad. di: Id., Allegory and Migration of Symbols, 1977.</bibl>
+               <bibl>Wolff, Robert Lee (1954). «Mortgage and redemption of an emperor’s son: Castile
+                  and the latin empire of Constantinople». Speculum, 29 (1), pp. 45-84.</bibl>
+               <bibl>Woodward, David (1987). «Medieval “Mappaemundi”». In:Harley, John Brian;
+                  Woodward, David (a cura di), The History of Cartography, I. Cartography in
+                  Prehistoric, Ancient, and Medieval Europe and the Mediterranean. Chicago-London:
+                  The University of Chicago Press, pp. 286-370.</bibl>
+               <bibl>Yule, Henry (1915). Cathay and the Way Thither, vol. II, London: The Hakluyt
+                  Society.</bibl>
+               <bibl>Yule, Henry; Burnell, A.J. (2013). The Hobson-Jobson: The Definitive Glossary
+                  of British India. Oxford: Oxford University Press.</bibl>
+               <bibl>Zaganelli, Gioia (1997). L’Occidente incognito medievale: Enciclopedie, romanzi
+                  di Alessandro, teratologie. Soveria Mannelli: Rubbettino.</bibl>
+               <bibl>Zaganelli, Gioia (2000). La lettera del Prete Gianni. Milano: Luni
+                  Editrice.</bibl>
+               <bibl>Zimonyi, Istvan (1990). The origins of the Volga Bulghars. Szeged: Univ.
+                  Szeged. de Attila József Nominata.</bibl>
+               <bibl>Zorzi, Alvise (a cura di) (1981a). Marco Polo, Venezia e l’Oriente. Milano:
+                  Electa.</bibl>
+               <bibl>Zorzi, Alvise (1981b). «Marco Polo e la Venezia del suo tempo». In: Zorzi
+                  (1981a), pp. 13-37.</bibl>
+               <bibl>Žukovskaja, Natal'ja L. (1988). Kategorii i simvolika tradicionnoj kul'tury
+                  mongolov. Moskva: Nauka.</bibl>
+               <bibl>Žukovskaia, Natal'ja L. (ed.) 2004. Buryaty. Moskva: Nauka.</bibl>
+               <bibl>Zurla, Giacinto Placido O.S.B. Cam. (1806). Il mappamondo di Fra Mauro
+                  camaldolese descritto ed illustrato da D. Placido Zurla dello stess’ordine.
+                  Venezia, s.n.</bibl>
+            </listBibl>
+            <listBibl>
+               <bibl>5. Filologia digitale</bibl>
+
+               <bibl>Apollon, Daniel; Bélisle, Claire; Régnier, Philippe (a cura di) (2014). Digital
+                  Critical Editions. Urbana-Champaign; Chicago; Springfield: University of
+                  Illinois.</bibl>
+               <bibl>Bozzi, Andrea (2006). «Edizione elettronica dei testi e filologia
+                  computazionale». In: Stussi, Alfredo (a cura di), Fondamenti di critica testuale.
+                  Bologna: il Mulino, pp. 207–232.</bibl>
+               <bibl>Burgio, Eugenio; Buzzoni, Marina; Ghersetti, Antonella (2013). «A Digital
+                  Edition of Dei Viaggi di Messer Marco Polo, Gentilhuomo Venetiano (Giovanni
+                  Battista Ramusio, Navigationi et Viaggi, II, 1559): The Project and Its Recent
+                  Updates». Quaderni Veneti. Nuova serie digitale, 1</bibl>
+               <bibl>Buzzoni, Marina (2011). «The “Electronic Hêliand project”: Theoretical and
+                  practical updates». In: Cotticelli Kurras, Paola (a cura di), Linguistics and
+                  digital philology: issues and projects. Alessandria: Edizioni Dell’Orso, pp.
+                  55-67.</bibl>
+               <bibl>Buzzoni, Marina; Burgio, Eugenio (2014). «The Italian “third way” of editing
+                  between globalization and localization». In: Stolz, Michael; Chen, Yen-Chun
+                  (Hrsgg.), Internationalität und Interdisziplinarität der Editionswissenschaft =
+                  Beihefte zu Editio 38. Berlin; Boston: Walter de Gruyter, pp. 171-180.</bibl>
+               <bibl>Ciula, Arianna; Stella, Francesco (a cura di) (2007). Digital Philology and
+                  Medieval Texts. Pisa: Pacini.</bibl>
+               <bibl>Cerquiglini, Bernard (1989). Éloge de la variante: histoire critique de la
+                  philologie. Paris: Seuil.</bibl>
+               <bibl>Driscoll, Matthew J. (2013). «The words on the page: Thoughts on philology, old
+                  and new». In: Quinn, Judy; Lethbridge, Emily (a cura di), Creating the medieval
+                  saga: Versions, variability, and editorial interpretations of Old Norse saga
+                  literature. Odense: Syddansk Universitetsforlag, pp. 85–102.</bibl>
+               <bibl>Egan, Gabriel (a cura di) (2010). Electronic Publishing: Politics and
+                  Pragmatics. Tempe: Arizona Center for Medieval and Renaissance Studies.</bibl>
+               <bibl>Foys, Martin K. (2003). The Bayeux Tapestry: Digital edition [CD-ROM].
+                  Leicester: SDE (Scholarly Digital Editions).</bibl>
+               <bibl>Gabler, Hans Walter (2007). «The Primacy of the Document in Editing». Ecdotica,
+                  4, pp. 197-207.</bibl>
+               <bibl>Gabler, Hans Walter (2010). «Theorizing the Digital Scholarly Edition».
+                  Literature Compass 7 (2), pp. 43–56.</bibl>
+               <bibl>Gillespie, Vincent; Hudson, Anne (a cura di) (2013). Probable Truth. Editing
+                  Medieval Texts from Britain in the Twenty-First Century. Turnhout: Brepols.</bibl>
+               <bibl>Haugen, Odd Einar (2003). «The spirit of Lachmann, the spirit of Bédier: Old
+                  Norse textual editing in the electronic age». Paper read at the Annual Meeting of
+                  The Viking Society, University College London, 8 November 2002. Electronic version
+                  January 2003. Disponibile all’indirizzo
+                  http://www.ub.uib.no/elpub/2003/a/522001/haugen.pdf. (2014-10-19).</bibl>
+               <bibl>Karlsson, Lina; Malm, Linda (2004). «Revolution or Remediation? A Study of
+                  Electronic Scholarly Editions on the Web». Human IT, 7 (1), pp. 1–46. Disponibile
+                  all’indirizzo http://www.hb.se/bhs/ith/1-7/lklm.pdf.> (2014-10-19).</bibl>
+               <bibl>Kiernan, Kevin S. (1994). «Digital preservation, restoration, and dissemination
+                  of medieval manuscripts». In: Okerson, Ann; Mogge, Dru (a cura di), Gateways,
+                  Gatekeepers, and Roles in Tge Information Omniverse: Proceedings of the Third
+                  Symposium Nov 13-15 1993. Washington, DC: Office of Scientific and Academic
+                  Publishing, Association of Research Libraries, pp. 37–43.</bibl>
+               <bibl>Kiernan, Kevin S. (a cura di) (2011). The Electronic Beowulf. 3a ed. [CD-ROM].
+                  London: British Library.</bibl>
+               <bibl>McGann, Jerome J. (2000–). The Complete Writings and Pictures of Dante Gabriel
+                  Rossetti. A Hypermedia Research Archive. Charlottesville: Institute for Advanced
+                  Technology in the Humanities.</bibl>
+               <bibl>McGann, Jerome J. (2010). «Sustainability: The Elephant in the Room». In:
+                  McGann, Jerome (a cura di), Online Humanities Scholarship: The Shape of the Things
+                  to Come. Huston: Rice University Press, pp. 5–14.</bibl>
+               <bibl>Millett, Bella (2013). «Whatever Happened to Electronic Editing?» In:
+                  Gillespie, Vincent; Hudson, Anne (a cura di), Probable Truth. Editing Medieval
+                  Texts from Britain in the Twenty-First Century. Turnhout: Brepols, pp.
+                  39-54.</bibl>
+               <bibl>Muir, Bernard James (2004a). The Exeter anthology of Old English poetry: an
+                  edition of Exeter Dean and Chapter MS 3501. Rev. 2nd [CD-ROM] Edition. Exeter:
+                  Exeter University Press.</bibl>
+               <bibl>Muir, Bernard James (2004b). A digital facsimile of Oxford, Bodleian Library
+                  MS. Junius 11. Software by Nick Kennedy = Bodleian Library Digital Texts 1.
+                  Oxford: Bodleian Library.</bibl>
+               <bibl>O’Brien O’Keeffe, Katherine (2013). «The architecture of Old English Editions».
+                  In: Gillespie, Vincent; Hudson, Anne (a cura di), Probable Truth. Editing Medieval
+                  Texts from Britain in the Twenty-First Century. Turnhout: Brepols, pp.
+                  73-90.</bibl>
+               <bibl>O’Donnell, Daniel Paul (a cura di) (2005a). Cædmon’s “Hymn”: A Multi-Media
+                  Study, Archive and Edition. Cambridge: Brewer.</bibl>
+               <bibl>O’Donnell, Daniel Paul (2005b). «The Ghost in the Machine: Revisiting an Old
+                  Model for the Dynamic Generation of Digital Editions». Human IT, 8, pp.
+                  51–71.</bibl>
+               <bibl>O’Donnell, Daniel Paul (2008). «Resisting the Tyranny of the Screen, or, must a
+                  Digital Edition be Electronic?». The Heroic Age, 11. Disponibile all’indirizzo
+                  http://www.heroicage.org/issues/11/em.php> (2014-10-19).</bibl>
+               <bibl>O’Donnell, Daniel Paul (2010). «Different Strokes, Same Folk: Designing the
+                  Multi-Form Digital Edition». Literature Compass, 7 (2), pp. 110–119.</bibl>
+               <bibl>Ore, Espen S. (2004). «Monkey Business—or What Is an Edition?». Literary and
+                  Linguistic Computing, 19 (1), pp. 35–44.</bibl>
+               <bibl>Robinson, Peter (a cura di) (1996). The Wife of Bath's Prologue on CD-ROM.
+                  Cambridge: Cambridge University Press.</bibl>
+               <bibl>Robinson, Peter (2005). «Current Issues in Making Digital Editions of Medieval
+                  Texts – Or, do Electronic Scholarly Editions have a Future?». Digital Medievalist
+                  Journal, 1 (1). Disponibile all’indirizzo
+                  http://www.digitalmedievalist.org/journal/1.1/robinson/ (2014-10-19).</bibl>
+               <bibl>Robinson, Peter (2007). «Electronic editions which we have made and which we
+                  want to make». In: Ciula, Arianna; Stella, Francesco (a cura di), Digital
+                  Philology and Medieval Texts. Pisa: Pacini 2007, pp. 1–12.</bibl>
+               <bibl>Robinson, Peter (2013). «Towards a theory of digital editions». Variants. The
+                  Journal of the European Society for Textual Scholarship, 7, pp. 105–132.</bibl>
+               <bibl>Romano, Tim (1999). The Wanderer. Edition and Translation. Disponibile
+                  all’indirizzo http://www.aimsdata.com/tim/anhaga/edition.htm.>
+                  (2014-10-19).</bibl>
+               <bibl>Rosselli Del Turco, Roberto (2011). «After the editing is done: designing a
+                  Graphic User Interface for Digital Editions». Digital Medievalist Journal, 7.
+                  Disponibile all’indirizzo
+                  http://www.digitalmedievalist.org/journal/7/rosselliDelTurco/>(2014-10-19).</bibl>
+               <bibl>Rosselli Del Turco, Roberto (at press). «The battle we forgot to fight: Should
+                  we make a case for digital editions?». In: Driscoll, Matthew; Pierazzo, Elena (a
+                  cura di), Digital Scholarly Editing: Theory, Practice and Future Perspectives.
+                  Cambridge: Open Book Publishers.</bibl>
+               <bibl>Rosselli Del Turco, Roberto; Masotti, Raffaele (2013). «Edition Visualization
+                  Technology: Digital Edition Visualization Software». Disponibile all’indirizzo
+                  http://sourceforge.net/projects/evt-project/>(2014-10-11).</bibl>
+               <bibl>Shillingsburg, Peter L. (1996). «Electronic Editions». In: Id., Scholarly
+                  Editing in the Computer Age: Theory and Practice. 3a ed. Ann Arbor: University of
+                  Michigan Press.</bibl>
+               <bibl>Siemens, Ray; Timney, Meagan; Leitch, Cara; Koolen, Corina; Garnett, Alex
+                  (2012). «Toward Modeling the Social Edition: An Approach to Understanding the
+                  Electronic Scholarly Edition in the Context of New and Emerging Social Media».
+                  Literary and Linguistic Computing, 27 (4), pp. 445–461.</bibl>
+               <bibl>Stolz, Michael (2005). Die St. Galler Nibelungenhandschrift [Epenhandschrift]:
+                  Parzival, Nibelungenlied und Klage, Karl, Willehalm. Faksimile des Codex 857 der
+                  Stiftsbibliothek St. Gallen und zugehöriger Fragmente. CD-ROM with booklet =
+                  Codices Electronici Sangallenses 1. 2a ed. St-Gall: Abbey Library.</bibl>
+               <bibl>Stolz, Michael (2011). «Benutzerführung in digitalen Editionen. Erfahrungen aus
+                  dem Parzival-Projekt». In: Fritze, Christiane et al. (Hrsgg.), Digitale Edition
+                  und Forschungsbibliothek. Beiträge der Fachtagung im Philosophicum der Universität
+                  Mainz am 13. und 14. Januar 2011 = Bibliothek und Wissenschaft 44. Wiesbaden:
+                  Harrassowitz Verlag, pp. 49–80.</bibl>
+               <bibl>Sutherland, Kathryn (a cura di) (1997). Electronic Text: Investigation in
+                  Method and Theory. Oxford: Clarendon Press.</bibl>
+               <bibl>Tomasi, Francesca (2012). «L’edizione digitale e la rappresentazione della
+                  conoscenza. Un esempio: Vespasiano da Bisticci e le sue lettere». Ecdotica, 9, pp.
+                  264–286.</bibl>
+               <bibl>Turville-Petre, Thorlac (2013). «Editing Electronic Texts». In: Gillespie,
+                  Vincent; Hudson, Anne (a cura di), Probable Truth. Editing Medieval Texts from
+                  Britain in the Twenty-First Century. Turnhout: Brepols, pp. 55-70.</bibl>
+
+            </listBibl>
+
+
+
+         </listBibl>
+
+      </body>
+   </text>
+</TEI>
